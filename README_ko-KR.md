@@ -87,20 +87,21 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 | 지표 | 수 |
 |--------|-------|
 | 📝 총 프롬프트 수 | **108** |
-| ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 12월 17일 수요일 오후 12시 19분 14초 UTC** |
+| ⭐ 추천 | **1** |
+| 🔄 마지막 업데이트 | **2025년 12월 17일 수요일 오후 4시 13분 37초 UTC** |
 
 </div>
 
 ---
 
-## 📋 모든 프롬프트
+## 🔥 추천 프롬프트
 
-> 📝 게시일 기준 정렬(최신순)
+> ⭐ 팀이 뛰어난 품질과 창의성을 위해 엄선
 
 ### No. 1: 사진 생성을 위한 캐릭터 외형 개선
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 설명
 
@@ -117,19 +118,19 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="사진 생성을 위한 캐릭터 외형 개선 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="사진 생성을 위한 캐릭터 외형 개선 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="사진 생성을 위한 캐릭터 외형 개선 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="사진 생성을 위한 캐릭터 외형 개선 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="사진 생성을 위한 캐릭터 외형 개선 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="사진 생성을 위한 캐릭터 외형 개선 - Image 3">
 </div>
 
 #### 📌 상세 정보
@@ -143,7 +144,11 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 2: 떨어지면서 깨지는 찻잔의 4컷 이미지
+## 📋 모든 프롬프트
+
+> 📝 게시일 기준 정렬(최신순)
+
+### No. 1: 떨어지면서 깨지는 찻잔의 4컷 이미지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +188,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 3: 피보나치 수열을 수학 및 코드로 설명하는 인포그래픽
+### No. 2: 피보나치 수열을 수학 및 코드로 설명하는 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -216,7 +221,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 4: 다크 모드 크리스마스 선물 웹사이트 UI 디자인
+### No. 3: 다크 모드 크리스마스 선물 웹사이트 UI 디자인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -249,7 +254,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 5: 샘 알트만의 플래시 터뜨린 셀카
+### No. 4: 샘 알트만의 플래시 터뜨린 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -288,7 +293,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 6: 소녀들을 위한 예술적인 인물 사진 편집 (이미지-투-이미지)
+### No. 5: 소녀들을 위한 예술적인 인물 사진 편집 (이미지-투-이미지)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -340,7 +345,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 7: 새해 전야 시부야 스크램블 교차로의 아름다운 일본 여성
+### No. 6: 새해 전야 시부야 스크램블 교차로의 아름다운 일본 여성
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -380,7 +385,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 8: 기술 CEO들의 필터 없는 아마추어 거울 셀카
+### No. 7: 기술 CEO들의 필터 없는 아마추어 거울 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -419,7 +424,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 9: 조각상 사진에 기술 도면 오버레이
+### No. 8: 조각상 사진에 기술 도면 오버레이
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -465,7 +470,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 10: 새해 전야 카운트다운 시부야 교차로 항공 사진
+### No. 9: 새해 전야 카운트다운 시부야 교차로 항공 사진
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -504,7 +509,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 11: 초현실적인 신원 잠금을 위한 복잡한 JSON 프롬프트
+### No. 10: 초현실적인 신원 잠금을 위한 복잡한 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -638,7 +643,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 12: 이미지를 흑백 손그림 스케치로 변환
+### No. 11: 이미지를 흑백 손그림 스케치로 변환
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +694,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 13: Minecraft 리미널 스페이스 이미지
+### No. 12: Minecraft 리미널 스페이스 이미지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +727,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 14: 반사 효과를 활용한 시네마틱 패션 인물 사진
+### No. 13: 반사 효과를 활용한 시네마틱 패션 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,7 +760,7 @@ GPT-Image-1.5의 이미지 향상 및 일관성 기능을 테스트하는 데 �
 
 ---
 
-### No. 15: 탑다운 단체 사진 구도 테스트
+### No. 14: 탑다운 단체 사진 구도 테스트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -795,7 +800,7 @@ GPT Image 1.5와 Nano Banana Pro의 구성 및 스타일을 비교하기 위해 
 
 ---
 
-### No. 16: 냉장고 자석을 이용한 시스템 프롬프트 추출
+### No. 15: 냉장고 자석을 이용한 시스템 프롬프트 추출
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -828,7 +833,7 @@ GPT Image 1.5와 Nano Banana Pro의 구성 및 스타일을 비교하기 위해 
 
 ---
 
-### No. 17: '고릴라의 손아귀' 이미지 생성 프롬프트
+### No. 16: '고릴라의 손아귀' 이미지 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -861,7 +866,7 @@ GPT Image 1.5를 테스트하는 데 사용된 프롬프트로, 유행하는 문
 
 ---
 
-### No. 18: 조 로건 팟캐스트: 그레이 외계인 편
+### No. 17: 조 로건 팟캐스트: 그레이 외계인 편
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +899,7 @@ GPT Image 1.5를 테스트하는 데 사용된 프롬프트로, 유행하는 문
 
 ---
 
-### No. 19: 전문 스튜디오 프로필 사진 생성
+### No. 18: 전문 스튜디오 프로필 사진 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +932,7 @@ GPT Image 1.5를 테스트하는 데 사용된 프롬프트로, 유행하는 문
 
 ---
 
-### No. 20: 54개 주로 이루어진 현실적인 미국 지도
+### No. 19: 54개 주로 이루어진 현실적인 미국 지도
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -960,7 +965,7 @@ GPT Image 1.5를 테스트하는 데 사용된 프롬프트로, 유행하는 문
 
 ---
 
-### No. 21: 스타일리시한 젊은 남성의 HD 사진
+### No. 20: 스타일리시한 젊은 남성의 HD 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +998,7 @@ GPT Image 1.5를 테스트하는 데 사용된 프롬프트로, 유행하는 문
 
 ---
 
-### No. 22: 고양이, 개, 쥐가 영화를 보는 중
+### No. 21: 고양이, 개, 쥐가 영화를 보는 중
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +1031,7 @@ GPT Image 1.5를 테스트하는 데 사용된 프롬프트로, 유행하는 문
 
 ---
 
-### No. 23: 미래의 밥 로스 스타일 그림
+### No. 22: 미래의 밥 로스 스타일 그림
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1059,7 +1064,7 @@ AI에게 밥 로스(Bob Ross)의 독특한 '행복한 작은 나무들(happy-lit
 
 ---
 
-### No. 24: 걱정 없는 여름 해변 미학 사진
+### No. 23: 걱정 없는 여름 해변 미학 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,7 +1107,7 @@ AI에게 밥 로스(Bob Ross)의 독특한 '행복한 작은 나무들(happy-lit
 
 ---
 
-### No. 25: 훌륭한 이미지 프롬프트 작성을 위한 손으로 그린 인포그래픽
+### No. 24: 훌륭한 이미지 프롬프트 작성을 위한 손으로 그린 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1135,7 +1140,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 ---
 
-### No. 26: 애니메이션 스타일의 의인화된 AI 서비스
+### No. 25: 애니메이션 스타일의 의인화된 AI 서비스
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1176,7 +1181,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 ---
 
-### No. 27: 9가지 예술적 스타일을 비교하는 멀티컷 이미지 생성
+### No. 26: 9가지 예술적 스타일을 비교하는 멀티컷 이미지 생성
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1228,7 +1233,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 ---
 
-### No. 28: 문자 일관성 테스트를 위한 복합 표현 변환
+### No. 27: 문자 일관성 테스트를 위한 복합 표현 변환
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1279,7 +1284,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 ---
 
-### No. 29: 물에 잠긴 도시에서 빛을 내는 잉어를 타고 있는 중국풍 소녀
+### No. 28: 물에 잠긴 도시에서 빛을 내는 잉어를 타고 있는 중국풍 소녀
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1318,7 +1323,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 ---
 
-### No. 30: 선사 시대 배경의 옵티머스 프라임 비디오 게임 포스터
+### No. 29: 선사 시대 배경의 옵티머스 프라임 비디오 게임 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1356,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 ---
 
-### No. 31: 이미지 편집 프롬프트: 셔츠 추가
+### No. 30: 이미지 편집 프롬프트: 셔츠 추가
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1384,7 +1389,7 @@ Sam Altman에게 보내는 간단한 이미지 편집 프롬프트로, 기존 �
 
 ---
 
-### No. 32: 현대적인 도시 풍경 속 도쿄 타워를 들고 있는 거인
+### No. 31: 현대적인 도시 풍경 속 도쿄 타워를 들고 있는 거인
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1423,7 +1428,7 @@ GPT Image 1.5와 Gemini Nano banana Pro를 비교하는 매우 상세한 포토�
 
 ---
 
-### No. 33: 대상을 꼬마 캐릭터 스타일로 변환하기
+### No. 32: 대상을 꼬마 캐릭터 스타일로 변환하기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1456,7 +1461,7 @@ GPT Image 1.5와 Gemini Nano banana Pro를 비교하는 매우 상세한 포토�
 
 ---
 
-### No. 34: 텍스트, 미세 상호작용 및 조명 충돌이 있는 복잡한 장면
+### No. 33: 텍스트, 미세 상호작용 및 조명 충돌이 있는 복잡한 장면
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1493,7 +1498,7 @@ GPT Image 1.5의 지시 준수 능력을 테스트하기 위해 고안된 복잡
 
 ---
 
-### No. 35: HTML/CSS 설명 다이어그램을 위한 이미지 생성 프롬프트
+### No. 34: HTML/CSS 설명 다이어그램을 위한 이미지 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1528,7 +1533,7 @@ HTML과 CSS를 매우 쉽게 이해할 수 있는 다이어그램 이미지를 �
 
 ---
 
-### No. 36: Opus 4.5의 비전: 어두운 바다 위 빛의 형상
+### No. 35: Opus 4.5의 비전: 어두운 바다 위 빛의 형상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1566,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 
 ---
 
-### No. 37: 재구성된 이미지 프롬프트
+### No. 36: 재구성된 이미지 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1599,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 
 ---
 
-### No. 38: 고양이의 사실적인 사진
+### No. 37: 고양이의 사실적인 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1633,7 +1638,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 
 ---
 
-### No. 39: 실감 나는 역사적 iPhone 사진 생성
+### No. 38: 실감 나는 역사적 iPhone 사진 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1672,7 +1677,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 
 ---
 
-### No. 40: YouTube 썸네일 비교: 사람의 노력 vs. AI 효율성
+### No. 39: YouTube 썸네일 비교: 사람의 노력 vs. AI 효율성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1712,7 +1717,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 
 ---
 
-### No. 41: 숨겨진 단어 이미지 프롬프트: 'zsakib' in a Pride of Lions
+### No. 40: 숨겨진 단어 이미지 프롬프트: 'zsakib' in a Pride of Lions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1746,7 +1751,7 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 
 ---
 
-### No. 42: 미국 페니 동전 위의 매크로 포토리얼 디오라마
+### No. 41: 미국 페니 동전 위의 매크로 포토리얼 디오라마
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1785,7 +1790,7 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 
 ---
 
-### No. 43: 이 두 사진을 결합하기 (이미지-투-이미지)
+### No. 42: 이 두 사진을 결합하기 (이미지-투-이미지)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1824,7 +1829,7 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 
 ---
 
-### No. 44: 하얀 드레스를 입은 여성의 실사 이미지
+### No. 43: 하얀 드레스를 입은 여성의 실사 이미지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1857,7 +1862,7 @@ GPT-Image 1.5의 고도로 사실적인 시각 자료 생성 기능을 보여주
 
 ---
 
-### No. 45: 스릴러 앨범 커버의 남자
+### No. 44: 스릴러 앨범 커버의 남자
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1896,7 +1901,7 @@ GPT-Image 1.5의 고도로 사실적인 시각 자료 생성 기능을 보여주
 
 ---
 
-### No. 46: Fortnite 트럼프 스킨 선택 메뉴 스크린샷
+### No. 45: Fortnite 트럼프 스킨 선택 메뉴 스크린샷
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +1935,7 @@ GPT-Image 1.5의 고도로 사실적인 시각 자료 생성 기능을 보여주
 
 ---
 
-### No. 47: 그녀의 사실적인 사진 만들기 (반복적인 개선)
+### No. 46: 그녀의 사실적인 사진 만들기 (반복적인 개선)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1970,7 +1975,7 @@ GPT-Image 1.5의 고도로 사실적인 시각 자료 생성 기능을 보여주
 
 ---
 
-### No. 48: GPT 이미지 1.5 축하 일러스트 프롬프트
+### No. 47: GPT 이미지 1.5 축하 일러스트 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2004,7 +2009,7 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 
 ---
 
-### No. 49: 실사 햄버거 반은 유리, 반은 일반
+### No. 48: 실사 햄버거 반은 유리, 반은 일반
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2043,7 +2048,7 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 
 ---
 
-### No. 50: 현대적인 테크 인플루언서 포스터 디자인
+### No. 49: 현대적인 테크 인플루언서 포스터 디자인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,7 +2086,7 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 
 ---
 
-### No. 51: 빨간색/어두운색/사악한 GitHub 로고 (스크린샷 포함)
+### No. 50: 빨간색/어두운색/사악한 GitHub 로고 (스크린샷 포함)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2115,7 +2120,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 ---
 
-### No. 52: 이미지 편집: 얼굴 스타일 변환 구름
+### No. 51: 이미지 편집: 얼굴 스타일 변환 구름
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2154,7 +2159,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 ---
 
-### No. 53: 극도로 사실적인 미니멀리즘 결혼 이미지
+### No. 52: 극도로 사실적인 미니멀리즘 결혼 이미지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2205,7 +2210,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 ---
 
-### No. 54: 초현실적인 편집용 우발적 낙상 포즈
+### No. 53: 초현실적인 편집용 우발적 낙상 포즈
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2325,7 +2330,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 ---
 
-### No. 55: OpenAI 역사 인포그래픽
+### No. 54: OpenAI 역사 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2369,7 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 
 ---
 
-### No. 56: 아랍어 음식 주문을 위한 다중 패널 이미지
+### No. 55: 아랍어 음식 주문을 위한 다중 패널 이미지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2403,7 +2408,7 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 
 ---
 
-### No. 57: 사실적인 피부 질감의 초근접 인물 사진
+### No. 56: 사실적인 피부 질감의 초근접 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2483,7 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 
 ---
 
-### No. 58: 랜드마크 항공 뷰
+### No. 57: 랜드마크 항공 뷰
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +2516,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 
 ---
 
-### No. 59: 일본 애니메이션 스타일의 심해 생물 포스터
+### No. 58: 일본 애니메이션 스타일의 심해 생물 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2555,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 
 ---
 
-### No. 60: NYC 거리의 거대한 산타클로스 (구조화된 프롬프트)
+### No. 59: NYC 거리의 거대한 산타클로스 (구조화된 프롬프트)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2630,7 +2635,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 
 ---
 
-### No. 61: 극사실주의 불교 승려 명상 장면
+### No. 60: 극사실주의 불교 승려 명상 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2673,7 +2678,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 
 ---
 
-### No. 62: 사진 복원 및 탈모 변형
+### No. 61: 사진 복원 및 탈모 변형
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2706,7 +2711,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 
 ---
 
-### No. 63: ChatGPT 이미지 1.5 인포그래픽
+### No. 62: ChatGPT 이미지 1.5 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2739,7 +2744,7 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 
 ---
 
-### No. 64: 일론 머스크와 샘 알트만의 양극화된 셀카
+### No. 63: 일론 머스크와 샘 알트만의 양극화된 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2779,7 +2784,7 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 
 ---
 
-### No. 65: 콘텐츠로 시각적으로 멋진 슬라이드 생성
+### No. 64: 콘텐츠로 시각적으로 멋진 슬라이드 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2812,7 +2817,7 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 
 ---
 
-### No. 66: Office 스타일의 판매 흐름도 인포그래픽
+### No. 65: Office 스타일의 판매 흐름도 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2845,7 +2850,7 @@ Dunder Mifflin 영업 사원이 영업 통화 시 따를 수 있는 인포그래
 
 ---
 
-### No. 67: 캐릭터 감정 생성 테스트
+### No. 66: 캐릭터 감정 생성 테스트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2890,7 +2895,7 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 원본 
 
 ---
 
-### No. 68: 문자 대체 편집 프롬프트
+### No. 67: 문자 대체 편집 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2923,7 +2928,7 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 원본 
 
 ---
 
-### No. 69: Nike를 위한 Apple 스타일 웹사이트 디자인
+### No. 68: Nike를 위한 Apple 스타일 웹사이트 디자인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2963,7 +2968,7 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 원본 
 
 ---
 
-### No. 70: 이미지 편집: 45도 회전
+### No. 69: 이미지 편집: 45도 회전
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3002,7 +3007,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 ---
 
-### No. 71: 라면을 먹는 캐릭터
+### No. 70: 라면을 먹는 캐릭터
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3041,7 +3046,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 ---
 
-### No. 72: 특정 헤드라인이 실린 신문을 들고 있는 사람
+### No. 71: 특정 헤드라인이 실린 신문을 들고 있는 사람
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3081,7 +3086,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 ---
 
-### No. 73: 지루해하는 인도 정치인들과 지친 개
+### No. 72: 지루해하는 인도 정치인들과 지친 개
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3121,7 +3126,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 ---
 
-### No. 74: 극사실주의 고양이 사진
+### No. 73: 극사실주의 고양이 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3160,7 +3165,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 ---
 
-### No. 75: iPhone 분해도 기술 다이어그램
+### No. 74: iPhone 분해도 기술 다이어그램
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3199,7 +3204,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 ---
 
-### No. 76: 2000년대 필름 카메라 스타일 사진
+### No. 75: 2000년대 필름 카메라 스타일 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3232,7 +3237,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 77: GPT Image 1.5의 다인원 기능 유지 테스트
+### No. 76: GPT Image 1.5의 다인원 기능 유지 테스트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3266,7 +3271,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 78: 텍스트-이미지 프롬프트: 가을 낙엽 속 호기심 많은 고양이
+### No. 77: 텍스트-이미지 프롬프트: 가을 낙엽 속 호기심 많은 고양이
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3299,7 +3304,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 79: 복잡한 텍스트 및 다이어그램 프롬프트 (스크린샷)
+### No. 78: 복잡한 텍스트 및 다이어그램 프롬프트 (스크린샷)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3338,7 +3343,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 80: 축구 선수 프롬프트 (스크린샷)
+### No. 79: 축구 선수 프롬프트 (스크린샷)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3383,7 +3388,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 81: 그리드 이미지에서 스틸 이미지 추출하기
+### No. 80: 그리드 이미지에서 스틸 이미지 추출하기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3422,7 +3427,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 82: 2x2 캐치 앤 쿡 프롬프트 (스크린샷)
+### No. 81: 2x2 캐치 앤 쿡 프롬프트 (스크린샷)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3468,7 +3473,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 83: 갈라타 다리 위 어부와 고양이 다큐멘터리 사진
+### No. 82: 갈라타 다리 위 어부와 고양이 다큐멘터리 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3507,7 +3512,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 84: 텍스트 렌더링 테스트를 포함한 디스토피아 포스터 프롬프트
+### No. 83: 텍스트 렌더링 테스트를 포함한 디스토피아 포스터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3541,7 +3546,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 85: 나만의 유희왕 카드 생성
+### No. 84: 나만의 유희왕 카드 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3580,7 +3585,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 86: 킹콩의 초정밀 종이접기 설계도
+### No. 85: 킹콩의 초정밀 종이접기 설계도
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3619,7 +3624,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 87: 번호 매기기를 통한 3x3 그리드 장면 생성
+### No. 86: 번호 매기기를 통한 3x3 그리드 장면 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3658,7 +3663,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 88: 종이 기반 텍스트 생성 테스트
+### No. 87: 종이 기반 텍스트 생성 테스트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3693,7 +3698,7 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 
 ---
 
-### No. 89: 런던 거리에 앉아 있는 거대한 남자
+### No. 88: 런던 거리에 앉아 있는 거대한 남자
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3732,7 +3737,7 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 
 ---
 
-### No. 90: 갈라타 다리 위 어부들의 영화 같은 실루엣
+### No. 89: 갈라타 다리 위 어부들의 영화 같은 실루엣
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3771,7 +3776,7 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 
 ---
 
-### No. 91: 3D Q-버전 및 2D 일러스트레이션 인물 셀카
+### No. 90: 3D Q-버전 및 2D 일러스트레이션 인물 셀카
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3804,7 +3809,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 92: 무대 위에서 포즈를 취하는 일곱 명의 마법 소녀
+### No. 91: 무대 위에서 포즈를 취하는 일곱 명의 마법 소녀
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3843,7 +3848,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 93: 과장된 포즈의 어안 그룹 사진
+### No. 92: 과장된 포즈의 어안 그룹 사진
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3876,7 +3881,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 94: 1960년대 만화책 팝아트 초상화
+### No. 93: 1960년대 만화책 팝아트 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3909,7 +3914,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 95: 연꽃 장면을 위한 간단한 이미지 생성 프롬프트
+### No. 94: 연꽃 장면을 위한 간단한 이미지 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3963,7 +3968,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 96: 샘, 일리야, 그리고 강아지의 2000년대 필름 카메라 사진
+### No. 95: 샘, 일리야, 그리고 강아지의 2000년대 필름 카메라 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3996,7 +4001,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 97: 캐릭터 의상 색상 변경
+### No. 96: 캐릭터 의상 색상 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4042,7 +4047,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 98: 새벽의 고요한 호수
+### No. 97: 새벽의 고요한 호수
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4075,7 +4080,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 99: 만화 캐릭터 작업 완료 프롬프트
+### No. 98: 만화 캐릭터 작업 완료 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4108,7 +4113,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 100: 전장에서 전투 자세를 취한 전사
+### No. 99: 전장에서 전투 자세를 취한 전사
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4141,7 +4146,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 101: Y2K 스트리트웨어 패션 화보 인물 사진 (JSON 형식)
+### No. 100: Y2K 스트리트웨어 패션 화보 인물 사진 (JSON 형식)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4249,7 +4254,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 102: GPT 5.1 인스턴트용 아트워크 설명
+### No. 101: GPT 5.1 인스턴트용 아트워크 설명
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4282,7 +4287,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 103: 특정 인물 및 구도에 따른 극사실주의 초상화
+### No. 102: 특정 인물 및 구도에 따른 극사실주의 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4327,7 +4332,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 104: 고전 한시 기반의 실사 이미지 생성
+### No. 103: 고전 한시 기반의 실사 이미지 생성
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4366,7 +4371,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 105: 자수 및 볼펜 질감으로 표현한 듀얼 스타일 예술 스케치
+### No. 104: 자수 및 볼펜 질감으로 표현한 듀얼 스타일 예술 스케치
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4418,7 +4423,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 106: 카사 지장 민담 일러스트 프롬프트
+### No. 105: 카사 지장 민담 일러스트 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4452,7 +4457,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 107: 상세한 '남자친구 시점' 인물화 복제 프롬프트
+### No. 106: 상세한 '남자친구 시점' 인물화 복제 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4533,7 +4538,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 108: 이미지 편집: 자동차 및 배경 변형
+### No. 107: 이미지 편집: 자동차 및 배경 변형
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4610,6 +4615,6 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-17T12:19:14.029Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-17T16:13:37.186Z</sub>
 
 </div>

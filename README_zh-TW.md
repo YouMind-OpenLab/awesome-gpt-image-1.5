@@ -87,20 +87,21 @@ by {argument name="author" default="Steve Jobs"}
 | 指標 | 數量 |
 |--------|-------|
 | 📝 提示詞總數 | **108** |
-| ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月17日 星期三 中午12:19:12 [UTC]** |
+| ⭐ 精選 | **1** |
+| 🔄 最後更新 | **2025年12月17日 星期三 下午4:13:35 [UTC]** |
 
 </div>
 
 ---
 
-## 📋 所有提示詞
+## 🔥 精選提示詞
 
-> 📝 按發布日期排序（最新優先）
+> ⭐ 由我們的團隊精心挑選，具有卓越的質量和創造力
 
 ### No. 1: 提升攝影生成中的角色外觀
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 描述
 
@@ -117,19 +118,19 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="提升攝影生成中的角色外觀 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="提升攝影生成中的角色外觀 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="提升攝影生成中的角色外觀 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="提升攝影生成中的角色外觀 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="提升攝影生成中的角色外觀 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="提升攝影生成中的角色外觀 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -143,7 +144,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: 茶杯墜落碎裂的四格圖像
+## 📋 所有提示詞
+
+> 📝 按發布日期排序（最新優先）
+
+### No. 1: 茶杯墜落碎裂的四格圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +188,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: 用數學和程式碼解釋費波那契數列的資訊圖表
+### No. 2: 用數學和程式碼解釋費波那契數列的資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -216,7 +221,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: 深色模式聖誕禮物網站 UI 設計
+### No. 3: 深色模式聖誕禮物網站 UI 設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -249,7 +254,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 5: Sam Altman 的閃電自拍
+### No. 4: Sam Altman 的閃電自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -288,7 +293,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 6: 女孩藝術肖像編輯 (圖像轉圖像)
+### No. 5: 女孩藝術肖像編輯 (圖像轉圖像)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -340,7 +345,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 7: 在除夕夜澀谷十字路口的美麗日本女性
+### No. 6: 在除夕夜澀谷十字路口的美麗日本女性
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -380,7 +385,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 8: 科技業執行長們未經修飾的業餘鏡中自拍
+### No. 7: 科技業執行長們未經修飾的業餘鏡中自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -419,7 +424,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 9: 雕像照片上的技術示意圖疊加
+### No. 8: 雕像照片上的技術示意圖疊加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -465,7 +470,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 10: 新年倒數時澀谷路口空拍圖
+### No. 9: 新年倒數時澀谷路口空拍圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -504,7 +509,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 11: 用於超真實身份鎖定的複雜 JSON 提示
+### No. 10: 用於超真實身份鎖定的複雜 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -638,7 +643,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 12: 將圖像轉換為單色手繪素描
+### No. 11: 將圖像轉換為單色手繪素描
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +694,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 13: Minecraft 迷失空間圖片
+### No. 12: Minecraft 迷失空間圖片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +727,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 14: 電影感時尚人像攝影，帶有倒影
+### No. 13: 電影感時尚人像攝影，帶有倒影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,7 +760,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 15: 由上而下的團體照構圖測試
+### No. 14: 由上而下的團體照構圖測試
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -795,7 +800,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 16: 透過冰箱磁鐵引導系統提示
+### No. 15: 透過冰箱磁鐵引導系統提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -828,7 +833,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 17: 「大猩猩的掌握」圖像生成提示
+### No. 16: 「大猩猩的掌握」圖像生成提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -861,7 +866,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 18: Joe Rogan Podcast 與灰人外星人
+### No. 17: Joe Rogan Podcast 與灰人外星人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +899,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 19: 專業攝影棚個人照生成
+### No. 18: 專業攝影棚個人照生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +932,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 20: 包含 54 個州的美國擬真地圖
+### No. 19: 包含 54 個州的美國擬真地圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -960,7 +965,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 21: 時尚年輕男士的高清照片
+### No. 20: 時尚年輕男士的高清照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +998,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 22: 貓、狗和老鼠看電影
+### No. 21: 貓、狗和老鼠看電影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +1031,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 23: 鮑勃·羅斯風格的未來畫作
+### No. 22: 鮑勃·羅斯風格的未來畫作
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1059,7 +1064,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 24: 無憂夏日海灘美學照片
+### No. 23: 無憂夏日海灘美學照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,7 +1107,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 25: 手繪資訊圖表：撰寫出色的圖像提示
+### No. 24: 手繪資訊圖表：撰寫出色的圖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1135,7 +1140,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 26: 動漫風格的擬人化 AI 服務
+### No. 25: 動漫風格的擬人化 AI 服務
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1176,7 +1181,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 27: 多重剪裁圖像生成，比較 9 種不同藝術風格
+### No. 26: 多重剪裁圖像生成，比較 9 種不同藝術風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1228,7 +1233,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 28: 複雜表達式轉換以進行字元一致性測試
+### No. 27: 複雜表達式轉換以進行字元一致性測試
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1279,7 +1284,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 29: 中國風女孩騎乘生物螢光錦鯉於水下城市
+### No. 28: 中國風女孩騎乘生物螢光錦鯉於水下城市
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1318,7 +1323,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 30: 柯博文電玩海報：史前時代背景
+### No. 29: 柯博文電玩海報：史前時代背景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1356,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 31: 圖片編輯提示：新增一件襯衫
+### No. 30: 圖片編輯提示：新增一件襯衫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1384,7 +1389,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 32: 巨人在現代都市中手持東京鐵塔
+### No. 31: 巨人在現代都市中手持東京鐵塔
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1423,7 +1428,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 33: 將主題轉化為 Q 版角色
+### No. 32: 將主題轉化為 Q 版角色
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1456,7 +1461,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 34: 包含文字、微互動和光線衝突的複雜場景
+### No. 33: 包含文字、微互動和光線衝突的複雜場景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1493,7 +1498,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 35: HTML/CSS 解釋圖的圖像生成提示
+### No. 34: HTML/CSS 解釋圖的圖像生成提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1528,7 +1533,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 36: Opus 4.5 的願景：黑暗海洋中的光之形體
+### No. 35: Opus 4.5 的願景：黑暗海洋中的光之形體
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1566,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 37: 重建的圖像提示
+### No. 36: 重建的圖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1599,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 38: 貓咪的寫實照片
+### No. 37: 貓咪的寫實照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1633,7 +1638,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 39: 逼真的歷史 iPhone 照片生成
+### No. 38: 逼真的歷史 iPhone 照片生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1672,7 +1677,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 40: YouTube 縮圖比較：人工製作與 AI 效率
+### No. 39: YouTube 縮圖比較：人工製作與 AI 效率
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1712,7 +1717,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 41: 隱藏文字圖像提示：「zsakib」在獅群中
+### No. 40: 隱藏文字圖像提示：「zsakib」在獅群中
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1746,7 +1751,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 42: 美國一分錢硬幣上的微距寫實立體模型
+### No. 41: 美國一分錢硬幣上的微距寫實立體模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1785,7 +1790,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 43: 合併這兩張照片（圖片轉圖片）
+### No. 42: 合併這兩張照片（圖片轉圖片）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1824,7 +1829,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 44: 穿著白色洋裝的女性寫實圖像
+### No. 43: 穿著白色洋裝的女性寫實圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1857,7 +1862,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 45: 《Thriller》專輯封面人物
+### No. 44: 《Thriller》專輯封面人物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1896,7 +1901,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 46: Fortnite 特朗普造型選擇器選單截圖
+### No. 45: Fortnite 特朗普造型選擇器選單截圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +1935,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 47: 創造她的逼真照片 (疊代優化)
+### No. 46: 創造她的逼真照片 (疊代優化)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1970,7 +1975,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 48: GPT 圖片 1.5 慶祝插畫提示
+### No. 47: GPT 圖片 1.5 慶祝插畫提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2004,7 +2009,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 49: 寫實漢堡：一半玻璃，一半正常
+### No. 48: 寫實漢堡：一半玻璃，一半正常
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2043,7 +2048,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 50: 現代科技影響者海報設計
+### No. 49: 現代科技影響者海報設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,7 +2086,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 51: 紅色/深色/邪惡 GitHub 標誌與螢幕截圖
+### No. 50: 紅色/深色/邪惡 GitHub 標誌與螢幕截圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2115,7 +2120,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 52: 圖像編輯：雲朵人臉風格轉換
+### No. 51: 圖像編輯：雲朵人臉風格轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2154,7 +2159,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 53: 極度逼真的極簡主義婚姻圖像
+### No. 52: 極度逼真的極簡主義婚姻圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2205,7 +2210,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 54: 超寫實編輯意外跌倒姿勢
+### No. 53: 超寫實編輯意外跌倒姿勢
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2325,7 +2330,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 55: OpenAI 歷史資訊圖表
+### No. 54: OpenAI 歷史資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2369,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 56: 用於阿拉伯語點餐的多面板圖像
+### No. 55: 用於阿拉伯語點餐的多面板圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2403,7 +2408,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 57: 極近距離特寫肖像，呈現逼真肌膚紋理
+### No. 56: 極近距離特寫肖像，呈現逼真肌膚紋理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2483,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 58: 地標空拍圖
+### No. 57: 地標空拍圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +2516,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 59: 日式動漫風格深海生物海報
+### No. 58: 日式動漫風格深海生物海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2555,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 60: 紐約大道上的巨型聖誕老人（結構化提示）
+### No. 59: 紐約大道上的巨型聖誕老人（結構化提示）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2634,7 +2639,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 61: 超寫實佛教僧侶冥想場景
+### No. 60: 超寫實佛教僧侶冥想場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2677,7 +2682,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 62: 照片修復與禿頭變髮
+### No. 61: 照片修復與禿頭變髮
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2710,7 +2715,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 63: ChatGPT 圖片 1.5 資訊圖表
+### No. 62: ChatGPT 圖片 1.5 資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2743,7 +2748,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 64: Elon Musk 和 Sam Altman 的兩極化自拍
+### No. 63: Elon Musk 和 Sam Altman 的兩極化自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2783,7 +2788,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 65: 從內容生成視覺震撼的投影片
+### No. 64: 從內容生成視覺震撼的投影片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2816,7 +2821,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 66: Office 風格銷售流程圖資訊圖表
+### No. 65: Office 風格銷售流程圖資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2849,7 +2854,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 67: 角色情緒生成測試
+### No. 66: 角色情緒生成測試
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2894,7 +2899,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 68: 字元替換編輯提示
+### No. 67: 字元替換編輯提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2927,7 +2932,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 69: 為 Nike 設計 Apple 風格的網站
+### No. 68: 為 Nike 設計 Apple 風格的網站
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2967,7 +2972,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 70: 圖片編輯：旋轉 45 度
+### No. 69: 圖片編輯：旋轉 45 度
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3006,7 +3011,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 71: 角色吃拉麵
+### No. 70: 角色吃拉麵
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3045,7 +3050,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 72: 手持特定標題報紙的人
+### No. 71: 手持特定標題報紙的人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3085,7 +3090,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 73: 無聊的印度政客與疲憊的狗
+### No. 72: 無聊的印度政客與疲憊的狗
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3125,7 +3130,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 74: 超逼真貓咪照片
+### No. 73: 超逼真貓咪照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3164,7 +3169,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 75: iPhone 爆炸圖技術示意圖
+### No. 74: iPhone 爆炸圖技術示意圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3203,7 +3208,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 76: 2000 年代底片相機風格照片
+### No. 75: 2000 年代底片相機風格照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3236,7 +3241,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 77: GPT Image 1.5 的多人功能留存測試
+### No. 76: GPT Image 1.5 的多人功能留存測試
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3270,7 +3275,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 78: 文字轉圖片提示：秋葉中的好奇貓咪
+### No. 77: 文字轉圖片提示：秋葉中的好奇貓咪
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3303,7 +3308,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 79: 複雜文字與圖表提示 (螢幕截圖)
+### No. 78: 複雜文字與圖表提示 (螢幕截圖)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3342,7 +3347,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 80: 足球運動員提示 (螢幕截圖)
+### No. 79: 足球運動員提示 (螢幕截圖)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3387,7 +3392,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 81: 從網格影像中擷取靜態影像
+### No. 80: 從網格影像中擷取靜態影像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3426,7 +3431,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 82: 2x2 捕捉與烹飪提示 (螢幕截圖)
+### No. 81: 2x2 捕捉與烹飪提示 (螢幕截圖)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3472,7 +3477,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 83: 加拉達大橋上漁夫與貓的紀錄片照片
+### No. 82: 加拉達大橋上漁夫與貓的紀錄片照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3511,7 +3516,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 84: 帶有文字渲染測試的反烏托邦海報提示
+### No. 83: 帶有文字渲染測試的反烏托邦海報提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3545,7 +3550,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 85: 自訂遊戲王卡牌生成
+### No. 84: 自訂遊戲王卡牌生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3584,7 +3589,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 86: 金剛的超精細摺紙藍圖
+### No. 85: 金剛的超精細摺紙藍圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3623,7 +3628,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 87: 3x3 網格場景生成與編號
+### No. 86: 3x3 網格場景生成與編號
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3662,7 +3667,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 88: 在紙上進行文字生成測試
+### No. 87: 在紙上進行文字生成測試
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3697,7 +3702,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 89: 坐在倫敦街頭的巨型男子
+### No. 88: 坐在倫敦街頭的巨型男子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3736,7 +3741,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 90: 加拉達橋上漁民的電影剪影
+### No. 89: 加拉達橋上漁民的電影剪影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3775,7 +3780,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 91: 3D Q 版人物和 2D 插畫人物自拍
+### No. 90: 3D Q 版人物和 2D 插畫人物自拍
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3808,7 +3813,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 92: 七位魔法少女在舞台上擺姿勢
+### No. 91: 七位魔法少女在舞台上擺姿勢
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3847,7 +3852,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 93: 魚眼團體照搭配誇張姿勢
+### No. 92: 魚眼團體照搭配誇張姿勢
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3880,7 +3885,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 94: 1960 年代漫畫普普藝術肖像
+### No. 93: 1960 年代漫畫普普藝術肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3913,7 +3918,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 95: 蓮花場景的簡單圖像生成提示
+### No. 94: 蓮花場景的簡單圖像生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3967,7 +3972,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 96: 山姆、伊利亞和一隻狗的 2000 年代底片相機照片
+### No. 95: 山姆、伊利亞和一隻狗的 2000 年代底片相機照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4000,7 +4005,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 97: 角色服裝顏色變更
+### No. 96: 角色服裝顏色變更
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4046,7 +4051,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 98: 黎明時分的靜謐湖泊
+### No. 97: 黎明時分的靜謐湖泊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4079,7 +4084,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 99: 卡通人物任務完成提示
+### No. 98: 卡通人物任務完成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4112,7 +4117,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 100: 戰場上擺出戰鬥姿勢的戰士
+### No. 99: 戰場上擺出戰鬥姿勢的戰士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4145,7 +4150,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 101: Y2K 街頭服飾時尚編輯人像 (JSON 格式)
+### No. 100: Y2K 街頭服飾時尚編輯人像 (JSON 格式)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4253,7 +4258,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 102: GPT 5.1 Instant 的藝術作品描述
+### No. 101: GPT 5.1 Instant 的藝術作品描述
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4286,7 +4291,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 103: 具有特定相似度和構圖的超寫實肖像
+### No. 102: 具有特定相似度和構圖的超寫實肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4331,7 +4336,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 104: 基於古典詩詞的寫實圖像生成
+### No. 103: 基於古典詩詞的寫實圖像生成
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4370,7 +4375,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 105: 雙風格藝術素描：刺繡與原子筆紋理
+### No. 104: 雙風格藝術素描：刺繡與原子筆紋理
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4427,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 106: 笠地藏民間故事插畫提示
+### No. 105: 笠地藏民間故事插畫提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4456,7 +4461,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 107: 「男友視角」肖像畫複製提示詳情
+### No. 106: 「男友視角」肖像畫複製提示詳情
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4537,7 +4542,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 108: 圖像編輯：汽車與背景轉換
+### No. 107: 圖像編輯：汽車與背景轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4614,6 +4619,6 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-17T12:19:12.557Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-17T16:13:35.194Z</sub>
 
 </div>

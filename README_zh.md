@@ -87,20 +87,21 @@ by {argument name="author" default="Steve Jobs"}
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **108** |
-| ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年12月17日星期三 UTC 12:19:12** |
+| ⭐ 精选 | **1** |
+| 🔄 最后更新 | **2025年12月17日星期三 UTC 16:13:34** |
 
 </div>
 
 ---
 
-## 📋 所有提示词
+## 🔥 精选提示词
 
-> 📝 按发布日期排序（最新优先）
+> ⭐ 由我们的团队精心挑选，具有卓越的质量和创造力
 
 ### No. 1: 增强摄影生成中的角色外观
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 描述
 
@@ -117,19 +118,19 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="增强摄影生成中的角色外观 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="增强摄影生成中的角色外观 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="增强摄影生成中的角色外观 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="增强摄影生成中的角色外观 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="增强摄影生成中的角色外观 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="增强摄影生成中的角色外观 - Image 3">
 </div>
 
 #### 📌 详情
@@ -143,7 +144,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: 茶杯坠落并摔碎的四格图片
+## 📋 所有提示词
+
+> 📝 按发布日期排序（最新优先）
+
+### No. 1: 茶杯坠落并摔碎的四格图片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +188,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: 用数学和代码解释斐波那契数列的信息图
+### No. 2: 用数学和代码解释斐波那契数列的信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -216,7 +221,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: 深色模式圣诞节送礼网站 UI 设计
+### No. 3: 深色模式圣诞节送礼网站 UI 设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -249,7 +254,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 5: Flash-Fired Selfie of Sam Altman
+### No. 4: Flash-Fired Selfie of Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -288,7 +293,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 6: 女孩艺术肖像编辑（图像转图像）
+### No. 5: 女孩艺术肖像编辑（图像转图像）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -340,7 +345,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 7: 在新年夜涩谷十字路口的美丽日本女性
+### No. 6: 在新年夜涩谷十字路口的美丽日本女性
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -380,7 +385,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 8: 科技界 CEO 们未经修饰的业余镜面自拍
+### No. 7: 科技界 CEO 们未经修饰的业余镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -419,7 +424,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 9: 雕像照片上的技术示意图叠加
+### No. 8: 雕像照片上的技术示意图叠加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -465,7 +470,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 10: 新年前夜倒计时中的涩谷十字路口航拍图
+### No. 9: 新年前夜倒计时中的涩谷十字路口航拍图
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -504,7 +509,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 11: 用于超真实身份锁定的复杂 JSON 提示词
+### No. 10: 用于超真实身份锁定的复杂 JSON 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -638,7 +643,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 12: 将图像转换为单色手绘草图
+### No. 11: 将图像转换为单色手绘草图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +694,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 13: Minecraft 阈限空间图片
+### No. 12: Minecraft 阈限空间图片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +727,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 14: 电影感时尚肖像与倒影
+### No. 13: 电影感时尚肖像与倒影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,7 +760,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 15: 俯视团体照构图测试
+### No. 14: 俯视团体照构图测试
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -794,7 +799,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 16: 通过冰箱磁贴启发系统提示
+### No. 15: 通过冰箱磁贴启发系统提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -827,7 +832,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 17: “大猩猩的抓握”图像生成提示
+### No. 16: “大猩猩的抓握”图像生成提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -860,7 +865,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 18: Joe Rogan 播客：与灰人（Gray Alien）对话
+### No. 17: Joe Rogan 播客：与灰人（Gray Alien）对话
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -893,7 +898,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 19: 专业影棚风格形象照生成
+### No. 18: 专业影棚风格形象照生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -926,7 +931,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 20: 拥有 54 个州的美国真实地图
+### No. 19: 拥有 54 个州的美国真实地图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -959,7 +964,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 21: 时尚年轻男士高清照片
+### No. 20: 时尚年轻男士高清照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -992,7 +997,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 22: 猫、狗和老鼠看电影
+### No. 21: 猫、狗和老鼠看电影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1025,7 +1030,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 23: 未来风格的鲍勃·罗斯画作
+### No. 22: 未来风格的鲍勃·罗斯画作
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1058,7 +1063,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 24: 无忧夏日海滩美学照片
+### No. 23: 无忧夏日海滩美学照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,7 +1106,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 25: 手绘信息图：撰写优质图片提示词
+### No. 24: 手绘信息图：撰写优质图片提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1139,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 26: Anthropomorphic AI Services in Anime Style
+### No. 25: Anthropomorphic AI Services in Anime Style
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1175,7 +1180,7 @@ Expression:
 
 ---
 
-### No. 27: 多切图图像生成，比较 9 种不同的艺术风格
+### No. 26: 多切图图像生成，比较 9 种不同的艺术风格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1227,7 +1232,7 @@ Expression:
 
 ---
 
-### No. 28: 复杂表达式转换，用于字符一致性测试
+### No. 27: 复杂表达式转换，用于字符一致性测试
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1278,7 +1283,7 @@ Expression:
 
 ---
 
-### No. 29: 中国风女孩骑行在水下城市的发光锦鲤上
+### No. 28: 中国风女孩骑行在水下城市的发光锦鲤上
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1317,7 +1322,7 @@ Expression:
 
 ---
 
-### No. 30: 史前背景下的擎天柱视频游戏海报
+### No. 29: 史前背景下的擎天柱视频游戏海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1350,7 +1355,7 @@ Expression:
 
 ---
 
-### No. 31: 图片编辑提示：添加一件衬衫
+### No. 30: 图片编辑提示：添加一件衬衫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1383,7 +1388,7 @@ Expression:
 
 ---
 
-### No. 32: 巨人在现代都市中手持东京塔
+### No. 31: 巨人在现代都市中手持东京塔
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1422,7 +1427,7 @@ Expression:
 
 ---
 
-### No. 33: 将主题转化为 Q 版角色
+### No. 32: 将主题转化为 Q 版角色
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1455,7 +1460,7 @@ Expression:
 
 ---
 
-### No. 34: 包含文本、微交互和光照冲突的复杂场景
+### No. 33: 包含文本、微交互和光照冲突的复杂场景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1492,7 +1497,7 @@ Expression:
 
 ---
 
-### No. 35: HTML/CSS 解释图的图像生成提示
+### No. 34: HTML/CSS 解释图的图像生成提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1527,7 +1532,7 @@ Expression:
 
 ---
 
-### No. 36: Opus 4.5 的愿景：黑暗海洋上的光之形象
+### No. 35: Opus 4.5 的愿景：黑暗海洋上的光之形象
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1560,7 +1565,7 @@ Expression:
 
 ---
 
-### No. 37: 重建图像提示
+### No. 36: 重建图像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1593,7 +1598,7 @@ Expression:
 
 ---
 
-### No. 38: 猫咪的写实照片
+### No. 37: 猫咪的写实照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1632,7 +1637,7 @@ Expression:
 
 ---
 
-### No. 39: 逼真的历史 iPhone 照片生成
+### No. 38: 逼真的历史 iPhone 照片生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1671,7 +1676,7 @@ Expression:
 
 ---
 
-### No. 40: YouTube 缩略图对比：人工制作 vs. AI 效率
+### No. 39: YouTube 缩略图对比：人工制作 vs. AI 效率
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1711,7 +1716,7 @@ Expression:
 
 ---
 
-### No. 41: 隐藏词图像提示：“zsakib”在狮群中
+### No. 40: 隐藏词图像提示：“zsakib”在狮群中
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1745,7 +1750,7 @@ Expression:
 
 ---
 
-### No. 42: 美国一美分硬币上的微距写实立体模型
+### No. 41: 美国一美分硬币上的微距写实立体模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1784,7 +1789,7 @@ Expression:
 
 ---
 
-### No. 43: Combine These Two Photos (Image-to-Image)
+### No. 42: Combine These Two Photos (Image-to-Image)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1823,7 +1828,7 @@ combine these two photos.
 
 ---
 
-### No. 44: 身着白裙的女性照片，逼真写实
+### No. 43: 身着白裙的女性照片，逼真写实
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1856,7 +1861,7 @@ combine these two photos.
 
 ---
 
-### No. 45: 《颤栗》专辑封面人物
+### No. 44: 《颤栗》专辑封面人物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1895,7 +1900,7 @@ combine these two photos.
 
 ---
 
-### No. 46: 《堡垒之夜》特朗普皮肤选择菜单截图
+### No. 45: 《堡垒之夜》特朗普皮肤选择菜单截图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1929,7 +1934,7 @@ combine these two photos.
 
 ---
 
-### No. 47: 创建她的逼真照片（迭代优化）
+### No. 46: 创建她的逼真照片（迭代优化）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1969,7 +1974,7 @@ combine these two photos.
 
 ---
 
-### No. 48: GPT 图像 1.5 庆祝插画提示
+### No. 47: GPT 图像 1.5 庆祝插画提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2003,7 +2008,7 @@ combine these two photos.
 
 ---
 
-### No. 49: 逼真的汉堡：一半玻璃，一半正常
+### No. 48: 逼真的汉堡：一半玻璃，一半正常
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2042,7 +2047,7 @@ combine these two photos.
 
 ---
 
-### No. 50: 现代科技影响者海报设计
+### No. 49: 现代科技影响者海报设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2080,7 +2085,7 @@ combine these two photos.
 
 ---
 
-### No. 51: 红色/深色/邪恶的 GitHub 标志与截图
+### No. 50: 红色/深色/邪恶的 GitHub 标志与截图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2114,7 +2119,7 @@ combine these two photos.
 
 ---
 
-### No. 52: 图像编辑：云朵人脸风格迁移
+### No. 51: 图像编辑：云朵人脸风格迁移
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2153,7 +2158,7 @@ combine these two photos.
 
 ---
 
-### No. 53: 极其逼真的极简主义婚姻图像
+### No. 52: 极其逼真的极简主义婚姻图像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2204,7 +2209,7 @@ combine these two photos.
 
 ---
 
-### No. 54: 超写实编辑意外跌倒姿势
+### No. 53: 超写实编辑意外跌倒姿势
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2324,7 +2329,7 @@ combine these two photos.
 
 ---
 
-### No. 55: OpenAI 历史信息图
+### No. 54: OpenAI 历史信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2368,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 56: 阿拉伯语点餐多面板图片
+### No. 55: 阿拉伯语点餐多面板图片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2402,7 +2407,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 57: 超近距离特写肖像，呈现逼真肌肤纹理
+### No. 56: 超近距离特写肖像，呈现逼真肌肤纹理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2477,7 +2482,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 58: 地标鸟瞰图
+### No. 57: 地标鸟瞰图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2510,7 +2515,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 59: 日式动漫风格的深海生物海报
+### No. 58: 日式动漫风格的深海生物海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2549,7 +2554,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 60: 纽约大道上的巨型圣诞老人（结构化提示）
+### No. 59: 纽约大道上的巨型圣诞老人（结构化提示）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2633,7 +2638,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 61: 超逼真的佛教僧侣冥想场景
+### No. 60: 超逼真的佛教僧侣冥想场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2676,7 +2681,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 62: 照片修复和秃头改造
+### No. 61: 照片修复和秃头改造
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2709,7 +2714,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 63: ChatGPT 图像 1.5 信息图
+### No. 62: ChatGPT 图像 1.5 信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2742,7 +2747,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 64: 埃隆·马斯克和萨姆·奥特曼的偏光自拍
+### No. 63: 埃隆·马斯克和萨姆·奥特曼的偏光自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2782,7 +2787,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 65: 从内容生成视觉震撼的幻灯片
+### No. 64: 从内容生成视觉震撼的幻灯片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2815,7 +2820,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 66: Office 风格的销售流程图信息图
+### No. 65: Office 风格的销售流程图信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2848,7 +2853,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 67: 角色情感生成测试
+### No. 66: 角色情感生成测试
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2893,7 +2898,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 68: 角色替换编辑提示
+### No. 67: 角色替换编辑提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2926,7 +2931,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 69: 为 Nike 打造 Apple 风格的网站设计
+### No. 68: 为 Nike 打造 Apple 风格的网站设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2966,7 +2971,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 70: 图片编辑：旋转 45 度
+### No. 69: 图片编辑：旋转 45 度
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3005,7 +3010,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 71: 人物吃拉面
+### No. 70: 人物吃拉面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3044,7 +3049,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 72: 手持带有特定标题的报纸的人
+### No. 71: 手持带有特定标题的报纸的人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3084,7 +3089,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 73: 厌倦的印度政客和一只疲惫的狗
+### No. 72: 厌倦的印度政客和一只疲惫的狗
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3123,7 +3128,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 74: 超逼真猫咪照片
+### No. 73: 超逼真猫咪照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3162,7 +3167,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 75: iPhone 爆炸图技术示意图
+### No. 74: iPhone 爆炸图技术示意图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3201,7 +3206,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 76: 2000 年代胶片相机风格照片
+### No. 75: 2000 年代胶片相机风格照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3234,7 +3239,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 77: GPT Image 1.5 的多人特征保留测试
+### No. 76: GPT Image 1.5 的多人特征保留测试
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3268,7 +3273,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 78: Text-to-Image Prompt: Curious Cat in Autumn Leaves
+### No. 77: Text-to-Image Prompt: Curious Cat in Autumn Leaves
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3301,7 +3306,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 79: 复杂文本和图表提示（截图）
+### No. 78: 复杂文本和图表提示（截图）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3340,7 +3345,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 80: 足球运动员提示（截图）
+### No. 79: 足球运动员提示（截图）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3385,7 +3390,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 81: 从网格图像中提取静止图像
+### No. 80: 从网格图像中提取静止图像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3424,7 +3429,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 82: 2x2 捕捉和烹饪提示（截图）
+### No. 81: 2x2 捕捉和烹饪提示（截图）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3470,7 +3475,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 83: 加拉塔大桥上渔民与猫的纪录片照片
+### No. 82: 加拉塔大桥上渔民与猫的纪录片照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3509,7 +3514,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 84: 反乌托邦海报提示词与文本渲染测试
+### No. 83: 反乌托邦海报提示词与文本渲染测试
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3543,7 +3548,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 85: 自定义游戏王卡牌生成
+### No. 84: 自定义游戏王卡牌生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3582,7 +3587,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 86: 金刚超详细折纸蓝图
+### No. 85: 金刚超详细折纸蓝图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3621,7 +3626,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 87: 3x3 网格场景生成与编号
+### No. 86: 3x3 网格场景生成与编号
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3660,7 +3665,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 88: 纸上文本生成测试
+### No. 87: 纸上文本生成测试
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3695,7 +3700,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 89: 伦敦街头巨型坐像
+### No. 88: 伦敦街头巨型坐像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3734,7 +3739,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 90: 加拉塔大桥上渔民的电影剪影
+### No. 89: 加拉塔大桥上渔民的电影剪影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3773,7 +3778,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 91: 3D Q 版和 2D 插画人物自拍
+### No. 90: 3D Q 版和 2D 插画人物自拍
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3806,7 +3811,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 92: 七位魔法少女在舞台上摆姿势
+### No. 91: 七位魔法少女在舞台上摆姿势
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3845,7 +3850,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 93: 鱼眼广角合影，姿势夸张
+### No. 92: 鱼眼广角合影，姿势夸张
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3878,7 +3883,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 94: 20 世纪 60 年代漫画波普艺术肖像
+### No. 93: 20 世纪 60 年代漫画波普艺术肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3911,7 +3916,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 95: 荷花场景的简单图片生成提示
+### No. 94: 荷花场景的简单图片生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3965,7 +3970,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 96: 2000 年代胶片相机拍摄的 Sam、Ilya 和一只狗的照片
+### No. 95: 2000 年代胶片相机拍摄的 Sam、Ilya 和一只狗的照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3998,7 +4003,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 97: 角色服装颜色更改
+### No. 96: 角色服装颜色更改
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4044,7 +4049,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 98: 黎明时分的静谧湖泊
+### No. 97: 黎明时分的静谧湖泊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4077,7 +4082,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 99: 卡通人物任务完成提示
+### No. 98: 卡通人物任务完成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4110,7 +4115,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 100: 战场上摆出战斗姿势的战士
+### No. 99: 战场上摆出战斗姿势的战士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4143,7 +4148,7 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 101: Y2K Streetwear Fashion Editorial Portrait (JSON format)
+### No. 100: Y2K Streetwear Fashion Editorial Portrait (JSON format)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4251,7 +4256,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 102: GPT 5.1 即时版作品描述
+### No. 101: GPT 5.1 即时版作品描述
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4284,7 +4289,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 103: 具有特定肖像和构图的超逼真人像
+### No. 102: 具有特定肖像和构图的超逼真人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4329,7 +4334,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 104: 基于中国古典诗词的逼真图像生成
+### No. 103: 基于中国古典诗词的逼真图像生成
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4370,7 +4375,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 105: 双风格艺术素描，融合刺绣与圆珠笔纹理
+### No. 104: 双风格艺术素描，融合刺绣与圆珠笔纹理
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4427,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 106: 笠地藏民间故事插画提示
+### No. 105: 笠地藏民间故事插画提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4456,7 +4461,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 107: 详细的“男友视角”肖像复制提示
+### No. 106: 详细的“男友视角”肖像复制提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4537,7 +4542,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 108: Image Editing: Car and Background Transformation
+### No. 107: Image Editing: Car and Background Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4614,6 +4619,6 @@ Change the car to a {argument name="new vehicle" default="Tesla"} and the trees 
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T12:19:12.076Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T16:13:34.120Z</sub>
 
 </div>

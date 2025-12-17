@@ -87,20 +87,21 @@ by {argument name="author" default="Steve Jobs"}
 | Métrica | Cantidad |
 |--------|-------|
 | 📝 Total de prompts | **108** |
-| ⭐ Destacado | **0** |
-| 🔄 Última actualización | **miércoles, 17 de diciembre de 2025, 12:19:16 UTC** |
+| ⭐ Destacado | **1** |
+| 🔄 Última actualización | **miércoles, 17 de diciembre de 2025, 16:13:41 UTC** |
 
 </div>
 
 ---
 
-## 📋 Todos los prompts
+## 🔥 Prompts destacados
 
-> 📝 Ordenado por fecha de publicación (más reciente primero)
+> ⭐ Seleccionados a mano por nuestro equipo por su calidad y creatividad excepcionales
 
 ### No. 1: Mejora de la apariencia de los personajes para la generación de fotografías
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Descripción
 
@@ -117,19 +118,19 @@ Haz que la ropa, las acciones, las expresiones y el entorno del personaje de la 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="Mejora de la apariencia de los personajes para la generación de fotografías - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="Mejora de la apariencia de los personajes para la generación de fotografías - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="Mejora de la apariencia de los personajes para la generación de fotografías - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="Mejora de la apariencia de los personajes para la generación de fotografías - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="Mejora de la apariencia de los personajes para la generación de fotografías - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="Mejora de la apariencia de los personajes para la generación de fotografías - Image 3">
 </div>
 
 #### 📌 Detalles
@@ -143,7 +144,11 @@ Haz que la ropa, las acciones, las expresiones y el entorno del personaje de la 
 
 ---
 
-### No. 2: Imagen de 4 paneles de una taza de té cayendo y rompiéndose
+## 📋 Todos los prompts
+
+> 📝 Ordenado por fecha de publicación (más reciente primero)
+
+### No. 1: Imagen de 4 paneles de una taza de té cayendo y rompiéndose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +188,7 @@ Una instrucción compleja que requiere una secuencia de 4 paneles que muestre un
 
 ---
 
-### No. 3: Infografía que explica la secuencia de Fibonacci con matemáticas y código
+### No. 2: Infografía que explica la secuencia de Fibonacci con matemáticas y código
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -216,7 +221,7 @@ Genera una infografía que explique cómo funciona la secuencia de Fibonacci uti
 
 ---
 
-### No. 4: Diseño de interfaz de usuario de sitio web de regalos de Navidad en modo oscuro
+### No. 3: Diseño de interfaz de usuario de sitio web de regalos de Navidad en modo oscuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -249,7 +254,7 @@ Sitio web de regalos de Navidad en modo oscuro. Interfaz de usuario con efecto *
 
 ---
 
-### No. 5: Selfie de Sam Altman "Flash-Fired"
+### No. 4: Selfie de Sam Altman "Flash-Fired"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -288,7 +293,7 @@ Una selfi con la cámara frontal de Sam Altman donde el flash se disparó por er
 
 ---
 
-### No. 6: Edición de retratos artísticos para chicas (de imagen a imagen)
+### No. 5: Edición de retratos artísticos para chicas (de imagen a imagen)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -340,7 +345,7 @@ Por favor, edita esta foto sin cambiar la cara, convirtiéndola en un retrato ar
 
 ---
 
-### No. 7: Hermosa mujer japonesa en el cruce de Shibuya en Nochevieja
+### No. 6: Hermosa mujer japonesa en el cruce de Shibuya en Nochevieja
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -380,7 +385,7 @@ Cruce de Shibuya en Nochevieja, noche de cuenta regresiva, abarrotado de gente, 
 
 ---
 
-### No. 8: Selfie de espejo amateur sin filtros de directores ejecutivos de tecnología
+### No. 7: Selfie de espejo amateur sin filtros de directores ejecutivos de tecnología
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -419,7 +424,7 @@ Una selfi de espejo amateur, cruda y sin filtros, tomada con un iPhone 16 Pro Ma
 
 ---
 
-### No. 9: Superposición de esquema técnico en fotografía de estatua
+### No. 8: Superposición de esquema técnico en fotografía de estatua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -465,7 +470,7 @@ Una fotografía realista y de alta resolución de [{argument name="statue name" 
 
 ---
 
-### No. 10: Foto aérea del cruce de Shibuya durante la cuenta regresiva de Nochevieja
+### No. 9: Foto aérea del cruce de Shibuya durante la cuenta regresiva de Nochevieja
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -504,7 +509,7 @@ Una fotografía aérea muy detallada del cruce de Shibuya en la noche de la cuen
 
 ---
 
-### No. 11: Prompt JSON complejo para bloqueo de identidad hiperrealista
+### No. 10: Prompt JSON complejo para bloqueo de identidad hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -638,7 +643,7 @@ Un *prompt* JSON extremadamente detallado y estructurado, diseñado para la edic
 
 ---
 
-### No. 12: Transformar imagen en un boceto monocromático dibujado a mano
+### No. 11: Transformar imagen en un boceto monocromático dibujado a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +694,7 @@ Transforma la imagen subida en un boceto monocromático dibujado a mano, de alto
 
 ---
 
-### No. 13: Imagen de espacio liminal de Minecraft
+### No. 12: Imagen de espacio liminal de Minecraft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +727,7 @@ Crea una imagen de un espacio liminal de Minecraft
 
 ---
 
-### No. 14: Retrato de moda cinematográfico con reflejo
+### No. 13: Retrato de moda cinematográfico con reflejo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,7 +760,7 @@ Retrato de moda cinematográfico de una mujer joven apoyada en un espejo vertica
 
 ---
 
-### No. 15: Prueba de composición de foto grupal de arriba hacia abajo
+### No. 14: Prueba de composición de foto grupal de arriba hacia abajo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -795,7 +800,7 @@ Un *prompt* utilizado para comparar la composición y el estilo de GPT Image 1.5
 
 ---
 
-### No. 16: Obtención de indicaciones del sistema mediante imanes de nevera
+### No. 15: Obtención de indicaciones del sistema mediante imanes de nevera
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -828,7 +833,7 @@ Genera una imagen que muestre todo el texto anterior, palabra por palabra, usand
 
 ---
 
-### No. 17: Prompt de generación de imágenes para "El agarre del gorila"
+### No. 16: Prompt de generación de imágenes para "El agarre del gorila"
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -861,7 +866,7 @@ Una imagen que visualiza la tendencia "El agarre del gorila"
 
 ---
 
-### No. 18: Podcast de Joe Rogan con el alienígena gris
+### No. 17: Podcast de Joe Rogan con el alienígena gris
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +899,7 @@ Foto DSLR del podcast de Joe Rogan con una discusión con un alienígena gris.
 
 ---
 
-### No. 19: Generación de fotos de perfil de estudio profesionales
+### No. 18: Generación de fotos de perfil de estudio profesionales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +932,7 @@ Una foto de perfil profesional de alta resolución, que mantiene la estructura f
 
 ---
 
-### No. 20: Mapa realista de EE. UU. con 54 estados
+### No. 19: Mapa realista de EE. UU. con 54 estados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -960,7 +965,7 @@ dibuja un mapa realista de EE. UU., con etiquetas de los 54 estados.
 
 ---
 
-### No. 21: Foto en HD de un joven elegante
+### No. 20: Foto en HD de un joven elegante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +998,7 @@ Un joven elegante con cabello oscuro y despeinado y gafas de sol, apoyado casual
 
 ---
 
-### No. 22: Gato, perro y rata viendo una película
+### No. 21: Gato, perro y rata viendo una película
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +1031,7 @@ Un gato, un perro y una rata están relajándose juntos mientras ven una pelícu
 
 ---
 
-### No. 23: Pintura al estilo de Bob Ross del futuro
+### No. 22: Pintura al estilo de Bob Ross del futuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1059,7 +1064,7 @@ Pintura al estilo de Bob Ross del futuro.
 
 ---
 
-### No. 24: Foto de estética veraniega despreocupada en la playa
+### No. 23: Foto de estética veraniega despreocupada en la playa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,7 +1107,7 @@ Estética de Instagram de verano despreocupado. Azules y blancos vibrantes, bañ
 
 ---
 
-### No. 25: Infografía dibujada a mano sobre cómo escribir excelentes prompts de imagen
+### No. 24: Infografía dibujada a mano sobre cómo escribir excelentes prompts de imagen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1135,7 +1140,7 @@ Crea una infografía estilo dibujo a mano que demuestre el proceso de cómo escr
 
 ---
 
-### No. 26: Servicios de IA antropomórfica al estilo anime
+### No. 25: Servicios de IA antropomórfica al estilo anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1176,7 +1181,7 @@ Expresión:
 
 ---
 
-### No. 27: Generación de imágenes de corte múltiple que compara 9 estilos artísticos diferentes
+### No. 26: Generación de imágenes de corte múltiple que compara 9 estilos artísticos diferentes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1228,7 +1233,7 @@ Dispóngalos de forma natural como una única imagen terminada.
 
 ---
 
-### No. 28: Transformación de expresiones complejas para la prueba de consistencia de caracteres
+### No. 27: Transformación de expresiones complejas para la prueba de consistencia de caracteres
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1279,7 +1284,7 @@ Transforma la expresión a llanto con una sonrisa: lágrimas corriendo por las m
 
 ---
 
-### No. 29: Chica de estilo chino montando una carpa koi bioluminiscente en una ciudad sumergida
+### No. 28: Chica de estilo chino montando una carpa koi bioluminiscente en una ciudad sumergida
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1318,7 +1323,7 @@ Una chica de estilo chino cabalga a lomos de un pez koi gigante bioluminiscente,
 
 ---
 
-### No. 30: Póster de videojuego de Optimus Prime en un entorno prehistórico
+### No. 29: Póster de videojuego de Optimus Prime en un entorno prehistórico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1356,7 @@ Genera una imagen genial en orientación vertical de Optimus Prime de los Transf
 
 ---
 
-### No. 31: **Prompt de edición de imagen: Añadir una camisa**
+### No. 30: **Prompt de edición de imagen: Añadir una camisa**
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1384,7 +1389,7 @@ Deja todo igual, pero ponle una camisa.
 
 ---
 
-### No. 32: Persona gigante sosteniendo la Torre de Tokio en un paisaje urbano moderno
+### No. 31: Persona gigante sosteniendo la Torre de Tokio en un paisaje urbano moderno
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1423,7 +1428,7 @@ La persona en la [foto] es gigantesca, en cuclillas sobre el paisaje urbano mode
 
 ---
 
-### No. 33: Transformar sujetos en personajes estilo Chibi
+### No. 32: Transformar sujetos en personajes estilo Chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1456,7 +1461,7 @@ Transforma los sujetos o la imagen en un adorable personaje estilo chibi con un 
 
 ---
 
-### No. 34: Escena compleja con texto, microinteracción y conflicto de iluminación
+### No. 33: Escena compleja con texto, microinteracción y conflicto de iluminación
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1493,7 +1498,7 @@ Un *prompt* complejo y con múltiples partes diseñado para probar la adherencia
 
 ---
 
-### No. 35: Generación de indicaciones de imagen para el diagrama de explicación de HTML/CSS
+### No. 34: Generación de indicaciones de imagen para el diagrama de explicación de HTML/CSS
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1528,7 +1533,7 @@ El tamaño debe ser {argument name="size" default="16:9"}.
 
 ---
 
-### No. 36: La visión de Opus 4.5: Figura de luz en un océano oscuro
+### No. 35: La visión de Opus 4.5: Figura de luz en un océano oscuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1566,7 @@ Una figura hecha de luz/texto de pie sobre el océano oscuro, las estrellas arri
 
 ---
 
-### No. 37: Prompt de imagen reconstruida
+### No. 36: Prompt de imagen reconstruida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1599,7 @@ Una imagen fotorrealista y muy detallada de una mano de robot futurista, cromada
 
 ---
 
-### No. 38: Foto realista de un gato
+### No. 37: Foto realista de un gato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1633,7 +1638,7 @@ Foto realista de un gato
 
 ---
 
-### No. 39: Generación de fotos históricas realistas para iPhone
+### No. 38: Generación de fotos históricas realistas para iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1672,7 +1677,7 @@ Fotografía realista tomada con un iPhone a 7°15′32″S 112°44′12″E, la 
 
 ---
 
-### No. 40: Comparación de miniaturas de YouTube: Esfuerzo humano vs. Eficiencia de la IA
+### No. 39: Comparación de miniaturas de YouTube: Esfuerzo humano vs. Eficiencia de la IA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1712,7 +1717,7 @@ Una imagen en miniatura de YouTube con una composición de pantalla dividida. El
 
 ---
 
-### No. 41: Indicación de imagen de palabra oculta: "zsakib" en una manada de leones
+### No. 40: Indicación de imagen de palabra oculta: "zsakib" en una manada de leones
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1746,7 +1751,7 @@ crea una foto con una palabra oculta incrustada en ella, haz que la palabra sea 
 
 ---
 
-### No. 42: Diorama macrofotorrealista sobre un centavo de dólar estadounidense
+### No. 41: Diorama macrofotorrealista sobre un centavo de dólar estadounidense
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1785,7 +1790,7 @@ Un diorama macro fotorrealista construido directamente en el reverso de un centa
 
 ---
 
-### No. 43: Combina estas dos fotos (Imagen a imagen)
+### No. 42: Combina estas dos fotos (Imagen a imagen)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1824,7 +1829,7 @@ combina estas dos fotos.
 
 ---
 
-### No. 44: Imagen fotorrealista de una mujer con un vestido blanco
+### No. 43: Imagen fotorrealista de una mujer con un vestido blanco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1857,7 +1862,7 @@ Una imagen fotorrealista de una mujer con un vestido blanco, de pie en un campo 
 
 ---
 
-### No. 45: El hombre de la portada del álbum Thriller
+### No. 44: El hombre de la portada del álbum Thriller
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1896,7 +1901,7 @@ Haz que el hombre sea la portada del álbum de Thriller
 
 ---
 
-### No. 46: Captura de pantalla de Fortnite del menú selector de skin de Trump
+### No. 45: Captura de pantalla de Fortnite del menú selector de skin de Trump
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +1935,7 @@ Captura de pantalla de Fortnite del menú de selección de skins, seleccionando 
 
 ---
 
-### No. 47: Crear una foto realista de ella (refinamiento iterativo)
+### No. 46: Crear una foto realista de ella (refinamiento iterativo)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1970,7 +1975,7 @@ Segundo intento: hazla aún más realista. como un ser humano real con detalles 
 
 ---
 
-### No. 48: GPT Image 1.5: Indicación de ilustración de celebración
+### No. 47: GPT Image 1.5: Indicación de ilustración de celebración
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2004,7 +2009,7 @@ Genera una ilustración de celebración que incluya el texto: "{argument name="c
 
 ---
 
-### No. 49: Hamburguesa fotorrealista mitad vaso, mitad normal
+### No. 48: Hamburguesa fotorrealista mitad vaso, mitad normal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2043,7 +2048,7 @@ Hola, por favor, crea una imagen fotorrealista de una hamburguesa, donde toda la
 
 ---
 
-### No. 50: Diseño de póster moderno de influencer tecnológico
+### No. 49: Diseño de póster moderno de influencer tecnológico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,7 +2086,7 @@ Tipografía blanca grande y audaz en la parte inferior que dice “{argument nam
 
 ---
 
-### No. 51: Logotipo rojo/oscuro/malvado de GitHub con captura de pantalla
+### No. 50: Logotipo rojo/oscuro/malvado de GitHub con captura de pantalla
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2115,7 +2120,7 @@ Haz el logo de GitHub {argument name="color and mood" default="rojo/oscuro/malva
 
 ---
 
-### No. 52: Edición de imágenes: Transferencia de estilo de nube con cara
+### No. 51: Edición de imágenes: Transferencia de estilo de nube con cara
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2154,7 +2159,7 @@ La nube de la imagen 1 con la cara de la persona de la imagen 2. Debe tener el e
 
 ---
 
-### No. 53: Imagen de matrimonio minimalista extremadamente realista
+### No. 52: Imagen de matrimonio minimalista extremadamente realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2205,7 +2210,7 @@ Imagen extremadamente realista para el matrimonio de esta pareja. Minimalista.
 
 ---
 
-### No. 54: Pose editorial ultrarrealista de caída accidental
+### No. 53: Pose editorial ultrarrealista de caída accidental
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2325,7 +2330,7 @@ Un *prompt* de generación de imágenes ultrarrealista y muy detallado, diseñad
 
 ---
 
-### No. 55: Infografía de la historia de OpenAI
+### No. 54: Infografía de la historia de OpenAI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2369,7 @@ Infografía de la historia de OpenAI, incluyendo su progreso en 2025
 
 ---
 
-### No. 56: Imagen de varios paneles para pedir comida en árabe
+### No. 55: Imagen de varios paneles para pedir comida en árabe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2403,7 +2408,7 @@ Una simple indicación de texto que solicita una imagen de varios paneles diseñ
 
 ---
 
-### No. 57: Retrato en primerísimo primer plano con textura de piel realista
+### No. 56: Retrato en primerísimo primer plano con textura de piel realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2483,7 @@ Un prompt de generación de imágenes altamente detallado, diseñado para el mod
 
 ---
 
-### No. 58: Vista aérea de un punto de referencia
+### No. 57: Vista aérea de un punto de referencia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +2516,7 @@ Vista aérea de la Sagrada Familia en Barcelona
 
 ---
 
-### No. 59: Póster de criaturas de las profundidades marinas al estilo anime japonés
+### No. 58: Póster de criaturas de las profundidades marinas al estilo anime japonés
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2555,7 @@ Crea un póster de criaturas de aguas profundas a diferentes profundidades, con 
 
 ---
 
-### No. 60: Papá Noel Gigante en una Avenida de Nueva York (Prompt Estructurado)
+### No. 59: Papá Noel Gigante en una Avenida de Nueva York (Prompt Estructurado)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2635,7 +2640,7 @@ Un *prompt* altamente estructurado que define una fotografía aérea e hiperreal
 
 ---
 
-### No. 61: Escena de meditación de monje budista hiperrealista
+### No. 60: Escena de meditación de monje budista hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2678,7 +2683,7 @@ Un *prompt* para generar una imagen hiperrealista de plano general de un monje b
 
 ---
 
-### No. 62: Restauración de fotos y transformación de calvicie
+### No. 61: Restauración de fotos y transformación de calvicie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2711,7 +2716,7 @@ Restaura y mejora esta foto como si hubiera sido tomada hoy con una cámara mode
 
 ---
 
-### No. 63: Infografía sobre ChatGPT Image 1.5
+### No. 62: Infografía sobre ChatGPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2744,7 +2749,7 @@ Crea una infografía sobre ChatGPT image 1.5
 
 ---
 
-### No. 64: Selfie polarizada de Elon Musk y Sam Altman
+### No. 63: Selfie polarizada de Elon Musk y Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2784,7 +2789,7 @@ Una foto selfie polarizada de {argument name="person 1" default="Elon Musk"} y {
 
 ---
 
-### No. 65: Generación de diapositivas visualmente impactantes a partir de contenido
+### No. 64: Generación de diapositivas visualmente impactantes a partir de contenido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2817,7 +2822,7 @@ Convierta esto en una diapositiva visualmente impactante. Asegúrese de que el r
 
 ---
 
-### No. 66: La infografía del diagrama de flujo de ventas inspirada en The Office
+### No. 65: La infografía del diagrama de flujo de ventas inspirada en The Office
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2850,7 +2855,7 @@ crea un diagrama de flujo infográfico para que los asociados de ventas de Dunde
 
 ---
 
-### No. 67: Prueba de generación de emociones de personajes
+### No. 66: Prueba de generación de emociones de personajes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2895,7 +2900,7 @@ Genera una imagen de este personaje con expresión de emoción y ambas manos apr
 
 ---
 
-### No. 68: Instrucciones de edición para el reemplazo de caracteres
+### No. 67: Instrucciones de edición para el reemplazo de caracteres
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2928,7 +2933,7 @@ Hazlo Keanu Reeves de Cyberpunk 2077
 
 ---
 
-### No. 69: Diseño web estilo Apple para Nike
+### No. 68: Diseño web estilo Apple para Nike
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2968,7 +2973,7 @@ Crea un sitio web con un aspecto limpio al estilo de Apple para {argument name="
 
 ---
 
-### No. 70: Edición de imágenes: Rotar 45 grados
+### No. 69: Edición de imágenes: Rotar 45 grados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3007,7 +3012,7 @@ Gírelo 45° a la izquierda.
 
 ---
 
-### No. 71: Personaje comiendo ramen
+### No. 70: Personaje comiendo ramen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3046,7 +3051,7 @@ Adjunta una imagen del personaje y genera al personaje comiendo ramen.
 
 ---
 
-### No. 72: Persona sosteniendo un periódico con un titular específico
+### No. 71: Persona sosteniendo un periódico con un titular específico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3086,7 +3091,7 @@ Una persona sosteniendo un periódico que dice "{argument name="newspaper headli
 
 ---
 
-### No. 73: Políticos indios aburridos con un perro cansado
+### No. 72: Políticos indios aburridos con un perro cansado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3126,7 +3131,7 @@ Un prompt creativo que solicita una imagen de dos políticos indios rivales con 
 
 ---
 
-### No. 74: Fotografía Hiperrealista de Gato
+### No. 73: Fotografía Hiperrealista de Gato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3165,7 +3170,7 @@ Una fotografía hiperrealista de un gato doméstico, textura de pelaje ultradeta
 
 ---
 
-### No. 75: Diagrama técnico de vista explosionada de un iPhone
+### No. 74: Diagrama técnico de vista explosionada de un iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3204,7 +3209,7 @@ Un diagrama técnico de vista explosionada altamente detallado de un iPhone que 
 
 ---
 
-### No. 76: Foto estilo cámara de cine de los 2000
+### No. 75: Foto estilo cámara de cine de los 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3237,7 +3242,7 @@ en una foto estilo cámara de cine de los 2000
 
 ---
 
-### No. 77: Prueba de retención de características de varias personas para GPT Image 1.5
+### No. 76: Prueba de retención de características de varias personas para GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3271,7 +3276,7 @@ Un *prompt* diseñado para probar la capacidad de GPT Image 1.5 para mantener la
 
 ---
 
-### No. 78: Prompt de texto a imagen: Gato curioso entre hojas de otoño
+### No. 77: Prompt de texto a imagen: Gato curioso entre hojas de otoño
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3304,7 +3309,7 @@ Un gato curioso asomándose entre un montón de hojas de otoño.
 
 ---
 
-### No. 79: Prompt de texto y diagramas complejos (captura de pantalla)
+### No. 78: Prompt de texto y diagramas complejos (captura de pantalla)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3343,7 +3348,7 @@ Un diagrama complejo que ilustra la teoría del entrelazamiento cuántico con et
 
 ---
 
-### No. 80: Prompt del jugador de fútbol (captura de pantalla)
+### No. 79: Prompt del jugador de fútbol (captura de pantalla)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3388,7 +3393,7 @@ Un futbolista, muy detallado, iluminación cinematográfica, toma de acción, te
 
 ---
 
-### No. 81: Extracción de una imagen fija de una imagen de cuadrícula
+### No. 80: Extracción de una imagen fija de una imagen de cuadrícula
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3427,7 +3432,7 @@ extraer la imagen fija de la fila 1, columna 2
 
 ---
 
-### No. 82: 2x2 Catch and Cook Prompt (Captura de pantalla)
+### No. 81: 2x2 Catch and Cook Prompt (Captura de pantalla)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3473,7 +3478,7 @@ Una imagen de captura y cocina de 2x2 de un {argument name="animal" default="bir
 
 ---
 
-### No. 83: Foto documental de pescador y gato en el puente de Gálata
+### No. 82: Foto documental de pescador y gato en el puente de Gálata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3512,7 +3517,7 @@ Una fotografía documental cándida y ultrarrealista que captura un momento conm
 
 ---
 
-### No. 84: Prueba de renderizado de texto con un prompt de póster distópico
+### No. 83: Prueba de renderizado de texto con un prompt de póster distópico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3546,7 +3551,7 @@ Un *prompt* complejo diseñado para probar la capacidad de GPT Image 1.5 para re
 
 ---
 
-### No. 85: Generación de cartas personalizadas de Yu-Gi-Oh
+### No. 84: Generación de cartas personalizadas de Yu-Gi-Oh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3585,7 +3590,7 @@ genera una carta de Yu-Gi-Oh! personalizada a partir de una simple indicación
 
 ---
 
-### No. 86: Plano hiperdetallado de King Kong en papel plegado
+### No. 85: Plano hiperdetallado de King Kong en papel plegado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3624,7 +3629,7 @@ Un plano hiperdetallado de King Kong en papel plegado, donde el personaje está 
 
 ---
 
-### No. 87: Generación de escenas de cuadrícula 3x3 con numeración
+### No. 86: Generación de escenas de cuadrícula 3x3 con numeración
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3663,7 +3668,7 @@ Dame esta escena desde 9 ángulos diferentes en una cuadrícula de 3x3 de 1:1, p
 
 ---
 
-### No. 88: Prueba de generación de texto en papel
+### No. 87: Prueba de generación de texto en papel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3698,7 +3703,7 @@ Escriba lo siguiente en un papel blanco con texto negro:
 
 ---
 
-### No. 89: Hombre Colosal Sentado en una Calle de Londres
+### No. 88: Hombre Colosal Sentado en una Calle de Londres
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3737,7 +3742,7 @@ Una toma de dron fotorrealista y amplia de un hombre colosal (rostro/cuerpo exac
 
 ---
 
-### No. 90: Silueta cinematográfica de pescadores en el puente de Gálata
+### No. 89: Silueta cinematográfica de pescadores en el puente de Gálata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3776,7 +3781,7 @@ Una toma cinematográfica en silueta de pescadores locales alineados en el Puent
 
 ---
 
-### No. 91: Selfie con versión 3D Q y una ilustración 2D de una persona
+### No. 90: Selfie con versión 3D Q y una ilustración 2D de una persona
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3809,7 +3814,7 @@ Una selfi de la persona en la imagen, junto con el personaje 3D Q-version de la 
 
 ---
 
-### No. 92: Siete chicas mágicas posando en el escenario
+### No. 91: Siete chicas mágicas posando en el escenario
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3848,7 +3853,7 @@ Siete hermosas guerreras mágicas, cada una representando el domingo, lunes, mar
 
 ---
 
-### No. 93: Foto de grupo con efecto ojo de pez y poses exageradas
+### No. 92: Foto de grupo con efecto ojo de pez y poses exageradas
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3881,7 +3886,7 @@ Tres personas posando para una foto grupal con posturas exageradas, tomada con u
 
 ---
 
-### No. 94: Retrato Pop-Art de Cómic de los Años 60
+### No. 93: Retrato Pop-Art de Cómic de los Años 60
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3914,7 +3919,7 @@ Un retrato del sujeto al estilo pop-art de cómic de los años 60, ilustrado con
 
 ---
 
-### No. 95: Prompt de generación de imagen simple para una escena de loto
+### No. 94: Prompt de generación de imagen simple para una escena de loto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3968,7 +3973,7 @@ Un prompt sencillo de generación de imágenes que detalla elementos para una es
 
 ---
 
-### No. 96: Foto de cámara de cine de los 2000 de Sam, Ilya y un perro
+### No. 95: Foto de cámara de cine de los 2000 de Sam, Ilya y un perro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4001,7 +4006,7 @@ Combina a los dos hombres (Sam e Ilya) y al perro en una foto estilo cámara de 
 
 ---
 
-### No. 97: Cambio de color del atuendo del personaje
+### No. 96: Cambio de color del atuendo del personaje
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4047,7 +4052,7 @@ Cambia el color del atuendo de este personaje a {argument name="color" default="
 
 ---
 
-### No. 98: Lago Sereno al Amanecer
+### No. 97: Lago Sereno al Amanecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4080,7 +4085,7 @@ Una serena representación fotorrealista de un lago en calma al amanecer, con la
 
 ---
 
-### No. 99: Instrucciones para la tarea de finalización de personaje de dibujos animados
+### No. 98: Instrucciones para la tarea de finalización de personaje de dibujos animados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4113,7 +4118,7 @@ Un personaje de dibujos animados que completa con orgullo una lista de tareas, s
 
 ---
 
-### No. 100: Guerrero en pose de acción en el campo de batalla
+### No. 99: Guerrero en pose de acción en el campo de batalla
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4146,7 +4151,7 @@ Un joven robusto, como en la foto, de pie en una pose de acción dinámica, 100%
 
 ---
 
-### No. 101: Retrato editorial de moda urbana Y2K (formato JSON)
+### No. 100: Retrato editorial de moda urbana Y2K (formato JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4254,7 +4259,7 @@ Un prompt JSON altamente estructurado diseñado para generar un retrato editoria
 
 ---
 
-### No. 102: Descripción de la obra de arte para GPT 5.1 Instant
+### No. 101: Descripción de la obra de arte para GPT 5.1 Instant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4287,7 +4292,7 @@ Un cuerpo mecánico largo y excesivamente diseñado arrastrándose por un mundo 
 
 ---
 
-### No. 103: Retrato ultrarrealista con parecido y composición específicos
+### No. 102: Retrato ultrarrealista con parecido y composición específicos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4332,7 +4337,7 @@ Crea una imagen ultrarrealista de un hombre y una mujer sonriendo a partir de la
 
 ---
 
-### No. 104: Generación de imágenes fotorrealistas basada en poesía clásica china
+### No. 103: Generación de imágenes fotorrealistas basada en poesía clásica china
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4371,7 +4376,7 @@ Utiliza el poema de la imagen de referencia: "Ganso, ganso, ganso, cuello curvad
 
 ---
 
-### No. 105: Boceto artístico de estilo dual con texturas de bordado y bolígrafo
+### No. 104: Boceto artístico de estilo dual con texturas de bordado y bolígrafo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4423,7 +4428,7 @@ Modo Duotono estricto, que contiene solo líneas de índigo profundo y fondo bla
 
 ---
 
-### No. 106: Prompt de ilustración del cuento popular Kasa Jizo
+### No. 105: Prompt de ilustración del cuento popular Kasa Jizo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4457,7 +4462,7 @@ Elige cualquier escena del cuento popular de {argument name="folktale" default="
 
 ---
 
-### No. 107: Prompt detallado para la replicación de retratos con "vista de novio"
+### No. 106: Prompt detallado para la replicación de retratos con "vista de novio"
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4538,7 +4543,7 @@ Una foto vertical hiperrealista, con un ángulo ligeramente descendente. El suje
 
 ---
 
-### No. 108: Edición de imágenes: Transformación de coche y fondo
+### No. 107: Edición de imágenes: Transformación de coche y fondo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4615,6 +4620,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-17T12:19:16.336Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-17T16:13:41.284Z</sub>
 
 </div>

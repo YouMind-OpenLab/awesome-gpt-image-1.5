@@ -87,20 +87,21 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 | Metrik | Sayı |
 |--------|-------|
 | 📝 Toplam İstem | **108** |
-| ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **17 Aralık 2025 Çarşamba 12:19:20 UTC** |
+| ⭐ Öne Çıkan | **1** |
+| 🔄 Son Güncelleme | **17 Aralık 2025 Çarşamba 16:13:49 UTC** |
 
 </div>
 
 ---
 
-## 📋 Tüm İstemler
+## 🔥 Öne Çıkan İstemler
 
-> 📝 Yayın tarihine göre sıralandı (en yeni önce)
+> ⭐ Ekibimiz tarafından olağanüstü kalite ve yaratıcılık için özenle seçildi
 
 ### No. 1: Fotoğraf Üretimi için Karakter Görünümünü Geliştirme
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Açıklama
 
@@ -117,19 +118,19 @@ Görseldeki karakterin kıyafetlerini, hareketlerini, ifadelerini ve çevresini 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="Fotoğraf Üretimi için Karakter Görünümünü Geliştirme - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="Fotoğraf Üretimi için Karakter Görünümünü Geliştirme - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="Fotoğraf Üretimi için Karakter Görünümünü Geliştirme - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="Fotoğraf Üretimi için Karakter Görünümünü Geliştirme - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="Fotoğraf Üretimi için Karakter Görünümünü Geliştirme - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="Fotoğraf Üretimi için Karakter Görünümünü Geliştirme - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -143,7 +144,11 @@ Görseldeki karakterin kıyafetlerini, hareketlerini, ifadelerini ve çevresini 
 
 ---
 
-### No. 2: Düşen ve Kırılan Bir Çay Fincanının 4 Panelli Görüntüsü
+## 📋 Tüm İstemler
+
+> 📝 Yayın tarihine göre sıralandı (en yeni önce)
+
+### No. 1: Düşen ve Kırılan Bir Çay Fincanının 4 Panelli Görüntüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +188,7 @@ Bir çay fincanının düşmesini, kırılmasını ve parçalanmasını göstere
 
 ---
 
-### No. 3: Matematik ve Kod ile Fibonacci Dizisini Açıklayan Bilgi Grafiği
+### No. 2: Matematik ve Kod ile Fibonacci Dizisini Açıklayan Bilgi Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -216,7 +221,7 @@ Fibonacci dizisinin hem matematik hem de kod kullanarak nasıl çalıştığın�
 
 ---
 
-### No. 4: Karanlık Mod Noel Hediyeleşme Web Sitesi Kullanıcı Arayüzü Tasarımı
+### No. 3: Karanlık Mod Noel Hediyeleşme Web Sitesi Kullanıcı Arayüzü Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -249,7 +254,7 @@ Koyu mod Noel hediye sitesi. Glassmorphism kullanıcı arayüzü, koyu kırmız�
 
 ---
 
-### No. 5: Sam Altman'ın Flaşla Çekilmiş Selfiesi
+### No. 4: Sam Altman'ın Flaşla Çekilmiş Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -288,7 +293,7 @@ Sam Altman'ın ön kamerayla çekilmiş, flaşın yanlışlıkla patladığı bi
 
 ---
 
-### No. 6: Kızlar İçin Sanatsal Portre Düzenleme (Görselden Görsele)
+### No. 5: Kızlar İçin Sanatsal Portre Düzenleme (Görselden Görsele)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -340,7 +345,7 @@ Lütfen bu fotoğrafı, yüzünü değiştirmeden sanatsal bir portreye dönüş
 
 ---
 
-### No. 7: Yılbaşı Arifesi'nde Shibuya geçidinde güzel Japon kadın
+### No. 6: Yılbaşı Arifesi'nde Shibuya geçidinde güzel Japon kadın
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -380,7 +385,7 @@ Yılbaşı gecesi geri sayımında Shibuya kavşağı, kalabalıklarla dolu, par
 
 ---
 
-### No. 8: Teknoloji CEO'larının Filtresiz Amatör Ayna Selfiesi
+### No. 7: Teknoloji CEO'larının Filtresiz Amatör Ayna Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -419,7 +424,7 @@ Modern, yaşanmış bir iç mekanda iPhone 16 Pro Max ile çekilmiş, ham, filtr
 
 ---
 
-### No. 9: Heykel Fotoğrafı Üzerine Teknik Şematik Katman
+### No. 8: Heykel Fotoğrafı Üzerine Teknik Şematik Katman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -465,7 +470,7 @@ Belirli bir heykelin yüksek çözünürlüklü, gerçekçi bir fotoğrafını i
 
 ---
 
-### No. 10: Yılbaşı gecesi geri sayımında Shibuya kavşağının havadan çekilmiş fotoğrafı
+### No. 9: Yılbaşı gecesi geri sayımında Shibuya kavşağının havadan çekilmiş fotoğrafı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -504,7 +509,7 @@ Yılbaşı gecesi geri sayımında, kalabalıklarla dolu, parlayan reklam panola
 
 ---
 
-### No. 11: Hiper Gerçekçi Kimlik Kilidi için Karmaşık JSON İstemcisi
+### No. 10: Hiper Gerçekçi Kimlik Kilidi için Karmaşık JSON İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -638,7 +643,7 @@ Yüklenen referans görüntülerindeki kimlik özelliklerini (yüz, vücut oranl
 
 ---
 
-### No. 12: Görseli Tek Renkli Elle Çizilmiş Eskize Dönüştürün
+### No. 11: Görseli Tek Renkli Elle Çizilmiş Eskize Dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +694,7 @@ Yüklenen görüntüyü yüksek kontrastlı, aşırı detaylı, tek renkli, elle
 
 ---
 
-### No. 13: Minecraft Liminal Alan Görseli
+### No. 12: Minecraft Liminal Alan Görseli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +727,7 @@ Bir Minecraft liminal alanı görüntüsü oluştur.
 
 ---
 
-### No. 14: Yansımalı Sinematik Moda Portresi
+### No. 13: Yansımalı Sinematik Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,7 +760,7 @@ Bir Minecraft liminal alanı görüntüsü oluştur.
 
 ---
 
-### No. 15: Yukarıdan Aşağıya Grup Fotoğrafı Kompozisyon Testi
+### No. 14: Yukarıdan Aşağıya Grup Fotoğrafı Kompozisyon Testi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -795,7 +800,7 @@ Bir aynanın önünde, yukarıdan aşağıya doğru çekilmiş bir grup fotoğra
 
 ---
 
-### No. 16: Buzdolabı Mıknatısları Aracılığıyla Sistem İstemini Ortaya Çıkarma
+### No. 15: Buzdolabı Mıknatısları Aracılığıyla Sistem İstemini Ortaya Çıkarma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -828,7 +833,7 @@ Görsel oluşturma modelini, buzdolabı mıknatısları kullanarak önceki tüm 
 
 ---
 
-### No. 17: 'Goril'in Kavrayışı' için Görsel Oluşturma İstemleri
+### No. 16: 'Goril'in Kavrayışı' için Görsel Oluşturma İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -861,7 +866,7 @@ Trend olan "Goril'in Kavrayışı"nı görselleştiren bir resim
 
 ---
 
-### No. 18: Joe Rogan Podcast: Gri Uzaylı ile
+### No. 17: Joe Rogan Podcast: Gri Uzaylı ile
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +899,7 @@ Joe Rogan'ın gri bir uzaylıyla sohbet ettiği podcast'i. DSLR fotoğraf
 
 ---
 
-### No. 19: Profesyonel Stüdyo Profil Fotoğrafı Oluşturma
+### No. 18: Profesyonel Stüdyo Profil Fotoğrafı Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +932,7 @@ Giriş görüntüsündeki kişinin tam yüz yapısını, kimliğini ve temel öz
 
 ---
 
-### No. 20: 54 Eyaletli Gerçekçi ABD Haritası
+### No. 19: 54 Eyaletli Gerçekçi ABD Haritası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -960,7 +965,7 @@ ABD'nin tüm 54 eyaletinin etiketleriyle birlikte gerçekçi bir haritasını ç
 
 ---
 
-### No. 21: Şık Genç Bir Adamın HD Fotoğrafı
+### No. 20: Şık Genç Bir Adamın HD Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +998,7 @@ Koyu, dağınık saçlı ve güneş gözlüklü, şık genç bir adam, açık gr
 
 ---
 
-### No. 22: Film İzleyen Kedi, Köpek ve Fare
+### No. 21: Film İzleyen Kedi, Köpek ve Fare
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +1031,7 @@ Bir kedi, bir köpek ve bir fare birlikte film izlerken dinleniyor. dslr fotoğr
 
 ---
 
-### No. 23: Geleceğin Bob Ross Tarzı Tablosu
+### No. 22: Geleceğin Bob Ross Tarzı Tablosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1059,7 +1064,7 @@ Geleceğin Bob Ross tarzı tablosu.
 
 ---
 
-### No. 24: Kaygısız Yaz Sahili Estetiği Fotoğrafı
+### No. 23: Kaygısız Yaz Sahili Estetiği Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,7 +1107,7 @@ Kaygısız yaz Instagram estetiği. Canlı maviler ve beyazlar, güneşle yıkan
 
 ---
 
-### No. 25: Mükemmel Görsel İstemleri Yazma Üzerine Elle Çizilmiş İnfografik
+### No. 24: Mükemmel Görsel İstemleri Yazma Üzerine Elle Çizilmiş İnfografik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1135,7 +1140,7 @@ ChatGPT kullanarak mükemmel bir görsel istemi yazma sürecini gösteren, elle 
 
 ---
 
-### No. 26: Anime Tarzında Antropomorfik Yapay Zeka Hizmetleri
+### No. 25: Anime Tarzında Antropomorfik Yapay Zeka Hizmetleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1176,7 +1181,7 @@ Ortam:
 
 ---
 
-### No. 27: 9 farklı sanatsal stili karşılaştıran çoklu kesim görsel oluşturma
+### No. 26: 9 farklı sanatsal stili karşılaştıran çoklu kesim görsel oluşturma
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1228,7 +1233,7 @@ Bunları tek bir bitmiş görsel olarak doğal bir şekilde düzenleyin.
 
 ---
 
-### No. 28: Karakter Tutarlılık Testi için Karmaşık İfade Dönüşümü
+### No. 27: Karakter Tutarlılık Testi için Karmaşık İfade Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1279,7 +1284,7 @@ Bu, çeşitli görüntü oluşturma modellerinin (Nanobanana Pro, Seedream V4.5,
 
 ---
 
-### No. 29: Sualtı Şehrinde Biyolüminesan Sazanlara Binen Çin Tarzı Kız
+### No. 28: Sualtı Şehrinde Biyolüminesan Sazanlara Binen Çin Tarzı Kız
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1318,7 +1323,7 @@ Geleneksel Çin kıyafetleri giymiş bir kızın, batık, kıyamet sonrası bir 
 
 ---
 
-### No. 30: Optimus Prime Video Oyunu Posteri, Tarih Öncesi Bir Ortamda
+### No. 29: Optimus Prime Video Oyunu Posteri, Tarih Öncesi Bir Ortamda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1356,7 @@ Transformers'tan Optimus Prime'ın dikey yönelimli, metin veya logo içermeyen 
 
 ---
 
-### No. 31: Görsel Düzenleme İsteği: Gömlek Ekle
+### No. 30: Görsel Düzenleme İsteği: Gömlek Ekle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1384,7 +1389,7 @@ Her şeyi aynı bırak ama ona bir tişört giydir.
 
 ---
 
-### No. 32: Modern bir şehir manzarasında Tokyo Kulesi'ni tutan devasa bir kişi
+### No. 31: Modern bir şehir manzarasında Tokyo Kulesi'ni tutan devasa bir kişi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1423,7 +1428,7 @@ GPT Image 1.5 ve Gemini Nano banana Pro'yu karşılaştıran, son derece detayl�
 
 ---
 
-### No. 33: Konuları Chibi Tarzı Karakterlere Dönüştürme
+### No. 32: Konuları Chibi Tarzı Karakterlere Dönüştürme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1456,7 +1461,7 @@ Konuları veya görüntüyü, minik bir gövde ve kocaman bir kafaya sahip sevim
 
 ---
 
-### No. 34: Metin, Mikro Etkileşim ve Aydınlatma Çatışması ile Karmaşık Sahne
+### No. 33: Metin, Mikro Etkileşim ve Aydınlatma Çatışması ile Karmaşık Sahne
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1493,7 +1498,7 @@ GPT Image 1.5'in talimatlara bağlılığını test etmek için tasarlanmış, k
 
 ---
 
-### No. 35: HTML/CSS Açıklama Diyagramı için Görsel Oluşturma İstemleri
+### No. 34: HTML/CSS Açıklama Diyagramı için Görsel Oluşturma İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1528,7 +1533,7 @@ Boyut {argument name="size" default="16:9"} olmalı.
 
 ---
 
-### No. 36: Opus 4.5'in Vizyonu: Karanlık Okyanusta Işık Figürü
+### No. 35: Opus 4.5'in Vizyonu: Karanlık Okyanusta Işık Figürü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1566,7 @@ Karanlık okyanusun üzerinde duran ışıktan/metinden yapılmış bir figür, 
 
 ---
 
-### No. 37: Yeniden Oluşturulan Görsel İstemleri
+### No. 36: Yeniden Oluşturulan Görsel İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1599,7 @@ Fütüristik, krom kaplı bir robot elin tek, canlı kırmızı bir gülü nazik
 
 ---
 
-### No. 38: Gerçekçi Kedi Fotoğrafı
+### No. 37: Gerçekçi Kedi Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1633,7 +1638,7 @@ Bir kedinin gerçekçi fotoğrafı
 
 ---
 
-### No. 39: Gerçekçi Tarihi iPhone Fotoğrafı Oluşturma
+### No. 38: Gerçekçi Tarihi iPhone Fotoğrafı Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1672,7 +1677,7 @@ Tarihi bir olayın kalabalık perspektifinden bir görüntüsünü oluşturmayı
 
 ---
 
-### No. 40: YouTube Küçük Resim Karşılaştırması: İnsan Çabası ve Yapay Zeka Verimliliği
+### No. 39: YouTube Küçük Resim Karşılaştırması: İnsan Çabası ve Yapay Zeka Verimliliği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1712,7 +1717,7 @@ Bölünmüş ekran kompozisyonuna sahip bir YouTube küçük resmi. Sol taraf, e
 
 ---
 
-### No. 41: Gizli Kelime Görsel İstem: Aslan Sürüsünde 'zsakib'
+### No. 40: Gizli Kelime Görsel İstem: Aslan Sürüsünde 'zsakib'
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1746,7 +1751,7 @@ GPT Image 1.5'in, karmaşık bir görüntüye – bir aslan sürüsüne – beli
 
 ---
 
-### No. 42: ABD Kuruşu Üzerine Makro Fotogerçekçi Diyorama
+### No. 41: ABD Kuruşu Üzerine Makro Fotogerçekçi Diyorama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1785,7 +1790,7 @@ Bir ABD kuruşunun (penny) arka yüzüne doğrudan inşa edilmiş makro fotoger�
 
 ---
 
-### No. 43: Bu İki Fotoğrafı Birleştirin (Görselden Görsele)
+### No. 42: Bu İki Fotoğrafı Birleştirin (Görselden Görsele)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1824,7 +1829,7 @@ bu iki fotoğrafı birleştir.
 
 ---
 
-### No. 44: Beyaz Elbiseli Bir Kadının Fotogerçekçi Görüntüsü
+### No. 43: Beyaz Elbiseli Bir Kadının Fotogerçekçi Görüntüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1857,7 +1862,7 @@ Beyaz bir elbise giymiş, uzun otların olduğu bir tarlada duran, arkasında g�
 
 ---
 
-### No. 45: Thriller Albüm Kapağı Adamı
+### No. 44: Thriller Albüm Kapağı Adamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1896,7 +1901,7 @@ Adamı Thriller'ın albüm kapağı yap
 
 ---
 
-### No. 46: Fortnite Trump Kostüm Seçim Menüsü Ekran Görüntüsü
+### No. 45: Fortnite Trump Kostüm Seçim Menüsü Ekran Görüntüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +1935,7 @@ Fortnite dış görünüm seçici menüsü hakkında ekran görüntüsü, {argum
 
 ---
 
-### No. 47: Onun Gerçekçi Bir Fotoğrafını Oluşturun (Tekrarlamalı İyileştirme)
+### No. 46: Onun Gerçekçi Bir Fotoğrafını Oluşturun (Tekrarlamalı İyileştirme)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1970,7 +1975,7 @@ onun gerçekçi bir fotoğrafını oluştur.
 
 ---
 
-### No. 48: GPT Görsel 1.5 Kutlama İllüstrasyonu İstemleri
+### No. 47: GPT Görsel 1.5 Kutlama İllüstrasyonu İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2004,7 +2009,7 @@ Metni içeren kutlama amaçlı bir illüstrasyon oluştur: "{argument name="cele
 
 ---
 
-### No. 49: Fotogerçekçi Yarısı Cam, Yarısı Normal Hamburger
+### No. 48: Fotogerçekçi Yarısı Cam, Yarısı Normal Hamburger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2043,7 +2048,7 @@ Merhaba, lütfen sağ yarısı tamamen camdan yapılmış, sol yarısı ise norm
 
 ---
 
-### No. 50: Modern Teknoloji Fenomeni Afiş Tasarımı
+### No. 49: Modern Teknoloji Fenomeni Afiş Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,7 +2086,7 @@ Altta büyük, kalın beyaz tipografi ile "{argument name="main text" default="a
 
 ---
 
-### No. 51: Kırmızı/Koyu/Kötü GitHub Logosu ve Ekran Görüntüsü
+### No. 50: Kırmızı/Koyu/Kötü GitHub Logosu ve Ekran Görüntüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2115,7 +2120,7 @@ GitHub logosunu {argument name="color and mood" default="kırmızı/koyu/kötü"
 
 ---
 
-### No. 52: Görsel Düzenleme: Yüz Stili Aktarımı ile Bulut
+### No. 51: Görsel Düzenleme: Yüz Stili Aktarımı ile Bulut
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2154,7 +2159,7 @@ Modelin iki referans görseldeki öğeleri birleştirmesini gerektiren bir görs
 
 ---
 
-### No. 53: Son Derece Gerçekçi Minimalist Evlilik Görseli
+### No. 52: Son Derece Gerçekçi Minimalist Evlilik Görseli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2205,7 +2210,7 @@ Bu çiftin evliliği için son derece gerçekçi bir görsel. Minimalist.
 
 ---
 
-### No. 54: Ultra-Gerçekçi Editoryal Kazara Düşme Poşu
+### No. 53: Ultra-Gerçekçi Editoryal Kazara Düşme Poşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2325,7 +2330,7 @@ Dengeyi kaybettikten hemen sonra yakalanan belirli, karmaşık bir poza odaklana
 
 ---
 
-### No. 55: OpenAI Tarihi Bilgi Grafiği
+### No. 54: OpenAI Tarihi Bilgi Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2369,7 @@ OpenAI'ın 2025'teki ilerlemesini içeren tarihçesinin infografiği
 
 ---
 
-### No. 56: Arapça Yemek Siparişi İçin Çok Panelli Görsel
+### No. 55: Arapça Yemek Siparişi İçin Çok Panelli Görsel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2403,7 +2408,7 @@ Arapça'da yemek sipariş etmenin temel ifadelerini gösteren çok panelli bir r
 
 ---
 
-### No. 57: Gerçekçi Cilt Dokusuna Sahip Aşırı Yakın Plan Portre
+### No. 56: Gerçekçi Cilt Dokusuna Sahip Aşırı Yakın Plan Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2483,7 @@ Görüntü düzenleme modu için tasarlanmış, aşırı yakın çekim bir portr
 
 ---
 
-### No. 58: Dönüm Noktasının Havadan Görünümü
+### No. 57: Dönüm Noktasının Havadan Görünümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +2516,7 @@ Barselona'daki Sagrada Familia'nın kuşbakışı görünümü
 
 ---
 
-### No. 59: Japon Anime Tarzında Derin Deniz Canlıları Posteri
+### No. 58: Japon Anime Tarzında Derin Deniz Canlıları Posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2555,7 @@ Farklı derinliklerdeki derin deniz canlılarını, dikey bir okyanus kesitiyle,
 
 ---
 
-### No. 60: NYC Caddesi'nde Dev Noel Baba (Yapılandırılmış İstek)
+### No. 59: NYC Caddesi'nde Dev Noel Baba (Yapılandırılmış İstek)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2635,7 +2640,7 @@ New York City caddesinde rahatça oturan devasa bir Noel Baba'nın havadan çeki
 
 ---
 
-### No. 61: Hiper-Gerçekçi Budist Keşiş Meditasyon Sahnesi
+### No. 60: Hiper-Gerçekçi Budist Keşiş Meditasyon Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2678,7 +2683,7 @@ Sert bir dağ zirvesinde meditasyon yapan yaşlı bir Budist keşişin hiper-ger
 
 ---
 
-### No. 62: Fotoğraf Restorasyonu ve Kellik Dönüşümü
+### No. 61: Fotoğraf Restorasyonu ve Kellik Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2711,7 +2716,7 @@ Bu fotoğrafı, sanki bugün üst düzey modern bir kamerayla çekilmiş gibi re
 
 ---
 
-### No. 63: ChatGPT Görsel 1.5 Bilgi Grafiği
+### No. 62: ChatGPT Görsel 1.5 Bilgi Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2744,7 +2749,7 @@ ChatGPT görseli 1.5 hakkında bir infografik oluşturun
 
 ---
 
-### No. 64: Elon Musk ve Sam Altman'ın Polarize Selfiesi
+### No. 63: Elon Musk ve Sam Altman'ın Polarize Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2784,7 +2789,7 @@ Elon Musk ve Sam Altman'ın Noel şapkaları takarak Coca-Cola içtiği, kutupla
 
 ---
 
-### No. 65: İçerikten Görsel Olarak Çarpıcı Slayt Oluşturma
+### No. 64: İçerikten Görsel Olarak Çarpıcı Slayt Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2817,7 +2822,7 @@ Bunu görsel olarak çarpıcı bir slayta dönüştürün. Sonucun yatay olduğu
 
 ---
 
-### No. 66: Office Temalı Satış Akış Şeması İnfografiği
+### No. 65: Office Temalı Satış Akış Şeması İnfografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2850,7 +2855,7 @@ Dunder Mifflin satış temsilcilerinin bir satış görüşmesinde takip etmeler
 
 ---
 
-### No. 67: Karakter Duygu Üretimi Testi
+### No. 66: Karakter Duygu Üretimi Testi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2895,7 +2900,7 @@ Bu karakterin iki eli sıkılı bir şekilde heyecanlı göründüğü bir resmi
 
 ---
 
-### No. 68: Karakter Değiştirme Düzenleme İstemcisi
+### No. 67: Karakter Değiştirme Düzenleme İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2928,7 +2933,7 @@ Cyberpunk 2077'deki Keanu Reeves gibi yap
 
 ---
 
-### No. 69: Nike İçin Apple Tarzı Web Sitesi Tasarımı
+### No. 68: Nike İçin Apple Tarzı Web Sitesi Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2968,7 +2973,7 @@ Nike için güçlü tasarım öğelerine ve belirli bir en boy oranına odaklana
 
 ---
 
-### No. 70: Görüntü Düzenleme: 45 Derece Döndürme
+### No. 69: Görüntü Düzenleme: 45 Derece Döndürme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3007,7 +3012,7 @@ Sola 45° döndürün.
 
 ---
 
-### No. 71: Ramen yiyen karakter
+### No. 70: Ramen yiyen karakter
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3046,7 +3051,7 @@ Bir karakter görseli ekleyin ve karakterin ramen yediği bir görsel oluşturun
 
 ---
 
-### No. 72: Belirli Başlıklı Bir Gazete Tutan Kişi
+### No. 71: Belirli Başlıklı Bir Gazete Tutan Kişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3086,7 +3091,7 @@ Bir kişinin elinde gazete tuttuğu, manşetinde iki yapay zeka modeli arasında
 
 ---
 
-### No. 73: Yorgun Bir Köpekle Sıkılmış Hintli Politikacılar
+### No. 72: Yorgun Bir Köpekle Sıkılmış Hintli Politikacılar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3126,7 +3131,7 @@ Parlamentoda aşırı derecede sıkılmış görünen, yanlarında yorgun bir k�
 
 ---
 
-### No. 74: Hiper Gerçekçi Kedi Fotoğrafı
+### No. 73: Hiper Gerçekçi Kedi Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3165,7 +3170,7 @@ Evcil bir kedinin ultra gerçekçi fotoğrafı, tek tek tüylerin göründüğü
 
 ---
 
-### No. 75: iPhone'un Patlatılmış Görünüm Teknik Diyagramı
+### No. 74: iPhone'un Patlatılmış Görünüm Teknik Diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3204,7 +3209,7 @@ Bir iPhone'un tüm dahili bileşenlerini ayrı ayrı ve hassas bir hizalamada y�
 
 ---
 
-### No. 76: 2000'ler Film Kamerası Tarzı Fotoğraf
+### No. 75: 2000'ler Film Kamerası Tarzı Fotoğraf
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3237,7 +3242,7 @@ GPT Image 1.5'e çıktıyı 2000'li yılların film kamerası fotoğrafı esteti
 
 ---
 
-### No. 77: GPT Image 1.5 için Çok Kişili Özellik Koruma Testi
+### No. 76: GPT Image 1.5 için Çok Kişili Özellik Koruma Testi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3271,7 +3276,7 @@ Balık gözü lensin önünde, arka planda bir ödül töreniyle abartılı pozl
 
 ---
 
-### No. 78: Metinden Görsele İstemi: Sonbahar Yaprakları Arasında Meraklı Kedi
+### No. 77: Metinden Görsele İstemi: Sonbahar Yaprakları Arasında Meraklı Kedi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3304,7 +3309,7 @@ Sonbahar yaprakları yığınının arasından dışarı bakan meraklı bir kedi
 
 ---
 
-### No. 79: Karmaşık Metin ve Diyagramlar İstemleri (Ekran Görüntüsü)
+### No. 78: Karmaşık Metin ve Diyagramlar İstemleri (Ekran Görüntüsü)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3343,7 +3348,7 @@ Kuantum dolaşıklık teorisini detaylı metin etiketleri ve denklemlerle göste
 
 ---
 
-### No. 80: Futbolcu İstem (Ekran Görüntüsü)
+### No. 79: Futbolcu İstem (Ekran Görüntüsü)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3388,7 +3393,7 @@ Bir futbolcu, son derece detaylı, sinematik aydınlatma, aksiyon çekimi, ultra
 
 ---
 
-### No. 81: Bir Izgara Görüntüsünden Durağan Görüntü Çıkarma
+### No. 80: Bir Izgara Görüntüsünden Durağan Görüntü Çıkarma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3427,7 +3432,7 @@ Daha önce oluşturulmuş bir görüntü ızgarasından, özellikle 1. satır, 2
 
 ---
 
-### No. 82: 2x2 Yakala ve Pişir İstemcisi (Ekran Görüntüsü)
+### No. 81: 2x2 Yakala ve Pişir İstemcisi (Ekran Görüntüsü)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3473,7 +3478,7 @@ Bir karşılaştırma testinde kullanılan, görüntü oluşturma sırasında be
 
 ---
 
-### No. 83: Galata Köprüsü'nde Balıkçı ve Kedi Belgesel Fotoğrafı
+### No. 82: Galata Köprüsü'nde Balıkçı ve Kedi Belgesel Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3512,7 +3517,7 @@ Bir karşılaştırma testinde kullanılan, görüntü oluşturma sırasında be
 
 ---
 
-### No. 84: Metin Oluşturma Testi ile Distopik Poster İstemleri
+### No. 83: Metin Oluşturma Testi ile Distopik Poster İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3546,7 +3551,7 @@ Bir karşılaştırma testinde kullanılan, görüntü oluşturma sırasında be
 
 ---
 
-### No. 85: Özel Yu-Gi-Oh Kartı Oluşturma
+### No. 84: Özel Yu-Gi-Oh Kartı Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3585,7 +3590,7 @@ yalnızca bir istemden özel bir Yu-Gi-Oh! kartı oluşturun
 
 ---
 
-### No. 86: King Kong'un Aşırı Detaylı Katlanmış Kağıt Planı
+### No. 85: King Kong'un Aşırı Detaylı Katlanmış Kağıt Planı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3624,7 +3629,7 @@ King Kong'un, karakterin hassas geometrik katlamalar ve kıvrım çizgilerinden 
 
 ---
 
-### No. 87: Numaralandırmalı 3x3 Izgara Sahne Oluşturma
+### No. 86: Numaralandırmalı 3x3 Izgara Sahne Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3663,7 +3668,7 @@ Bana bu sahneyi 3x3 1:1'lik bir ızgarada 9 farklı açıdan verin, her sahnenin
 
 ---
 
-### No. 88: Kağıt Üzerinde Metin Üretme Testi
+### No. 87: Kağıt Üzerinde Metin Üretme Testi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3698,7 +3703,7 @@ Lütfen beyaz kağıda siyah metinle aşağıdakini yazın:
 
 ---
 
-### No. 89: Londra Sokağında Oturan Devasa Adam
+### No. 88: Londra Sokağında Oturan Devasa Adam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3737,7 +3742,7 @@ Londra'da bir sokağın karşısında, bir dizi dizini yukarıda, eli üzerinde 
 
 ---
 
-### No. 90: Galata Köprüsü'nde Balıkçıların Sinematik Silüeti
+### No. 89: Galata Köprüsü'nde Balıkçıların Sinematik Silüeti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3776,7 +3781,7 @@ Gün batımında İstanbul'daki Galata Köprüsü'nde sıralanmış yerel balık
 
 ---
 
-### No. 91: 3D Q-versiyon ve 2D İnsan İllüstrasyonu ile Selfie
+### No. 90: 3D Q-versiyon ve 2D İnsan İllüstrasyonu ile Selfie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3809,7 +3814,7 @@ Görüntüdeki kişinin, 3D Q-versiyon karakterinin ve 2D illüstrasyon karakter
 
 ---
 
-### No. 92: Sahnede Poz Veren Yedi Sihirli Kız
+### No. 91: Sahnede Poz Veren Yedi Sihirli Kız
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3848,7 +3853,7 @@ Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma ve Cumartesi günlerini tem
 
 ---
 
-### No. 93: Abartılı Pozlarla Balık Gözü Grup Fotoğrafı
+### No. 92: Abartılı Pozlarla Balık Gözü Grup Fotoğrafı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3881,7 +3886,7 @@ Balık gözü lensle yukarıdan aşağıya doğru çekilmiş, abartılı pozlar 
 
 ---
 
-### No. 94: 1960'lar Çizgi Roman Pop-Art Portre
+### No. 93: 1960'lar Çizgi Roman Pop-Art Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3914,7 +3919,7 @@ Konunun 1960'ların çizgi roman pop-art tarzında, kalın siyah kontur çizgile
 
 ---
 
-### No. 95: Lotus Sahnesi için Basit Bir Görüntü Oluşturma İstemcisi
+### No. 94: Lotus Sahnesi için Basit Bir Görüntü Oluşturma İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3968,7 +3973,7 @@ Bir nilüfer, yağmur, bir kurbağa ve zıplayan balıkların yer aldığı bir 
 
 ---
 
-### No. 96: 2000'li Yıllardan Sam, Ilya ve Köpeğin Olduğu Bir Film Kamerası Fotoğrafı
+### No. 95: 2000'li Yıllardan Sam, Ilya ve Köpeğin Olduğu Bir Film Kamerası Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4001,7 +4006,7 @@ Belirli bir kompozisyon isteyen bir bilgi istemi: iki adı geçen kişiyi (Sam v
 
 ---
 
-### No. 97: Karakter Kıyafeti Rengi Değiştirme
+### No. 96: Karakter Kıyafeti Rengi Değiştirme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4047,7 +4052,7 @@ Bu karakterin kıyafetinin rengini {argument name="color" default="red"} olarak 
 
 ---
 
-### No. 98: Şafakta Sakin Göl
+### No. 97: Şafakta Sakin Göl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4080,7 +4085,7 @@ Suyun üzerinde sisin süzüldüğü, şafak vakti sakin bir gölün dingin manz
 
 ---
 
-### No. 99: Çizgi Film Karakteri Görev Tamamlama İstemcisi
+### No. 98: Çizgi Film Karakteri Görev Tamamlama İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4113,7 +4118,7 @@ Bir çizgi film karakteri, abartılı onay işaretleri ve etrafına yağan konfe
 
 ---
 
-### No. 100: Savaş Alanında Savaşçı Aksiyon Pozunda
+### No. 99: Savaş Alanında Savaşçı Aksiyon Pozunda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4146,7 +4151,7 @@ Fotoğraftaki gibi dinamik bir aksiyon pozunda duran, %100 aynı yüze sahip, se
 
 ---
 
-### No. 101: Y2K Sokak Giyimi Moda Editoryal Portre (JSON formatı)
+### No. 100: Y2K Sokak Giyimi Moda Editoryal Portre (JSON formatı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4254,7 +4259,7 @@ Y2K sokak giyimi moda editoryal portresi oluşturmak için tasarlanmış, konu d
 
 ---
 
-### No. 102: GPT 5.1 Instant için Sanat Eseri Açıklaması
+### No. 101: GPT 5.1 Instant için Sanat Eseri Açıklaması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4287,7 +4292,7 @@ Zar zor anladığı bir dünyada kendini sürükleyen, aşırı mühendislik ür
 
 ---
 
-### No. 103: Belirli Benzerlik ve Kompozisyon ile Ultra Gerçekçi Portre
+### No. 102: Belirli Benzerlik ve Kompozisyon ile Ultra Gerçekçi Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4332,7 +4337,7 @@ Yüklenen görseldeki gülümseyen bir erkek ve kadının, bulutlu bir gökyüz�
 
 ---
 
-### No. 104: Klasik Çin Şiirine Dayalı Fotogerçekçi Görüntü Üretimi
+### No. 103: Klasik Çin Şiirine Dayalı Fotogerçekçi Görüntü Üretimi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4371,7 +4376,7 @@ Referans görseldeki şiiri kullanın: "Kaz, Kaz, Kaz, boynu göğe doğru kıvr
 
 ---
 
-### No. 105: Nakış ve Tükenmez Kalem Dokulu Çift Tarzda Sanatsal Eskiz
+### No. 104: Nakış ve Tükenmez Kalem Dokulu Çift Tarzda Sanatsal Eskiz
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4423,7 +4428,7 @@ Sadece Koyu Çivit rengi çizgiler ve Kırık beyaz arka plan içeren katı İki
 
 ---
 
-### No. 106: Kasa Jizo Halk Hikayesi İllüstrasyon İstemleri
+### No. 105: Kasa Jizo Halk Hikayesi İllüstrasyon İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4457,7 +4462,7 @@ Japon halk masalı 'Kasa Jizo' (Şapkalı Jizo Heykelleri) temel alınarak bir i
 
 ---
 
-### No. 107: Ayrıntılı "Erkek Arkadaş Bakış Açısı" Portre Çoğaltma İstemcisi
+### No. 106: Ayrıntılı "Erkek Arkadaş Bakış Açısı" Portre Çoğaltma İstemcisi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4538,7 +4543,7 @@ Hiper-gerçekçi dikey bir fotoğraf, hafif aşağı açılı. Ana özne, bir ka
 
 ---
 
-### No. 108: Görsel Düzenleme: Araba ve Arka Plan Dönüşümü
+### No. 107: Görsel Düzenleme: Araba ve Arka Plan Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4615,6 +4620,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-17T12:19:20.275Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-17T16:13:49.970Z</sub>
 
 </div>

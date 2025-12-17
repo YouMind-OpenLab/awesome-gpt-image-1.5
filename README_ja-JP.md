@@ -87,20 +87,21 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 | 指標 | 数 |
 |--------|-------|
 | 📝 プロンプト総数 | **108** |
-| ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年12月17日水曜日 12:19:13 UTC** |
+| ⭐ おすすめ | **1** |
+| 🔄 最終更新 | **2025年12月17日水曜日 16:13:36 UTC** |
 
 </div>
 
 ---
 
-## 📋 すべてのプロンプト
+## 🔥 おすすめプロンプト
 
-> 📝 公開日でソート（新しい順）
+> ⭐ 優れた品質と創造性のためにチームが厳選
 
 ### No. 1: 写真生成におけるキャラクターの外観の向上
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 説明
 
@@ -117,19 +118,19 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="写真生成におけるキャラクターの外観の向上 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="写真生成におけるキャラクターの外観の向上 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="写真生成におけるキャラクターの外観の向上 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="写真生成におけるキャラクターの外観の向上 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="写真生成におけるキャラクターの外観の向上 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="写真生成におけるキャラクターの外観の向上 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -143,7 +144,11 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 2: 落下して割れるティーカップの 4コマ画像
+## 📋 すべてのプロンプト
+
+> 📝 公開日でソート（新しい順）
+
+### No. 1: 落下して割れるティーカップの 4コマ画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -184,7 +189,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 3: フィボナッチ数列を数学とコードで解説するインフォグラフィック
+### No. 2: フィボナッチ数列を数学とコードで解説するインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -217,7 +222,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 4: ダークモードのクリスマスギフト用ウェブサイト UI デザイン
+### No. 3: ダークモードのクリスマスギフト用ウェブサイト UI デザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -250,7 +255,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 5: サム・アルトマンのフラッシュ自撮り
+### No. 4: サム・アルトマンのフラッシュ自撮り
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -289,7 +294,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 6: 女の子のための芸術的なポートレート編集 (Image-to-Image)
+### No. 5: 女の子のための芸術的なポートレート編集 (Image-to-Image)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -341,7 +346,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 7: 大晦日の渋谷スクランブル交差点に立つ美しい日本人女性
+### No. 6: 大晦日の渋谷スクランブル交差点に立つ美しい日本人女性
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -381,7 +386,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 8: テック系 CEO の無修正アマチュア鏡セルフィー
+### No. 7: テック系 CEO の無修正アマチュア鏡セルフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -420,7 +425,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 9: 彫像写真への技術的な概略図オーバーレイ
+### No. 8: 彫像写真への技術的な概略図オーバーレイ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -466,7 +471,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 10: 大晦日の渋谷スクランブル交差点の空撮写真
+### No. 9: 大晦日の渋谷スクランブル交差点の空撮写真
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -505,7 +510,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 11: 超リアルな本人確認のための複雑な JSON プロンプト
+### No. 10: 超リアルな本人確認のための複雑な JSON プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -639,7 +644,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 12: 画像をモノクロの手描きスケッチに変換
+### No. 11: 画像をモノクロの手描きスケッチに変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -690,7 +695,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 13: Minecraft のリミナルスペース画像
+### No. 12: Minecraft のリミナルスペース画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -723,7 +728,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 14: 反射のあるシネマティックなファッションポートレート
+### No. 13: 反射のあるシネマティックなファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -756,7 +761,7 @@ GPT-Image-1.5 の画像強調および一貫性機能をテストするために
 
 ---
 
-### No. 15: トップダウンの集合写真構図テスト
+### No. 14: トップダウンの集合写真構図テスト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -796,7 +801,7 @@ GPT Image 1.5 と Nano Banana Pro の構図とスタイルを比較するため�
 
 ---
 
-### No. 16: 冷蔵庫マグネットによるシステムプロンプトの抽出
+### No. 15: 冷蔵庫マグネットによるシステムプロンプトの抽出
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -829,7 +834,7 @@ GPT Image 1.5 と Nano Banana Pro の構図とスタイルを比較するため�
 
 ---
 
-### No. 17: 「ゴリラの握力」の画像生成プロンプト
+### No. 16: 「ゴリラの握力」の画像生成プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -862,7 +867,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 18: ジョー・ローガン・ポッドキャスト：グレイ・エイリアン
+### No. 17: ジョー・ローガン・ポッドキャスト：グレイ・エイリアン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -895,7 +900,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 19: プロフェッショナルなスタジオ プロフィール写真の生成
+### No. 18: プロフェッショナルなスタジオ プロフィール写真の生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -928,7 +933,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 20: 54州からなるリアルなアメリカ地図
+### No. 19: 54州からなるリアルなアメリカ地図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -961,7 +966,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 21: スタイリッシュな若者の HD 写真
+### No. 20: スタイリッシュな若者の HD 写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -994,7 +999,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 22: 映画を観る猫、犬、そしてネズミ
+### No. 21: 映画を観る猫、犬、そしてネズミ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1027,7 +1032,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 23: 未来のボブ・ロス風絵画
+### No. 22: 未来のボブ・ロス風絵画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1060,7 +1065,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 24: のんびり過ごす夏のビーチの美しい写真
+### No. 23: のんびり過ごす夏のビーチの美しい写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1103,7 +1108,7 @@ GPT Image 1.5 のテストに使用されたプロンプトで、流行してい
 
 ---
 
-### No. 25: 手描きインフォグラフィック：優れた画像プロンプトの書き方
+### No. 24: 手描きインフォグラフィック：優れた画像プロンプトの書き方
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1136,7 +1141,7 @@ ChatGPT を使って優れた画像プロンプトを作成する方法を、手
 
 ---
 
-### No. 26: アニメスタイルの擬人化 AI サービス
+### No. 25: アニメスタイルの擬人化 AI サービス
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1178,7 +1183,7 @@ ChatGPT を使って優れた画像プロンプトを作成する方法を、手
 
 ---
 
-### No. 27: 9 種類の異なるアートスタイルを比較したマルチカット画像生成
+### No. 26: 9 種類の異なるアートスタイルを比較したマルチカット画像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1230,7 +1235,7 @@ ChatGPT を使って優れた画像プロンプトを作成する方法を、手
 
 ---
 
-### No. 28: 文字の一貫性テストのための複雑な表現変換
+### No. 27: 文字の一貫性テストのための複雑な表現変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1281,7 +1286,7 @@ ChatGPT を使って優れた画像プロンプトを作成する方法を、手
 
 ---
 
-### No. 29: 水没都市で生体発光する鯉に乗るチャイニーズスタイルの少女
+### No. 28: 水没都市で生体発光する鯉に乗るチャイニーズスタイルの少女
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1320,7 +1325,7 @@ ChatGPT を使って優れた画像プロンプトを作成する方法を、手
 
 ---
 
-### No. 30: 太古の時代を舞台にしたオプティマスプライムのビデオゲームポスター
+### No. 29: 太古の時代を舞台にしたオプティマスプライムのビデオゲームポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1353,7 +1358,7 @@ ChatGPT を使って優れた画像プロンプトを作成する方法を、手
 
 ---
 
-### No. 31: 画像編集プロンプト：シャツを追加
+### No. 30: 画像編集プロンプト：シャツを追加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1386,7 +1391,7 @@ Sam Altman に向けたシンプルな画像編集プロンプトで、既存の
 
 ---
 
-### No. 32: 現代の都市景観の中で東京タワーを抱える巨人
+### No. 31: 現代の都市景観の中で東京タワーを抱える巨人
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1425,7 +1430,7 @@ GPT Image 1.5 と Gemini Nano banana Pro を比較する、非常に詳細なフ
 
 ---
 
-### No. 33: 被写体をちびキャラ風に変換
+### No. 32: 被写体をちびキャラ風に変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1458,7 +1463,7 @@ GPT Image 1.5 と Gemini Nano banana Pro を比較する、非常に詳細なフ
 
 ---
 
-### No. 34: テキスト、マイクロインタラクション、ライティングの競合を含む複雑なシーン
+### No. 33: テキスト、マイクロインタラクション、ライティングの競合を含む複雑なシーン
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1495,7 +1500,7 @@ GPT Image 1.5 の指示順守をテストするために設計された、複雑
 
 ---
 
-### No. 35: HTML/CSS の説明図の画像生成プロンプト
+### No. 34: HTML/CSS の説明図の画像生成プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1530,7 +1535,7 @@ HTML と CSS を非常にわかりやすく説明する図を生成してくだ�
 
 ---
 
-### No. 36: Opus 4.5 のビジョン：暗い海に浮かぶ光の像
+### No. 35: Opus 4.5 のビジョン：暗い海に浮かぶ光の像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1563,7 +1568,7 @@ LLM (Opus 4.5) が生成した、その望む視覚的表現を記述する、�
 
 ---
 
-### No. 37: 再構築された画像プロンプト
+### No. 36: 再構築された画像プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1596,7 +1601,7 @@ LLM (Opus 4.5) が生成した、その望む視覚的表現を記述する、�
 
 ---
 
-### No. 38: 猫のリアルな写真
+### No. 37: 猫のリアルな写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1635,7 +1640,7 @@ LLM (Opus 4.5) が生成した、その望む視覚的表現を記述する、�
 
 ---
 
-### No. 39: リアルな歴史的 iPhone 写真の生成
+### No. 38: リアルな歴史的 iPhone 写真の生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1674,7 +1679,7 @@ LLM (Opus 4.5) が生成した、その望む視覚的表現を記述する、�
 
 ---
 
-### No. 40: YouTube サムネイル比較：人間の労力 vs. AI の効率性
+### No. 39: YouTube サムネイル比較：人間の労力 vs. AI の効率性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1714,7 +1719,7 @@ LLM (Opus 4.5) が生成した、その望む視覚的表現を記述する、�
 
 ---
 
-### No. 41: 隠された単語の画像プロンプト：「ライオンの群れ」の中の「zsakib」
+### No. 40: 隠された単語の画像プロンプト：「ライオンの群れ」の中の「zsakib」
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1748,7 +1753,7 @@ GPT Image 1.5 の能力を試すためにデザインされたクリエイティ
 
 ---
 
-### No. 42: 1 セント硬貨上のマクロ写実ジオラマ
+### No. 41: 1 セント硬貨上のマクロ写実ジオラマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1787,7 +1792,7 @@ GPT Image 1.5 の能力を試すためにデザインされたクリエイティ
 
 ---
 
-### No. 43: 2 枚の写真を結合する (画像から画像へ)
+### No. 42: 2 枚の写真を結合する (画像から画像へ)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1826,7 +1831,7 @@ GPT Image 1.5 の能力を試すためにデザインされたクリエイティ
 
 ---
 
-### No. 44: 白いドレスを着た女性のフォトリアルな画像
+### No. 43: 白いドレスを着た女性のフォトリアルな画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1859,7 +1864,7 @@ GPT Image 1.5 の能力を試すためにデザインされたクリエイティ
 
 ---
 
-### No. 45: スリラーのアルバムカバーの男性
+### No. 44: スリラーのアルバムカバーの男性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1898,7 +1903,7 @@ GPT Image 1.5 の能力を試すためにデザインされたクリエイティ
 
 ---
 
-### No. 46: Fortnite のトランプスキン選択メニューのスクリーンショット
+### No. 45: Fortnite のトランプスキン選択メニューのスクリーンショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1932,7 +1937,7 @@ Fortnite のスキン選択メニューのスクリーンショットで、{argu
 
 ---
 
-### No. 47: 彼女のリアルな写真を作成する（反復的な改良）
+### No. 46: 彼女のリアルな写真を作成する（反復的な改良）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1972,7 +1977,7 @@ Fortnite のスキン選択メニューのスクリーンショットで、{argu
 
 ---
 
-### No. 48: GPT Image 1.5 記念イラストプロンプト
+### No. 47: GPT Image 1.5 記念イラストプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2006,7 +2011,7 @@ Fortnite のスキン選択メニューのスクリーンショットで、{argu
 
 ---
 
-### No. 49: リアルなハンバーガー、半分ガラス、半分通常
+### No. 48: リアルなハンバーガー、半分ガラス、半分通常
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2045,7 +2050,7 @@ Fortnite のスキン選択メニューのスクリーンショットで、{argu
 
 ---
 
-### No. 50: 現代のテック系インフルエンサー向けポスターデザイン
+### No. 49: 現代のテック系インフルエンサー向けポスターデザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2083,7 +2088,7 @@ Fortnite のスキン選択メニューのスクリーンショットで、{argu
 
 ---
 
-### No. 51: 赤/ダーク/邪悪な GitHub ロゴとスクリーンショット
+### No. 50: 赤/ダーク/邪悪な GitHub ロゴとスクリーンショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2117,7 +2122,7 @@ GitHub のロゴを {argument name="color and mood" default="赤/暗い/邪悪�
 
 ---
 
-### No. 52: 画像編集: 顔のスタイル変換を伴うクラウド
+### No. 51: 画像編集: 顔のスタイル変換を伴うクラウド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2156,7 +2161,7 @@ GitHub のロゴを {argument name="color and mood" default="赤/暗い/邪悪�
 
 ---
 
-### No. 53: 極めてリアルなミニマリストの結婚式のイメージ
+### No. 52: 極めてリアルなミニマリストの結婚式のイメージ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2207,7 +2212,7 @@ GitHub のロゴを {argument name="color and mood" default="赤/暗い/邪悪�
 
 ---
 
-### No. 54: 超写実的なエディトリアル向け偶発的転倒ポーズ
+### No. 53: 超写実的なエディトリアル向け偶発的転倒ポーズ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2327,7 +2332,7 @@ GitHub のロゴを {argument name="color and mood" default="赤/暗い/邪悪�
 
 ---
 
-### No. 55: OpenAI の歴史インフォグラフィック
+### No. 54: OpenAI の歴史インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2366,7 +2371,7 @@ OpenAI の歴史と 2025 年の進捗状況を示すインフォグラフィッ�
 
 ---
 
-### No. 56: アラビア語での料理注文用マルチパネル画像
+### No. 55: アラビア語での料理注文用マルチパネル画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2405,7 +2410,7 @@ OpenAI の歴史と 2025 年の進捗状況を示すインフォグラフィッ�
 
 ---
 
-### No. 57: リアルな肌の質感を持つ超クローズアップポートレート
+### No. 56: リアルな肌の質感を持つ超クローズアップポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2480,7 +2485,7 @@ OpenAI の歴史と 2025 年の進捗状況を示すインフォグラフィッ�
 
 ---
 
-### No. 58: ランドマークの空撮ビュー
+### No. 57: ランドマークの空撮ビュー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2513,7 +2518,7 @@ GPT Image 1.5 が、上空からの視点で認識可能なランドマークを
 
 ---
 
-### No. 59: 深海生物ポスター（日本アニメ風）
+### No. 58: 深海生物ポスター（日本アニメ風）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2552,7 +2557,7 @@ GPT Image 1.5 が、上空からの視点で認識可能なランドマークを
 
 ---
 
-### No. 60: ニューヨークの通りに巨大なサンタクロース（構造化プロンプト）
+### No. 59: ニューヨークの通りに巨大なサンタクロース（構造化プロンプト）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2636,7 +2641,7 @@ GPT Image 1.5 が、上空からの視点で認識可能なランドマークを
 
 ---
 
-### No. 61: 超リアルな仏教僧の瞑想シーン
+### No. 60: 超リアルな仏教僧の瞑想シーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2679,7 +2684,7 @@ GPT Image 1.5 が、上空からの視点で認識可能なランドマークを
 
 ---
 
-### No. 62: 写真の復元と薄毛の変身
+### No. 61: 写真の復元と薄毛の変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2712,7 +2717,7 @@ GPT Image 1.5 が、上空からの視点で認識可能なランドマークを
 
 ---
 
-### No. 63: ChatGPT 画像 1.5 のインフォグラフィック
+### No. 62: ChatGPT 画像 1.5 のインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2745,7 +2750,7 @@ ChatGPT 画像 1.5 のインフォグラフィックを作成する
 
 ---
 
-### No. 64: イーロン・マスクとサム・アルトマンの偏光セルフィー
+### No. 63: イーロン・マスクとサム・アルトマンの偏光セルフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2785,7 +2790,7 @@ ChatGPT 画像 1.5 のインフォグラフィックを作成する
 
 ---
 
-### No. 65: コンテンツから視覚的に魅力的なスライドを生成
+### No. 64: コンテンツから視覚的に魅力的なスライドを生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2818,7 +2823,7 @@ ChatGPT 画像 1.5 のインフォグラフィックを作成する
 
 ---
 
-### No. 66: Office Inspired のセールスフローチャートインフォグラフィック
+### No. 65: Office Inspired のセールスフローチャートインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2851,7 +2856,7 @@ Dunder Mifflin の営業担当者向けに、営業電話で従うべきイン�
 
 ---
 
-### No. 67: キャラクター感情生成テスト
+### No. 66: キャラクター感情生成テスト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2896,7 +2901,7 @@ GPT Image 1.5 が、元の画像のアートスタイルを維持しつつ、特
 
 ---
 
-### No. 68: 文字の置き換え編集プロンプト
+### No. 67: 文字の置き換え編集プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2929,7 +2934,7 @@ GPT Image 1.5 が、元の画像のアートスタイルを維持しつつ、特
 
 ---
 
-### No. 69: Nike のための Apple スタイル ウェブサイト デザイン
+### No. 68: Nike のための Apple スタイル ウェブサイト デザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2969,7 +2974,7 @@ Nike のウェブサイトデザインを、クリーンで Apple スタイル�
 
 ---
 
-### No. 70: 画像編集: 45 度回転
+### No. 69: 画像編集: 45 度回転
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3008,7 +3013,7 @@ GPT Image 1.5 の画像編集機能をテストするために使用されたシ
 
 ---
 
-### No. 71: ラーメンを食べるキャラクター
+### No. 70: ラーメンを食べるキャラクター
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3047,7 +3052,7 @@ GPT Image 1.5 の画像編集機能をテストするために使用されたシ
 
 ---
 
-### No. 72: 特定のヘッドラインの新聞を持つ人
+### No. 71: 特定のヘッドラインの新聞を持つ人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3087,7 +3092,7 @@ GPT Image 1.5 の画像編集機能をテストするために使用されたシ
 
 ---
 
-### No. 73: 疲れた犬を連れた退屈なインドの政治家たち
+### No. 72: 疲れた犬を連れた退屈なインドの政治家たち
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3127,7 +3132,7 @@ GPT Image 1.5 の画像編集機能をテストするために使用されたシ
 
 ---
 
-### No. 74: 超リアルな猫の写真
+### No. 73: 超リアルな猫の写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3166,7 +3171,7 @@ GPT Image 1.5 の画像編集機能をテストするために使用されたシ
 
 ---
 
-### No. 75: iPhone の分解図テクニカルダイアグラム
+### No. 74: iPhone の分解図テクニカルダイアグラム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3205,7 +3210,7 @@ iPhone の内部コンポーネントがすべて分離され、正確に整列�
 
 ---
 
-### No. 76: 2000 年代のフィルムカメラ風写真
+### No. 75: 2000 年代のフィルムカメラ風写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3238,7 +3243,7 @@ GPT Image 1.5 に、2000 年代のフィルムカメラ写真のような美的�
 
 ---
 
-### No. 77: GPT Image 1.5 の複数人物特徴保持テスト
+### No. 76: GPT Image 1.5 の複数人物特徴保持テスト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3272,7 +3277,7 @@ GPT Image 1.5 が複雑なシーン、特に授賞式で魚眼レンズを使っ
 
 ---
 
-### No. 78: テキストから画像へのプロンプト：秋の落ち葉の中の好奇心旺盛な猫
+### No. 77: テキストから画像へのプロンプト：秋の落ち葉の中の好奇心旺盛な猫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3305,7 +3310,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 79: 複雑なテキストと図のプロンプト（スクリーンショット）
+### No. 78: 複雑なテキストと図のプロンプト（スクリーンショット）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3344,7 +3349,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 80: サッカー選手のプロンプト（スクリーンショット）
+### No. 79: サッカー選手のプロンプト（スクリーンショット）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3389,7 +3394,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 81: グリッド画像から静止画を抽出する
+### No. 80: グリッド画像から静止画を抽出する
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3428,7 +3433,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 82: 2x2 キャッチ＆クック プロンプト（スクリーンショット）
+### No. 81: 2x2 キャッチ＆クック プロンプト（スクリーンショット）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3474,7 +3479,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 83: ガラタ橋の漁師と猫のドキュメンタリー写真
+### No. 82: ガラタ橋の漁師と猫のドキュメンタリー写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3513,7 +3518,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 84: テキストレンダリングテスト付きディストピアポスタープロンプト
+### No. 83: テキストレンダリングテスト付きディストピアポスタープロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3547,7 +3552,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 85: 遊戯王オリジナルカード生成
+### No. 84: 遊戯王オリジナルカード生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3586,7 +3591,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 86: キングコングの超精密折り紙設計図
+### No. 85: キングコングの超精密折り紙設計図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3625,7 +3630,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 87: 番号付き 3x3 グリッドシーン生成
+### No. 86: 番号付き 3x3 グリッドシーン生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3664,7 +3669,7 @@ GPT Image 1.5 の一般的な画像生成能力をテストするために使用
 
 ---
 
-### No. 88: 論文におけるテキスト生成テスト
+### No. 87: 論文におけるテキスト生成テスト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3699,7 +3704,7 @@ GPT Image 1.5 のシンプルなテストプロンプト。複雑なテキスト
 
 ---
 
-### No. 89: ロンドンの通りに座る巨大な男
+### No. 88: ロンドンの通りに座る巨大な男
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3738,7 +3743,7 @@ GPT Image 1.5 のシンプルなテストプロンプト。複雑なテキスト
 
 ---
 
-### No. 90: ガラタ橋の漁師たちの映画のようなシルエット
+### No. 89: ガラタ橋の漁師たちの映画のようなシルエット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3777,7 +3782,7 @@ GPT Image 1.5 のシンプルなテストプロンプト。複雑なテキスト
 
 ---
 
-### No. 91: 3D Qバージョンと2Dイラストの人物とのセルフィー
+### No. 90: 3D Qバージョンと2Dイラストの人物とのセルフィー
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3810,7 +3815,7 @@ GPT Image 1.5 が、3D Q バージョンと 2D イラストという複数の異
 
 ---
 
-### No. 92: ステージでポーズをとる7人の魔法少女
+### No. 91: ステージでポーズをとる7人の魔法少女
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3849,7 +3854,7 @@ Nano Banana Pro と GPT Image 1.5 の出力比較に使用する詳細なプロ�
 
 ---
 
-### No. 93: 魚眼レンズで撮影した、ポーズを強調した集合写真
+### No. 92: 魚眼レンズで撮影した、ポーズを強調した集合写真
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3882,7 +3887,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 94: 1960年代コミックブック風ポップアートポートレート
+### No. 93: 1960年代コミックブック風ポップアートポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3915,7 +3920,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 95: 蓮の風景を生成するシンプルな画像プロンプト
+### No. 94: 蓮の風景を生成するシンプルな画像プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3969,7 +3974,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 96: 2000 年代のフィルムカメラで撮影されたサム、イリヤ、そして犬の写真
+### No. 95: 2000 年代のフィルムカメラで撮影されたサム、イリヤ、そして犬の写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4002,7 +4007,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 97: キャラクター衣装の色変更
+### No. 96: キャラクター衣装の色変更
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4048,7 +4053,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 98: 夜明けの静かな湖
+### No. 97: 夜明けの静かな湖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4081,7 +4086,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 99: 漫画のキャラクタータスク完了プロンプト
+### No. 98: 漫画のキャラクタータスク完了プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4114,7 +4119,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 100: 戦場でアクションポーズをとる戦士
+### No. 99: 戦場でアクションポーズをとる戦士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4147,7 +4152,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 101: Y2K ストリートウェア ファッション エディトリアル ポートレート (JSON 形式)
+### No. 100: Y2K ストリートウェア ファッション エディトリアル ポートレート (JSON 形式)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4255,7 +4260,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 102: GPT 5.1 Instant のアートワーク説明
+### No. 101: GPT 5.1 Instant のアートワーク説明
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4288,7 +4293,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 103: 特定の肖像と構図による超リアルなポートレート
+### No. 102: 特定の肖像と構図による超リアルなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4333,7 +4338,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 104: 古典中国詩に基づくフォトリアルな画像生成
+### No. 103: 古典中国詩に基づくフォトリアルな画像生成
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4372,7 +4377,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 105: 刺繍とボールペン テクスチャによるデュアル スタイル アーティスティック スケッチ
+### No. 104: 刺繍とボールペン テクスチャによるデュアル スタイル アーティスティック スケッチ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4424,7 +4429,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 106: かさじぞうの民話のイラストプロンプト
+### No. 105: かさじぞうの民話のイラストプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4458,7 +4463,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 107: 詳細な「彼氏目線」ポートレート複製プロンプト
+### No. 106: 詳細な「彼氏目線」ポートレート複製プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4539,7 +4544,7 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 
 ---
 
-### No. 108: 画像編集: 車と背景の変換
+### No. 107: 画像編集: 車と背景の変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4616,6 +4621,6 @@ GPT Image 1.5 の表現能力をテストするために、魚眼レンズで上
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-12-17T12:19:13.392Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-12-17T16:13:36.289Z</sub>
 
 </div>

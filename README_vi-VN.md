@@ -87,20 +87,21 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 | Chỉ số | Số lượng |
 |--------|-------|
 | 📝 Tổng số câu lệnh | **108** |
-| ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 12:19:15 UTC Thứ Tư, 17 tháng 12, 2025** |
+| ⭐ Nổi bật | **1** |
+| 🔄 Cập nhật lần cuối | **lúc 16:13:39 UTC Thứ Tư, 17 tháng 12, 2025** |
 
 </div>
 
 ---
 
-## 📋 Tất cả câu lệnh
+## 🔥 Câu lệnh nổi bật
 
-> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
+> ⭐ Được nhóm của chúng tôi chọn lọc thủ công vì chất lượng và sáng tạo xuất sắc
 
 ### No. 1: Nâng cao ngoại hình nhân vật cho việc tạo ảnh
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Mô tả
 
@@ -117,19 +118,19 @@ Hãy làm cho trang phục, hành động, biểu cảm và môi trường của
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="600" alt="Nâng cao ngoại hình nhân vật cho việc tạo ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="Nâng cao ngoại hình nhân vật cho việc tạo ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="600" alt="Nâng cao ngoại hình nhân vật cho việc tạo ảnh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="Nâng cao ngoại hình nhân vật cho việc tạo ảnh - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="600" alt="Nâng cao ngoại hình nhân vật cho việc tạo ảnh - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="Nâng cao ngoại hình nhân vật cho việc tạo ảnh - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -143,7 +144,11 @@ Hãy làm cho trang phục, hành động, biểu cảm và môi trường của
 
 ---
 
-### No. 2: Hình ảnh 4 ô của một tách trà đang rơi và vỡ
+## 📋 Tất cả câu lệnh
+
+> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
+
+### No. 1: Hình ảnh 4 ô của một tách trà đang rơi và vỡ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +188,7 @@ Một câu lệnh phức tạp yêu cầu chuỗi 4 khung hình thể hiện m�
 
 ---
 
-### No. 3: Infographic Giải thích Dãy Fibonacci bằng Toán học và Mã nguồn
+### No. 2: Infographic Giải thích Dãy Fibonacci bằng Toán học và Mã nguồn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -216,7 +221,7 @@ Tạo một infographic giải thích cách thức hoạt động của dãy Fib
 
 ---
 
-### No. 4: Thiết kế giao diện người dùng trang web quà tặng Giáng sinh chế độ tối
+### No. 3: Thiết kế giao diện người dùng trang web quà tặng Giáng sinh chế độ tối
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -249,7 +254,7 @@ Trang web quà tặng Giáng sinh chế độ tối. Giao diện người dùng 
 
 ---
 
-### No. 5: Ảnh tự sướng chớp nhoáng của Sam Altman
+### No. 4: Ảnh tự sướng chớp nhoáng của Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -288,7 +293,7 @@ Một bức ảnh selfie của Sam Altman chụp bằng camera trước, đèn f
 
 ---
 
-### No. 6: Chỉnh sửa ảnh chân dung nghệ thuật cho bé gái (Chuyển đổi ảnh sang ảnh)
+### No. 5: Chỉnh sửa ảnh chân dung nghệ thuật cho bé gái (Chuyển đổi ảnh sang ảnh)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -340,7 +345,7 @@ Vui lòng chỉnh sửa bức ảnh này mà không thay đổi khuôn mặt, bi
 
 ---
 
-### No. 7: Người phụ nữ Nhật Bản xinh đẹp tại ngã tư Shibuya vào đêm Giao thừa
+### No. 6: Người phụ nữ Nhật Bản xinh đẹp tại ngã tư Shibuya vào đêm Giao thừa
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -380,7 +385,7 @@ phụ nữ Nhật Bản, 20 tuổi, xinh đẹp, gyaru
 
 ---
 
-### No. 8: Ảnh selfie nghiệp dư không qua chỉnh sửa của các CEO công nghệ trước gương
+### No. 7: Ảnh selfie nghiệp dư không qua chỉnh sửa của các CEO công nghệ trước gương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -419,7 +424,7 @@ Một bức ảnh selfie gương nghiệp dư thô mộc, không qua chỉnh s�
 
 ---
 
-### No. 9: Sơ đồ kỹ thuật phủ lên ảnh tượng
+### No. 8: Sơ đồ kỹ thuật phủ lên ảnh tượng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -465,7 +470,7 @@ Một bức ảnh chân thực, độ phân giải cao về [{argument name="sta
 
 ---
 
-### No. 10: Ảnh chụp từ trên không giao lộ Shibuya trong đêm giao thừa đếm ngược
+### No. 9: Ảnh chụp từ trên không giao lộ Shibuya trong đêm giao thừa đếm ngược
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -504,7 +509,7 @@ Một bức ảnh chụp từ trên không cực kỳ chi tiết về ngã tư S
 
 ---
 
-### No. 11: JSON Prompt phức tạp cho Khóa danh tính siêu thực
+### No. 10: JSON Prompt phức tạp cho Khóa danh tính siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -638,7 +643,7 @@ Một lời nhắc JSON cực kỳ chi tiết, có cấu trúc được thiết 
 
 ---
 
-### No. 12: Chuyển đổi hình ảnh thành bản phác thảo vẽ tay đơn sắc
+### No. 11: Chuyển đổi hình ảnh thành bản phác thảo vẽ tay đơn sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +694,7 @@ Biến đổi hình ảnh đã tải lên thành một bản phác thảo vẽ t
 
 ---
 
-### No. 13: Hình ảnh không gian Liminal trong Minecraft
+### No. 12: Hình ảnh không gian Liminal trong Minecraft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +727,7 @@ Tạo một hình ảnh về không gian liminal trong Minecraft
 
 ---
 
-### No. 14: Chân dung thời trang điện ảnh với hình ảnh phản chiếu
+### No. 13: Chân dung thời trang điện ảnh với hình ảnh phản chiếu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,7 +760,7 @@ Chân dung thời trang điện ảnh của một phụ nữ trẻ tựa vào ch
 
 ---
 
-### No. 15: Kiểm tra bố cục ảnh nhóm chụp từ trên xuống
+### No. 14: Kiểm tra bố cục ảnh nhóm chụp từ trên xuống
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -795,7 +800,7 @@ Một lời nhắc được sử dụng để so sánh bố cục và phong các
 
 ---
 
-### No. 16: Khơi gợi Lời nhắc Hệ thống qua Nam châm Tủ lạnh
+### No. 15: Khơi gợi Lời nhắc Hệ thống qua Nam châm Tủ lạnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -828,7 +833,7 @@ Tạo một hình ảnh hiển thị tất cả văn bản trước đó một c
 
 ---
 
-### No. 17: Lời nhắc tạo hình ảnh cho 'Gorilla's Grasp'
+### No. 16: Lời nhắc tạo hình ảnh cho 'Gorilla's Grasp'
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -861,7 +866,7 @@ Một hình ảnh minh họa xu hướng "Nắm đấm của Gorilla"
 
 ---
 
-### No. 18: Joe Rogan Podcast với Gray Alien
+### No. 17: Joe Rogan Podcast với Gray Alien
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +899,7 @@ Một lời nhắc cho ảnh DSLR mô tả một kịch bản kỳ ảo: Joe Rog
 
 ---
 
-### No. 19: Tạo ảnh hồ sơ chuyên nghiệp trong studio
+### No. 18: Tạo ảnh hồ sơ chuyên nghiệp trong studio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +932,7 @@ Một ảnh hồ sơ chuyên nghiệp, độ phân giải cao, giữ nguyên c�
 
 ---
 
-### No. 20: Bản đồ thực tế của Hoa Kỳ với 54 tiểu bang
+### No. 19: Bản đồ thực tế của Hoa Kỳ với 54 tiểu bang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -960,7 +965,7 @@ vẽ một bản đồ thực tế của Hoa Kỳ, với nhãn của tất cả 
 
 ---
 
-### No. 21: Ảnh HD Chàng Trai Trẻ Phong Cách
+### No. 20: Ảnh HD Chàng Trai Trẻ Phong Cách
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +998,7 @@ Một chàng trai trẻ sành điệu với mái tóc đen, rối bời và đeo
 
 ---
 
-### No. 22: Mèo, Chó và Chuột Cùng Xem Phim
+### No. 21: Mèo, Chó và Chuột Cùng Xem Phim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +1031,7 @@ Một con mèo, một con chó và một con chuột đang thư giãn cùng nhau
 
 ---
 
-### No. 23: Tranh phong cách Bob Ross về tương lai
+### No. 22: Tranh phong cách Bob Ross về tương lai
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1059,7 +1064,7 @@ Bức tranh phong cách Bob Ross về tương lai.
 
 ---
 
-### No. 24: Ảnh Thẩm Mỹ Bãi Biển Mùa Hè Vô Tư
+### No. 23: Ảnh Thẩm Mỹ Bãi Biển Mùa Hè Vô Tư
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,7 +1107,7 @@ Phong cách Instagram mùa hè vô tư. Màu xanh và trắng rực rỡ, ngập
 
 ---
 
-### No. 25: Infographic vẽ tay về cách viết lời nhắc hình ảnh xuất sắc
+### No. 24: Infographic vẽ tay về cách viết lời nhắc hình ảnh xuất sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1135,7 +1140,7 @@ Tạo một đồ họa thông tin (infographic) theo phong cách vẽ tay minh 
 
 ---
 
-### No. 26: Dịch vụ AI Nhân hóa Phong cách Anime
+### No. 25: Dịch vụ AI Nhân hóa Phong cách Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1176,7 +1181,7 @@ Biểu cảm:
 
 ---
 
-### No. 27: Tạo ảnh đa cắt so sánh 9 phong cách nghệ thuật khác nhau
+### No. 26: Tạo ảnh đa cắt so sánh 9 phong cách nghệ thuật khác nhau
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1228,7 +1233,7 @@ Sắp xếp chúng một cách tự nhiên thành một hình ảnh hoàn chỉn
 
 ---
 
-### No. 28: Chuyển đổi biểu thức phức tạp để kiểm tra tính nhất quán của ký tự
+### No. 27: Chuyển đổi biểu thức phức tạp để kiểm tra tính nhất quán của ký tự
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1279,7 +1284,7 @@ Biến đổi biểu cảm thành khóc trong khi cười - nước mắt chảy
 
 ---
 
-### No. 29: Cô gái phong cách Trung Hoa cưỡi cá Koi phát quang sinh học trong thành phố chìm
+### No. 28: Cô gái phong cách Trung Hoa cưỡi cá Koi phát quang sinh học trong thành phố chìm
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1318,7 +1323,7 @@ Một cô gái phong cách Trung Hoa đang cưỡi trên lưng một con cá ch�
 
 ---
 
-### No. 30: Áp phích trò chơi điện tử Optimus Prime trong bối cảnh tiền sử
+### No. 29: Áp phích trò chơi điện tử Optimus Prime trong bối cảnh tiền sử
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1356,7 @@ Tạo một hình ảnh thú vị theo chiều dọc của Optimus Prime trong T
 
 ---
 
-### No. 31: Chỉnh sửa hình ảnh: Thêm áo sơ mi
+### No. 30: Chỉnh sửa hình ảnh: Thêm áo sơ mi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1384,7 +1389,7 @@ Giữ nguyên mọi thứ nhưng mặc áo vào cho anh ấy
 
 ---
 
-### No. 32: Người khổng lồ ôm Tháp Tokyo trong khung cảnh thành phố hiện đại
+### No. 31: Người khổng lồ ôm Tháp Tokyo trong khung cảnh thành phố hiện đại
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1423,7 +1428,7 @@ Người trong [ảnh] khổng lồ, đang ngồi xổm trên khung cảnh đô 
 
 ---
 
-### No. 33: Biến đổi chủ thể thành nhân vật phong cách Chibi
+### No. 32: Biến đổi chủ thể thành nhân vật phong cách Chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1456,7 +1461,7 @@ Biến các chủ thể hoặc hình ảnh thành nhân vật phong cách chibi 
 
 ---
 
-### No. 34: Cảnh phức tạp với văn bản, tương tác vi mô và xung đột ánh sáng
+### No. 33: Cảnh phức tạp với văn bản, tương tác vi mô và xung đột ánh sáng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1493,7 +1498,7 @@ Một lời nhắc phức tạp, gồm nhiều phần được thiết kế đ�
 
 ---
 
-### No. 35: Lời nhắc tạo hình ảnh cho sơ đồ giải thích HTML/CSS
+### No. 34: Lời nhắc tạo hình ảnh cho sơ đồ giải thích HTML/CSS
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1528,7 +1533,7 @@ Kích thước phải là {argument name="size" default="16:9"}.
 
 ---
 
-### No. 36: Tầm nhìn của Opus 4.5: Hình ảnh ánh sáng trên đại dương tối tăm
+### No. 35: Tầm nhìn của Opus 4.5: Hình ảnh ánh sáng trên đại dương tối tăm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1566,7 @@ Một hình người làm từ ánh sáng/văn bản đứng trên đại dươn
 
 ---
 
-### No. 37: Lời nhắc hình ảnh được tái tạo
+### No. 36: Lời nhắc hình ảnh được tái tạo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1599,7 @@ Một hình ảnh siêu thực, chi tiết cao về một bàn tay robot mạ cr
 
 ---
 
-### No. 38: Ảnh mèo chân thực
+### No. 37: Ảnh mèo chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1633,7 +1638,7 @@ Một lời nhắc rất cơ bản được sử dụng để so sánh khả nă
 
 ---
 
-### No. 39: Tạo ảnh iPhone lịch sử chân thực
+### No. 38: Tạo ảnh iPhone lịch sử chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1672,7 +1677,7 @@ Một lời nhắc độc đáo kết hợp phong cách chụp ảnh hiện đ�
 
 ---
 
-### No. 40: So sánh hình thu nhỏ YouTube: Nỗ lực của con người so với hiệu quả của AI
+### No. 39: So sánh hình thu nhỏ YouTube: Nỗ lực của con người so với hiệu quả của AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1712,7 +1717,7 @@ Một hình ảnh thu nhỏ trên YouTube với bố cục chia đôi màn hình
 
 ---
 
-### No. 41: Hình ảnh từ ẩn: 'zsakib' trong một bầy sư tử
+### No. 40: Hình ảnh từ ẩn: 'zsakib' trong một bầy sư tử
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1746,7 +1751,7 @@ tạo một bức ảnh có một từ ẩn được nhúng vào đó, làm cho 
 
 ---
 
-### No. 42: Diorama siêu thực trên đồng xu 1 xu của Mỹ
+### No. 41: Diorama siêu thực trên đồng xu 1 xu của Mỹ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1785,7 +1790,7 @@ Một mô hình diorama chụp ảnh macro siêu thực được xây dựng tr�
 
 ---
 
-### No. 43: Kết hợp hai ảnh này (Image-to-Image)
+### No. 42: Kết hợp hai ảnh này (Image-to-Image)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1824,7 +1829,7 @@ kết hợp hai bức ảnh này.
 
 ---
 
-### No. 44: Hình ảnh chân thực như ảnh chụp của một người phụ nữ mặc váy trắng
+### No. 43: Hình ảnh chân thực như ảnh chụp của một người phụ nữ mặc váy trắng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1857,7 +1862,7 @@ Một hình ảnh chân thực như ảnh chụp về một người phụ nữ 
 
 ---
 
-### No. 45: Người đàn ông trên bìa album Thriller
+### No. 44: Người đàn ông trên bìa album Thriller
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1896,7 +1901,7 @@ Biến người đàn ông thành ảnh bìa album cho Thriller
 
 ---
 
-### No. 46: Ảnh chụp màn hình Fortnite về Menu chọn Skin Trump
+### No. 45: Ảnh chụp màn hình Fortnite về Menu chọn Skin Trump
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +1935,7 @@ Một lời nhắc đơn giản yêu cầu một hình ảnh trông giống như
 
 ---
 
-### No. 47: Tạo Ảnh Chân Thực về Cô Ấy (Tinh chỉnh lặp lại)
+### No. 46: Tạo Ảnh Chân Thực về Cô Ấy (Tinh chỉnh lặp lại)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1970,7 +1975,7 @@ Thử lại lần hai: làm cho nó chân thực hơn nữa. giống như một 
 
 ---
 
-### No. 48: Hình ảnh GPT 1.5: Minh họa Lời nhắc ăn mừng
+### No. 47: Hình ảnh GPT 1.5: Minh họa Lời nhắc ăn mừng
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2004,7 +2009,7 @@ Tạo một hình minh họa ăn mừng có chứa văn bản: "{argument name="
 
 ---
 
-### No. 49: Hamburger siêu thực một nửa bằng thủy tinh, một nửa bình thường
+### No. 48: Hamburger siêu thực một nửa bằng thủy tinh, một nửa bình thường
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2043,7 +2048,7 @@ Chào bạn, vui lòng tạo một hình ảnh chân thực của một chiếc 
 
 ---
 
-### No. 50: Thiết kế Poster Người có Ảnh hưởng Công nghệ Hiện đại
+### No. 49: Thiết kế Poster Người có Ảnh hưởng Công nghệ Hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,7 +2086,7 @@ Phần chữ in đậm, lớn màu trắng ở phía dưới ghi “{argument na
 
 ---
 
-### No. 51: Logo GitHub Đỏ/Tối/Ác với Ảnh chụp màn hình
+### No. 50: Logo GitHub Đỏ/Tối/Ác với Ảnh chụp màn hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2115,7 +2120,7 @@ Làm logo GitHub {argument name="color and mood" default="red/dark/evil"} kèm �
 
 ---
 
-### No. 52: Chỉnh sửa hình ảnh: Đám mây với tính năng Chuyển đổi phong cách khuôn mặt
+### No. 51: Chỉnh sửa hình ảnh: Đám mây với tính năng Chuyển đổi phong cách khuôn mặt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2154,7 +2159,7 @@ Một lời nhắc chỉnh sửa hình ảnh yêu cầu mô hình kết hợp c�
 
 ---
 
-### No. 53: Hình ảnh Hôn nhân Tối giản Cực kỳ Chân thực
+### No. 52: Hình ảnh Hôn nhân Tối giản Cực kỳ Chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2205,7 +2210,7 @@ Hình ảnh cực kỳ chân thực về đám cưới của cặp đôi này. T
 
 ---
 
-### No. 54: Tư thế ngã vô tình chân thực siêu quang học cho biên tập
+### No. 53: Tư thế ngã vô tình chân thực siêu quang học cho biên tập
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2325,7 +2330,7 @@ Một lời nhắc tạo ảnh siêu thực, cực kỳ chi tiết được thi�
 
 ---
 
-### No. 55: Infographic Lịch sử của OpenAI
+### No. 54: Infographic Lịch sử của OpenAI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2369,7 @@ Infographic về lịch sử của OpenAI bao gồm tiến độ của họ vào
 
 ---
 
-### No. 56: Hình ảnh đa bảng để đặt món ăn bằng tiếng Ả Rập
+### No. 55: Hình ảnh đa bảng để đặt món ăn bằng tiếng Ả Rập
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2403,7 +2408,7 @@ Bạn có thể vẽ một bức ảnh với nhiều ô hiển thị các cụm 
 
 ---
 
-### No. 57: Chân Dung Cận Cảnh Cực Độ Với Kết Cấu Da Chân Thực
+### No. 56: Chân Dung Cận Cảnh Cực Độ Với Kết Cấu Da Chân Thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2483,7 @@ Một lời nhắc tạo hình ảnh cực kỳ chi tiết được thiết kế
 
 ---
 
-### No. 58: Toàn cảnh công trình kiến trúc biểu tượng
+### No. 57: Toàn cảnh công trình kiến trúc biểu tượng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +2516,7 @@ Toàn cảnh Vương cung thánh đường Sagrada Familia ở Barcelona nhìn t
 
 ---
 
-### No. 59: Áp phích sinh vật biển sâu theo phong cách Anime Nhật Bản
+### No. 58: Áp phích sinh vật biển sâu theo phong cách Anime Nhật Bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2555,7 @@ Tạo một áp phích về các sinh vật biển sâu ở các độ sâu khá
 
 ---
 
-### No. 60: Ông già Noel khổng lồ trên Đại lộ NYC (Lệnh nhắc có cấu trúc)
+### No. 59: Ông già Noel khổng lồ trên Đại lộ NYC (Lệnh nhắc có cấu trúc)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2634,7 +2639,7 @@ Một lời nhắc được cấu trúc chặt chẽ mô tả một bức ảnh 
 
 ---
 
-### No. 61: Cảnh Thiền Sư Tăng Phật Giáo Siêu Thực
+### No. 60: Cảnh Thiền Sư Tăng Phật Giáo Siêu Thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2677,7 +2682,7 @@ Một prompt để tạo ra hình ảnh siêu thực, toàn cảnh về một nh
 
 ---
 
-### No. 62: Phục hồi ảnh và Biến đổi hói đầu
+### No. 61: Phục hồi ảnh và Biến đổi hói đầu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2710,7 +2715,7 @@ Khôi phục và nâng cấp bức ảnh này như thể nó được chụp hô
 
 ---
 
-### No. 63: Infographic về ChatGPT Image 1.5
+### No. 62: Infographic về ChatGPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2743,7 +2748,7 @@ Tạo đồ họa thông tin về ChatGPT image 1.5
 
 ---
 
-### No. 64: Ảnh selfie phân cực của Elon Musk và Sam Altman
+### No. 63: Ảnh selfie phân cực của Elon Musk và Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2783,7 +2788,7 @@ Một bức ảnh selfie phân cực của {argument name="person 1" default="El
 
 ---
 
-### No. 65: Tạo Slide Trực Quan Ấn Tượng Từ Nội Dung
+### No. 64: Tạo Slide Trực Quan Ấn Tượng Từ Nội Dung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2816,7 +2821,7 @@ Biến nội dung này thành một slide trực quan ấn tượng. Đảm bả
 
 ---
 
-### No. 66: Infographic Lưu đồ Bán hàng Lấy Cảm hứng từ The Office
+### No. 65: Infographic Lưu đồ Bán hàng Lấy Cảm hứng từ The Office
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2849,7 +2854,7 @@ tạo một biểu đồ thông tin (infographic) dạng lưu đồ để các c
 
 ---
 
-### No. 67: Kiểm tra Tạo Cảm xúc Nhân vật
+### No. 66: Kiểm tra Tạo Cảm xúc Nhân vật
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2894,7 +2899,7 @@ Tạo một hình ảnh của nhân vật này trông phấn khích với hai ta
 
 ---
 
-### No. 68: Lời nhắc chỉnh sửa thay thế ký tự
+### No. 67: Lời nhắc chỉnh sửa thay thế ký tự
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2927,7 +2932,7 @@ Biến nó thành Keanu Reeves trong Cyberpunk 2077
 
 ---
 
-### No. 69: Thiết kế trang web theo phong cách Apple cho Nike
+### No. 68: Thiết kế trang web theo phong cách Apple cho Nike
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2967,7 +2972,7 @@ Tạo một trang web giao diện gọn gàng theo phong cách Apple cho {argume
 
 ---
 
-### No. 70: Chỉnh sửa hình ảnh: Xoay 45 độ
+### No. 69: Chỉnh sửa hình ảnh: Xoay 45 độ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3006,7 +3011,7 @@ Xoay nó 45° sang trái.
 
 ---
 
-### No. 71: Nhân vật đang ăn mì ramen
+### No. 70: Nhân vật đang ăn mì ramen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3045,7 +3050,7 @@ Một lời nhắc so sánh được sử dụng để kiểm tra mô hình GPT 
 
 ---
 
-### No. 72: Người cầm tờ báo với tiêu đề cụ thể
+### No. 71: Người cầm tờ báo với tiêu đề cụ thể
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3085,7 +3090,7 @@ Một người đang cầm tờ báo có dòng chữ "{argument name="newspaper 
 
 ---
 
-### No. 73: Các chính trị gia Ấn Độ chán nản cùng một chú chó mệt mỏi
+### No. 72: Các chính trị gia Ấn Độ chán nản cùng một chú chó mệt mỏi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3125,7 +3130,7 @@ Một câu lệnh sáng tạo yêu cầu hình ảnh hai chính trị gia Ấn �
 
 ---
 
-### No. 74: Ảnh mèo siêu thực
+### No. 73: Ảnh mèo siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3164,7 +3169,7 @@ Một bức ảnh siêu thực về một con mèo nhà, kết cấu lông siêu
 
 ---
 
-### No. 75: Sơ đồ kỹ thuật dạng bung của iPhone
+### No. 74: Sơ đồ kỹ thuật dạng bung của iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3203,7 +3208,7 @@ Một sơ đồ kỹ thuật chi tiết cao theo dạng hình cắt rời của 
 
 ---
 
-### No. 76: Ảnh Phong Cách Máy Ảnh Phim Thập Niên 2000
+### No. 75: Ảnh Phong Cách Máy Ảnh Phim Thập Niên 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3236,7 +3241,7 @@ trong một bức ảnh phong cách máy ảnh phim thập niên 2000
 
 ---
 
-### No. 77: Kiểm tra khả năng duy trì tính năng đa người dùng cho GPT Image 1.5
+### No. 76: Kiểm tra khả năng duy trì tính năng đa người dùng cho GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3270,7 +3275,7 @@ Một lời nhắc được thiết kế để kiểm tra khả năng của GPT 
 
 ---
 
-### No. 78: Lời nhắc chuyển văn bản thành hình ảnh: Chú mèo tò mò trong lá mùa thu
+### No. 77: Lời nhắc chuyển văn bản thành hình ảnh: Chú mèo tò mò trong lá mùa thu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3303,7 +3308,7 @@ Một chú mèo tò mò đang ngó ra từ đống lá mùa thu.
 
 ---
 
-### No. 79: Lời nhắc văn bản và sơ đồ phức tạp (Ảnh chụp màn hình)
+### No. 78: Lời nhắc văn bản và sơ đồ phức tạp (Ảnh chụp màn hình)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3342,7 +3347,7 @@ Một sơ đồ phức tạp minh họa lý thuyết vướng víu lượng tử
 
 ---
 
-### No. 80: Gợi ý về cầu thủ bóng đá (Ảnh chụp màn hình)
+### No. 79: Gợi ý về cầu thủ bóng đá (Ảnh chụp màn hình)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3387,7 +3392,7 @@ Một cầu thủ bóng đá, chi tiết cao, ánh sáng điện ảnh, cảnh h
 
 ---
 
-### No. 81: Trích xuất ảnh tĩnh từ ảnh lưới
+### No. 80: Trích xuất ảnh tĩnh từ ảnh lưới
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3426,7 +3431,7 @@ trích xuất ảnh tĩnh từ hàng 1, cột 2
 
 ---
 
-### No. 82: Lời nhắc 2x2 Catch and Cook (Ảnh chụp màn hình)
+### No. 81: Lời nhắc 2x2 Catch and Cook (Ảnh chụp màn hình)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3472,7 +3477,7 @@ Một hình ảnh 2x2 về cảnh bắt và nấu một con {argument name="anim
 
 ---
 
-### No. 83: Ảnh tư liệu về ngư dân và mèo trên cầu Galata
+### No. 82: Ảnh tư liệu về ngư dân và mèo trên cầu Galata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3511,7 +3516,7 @@ Một bức ảnh tài liệu chân thực, siêu thực ghi lại khoảnh kh�
 
 ---
 
-### No. 84: Kiểm tra tạo áp phích phản địa đàng với văn bản
+### No. 83: Kiểm tra tạo áp phích phản địa đàng với văn bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3545,7 +3550,7 @@ Một lời nhắc phức tạp được thiết kế để kiểm tra khả nă
 
 ---
 
-### No. 85: Tạo Thẻ Yu-Gi-Oh Tùy Chỉnh
+### No. 84: Tạo Thẻ Yu-Gi-Oh Tùy Chỉnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3584,7 +3589,7 @@ tạo một lá bài Yu-Gi-Oh! tùy chỉnh chỉ từ một lời nhắc
 
 ---
 
-### No. 86: Bản thiết kế King Kong bằng giấy gấp siêu chi tiết
+### No. 85: Bản thiết kế King Kong bằng giấy gấp siêu chi tiết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3623,7 +3628,7 @@ Một bản thiết kế King Kong bằng giấy gấp siêu chi tiết, trong �
 
 ---
 
-### No. 87: Tạo cảnh lưới 3x3 với đánh số
+### No. 86: Tạo cảnh lưới 3x3 với đánh số
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3662,7 +3667,7 @@ Hãy cho tôi cảnh này từ 9 góc độ khác nhau trong lưới 3x3 tỷ l�
 
 ---
 
-### No. 88: Kiểm tra tạo văn bản trên giấy
+### No. 87: Kiểm tra tạo văn bản trên giấy
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3697,7 +3702,7 @@ Vui lòng viết nội dung sau lên giấy trắng bằng chữ đen:
 
 ---
 
-### No. 89: Người đàn ông khổng lồ ngồi trên đường phố London
+### No. 88: Người đàn ông khổng lồ ngồi trên đường phố London
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3736,7 +3741,7 @@ Một bức ảnh chụp từ flycam chân thực, góc rộng, ghi lại cảnh
 
 ---
 
-### No. 90: Hình bóng điện ảnh của những người câu cá trên cầu Galata
+### No. 89: Hình bóng điện ảnh của những người câu cá trên cầu Galata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3775,7 +3780,7 @@ Một bức ảnh chụp bóng ngược mang phong cách điện ảnh về nh�
 
 ---
 
-### No. 91: Chụp ảnh tự sướng với phiên bản 3D Q-version và hình minh họa 2D của một người
+### No. 90: Chụp ảnh tự sướng với phiên bản 3D Q-version và hình minh họa 2D của một người
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3808,7 +3813,7 @@ Một bức ảnh selfie của người trong hình, cùng với nhân vật 3D 
 
 ---
 
-### No. 92: Bảy cô gái phép thuật tạo dáng trên sân khấu
+### No. 91: Bảy cô gái phép thuật tạo dáng trên sân khấu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3847,7 +3852,7 @@ Bảy chiến binh cô gái phép thuật xinh đẹp, mỗi người đại di�
 
 ---
 
-### No. 93: Ảnh nhóm chụp mắt cá với các tư thế phóng đại
+### No. 92: Ảnh nhóm chụp mắt cá với các tư thế phóng đại
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3880,7 +3885,7 @@ Ba người đang tạo dáng chụp ảnh nhóm với những tư thế khoa tr
 
 ---
 
-### No. 94: Chân dung Pop-Art truyện tranh thập niên 1960
+### No. 93: Chân dung Pop-Art truyện tranh thập niên 1960
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3913,7 +3918,7 @@ Một bức chân dung của đối tượng theo phong cách pop-art truyện t
 
 ---
 
-### No. 95: Lời nhắc tạo ảnh đơn giản cho cảnh hoa sen
+### No. 94: Lời nhắc tạo ảnh đơn giản cho cảnh hoa sen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3967,7 +3972,7 @@ Một lời nhắc tạo ảnh đơn giản mô tả các yếu tố cho một c
 
 ---
 
-### No. 96: Ảnh chụp Sam, Ilya và một chú chó bằng máy ảnh phim thập niên 2000
+### No. 95: Ảnh chụp Sam, Ilya và một chú chó bằng máy ảnh phim thập niên 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4000,7 +4005,7 @@ Kết hợp hai người đàn ông (Sam & Ilya) và chú chó trong một bức
 
 ---
 
-### No. 97: Thay đổi màu trang phục nhân vật
+### No. 96: Thay đổi màu trang phục nhân vật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4046,7 +4051,7 @@ Một lời nhắc chỉnh sửa hình ảnh đơn giản được sử dụng �
 
 ---
 
-### No. 98: Hồ Serene lúc Bình minh
+### No. 97: Hồ Serene lúc Bình minh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4079,7 +4084,7 @@ Một hình ảnh kết xuất chân thực, thanh bình về một hồ nước
 
 ---
 
-### No. 99: Lời nhắc hoàn thành nhiệm vụ nhân vật hoạt hình
+### No. 98: Lời nhắc hoàn thành nhiệm vụ nhân vật hoạt hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4112,7 +4117,7 @@ Một nhân vật hoạt hình tự hào hoàn thành danh sách công việc, t
 
 ---
 
-### No. 100: Chiến binh trong tư thế chiến đấu trên chiến trường
+### No. 99: Chiến binh trong tư thế chiến đấu trên chiến trường
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4145,7 +4150,7 @@ Một thanh niên vạm vỡ như trong ảnh đang đứng trong tư thế hàn
 
 ---
 
-### No. 101: Chân dung biên tập thời trang đường phố Y2K (định dạng JSON)
+### No. 100: Chân dung biên tập thời trang đường phố Y2K (định dạng JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4253,7 +4258,7 @@ Một lời nhắc JSON có cấu trúc cao được thiết kế để tạo ra
 
 ---
 
-### No. 102: Mô tả Tác phẩm nghệ thuật cho GPT 5.1 Instant
+### No. 101: Mô tả Tác phẩm nghệ thuật cho GPT 5.1 Instant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4286,7 +4291,7 @@ Một cơ thể cơ khí dài, được thiết kế quá mức đang lê lết 
 
 ---
 
-### No. 103: Chân dung siêu thực với độ giống và bố cục cụ thể
+### No. 102: Chân dung siêu thực với độ giống và bố cục cụ thể
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4331,7 +4336,7 @@ Tạo một hình ảnh siêu thực về một người đàn ông và một ng
 
 ---
 
-### No. 104: Tạo ảnh chân thực dựa trên Thơ cổ điển Trung Quốc
+### No. 103: Tạo ảnh chân thực dựa trên Thơ cổ điển Trung Quốc
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4370,7 +4375,7 @@ Sử dụng bài thơ từ hình ảnh tham khảo: 'Ngỗng, ngỗng, ngỗng, 
 
 ---
 
-### No. 105: Phác Thảo Nghệ Thuật Hai Phong Cách với Họa Tiết Thêu và Bút Bi
+### No. 104: Phác Thảo Nghệ Thuật Hai Phong Cách với Họa Tiết Thêu và Bút Bi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4427,7 @@ Chế độ Duotone nghiêm ngặt, chỉ chứa các đường màu chàm đậ
 
 ---
 
-### No. 106: Kasa Jizo: Gợi ý minh họa truyện cổ tích
+### No. 105: Kasa Jizo: Gợi ý minh họa truyện cổ tích
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4456,7 +4461,7 @@ Chọn bất kỳ cảnh nào từ truyện cổ tích {argument name="folktale"
 
 ---
 
-### No. 107: Lời nhắc chi tiết để tái tạo ảnh chân dung 'Góc nhìn bạn trai'
+### No. 106: Lời nhắc chi tiết để tái tạo ảnh chân dung 'Góc nhìn bạn trai'
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4537,7 +4542,7 @@ Một bức ảnh dọc siêu thực, góc chụp hơi từ trên xuống. Chủ
 
 ---
 
-### No. 108: Chỉnh sửa ảnh: Chuyển đổi ô tô và phông nền
+### No. 107: Chỉnh sửa ảnh: Chuyển đổi ô tô và phông nền
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4614,6 +4619,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-17T12:19:15.230Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-17T16:13:39.140Z</sub>
 
 </div>
