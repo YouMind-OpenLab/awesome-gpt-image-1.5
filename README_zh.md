@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **108** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年12月17日星期三 UTC 10:09:50** |
+| 🔄 最后更新 | **2025年12月17日星期三 UTC 12:19:12** |
 
 </div>
 
@@ -4614,6 +4614,6 @@ Change the car to a {argument name="new vehicle" default="Tesla"} and the trees 
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T10:09:50.660Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T12:19:12.076Z</sub>
 
 </div>
