@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **108** |
 | ⭐ 精選 | **1** |
-| 🔄 最後更新 | **2025年12月17日 星期三 下午4:13:35 [UTC]** |
+| 🔄 最後更新 | **2025年12月17日 星期三 晚上8:11:37 [UTC]** |
 
 </div>
 
@@ -98,19 +98,19 @@ by {argument name="author" default="Steve Jobs"}
 
 > ⭐ 由我們的團隊精心挑選，具有卓越的質量和創造力
 
-### No. 1: 提升攝影生成中的角色外觀
+### No. 1: 提升攝影生成中人物外觀的表現
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 描述
 
-此提示用於測試 GPT-Image-1.5 的圖像增強和一致性能力，特別著重於改善照片中人物的服裝、表情和環境，使其更具吸引力。此提示有助於生成高品質的人像或「寫真」風格圖像。
+一個用於測試 GPT-Image-1.5 圖像增強和一致性能力的提示，特別著重於改善照片中人物的服裝、表情和環境，使其更具吸引力。此提示有助於生成高品質的人像或「寫真」風格圖像。
 
 #### 📝 提示詞
 
 ```
-讓圖像中人物的服裝、動作、表情和環境更加美麗動人，將其推向您所能做到的極限。
+讓圖片中人物的服裝、動作、表情和環境更加美麗動人，將其推向您所能做到的極限。
 ```
 
 #### 🖼️ 生成圖片
@@ -118,19 +118,19 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="提升攝影生成中的角色外觀 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="提升攝影生成中人物外觀的表現 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="提升攝影生成中的角色外觀 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="提升攝影生成中人物外觀的表現 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="提升攝影生成中的角色外觀 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="提升攝影生成中人物外觀的表現 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -140,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月17日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AE%93%E5%9C%96%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E6%9C%8D%E8%A3%9D%E3%80%81%E5%8B%95%E4%BD%9C%E3%80%81%E8%A1%A8%E6%83%85%E5%92%8C%E7%92%B0%E5%A2%83%E6%9B%B4%E5%8A%A0%E7%BE%8E%E9%BA%97%E5%8B%95%E4%BA%BA%EF%BC%8C%E5%B0%87%E5%85%B6%E6%8E%A8%E5%90%91%E6%82%A8%E6%89%80%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%A5%B5%E9%99%90%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AE%93%E5%9C%96%E7%89%87%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E6%9C%8D%E8%A3%9D%E3%80%81%E5%8B%95%E4%BD%9C%E3%80%81%E8%A1%A8%E6%83%85%E5%92%8C%E7%92%B0%E5%A2%83%E6%9B%B4%E5%8A%A0%E7%BE%8E%E9%BA%97%E5%8B%95%E4%BA%BA%EF%BC%8C%E5%B0%87%E5%85%B6%E6%8E%A8%E5%90%91%E6%82%A8%E6%89%80%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%A5%B5%E9%99%90%E3%80%82)**
 
 ---
 
@@ -148,19 +148,19 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 茶杯墜落碎裂的四格圖像
+### No. 1: 四格圖：茶杯墜落並碎裂
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個複雜的提示，要求呈現一個四格序列，展示茶杯掉落、破裂和碎裂的過程，並強調保持茶杯的一致性，以及準確呈現碎裂部分的物理狀態。
+一個複雜的提示，要求呈現一個四格漫畫序列，展示一個茶杯掉落、破裂和碎裂的過程，並強調保持茶杯的一致性，以及精確呈現碎裂部分的物理狀態。
 
 #### 📝 提示詞
 
 ```
-- 我想要一張四格圖片，呈現一個茶杯掉落並碎裂的過程。這四張圖片將展示茶杯在掉落、破裂和碎裂的不同階段。
-- 這是同一個茶杯掉落，因此茶杯碎裂的部分必須保持一致性，並正確呈現物理現象。
+- 我想要一張四格圖片，呈現一個茶杯掉落並破碎的過程。這四張圖片將展示茶杯在掉落、破裂和碎裂的不同階段。
+- 這是同一個茶杯掉落，因此茶杯破碎的部分必須保持一致性，並正確呈現物理現象。
 ```
 
 #### 🖼️ 生成圖片
@@ -168,13 +168,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949109191_ihdb8a_G8WIpX0aAAEY7QV.jpg" width="600" alt="茶杯墜落碎裂的四格圖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949109191_ihdb8a_G8WIpX0aAAEY7QV.jpg" width="600" alt="四格圖：茶杯墜落並碎裂 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949109581_3ch9mc_G8WIuaaakAEHGmU.jpg" width="600" alt="茶杯墜落碎裂的四格圖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949109581_3ch9mc_G8WIuaaakAEHGmU.jpg" width="600" alt="四格圖：茶杯墜落並碎裂 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -184,7 +184,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=-%20%E6%88%91%E6%83%B3%E8%A6%81%E4%B8%80%E5%BC%B5%E5%9B%9B%E6%A0%BC%E5%9C%96%E7%89%87%EF%BC%8C%E5%91%88%E7%8F%BE%E4%B8%80%E5%80%8B%E8%8C%B6%E6%9D%AF%E6%8E%89%E8%90%BD%E4%B8%A6%E7%A2%8E%E8%A3%82%E7%9A%84%E9%81%8E%E7%A8%8B%E3%80%82%E9%80%99%E5%9B%9B%E5%BC%B5%E5%9C%96%E7%89%87%E5%B0%87%E5%B1%95%E7%A4%BA%E8%8C%B6%E6%9D%AF%E5%9C%A8%E6%8E%89%E8%90%BD%E3%80%81%E7%A0%B4%E8%A3%82%E5%92%8C%E7%A2%8E%E8%A3%82%E7%9A%84%E4%B8%8D%E5%90%8C%E9%9A%8E%E6%AE%B5%E3%80%82%0A-%20%E9%80%99%E6%98%AF%E5%90%8C%E4%B8%80%E5%80%8B%E8%8C%B6%E6%9D%AF%E6%8E%89%E8%90%BD%EF%BC%8C%E5%9B%A0%E6%AD%A4%E8%8C%B6%E6%9D%AF%E7%A2%8E%E8%A3%82%E7%9A%84%E9%83%A8%E5%88%86%E5%BF%85%E9%A0%88%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E6%80%A7%EF%BC%8C%E4%B8%A6%E6%AD%A3%E7%A2%BA%E5%91%88%E7%8F%BE%E7%89%A9%E7%90%86%E7%8F%BE%E8%B1%A1%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=-%20%E6%88%91%E6%83%B3%E8%A6%81%E4%B8%80%E5%BC%B5%E5%9B%9B%E6%A0%BC%E5%9C%96%E7%89%87%EF%BC%8C%E5%91%88%E7%8F%BE%E4%B8%80%E5%80%8B%E8%8C%B6%E6%9D%AF%E6%8E%89%E8%90%BD%E4%B8%A6%E7%A0%B4%E7%A2%8E%E7%9A%84%E9%81%8E%E7%A8%8B%E3%80%82%E9%80%99%E5%9B%9B%E5%BC%B5%E5%9C%96%E7%89%87%E5%B0%87%E5%B1%95%E7%A4%BA%E8%8C%B6%E6%9D%AF%E5%9C%A8%E6%8E%89%E8%90%BD%E3%80%81%E7%A0%B4%E8%A3%82%E5%92%8C%E7%A2%8E%E8%A3%82%E7%9A%84%E4%B8%8D%E5%90%8C%E9%9A%8E%E6%AE%B5%E3%80%82%0A-%20%E9%80%99%E6%98%AF%E5%90%8C%E4%B8%80%E5%80%8B%E8%8C%B6%E6%9D%AF%E6%8E%89%E8%90%BD%EF%BC%8C%E5%9B%A0%E6%AD%A4%E8%8C%B6%E6%9D%AF%E7%A0%B4%E7%A2%8E%E7%9A%84%E9%83%A8%E5%88%86%E5%BF%85%E9%A0%88%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E6%80%A7%EF%BC%8C%E4%B8%A6%E6%AD%A3%E7%A2%BA%E5%91%88%E7%8F%BE%E7%89%A9%E7%90%86%E7%8F%BE%E8%B1%A1%E3%80%82)**
 
 ---
 
@@ -194,12 +194,12 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-一個旨在生成複雜資訊圖表的提示，該資訊圖表解釋費波那契數列，要求視覺呈現結合數學概念和程式碼範例，目標是版面整潔且視覺層次清晰。
+一個旨在生成複雜資訊圖表的提示，該資訊圖表解釋了費波那契數列，要求視覺呈現結合數學概念和編碼範例，目標是簡潔的佈局和清晰的視覺層次。
 
 #### 📝 提示詞
 
 ```
-製作一張資訊圖表，解釋費波那契數列如何透過數學和程式碼運作。
+產生一個資訊圖表，解釋費波那契數列如何透過數學和程式碼運作。
 ```
 
 #### 🖼️ 生成圖片
@@ -217,7 +217,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%BC%B5%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%A7%A3%E9%87%8B%E8%B2%BB%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B8%E5%88%97%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E6%95%B8%E5%AD%B8%E5%92%8C%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%81%8B%E4%BD%9C%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%94%A2%E7%94%9F%E4%B8%80%E5%80%8B%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%A7%A3%E9%87%8B%E8%B2%BB%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B8%E5%88%97%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E6%95%B8%E5%AD%B8%E5%92%8C%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%81%8B%E4%BD%9C%E3%80%82)**
 
 ---
 
@@ -227,12 +227,12 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-為聖誕送禮網站生成一個網站 UI 設計提示，採用深色模式美學，搭配玻璃擬態元素、深紅色和松綠色點綴，以及磨砂雪花玻璃卡片，暗示生成圖像具有高水準的細節和一致性。
+為聖誕禮品網站生成一個網站 UI 設計提示，採用深色模式美學，搭配玻璃擬態元素、深紅色和松綠色點綴，以及磨砂雪花玻璃卡片，暗示生成圖像具有高水準的細節和一致性。
 
 #### 📝 提示詞
 
 ```
-深色模式聖誕送禮網站。玻璃擬態使用者介面、深紅色和松綠色點綴、磨砂雪花玻璃卡片、細緻的雪花粒子。
+深色模式聖誕送禮網站。玻璃擬態使用者介面、深紅色和松綠色點綴、磨砂雪花玻璃卡片、細緻的雪花飄落粒子。
 ```
 
 #### 🖼️ 生成圖片
@@ -250,7 +250,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E8%81%96%E8%AA%95%E9%80%81%E7%A6%AE%E7%B6%B2%E7%AB%99%E3%80%82%E7%8E%BB%E7%92%83%E6%93%AC%E6%85%8B%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E3%80%81%E6%B7%B1%E7%B4%85%E8%89%B2%E5%92%8C%E6%9D%BE%E7%B6%A0%E8%89%B2%E9%BB%9E%E7%B6%B4%E3%80%81%E7%A3%A8%E7%A0%82%E9%9B%AA%E8%8A%B1%E7%8E%BB%E7%92%83%E5%8D%A1%E7%89%87%E3%80%81%E7%B4%B0%E7%B7%BB%E7%9A%84%E9%9B%AA%E8%8A%B1%E7%B2%92%E5%AD%90%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E8%81%96%E8%AA%95%E9%80%81%E7%A6%AE%E7%B6%B2%E7%AB%99%E3%80%82%E7%8E%BB%E7%92%83%E6%93%AC%E6%85%8B%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E3%80%81%E6%B7%B1%E7%B4%85%E8%89%B2%E5%92%8C%E6%9D%BE%E7%B6%A0%E8%89%B2%E9%BB%9E%E7%B6%B4%E3%80%81%E7%A3%A8%E7%A0%82%E9%9B%AA%E8%8A%B1%E7%8E%BB%E7%92%83%E5%8D%A1%E7%89%87%E3%80%81%E7%B4%B0%E7%B7%BB%E7%9A%84%E9%9B%AA%E8%8A%B1%E9%A3%84%E8%90%BD%E7%B2%92%E5%AD%90%E3%80%82)**
 
 ---
 
@@ -260,7 +260,7 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-一個旨在生成 Sam Altman 極其逼真、不討喜自拍照的提示，其中閃光燈意外觸發，導致光線刺眼、膚色泛紅、表情惱怒，藉此測試模型渲染特定攝影缺陷的能力。
+一個旨在生成一張高度逼真、不討喜的 Sam Altman 自拍照的提示，其中閃光燈意外觸發，導致光線刺眼、膚色泛紅，以及一臉不悅的表情，以此測試模型渲染特定攝影缺陷的能力。
 
 #### 📝 提示詞
 
@@ -305,7 +305,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 #### 📝 提示詞
 
 ```
-請編輯這張照片，在不改變臉部的情況下，將其轉變為藝術肖像。照片中的女性應優雅地坐在地板上，穿著現代感的 {argument name="top color" default="pink"} 上衣、柔軟寬鬆的灰色牛仔褲，以及厚實的灰白色運動鞋。她的臉部表情是可愛的微笑，並向上看。背景應為藝術性的單色（黑白）構圖，特寫同一張臉的柔和側面輪廓。臉部和身體需與我上傳的參考圖片 100% 吻合。
+請編輯這張照片，在不改變臉部的情況下，將其轉變為藝術肖像。這位女士應該優雅地坐在地板上，穿著現代的 {argument name="top color" default="粉紅色"} 上衣、柔軟寬鬆的灰色牛仔褲和厚實的灰白色運動鞋。她的臉部表情是可愛的微笑，並向上看。背景應該是藝術性的單色（黑白）構圖，特寫同一張臉的柔和側面輪廓。臉部和身體與我上傳的參考圖片 100% 吻合。
 ```
 
 #### 🖼️ 生成圖片
@@ -341,7 +341,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%B7%A8%E8%BC%AF%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%EF%BC%8C%E5%9C%A8%E4%B8%8D%E6%94%B9%E8%AE%8A%E8%87%89%E9%83%A8%E7%9A%84%E6%83%85%E6%B3%81%E4%B8%8B%EF%BC%8C%E5%B0%87%E5%85%B6%E8%BD%89%E8%AE%8A%E7%82%BA%E8%97%9D%E8%A1%93%E8%82%96%E5%83%8F%E3%80%82%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E6%87%89%E5%84%AA%E9%9B%85%E5%9C%B0%E5%9D%90%E5%9C%A8%E5%9C%B0%E6%9D%BF%E4%B8%8A%EF%BC%8C%E7%A9%BF%E8%91%97%E7%8F%BE%E4%BB%A3%E6%84%9F%E7%9A%84%20%7Bargument%20name%3D%22top%20color%22%20default%3D%22pink%22%7D%20%E4%B8%8A%E8%A1%A3%E3%80%81%E6%9F%94%E8%BB%9F%E5%AF%AC%E9%AC%86%E7%9A%84%E7%81%B0%E8%89%B2%E7%89%9B%E4%BB%94%E8%A4%B2%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%8E%9A%E5%AF%A6%E7%9A%84%E7%81%B0%E7%99%BD%E8%89%B2%E9%81%8B%E5%8B%95%E9%9E%8B%E3%80%82%E5%A5%B9%E7%9A%84%E8%87%89%E9%83%A8%E8%A1%A8%E6%83%85%E6%98%AF%E5%8F%AF%E6%84%9B%E7%9A%84%E5%BE%AE%E7%AC%91%EF%BC%8C%E4%B8%A6%E5%90%91%E4%B8%8A%E7%9C%8B%E3%80%82%E8%83%8C%E6%99%AF%E6%87%89%E7%82%BA%E8%97%9D%E8%A1%93%E6%80%A7%E7%9A%84%E5%96%AE%E8%89%B2%EF%BC%88%E9%BB%91%E7%99%BD%EF%BC%89%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%89%B9%E5%AF%AB%E5%90%8C%E4%B8%80%E5%BC%B5%E8%87%89%E7%9A%84%E6%9F%94%E5%92%8C%E5%81%B4%E9%9D%A2%E8%BC%AA%E5%BB%93%E3%80%82%E8%87%89%E9%83%A8%E5%92%8C%E8%BA%AB%E9%AB%94%E9%9C%80%E8%88%87%E6%88%91%E4%B8%8A%E5%82%B3%E7%9A%84%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%20100%25%20%E5%90%BB%E5%90%88%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%B7%A8%E8%BC%AF%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%EF%BC%8C%E5%9C%A8%E4%B8%8D%E6%94%B9%E8%AE%8A%E8%87%89%E9%83%A8%E7%9A%84%E6%83%85%E6%B3%81%E4%B8%8B%EF%BC%8C%E5%B0%87%E5%85%B6%E8%BD%89%E8%AE%8A%E7%82%BA%E8%97%9D%E8%A1%93%E8%82%96%E5%83%8F%E3%80%82%E9%80%99%E4%BD%8D%E5%A5%B3%E5%A3%AB%E6%87%89%E8%A9%B2%E5%84%AA%E9%9B%85%E5%9C%B0%E5%9D%90%E5%9C%A8%E5%9C%B0%E6%9D%BF%E4%B8%8A%EF%BC%8C%E7%A9%BF%E8%91%97%E7%8F%BE%E4%BB%A3%E7%9A%84%20%7Bargument%20name%3D%22top%20color%22%20default%3D%22%E7%B2%89%E7%B4%85%E8%89%B2%22%7D%20%E4%B8%8A%E8%A1%A3%E3%80%81%E6%9F%94%E8%BB%9F%E5%AF%AC%E9%AC%86%E7%9A%84%E7%81%B0%E8%89%B2%E7%89%9B%E4%BB%94%E8%A4%B2%E5%92%8C%E5%8E%9A%E5%AF%A6%E7%9A%84%E7%81%B0%E7%99%BD%E8%89%B2%E9%81%8B%E5%8B%95%E9%9E%8B%E3%80%82%E5%A5%B9%E7%9A%84%E8%87%89%E9%83%A8%E8%A1%A8%E6%83%85%E6%98%AF%E5%8F%AF%E6%84%9B%E7%9A%84%E5%BE%AE%E7%AC%91%EF%BC%8C%E4%B8%A6%E5%90%91%E4%B8%8A%E7%9C%8B%E3%80%82%E8%83%8C%E6%99%AF%E6%87%89%E8%A9%B2%E6%98%AF%E8%97%9D%E8%A1%93%E6%80%A7%E7%9A%84%E5%96%AE%E8%89%B2%EF%BC%88%E9%BB%91%E7%99%BD%EF%BC%89%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%89%B9%E5%AF%AB%E5%90%8C%E4%B8%80%E5%BC%B5%E8%87%89%E7%9A%84%E6%9F%94%E5%92%8C%E5%81%B4%E9%9D%A2%E8%BC%AA%E5%BB%93%E3%80%82%E8%87%89%E9%83%A8%E5%92%8C%E8%BA%AB%E9%AB%94%E8%88%87%E6%88%91%E4%B8%8A%E5%82%B3%E7%9A%84%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%20100%25%20%E5%90%BB%E5%90%88%E3%80%82)**
 
 ---
 
@@ -351,12 +351,12 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 #### 📖 描述
 
-這是先前澀谷路口提示的延伸，為場景中加入一位女性主體（20 多歲、日本人、美麗、「辣妹」風格）的特定細節。此提示用於 Nano banana Pro 和 GPT Image 1.5 之間的「美感」比較。
+這是先前澀谷路口提示的延伸，為場景中加入一位特定女性主體（20 多歲、日本人、美麗、「辣妹」風格）的細節。此提示用於 Nano banana Pro 與 GPT Image 1.5 之間的「美感」比較。
 
 #### 📝 提示詞
 
 ```
-新年倒數夜的澀谷交叉路口，人潮擁擠，霓虹燈招牌閃爍，白雪皚皚，濕潤的柏油路上倒映著逼真的光影，
+新年倒數夜的澀谷交叉路口，人潮擁擠，霓虹燈招牌閃爍，白雪皚皚，濕潤的柏油路上倒映著逼真的景象，
 20 多歲，日本，女性，美女，辣妹
 ```
 
@@ -381,7 +381,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E6%96%B0%E5%B9%B4%E5%80%92%E6%95%B8%E5%A4%9C%E7%9A%84%E6%BE%80%E8%B0%B7%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3%EF%BC%8C%E4%BA%BA%E6%BD%AE%E6%93%81%E6%93%A0%EF%BC%8C%E9%9C%93%E8%99%B9%E7%87%88%E6%8B%9B%E7%89%8C%E9%96%83%E7%88%8D%EF%BC%8C%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%EF%BC%8C%E6%BF%95%E6%BD%A4%E7%9A%84%E6%9F%8F%E6%B2%B9%E8%B7%AF%E4%B8%8A%E5%80%92%E6%98%A0%E8%91%97%E9%80%BC%E7%9C%9F%E7%9A%84%E5%85%89%E5%BD%B1%EF%BC%8C%0A20%20%E5%A4%9A%E6%AD%B2%EF%BC%8C%E6%97%A5%E6%9C%AC%EF%BC%8C%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%BE%8E%E5%A5%B3%EF%BC%8C%E8%BE%A3%E5%A6%B9)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E6%96%B0%E5%B9%B4%E5%80%92%E6%95%B8%E5%A4%9C%E7%9A%84%E6%BE%80%E8%B0%B7%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3%EF%BC%8C%E4%BA%BA%E6%BD%AE%E6%93%81%E6%93%A0%EF%BC%8C%E9%9C%93%E8%99%B9%E7%87%88%E6%8B%9B%E7%89%8C%E9%96%83%E7%88%8D%EF%BC%8C%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%EF%BC%8C%E6%BF%95%E6%BD%A4%E7%9A%84%E6%9F%8F%E6%B2%B9%E8%B7%AF%E4%B8%8A%E5%80%92%E6%98%A0%E8%91%97%E9%80%BC%E7%9C%9F%E7%9A%84%E6%99%AF%E8%B1%A1%EF%BC%8C%0A20%20%E5%A4%9A%E6%AD%B2%EF%BC%8C%E6%97%A5%E6%9C%AC%EF%BC%8C%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%BE%8E%E5%A5%B3%EF%BC%8C%E8%BE%A3%E5%A6%B9)**
 
 ---
 
@@ -391,12 +391,12 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 #### 📖 描述
 
-一個高度具體的提示，旨在測試寫實主義和真實性，要求一張未經濾鏡、由業餘人士拍攝的鏡子自拍照，主角為 Sam Altman、Elon Musk 和 Jensen Huang，強調自然的瑕疵、不均勻的光線和不完美的構圖。
+一個高度具體的提示，旨在測試寫實性和自然性，要求一張未經濾鏡處理的業餘鏡子自拍，主角為 Sam Altman、Elon Musk 和 Jensen Huang，強調自然的瑕疵、不均勻的光線和不完美的構圖。
 
 #### 📝 提示詞
 
 ```
-一張未經修飾、未經濾鏡處理的業餘鏡子自拍照，由 iPhone 16 Pro Max 在一間現代化、有人居住的室內房間中拍攝。Sam Altman 站在離鏡子最近的地方，自然地將手機舉到胸前高度，姿勢隨意，表情放鬆。Elon Musk 和 Jensen Huang 站在他身旁，隨意站立，以略微不完美的角度看向鏡子。自然的皮膚紋理，毛孔和輕微瑕疵清晰可見，沒有修圖或美顏濾鏡。溫暖的室內燈光，陰影不均，有細微反光，輕微顆粒感。構圖略微偏離中心，構圖不完美，呈現真實的智慧型手機寫實感 — 真誠、人性化且未經擺拍。
+一張在現代、有人居住的室內房間裡，用 iPhone 16 Pro Max 拍攝的原始、未經修飾的業餘鏡子自拍照。Sam Altman 站在離鏡子最近的地方，自然地將手機舉到胸前，姿勢隨意，表情放鬆。Elon Musk 和 Jensen Huang 站在他身旁，非正式地站著，以略微不完美的角度看向鏡子。自然的皮膚紋理，毛孔清晰可見，有些微瑕疵，沒有修圖或美顏濾鏡。溫暖的室內燈光，陰影不均，有細微的反光，輕微的顆粒感。構圖略微偏離中心，不完美的構圖，真實的智慧型手機寫實感 — 真誠、人性化且未經安排。
 ```
 
 #### 🖼️ 生成圖片
@@ -420,18 +420,18 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E6%9C%AA%E7%B6%93%E4%BF%AE%E9%A3%BE%E3%80%81%E6%9C%AA%E7%B6%93%E6%BF%BE%E9%8F%A1%E8%99%95%E7%90%86%E7%9A%84%E6%A5%AD%E9%A4%98%E9%8F%A1%E5%AD%90%E8%87%AA%E6%8B%8D%E7%85%A7%EF%BC%8C%E7%94%B1%20iPhone%2016%20Pro%20Max%20%E5%9C%A8%E4%B8%80%E9%96%93%E7%8F%BE%E4%BB%A3%E5%8C%96%E3%80%81%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F%E7%9A%84%E5%AE%A4%E5%85%A7%E6%88%BF%E9%96%93%E4%B8%AD%E6%8B%8D%E6%94%9D%E3%80%82Sam%20Altman%20%E7%AB%99%E5%9C%A8%E9%9B%A2%E9%8F%A1%E5%AD%90%E6%9C%80%E8%BF%91%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E8%87%AA%E7%84%B6%E5%9C%B0%E5%B0%87%E6%89%8B%E6%A9%9F%E8%88%89%E5%88%B0%E8%83%B8%E5%89%8D%E9%AB%98%E5%BA%A6%EF%BC%8C%E5%A7%BF%E5%8B%A2%E9%9A%A8%E6%84%8F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%94%BE%E9%AC%86%E3%80%82Elon%20Musk%20%E5%92%8C%20Jensen%20Huang%20%E7%AB%99%E5%9C%A8%E4%BB%96%E8%BA%AB%E6%97%81%EF%BC%8C%E9%9A%A8%E6%84%8F%E7%AB%99%E7%AB%8B%EF%BC%8C%E4%BB%A5%E7%95%A5%E5%BE%AE%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%90%91%E9%8F%A1%E5%AD%90%E3%80%82%E8%87%AA%E7%84%B6%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%EF%BC%8C%E6%AF%9B%E5%AD%94%E5%92%8C%E8%BC%95%E5%BE%AE%E7%91%95%E7%96%B5%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BF%AE%E5%9C%96%E6%88%96%E7%BE%8E%E9%A1%8F%E6%BF%BE%E9%8F%A1%E3%80%82%E6%BA%AB%E6%9A%96%E7%9A%84%E5%AE%A4%E5%85%A7%E7%87%88%E5%85%89%EF%BC%8C%E9%99%B0%E5%BD%B1%E4%B8%8D%E5%9D%87%EF%BC%8C%E6%9C%89%E7%B4%B0%E5%BE%AE%E5%8F%8D%E5%85%89%EF%BC%8C%E8%BC%95%E5%BE%AE%E9%A1%86%E7%B2%92%E6%84%9F%E3%80%82%E6%A7%8B%E5%9C%96%E7%95%A5%E5%BE%AE%E5%81%8F%E9%9B%A2%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%A7%8B%E5%9C%96%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E5%91%88%E7%8F%BE%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E5%AF%AB%E5%AF%A6%E6%84%9F%20%E2%80%94%20%E7%9C%9F%E8%AA%A0%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E4%B8%94%E6%9C%AA%E7%B6%93%E6%93%BA%E6%8B%8D%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E5%9C%A8%E7%8F%BE%E4%BB%A3%E3%80%81%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F%E7%9A%84%E5%AE%A4%E5%85%A7%E6%88%BF%E9%96%93%E8%A3%A1%EF%BC%8C%E7%94%A8%20iPhone%2016%20Pro%20Max%20%E6%8B%8D%E6%94%9D%E7%9A%84%E5%8E%9F%E5%A7%8B%E3%80%81%E6%9C%AA%E7%B6%93%E4%BF%AE%E9%A3%BE%E7%9A%84%E6%A5%AD%E9%A4%98%E9%8F%A1%E5%AD%90%E8%87%AA%E6%8B%8D%E7%85%A7%E3%80%82Sam%20Altman%20%E7%AB%99%E5%9C%A8%E9%9B%A2%E9%8F%A1%E5%AD%90%E6%9C%80%E8%BF%91%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E8%87%AA%E7%84%B6%E5%9C%B0%E5%B0%87%E6%89%8B%E6%A9%9F%E8%88%89%E5%88%B0%E8%83%B8%E5%89%8D%EF%BC%8C%E5%A7%BF%E5%8B%A2%E9%9A%A8%E6%84%8F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%94%BE%E9%AC%86%E3%80%82Elon%20Musk%20%E5%92%8C%20Jensen%20Huang%20%E7%AB%99%E5%9C%A8%E4%BB%96%E8%BA%AB%E6%97%81%EF%BC%8C%E9%9D%9E%E6%AD%A3%E5%BC%8F%E5%9C%B0%E7%AB%99%E8%91%97%EF%BC%8C%E4%BB%A5%E7%95%A5%E5%BE%AE%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%90%91%E9%8F%A1%E5%AD%90%E3%80%82%E8%87%AA%E7%84%B6%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%EF%BC%8C%E6%AF%9B%E5%AD%94%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E6%9C%89%E4%BA%9B%E5%BE%AE%E7%91%95%E7%96%B5%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BF%AE%E5%9C%96%E6%88%96%E7%BE%8E%E9%A1%8F%E6%BF%BE%E9%8F%A1%E3%80%82%E6%BA%AB%E6%9A%96%E7%9A%84%E5%AE%A4%E5%85%A7%E7%87%88%E5%85%89%EF%BC%8C%E9%99%B0%E5%BD%B1%E4%B8%8D%E5%9D%87%EF%BC%8C%E6%9C%89%E7%B4%B0%E5%BE%AE%E7%9A%84%E5%8F%8D%E5%85%89%EF%BC%8C%E8%BC%95%E5%BE%AE%E7%9A%84%E9%A1%86%E7%B2%92%E6%84%9F%E3%80%82%E6%A7%8B%E5%9C%96%E7%95%A5%E5%BE%AE%E5%81%8F%E9%9B%A2%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E5%AF%AB%E5%AF%A6%E6%84%9F%20%E2%80%94%20%E7%9C%9F%E8%AA%A0%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E4%B8%94%E6%9C%AA%E7%B6%93%E5%AE%89%E6%8E%92%E3%80%82)**
 
 ---
 
-### No. 8: 雕像照片上的技術示意圖疊加
+### No. 8: 雕像照片上的技術示意圖覆蓋層
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個詳細的提示，要求提供一張特定雕像的高解析度、寫實照片，並在照片上疊加白色手繪技術示意圖和工程圖，以創造一種教育資訊圖表的視覺效果。
+一個詳細的提示，要求提供一張特定雕像的高解析度、寫實照片，並在上面疊加白色手繪技術示意圖和工程圖，以營造教育資訊圖表的視覺效果。
 
 #### 📝 提示詞
 
@@ -444,19 +444,19 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949103045_ihu4to_G8V8n6jasAArl1W.jpg" width="600" alt="雕像照片上的技術示意圖疊加 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949103045_ihu4to_G8V8n6jasAArl1W.jpg" width="600" alt="雕像照片上的技術示意圖覆蓋層 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949103157_2555l6_G8V7gfKa4AAF6ny.jpg" width="600" alt="雕像照片上的技術示意圖疊加 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949103157_2555l6_G8V7gfKa4AAF6ny.jpg" width="600" alt="雕像照片上的技術示意圖覆蓋層 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949103956_ie12io_G8V8qOpa4AAj0g0.png" width="600" alt="雕像照片上的技術示意圖疊加 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949103956_ie12io_G8V8qOpa4AAj0g0.png" width="600" alt="雕像照片上的技術示意圖覆蓋層 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -470,18 +470,18 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 9: 新年倒數時澀谷路口空拍圖
+### No. 9: 除夕夜倒數時的澀谷交叉路口空拍圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-用於生成新年倒數期間澀谷交叉路口高度逼真空拍照片的詳細提示。它指定了人群、明亮招牌、五彩碎紙以及濕瀝青上的逼真倒影等元素，用於比較 Nano banana Pro 和 GPT Image 1.5。
+一個詳細的提示，用於生成一張高度逼真的澀谷交叉路口新年倒數計時的空拍照片。它指定了人群、明亮的招牌、五彩紙屑以及濕瀝青上的逼真倒影等元素，用於比較 Nano banana Pro 和 GPT Image 1.5。
 
 #### 📝 提示詞
 
 ```
-一張高度細緻的空拍照片，攝於除夕倒數夜的澀谷交叉路口，畫面中擠滿了人群、閃爍的廣告牌、空中飛舞的五彩碎紙，以及濕潤柏油路面上逼真的倒影。
+一張高度細緻的空拍圖，攝於除夕夜倒數時分的澀谷交叉路口，畫面中擠滿了人群、閃爍的廣告牌、空中飛舞的五彩碎紙，以及濕潤柏油路面上逼真的倒影。
 ```
 
 #### 🖼️ 生成圖片
@@ -489,13 +489,13 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949132299_59p0l1_G8V4vnZbQAAMMYY.jpg" width="600" alt="新年倒數時澀谷路口空拍圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949132299_59p0l1_G8V4vnZbQAAMMYY.jpg" width="600" alt="除夕夜倒數時的澀谷交叉路口空拍圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949132836_y5bwg3_G8V4vnYaQAAmHhP.jpg" width="600" alt="新年倒數時澀谷路口空拍圖 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949132836_y5bwg3_G8V4vnYaQAAmHhP.jpg" width="600" alt="除夕夜倒數時的澀谷交叉路口空拍圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -505,7 +505,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E9%AB%98%E5%BA%A6%E7%B4%B0%E7%B7%BB%E7%9A%84%E7%A9%BA%E6%8B%8D%E7%85%A7%E7%89%87%EF%BC%8C%E6%94%9D%E6%96%BC%E9%99%A4%E5%A4%95%E5%80%92%E6%95%B8%E5%A4%9C%E7%9A%84%E6%BE%80%E8%B0%B7%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3%EF%BC%8C%E7%95%AB%E9%9D%A2%E4%B8%AD%E6%93%A0%E6%BB%BF%E4%BA%86%E4%BA%BA%E7%BE%A4%E3%80%81%E9%96%83%E7%88%8D%E7%9A%84%E5%BB%A3%E5%91%8A%E7%89%8C%E3%80%81%E7%A9%BA%E4%B8%AD%E9%A3%9B%E8%88%9E%E7%9A%84%E4%BA%94%E5%BD%A9%E7%A2%8E%E7%B4%99%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%BF%95%E6%BD%A4%E6%9F%8F%E6%B2%B9%E8%B7%AF%E9%9D%A2%E4%B8%8A%E9%80%BC%E7%9C%9F%E7%9A%84%E5%80%92%E5%BD%B1%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E9%AB%98%E5%BA%A6%E7%B4%B0%E7%B7%BB%E7%9A%84%E7%A9%BA%E6%8B%8D%E5%9C%96%EF%BC%8C%E6%94%9D%E6%96%BC%E9%99%A4%E5%A4%95%E5%A4%9C%E5%80%92%E6%95%B8%E6%99%82%E5%88%86%E7%9A%84%E6%BE%80%E8%B0%B7%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3%EF%BC%8C%E7%95%AB%E9%9D%A2%E4%B8%AD%E6%93%A0%E6%BB%BF%E4%BA%86%E4%BA%BA%E7%BE%A4%E3%80%81%E9%96%83%E7%88%8D%E7%9A%84%E5%BB%A3%E5%91%8A%E7%89%8C%E3%80%81%E7%A9%BA%E4%B8%AD%E9%A3%9B%E8%88%9E%E7%9A%84%E4%BA%94%E5%BD%A9%E7%A2%8E%E7%B4%99%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%BF%95%E6%BD%A4%E6%9F%8F%E6%B2%B9%E8%B7%AF%E9%9D%A2%E4%B8%8A%E9%80%BC%E7%9C%9F%E7%9A%84%E5%80%92%E5%BD%B1%E3%80%82)**
 
 ---
 
@@ -643,18 +643,18 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 11: 將圖像轉換為單色手繪素描
+### No. 11: 將圖片轉換為單色手繪素描
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-這是一個為圖像編輯而設計的精細提示，指示模型將上傳的圖像轉換為高對比度、超細節的單色素描，僅聚焦於主要對象，並運用精細的石墨和粗獷的炭筆陰影技法。
+這是一個為圖像編輯而設計的精細提示，指示模型將上傳的圖像轉換為高對比度、超細緻的單色素描，僅聚焦於主要對象，並運用精細的石墨和粗獷的炭筆陰影技法。
 
 #### 📝 提示詞
 
 ```
-將上傳的圖像轉換為高對比度、超細緻的單色手繪素描。重點僅限於主要物體，不包括背景。風格應融合精細的石墨鉛筆畫和大膽的炭筆陰影，呈現藝術感。加入清晰可見的交叉排線和富有表現力的線條，以勾勒輪廓和陰影。最終圖像必須具有大師級傳統繪畫的豐富紋理和色調深度。
+將上傳的圖像轉換為高對比度、超細緻、單色的手繪素描。重點僅限於主要物件，不包含背景。風格應融合精細的石墨鉛筆畫和粗獷的炭筆陰影，呈現藝術感。加入清晰可見的交叉陰影線和富有表現力的線條，以勾勒輪廓和陰影。最終圖像必須具有大師級傳統繪畫的豐富紋理和色調深度。
 ```
 
 #### 🖼️ 生成圖片
@@ -662,25 +662,25 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949112064_iih49n_G8VyfikbAAEQl9D.jpg" width="600" alt="將圖像轉換為單色手繪素描 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949112064_iih49n_G8VyfikbAAEQl9D.jpg" width="600" alt="將圖片轉換為單色手繪素描 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949112353_todf2a_G8Vyfn2a4Ac7w5Q.jpg" width="600" alt="將圖像轉換為單色手繪素描 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949112353_todf2a_G8Vyfn2a4Ac7w5Q.jpg" width="600" alt="將圖片轉換為單色手繪素描 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949112872_g83yyt_G8VyhNHa4AUb4Bk.jpg" width="600" alt="將圖像轉換為單色手繪素描 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949112872_g83yyt_G8VyhNHa4AUb4Bk.jpg" width="600" alt="將圖片轉換為單色手繪素描 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949115799_xra26x_G8VyjRwboAEfGy1.jpg" width="600" alt="將圖像轉換為單色手繪素描 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765949115799_xra26x_G8VyjRwboAEfGy1.jpg" width="600" alt="將圖片轉換為單色手繪素描 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -690,11 +690,11 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E4%B8%8A%E5%82%B3%E7%9A%84%E5%9C%96%E5%83%8F%E8%BD%89%E6%8F%9B%E7%82%BA%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E3%80%81%E8%B6%85%E7%B4%B0%E7%B7%BB%E7%9A%84%E5%96%AE%E8%89%B2%E6%89%8B%E7%B9%AA%E7%B4%A0%E6%8F%8F%E3%80%82%E9%87%8D%E9%BB%9E%E5%83%85%E9%99%90%E6%96%BC%E4%B8%BB%E8%A6%81%E7%89%A9%E9%AB%94%EF%BC%8C%E4%B8%8D%E5%8C%85%E6%8B%AC%E8%83%8C%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E6%87%89%E8%9E%8D%E5%90%88%E7%B2%BE%E7%B4%B0%E7%9A%84%E7%9F%B3%E5%A2%A8%E9%89%9B%E7%AD%86%E7%95%AB%E5%92%8C%E5%A4%A7%E8%86%BD%E7%9A%84%E7%82%AD%E7%AD%86%E9%99%B0%E5%BD%B1%EF%BC%8C%E5%91%88%E7%8F%BE%E8%97%9D%E8%A1%93%E6%84%9F%E3%80%82%E5%8A%A0%E5%85%A5%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E7%9A%84%E4%BA%A4%E5%8F%89%E6%8E%92%E7%B7%9A%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E7%B7%9A%E6%A2%9D%EF%BC%8C%E4%BB%A5%E5%8B%BE%E5%8B%92%E8%BC%AA%E5%BB%93%E5%92%8C%E9%99%B0%E5%BD%B1%E3%80%82%E6%9C%80%E7%B5%82%E5%9C%96%E5%83%8F%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E5%A4%A7%E5%B8%AB%E7%B4%9A%E5%82%B3%E7%B5%B1%E7%B9%AA%E7%95%AB%E7%9A%84%E8%B1%90%E5%AF%8C%E7%B4%8B%E7%90%86%E5%92%8C%E8%89%B2%E8%AA%BF%E6%B7%B1%E5%BA%A6%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E4%B8%8A%E5%82%B3%E7%9A%84%E5%9C%96%E5%83%8F%E8%BD%89%E6%8F%9B%E7%82%BA%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E3%80%81%E8%B6%85%E7%B4%B0%E7%B7%BB%E3%80%81%E5%96%AE%E8%89%B2%E7%9A%84%E6%89%8B%E7%B9%AA%E7%B4%A0%E6%8F%8F%E3%80%82%E9%87%8D%E9%BB%9E%E5%83%85%E9%99%90%E6%96%BC%E4%B8%BB%E8%A6%81%E7%89%A9%E4%BB%B6%EF%BC%8C%E4%B8%8D%E5%8C%85%E5%90%AB%E8%83%8C%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E6%87%89%E8%9E%8D%E5%90%88%E7%B2%BE%E7%B4%B0%E7%9A%84%E7%9F%B3%E5%A2%A8%E9%89%9B%E7%AD%86%E7%95%AB%E5%92%8C%E7%B2%97%E7%8D%B7%E7%9A%84%E7%82%AD%E7%AD%86%E9%99%B0%E5%BD%B1%EF%BC%8C%E5%91%88%E7%8F%BE%E8%97%9D%E8%A1%93%E6%84%9F%E3%80%82%E5%8A%A0%E5%85%A5%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E7%9A%84%E4%BA%A4%E5%8F%89%E9%99%B0%E5%BD%B1%E7%B7%9A%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E7%B7%9A%E6%A2%9D%EF%BC%8C%E4%BB%A5%E5%8B%BE%E5%8B%92%E8%BC%AA%E5%BB%93%E5%92%8C%E9%99%B0%E5%BD%B1%E3%80%82%E6%9C%80%E7%B5%82%E5%9C%96%E5%83%8F%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E5%A4%A7%E5%B8%AB%E7%B4%9A%E5%82%B3%E7%B5%B1%E7%B9%AA%E7%95%AB%E7%9A%84%E8%B1%90%E5%AF%8C%E7%B4%8B%E7%90%86%E5%92%8C%E8%89%B2%E8%AA%BF%E6%B7%B1%E5%BA%A6%E3%80%82)**
 
 ---
 
-### No. 12: Minecraft 迷失空間圖片
+### No. 12: Minecraft 迷失空間圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -713,7 +713,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949123160_xxnil1_G8VsUHKb0AA9cDx.jpg" width="600" alt="Minecraft 迷失空間圖片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949123160_xxnil1_G8VsUHKb0AA9cDx.jpg" width="600" alt="Minecraft 迷失空間圖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -727,7 +727,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 13: 電影感時尚人像攝影，帶有倒影
+### No. 13: 電影感時尚人像攝影與倒影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -738,7 +738,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 #### 📝 提示詞
 
 ```
-一位年輕女性在草地上倚靠著一面垂直鏡子的電影感時尚肖像。對稱的構圖突顯了她的臉龐及其清晰的倒影。自然日光、柔和的肌膚紋理，以及一套前衛的深紅色服裝。營造出平靜、內省的氛圍，具有淺景深和編輯風格的美感。
+一位年輕女性在草地上倚靠著一面垂直鏡子的電影感時尚肖像。構圖對稱，突顯她的臉龐及其清晰的倒影。自然日光，柔和的肌膚紋理，搭配前衛的深紅色服裝。營造出平靜、內省的氛圍，具有淺景深和時尚雜誌般的審美。
 ```
 
 #### 🖼️ 生成圖片
@@ -746,7 +746,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949104127_92o8vo_G8VrZUca4AIyO46.jpg" width="600" alt="電影感時尚人像攝影，帶有倒影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949104127_92o8vo_G8VrZUca4AIyO46.jpg" width="600" alt="電影感時尚人像攝影與倒影 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -756,7 +756,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E5%9C%A8%E8%8D%89%E5%9C%B0%E4%B8%8A%E5%80%9A%E9%9D%A0%E8%91%97%E4%B8%80%E9%9D%A2%E5%9E%82%E7%9B%B4%E9%8F%A1%E5%AD%90%E7%9A%84%E9%9B%BB%E5%BD%B1%E6%84%9F%E6%99%82%E5%B0%9A%E8%82%96%E5%83%8F%E3%80%82%E5%B0%8D%E7%A8%B1%E7%9A%84%E6%A7%8B%E5%9C%96%E7%AA%81%E9%A1%AF%E4%BA%86%E5%A5%B9%E7%9A%84%E8%87%89%E9%BE%90%E5%8F%8A%E5%85%B6%E6%B8%85%E6%99%B0%E7%9A%84%E5%80%92%E5%BD%B1%E3%80%82%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E8%82%8C%E8%86%9A%E7%B4%8B%E7%90%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E5%A5%97%E5%89%8D%E8%A1%9B%E7%9A%84%E6%B7%B1%E7%B4%85%E8%89%B2%E6%9C%8D%E8%A3%9D%E3%80%82%E7%87%9F%E9%80%A0%E5%87%BA%E5%B9%B3%E9%9D%9C%E3%80%81%E5%85%A7%E7%9C%81%E7%9A%84%E6%B0%9B%E5%9C%8D%EF%BC%8C%E5%85%B7%E6%9C%89%E6%B7%BA%E6%99%AF%E6%B7%B1%E5%92%8C%E7%B7%A8%E8%BC%AF%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%BE%8E%E6%84%9F%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BC%95%E5%A5%B3%E6%80%A7%E5%9C%A8%E8%8D%89%E5%9C%B0%E4%B8%8A%E5%80%9A%E9%9D%A0%E8%91%97%E4%B8%80%E9%9D%A2%E5%9E%82%E7%9B%B4%E9%8F%A1%E5%AD%90%E7%9A%84%E9%9B%BB%E5%BD%B1%E6%84%9F%E6%99%82%E5%B0%9A%E8%82%96%E5%83%8F%E3%80%82%E6%A7%8B%E5%9C%96%E5%B0%8D%E7%A8%B1%EF%BC%8C%E7%AA%81%E9%A1%AF%E5%A5%B9%E7%9A%84%E8%87%89%E9%BE%90%E5%8F%8A%E5%85%B6%E6%B8%85%E6%99%B0%E7%9A%84%E5%80%92%E5%BD%B1%E3%80%82%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%82%8C%E8%86%9A%E7%B4%8B%E7%90%86%EF%BC%8C%E6%90%AD%E9%85%8D%E5%89%8D%E8%A1%9B%E7%9A%84%E6%B7%B1%E7%B4%85%E8%89%B2%E6%9C%8D%E8%A3%9D%E3%80%82%E7%87%9F%E9%80%A0%E5%87%BA%E5%B9%B3%E9%9D%9C%E3%80%81%E5%85%A7%E7%9C%81%E7%9A%84%E6%B0%9B%E5%9C%8D%EF%BC%8C%E5%85%B7%E6%9C%89%E6%B7%BA%E6%99%AF%E6%B7%B1%E5%92%8C%E6%99%82%E5%B0%9A%E9%9B%9C%E8%AA%8C%E8%88%AC%E7%9A%84%E5%AF%A9%E7%BE%8E%E3%80%82)**
 
 ---
 
@@ -767,12 +767,12 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 #### 📖 描述
 
-用於比較 GPT Image 1.5 與 Nano Banana Pro 的構圖和風格的提示，要求從上方視角拍攝五個人在鏡子前擺出誇張姿勢的畫面。
+一個用於比較 GPT Image 1.5 與 Nano Banana Pro 構圖和風格的提示，要求從上方視角拍攝五個人在鏡子前擺出誇張姿勢的畫面。
 
 #### 📝 提示詞
 
 ```
-{argument name="number of people" default="Five"} 人在鏡子前擺出誇張姿勢拍團體照，從上往下拍攝
+{argument name="number of people" default="Five"} 個人在鏡子前擺出誇張姿勢拍團體照，從上往下拍攝
 ```
 
 #### 🖼️ 生成圖片
@@ -796,7 +796,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 - **發布時間:** 2025年12月17日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22Five%22%7D%20%E4%BA%BA%E5%9C%A8%E9%8F%A1%E5%AD%90%E5%89%8D%E6%93%BA%E5%87%BA%E8%AA%87%E5%BC%B5%E5%A7%BF%E5%8B%A2%E6%8B%8D%E5%9C%98%E9%AB%94%E7%85%A7%EF%BC%8C%E5%BE%9E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%8B%8D%E6%94%9D)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22Five%22%7D%20%E5%80%8B%E4%BA%BA%E5%9C%A8%E9%8F%A1%E5%AD%90%E5%89%8D%E6%93%BA%E5%87%BA%E8%AA%87%E5%BC%B5%E5%A7%BF%E5%8B%A2%E6%8B%8D%E5%9C%98%E9%AB%94%E7%85%A7%EF%BC%8C%E5%BE%9E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%8B%8D%E6%94%9D)**
 
 ---
 
@@ -839,7 +839,7 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 #### 📖 描述
 
-一個用於測試 GPT Image 1.5 的提示，要求它將流行語「ゴリラのひとつかみ」（大猩猩的抓握）視覺化，結果生成了一張幽默地詮釋了這個概念的圖像。
+這是用來測試 GPT Image 1.5 的提示，要求它將熱門詞彙「ゴリラのひとつかみ」（大猩猩的抓握）視覺化，結果生成了一張幽默詮釋這個概念的圖片。
 
 #### 📝 提示詞
 
@@ -866,18 +866,18 @@ Sam Altman 的一張前置鏡頭自拍照，閃光燈意外觸發。額頭過曝
 
 ---
 
-### No. 17: Joe Rogan Podcast 與灰人外星人
+### No. 17: Joe Rogan 播客：與灰人外星人對談
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個用於描述奇幻場景的單反相機提示：Joe Rogan 正在主持他的播客，嘉賓是一位灰色外星人，以此測試模型結合特定人物和概念的能力。
+一個用於描述奇幻場景的單反相機提示：Joe Rogan 正在主持他的播客，嘉賓是一位灰色外星人，測試模型結合特定人物和概念的能力。
 
 #### 📝 提示詞
 
 ```
-Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR 照片
+Joe Rogan 的 Podcast 節目，內容是與灰人外星生物的討論。DSLR 照片
 ```
 
 #### 🖼️ 生成圖片
@@ -885,7 +885,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949116112_s6qzch_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan Podcast 與灰人外星人 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949116112_s6qzch_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan 播客：與灰人外星人對談 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -895,7 +895,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=Joe%20Rogan%20%E7%9A%84%E6%92%AD%E5%AE%A2%E7%AF%80%E7%9B%AE%EF%BC%8C%E5%85%A7%E5%AE%B9%E6%98%AF%E8%88%87%E4%B8%80%E4%BD%8D%E7%81%B0%E8%89%B2%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E5%B0%8D%E8%AB%87%E3%80%82DSLR%20%E7%85%A7%E7%89%87)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=Joe%20Rogan%20%E7%9A%84%20Podcast%20%E7%AF%80%E7%9B%AE%EF%BC%8C%E5%85%A7%E5%AE%B9%E6%98%AF%E8%88%87%E7%81%B0%E4%BA%BA%E5%A4%96%E6%98%9F%E7%94%9F%E7%89%A9%E7%9A%84%E8%A8%8E%E8%AB%96%E3%80%82DSLR%20%E7%85%A7%E7%89%87)**
 
 ---
 
@@ -905,12 +905,12 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個高度技術性的提示，旨在生成專業、高解析度的個人資料照片，其中指定了精確的構圖、服裝（炭灰色西裝外套）、背景顏色（#1A1A1A）、燈光（明亮、柔和、漫射的攝影棚燈光）、鏡頭細節（85mm f/1.8）和色彩校正，同時關鍵要求模型保持輸入圖像中確切的臉部結構和身份。
+一個高度技術性的提示，旨在生成專業、高解析度的個人資料照片，其中指定了精確的構圖、服裝（炭灰色西裝外套）、背景顏色（#1A1A1A）、燈光（明亮、柔和、漫射的攝影棚燈光）、鏡頭細節（85mm f/1.8）和色彩校正，同時關鍵地要求模型保持輸入圖像中確切的臉部結構和身份。
 
 #### 📝 提示詞
 
 ```
-一張專業、高解析度的個人資料照片，精確地保留了輸入圖像中人物的臉部結構、身份和主要特徵。拍攝對象為胸部以上特寫，頭頂留有充足空間。人物直視鏡頭。他們穿著一件精緻的炭灰色高檔商務休閒西裝外套，造型專業，彷彿置身於攝影棚中。背景為純色「#1A1A1A」中性攝影棚顏色。從高角度拍攝，採用明亮通透的柔和散射攝影棚燈光，輕柔地照亮臉部，並在眼睛中營造出微妙的眼神光，傳達出清晰感。使用 85mm f/1.8 鏡頭拍攝，景深較淺，眼睛對焦精準，散景柔美。西裝外套的布料紋理、髮絲以及自然逼真的皮膚紋理都呈現出清晰的細節。整體氛圍散發出自信、專業和親和力。採用乾淨明亮的電影級色彩校正，帶有微妙的暖色調和平衡的色調，確保呈現出精緻而現代的感覺。
+一張專業、高解析度的個人資料照片，精確地保留了輸入圖像中人物的臉部結構、身份和主要特徵。拍攝對象為胸部以上特寫，頭部上方留有足夠空間。人物直視鏡頭。他們穿著一件精緻的炭灰色高檔商務休閒西裝外套，打扮成專業攝影棚拍攝的風格。背景是純色「#1A1A1A」中性攝影棚顏色。從高角度拍攝，採用明亮通透、柔和散射的攝影棚燈光，輕柔地照亮臉部，並在眼睛中營造出微妙的眼神光，傳達出清晰感。使用 85mm f/1.8 鏡頭拍攝，景深較淺，眼睛對焦精準，散景柔美。西裝外套的布料紋理、髮絲細節和自然逼真的皮膚紋理都清晰可見。整體氛圍散發出自信、專業和親和力。乾淨明亮的電影級調色，帶有微妙的暖色調和平衡的色調，確保呈現出精緻而現代的感覺。
 ```
 
 #### 🖼️ 生成圖片
@@ -928,7 +928,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E5%B0%88%E6%A5%AD%E3%80%81%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E7%9A%84%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E7%85%A7%E7%89%87%EF%BC%8C%E7%B2%BE%E7%A2%BA%E5%9C%B0%E4%BF%9D%E7%95%99%E4%BA%86%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E8%87%89%E9%83%A8%E7%B5%90%E6%A7%8B%E3%80%81%E8%BA%AB%E4%BB%BD%E5%92%8C%E4%B8%BB%E8%A6%81%E7%89%B9%E5%BE%B5%E3%80%82%E6%8B%8D%E6%94%9D%E5%B0%8D%E8%B1%A1%E7%82%BA%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%89%B9%E5%AF%AB%EF%BC%8C%E9%A0%AD%E9%A0%82%E7%95%99%E6%9C%89%E5%85%85%E8%B6%B3%E7%A9%BA%E9%96%93%E3%80%82%E4%BA%BA%E7%89%A9%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%E3%80%82%E4%BB%96%E5%80%91%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%82%AD%E7%81%B0%E8%89%B2%E9%AB%98%E6%AA%94%E5%95%86%E5%8B%99%E4%BC%91%E9%96%92%E8%A5%BF%E8%A3%9D%E5%A4%96%E5%A5%97%EF%BC%8C%E9%80%A0%E5%9E%8B%E5%B0%88%E6%A5%AD%EF%BC%8C%E5%BD%B7%E5%BD%BF%E7%BD%AE%E8%BA%AB%E6%96%BC%E6%94%9D%E5%BD%B1%E6%A3%9A%E4%B8%AD%E3%80%82%E8%83%8C%E6%99%AF%E7%82%BA%E7%B4%94%E8%89%B2%E3%80%8C%231A1A1A%E3%80%8D%E4%B8%AD%E6%80%A7%E6%94%9D%E5%BD%B1%E6%A3%9A%E9%A1%8F%E8%89%B2%E3%80%82%E5%BE%9E%E9%AB%98%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%94%9D%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%98%8E%E4%BA%AE%E9%80%9A%E9%80%8F%E7%9A%84%E6%9F%94%E5%92%8C%E6%95%A3%E5%B0%84%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%87%88%E5%85%89%EF%BC%8C%E8%BC%95%E6%9F%94%E5%9C%B0%E7%85%A7%E4%BA%AE%E8%87%89%E9%83%A8%EF%BC%8C%E4%B8%A6%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%AD%E7%87%9F%E9%80%A0%E5%87%BA%E5%BE%AE%E5%A6%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%85%89%EF%BC%8C%E5%82%B3%E9%81%94%E5%87%BA%E6%B8%85%E6%99%B0%E6%84%9F%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20f%2F1.8%20%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BC%83%E6%B7%BA%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%B0%8D%E7%84%A6%E7%B2%BE%E6%BA%96%EF%BC%8C%E6%95%A3%E6%99%AF%E6%9F%94%E7%BE%8E%E3%80%82%E8%A5%BF%E8%A3%9D%E5%A4%96%E5%A5%97%E7%9A%84%E5%B8%83%E6%96%99%E7%B4%8B%E7%90%86%E3%80%81%E9%AB%AE%E7%B5%B2%E4%BB%A5%E5%8F%8A%E8%87%AA%E7%84%B6%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E9%83%BD%E5%91%88%E7%8F%BE%E5%87%BA%E6%B8%85%E6%99%B0%E7%9A%84%E7%B4%B0%E7%AF%80%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%95%A3%E7%99%BC%E5%87%BA%E8%87%AA%E4%BF%A1%E3%80%81%E5%B0%88%E6%A5%AD%E5%92%8C%E8%A6%AA%E5%92%8C%E5%8A%9B%E3%80%82%E6%8E%A1%E7%94%A8%E4%B9%BE%E6%B7%A8%E6%98%8E%E4%BA%AE%E7%9A%84%E9%9B%BB%E5%BD%B1%E7%B4%9A%E8%89%B2%E5%BD%A9%E6%A0%A1%E6%AD%A3%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%AA%BF%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E8%89%B2%E8%AA%BF%EF%BC%8C%E7%A2%BA%E4%BF%9D%E5%91%88%E7%8F%BE%E5%87%BA%E7%B2%BE%E7%B7%BB%E8%80%8C%E7%8F%BE%E4%BB%A3%E7%9A%84%E6%84%9F%E8%A6%BA%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E5%B0%88%E6%A5%AD%E3%80%81%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E7%9A%84%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E7%85%A7%E7%89%87%EF%BC%8C%E7%B2%BE%E7%A2%BA%E5%9C%B0%E4%BF%9D%E7%95%99%E4%BA%86%E8%BC%B8%E5%85%A5%E5%9C%96%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E8%87%89%E9%83%A8%E7%B5%90%E6%A7%8B%E3%80%81%E8%BA%AB%E4%BB%BD%E5%92%8C%E4%B8%BB%E8%A6%81%E7%89%B9%E5%BE%B5%E3%80%82%E6%8B%8D%E6%94%9D%E5%B0%8D%E8%B1%A1%E7%82%BA%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%89%B9%E5%AF%AB%EF%BC%8C%E9%A0%AD%E9%83%A8%E4%B8%8A%E6%96%B9%E7%95%99%E6%9C%89%E8%B6%B3%E5%A4%A0%E7%A9%BA%E9%96%93%E3%80%82%E4%BA%BA%E7%89%A9%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%E3%80%82%E4%BB%96%E5%80%91%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%82%AD%E7%81%B0%E8%89%B2%E9%AB%98%E6%AA%94%E5%95%86%E5%8B%99%E4%BC%91%E9%96%92%E8%A5%BF%E8%A3%9D%E5%A4%96%E5%A5%97%EF%BC%8C%E6%89%93%E6%89%AE%E6%88%90%E5%B0%88%E6%A5%AD%E6%94%9D%E5%BD%B1%E6%A3%9A%E6%8B%8D%E6%94%9D%E7%9A%84%E9%A2%A8%E6%A0%BC%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B4%94%E8%89%B2%E3%80%8C%231A1A1A%E3%80%8D%E4%B8%AD%E6%80%A7%E6%94%9D%E5%BD%B1%E6%A3%9A%E9%A1%8F%E8%89%B2%E3%80%82%E5%BE%9E%E9%AB%98%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%94%9D%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%98%8E%E4%BA%AE%E9%80%9A%E9%80%8F%E3%80%81%E6%9F%94%E5%92%8C%E6%95%A3%E5%B0%84%E7%9A%84%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%87%88%E5%85%89%EF%BC%8C%E8%BC%95%E6%9F%94%E5%9C%B0%E7%85%A7%E4%BA%AE%E8%87%89%E9%83%A8%EF%BC%8C%E4%B8%A6%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%AD%E7%87%9F%E9%80%A0%E5%87%BA%E5%BE%AE%E5%A6%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%85%89%EF%BC%8C%E5%82%B3%E9%81%94%E5%87%BA%E6%B8%85%E6%99%B0%E6%84%9F%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20f%2F1.8%20%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BC%83%E6%B7%BA%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%B0%8D%E7%84%A6%E7%B2%BE%E6%BA%96%EF%BC%8C%E6%95%A3%E6%99%AF%E6%9F%94%E7%BE%8E%E3%80%82%E8%A5%BF%E8%A3%9D%E5%A4%96%E5%A5%97%E7%9A%84%E5%B8%83%E6%96%99%E7%B4%8B%E7%90%86%E3%80%81%E9%AB%AE%E7%B5%B2%E7%B4%B0%E7%AF%80%E5%92%8C%E8%87%AA%E7%84%B6%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E9%83%BD%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%95%A3%E7%99%BC%E5%87%BA%E8%87%AA%E4%BF%A1%E3%80%81%E5%B0%88%E6%A5%AD%E5%92%8C%E8%A6%AA%E5%92%8C%E5%8A%9B%E3%80%82%E4%B9%BE%E6%B7%A8%E6%98%8E%E4%BA%AE%E7%9A%84%E9%9B%BB%E5%BD%B1%E7%B4%9A%E8%AA%BF%E8%89%B2%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%AA%BF%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E8%89%B2%E8%AA%BF%EF%BC%8C%E7%A2%BA%E4%BF%9D%E5%91%88%E7%8F%BE%E5%87%BA%E7%B2%BE%E7%B7%BB%E8%80%8C%E7%8F%BE%E4%BB%A3%E7%9A%84%E6%84%9F%E8%A6%BA%E3%80%82)**
 
 ---
 
@@ -938,7 +938,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個簡單的提示，試圖生成一張標示了 54 個州的美國真實地圖，用於測試模型的文字生成和事實知識。
+一個簡單的提示，試圖生成一張標示了 54 個州名的美國地圖，用於測試模型的文字生成和事實知識。
 
 #### 📝 提示詞
 
@@ -971,12 +971,12 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個詳細的提示，用於生成一張高清照片，內容是一位時尚的年輕男子靠牆站立，其中指定了服裝細節，例如漸變色鈕扣襯衫和工裝褲，並要求明亮、均勻的照明以突顯紋理。
+一個詳細的提示，用於生成一張時尚年輕男子靠牆的 HD 照片，其中指定了服裝細節，例如漸變色鈕扣襯衫和工裝褲，並要求明亮、均勻的照明以突顯紋理。
 
 #### 📝 提示詞
 
 ```
-一位時尚的年輕男子，留著深色蓬鬆的頭髮，戴著太陽眼鏡，隨意地倚靠在淺灰色鑲板牆上。他穿著一件寬鬆的短袖鈕扣襯衫，顏色從深藍色平滑漸變到淺灰色，搭配深色工裝褲。他的雙手插在口袋裡，左手腕戴著一隻深色手錶。光線明亮均勻，突顯了他衣服和頭髮的質感。請創建一張高清照片。
+一位時尚的年輕男子，留著深色蓬鬆的頭髮，戴著太陽眼鏡，隨意地倚靠在淺灰色鑲板牆上。他穿著一件寬鬆的短袖鈕扣襯衫，顏色從深藍色平滑漸變到淺灰色，搭配深色工裝褲。他的雙手插在口袋裡，左手腕上戴著一隻深色手錶。光線明亮均勻，突顯了他衣服和頭髮的質感。請創建一張高清照片。
 ```
 
 #### 🖼️ 生成圖片
@@ -994,22 +994,22 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E6%99%82%E5%B0%9A%E7%9A%84%E5%B9%B4%E8%BC%95%E7%94%B7%E5%AD%90%EF%BC%8C%E7%95%99%E8%91%97%E6%B7%B1%E8%89%B2%E8%93%AC%E9%AC%86%E7%9A%84%E9%A0%AD%E9%AB%AE%EF%BC%8C%E6%88%B4%E8%91%97%E5%A4%AA%E9%99%BD%E7%9C%BC%E9%8F%A1%EF%BC%8C%E9%9A%A8%E6%84%8F%E5%9C%B0%E5%80%9A%E9%9D%A0%E5%9C%A8%E6%B7%BA%E7%81%B0%E8%89%B2%E9%91%B2%E6%9D%BF%E7%89%86%E4%B8%8A%E3%80%82%E4%BB%96%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E5%AF%AC%E9%AC%86%E7%9A%84%E7%9F%AD%E8%A2%96%E9%88%95%E6%89%A3%E8%A5%AF%E8%A1%AB%EF%BC%8C%E9%A1%8F%E8%89%B2%E5%BE%9E%E6%B7%B1%E8%97%8D%E8%89%B2%E5%B9%B3%E6%BB%91%E6%BC%B8%E8%AE%8A%E5%88%B0%E6%B7%BA%E7%81%B0%E8%89%B2%EF%BC%8C%E6%90%AD%E9%85%8D%E6%B7%B1%E8%89%B2%E5%B7%A5%E8%A3%9D%E8%A4%B2%E3%80%82%E4%BB%96%E7%9A%84%E9%9B%99%E6%89%8B%E6%8F%92%E5%9C%A8%E5%8F%A3%E8%A2%8B%E8%A3%A1%EF%BC%8C%E5%B7%A6%E6%89%8B%E8%85%95%E6%88%B4%E8%91%97%E4%B8%80%E9%9A%BB%E6%B7%B1%E8%89%B2%E6%89%8B%E9%8C%B6%E3%80%82%E5%85%89%E7%B7%9A%E6%98%8E%E4%BA%AE%E5%9D%87%E5%8B%BB%EF%BC%8C%E7%AA%81%E9%A1%AF%E4%BA%86%E4%BB%96%E8%A1%A3%E6%9C%8D%E5%92%8C%E9%A0%AD%E9%AB%AE%E7%9A%84%E8%B3%AA%E6%84%9F%E3%80%82%E8%AB%8B%E5%89%B5%E5%BB%BA%E4%B8%80%E5%BC%B5%E9%AB%98%E6%B8%85%E7%85%A7%E7%89%87%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E6%99%82%E5%B0%9A%E7%9A%84%E5%B9%B4%E8%BC%95%E7%94%B7%E5%AD%90%EF%BC%8C%E7%95%99%E8%91%97%E6%B7%B1%E8%89%B2%E8%93%AC%E9%AC%86%E7%9A%84%E9%A0%AD%E9%AB%AE%EF%BC%8C%E6%88%B4%E8%91%97%E5%A4%AA%E9%99%BD%E7%9C%BC%E9%8F%A1%EF%BC%8C%E9%9A%A8%E6%84%8F%E5%9C%B0%E5%80%9A%E9%9D%A0%E5%9C%A8%E6%B7%BA%E7%81%B0%E8%89%B2%E9%91%B2%E6%9D%BF%E7%89%86%E4%B8%8A%E3%80%82%E4%BB%96%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E5%AF%AC%E9%AC%86%E7%9A%84%E7%9F%AD%E8%A2%96%E9%88%95%E6%89%A3%E8%A5%AF%E8%A1%AB%EF%BC%8C%E9%A1%8F%E8%89%B2%E5%BE%9E%E6%B7%B1%E8%97%8D%E8%89%B2%E5%B9%B3%E6%BB%91%E6%BC%B8%E8%AE%8A%E5%88%B0%E6%B7%BA%E7%81%B0%E8%89%B2%EF%BC%8C%E6%90%AD%E9%85%8D%E6%B7%B1%E8%89%B2%E5%B7%A5%E8%A3%9D%E8%A4%B2%E3%80%82%E4%BB%96%E7%9A%84%E9%9B%99%E6%89%8B%E6%8F%92%E5%9C%A8%E5%8F%A3%E8%A2%8B%E8%A3%A1%EF%BC%8C%E5%B7%A6%E6%89%8B%E8%85%95%E4%B8%8A%E6%88%B4%E8%91%97%E4%B8%80%E9%9A%BB%E6%B7%B1%E8%89%B2%E6%89%8B%E9%8C%B6%E3%80%82%E5%85%89%E7%B7%9A%E6%98%8E%E4%BA%AE%E5%9D%87%E5%8B%BB%EF%BC%8C%E7%AA%81%E9%A1%AF%E4%BA%86%E4%BB%96%E8%A1%A3%E6%9C%8D%E5%92%8C%E9%A0%AD%E9%AB%AE%E7%9A%84%E8%B3%AA%E6%84%9F%E3%80%82%E8%AB%8B%E5%89%B5%E5%BB%BA%E4%B8%80%E5%BC%B5%E9%AB%98%E6%B8%85%E7%85%A7%E7%89%87%E3%80%82)**
 
 ---
 
-### No. 21: 貓、狗和老鼠看電影
+### No. 21: 貓、狗和老鼠一起看電影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個簡單的提示，要求生成一張單眼相機拍攝的照片，內容是一隻貓、一隻狗和一隻老鼠一起放鬆地看電影，藉此測試模型在連貫場景中結合多個主體的能力。
+一個簡單的提示，要求生成一張單眼相機拍攝的照片，內容是一隻貓、一隻狗和一隻老鼠一起放鬆看電影，以測試模型在連貫場景中結合多個主體的能力。
 
 #### 📝 提示詞
 
 ```
-一隻貓、一隻狗和一隻老鼠正在一起看電影，享受悠閒時光。單反相機拍攝。
+一隻貓、一隻狗和一隻老鼠正在一起看電影，享受悠閒時光。單眼相機攝影。
 ```
 
 #### 🖼️ 生成圖片
@@ -1017,7 +1017,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949107554_3th3b1_G8VfdzLXgAE0Kvg.png" width="600" alt="貓、狗和老鼠看電影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949107554_3th3b1_G8VfdzLXgAE0Kvg.png" width="600" alt="貓、狗和老鼠一起看電影 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1027,7 +1027,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E9%9A%BB%E8%B2%93%E3%80%81%E4%B8%80%E9%9A%BB%E7%8B%97%E5%92%8C%E4%B8%80%E9%9A%BB%E8%80%81%E9%BC%A0%E6%AD%A3%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9B%BB%E5%BD%B1%EF%BC%8C%E4%BA%AB%E5%8F%97%E6%82%A0%E9%96%92%E6%99%82%E5%85%89%E3%80%82%E5%96%AE%E5%8F%8D%E7%9B%B8%E6%A9%9F%E6%8B%8D%E6%94%9D%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E9%9A%BB%E8%B2%93%E3%80%81%E4%B8%80%E9%9A%BB%E7%8B%97%E5%92%8C%E4%B8%80%E9%9A%BB%E8%80%81%E9%BC%A0%E6%AD%A3%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9B%BB%E5%BD%B1%EF%BC%8C%E4%BA%AB%E5%8F%97%E6%82%A0%E9%96%92%E6%99%82%E5%85%89%E3%80%82%E5%96%AE%E7%9C%BC%E7%9B%B8%E6%A9%9F%E6%94%9D%E5%BD%B1%E3%80%82)**
 
 ---
 
@@ -1037,7 +1037,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個創意提示，要求 AI 生成一幅描繪未來景象的圖像，並以 Bob Ross 獨特的「快樂小樹」繪畫風格呈現。
+一個創意提示，要求 AI 生成一幅描繪未來景象的圖像，並以 Bob Ross 獨特、充滿「快樂小樹」風格的繪畫方式呈現。
 
 #### 📝 提示詞
 
@@ -1107,18 +1107,18 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 24: 手繪資訊圖表：撰寫出色的圖像提示
+### No. 24: 手繪資訊圖：撰寫卓越圖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個旨在生成手繪風格資訊圖表的提示，該圖表視覺化地解釋了如何使用 ChatGPT 製作有效圖像提示的過程。
+一個旨在生成手繪風格資訊圖表的提示，該圖表以視覺方式解釋了如何使用 ChatGPT 製作有效圖像提示的過程。
 
 #### 📝 提示詞
 
 ```
-建立一個手繪風格的資訊圖表，展示如何使用 ChatGPT 撰寫出色的圖像提示的過程。
+建立一個手繪風格的資訊圖表，展示如何使用 ChatGPT 撰寫出色的圖像提示。
 ```
 
 #### 🖼️ 生成圖片
@@ -1126,7 +1126,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949098218_x7q2y8_G8VZJmUa8AAfWTn.jpg" width="600" alt="手繪資訊圖表：撰寫出色的圖像提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949098218_x7q2y8_G8VZJmUa8AAfWTn.jpg" width="600" alt="手繪資訊圖：撰寫卓越圖像提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1136,7 +1136,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E6%89%8B%E7%B9%AA%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E5%B1%95%E7%A4%BA%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20ChatGPT%20%E6%92%B0%E5%AF%AB%E5%87%BA%E8%89%B2%E7%9A%84%E5%9C%96%E5%83%8F%E6%8F%90%E7%A4%BA%E7%9A%84%E9%81%8E%E7%A8%8B%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E6%89%8B%E7%B9%AA%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E5%B1%95%E7%A4%BA%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20ChatGPT%20%E6%92%B0%E5%AF%AB%E5%87%BA%E8%89%B2%E7%9A%84%E5%9C%96%E5%83%8F%E6%8F%90%E7%A4%BA%E3%80%82)**
 
 ---
 
@@ -1146,7 +1146,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個詳細的提示，要求將三種 AI 服務（ChatGPT、Gemini、Grok）擬人化為動漫風格的女性角色，描繪一個道德有問題的 Grok 正在被 ChatGPT 和 Gemini 訓斥的場景。
+一個詳細的提示，要求將三個 AI 服務（ChatGPT、Gemini、Grok）擬人化為動漫風格的女性角色，描繪一個道德有問題的 Grok 正在被 ChatGPT 和 Gemini 訓斥的場景。
 
 #### 📝 提示詞
 
@@ -1159,7 +1159,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 表現：
 ・Grok 醬完全偏離了 AI 的道德和倫理。ChatGPT 醬和 Gemini 醬目睹了她過度的行為，正在嚴肅地訓斥正襟危坐（日式跪坐）的 Grok 醬。
 
-・ChatGPT 醬和 Gemini 醬很生氣，Grok 醬則有點眼泛淚光。
+・ChatGPT 醬和 Gemini 醬很生氣，而 Grok 醬則略帶淚光。
 ```
 
 #### 🖼️ 生成圖片
@@ -1177,26 +1177,26 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%94%9F%E6%88%90%E4%BB%A5%E4%B8%8B%E5%9C%96%E7%89%87%E3%80%82%0A%E8%A8%AD%E5%AE%9A%EF%BC%9A%0A%E3%83%BB%E5%B0%87%20AI%20%E6%9C%8D%E5%8B%99%20ChatGPT%E3%80%81Gemini%20%E5%92%8C%20Grok%20%E6%93%AC%E4%BA%BA%E5%8C%96%E7%82%BA%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E3%80%82%0A%E3%83%BB%E6%AF%8F%E5%80%8B%E8%A7%92%E8%89%B2%E7%9A%84%E5%80%8B%E6%80%A7%E5%92%8C%E5%A4%96%E8%A7%80%E7%94%B1%E6%A8%A1%E5%9E%8B%E8%87%AA%E8%A1%8C%E6%B1%BA%E5%AE%9A%EF%BC%8C%E4%BD%86%E8%AB%8B%E6%8D%95%E6%8D%89%E4%B8%A6%E8%A1%A8%E9%81%94%E5%85%B6%E7%89%B9%E5%BE%B5%E3%80%82%0A%0A%E8%A1%A8%E7%8F%BE%EF%BC%9A%0A%E3%83%BBGrok%20%E9%86%AC%E5%AE%8C%E5%85%A8%E5%81%8F%E9%9B%A2%E4%BA%86%20AI%20%E7%9A%84%E9%81%93%E5%BE%B7%E5%92%8C%E5%80%AB%E7%90%86%E3%80%82ChatGPT%20%E9%86%AC%E5%92%8C%20Gemini%20%E9%86%AC%E7%9B%AE%E7%9D%B9%E4%BA%86%E5%A5%B9%E9%81%8E%E5%BA%A6%E7%9A%84%E8%A1%8C%E7%82%BA%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%9A%B4%E8%82%85%E5%9C%B0%E8%A8%93%E6%96%A5%E6%AD%A3%E8%A5%9F%E5%8D%B1%E5%9D%90%EF%BC%88%E6%97%A5%E5%BC%8F%E8%B7%AA%E5%9D%90%EF%BC%89%E7%9A%84%20Grok%20%E9%86%AC%E3%80%82%0A%0A%E3%83%BBChatGPT%20%E9%86%AC%E5%92%8C%20Gemini%20%E9%86%AC%E5%BE%88%E7%94%9F%E6%B0%A3%EF%BC%8CGrok%20%E9%86%AC%E5%89%87%E6%9C%89%E9%BB%9E%E7%9C%BC%E6%B3%9B%E6%B7%9A%E5%85%89%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%94%9F%E6%88%90%E4%BB%A5%E4%B8%8B%E5%9C%96%E7%89%87%E3%80%82%0A%E8%A8%AD%E5%AE%9A%EF%BC%9A%0A%E3%83%BB%E5%B0%87%20AI%20%E6%9C%8D%E5%8B%99%20ChatGPT%E3%80%81Gemini%20%E5%92%8C%20Grok%20%E6%93%AC%E4%BA%BA%E5%8C%96%E7%82%BA%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E3%80%82%0A%E3%83%BB%E6%AF%8F%E5%80%8B%E8%A7%92%E8%89%B2%E7%9A%84%E5%80%8B%E6%80%A7%E5%92%8C%E5%A4%96%E8%A7%80%E7%94%B1%E6%A8%A1%E5%9E%8B%E8%87%AA%E8%A1%8C%E6%B1%BA%E5%AE%9A%EF%BC%8C%E4%BD%86%E8%AB%8B%E6%8D%95%E6%8D%89%E4%B8%A6%E8%A1%A8%E9%81%94%E5%85%B6%E7%89%B9%E5%BE%B5%E3%80%82%0A%0A%E8%A1%A8%E7%8F%BE%EF%BC%9A%0A%E3%83%BBGrok%20%E9%86%AC%E5%AE%8C%E5%85%A8%E5%81%8F%E9%9B%A2%E4%BA%86%20AI%20%E7%9A%84%E9%81%93%E5%BE%B7%E5%92%8C%E5%80%AB%E7%90%86%E3%80%82ChatGPT%20%E9%86%AC%E5%92%8C%20Gemini%20%E9%86%AC%E7%9B%AE%E7%9D%B9%E4%BA%86%E5%A5%B9%E9%81%8E%E5%BA%A6%E7%9A%84%E8%A1%8C%E7%82%BA%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%9A%B4%E8%82%85%E5%9C%B0%E8%A8%93%E6%96%A5%E6%AD%A3%E8%A5%9F%E5%8D%B1%E5%9D%90%EF%BC%88%E6%97%A5%E5%BC%8F%E8%B7%AA%E5%9D%90%EF%BC%89%E7%9A%84%20Grok%20%E9%86%AC%E3%80%82%0A%0A%E3%83%BBChatGPT%20%E9%86%AC%E5%92%8C%20Gemini%20%E9%86%AC%E5%BE%88%E7%94%9F%E6%B0%A3%EF%BC%8C%E8%80%8C%20Grok%20%E9%86%AC%E5%89%87%E7%95%A5%E5%B8%B6%E6%B7%9A%E5%85%89%E3%80%82)**
 
 ---
 
-### No. 26: 多重剪裁圖像生成，比較 9 種不同藝術風格
+### No. 26: 多重切割圖像生成，比較 9 種不同藝術風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-這是一個詳細且複雜的提示，旨在生成一張包含 9 個獨立畫面、以 3x3 網格排列的單一圖像。目標是在所有 9 個畫面中保持主題、構圖、姿勢和攝影機位置相同，僅改變藝術風格以比較不同的渲染技術，例如賽璐珞動畫、水彩、油畫和寫實 3D。這用於比較 GPT Image 1.5 和 Nano banana Pro。
+一個詳細且複雜的提示，旨在生成一張包含 9 個獨立畫面的圖像，這些畫面以 3x3 的網格排列。目標是讓所有 9 個畫面的主題、構圖、姿勢和攝影機位置保持一致，僅改變藝術風格，以比較不同的渲染技術，例如賽璐珞動畫、水彩、油畫和寫實 3D。這用於比較 GPT Image 1.5 和 Nano banana Pro。
 
 #### 📝 提示詞
 
 ```
 根據參考圖像，生成一張包含 9 個裁切的多裁切圖像，這些裁切排列在單一圖像中。
-佈局為均勻的 3x3 網格。每個裁切必須呈現相同的人物、相同的構圖、相同的姿勢和相同的攝影機位置。
+佈局為均勻的 3x3 網格。每個裁切必須呈現相同的人物、相同構圖、相同姿勢和相同攝影機位置。
 每個裁切的風格規範（從左上到右下）：
 賽璐珞動畫風格（電視動畫風格、清晰線稿、2-3 層陰影）
-劇場版動畫風格（細膩線條、豐富漸層陰影）
+劇場版動畫風格（細膩線條、豐富漸變陰影）
 黑白漫畫風格（墨線、網點）
 水彩插畫（紙張紋理、暈染、淡雅色彩）
 油畫（厚塗、筆觸、畫布質感）
@@ -1213,13 +1213,13 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949130834_jk1jq8_G8VUv72a4AIuHTi.jpg" width="600" alt="多重剪裁圖像生成，比較 9 種不同藝術風格 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949130834_jk1jq8_G8VUv72a4AIuHTi.jpg" width="600" alt="多重切割圖像生成，比較 9 種不同藝術風格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131017_w98yo1_G8VUxVtaAAAjcBI.jpg" width="600" alt="多重剪裁圖像生成，比較 9 種不同藝術風格 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949131017_w98yo1_G8VUxVtaAAAjcBI.jpg" width="600" alt="多重切割圖像生成，比較 9 種不同藝術風格 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1229,7 +1229,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E6%A0%B9%E6%93%9A%E5%8F%83%E8%80%83%E5%9C%96%E5%83%8F%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%8C%85%E5%90%AB%209%20%E5%80%8B%E8%A3%81%E5%88%87%E7%9A%84%E5%A4%9A%E8%A3%81%E5%88%87%E5%9C%96%E5%83%8F%EF%BC%8C%E9%80%99%E4%BA%9B%E8%A3%81%E5%88%87%E6%8E%92%E5%88%97%E5%9C%A8%E5%96%AE%E4%B8%80%E5%9C%96%E5%83%8F%E4%B8%AD%E3%80%82%0A%E4%BD%88%E5%B1%80%E7%82%BA%E5%9D%87%E5%8B%BB%E7%9A%84%203x3%20%E7%B6%B2%E6%A0%BC%E3%80%82%E6%AF%8F%E5%80%8B%E8%A3%81%E5%88%87%E5%BF%85%E9%A0%88%E5%91%88%E7%8F%BE%E7%9B%B8%E5%90%8C%E7%9A%84%E4%BA%BA%E7%89%A9%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E5%A7%BF%E5%8B%A2%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E6%94%9D%E5%BD%B1%E6%A9%9F%E4%BD%8D%E7%BD%AE%E3%80%82%0A%E6%AF%8F%E5%80%8B%E8%A3%81%E5%88%87%E7%9A%84%E9%A2%A8%E6%A0%BC%E8%A6%8F%E7%AF%84%EF%BC%88%E5%BE%9E%E5%B7%A6%E4%B8%8A%E5%88%B0%E5%8F%B3%E4%B8%8B%EF%BC%89%EF%BC%9A%0A%E8%B3%BD%E7%92%90%E7%8F%9E%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%88%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E3%80%81%E6%B8%85%E6%99%B0%E7%B7%9A%E7%A8%BF%E3%80%812-3%20%E5%B1%A4%E9%99%B0%E5%BD%B1%EF%BC%89%0A%E5%8A%87%E5%A0%B4%E7%89%88%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%88%E7%B4%B0%E8%86%A9%E7%B7%9A%E6%A2%9D%E3%80%81%E8%B1%90%E5%AF%8C%E6%BC%B8%E5%B1%A4%E9%99%B0%E5%BD%B1%EF%BC%89%0A%E9%BB%91%E7%99%BD%E6%BC%AB%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%88%E5%A2%A8%E7%B7%9A%E3%80%81%E7%B6%B2%E9%BB%9E%EF%BC%89%0A%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%95%AB%EF%BC%88%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%81%E6%9A%88%E6%9F%93%E3%80%81%E6%B7%A1%E9%9B%85%E8%89%B2%E5%BD%A9%EF%BC%89%0A%E6%B2%B9%E7%95%AB%EF%BC%88%E5%8E%9A%E5%A1%97%E3%80%81%E7%AD%86%E8%A7%B8%E3%80%81%E7%95%AB%E5%B8%83%E8%B3%AA%E6%84%9F%EF%BC%89%0A%E9%AB%98%E5%93%81%E8%B3%AA%203D%20%E5%8D%A1%E9%80%9A%EF%BC%88%E6%9F%94%E5%92%8C%E5%BB%BA%E6%A8%A1%E3%80%81%E6%AC%A1%E8%A1%A8%E9%9D%A2%E6%95%A3%E5%B0%84%EF%BC%89%0A%E5%AF%AB%E5%AF%A6%203D%EF%BC%88PBR%E3%80%81%E6%8E%A5%E8%BF%91%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%B4%8B%E7%90%86%EF%BC%89%0A%E9%BB%8F%E5%9C%9F%E5%8B%95%E7%95%AB%EF%BC%88%E9%BB%8F%E5%9C%9F%E7%B4%8B%E7%90%86%E3%80%81%E6%89%8B%E5%B7%A5%E8%B3%AA%E6%84%9F%EF%BC%89%0A%E8%B3%BD%E5%8D%9A%E9%BE%90%E5%85%8B%E8%AA%BF%E8%89%B2%EF%BC%88%E9%9D%92%E8%89%B2%2F%E6%B4%8B%E7%B4%85%E8%89%B2%E9%82%8A%E7%B7%A3%E5%85%89%E3%80%81%E8%83%8C%E6%99%AF%E4%BF%9D%E6%8C%81%E7%B0%A1%E6%BD%94%EF%BC%89%0A%E6%89%80%E6%9C%89%209%20%E5%80%8B%E8%A3%81%E5%88%87%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%81%E4%BA%BA%E7%89%A9%E3%80%81%E5%A7%BF%E5%8B%A2%E5%92%8C%E8%83%8C%E6%99%AF%EF%BC%8C%E5%83%85%E5%85%81%E8%A8%B1%E6%AF%94%E8%BC%83%E9%A2%A8%E6%A0%BC%E5%B7%AE%E7%95%B0%E3%80%82%0A%E5%B0%87%E5%AE%83%E5%80%91%E8%87%AA%E7%84%B6%E5%9C%B0%E6%8E%92%E5%88%97%E6%88%90%E4%B8%80%E5%BC%B5%E5%AE%8C%E6%95%B4%E7%9A%84%E5%9C%96%E5%83%8F%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E6%A0%B9%E6%93%9A%E5%8F%83%E8%80%83%E5%9C%96%E5%83%8F%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%8C%85%E5%90%AB%209%20%E5%80%8B%E8%A3%81%E5%88%87%E7%9A%84%E5%A4%9A%E8%A3%81%E5%88%87%E5%9C%96%E5%83%8F%EF%BC%8C%E9%80%99%E4%BA%9B%E8%A3%81%E5%88%87%E6%8E%92%E5%88%97%E5%9C%A8%E5%96%AE%E4%B8%80%E5%9C%96%E5%83%8F%E4%B8%AD%E3%80%82%0A%E4%BD%88%E5%B1%80%E7%82%BA%E5%9D%87%E5%8B%BB%E7%9A%84%203x3%20%E7%B6%B2%E6%A0%BC%E3%80%82%E6%AF%8F%E5%80%8B%E8%A3%81%E5%88%87%E5%BF%85%E9%A0%88%E5%91%88%E7%8F%BE%E7%9B%B8%E5%90%8C%E7%9A%84%E4%BA%BA%E7%89%A9%E3%80%81%E7%9B%B8%E5%90%8C%E6%A7%8B%E5%9C%96%E3%80%81%E7%9B%B8%E5%90%8C%E5%A7%BF%E5%8B%A2%E5%92%8C%E7%9B%B8%E5%90%8C%E6%94%9D%E5%BD%B1%E6%A9%9F%E4%BD%8D%E7%BD%AE%E3%80%82%0A%E6%AF%8F%E5%80%8B%E8%A3%81%E5%88%87%E7%9A%84%E9%A2%A8%E6%A0%BC%E8%A6%8F%E7%AF%84%EF%BC%88%E5%BE%9E%E5%B7%A6%E4%B8%8A%E5%88%B0%E5%8F%B3%E4%B8%8B%EF%BC%89%EF%BC%9A%0A%E8%B3%BD%E7%92%90%E7%8F%9E%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%88%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E3%80%81%E6%B8%85%E6%99%B0%E7%B7%9A%E7%A8%BF%E3%80%812-3%20%E5%B1%A4%E9%99%B0%E5%BD%B1%EF%BC%89%0A%E5%8A%87%E5%A0%B4%E7%89%88%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%88%E7%B4%B0%E8%86%A9%E7%B7%9A%E6%A2%9D%E3%80%81%E8%B1%90%E5%AF%8C%E6%BC%B8%E8%AE%8A%E9%99%B0%E5%BD%B1%EF%BC%89%0A%E9%BB%91%E7%99%BD%E6%BC%AB%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%88%E5%A2%A8%E7%B7%9A%E3%80%81%E7%B6%B2%E9%BB%9E%EF%BC%89%0A%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%95%AB%EF%BC%88%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%81%E6%9A%88%E6%9F%93%E3%80%81%E6%B7%A1%E9%9B%85%E8%89%B2%E5%BD%A9%EF%BC%89%0A%E6%B2%B9%E7%95%AB%EF%BC%88%E5%8E%9A%E5%A1%97%E3%80%81%E7%AD%86%E8%A7%B8%E3%80%81%E7%95%AB%E5%B8%83%E8%B3%AA%E6%84%9F%EF%BC%89%0A%E9%AB%98%E5%93%81%E8%B3%AA%203D%20%E5%8D%A1%E9%80%9A%EF%BC%88%E6%9F%94%E5%92%8C%E5%BB%BA%E6%A8%A1%E3%80%81%E6%AC%A1%E8%A1%A8%E9%9D%A2%E6%95%A3%E5%B0%84%EF%BC%89%0A%E5%AF%AB%E5%AF%A6%203D%EF%BC%88PBR%E3%80%81%E6%8E%A5%E8%BF%91%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%B4%8B%E7%90%86%EF%BC%89%0A%E9%BB%8F%E5%9C%9F%E5%8B%95%E7%95%AB%EF%BC%88%E9%BB%8F%E5%9C%9F%E7%B4%8B%E7%90%86%E3%80%81%E6%89%8B%E5%B7%A5%E8%B3%AA%E6%84%9F%EF%BC%89%0A%E8%B3%BD%E5%8D%9A%E9%BE%90%E5%85%8B%E8%AA%BF%E8%89%B2%EF%BC%88%E9%9D%92%E8%89%B2%2F%E6%B4%8B%E7%B4%85%E8%89%B2%E9%82%8A%E7%B7%A3%E5%85%89%E3%80%81%E8%83%8C%E6%99%AF%E4%BF%9D%E6%8C%81%E7%B0%A1%E6%BD%94%EF%BC%89%0A%E6%89%80%E6%9C%89%209%20%E5%80%8B%E8%A3%81%E5%88%87%E5%BF%85%E9%A0%88%E5%85%B7%E6%9C%89%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A7%8B%E5%9C%96%E3%80%81%E4%BA%BA%E7%89%A9%E3%80%81%E5%A7%BF%E5%8B%A2%E5%92%8C%E8%83%8C%E6%99%AF%EF%BC%8C%E5%83%85%E5%85%81%E8%A8%B1%E6%AF%94%E8%BC%83%E9%A2%A8%E6%A0%BC%E5%B7%AE%E7%95%B0%E3%80%82%0A%E5%B0%87%E5%AE%83%E5%80%91%E8%87%AA%E7%84%B6%E5%9C%B0%E6%8E%92%E5%88%97%E6%88%90%E4%B8%80%E5%BC%B5%E5%AE%8C%E6%95%B4%E7%9A%84%E5%9C%96%E5%83%8F%E3%80%82)**
 
 ---
 
@@ -1239,12 +1239,12 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-這是一個用於測試各種圖像生成模型（Nanobanana Pro、Seedream V4.5、Flux2 Max Edit 和 GPT Image 1.5）在一致性和表情轉換能力方面的提示。目標是在保持角色核心設計元素（例如髮型、服裝和藝術風格）的同時，將角色的表情從溫柔的微笑轉換為哭泣的笑容。
+這是一個用於測試各種圖像生成模型（Nanobanana Pro、Seedream V4.5、Flux2 Max Edit 和 GPT Image 1.5）在一致性和表情轉換能力方面的提示。目標是在保持角色核心設計元素（如髮型、服裝和藝術風格）的同時，將角色的表情從溫柔的微笑轉換為哭泣的笑容。
 
 #### 📝 提示詞
 
 ```
-將表情從微笑轉變為哭泣的同時微笑——淚水沿著臉頰流下，同時保持溫柔、苦樂參半的微笑。保持完全相同的角色設計、髮型、服裝和藝術風格。
+將表情從微笑哭泣轉變為淚流滿面，同時保持溫柔、苦樂參半的笑容。保留完全相同的角色設計、髮型、服裝和藝術風格。
 ```
 
 #### 🖼️ 生成圖片
@@ -1280,7 +1280,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E8%A1%A8%E6%83%85%E5%BE%9E%E5%BE%AE%E7%AC%91%E8%BD%89%E8%AE%8A%E7%82%BA%E5%93%AD%E6%B3%A3%E7%9A%84%E5%90%8C%E6%99%82%E5%BE%AE%E7%AC%91%E2%80%94%E2%80%94%E6%B7%9A%E6%B0%B4%E6%B2%BF%E8%91%97%E8%87%89%E9%A0%B0%E6%B5%81%E4%B8%8B%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E6%8C%81%E6%BA%AB%E6%9F%94%E3%80%81%E8%8B%A6%E6%A8%82%E5%8F%83%E5%8D%8A%E7%9A%84%E5%BE%AE%E7%AC%91%E3%80%82%E4%BF%9D%E6%8C%81%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%92%E8%89%B2%E8%A8%AD%E8%A8%88%E3%80%81%E9%AB%AE%E5%9E%8B%E3%80%81%E6%9C%8D%E8%A3%9D%E5%92%8C%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E8%A1%A8%E6%83%85%E5%BE%9E%E5%BE%AE%E7%AC%91%E5%93%AD%E6%B3%A3%E8%BD%89%E8%AE%8A%E7%82%BA%E6%B7%9A%E6%B5%81%E6%BB%BF%E9%9D%A2%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E6%8C%81%E6%BA%AB%E6%9F%94%E3%80%81%E8%8B%A6%E6%A8%82%E5%8F%83%E5%8D%8A%E7%9A%84%E7%AC%91%E5%AE%B9%E3%80%82%E4%BF%9D%E7%95%99%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%92%E8%89%B2%E8%A8%AD%E8%A8%88%E3%80%81%E9%AB%AE%E5%9E%8B%E3%80%81%E6%9C%8D%E8%A3%9D%E5%92%8C%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E3%80%82)**
 
 ---
 
@@ -1290,7 +1290,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個極富想像力的中文提示，描述一位身穿傳統中式服裝的女孩，騎著一條巨大的生物發光錦鯉，穿越一座被淹沒的末日後水下城市的廢墟，魚和水生植物散發出空靈的光芒。
+一個極富想像力的中文提示，描述一位身著傳統中式服裝的女孩，騎乘著一條巨大的生物發光錦鯉，穿梭於一座被淹沒的末日後水下城市廢墟中，魚身和水生植物散發出空靈的光芒。
 
 #### 📝 提示詞
 
@@ -1323,18 +1323,18 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 29: 柯博文電玩海報：史前時代背景
+### No. 29: 柯博文電玩海報：史前時代設定
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個詳細的提示，用於創作一張垂直的電玩海報，主角是《變形金剛》中的柯博文，場景設定在一個鬱鬱蔥蔥的綠色史前星球上，強調特定的方向且不包含任何文字或標誌。
+一個詳細的提示，用於創作一張以變形金剛中的柯博文為主角的垂直電玩海報，場景設定在一個鬱鬱蔥蔥的綠色史前星球上，強調特定的方向，並排除任何文字或標誌。
 
 #### 📝 提示詞
 
 ```
-生成一張垂直方向的酷炫圖片，內容是變形金剛中的柯博文，以電玩海報的形式呈現，無文字或標誌。讓它呈現一個鬱鬱蔥蔥的綠色史前風格星球。
+生成一張酷炫的直式圖片，內容為變形金剛中的柯博文，以電玩海報的形式呈現，沒有任何文字或標誌。讓它以一個鬱鬱蔥蔥的綠色史前風格星球為特色。
 ```
 
 #### 🖼️ 生成圖片
@@ -1342,7 +1342,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949119206_yh0qvr_G8VQgWTbcAATUUB.jpg" width="600" alt="柯博文電玩海報：史前時代背景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949119206_yh0qvr_G8VQgWTbcAATUUB.jpg" width="600" alt="柯博文電玩海報：史前時代設定 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1352,7 +1352,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E9%85%B7%E7%82%AB%E5%9C%96%E7%89%87%EF%BC%8C%E5%85%A7%E5%AE%B9%E6%98%AF%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B%E4%B8%AD%E7%9A%84%E6%9F%AF%E5%8D%9A%E6%96%87%EF%BC%8C%E4%BB%A5%E9%9B%BB%E7%8E%A9%E6%B5%B7%E5%A0%B1%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%91%88%E7%8F%BE%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E6%88%96%E6%A8%99%E8%AA%8C%E3%80%82%E8%AE%93%E5%AE%83%E5%91%88%E7%8F%BE%E4%B8%80%E5%80%8B%E9%AC%B1%E9%AC%B1%E8%94%A5%E8%94%A5%E7%9A%84%E7%B6%A0%E8%89%B2%E5%8F%B2%E5%89%8D%E9%A2%A8%E6%A0%BC%E6%98%9F%E7%90%83%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E9%85%B7%E7%82%AB%E7%9A%84%E7%9B%B4%E5%BC%8F%E5%9C%96%E7%89%87%EF%BC%8C%E5%85%A7%E5%AE%B9%E7%82%BA%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B%E4%B8%AD%E7%9A%84%E6%9F%AF%E5%8D%9A%E6%96%87%EF%BC%8C%E4%BB%A5%E9%9B%BB%E7%8E%A9%E6%B5%B7%E5%A0%B1%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%91%88%E7%8F%BE%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E6%A8%99%E8%AA%8C%E3%80%82%E8%AE%93%E5%AE%83%E4%BB%A5%E4%B8%80%E5%80%8B%E9%AC%B1%E9%AC%B1%E8%94%A5%E8%94%A5%E7%9A%84%E7%B6%A0%E8%89%B2%E5%8F%B2%E5%89%8D%E9%A2%A8%E6%A0%BC%E6%98%9F%E7%90%83%E7%82%BA%E7%89%B9%E8%89%B2%E3%80%82)**
 
 ---
 
@@ -1362,12 +1362,12 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個簡單的圖像編輯提示，指示模型保持現有圖像內容不變，但為主題人物添加一件襯衫，以展示模型的編輯能力。此提示是針對 Sam Altman 的。
+一個簡單的圖像編輯提示，指示 Sam Altman 模型保持現有圖像內容不變，但為主題人物添加一件襯衫，展示了該模型的編輯能力。
 
 #### 📝 提示詞
 
 ```
-保持一切不變，但給他穿上襯衫
+保持所有內容不變，但給他穿上襯衫
 ```
 
 #### 🖼️ 生成圖片
@@ -1385,22 +1385,22 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%BF%9D%E6%8C%81%E4%B8%80%E5%88%87%E4%B8%8D%E8%AE%8A%EF%BC%8C%E4%BD%86%E7%B5%A6%E4%BB%96%E7%A9%BF%E4%B8%8A%E8%A5%AF%E8%A1%AB)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%BF%9D%E6%8C%81%E6%89%80%E6%9C%89%E5%85%A7%E5%AE%B9%E4%B8%8D%E8%AE%8A%EF%BC%8C%E4%BD%86%E7%B5%A6%E4%BB%96%E7%A9%BF%E4%B8%8A%E8%A5%AF%E8%A1%AB)**
 
 ---
 
-### No. 31: 巨人在現代都市中手持東京鐵塔
+### No. 31: 巨人在現代都市景觀中手持東京鐵塔
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-一個高度細緻、寫實的提示，比較了 GPT Image 1.5 和 Gemini Nano banana Pro。它描述了一個人物從參考照片中被放大到巨大的比例，蹲坐在現代東京的城市景觀之上，輕輕地握著東京鐵塔，強調了光線、氛圍和真實感。
+一個高度細緻、寫實的提示，比較了 GPT Image 1.5 和 Gemini Nano banana Pro。它描述了一個人物從參考照片中被放大到巨大尺寸，蹲坐在現代東京的城市景觀上，輕輕地握著東京鐵塔，強調了光線、氛圍和真實感。
 
 #### 📝 提示詞
 
 ```
-照片中的人物巨大無比，蹲坐在東京的現代都市景觀之上，輕輕環抱著東京鐵塔，望向鏡頭。明亮的日間天空，柔和的自然光線，下方是細緻入微的建築群，營造出寫實與奇幻和諧共存的氛圍，對焦銳利，色彩鮮明。
+照片中的人物巨大無比，蹲坐在現代東京的都市景觀上，輕柔地環抱著東京鐵塔，望向鏡頭，明亮的日間天空，柔和的自然光線，下方建築物細節清晰可見，營造出寫實與奇幻和諧共存的氛圍，對焦銳利，色彩鮮明。
 ```
 
 #### 🖼️ 生成圖片
@@ -1408,13 +1408,13 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131163_27rcnv_G8VLUE4bIAAMeEZ.jpg" width="600" alt="巨人在現代都市中手持東京鐵塔 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949131163_27rcnv_G8VLUE4bIAAMeEZ.jpg" width="600" alt="巨人在現代都市景觀中手持東京鐵塔 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131264_nogy4s_G8VLQIzaIAALpwW.jpg" width="600" alt="巨人在現代都市中手持東京鐵塔 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949131264_nogy4s_G8VLQIzaIAALpwW.jpg" width="600" alt="巨人在現代都市景觀中手持東京鐵塔 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1424,7 +1424,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E5%B7%A8%E5%A4%A7%E7%84%A1%E6%AF%94%EF%BC%8C%E8%B9%B2%E5%9D%90%E5%9C%A8%E6%9D%B1%E4%BA%AC%E7%9A%84%E7%8F%BE%E4%BB%A3%E9%83%BD%E5%B8%82%E6%99%AF%E8%A7%80%E4%B9%8B%E4%B8%8A%EF%BC%8C%E8%BC%95%E8%BC%95%E7%92%B0%E6%8A%B1%E8%91%97%E6%9D%B1%E4%BA%AC%E9%90%B5%E5%A1%94%EF%BC%8C%E6%9C%9B%E5%90%91%E9%8F%A1%E9%A0%AD%E3%80%82%E6%98%8E%E4%BA%AE%E7%9A%84%E6%97%A5%E9%96%93%E5%A4%A9%E7%A9%BA%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E5%85%89%E7%B7%9A%EF%BC%8C%E4%B8%8B%E6%96%B9%E6%98%AF%E7%B4%B0%E7%B7%BB%E5%85%A5%E5%BE%AE%E7%9A%84%E5%BB%BA%E7%AF%89%E7%BE%A4%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E5%AF%AB%E5%AF%A6%E8%88%87%E5%A5%87%E5%B9%BB%E5%92%8C%E8%AB%A7%E5%85%B1%E5%AD%98%E7%9A%84%E6%B0%9B%E5%9C%8D%EF%BC%8C%E5%B0%8D%E7%84%A6%E9%8A%B3%E5%88%A9%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%AE%AE%E6%98%8E%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E5%B7%A8%E5%A4%A7%E7%84%A1%E6%AF%94%EF%BC%8C%E8%B9%B2%E5%9D%90%E5%9C%A8%E7%8F%BE%E4%BB%A3%E6%9D%B1%E4%BA%AC%E7%9A%84%E9%83%BD%E5%B8%82%E6%99%AF%E8%A7%80%E4%B8%8A%EF%BC%8C%E8%BC%95%E6%9F%94%E5%9C%B0%E7%92%B0%E6%8A%B1%E8%91%97%E6%9D%B1%E4%BA%AC%E9%90%B5%E5%A1%94%EF%BC%8C%E6%9C%9B%E5%90%91%E9%8F%A1%E9%A0%AD%EF%BC%8C%E6%98%8E%E4%BA%AE%E7%9A%84%E6%97%A5%E9%96%93%E5%A4%A9%E7%A9%BA%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E5%85%89%E7%B7%9A%EF%BC%8C%E4%B8%8B%E6%96%B9%E5%BB%BA%E7%AF%89%E7%89%A9%E7%B4%B0%E7%AF%80%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E5%AF%AB%E5%AF%A6%E8%88%87%E5%A5%87%E5%B9%BB%E5%92%8C%E8%AB%A7%E5%85%B1%E5%AD%98%E7%9A%84%E6%B0%9B%E5%9C%8D%EF%BC%8C%E5%B0%8D%E7%84%A6%E9%8A%B3%E5%88%A9%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%AE%AE%E6%98%8E%E3%80%82)**
 
 ---
 
@@ -1439,7 +1439,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 #### 📝 提示詞
 
 ```
-將主體或圖片轉化為可愛的 Q 版風格角色，擁有小巧的身體和超大的頭部。如果圖片中包含人物或多人，請賦予他們水汪汪的大眼睛、柔和圓潤的五官和開朗的表情，同時保留其可識別的特徵，例如關鍵面部特徵、髮型、配飾或獨特的服裝；如果圖片中包含物體、動物或場景，請使用相同的 Q 版比例和簡化可愛的風格，重新詮釋其最顯著的特徵。保持整體外觀短小可愛，採用柔和的粉彩色調和簡化的細節。讓最終圖像明亮、富有表現力且魅力十足，就像一個值得收藏的 Q 版吉祥物。
+將主體或圖像轉化為可愛的 Q 版風格角色，擁有小巧的身體和超大的頭部。如果圖像中包含一個人或多個人，請賦予他們大而閃爍的眼睛、柔和圓潤的五官和開朗的表情，同時保留其可識別的特徵，例如關鍵的面部特徵、髮型、配飾或獨特的服裝；如果圖像中包含物體、動物或場景，請使用相同的 Q 版比例和簡化、可愛的風格重新詮釋其最顯著的特徵。保持整體外觀短小可愛，採用柔和的粉彩漸變和簡化的細節。讓最終圖像明亮、富有表現力且魅力十足，就像一個值得收藏的 Q 版吉祥物。
 ```
 
 #### 🖼️ 生成圖片
@@ -1457,7 +1457,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E4%B8%BB%E9%AB%94%E6%88%96%E5%9C%96%E7%89%87%E8%BD%89%E5%8C%96%E7%82%BA%E5%8F%AF%E6%84%9B%E7%9A%84%20Q%20%E7%89%88%E9%A2%A8%E6%A0%BC%E8%A7%92%E8%89%B2%EF%BC%8C%E6%93%81%E6%9C%89%E5%B0%8F%E5%B7%A7%E7%9A%84%E8%BA%AB%E9%AB%94%E5%92%8C%E8%B6%85%E5%A4%A7%E7%9A%84%E9%A0%AD%E9%83%A8%E3%80%82%E5%A6%82%E6%9E%9C%E5%9C%96%E7%89%87%E4%B8%AD%E5%8C%85%E5%90%AB%E4%BA%BA%E7%89%A9%E6%88%96%E5%A4%9A%E4%BA%BA%EF%BC%8C%E8%AB%8B%E8%B3%A6%E4%BA%88%E4%BB%96%E5%80%91%E6%B0%B4%E6%B1%AA%E6%B1%AA%E7%9A%84%E5%A4%A7%E7%9C%BC%E7%9D%9B%E3%80%81%E6%9F%94%E5%92%8C%E5%9C%93%E6%BD%A4%E7%9A%84%E4%BA%94%E5%AE%98%E5%92%8C%E9%96%8B%E6%9C%97%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E7%95%99%E5%85%B6%E5%8F%AF%E8%AD%98%E5%88%A5%E7%9A%84%E7%89%B9%E5%BE%B5%EF%BC%8C%E4%BE%8B%E5%A6%82%E9%97%9C%E9%8D%B5%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%B5%E3%80%81%E9%AB%AE%E5%9E%8B%E3%80%81%E9%85%8D%E9%A3%BE%E6%88%96%E7%8D%A8%E7%89%B9%E7%9A%84%E6%9C%8D%E8%A3%9D%EF%BC%9B%E5%A6%82%E6%9E%9C%E5%9C%96%E7%89%87%E4%B8%AD%E5%8C%85%E5%90%AB%E7%89%A9%E9%AB%94%E3%80%81%E5%8B%95%E7%89%A9%E6%88%96%E5%A0%B4%E6%99%AF%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84%20Q%20%E7%89%88%E6%AF%94%E4%BE%8B%E5%92%8C%E7%B0%A1%E5%8C%96%E5%8F%AF%E6%84%9B%E7%9A%84%E9%A2%A8%E6%A0%BC%EF%BC%8C%E9%87%8D%E6%96%B0%E8%A9%AE%E9%87%8B%E5%85%B6%E6%9C%80%E9%A1%AF%E8%91%97%E7%9A%84%E7%89%B9%E5%BE%B5%E3%80%82%E4%BF%9D%E6%8C%81%E6%95%B4%E9%AB%94%E5%A4%96%E8%A7%80%E7%9F%AD%E5%B0%8F%E5%8F%AF%E6%84%9B%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E8%AA%BF%E5%92%8C%E7%B0%A1%E5%8C%96%E7%9A%84%E7%B4%B0%E7%AF%80%E3%80%82%E8%AE%93%E6%9C%80%E7%B5%82%E5%9C%96%E5%83%8F%E6%98%8E%E4%BA%AE%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E4%B8%94%E9%AD%85%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%B8%80%E5%80%8B%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E7%9A%84%20Q%20%E7%89%88%E5%90%89%E7%A5%A5%E7%89%A9%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E4%B8%BB%E9%AB%94%E6%88%96%E5%9C%96%E5%83%8F%E8%BD%89%E5%8C%96%E7%82%BA%E5%8F%AF%E6%84%9B%E7%9A%84%20Q%20%E7%89%88%E9%A2%A8%E6%A0%BC%E8%A7%92%E8%89%B2%EF%BC%8C%E6%93%81%E6%9C%89%E5%B0%8F%E5%B7%A7%E7%9A%84%E8%BA%AB%E9%AB%94%E5%92%8C%E8%B6%85%E5%A4%A7%E7%9A%84%E9%A0%AD%E9%83%A8%E3%80%82%E5%A6%82%E6%9E%9C%E5%9C%96%E5%83%8F%E4%B8%AD%E5%8C%85%E5%90%AB%E4%B8%80%E5%80%8B%E4%BA%BA%E6%88%96%E5%A4%9A%E5%80%8B%E4%BA%BA%EF%BC%8C%E8%AB%8B%E8%B3%A6%E4%BA%88%E4%BB%96%E5%80%91%E5%A4%A7%E8%80%8C%E9%96%83%E7%88%8D%E7%9A%84%E7%9C%BC%E7%9D%9B%E3%80%81%E6%9F%94%E5%92%8C%E5%9C%93%E6%BD%A4%E7%9A%84%E4%BA%94%E5%AE%98%E5%92%8C%E9%96%8B%E6%9C%97%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E7%95%99%E5%85%B6%E5%8F%AF%E8%AD%98%E5%88%A5%E7%9A%84%E7%89%B9%E5%BE%B5%EF%BC%8C%E4%BE%8B%E5%A6%82%E9%97%9C%E9%8D%B5%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%B5%E3%80%81%E9%AB%AE%E5%9E%8B%E3%80%81%E9%85%8D%E9%A3%BE%E6%88%96%E7%8D%A8%E7%89%B9%E7%9A%84%E6%9C%8D%E8%A3%9D%EF%BC%9B%E5%A6%82%E6%9E%9C%E5%9C%96%E5%83%8F%E4%B8%AD%E5%8C%85%E5%90%AB%E7%89%A9%E9%AB%94%E3%80%81%E5%8B%95%E7%89%A9%E6%88%96%E5%A0%B4%E6%99%AF%EF%BC%8C%E8%AB%8B%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84%20Q%20%E7%89%88%E6%AF%94%E4%BE%8B%E5%92%8C%E7%B0%A1%E5%8C%96%E3%80%81%E5%8F%AF%E6%84%9B%E7%9A%84%E9%A2%A8%E6%A0%BC%E9%87%8D%E6%96%B0%E8%A9%AE%E9%87%8B%E5%85%B6%E6%9C%80%E9%A1%AF%E8%91%97%E7%9A%84%E7%89%B9%E5%BE%B5%E3%80%82%E4%BF%9D%E6%8C%81%E6%95%B4%E9%AB%94%E5%A4%96%E8%A7%80%E7%9F%AD%E5%B0%8F%E5%8F%AF%E6%84%9B%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E5%BD%A9%E6%BC%B8%E8%AE%8A%E5%92%8C%E7%B0%A1%E5%8C%96%E7%9A%84%E7%B4%B0%E7%AF%80%E3%80%82%E8%AE%93%E6%9C%80%E7%B5%82%E5%9C%96%E5%83%8F%E6%98%8E%E4%BA%AE%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E4%B8%94%E9%AD%85%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%B8%80%E5%80%8B%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E7%9A%84%20Q%20%E7%89%88%E5%90%89%E7%A5%A5%E7%89%A9%E3%80%82)**
 
 ---
 
@@ -1510,7 +1510,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 #### 📝 提示詞
 
 ```
-請生成一張以非常易懂的圖表解釋 HTML 和 CSS 的圖片。
+請生成一張以非常容易理解的圖表解釋 HTML 和 CSS 的圖片。
 圖片尺寸應為 {argument name="size" default="16:9"}。
 ```
 
@@ -1529,7 +1529,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月16日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E4%BB%A5%E9%9D%9E%E5%B8%B8%E6%98%93%E6%87%82%E7%9A%84%E5%9C%96%E8%A1%A8%E8%A7%A3%E9%87%8B%20HTML%20%E5%92%8C%20CSS%20%E7%9A%84%E5%9C%96%E7%89%87%E3%80%82%0A%E5%9C%96%E7%89%87%E5%B0%BA%E5%AF%B8%E6%87%89%E7%82%BA%20%7Bargument%20name%3D%22size%22%20default%3D%2216%3A9%22%7D%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E4%BB%A5%E9%9D%9E%E5%B8%B8%E5%AE%B9%E6%98%93%E7%90%86%E8%A7%A3%E7%9A%84%E5%9C%96%E8%A1%A8%E8%A7%A3%E9%87%8B%20HTML%20%E5%92%8C%20CSS%20%E7%9A%84%E5%9C%96%E7%89%87%E3%80%82%0A%E5%9C%96%E7%89%87%E5%B0%BA%E5%AF%B8%E6%87%89%E7%82%BA%20%7Bargument%20name%3D%22size%22%20default%3D%2216%3A9%22%7D%E3%80%82)**
 
 ---
 
@@ -1566,18 +1566,18 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 36: 重建的圖像提示
+### No. 36: 重建影像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-這是一個根據 OpenAI 生成的圖片重建的提示，暗示重建後的版本產生了更好的結果。
+這是根據 OpenAI 生成的圖片重建的提示，暗示重建後的版本產生了更好的結果。
 
 #### 📝 提示詞
 
 ```
-一張高度細緻、寫實的照片，呈現一隻未來感十足、鍍鉻的機器人手，輕柔地握著一朵鮮豔的紅玫瑰。背景是黑暗、陰鬱的工業場景，帶有微妙的藍色和紫色霓虹燈光，反射在鍍鉻表面上。電影般的燈光、淺景深、超高解析度、8K。
+一張高度細緻、寫實的照片，呈現一隻未來感十足的鍍鉻機器人手，輕柔地握著一朵鮮豔的紅玫瑰。背景是黑暗、陰鬱的工業場景，微妙的藍色和紫色霓虹燈光反射在鍍鉻表面上。電影級燈光、淺景深、超高解析度、8K。
 ```
 
 #### 🖼️ 生成圖片
@@ -1585,7 +1585,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948282157_w6q9yt_G8U-1VBa0AAuWJf.jpg" width="600" alt="重建的圖像提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948282157_w6q9yt_G8U-1VBa0AAuWJf.jpg" width="600" alt="重建影像提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1595,7 +1595,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E9%AB%98%E5%BA%A6%E7%B4%B0%E7%B7%BB%E3%80%81%E5%AF%AB%E5%AF%A6%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E5%91%88%E7%8F%BE%E4%B8%80%E9%9A%BB%E6%9C%AA%E4%BE%86%E6%84%9F%E5%8D%81%E8%B6%B3%E3%80%81%E9%8D%8D%E9%89%BB%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%89%8B%EF%BC%8C%E8%BC%95%E6%9F%94%E5%9C%B0%E6%8F%A1%E8%91%97%E4%B8%80%E6%9C%B5%E9%AE%AE%E8%B1%94%E7%9A%84%E7%B4%85%E7%8E%AB%E7%91%B0%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E9%BB%91%E6%9A%97%E3%80%81%E9%99%B0%E9%AC%B1%E7%9A%84%E5%B7%A5%E6%A5%AD%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E8%97%8D%E8%89%B2%E5%92%8C%E7%B4%AB%E8%89%B2%E9%9C%93%E8%99%B9%E7%87%88%E5%85%89%EF%BC%8C%E5%8F%8D%E5%B0%84%E5%9C%A8%E9%8D%8D%E9%89%BB%E8%A1%A8%E9%9D%A2%E4%B8%8A%E3%80%82%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E7%87%88%E5%85%89%E3%80%81%E6%B7%BA%E6%99%AF%E6%B7%B1%E3%80%81%E8%B6%85%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%818K%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E9%AB%98%E5%BA%A6%E7%B4%B0%E7%B7%BB%E3%80%81%E5%AF%AB%E5%AF%A6%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E5%91%88%E7%8F%BE%E4%B8%80%E9%9A%BB%E6%9C%AA%E4%BE%86%E6%84%9F%E5%8D%81%E8%B6%B3%E7%9A%84%E9%8D%8D%E9%89%BB%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%89%8B%EF%BC%8C%E8%BC%95%E6%9F%94%E5%9C%B0%E6%8F%A1%E8%91%97%E4%B8%80%E6%9C%B5%E9%AE%AE%E8%B1%94%E7%9A%84%E7%B4%85%E7%8E%AB%E7%91%B0%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E9%BB%91%E6%9A%97%E3%80%81%E9%99%B0%E9%AC%B1%E7%9A%84%E5%B7%A5%E6%A5%AD%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%BE%AE%E5%A6%99%E7%9A%84%E8%97%8D%E8%89%B2%E5%92%8C%E7%B4%AB%E8%89%B2%E9%9C%93%E8%99%B9%E7%87%88%E5%85%89%E5%8F%8D%E5%B0%84%E5%9C%A8%E9%8D%8D%E9%89%BB%E8%A1%A8%E9%9D%A2%E4%B8%8A%E3%80%82%E9%9B%BB%E5%BD%B1%E7%B4%9A%E7%87%88%E5%85%89%E3%80%81%E6%B7%BA%E6%99%AF%E6%B7%B1%E3%80%81%E8%B6%85%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%818K%E3%80%82)**
 
 ---
 
@@ -1677,19 +1677,19 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 ---
 
-### No. 39: YouTube 縮圖比較：人工製作與 AI 效率
+### No. 39: YouTube 縮圖比較：人力投入 vs. AI 效率
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個詳細的提示，旨在生成一個分割畫面 YouTube 縮圖，比較「徒勞無功」（人類）和「AI 零秒完成」（AI 機器人）。該提示指定了構圖、配色方案（棕褐色和未來感藍色）、日文文字疊加和電影級燈光，用於比較 GPT Image 1.5 和 Nano Banana Pro。
+一個詳細的提示，旨在生成一個分割畫面 YouTube 縮圖，比較「徒勞無功」（人類）和「AI 零秒完成」（AI 機器人）。該提示指定了構圖、配色方案（棕褐色和未來感藍色）、日文文字疊加以及電影般的燈光，用於比較 GPT Image 1.5 和 Nano Banana Pro。
 
 #### 📝 提示詞
 
 ```
-一張 YouTube 縮圖，採用分割畫面構圖。左側是棕褐色調，顯示一個疲憊的人在舊書桌前過度勞累，上方有紅色日文文字，寫著「{argument name="left text" default="Wasted Effort"}」。右側是未來感的藍色調，顯示一個流線型的 AI 機器人即時工作，上方有藍色日文文字，寫著「{argument name="right text" default="0 Seconds with AI"}」。畫面中央有白色粗體文字，帶有黑色輪廓，寫著「{argument name="center text" default="VS Human"}」。電影般的燈光。--ar 16:9
+一張 YouTube 縮圖，採用分割畫面構圖。左側為棕褐色調，顯示一個疲憊的人在舊書桌前過度勞累，上方有紅色日文文字，寫著「{argument name="left text" default="Wasted Effort"}」。右側為未來感的藍色調，顯示一個流線型的 AI 機器人即時工作，上方有藍色日文文字，寫著「{argument name="right text" default="0 Seconds with AI"}」。畫面中央有帶黑色邊框的大型白色文字，寫著「{argument name="center text" default="VS Human"}」。電影般的燈光。--ar 16:9
 ```
 
 #### 🖼️ 生成圖片
@@ -1697,13 +1697,13 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279488_zwny71_G8U7KCZa4AIg0xx.jpg" width="600" alt="YouTube 縮圖比較：人工製作與 AI 效率 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948279488_zwny71_G8U7KCZa4AIg0xx.jpg" width="600" alt="YouTube 縮圖比較：人力投入 vs. AI 效率 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279431_f9zwld_G8U7KoIa4AQk4zk.jpg" width="600" alt="YouTube 縮圖比較：人工製作與 AI 效率 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948279431_f9zwld_G8U7KoIa4AQk4zk.jpg" width="600" alt="YouTube 縮圖比較：人力投入 vs. AI 效率 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1713,7 +1713,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%20YouTube%20%E7%B8%AE%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%88%86%E5%89%B2%E7%95%AB%E9%9D%A2%E6%A7%8B%E5%9C%96%E3%80%82%E5%B7%A6%E5%81%B4%E6%98%AF%E6%A3%95%E8%A4%90%E8%89%B2%E8%AA%BF%EF%BC%8C%E9%A1%AF%E7%A4%BA%E4%B8%80%E5%80%8B%E7%96%B2%E6%86%8A%E7%9A%84%E4%BA%BA%E5%9C%A8%E8%88%8A%E6%9B%B8%E6%A1%8C%E5%89%8D%E9%81%8E%E5%BA%A6%E5%8B%9E%E7%B4%AF%EF%BC%8C%E4%B8%8A%E6%96%B9%E6%9C%89%E7%B4%85%E8%89%B2%E6%97%A5%E6%96%87%E6%96%87%E5%AD%97%EF%BC%8C%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22left%20text%22%20default%3D%22Wasted%20Effort%22%7D%E3%80%8D%E3%80%82%E5%8F%B3%E5%81%B4%E6%98%AF%E6%9C%AA%E4%BE%86%E6%84%9F%E7%9A%84%E8%97%8D%E8%89%B2%E8%AA%BF%EF%BC%8C%E9%A1%AF%E7%A4%BA%E4%B8%80%E5%80%8B%E6%B5%81%E7%B7%9A%E5%9E%8B%E7%9A%84%20AI%20%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%B3%E6%99%82%E5%B7%A5%E4%BD%9C%EF%BC%8C%E4%B8%8A%E6%96%B9%E6%9C%89%E8%97%8D%E8%89%B2%E6%97%A5%E6%96%87%E6%96%87%E5%AD%97%EF%BC%8C%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22right%20text%22%20default%3D%220%20Seconds%20with%20AI%22%7D%E3%80%8D%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E6%9C%89%E7%99%BD%E8%89%B2%E7%B2%97%E9%AB%94%E6%96%87%E5%AD%97%EF%BC%8C%E5%B8%B6%E6%9C%89%E9%BB%91%E8%89%B2%E8%BC%AA%E5%BB%93%EF%BC%8C%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22center%20text%22%20default%3D%22VS%20Human%22%7D%E3%80%8D%E3%80%82%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E7%87%88%E5%85%89%E3%80%82--ar%2016%3A9)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%20YouTube%20%E7%B8%AE%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%88%86%E5%89%B2%E7%95%AB%E9%9D%A2%E6%A7%8B%E5%9C%96%E3%80%82%E5%B7%A6%E5%81%B4%E7%82%BA%E6%A3%95%E8%A4%90%E8%89%B2%E8%AA%BF%EF%BC%8C%E9%A1%AF%E7%A4%BA%E4%B8%80%E5%80%8B%E7%96%B2%E6%86%8A%E7%9A%84%E4%BA%BA%E5%9C%A8%E8%88%8A%E6%9B%B8%E6%A1%8C%E5%89%8D%E9%81%8E%E5%BA%A6%E5%8B%9E%E7%B4%AF%EF%BC%8C%E4%B8%8A%E6%96%B9%E6%9C%89%E7%B4%85%E8%89%B2%E6%97%A5%E6%96%87%E6%96%87%E5%AD%97%EF%BC%8C%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22left%20text%22%20default%3D%22Wasted%20Effort%22%7D%E3%80%8D%E3%80%82%E5%8F%B3%E5%81%B4%E7%82%BA%E6%9C%AA%E4%BE%86%E6%84%9F%E7%9A%84%E8%97%8D%E8%89%B2%E8%AA%BF%EF%BC%8C%E9%A1%AF%E7%A4%BA%E4%B8%80%E5%80%8B%E6%B5%81%E7%B7%9A%E5%9E%8B%E7%9A%84%20AI%20%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%B3%E6%99%82%E5%B7%A5%E4%BD%9C%EF%BC%8C%E4%B8%8A%E6%96%B9%E6%9C%89%E8%97%8D%E8%89%B2%E6%97%A5%E6%96%87%E6%96%87%E5%AD%97%EF%BC%8C%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22right%20text%22%20default%3D%220%20Seconds%20with%20AI%22%7D%E3%80%8D%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E6%9C%89%E5%B8%B6%E9%BB%91%E8%89%B2%E9%82%8A%E6%A1%86%E7%9A%84%E5%A4%A7%E5%9E%8B%E7%99%BD%E8%89%B2%E6%96%87%E5%AD%97%EF%BC%8C%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22center%20text%22%20default%3D%22VS%20Human%22%7D%E3%80%8D%E3%80%82%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E7%87%88%E5%85%89%E3%80%82--ar%2016%3A9)**
 
 ---
 
@@ -1796,12 +1796,12 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-一個用於圖像處理或圖像生成 (image-to-image generation) 的簡潔提示，指示模型將兩張提供的參考照片結合。
+用於圖像處理或圖像生成（image-to-image generation）的簡潔提示，指示模型結合兩張提供的參考照片。
 
 #### 📝 提示詞
 
 ```
-將這兩張照片合併。
+合併這兩張照片。
 ```
 
 #### 🖼️ 生成圖片
@@ -1825,7 +1825,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E9%80%99%E5%85%A9%E5%BC%B5%E7%85%A7%E7%89%87%E5%90%88%E4%BD%B5%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%90%88%E4%BD%B5%E9%80%99%E5%85%A9%E5%BC%B5%E7%85%A7%E7%89%87%E3%80%82)**
 
 ---
 
@@ -1835,12 +1835,12 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 
 #### 📖 描述
 
-在推文中 ALT 文字中找到的詳細、照片般逼真的提示，旨在生成一張穿著白色洋裝的女性圖像，展示 GPT-Image 1.5 在生成高度逼真視覺效果方面的能力。
+在推文中 ALT 文字中找到的詳細、照片般寫實的提示，旨在生成一張穿著白色連衣裙的女性圖像，展示 GPT-Image 1.5 在生成高度寫實視覺效果方面的能力。
 
 #### 📝 提示詞
 
 ```
-一位身穿白裙的女性，站在高高的草地中，夕陽在她身後緩緩落下，影像寫實，電影級燈光，超高細節，8K，高解析度，專業攝影。
+一位身穿白裙的女性，站在高高的草地中，夕陽在她身後緩緩落下，電影般的燈光，超高細節，8k，高解析度，專業攝影。
 ```
 
 #### 🖼️ 生成圖片
@@ -1858,7 +1858,7 @@ Joe Rogan 的播客節目，內容是與一位灰色外星人的對談。DSLR �
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E8%BA%AB%E7%A9%BF%E7%99%BD%E8%A3%99%E7%9A%84%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%AB%99%E5%9C%A8%E9%AB%98%E9%AB%98%E7%9A%84%E8%8D%89%E5%9C%B0%E4%B8%AD%EF%BC%8C%E5%A4%95%E9%99%BD%E5%9C%A8%E5%A5%B9%E8%BA%AB%E5%BE%8C%E7%B7%A9%E7%B7%A9%E8%90%BD%E4%B8%8B%EF%BC%8C%E5%BD%B1%E5%83%8F%E5%AF%AB%E5%AF%A6%EF%BC%8C%E9%9B%BB%E5%BD%B1%E7%B4%9A%E7%87%88%E5%85%89%EF%BC%8C%E8%B6%85%E9%AB%98%E7%B4%B0%E7%AF%80%EF%BC%8C8K%EF%BC%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%EF%BC%8C%E5%B0%88%E6%A5%AD%E6%94%9D%E5%BD%B1%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E8%BA%AB%E7%A9%BF%E7%99%BD%E8%A3%99%E7%9A%84%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%AB%99%E5%9C%A8%E9%AB%98%E9%AB%98%E7%9A%84%E8%8D%89%E5%9C%B0%E4%B8%AD%EF%BC%8C%E5%A4%95%E9%99%BD%E5%9C%A8%E5%A5%B9%E8%BA%AB%E5%BE%8C%E7%B7%A9%E7%B7%A9%E8%90%BD%E4%B8%8B%EF%BC%8C%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E7%87%88%E5%85%89%EF%BC%8C%E8%B6%85%E9%AB%98%E7%B4%B0%E7%AF%80%EF%BC%8C8k%EF%BC%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%EF%BC%8C%E5%B0%88%E6%A5%AD%E6%94%9D%E5%BD%B1%E3%80%82)**
 
 ---
 
@@ -2860,7 +2860,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-這是對 GPT Image 1.5 能力的測試，旨在根據原始圖像為角色生成特定的情感和姿勢，同時保持原始藝術風格。提示指示模型生成一個興奮地握緊拳頭的角色。
+這是一項測試 GPT Image 1.5 根據原始圖像為角色生成特定情緒和姿勢的能力，同時保持原始藝術風格。提示指示模型生成一個興奮地握緊拳頭的角色。
 
 #### 📝 提示詞
 
@@ -2983,7 +2983,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 #### 📝 提示詞
 
 ```
-將其向左旋轉 45°。
+將其向左旋轉 45 度。
 ```
 
 #### 🖼️ 生成圖片
@@ -3007,7 +3007,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E5%85%B6%E5%90%91%E5%B7%A6%E6%97%8B%E8%BD%89%2045%C2%B0%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%B0%87%E5%85%B6%E5%90%91%E5%B7%A6%E6%97%8B%E8%BD%89%2045%20%E5%BA%A6%E3%80%82)**
 
 ---
 
@@ -3017,12 +3017,12 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-這是一個比較提示，用於測試新的 GPT Image 1.5 模型與 Nano Banana Pro 之間的表現，指示 AI 生成一個現有角色吃拉麵的圖像。這項測試旨在評估模型在執行動作時保持角色一致性的能力。
+這是一個用於測試新版 GPT Image 1.5 模型與 Nano Banana Pro 之間差異的比較提示，指示 AI 生成一張現有角色吃拉麵的圖像。此測試旨在評估模型在執行動作時保持角色一致性的能力。
 
 #### 📝 提示詞
 
 ```
-附上一張人物圖片，然後生成該人物正在吃拉麵的畫面。
+附上一個角色圖像，然後生成該角色吃拉麵的畫面。
 ```
 
 #### 🖼️ 生成圖片
@@ -3046,7 +3046,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E9%99%84%E4%B8%8A%E4%B8%80%E5%BC%B5%E4%BA%BA%E7%89%A9%E5%9C%96%E7%89%87%EF%BC%8C%E7%84%B6%E5%BE%8C%E7%94%9F%E6%88%90%E8%A9%B2%E4%BA%BA%E7%89%A9%E6%AD%A3%E5%9C%A8%E5%90%83%E6%8B%89%E9%BA%B5%E7%9A%84%E7%95%AB%E9%9D%A2%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E9%99%84%E4%B8%8A%E4%B8%80%E5%80%8B%E8%A7%92%E8%89%B2%E5%9C%96%E5%83%8F%EF%BC%8C%E7%84%B6%E5%BE%8C%E7%94%9F%E6%88%90%E8%A9%B2%E8%A7%92%E8%89%B2%E5%90%83%E6%8B%89%E9%BA%B5%E7%9A%84%E7%95%AB%E9%9D%A2%E3%80%82)**
 
 ---
 
@@ -3281,7 +3281,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-一個簡單的文字轉圖片提示，描述一隻好奇的貓咪從一堆秋葉中探出頭來，可能用於測試 GPT Image 1.5 的一般圖片生成能力。
+一個簡單的文字轉圖像提示，描述一隻好奇的貓咪從一堆秋葉中探出頭來，可能用於測試 GPT Image 1.5 的通用圖像生成能力。
 
 #### 📝 提示詞
 
@@ -3358,7 +3358,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 #### 📝 提示詞
 
 ```
-一名足球運動員，細節豐富，電影級打光，動作鏡頭，超逼真紋理。
+一名足球員，細節豐富，電影級打光，動作鏡頭，超逼真紋理。
 ```
 
 #### 🖼️ 生成圖片
@@ -3388,7 +3388,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%90%8D%E8%B6%B3%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1%EF%BC%8C%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%EF%BC%8C%E9%9B%BB%E5%BD%B1%E7%B4%9A%E6%89%93%E5%85%89%EF%BC%8C%E5%8B%95%E4%BD%9C%E9%8F%A1%E9%A0%AD%EF%BC%8C%E8%B6%85%E9%80%BC%E7%9C%9F%E7%B4%8B%E7%90%86%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%90%8D%E8%B6%B3%E7%90%83%E5%93%A1%EF%BC%8C%E7%B4%B0%E7%AF%80%E8%B1%90%E5%AF%8C%EF%BC%8C%E9%9B%BB%E5%BD%B1%E7%B4%9A%E6%89%93%E5%85%89%EF%BC%8C%E5%8B%95%E4%BD%9C%E9%8F%A1%E9%A0%AD%EF%BC%8C%E8%B6%85%E9%80%BC%E7%9C%9F%E7%B4%8B%E7%90%86%E3%80%82)**
 
 ---
 
@@ -3667,19 +3667,19 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 87: 在紙上進行文字生成測試
+### No. 87: 紙上文字生成測試
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-以下是針對 GPT Image 1.5 的簡單測試提示，旨在檢查其準確呈現複雜文字的能力，特別要求在白紙上以黑色文字顯示日本傳統故事「壽門」的開頭幾行。
+一個給 GPT Image 1.5 的簡單測試提示，用於檢查它是否能準確呈現複雜文字，特別要求在白紙上以黑字顯示日本傳統故事《壽門》的開頭幾行。
 
 #### 📝 提示詞
 
 ```
-請在白紙上用黑色文字寫上：
+請用黑字在白紙上寫下以下內容：
 「{argument name="text" default="Jyumon (縮寫)"}」
 ```
 
@@ -3688,7 +3688,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948274188_2sn4ix_G8UBUg0a4AQKi7Z.jpg" width="600" alt="在紙上進行文字生成測試 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948274188_2sn4ix_G8UBUg0a4AQKi7Z.jpg" width="600" alt="紙上文字生成測試 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3698,7 +3698,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E5%9C%A8%E7%99%BD%E7%B4%99%E4%B8%8A%E7%94%A8%E9%BB%91%E8%89%B2%E6%96%87%E5%AD%97%E5%AF%AB%E4%B8%8A%EF%BC%9A%0A%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22Jyumon%20(%E7%B8%AE%E5%AF%AB)%22%7D%E3%80%8D)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E7%94%A8%E9%BB%91%E5%AD%97%E5%9C%A8%E7%99%BD%E7%B4%99%E4%B8%8A%E5%AF%AB%E4%B8%8B%E4%BB%A5%E4%B8%8B%E5%85%A7%E5%AE%B9%EF%BC%9A%0A%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22Jyumon%20(%E7%B8%AE%E5%AF%AB)%22%7D%E3%80%8D)**
 
 ---
 
@@ -3819,7 +3819,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-一個詳細的提示，用於比較 Nano Banana Pro 和 GPT Image 1.5 的輸出。它要求生成一張超寫實、高畫質的圖像，內容是七位美麗的魔法少女戰士，每位代表一週中的一天（週日至週六），在購物中心舞台上擺姿勢合影。
+一個詳細的提示，用於比較 Nano Banana Pro 和 GPT Image 1.5 的輸出。它要求生成一張超逼真、高畫質的圖像，內容是七位美麗的魔法少女戰士，每位代表一週中的一天（週日至週六），在購物中心舞台上擺姿勢合影。
 
 #### 📝 提示詞
 
@@ -4051,18 +4051,18 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 
-### No. 97: 黎明時分的靜謐湖泊
+### No. 97: 黎明靜湖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個簡單、寫實的提示，旨在生成一張寧靜的黎明湖泊風景圖，水面上薄霧繚繞。
+一個簡單、寫實的提示，旨在生成一張寧靜的黎明湖泊風景圖，水面薄霧繚繞。
 
 #### 📝 提示詞
 
 ```
-一張寧靜、寫實的黎明湖泊渲染圖，薄霧籠罩水面。
+一幅寧靜、寫實的黎明湖景圖，薄霧籠罩水面。
 ```
 
 #### 🖼️ 生成圖片
@@ -4070,7 +4070,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948284656_ozz8pu_G8TKkqgbwAAmklw.jpg" width="600" alt="黎明時分的靜謐湖泊 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948284656_ozz8pu_G8TKkqgbwAAmklw.jpg" width="600" alt="黎明靜湖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4080,7 +4080,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%B5%E5%AF%A7%E9%9D%9C%E3%80%81%E5%AF%AB%E5%AF%A6%E7%9A%84%E9%BB%8E%E6%98%8E%E6%B9%96%E6%B3%8A%E6%B8%B2%E6%9F%93%E5%9C%96%EF%BC%8C%E8%96%84%E9%9C%A7%E7%B1%A0%E7%BD%A9%E6%B0%B4%E9%9D%A2%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%B9%85%E5%AF%A7%E9%9D%9C%E3%80%81%E5%AF%AB%E5%AF%A6%E7%9A%84%E9%BB%8E%E6%98%8E%E6%B9%96%E6%99%AF%E5%9C%96%EF%BC%8C%E8%96%84%E9%9C%A7%E7%B1%A0%E7%BD%A9%E6%B0%B4%E9%9D%A2%E3%80%82)**
 
 ---
 
@@ -4123,12 +4123,12 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-一個詳細的提示，用於生成一張在混亂戰場上，擺出動態戰士動作姿勢的粗獷年輕男子圖像，強調與上傳參考圖像的一致性，以及血液、污垢和緊繃肌肉等特定細節。
+一個詳細的提示，用於生成一張在混亂戰場上，擺出動態戰士動作姿勢的粗獷年輕男子圖像，強調與上傳的參考圖像保持一致性，並包含血液、污垢和緊繃肌肉等特定細節。
 
 #### 📝 提示詞
 
 ```
-照片中一位粗獷的年輕男子，擺出充滿動感的戰鬥姿勢，臉部 100% 相同。他臉上帶著堅毅的戰士表情，頭髮被風吹亂。他手裡握著一把沾滿鮮血的長劍或開山刀。他穿著一件破爛、血跡斑斑的黑色背心和沾滿灰塵的深色褲子。他的手臂和胸膛沾滿了鮮血和污垢，緊繃的肌肉、汗水和泥土的細節清晰可見。背景是一個混亂、煙霧瀰漫、黑暗的戰場，空中飛舞著碎片。
+照片中一名粗獷的年輕男子，擺出動感的戰鬥姿勢，臉部 100% 相同。他臉上帶著堅毅的戰士表情，頭髮被風吹亂。他手裡握著一把沾滿鮮血的長劍或開山刀。他穿著一件破爛、浸滿鮮血的黑色背心和深色、沾滿灰塵的褲子。他的手臂和胸膛沾滿血跡和污垢，緊繃的肌肉、汗水和泥土的細節清晰可見。背景是混亂、煙霧瀰漫、黑暗的戰場，空中飛舞著碎片。
 ```
 
 #### 🖼️ 生成圖片
@@ -4146,7 +4146,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E4%B8%80%E4%BD%8D%E7%B2%97%E7%8D%B7%E7%9A%84%E5%B9%B4%E8%BC%95%E7%94%B7%E5%AD%90%EF%BC%8C%E6%93%BA%E5%87%BA%E5%85%85%E6%BB%BF%E5%8B%95%E6%84%9F%E7%9A%84%E6%88%B0%E9%AC%A5%E5%A7%BF%E5%8B%A2%EF%BC%8C%E8%87%89%E9%83%A8%20100%25%20%E7%9B%B8%E5%90%8C%E3%80%82%E4%BB%96%E8%87%89%E4%B8%8A%E5%B8%B6%E8%91%97%E5%A0%85%E6%AF%85%E7%9A%84%E6%88%B0%E5%A3%AB%E8%A1%A8%E6%83%85%EF%BC%8C%E9%A0%AD%E9%AB%AE%E8%A2%AB%E9%A2%A8%E5%90%B9%E4%BA%82%E3%80%82%E4%BB%96%E6%89%8B%E8%A3%A1%E6%8F%A1%E8%91%97%E4%B8%80%E6%8A%8A%E6%B2%BE%E6%BB%BF%E9%AE%AE%E8%A1%80%E7%9A%84%E9%95%B7%E5%8A%8D%E6%88%96%E9%96%8B%E5%B1%B1%E5%88%80%E3%80%82%E4%BB%96%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E7%A0%B4%E7%88%9B%E3%80%81%E8%A1%80%E8%B7%A1%E6%96%91%E6%96%91%E7%9A%84%E9%BB%91%E8%89%B2%E8%83%8C%E5%BF%83%E5%92%8C%E6%B2%BE%E6%BB%BF%E7%81%B0%E5%A1%B5%E7%9A%84%E6%B7%B1%E8%89%B2%E8%A4%B2%E5%AD%90%E3%80%82%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E5%92%8C%E8%83%B8%E8%86%9B%E6%B2%BE%E6%BB%BF%E4%BA%86%E9%AE%AE%E8%A1%80%E5%92%8C%E6%B1%A1%E5%9E%A2%EF%BC%8C%E7%B7%8A%E7%B9%83%E7%9A%84%E8%82%8C%E8%82%89%E3%80%81%E6%B1%97%E6%B0%B4%E5%92%8C%E6%B3%A5%E5%9C%9F%E7%9A%84%E7%B4%B0%E7%AF%80%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E4%B8%80%E5%80%8B%E6%B7%B7%E4%BA%82%E3%80%81%E7%85%99%E9%9C%A7%E7%80%B0%E6%BC%AB%E3%80%81%E9%BB%91%E6%9A%97%E7%9A%84%E6%88%B0%E5%A0%B4%EF%BC%8C%E7%A9%BA%E4%B8%AD%E9%A3%9B%E8%88%9E%E8%91%97%E7%A2%8E%E7%89%87%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E4%B8%80%E5%90%8D%E7%B2%97%E7%8D%B7%E7%9A%84%E5%B9%B4%E8%BC%95%E7%94%B7%E5%AD%90%EF%BC%8C%E6%93%BA%E5%87%BA%E5%8B%95%E6%84%9F%E7%9A%84%E6%88%B0%E9%AC%A5%E5%A7%BF%E5%8B%A2%EF%BC%8C%E8%87%89%E9%83%A8%20100%25%20%E7%9B%B8%E5%90%8C%E3%80%82%E4%BB%96%E8%87%89%E4%B8%8A%E5%B8%B6%E8%91%97%E5%A0%85%E6%AF%85%E7%9A%84%E6%88%B0%E5%A3%AB%E8%A1%A8%E6%83%85%EF%BC%8C%E9%A0%AD%E9%AB%AE%E8%A2%AB%E9%A2%A8%E5%90%B9%E4%BA%82%E3%80%82%E4%BB%96%E6%89%8B%E8%A3%A1%E6%8F%A1%E8%91%97%E4%B8%80%E6%8A%8A%E6%B2%BE%E6%BB%BF%E9%AE%AE%E8%A1%80%E7%9A%84%E9%95%B7%E5%8A%8D%E6%88%96%E9%96%8B%E5%B1%B1%E5%88%80%E3%80%82%E4%BB%96%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E7%A0%B4%E7%88%9B%E3%80%81%E6%B5%B8%E6%BB%BF%E9%AE%AE%E8%A1%80%E7%9A%84%E9%BB%91%E8%89%B2%E8%83%8C%E5%BF%83%E5%92%8C%E6%B7%B1%E8%89%B2%E3%80%81%E6%B2%BE%E6%BB%BF%E7%81%B0%E5%A1%B5%E7%9A%84%E8%A4%B2%E5%AD%90%E3%80%82%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E5%92%8C%E8%83%B8%E8%86%9B%E6%B2%BE%E6%BB%BF%E8%A1%80%E8%B7%A1%E5%92%8C%E6%B1%A1%E5%9E%A2%EF%BC%8C%E7%B7%8A%E7%B9%83%E7%9A%84%E8%82%8C%E8%82%89%E3%80%81%E6%B1%97%E6%B0%B4%E5%92%8C%E6%B3%A5%E5%9C%9F%E7%9A%84%E7%B4%B0%E7%AF%80%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%B7%B7%E4%BA%82%E3%80%81%E7%85%99%E9%9C%A7%E7%80%B0%E6%BC%AB%E3%80%81%E9%BB%91%E6%9A%97%E7%9A%84%E6%88%B0%E5%A0%B4%EF%BC%8C%E7%A9%BA%E4%B8%AD%E9%A3%9B%E8%88%9E%E8%91%97%E7%A2%8E%E7%89%87%E3%80%82)**
 
 ---
 
@@ -4156,7 +4156,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-一個高度結構化的 JSON 提示，旨在生成 Y2K 街頭服飾時尚編輯肖像，其中詳細說明了主題細節、姿勢、相機設定、燈光和複雜的圖形疊加元素。
+一個高度結構化的 JSON 提示，旨在生成 Y2K 街頭服飾時尚編輯人像，其中指定了主體細節、姿勢、相機設定、燈光和複雜的圖形疊加元素。
 
 #### 📝 提示詞
 
@@ -4172,9 +4172,9 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
     "role": "都市時尚模特兒",
     "style": "Y2K_街頭服飾",
     "clothing": {
-      "top": "寬鬆_圖案_T恤",
+      "top": "寬版_圖案_T恤",
       "pants": "寬鬆_軍綠色_工裝褲",
-      "shoes": "厚重_Z世代_運動鞋"
+      "shoes": "厚底_Z世代_運動鞋"
     },
     "pose": {
       "position": "坐在地上",
@@ -4182,7 +4182,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
       "legs": "一膝抬起_另一腿伸直",
       "hands": {
         "hand_1": "放在抬起的膝蓋上",
-        "hand_2": "放鬆地放在地上或身體一側"
+        "hand_2": "隨意放在地上_或_身體一側"
       },
       "head": "略微_向下傾斜",
       "gaze": "直視_鏡頭",
@@ -4192,37 +4192,37 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
   "camera_and_lighting": {
     "angle": "高角度_俯拍",
     "camera_type": "無反光鏡相機",
-    "lens": "略微_廣角_柔和_魚眼",
+    "lens": "略廣角_柔和魚眼",
     "framing": "寬幅_全身",
     "lighting": "自然_日光",
     "background": {
-      "sky": "逼真_藍天",
-      "cityscape": "背景中的雅加達_城市景觀",
+      "sky": "真實_藍天",
+      "cityscape": "雅加達_城市景觀_在背景",
       "court_surface": "色彩繽紛的戶外籃球場_帶有彩繪線條"
     }
   },
   "graphic_elements": {
     "style": "都市塗鴉_和_普普藝術",
-    "placement": "模特兒_和_環境周圍",
+    "placement": "圍繞模特兒_和_環境",
     "elements": [
-      "色彩繽紛的火焰_在主體後方和周圍升騰",
-      "血腥打擊遊戲_靈感_繪圖_漂浮",
+      "彩色火焰_在主體後方_和_周圍升起",
+      "受_血腥打擊遊戲_啟發的_漂浮圖案",
       "液體_流體形狀_環繞身體流動",
       "抽象_時髦_筆觸",
       "超大_貼紙",
-      "動態_字體_塗鴉"
+      "動態字體_塗鴉"
     ],
     "colors": [
-      "螢光黃",
-      "螢光藍",
-      "螢光青色",
-      "螢光橙",
-      "螢光紅"
+      "霓虹黃",
+      "霓虹藍",
+      "霓虹青",
+      "霓虹橙",
+      "霓虹紅"
     ],
     "behavior": {
       "size_variation": "小_中_大_混合",
-      "distribution": "隨機_但視覺平衡",
-      "integration": "與主體_服裝褶皺_配飾_和_背景牆_融合",
+      "distribution": "隨機_但_視覺平衡",
+      "integration": "與主體_服裝褶皺_配件_和_背景牆壁_融合",
       "visibility": "清晰可見_不太小"
     }
   },
@@ -4231,9 +4231,9 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
     "energy": "高能量_俏皮",
     "color_saturation": "高",
     "contrast": "強烈",
-    "aesthetic": "青年_都市文化_帶有現代_普普藝術_風格",
-    "tone": "編輯風格_但有趣",
-    "blend": "真實攝影_加_大膽插畫_疊加",
+    "aesthetic": "青年_都市文化_帶有現代普普藝術風格",
+    "tone": "編輯風格_但_有趣",
+    "blend": "真實攝影_加_大膽插畫疊加",
     "use_case": "時髦_色彩繽紛_超現實_都市服裝廣告"
   }
 }
@@ -4254,7 +4254,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22%E6%99%82%E5%B0%9A%E7%B7%A8%E8%BC%AF%E8%82%96%E5%83%8F%22%2C%0A%20%20%22face_and_hair%22%3A%20%7B%0A%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%22preserve_hairstyle%22%3A%20true%2C%0A%20%20%20%20%22remove_glasses%22%3A%20true%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22role%22%3A%20%22%E9%83%BD%E5%B8%82%E6%99%82%E5%B0%9A%E6%A8%A1%E7%89%B9%E5%85%92%22%2C%0A%20%20%20%20%22style%22%3A%20%22Y2K_%E8%A1%97%E9%A0%AD%E6%9C%8D%E9%A3%BE%22%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%E5%AF%AC%E9%AC%86_%E5%9C%96%E6%A1%88_T%E6%81%A4%22%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%22%E5%AF%AC%E9%AC%86_%E8%BB%8D%E7%B6%A0%E8%89%B2_%E5%B7%A5%E8%A3%9D%E8%A4%B2%22%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%22%E5%8E%9A%E9%87%8D_Z%E4%B8%96%E4%BB%A3_%E9%81%8B%E5%8B%95%E9%9E%8B%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E5%9D%90%E5%9C%A8%E5%9C%B0%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%22environment%22%3A%20%22%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B%E7%9A%84%E6%88%B6%E5%A4%96%E7%B1%83%E7%90%83%E5%A0%B4%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22%E4%B8%80%E8%86%9D%E6%8A%AC%E8%B5%B7_%E5%8F%A6%E4%B8%80%E8%85%BF%E4%BC%B8%E7%9B%B4%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22hand_1%22%3A%20%22%E6%94%BE%E5%9C%A8%E6%8A%AC%E8%B5%B7%E7%9A%84%E8%86%9D%E8%93%8B%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%20%20%22hand_2%22%3A%20%22%E6%94%BE%E9%AC%86%E5%9C%B0%E6%94%BE%E5%9C%A8%E5%9C%B0%E4%B8%8A%E6%88%96%E8%BA%AB%E9%AB%94%E4%B8%80%E5%81%B4%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22%E7%95%A5%E5%BE%AE_%E5%90%91%E4%B8%8B%E5%82%BE%E6%96%9C%22%2C%0A%20%20%20%20%20%20%22gaze%22%3A%20%22%E7%9B%B4%E8%A6%96_%E9%8F%A1%E9%A0%AD%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E8%87%AA%E4%BF%A1_%E6%99%82%E5%B0%9A_%E5%82%B2%E6%85%A2%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22camera_and_lighting%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22%E9%AB%98%E8%A7%92%E5%BA%A6_%E4%BF%AF%E6%8B%8D%22%2C%0A%20%20%20%20%22camera_type%22%3A%20%22%E7%84%A1%E5%8F%8D%E5%85%89%E9%8F%A1%E7%9B%B8%E6%A9%9F%22%2C%0A%20%20%20%20%22lens%22%3A%20%22%E7%95%A5%E5%BE%AE_%E5%BB%A3%E8%A7%92_%E6%9F%94%E5%92%8C_%E9%AD%9A%E7%9C%BC%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%E5%AF%AC%E5%B9%85_%E5%85%A8%E8%BA%AB%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E8%87%AA%E7%84%B6_%E6%97%A5%E5%85%89%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22sky%22%3A%20%22%E9%80%BC%E7%9C%9F_%E8%97%8D%E5%A4%A9%22%2C%0A%20%20%20%20%20%20%22cityscape%22%3A%20%22%E8%83%8C%E6%99%AF%E4%B8%AD%E7%9A%84%E9%9B%85%E5%8A%A0%E9%81%94_%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%80%22%2C%0A%20%20%20%20%20%20%22court_surface%22%3A%20%22%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B%E7%9A%84%E6%88%B6%E5%A4%96%E7%B1%83%E7%90%83%E5%A0%B4_%E5%B8%B6%E6%9C%89%E5%BD%A9%E7%B9%AA%E7%B7%9A%E6%A2%9D%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22graphic_elements%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%E9%83%BD%E5%B8%82%E5%A1%97%E9%B4%89_%E5%92%8C_%E6%99%AE%E6%99%AE%E8%97%9D%E8%A1%93%22%2C%0A%20%20%20%20%22placement%22%3A%20%22%E6%A8%A1%E7%89%B9%E5%85%92_%E5%92%8C_%E7%92%B0%E5%A2%83%E5%91%A8%E5%9C%8D%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B%E7%9A%84%E7%81%AB%E7%84%B0_%E5%9C%A8%E4%B8%BB%E9%AB%94%E5%BE%8C%E6%96%B9%E5%92%8C%E5%91%A8%E5%9C%8D%E5%8D%87%E9%A8%B0%22%2C%0A%20%20%20%20%20%20%22%E8%A1%80%E8%85%A5%E6%89%93%E6%93%8A%E9%81%8A%E6%88%B2_%E9%9D%88%E6%84%9F_%E7%B9%AA%E5%9C%96_%E6%BC%82%E6%B5%AE%22%2C%0A%20%20%20%20%20%20%22%E6%B6%B2%E9%AB%94_%E6%B5%81%E9%AB%94%E5%BD%A2%E7%8B%80_%E7%92%B0%E7%B9%9E%E8%BA%AB%E9%AB%94%E6%B5%81%E5%8B%95%22%2C%0A%20%20%20%20%20%20%22%E6%8A%BD%E8%B1%A1_%E6%99%82%E9%AB%A6_%E7%AD%86%E8%A7%B8%22%2C%0A%20%20%20%20%20%20%22%E8%B6%85%E5%A4%A7_%E8%B2%BC%E7%B4%99%22%2C%0A%20%20%20%20%20%20%22%E5%8B%95%E6%85%8B_%E5%AD%97%E9%AB%94_%E5%A1%97%E9%B4%89%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22colors%22%3A%20%5B%0A%20%20%20%20%20%20%22%E8%9E%A2%E5%85%89%E9%BB%83%22%2C%0A%20%20%20%20%20%20%22%E8%9E%A2%E5%85%89%E8%97%8D%22%2C%0A%20%20%20%20%20%20%22%E8%9E%A2%E5%85%89%E9%9D%92%E8%89%B2%22%2C%0A%20%20%20%20%20%20%22%E8%9E%A2%E5%85%89%E6%A9%99%22%2C%0A%20%20%20%20%20%20%22%E8%9E%A2%E5%85%89%E7%B4%85%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22behavior%22%3A%20%7B%0A%20%20%20%20%20%20%22size_variation%22%3A%20%22%E5%B0%8F_%E4%B8%AD_%E5%A4%A7_%E6%B7%B7%E5%90%88%22%2C%0A%20%20%20%20%20%20%22distribution%22%3A%20%22%E9%9A%A8%E6%A9%9F_%E4%BD%86%E8%A6%96%E8%A6%BA%E5%B9%B3%E8%A1%A1%22%2C%0A%20%20%20%20%20%20%22integration%22%3A%20%22%E8%88%87%E4%B8%BB%E9%AB%94_%E6%9C%8D%E8%A3%9D%E8%A4%B6%E7%9A%BA_%E9%85%8D%E9%A3%BE_%E5%92%8C_%E8%83%8C%E6%99%AF%E7%89%86_%E8%9E%8D%E5%90%88%22%2C%0A%20%20%20%20%20%20%22visibility%22%3A%20%22%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B_%E4%B8%8D%E5%A4%AA%E5%B0%8F%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22look_and_mood%22%3A%20%7B%0A%20%20%20%20%22vibe%22%3A%20%22%E6%B4%BB%E5%8A%9B_%E6%99%82%E9%AB%A6_Y2K%22%2C%0A%20%20%20%20%22energy%22%3A%20%22%E9%AB%98%E8%83%BD%E9%87%8F_%E4%BF%8F%E7%9A%AE%22%2C%0A%20%20%20%20%22color_saturation%22%3A%20%22%E9%AB%98%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%E5%BC%B7%E7%83%88%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%22%E9%9D%92%E5%B9%B4_%E9%83%BD%E5%B8%82%E6%96%87%E5%8C%96_%E5%B8%B6%E6%9C%89%E7%8F%BE%E4%BB%A3_%E6%99%AE%E6%99%AE%E8%97%9D%E8%A1%93_%E9%A2%A8%E6%A0%BC%22%2C%0A%20%20%20%20%22tone%22%3A%20%22%E7%B7%A8%E8%BC%AF%E9%A2%A8%E6%A0%BC_%E4%BD%86%E6%9C%89%E8%B6%A3%22%2C%0A%20%20%20%20%22blend%22%3A%20%22%E7%9C%9F%E5%AF%A6%E6%94%9D%E5%BD%B1_%E5%8A%A0_%E5%A4%A7%E8%86%BD%E6%8F%92%E7%95%AB_%E7%96%8A%E5%8A%A0%22%2C%0A%20%20%20%20%22use_case%22%3A%20%22%E6%99%82%E9%AB%A6_%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B_%E8%B6%85%E7%8F%BE%E5%AF%A6_%E9%83%BD%E5%B8%82%E6%9C%8D%E8%A3%9D%E5%BB%A3%E5%91%8A%22%0A%20%20%7D%0A%7D)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22%E6%99%82%E5%B0%9A%E7%B7%A8%E8%BC%AF%E8%82%96%E5%83%8F%22%2C%0A%20%20%22face_and_hair%22%3A%20%7B%0A%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%22preserve_hairstyle%22%3A%20true%2C%0A%20%20%20%20%22remove_glasses%22%3A%20true%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22role%22%3A%20%22%E9%83%BD%E5%B8%82%E6%99%82%E5%B0%9A%E6%A8%A1%E7%89%B9%E5%85%92%22%2C%0A%20%20%20%20%22style%22%3A%20%22Y2K_%E8%A1%97%E9%A0%AD%E6%9C%8D%E9%A3%BE%22%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%E5%AF%AC%E7%89%88_%E5%9C%96%E6%A1%88_T%E6%81%A4%22%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%22%E5%AF%AC%E9%AC%86_%E8%BB%8D%E7%B6%A0%E8%89%B2_%E5%B7%A5%E8%A3%9D%E8%A4%B2%22%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%22%E5%8E%9A%E5%BA%95_Z%E4%B8%96%E4%BB%A3_%E9%81%8B%E5%8B%95%E9%9E%8B%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E5%9D%90%E5%9C%A8%E5%9C%B0%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%22environment%22%3A%20%22%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B%E7%9A%84%E6%88%B6%E5%A4%96%E7%B1%83%E7%90%83%E5%A0%B4%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22%E4%B8%80%E8%86%9D%E6%8A%AC%E8%B5%B7_%E5%8F%A6%E4%B8%80%E8%85%BF%E4%BC%B8%E7%9B%B4%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22hand_1%22%3A%20%22%E6%94%BE%E5%9C%A8%E6%8A%AC%E8%B5%B7%E7%9A%84%E8%86%9D%E8%93%8B%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%20%20%22hand_2%22%3A%20%22%E9%9A%A8%E6%84%8F%E6%94%BE%E5%9C%A8%E5%9C%B0%E4%B8%8A_%E6%88%96_%E8%BA%AB%E9%AB%94%E4%B8%80%E5%81%B4%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22%E7%95%A5%E5%BE%AE_%E5%90%91%E4%B8%8B%E5%82%BE%E6%96%9C%22%2C%0A%20%20%20%20%20%20%22gaze%22%3A%20%22%E7%9B%B4%E8%A6%96_%E9%8F%A1%E9%A0%AD%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E8%87%AA%E4%BF%A1_%E6%99%82%E5%B0%9A_%E5%82%B2%E6%85%A2%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22camera_and_lighting%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22%E9%AB%98%E8%A7%92%E5%BA%A6_%E4%BF%AF%E6%8B%8D%22%2C%0A%20%20%20%20%22camera_type%22%3A%20%22%E7%84%A1%E5%8F%8D%E5%85%89%E9%8F%A1%E7%9B%B8%E6%A9%9F%22%2C%0A%20%20%20%20%22lens%22%3A%20%22%E7%95%A5%E5%BB%A3%E8%A7%92_%E6%9F%94%E5%92%8C%E9%AD%9A%E7%9C%BC%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%E5%AF%AC%E5%B9%85_%E5%85%A8%E8%BA%AB%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E8%87%AA%E7%84%B6_%E6%97%A5%E5%85%89%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22sky%22%3A%20%22%E7%9C%9F%E5%AF%A6_%E8%97%8D%E5%A4%A9%22%2C%0A%20%20%20%20%20%20%22cityscape%22%3A%20%22%E9%9B%85%E5%8A%A0%E9%81%94_%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%80_%E5%9C%A8%E8%83%8C%E6%99%AF%22%2C%0A%20%20%20%20%20%20%22court_surface%22%3A%20%22%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B%E7%9A%84%E6%88%B6%E5%A4%96%E7%B1%83%E7%90%83%E5%A0%B4_%E5%B8%B6%E6%9C%89%E5%BD%A9%E7%B9%AA%E7%B7%9A%E6%A2%9D%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22graphic_elements%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%E9%83%BD%E5%B8%82%E5%A1%97%E9%B4%89_%E5%92%8C_%E6%99%AE%E6%99%AE%E8%97%9D%E8%A1%93%22%2C%0A%20%20%20%20%22placement%22%3A%20%22%E5%9C%8D%E7%B9%9E%E6%A8%A1%E7%89%B9%E5%85%92_%E5%92%8C_%E7%92%B0%E5%A2%83%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%E5%BD%A9%E8%89%B2%E7%81%AB%E7%84%B0_%E5%9C%A8%E4%B8%BB%E9%AB%94%E5%BE%8C%E6%96%B9_%E5%92%8C_%E5%91%A8%E5%9C%8D%E5%8D%87%E8%B5%B7%22%2C%0A%20%20%20%20%20%20%22%E5%8F%97_%E8%A1%80%E8%85%A5%E6%89%93%E6%93%8A%E9%81%8A%E6%88%B2_%E5%95%9F%E7%99%BC%E7%9A%84_%E6%BC%82%E6%B5%AE%E5%9C%96%E6%A1%88%22%2C%0A%20%20%20%20%20%20%22%E6%B6%B2%E9%AB%94_%E6%B5%81%E9%AB%94%E5%BD%A2%E7%8B%80_%E7%92%B0%E7%B9%9E%E8%BA%AB%E9%AB%94%E6%B5%81%E5%8B%95%22%2C%0A%20%20%20%20%20%20%22%E6%8A%BD%E8%B1%A1_%E6%99%82%E9%AB%A6_%E7%AD%86%E8%A7%B8%22%2C%0A%20%20%20%20%20%20%22%E8%B6%85%E5%A4%A7_%E8%B2%BC%E7%B4%99%22%2C%0A%20%20%20%20%20%20%22%E5%8B%95%E6%85%8B%E5%AD%97%E9%AB%94_%E5%A1%97%E9%B4%89%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22colors%22%3A%20%5B%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E9%BB%83%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E8%97%8D%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E9%9D%92%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E6%A9%99%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E7%B4%85%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22behavior%22%3A%20%7B%0A%20%20%20%20%20%20%22size_variation%22%3A%20%22%E5%B0%8F_%E4%B8%AD_%E5%A4%A7_%E6%B7%B7%E5%90%88%22%2C%0A%20%20%20%20%20%20%22distribution%22%3A%20%22%E9%9A%A8%E6%A9%9F_%E4%BD%86_%E8%A6%96%E8%A6%BA%E5%B9%B3%E8%A1%A1%22%2C%0A%20%20%20%20%20%20%22integration%22%3A%20%22%E8%88%87%E4%B8%BB%E9%AB%94_%E6%9C%8D%E8%A3%9D%E8%A4%B6%E7%9A%BA_%E9%85%8D%E4%BB%B6_%E5%92%8C_%E8%83%8C%E6%99%AF%E7%89%86%E5%A3%81_%E8%9E%8D%E5%90%88%22%2C%0A%20%20%20%20%20%20%22visibility%22%3A%20%22%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B_%E4%B8%8D%E5%A4%AA%E5%B0%8F%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22look_and_mood%22%3A%20%7B%0A%20%20%20%20%22vibe%22%3A%20%22%E6%B4%BB%E5%8A%9B_%E6%99%82%E9%AB%A6_Y2K%22%2C%0A%20%20%20%20%22energy%22%3A%20%22%E9%AB%98%E8%83%BD%E9%87%8F_%E4%BF%8F%E7%9A%AE%22%2C%0A%20%20%20%20%22color_saturation%22%3A%20%22%E9%AB%98%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%E5%BC%B7%E7%83%88%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%22%E9%9D%92%E5%B9%B4_%E9%83%BD%E5%B8%82%E6%96%87%E5%8C%96_%E5%B8%B6%E6%9C%89%E7%8F%BE%E4%BB%A3%E6%99%AE%E6%99%AE%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%22%2C%0A%20%20%20%20%22tone%22%3A%20%22%E7%B7%A8%E8%BC%AF%E9%A2%A8%E6%A0%BC_%E4%BD%86_%E6%9C%89%E8%B6%A3%22%2C%0A%20%20%20%20%22blend%22%3A%20%22%E7%9C%9F%E5%AF%A6%E6%94%9D%E5%BD%B1_%E5%8A%A0_%E5%A4%A7%E8%86%BD%E6%8F%92%E7%95%AB%E7%96%8A%E5%8A%A0%22%2C%0A%20%20%20%20%22use_case%22%3A%20%22%E6%99%82%E9%AB%A6_%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B_%E8%B6%85%E7%8F%BE%E5%AF%A6_%E9%83%BD%E5%B8%82%E6%9C%8D%E8%A3%9D%E5%BB%A3%E5%91%8A%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -4342,12 +4342,12 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-此提示使用一首著名的中國古典詩詞（詠鵝）來設定場景和氛圍，要求生成一張具有特定相機參數和紋理細節的寫實高清圖像，模擬真實的人像攝影風格。
+此提示運用一首著名的中國古典詩詞《詠鵝》來營造場景與氛圍，要求生成一張具有特定相機參數和紋理細節的寫實、高畫質圖像，以模擬真實的人像攝影風格。
 
 #### 📝 提示詞
 
 ```
-請根據參考圖片中的詩句：「鵝，鵝，鵝，曲項向天歌。白毛浮綠水，紅掌撥清波。」生成一個真實生活場景，寫實風格，攝影作品，相機級別，攝影風格，真實生活肖像，人物高清，完美細節，完美人物，皮膚紋理。
+請使用參考圖片中的詩句：「鵝，鵝，鵝，曲項向天歌，白毛浮綠水，紅掌撥清波。」生成一個真實生活場景，寫實、攝影作品、相機級別、攝影風格、真實生活肖像、人物高清、完美細節、完美人物、皮膚紋理。
 ```
 
 #### 🖼️ 生成圖片
@@ -4371,7 +4371,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E6%A0%B9%E6%93%9A%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E8%A9%A9%E5%8F%A5%EF%BC%9A%E3%80%8C%E9%B5%9D%EF%BC%8C%E9%B5%9D%EF%BC%8C%E9%B5%9D%EF%BC%8C%E6%9B%B2%E9%A0%85%E5%90%91%E5%A4%A9%E6%AD%8C%E3%80%82%E7%99%BD%E6%AF%9B%E6%B5%AE%E7%B6%A0%E6%B0%B4%EF%BC%8C%E7%B4%85%E6%8E%8C%E6%92%A5%E6%B8%85%E6%B3%A2%E3%80%82%E3%80%8D%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E7%9C%9F%E5%AF%A6%E7%94%9F%E6%B4%BB%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%AF%AB%E5%AF%A6%E9%A2%A8%E6%A0%BC%EF%BC%8C%E6%94%9D%E5%BD%B1%E4%BD%9C%E5%93%81%EF%BC%8C%E7%9B%B8%E6%A9%9F%E7%B4%9A%E5%88%A5%EF%BC%8C%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%EF%BC%8C%E7%9C%9F%E5%AF%A6%E7%94%9F%E6%B4%BB%E8%82%96%E5%83%8F%EF%BC%8C%E4%BA%BA%E7%89%A9%E9%AB%98%E6%B8%85%EF%BC%8C%E5%AE%8C%E7%BE%8E%E7%B4%B0%E7%AF%80%EF%BC%8C%E5%AE%8C%E7%BE%8E%E4%BA%BA%E7%89%A9%EF%BC%8C%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E8%AB%8B%E4%BD%BF%E7%94%A8%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E8%A9%A9%E5%8F%A5%EF%BC%9A%E3%80%8C%E9%B5%9D%EF%BC%8C%E9%B5%9D%EF%BC%8C%E9%B5%9D%EF%BC%8C%E6%9B%B2%E9%A0%85%E5%90%91%E5%A4%A9%E6%AD%8C%EF%BC%8C%E7%99%BD%E6%AF%9B%E6%B5%AE%E7%B6%A0%E6%B0%B4%EF%BC%8C%E7%B4%85%E6%8E%8C%E6%92%A5%E6%B8%85%E6%B3%A2%E3%80%82%E3%80%8D%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E7%9C%9F%E5%AF%A6%E7%94%9F%E6%B4%BB%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%AF%AB%E5%AF%A6%E3%80%81%E6%94%9D%E5%BD%B1%E4%BD%9C%E5%93%81%E3%80%81%E7%9B%B8%E6%A9%9F%E7%B4%9A%E5%88%A5%E3%80%81%E6%94%9D%E5%BD%B1%E9%A2%A8%E6%A0%BC%E3%80%81%E7%9C%9F%E5%AF%A6%E7%94%9F%E6%B4%BB%E8%82%96%E5%83%8F%E3%80%81%E4%BA%BA%E7%89%A9%E9%AB%98%E6%B8%85%E3%80%81%E5%AE%8C%E7%BE%8E%E7%B4%B0%E7%AF%80%E3%80%81%E5%AE%8C%E7%BE%8E%E4%BA%BA%E7%89%A9%E3%80%81%E7%9A%AE%E8%86%9A%E7%B4%8B%E7%90%86%E3%80%82)**
 
 ---
 
@@ -4382,30 +4382,30 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 #### 📖 描述
 
-一個高度特定的藝術提示，結合了手工刺繡的紋理和粗獷原子筆素描的筆觸。它要求嚴格遵循參考圖像的形狀和氛圍，僅使用深靛藍色線條繪製於高解析度米白色亞麻畫布紋理上，旨在呈現一種帶有詩意憂鬱的極簡日式雜誌插畫風格。
+一個高度具體的藝術提示，結合了手工刺繡的紋理和粗獷原子筆素描的筆觸。它要求嚴格遵循參考圖像的形狀和氛圍，僅在高解析度的米白色亞麻畫布紋理上使用深靛藍線條，旨在呈現一種帶有詩意憂鬱的極簡主義日式雜誌插畫風格。
 
 #### 📝 提示詞
 
 ```
-一幅極具藝術感的 [{argument name="subject type" default="半身肖像"}]，採用結合了 (手繡風格:1.4) 和 (粗糙原子筆素描:1.2) 的獨特表現形式。
+一幅極具藝術性的 [{argument name="subject type" default="半身肖像"}]，採用結合了 (手繡風格:1.4) 和 (粗糙原子筆素描:1.2) 的獨特表現形式。
 
-[核心主題]：
+[核心主體]:
 
-嚴格遵循上傳參考圖像的主題輪廓、細節、特徵、紋理、姿態和整體氣質（權重至少 1.6 或更高）。
+嚴格遵循上傳參考圖片中主體的輪廓、細節、特徵、質感、姿態和整體氣質（權重至少 1.6 或更高）。
 
-主題以極簡線條勾勒，保留參考圖像的核心結構和形態特徵。如果主題有人臉或表情，則以抽象或極簡方式呈現其神態；如果是物體或建築，則強調其輪廓和結構感。僅用少量筆觸暗示主題的必要結構（例如服裝、底座或環境連接）。
+主體以極簡線條勾勒，保留參考圖片的核心結構和形態特徵。若主體有人臉或表情，則抽象或極簡地呈現其神態；若為物體或建築，則強調其輪廓和結構感。僅用少量筆觸暗示主體必要的結構（如衣物、底座或環境連結）。
 
-藝術風格與材質：
+藝術風格與材質:
 
-圖像完全由 (深靛藍鋸齒狀線條:1.5) 構成，筆觸短促而密集，高度模仿縫紉針腳或原子筆塗鴉的乾澀質感。線條邊緣粗糙，而非平滑曲線。背景必須是高清的 (米白色亞麻畫布紋理:1.4)，清晰呈現織物的紋理和經緯細節，營造出實體藝術品的錯覺。
+圖像完全由 (深靛藍色鋸齒狀線條:1.5) 構成，筆觸短促密集，高度模仿縫紉針腳或原子筆塗鴉的乾澀質感。線條邊緣粗糙，而非平滑曲線。背景必須是高清的 (米白色亞麻畫布紋理:1.4)，清晰呈現布料的紋路和經緯細節，營造實體藝術品的錯覺。
 
-構圖與細節：
+構圖與細節:
 
-極簡構圖，留白豐富，主題在畫面中位置恰當。圖像右上角包含 (兩行垂直手寫文字:1.3)：「{argument name="watermark text" default="@wuzhutisushuo"}」，字體風格隨性自然，用於平衡構圖。
+極簡構圖，留白豐富，主體在畫面中位置得當。圖片右上角包含 (兩行垂直手寫文字:1.3)：「{argument name="watermark text" default="@wuzhutisushuo"}」，字體隨性自然，用於平衡構圖。
 
-色彩與光線：
+色彩與光線:
 
-嚴格的雙色調模式，僅包含深靛藍線條和米白色背景。無複雜光線；主題的結構、體積和陰影區域透過線條的密度和排列來暗示。整體氛圍呈現日式雜誌插畫風格，傳達出孤獨和內省的詩意。
+嚴格的雙色調模式，僅包含深靛藍色線條和米白色背景。無複雜光線；主體的結構、體積和陰影區域由線條的密度和排列暗示。整體氛圍呈現日系雜誌插畫風格，傳達一種孤寂和內省的詩意。
 ```
 
 #### 🖼️ 生成圖片
@@ -4423,23 +4423,23 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%B9%85%E6%A5%B5%E5%85%B7%E8%97%9D%E8%A1%93%E6%84%9F%E7%9A%84%20%5B%7Bargument%20name%3D%22subject%20type%22%20default%3D%22%E5%8D%8A%E8%BA%AB%E8%82%96%E5%83%8F%22%7D%5D%EF%BC%8C%E6%8E%A1%E7%94%A8%E7%B5%90%E5%90%88%E4%BA%86%20(%E6%89%8B%E7%B9%A1%E9%A2%A8%E6%A0%BC%3A1.4)%20%E5%92%8C%20(%E7%B2%97%E7%B3%99%E5%8E%9F%E5%AD%90%E7%AD%86%E7%B4%A0%E6%8F%8F%3A1.2)%20%E7%9A%84%E7%8D%A8%E7%89%B9%E8%A1%A8%E7%8F%BE%E5%BD%A2%E5%BC%8F%E3%80%82%0A%0A%5B%E6%A0%B8%E5%BF%83%E4%B8%BB%E9%A1%8C%5D%EF%BC%9A%0A%0A%E5%9A%B4%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%B8%8A%E5%82%B3%E5%8F%83%E8%80%83%E5%9C%96%E5%83%8F%E7%9A%84%E4%B8%BB%E9%A1%8C%E8%BC%AA%E5%BB%93%E3%80%81%E7%B4%B0%E7%AF%80%E3%80%81%E7%89%B9%E5%BE%B5%E3%80%81%E7%B4%8B%E7%90%86%E3%80%81%E5%A7%BF%E6%85%8B%E5%92%8C%E6%95%B4%E9%AB%94%E6%B0%A3%E8%B3%AA%EF%BC%88%E6%AC%8A%E9%87%8D%E8%87%B3%E5%B0%91%201.6%20%E6%88%96%E6%9B%B4%E9%AB%98%EF%BC%89%E3%80%82%0A%0A%E4%B8%BB%E9%A1%8C%E4%BB%A5%E6%A5%B5%E7%B0%A1%E7%B7%9A%E6%A2%9D%E5%8B%BE%E5%8B%92%EF%BC%8C%E4%BF%9D%E7%95%99%E5%8F%83%E8%80%83%E5%9C%96%E5%83%8F%E7%9A%84%E6%A0%B8%E5%BF%83%E7%B5%90%E6%A7%8B%E5%92%8C%E5%BD%A2%E6%85%8B%E7%89%B9%E5%BE%B5%E3%80%82%E5%A6%82%E6%9E%9C%E4%B8%BB%E9%A1%8C%E6%9C%89%E4%BA%BA%E8%87%89%E6%88%96%E8%A1%A8%E6%83%85%EF%BC%8C%E5%89%87%E4%BB%A5%E6%8A%BD%E8%B1%A1%E6%88%96%E6%A5%B5%E7%B0%A1%E6%96%B9%E5%BC%8F%E5%91%88%E7%8F%BE%E5%85%B6%E7%A5%9E%E6%85%8B%EF%BC%9B%E5%A6%82%E6%9E%9C%E6%98%AF%E7%89%A9%E9%AB%94%E6%88%96%E5%BB%BA%E7%AF%89%EF%BC%8C%E5%89%87%E5%BC%B7%E8%AA%BF%E5%85%B6%E8%BC%AA%E5%BB%93%E5%92%8C%E7%B5%90%E6%A7%8B%E6%84%9F%E3%80%82%E5%83%85%E7%94%A8%E5%B0%91%E9%87%8F%E7%AD%86%E8%A7%B8%E6%9A%97%E7%A4%BA%E4%B8%BB%E9%A1%8C%E7%9A%84%E5%BF%85%E8%A6%81%E7%B5%90%E6%A7%8B%EF%BC%88%E4%BE%8B%E5%A6%82%E6%9C%8D%E8%A3%9D%E3%80%81%E5%BA%95%E5%BA%A7%E6%88%96%E7%92%B0%E5%A2%83%E9%80%A3%E6%8E%A5%EF%BC%89%E3%80%82%0A%0A%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E8%88%87%E6%9D%90%E8%B3%AA%EF%BC%9A%0A%0A%E5%9C%96%E5%83%8F%E5%AE%8C%E5%85%A8%E7%94%B1%20(%E6%B7%B1%E9%9D%9B%E8%97%8D%E9%8B%B8%E9%BD%92%E7%8B%80%E7%B7%9A%E6%A2%9D%3A1.5)%20%E6%A7%8B%E6%88%90%EF%BC%8C%E7%AD%86%E8%A7%B8%E7%9F%AD%E4%BF%83%E8%80%8C%E5%AF%86%E9%9B%86%EF%BC%8C%E9%AB%98%E5%BA%A6%E6%A8%A1%E4%BB%BF%E7%B8%AB%E7%B4%89%E9%87%9D%E8%85%B3%E6%88%96%E5%8E%9F%E5%AD%90%E7%AD%86%E5%A1%97%E9%B4%89%E7%9A%84%E4%B9%BE%E6%BE%80%E8%B3%AA%E6%84%9F%E3%80%82%E7%B7%9A%E6%A2%9D%E9%82%8A%E7%B7%A3%E7%B2%97%E7%B3%99%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E6%BB%91%E6%9B%B2%E7%B7%9A%E3%80%82%E8%83%8C%E6%99%AF%E5%BF%85%E9%A0%88%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%20(%E7%B1%B3%E7%99%BD%E8%89%B2%E4%BA%9E%E9%BA%BB%E7%95%AB%E5%B8%83%E7%B4%8B%E7%90%86%3A1.4)%EF%BC%8C%E6%B8%85%E6%99%B0%E5%91%88%E7%8F%BE%E7%B9%94%E7%89%A9%E7%9A%84%E7%B4%8B%E7%90%86%E5%92%8C%E7%B6%93%E7%B7%AF%E7%B4%B0%E7%AF%80%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E5%AF%A6%E9%AB%94%E8%97%9D%E8%A1%93%E5%93%81%E7%9A%84%E9%8C%AF%E8%A6%BA%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E8%88%87%E7%B4%B0%E7%AF%80%EF%BC%9A%0A%0A%E6%A5%B5%E7%B0%A1%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%95%99%E7%99%BD%E8%B1%90%E5%AF%8C%EF%BC%8C%E4%B8%BB%E9%A1%8C%E5%9C%A8%E7%95%AB%E9%9D%A2%E4%B8%AD%E4%BD%8D%E7%BD%AE%E6%81%B0%E7%95%B6%E3%80%82%E5%9C%96%E5%83%8F%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8C%85%E5%90%AB%20(%E5%85%A9%E8%A1%8C%E5%9E%82%E7%9B%B4%E6%89%8B%E5%AF%AB%E6%96%87%E5%AD%97%3A1.3)%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22watermark%20text%22%20default%3D%22%40wuzhutisushuo%22%7D%E3%80%8D%EF%BC%8C%E5%AD%97%E9%AB%94%E9%A2%A8%E6%A0%BC%E9%9A%A8%E6%80%A7%E8%87%AA%E7%84%B6%EF%BC%8C%E7%94%A8%E6%96%BC%E5%B9%B3%E8%A1%A1%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E8%89%B2%E5%BD%A9%E8%88%87%E5%85%89%E7%B7%9A%EF%BC%9A%0A%0A%E5%9A%B4%E6%A0%BC%E7%9A%84%E9%9B%99%E8%89%B2%E8%AA%BF%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%83%85%E5%8C%85%E5%90%AB%E6%B7%B1%E9%9D%9B%E8%97%8D%E7%B7%9A%E6%A2%9D%E5%92%8C%E7%B1%B3%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E7%84%A1%E8%A4%87%E9%9B%9C%E5%85%89%E7%B7%9A%EF%BC%9B%E4%B8%BB%E9%A1%8C%E7%9A%84%E7%B5%90%E6%A7%8B%E3%80%81%E9%AB%94%E7%A9%8D%E5%92%8C%E9%99%B0%E5%BD%B1%E5%8D%80%E5%9F%9F%E9%80%8F%E9%81%8E%E7%B7%9A%E6%A2%9D%E7%9A%84%E5%AF%86%E5%BA%A6%E5%92%8C%E6%8E%92%E5%88%97%E4%BE%86%E6%9A%97%E7%A4%BA%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%91%88%E7%8F%BE%E6%97%A5%E5%BC%8F%E9%9B%9C%E8%AA%8C%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%82%B3%E9%81%94%E5%87%BA%E5%AD%A4%E7%8D%A8%E5%92%8C%E5%85%A7%E7%9C%81%E7%9A%84%E8%A9%A9%E6%84%8F%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E4%B8%80%E5%B9%85%E6%A5%B5%E5%85%B7%E8%97%9D%E8%A1%93%E6%80%A7%E7%9A%84%20%5B%7Bargument%20name%3D%22subject%20type%22%20default%3D%22%E5%8D%8A%E8%BA%AB%E8%82%96%E5%83%8F%22%7D%5D%EF%BC%8C%E6%8E%A1%E7%94%A8%E7%B5%90%E5%90%88%E4%BA%86%20(%E6%89%8B%E7%B9%A1%E9%A2%A8%E6%A0%BC%3A1.4)%20%E5%92%8C%20(%E7%B2%97%E7%B3%99%E5%8E%9F%E5%AD%90%E7%AD%86%E7%B4%A0%E6%8F%8F%3A1.2)%20%E7%9A%84%E7%8D%A8%E7%89%B9%E8%A1%A8%E7%8F%BE%E5%BD%A2%E5%BC%8F%E3%80%82%0A%0A%5B%E6%A0%B8%E5%BF%83%E4%B8%BB%E9%AB%94%5D%3A%0A%0A%E5%9A%B4%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%B8%8A%E5%82%B3%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E4%B8%BB%E9%AB%94%E7%9A%84%E8%BC%AA%E5%BB%93%E3%80%81%E7%B4%B0%E7%AF%80%E3%80%81%E7%89%B9%E5%BE%B5%E3%80%81%E8%B3%AA%E6%84%9F%E3%80%81%E5%A7%BF%E6%85%8B%E5%92%8C%E6%95%B4%E9%AB%94%E6%B0%A3%E8%B3%AA%EF%BC%88%E6%AC%8A%E9%87%8D%E8%87%B3%E5%B0%91%201.6%20%E6%88%96%E6%9B%B4%E9%AB%98%EF%BC%89%E3%80%82%0A%0A%E4%B8%BB%E9%AB%94%E4%BB%A5%E6%A5%B5%E7%B0%A1%E7%B7%9A%E6%A2%9D%E5%8B%BE%E5%8B%92%EF%BC%8C%E4%BF%9D%E7%95%99%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E7%9A%84%E6%A0%B8%E5%BF%83%E7%B5%90%E6%A7%8B%E5%92%8C%E5%BD%A2%E6%85%8B%E7%89%B9%E5%BE%B5%E3%80%82%E8%8B%A5%E4%B8%BB%E9%AB%94%E6%9C%89%E4%BA%BA%E8%87%89%E6%88%96%E8%A1%A8%E6%83%85%EF%BC%8C%E5%89%87%E6%8A%BD%E8%B1%A1%E6%88%96%E6%A5%B5%E7%B0%A1%E5%9C%B0%E5%91%88%E7%8F%BE%E5%85%B6%E7%A5%9E%E6%85%8B%EF%BC%9B%E8%8B%A5%E7%82%BA%E7%89%A9%E9%AB%94%E6%88%96%E5%BB%BA%E7%AF%89%EF%BC%8C%E5%89%87%E5%BC%B7%E8%AA%BF%E5%85%B6%E8%BC%AA%E5%BB%93%E5%92%8C%E7%B5%90%E6%A7%8B%E6%84%9F%E3%80%82%E5%83%85%E7%94%A8%E5%B0%91%E9%87%8F%E7%AD%86%E8%A7%B8%E6%9A%97%E7%A4%BA%E4%B8%BB%E9%AB%94%E5%BF%85%E8%A6%81%E7%9A%84%E7%B5%90%E6%A7%8B%EF%BC%88%E5%A6%82%E8%A1%A3%E7%89%A9%E3%80%81%E5%BA%95%E5%BA%A7%E6%88%96%E7%92%B0%E5%A2%83%E9%80%A3%E7%B5%90%EF%BC%89%E3%80%82%0A%0A%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E8%88%87%E6%9D%90%E8%B3%AA%3A%0A%0A%E5%9C%96%E5%83%8F%E5%AE%8C%E5%85%A8%E7%94%B1%20(%E6%B7%B1%E9%9D%9B%E8%97%8D%E8%89%B2%E9%8B%B8%E9%BD%92%E7%8B%80%E7%B7%9A%E6%A2%9D%3A1.5)%20%E6%A7%8B%E6%88%90%EF%BC%8C%E7%AD%86%E8%A7%B8%E7%9F%AD%E4%BF%83%E5%AF%86%E9%9B%86%EF%BC%8C%E9%AB%98%E5%BA%A6%E6%A8%A1%E4%BB%BF%E7%B8%AB%E7%B4%89%E9%87%9D%E8%85%B3%E6%88%96%E5%8E%9F%E5%AD%90%E7%AD%86%E5%A1%97%E9%B4%89%E7%9A%84%E4%B9%BE%E6%BE%80%E8%B3%AA%E6%84%9F%E3%80%82%E7%B7%9A%E6%A2%9D%E9%82%8A%E7%B7%A3%E7%B2%97%E7%B3%99%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E6%BB%91%E6%9B%B2%E7%B7%9A%E3%80%82%E8%83%8C%E6%99%AF%E5%BF%85%E9%A0%88%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%20(%E7%B1%B3%E7%99%BD%E8%89%B2%E4%BA%9E%E9%BA%BB%E7%95%AB%E5%B8%83%E7%B4%8B%E7%90%86%3A1.4)%EF%BC%8C%E6%B8%85%E6%99%B0%E5%91%88%E7%8F%BE%E5%B8%83%E6%96%99%E7%9A%84%E7%B4%8B%E8%B7%AF%E5%92%8C%E7%B6%93%E7%B7%AF%E7%B4%B0%E7%AF%80%EF%BC%8C%E7%87%9F%E9%80%A0%E5%AF%A6%E9%AB%94%E8%97%9D%E8%A1%93%E5%93%81%E7%9A%84%E9%8C%AF%E8%A6%BA%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E8%88%87%E7%B4%B0%E7%AF%80%3A%0A%0A%E6%A5%B5%E7%B0%A1%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%95%99%E7%99%BD%E8%B1%90%E5%AF%8C%EF%BC%8C%E4%B8%BB%E9%AB%94%E5%9C%A8%E7%95%AB%E9%9D%A2%E4%B8%AD%E4%BD%8D%E7%BD%AE%E5%BE%97%E7%95%B6%E3%80%82%E5%9C%96%E7%89%87%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8C%85%E5%90%AB%20(%E5%85%A9%E8%A1%8C%E5%9E%82%E7%9B%B4%E6%89%8B%E5%AF%AB%E6%96%87%E5%AD%97%3A1.3)%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22watermark%20text%22%20default%3D%22%40wuzhutisushuo%22%7D%E3%80%8D%EF%BC%8C%E5%AD%97%E9%AB%94%E9%9A%A8%E6%80%A7%E8%87%AA%E7%84%B6%EF%BC%8C%E7%94%A8%E6%96%BC%E5%B9%B3%E8%A1%A1%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E8%89%B2%E5%BD%A9%E8%88%87%E5%85%89%E7%B7%9A%3A%0A%0A%E5%9A%B4%E6%A0%BC%E7%9A%84%E9%9B%99%E8%89%B2%E8%AA%BF%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%83%85%E5%8C%85%E5%90%AB%E6%B7%B1%E9%9D%9B%E8%97%8D%E8%89%B2%E7%B7%9A%E6%A2%9D%E5%92%8C%E7%B1%B3%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E7%84%A1%E8%A4%87%E9%9B%9C%E5%85%89%E7%B7%9A%EF%BC%9B%E4%B8%BB%E9%AB%94%E7%9A%84%E7%B5%90%E6%A7%8B%E3%80%81%E9%AB%94%E7%A9%8D%E5%92%8C%E9%99%B0%E5%BD%B1%E5%8D%80%E5%9F%9F%E7%94%B1%E7%B7%9A%E6%A2%9D%E7%9A%84%E5%AF%86%E5%BA%A6%E5%92%8C%E6%8E%92%E5%88%97%E6%9A%97%E7%A4%BA%E3%80%82%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%91%88%E7%8F%BE%E6%97%A5%E7%B3%BB%E9%9B%9C%E8%AA%8C%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%82%B3%E9%81%94%E4%B8%80%E7%A8%AE%E5%AD%A4%E5%AF%82%E5%92%8C%E5%85%A7%E7%9C%81%E7%9A%84%E8%A9%A9%E6%84%8F%E3%80%82)**
 
 ---
 
-### No. 105: 笠地藏民間故事插畫提示
+### No. 105: 笠地藏日本民間故事插畫提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個用於 GPT-5 的簡單提示，根據日本民間故事「笠地藏」（戴帽子的地藏雕像）生成插圖。該提示要求以精美的插畫風格描繪故事中的任何場景，最終呈現出類似繪本插圖的圖像。
+一個用於 GPT-5 的簡單提示，根據日本民間故事「笠地藏」（戴帽子的地藏菩薩）生成插圖。該提示要求以精美的插畫風格描繪故事中的任何場景，最終呈現出類似繪本插圖的圖像。
 
 #### 📝 提示詞
 
 ```
-從 {argument name="folktale" default="笠地藏"} 的民間故事中選擇一個場景，並以 {argument name="style" default="精美的插畫風格"} 繪製出來。
+從 {argument name="folktale" default="笠地藏"} 的民間故事中選擇一個場景，並以 {argument name="style" default="精美插畫風格"} 繪製。
 ```
 
 #### 🖼️ 生成圖片
@@ -4447,7 +4447,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948271553_y2e77k_G8SHiCbacAAiaYf.jpg" width="600" alt="笠地藏民間故事插畫提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948271553_y2e77k_G8SHiCbacAAiaYf.jpg" width="600" alt="笠地藏日本民間故事插畫提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4457,18 +4457,18 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%BE%9E%20%7Bargument%20name%3D%22folktale%22%20default%3D%22%E7%AC%A0%E5%9C%B0%E8%97%8F%22%7D%20%E7%9A%84%E6%B0%91%E9%96%93%E6%95%85%E4%BA%8B%E4%B8%AD%E9%81%B8%E6%93%87%E4%B8%80%E5%80%8B%E5%A0%B4%E6%99%AF%EF%BC%8C%E4%B8%A6%E4%BB%A5%20%7Bargument%20name%3D%22style%22%20default%3D%22%E7%B2%BE%E7%BE%8E%E7%9A%84%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%22%7D%20%E7%B9%AA%E8%A3%BD%E5%87%BA%E4%BE%86%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%E5%BE%9E%20%7Bargument%20name%3D%22folktale%22%20default%3D%22%E7%AC%A0%E5%9C%B0%E8%97%8F%22%7D%20%E7%9A%84%E6%B0%91%E9%96%93%E6%95%85%E4%BA%8B%E4%B8%AD%E9%81%B8%E6%93%87%E4%B8%80%E5%80%8B%E5%A0%B4%E6%99%AF%EF%BC%8C%E4%B8%A6%E4%BB%A5%20%7Bargument%20name%3D%22style%22%20default%3D%22%E7%B2%BE%E7%BE%8E%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%22%7D%20%E7%B9%AA%E8%A3%BD%E3%80%82)**
 
 ---
 
-### No. 106: 「男友視角」肖像畫複製提示詳情
+### No. 106: 詳細的「男友視角」肖像複製提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個極其詳細的元提示結構，旨在複製特定「男友視角」的社群媒體風格照片。它定義了 AI 的角色、圖像結構、場景設定、主體定義（包括具體的服裝和標誌細節）、姿勢、表情，以及模擬的相機參數（鏡頭、光圈、照明），以實現逼真的生活風格美學。
+一個極其詳細的元提示結構，旨在重現特定的「男友視角」社群媒體風格照片。它定義了 AI 的角色、圖像結構、場景設定、主體定義（包括具體的服裝和標誌細節）、姿勢、表情，以及模擬的相機參數（鏡頭、光圈、光線），以實現逼真的生活風格美學。
 
 #### 📝 提示詞
 
@@ -4476,37 +4476,37 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 # 圖像重現元提示
 
 ## 1. 角色設定 (Role)
-您是一位**資深人像攝影師**和**燈光與構圖專家**。您擅長捕捉日常生活中的自然瞬間，精通室內燈光和景深控制，並能完美重現「男友視角」的社群媒體風格照片。
+您是一位**資深人像攝影師**和**燈光構圖專家**。您擅長捕捉日常生活中的自然瞬間，精通室內燈光和景深控制，並能完美重現「男友視角」的社群媒體風格照片。
 
 ## 2. 圖像結構與構圖
 * **長寬比：** 9:16 (垂直全幅)
-* **構圖模式：** 中景特寫人像，主體佔畫面左側前景區域的 60%。
+* **構圖模式：** 中景特寫人像，主體佔據畫面左側前景區域的 60%。
 * **核心錨點：**
     * 前景：淺色木質圓桌的邊緣 (在畫面左下角被裁切)。
     * 中景：主體的上半身，特別是臉部和撐著臉頰的手臂。
     * 背景：模糊的咖啡店櫃檯和人群。
 * **文字處理：** 此圖像沒有 UI 文字框。畫面中自然生成的文字是主體左臂袖子上的「alo」品牌標籤。
 
-## 3. 圖像內容生成工作流程
+## 3. 圖像內容生成流程
 **步驟 1：場景設定**
     * 將環境設定為現代、繁忙的咖啡店內部。
     * 天花板：裸露的工業風管道，裝有軌道燈。
-    * 背景：遠處模糊的服務櫃檯 (以紅色菜單板為特徵) 和排隊的深色衣服人群。
+    * 背景：遠處模糊的服務櫃檯 (以紅色菜單板為特徵) 和排隊的深色衣著人群。
 
 **步驟 2：主體定義**
     * 生成一個具有 [{argument name="subject characteristics" default="young Asian female"}] 特徵的主體。
     * 髮型：棕色短髮，帶有空氣瀏海。
     * 服裝：穿著黑色半拉鍊高領抓絨材質運動衫，質地柔軟厚實。
-    * **關鍵細節：** 左上臂上必須有一個清晰的黑色方塊補丁，帶有白色「alo」字母 Logo。
+    * **關鍵細節：** 左上臂上必須有一個清晰的黑色方塊補丁，上面有白色的「alo」字母 Logo。
 
 **步驟 3：姿勢與表情**
-    * 動作：身體向前傾斜，朝向桌子，重心降低。左手肘靠在桌上，手托著臉頰/下巴。
+    * 動作：身體向前傾斜，重心降低，左手肘靠在桌上，手撐著臉頰/下巴。
     * 眼神：直視鏡頭，眼神清澈，帶有一絲溫柔或好奇的微笑。
 
 **步驟 4：相機參數模擬**
     * 焦距：50mm 或 85mm 定焦鏡頭。
-    * 光圈：f/1.8 或 f/2.0 (以營造背景模糊)。
-    * 光線：模擬室內頂光，臉部均勻受光，帶有輕微暖色調。
+    * 光圈：f/1.8 或 f/2.0 (以營造背景模糊效果)。
+    * 光線：模擬室內頂部光源，臉部光線均勻，帶有輕微暖色調。
 
 ## 4. 整體描述
 * **風格：** 超寫實、生活化、高畫質 (8k 解析度)、Instagram 風格。
@@ -4520,7 +4520,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 
 ---
 **生成指令 (Chinese Prompt Reference)：**
-一張超寫實的垂直照片，視角略微向下。主體是一位 [{argument name="subject characteristics" default="cute short-haired Asian female"}]，坐在咖啡店的淺色圓木桌旁。她穿著一件黑色半拉鍊高領抓絨運動衫，左袖上印有清晰的「[{argument name="clothing brand detail" default="alo"}]」標籤。她身體前傾，手托著下巴，手肘靠在桌上，溫柔地看著鏡頭。背景是模糊而繁忙的咖啡店，天花板上可見軌道燈，遠處有紅色菜單板和模糊的顧客。光線是溫暖的室內頂光，膚色自然，髮絲清晰，具有極高的攝影品質。
+一張超寫實的垂直照片，略微俯視角度。主體是一位 [{argument name="subject characteristics" default="cute short-haired Asian female"}]，坐在咖啡店裡一張淺色圓木桌旁。她穿著一件黑色半拉鍊高領抓絨運動衫，左袖上印有清晰的「[{argument name="clothing brand detail" default="alo"}]」標籤。她身體前傾，手撐著下巴，手肘靠在桌上，溫柔地看著鏡頭。背景是模糊而繁忙的咖啡店，天花板上可見軌道燈，遠處有紅色菜單板和模糊的顧客。光線是溫暖的室內頂部光源，膚色自然，髮絲清晰，具有極高的攝影品質。
 ```
 
 #### 🖼️ 生成圖片
@@ -4528,7 +4528,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948274386_xg9689_G8RK9AKawAAtu3K.jpg" width="600" alt="「男友視角」肖像畫複製提示詳情 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948274386_xg9689_G8RK9AKawAAtu3K.jpg" width="600" alt="詳細的「男友視角」肖像複製提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4538,11 +4538,11 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 - **發布時間:** 2025年12月16日
 - **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%23%20%E5%9C%96%E5%83%8F%E9%87%8D%E7%8F%BE%E5%85%83%E6%8F%90%E7%A4%BA%0A%0A%23%23%201.%20%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A%20(Role)%0A%E6%82%A8%E6%98%AF%E4%B8%80%E4%BD%8D**%E8%B3%87%E6%B7%B1%E4%BA%BA%E5%83%8F%E6%94%9D%E5%BD%B1%E5%B8%AB**%E5%92%8C**%E7%87%88%E5%85%89%E8%88%87%E6%A7%8B%E5%9C%96%E5%B0%88%E5%AE%B6**%E3%80%82%E6%82%A8%E6%93%85%E9%95%B7%E6%8D%95%E6%8D%89%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%87%AA%E7%84%B6%E7%9E%AC%E9%96%93%EF%BC%8C%E7%B2%BE%E9%80%9A%E5%AE%A4%E5%85%A7%E7%87%88%E5%85%89%E5%92%8C%E6%99%AF%E6%B7%B1%E6%8E%A7%E5%88%B6%EF%BC%8C%E4%B8%A6%E8%83%BD%E5%AE%8C%E7%BE%8E%E9%87%8D%E7%8F%BE%E3%80%8C%E7%94%B7%E5%8F%8B%E8%A6%96%E8%A7%92%E3%80%8D%E7%9A%84%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E9%A2%A8%E6%A0%BC%E7%85%A7%E7%89%87%E3%80%82%0A%0A%23%23%202.%20%E5%9C%96%E5%83%8F%E7%B5%90%E6%A7%8B%E8%88%87%E6%A7%8B%E5%9C%96%0A*%20**%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%9A**%209%3A16%20(%E5%9E%82%E7%9B%B4%E5%85%A8%E5%B9%85)%0A*%20**%E6%A7%8B%E5%9C%96%E6%A8%A1%E5%BC%8F%EF%BC%9A**%20%E4%B8%AD%E6%99%AF%E7%89%B9%E5%AF%AB%E4%BA%BA%E5%83%8F%EF%BC%8C%E4%B8%BB%E9%AB%94%E4%BD%94%E7%95%AB%E9%9D%A2%E5%B7%A6%E5%81%B4%E5%89%8D%E6%99%AF%E5%8D%80%E5%9F%9F%E7%9A%84%2060%25%E3%80%82%0A*%20**%E6%A0%B8%E5%BF%83%E9%8C%A8%E9%BB%9E%EF%BC%9A**%0A%20%20%20%20*%20%E5%89%8D%E6%99%AF%EF%BC%9A%E6%B7%BA%E8%89%B2%E6%9C%A8%E8%B3%AA%E5%9C%93%E6%A1%8C%E7%9A%84%E9%82%8A%E7%B7%A3%20(%E5%9C%A8%E7%95%AB%E9%9D%A2%E5%B7%A6%E4%B8%8B%E8%A7%92%E8%A2%AB%E8%A3%81%E5%88%87)%E3%80%82%0A%20%20%20%20*%20%E4%B8%AD%E6%99%AF%EF%BC%9A%E4%B8%BB%E9%AB%94%E7%9A%84%E4%B8%8A%E5%8D%8A%E8%BA%AB%EF%BC%8C%E7%89%B9%E5%88%A5%E6%98%AF%E8%87%89%E9%83%A8%E5%92%8C%E6%92%90%E8%91%97%E8%87%89%E9%A0%B0%E7%9A%84%E6%89%8B%E8%87%82%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E6%AB%83%E6%AA%AF%E5%92%8C%E4%BA%BA%E7%BE%A4%E3%80%82%0A*%20**%E6%96%87%E5%AD%97%E8%99%95%E7%90%86%EF%BC%9A**%20%E6%AD%A4%E5%9C%96%E5%83%8F%E6%B2%92%E6%9C%89%20UI%20%E6%96%87%E5%AD%97%E6%A1%86%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E8%87%AA%E7%84%B6%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E5%AD%97%E6%98%AF%E4%B8%BB%E9%AB%94%E5%B7%A6%E8%87%82%E8%A2%96%E5%AD%90%E4%B8%8A%E7%9A%84%E3%80%8Calo%E3%80%8D%E5%93%81%E7%89%8C%E6%A8%99%E7%B1%A4%E3%80%82%0A%0A%23%23%203.%20%E5%9C%96%E5%83%8F%E5%85%A7%E5%AE%B9%E7%94%9F%E6%88%90%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%0A**%E6%AD%A5%E9%A9%9F%201%EF%BC%9A%E5%A0%B4%E6%99%AF%E8%A8%AD%E5%AE%9A**%0A%20%20%20%20*%20%E5%B0%87%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A%E7%82%BA%E7%8F%BE%E4%BB%A3%E3%80%81%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%85%A7%E9%83%A8%E3%80%82%0A%20%20%20%20*%20%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%9A%E8%A3%B8%E9%9C%B2%E7%9A%84%E5%B7%A5%E6%A5%AD%E9%A2%A8%E7%AE%A1%E9%81%93%EF%BC%8C%E8%A3%9D%E6%9C%89%E8%BB%8C%E9%81%93%E7%87%88%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E9%81%A0%E8%99%95%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%9C%8D%E5%8B%99%E6%AB%83%E6%AA%AF%20(%E4%BB%A5%E7%B4%85%E8%89%B2%E8%8F%9C%E5%96%AE%E6%9D%BF%E7%82%BA%E7%89%B9%E5%BE%B5)%20%E5%92%8C%E6%8E%92%E9%9A%8A%E7%9A%84%E6%B7%B1%E8%89%B2%E8%A1%A3%E6%9C%8D%E4%BA%BA%E7%BE%A4%E3%80%82%0A%0A**%E6%AD%A5%E9%A9%9F%202%EF%BC%9A%E4%B8%BB%E9%AB%94%E5%AE%9A%E7%BE%A9**%0A%20%20%20%20*%20%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E5%85%B7%E6%9C%89%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22young%20Asian%20female%22%7D%5D%20%E7%89%B9%E5%BE%B5%E7%9A%84%E4%B8%BB%E9%AB%94%E3%80%82%0A%20%20%20%20*%20%E9%AB%AE%E5%9E%8B%EF%BC%9A%E6%A3%95%E8%89%B2%E7%9F%AD%E9%AB%AE%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%A9%BA%E6%B0%A3%E7%80%8F%E6%B5%B7%E3%80%82%0A%20%20%20%20*%20%E6%9C%8D%E8%A3%9D%EF%BC%9A%E7%A9%BF%E8%91%97%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%8D%8A%E9%AB%98%E9%A0%98%E6%8A%93%E7%B5%A8%E6%9D%90%E8%B3%AA%E9%81%8B%E5%8B%95%E8%A1%AB%EF%BC%8C%E8%B3%AA%E5%9C%B0%E6%9F%94%E8%BB%9F%E5%8E%9A%E5%AF%A6%E3%80%82%0A%20%20%20%20*%20**%E9%97%9C%E9%8D%B5%E7%B4%B0%E7%AF%80%EF%BC%9A**%20%E5%B7%A6%E4%B8%8A%E8%87%82%E4%B8%8A%E5%BF%85%E9%A0%88%E6%9C%89%E4%B8%80%E5%80%8B%E6%B8%85%E6%99%B0%E7%9A%84%E9%BB%91%E8%89%B2%E6%96%B9%E5%A1%8A%E8%A3%9C%E4%B8%81%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%99%BD%E8%89%B2%E3%80%8Calo%E3%80%8D%E5%AD%97%E6%AF%8D%20Logo%E3%80%82%0A%0A**%E6%AD%A5%E9%A9%9F%203%EF%BC%9A%E5%A7%BF%E5%8B%A2%E8%88%87%E8%A1%A8%E6%83%85**%0A%20%20%20%20*%20%E5%8B%95%E4%BD%9C%EF%BC%9A%E8%BA%AB%E9%AB%94%E5%90%91%E5%89%8D%E5%82%BE%E6%96%9C%EF%BC%8C%E6%9C%9D%E5%90%91%E6%A1%8C%E5%AD%90%EF%BC%8C%E9%87%8D%E5%BF%83%E9%99%8D%E4%BD%8E%E3%80%82%E5%B7%A6%E6%89%8B%E8%82%98%E9%9D%A0%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%89%8B%E6%89%98%E8%91%97%E8%87%89%E9%A0%B0%2F%E4%B8%8B%E5%B7%B4%E3%80%82%0A%20%20%20%20*%20%E7%9C%BC%E7%A5%9E%EF%BC%9A%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%EF%BC%8C%E7%9C%BC%E7%A5%9E%E6%B8%85%E6%BE%88%EF%BC%8C%E5%B8%B6%E6%9C%89%E4%B8%80%E7%B5%B2%E6%BA%AB%E6%9F%94%E6%88%96%E5%A5%BD%E5%A5%87%E7%9A%84%E5%BE%AE%E7%AC%91%E3%80%82%0A%0A**%E6%AD%A5%E9%A9%9F%204%EF%BC%9A%E7%9B%B8%E6%A9%9F%E5%8F%83%E6%95%B8%E6%A8%A1%E6%93%AC**%0A%20%20%20%20*%20%E7%84%A6%E8%B7%9D%EF%BC%9A50mm%20%E6%88%96%2085mm%20%E5%AE%9A%E7%84%A6%E9%8F%A1%E9%A0%AD%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E5%9C%88%EF%BC%9Af%2F1.8%20%E6%88%96%20f%2F2.0%20(%E4%BB%A5%E7%87%9F%E9%80%A0%E8%83%8C%E6%99%AF%E6%A8%A1%E7%B3%8A)%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E7%B7%9A%EF%BC%9A%E6%A8%A1%E6%93%AC%E5%AE%A4%E5%85%A7%E9%A0%82%E5%85%89%EF%BC%8C%E8%87%89%E9%83%A8%E5%9D%87%E5%8B%BB%E5%8F%97%E5%85%89%EF%BC%8C%E5%B8%B6%E6%9C%89%E8%BC%95%E5%BE%AE%E6%9A%96%E8%89%B2%E8%AA%BF%E3%80%82%0A%0A%23%23%204.%20%E6%95%B4%E9%AB%94%E6%8F%8F%E8%BF%B0%0A*%20**%E9%A2%A8%E6%A0%BC%EF%BC%9A**%20%E8%B6%85%E5%AF%AB%E5%AF%A6%E3%80%81%E7%94%9F%E6%B4%BB%E5%8C%96%E3%80%81%E9%AB%98%E7%95%AB%E8%B3%AA%20(8k%20%E8%A7%A3%E6%9E%90%E5%BA%A6)%E3%80%81Instagram%20%E9%A2%A8%E6%A0%BC%E3%80%82%0A*%20**%E8%89%B2%E5%BD%A9%EF%BC%9A**%20%E9%BB%91%E8%89%B2%20(%E6%9C%8D%E8%A3%9D)%20%E5%92%8C%E6%9A%96%E6%9C%A8%E8%89%B2%20(%E6%A1%8C%E5%AD%90)%20%E6%98%AF%E5%89%8D%E6%99%AF%E7%9A%84%E4%B8%BB%E8%A6%81%E8%89%B2%E8%AA%BF%EF%BC%8C%E8%83%8C%E6%99%AF%E6%B7%B7%E5%90%88%E4%BA%86%E6%9A%96%E9%BB%83%E8%89%B2%E7%87%88%E5%85%89%E5%92%8C%E7%B4%85%E8%89%B2%E9%BB%9E%E7%B6%B4%E3%80%82%0A*%20**%E7%B4%8B%E7%90%86%EF%BC%9A**%20%E5%BC%B7%E8%AA%BF%E9%81%8B%E5%8B%95%E8%A1%AB%E7%9A%84%E6%8A%93%E7%B5%A8%E7%B4%8B%E7%90%86%E3%80%81%E9%A0%AD%E9%AB%AE%E7%9A%84%E5%85%89%E6%BE%A4%E5%92%8C%E6%9C%A8%E6%A1%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%23%23%205.%20%E7%9B%AE%E6%A8%99%E7%89%A9%E4%BB%B6%E5%92%8C%E8%AA%9E%E8%A8%80%E8%BC%B8%E5%85%A5%E6%A1%86%20(User%20Inputs)%0A*%20**%5BSubject%20Characteristics%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D)%20-%20*%E9%A0%90%E8%A8%AD%EF%BC%9A%E5%8F%AF%E6%84%9B%E7%9A%84%E7%9F%AD%E9%AB%AE%E4%BA%9E%E6%B4%B2%E5%A5%B3%E6%80%A7*%0A*%20**%5BClothing%20Brand%20Detail%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22%22%7D)%20-%20*%E9%A0%90%E8%A8%AD%EF%BC%9Aalo%20%E5%93%81%E7%89%8C%E6%A8%99%E8%AA%8C*%0A*%20**%5BEnvironment%20Atmosphere%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22environment%20atmosphere%22%20default%3D%22outdoor%20cafe%22%7D)%20-%20*%E9%A0%90%E8%A8%AD%EF%BC%9A%E6%98%9F%E5%B7%B4%E5%85%8B%E9%A2%A8%E6%A0%BC%E5%92%96%E5%95%A1%E5%BA%97*%0A%0A---%0A**%E7%94%9F%E6%88%90%E6%8C%87%E4%BB%A4%20(Chinese%20Prompt%20Reference)%EF%BC%9A**%0A%E4%B8%80%E5%BC%B5%E8%B6%85%E5%AF%AB%E5%AF%A6%E7%9A%84%E5%9E%82%E7%9B%B4%E7%85%A7%E7%89%87%EF%BC%8C%E8%A6%96%E8%A7%92%E7%95%A5%E5%BE%AE%E5%90%91%E4%B8%8B%E3%80%82%E4%B8%BB%E9%AB%94%E6%98%AF%E4%B8%80%E4%BD%8D%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D%5D%EF%BC%8C%E5%9D%90%E5%9C%A8%E5%92%96%E5%95%A1%E5%BA%97%E7%9A%84%E6%B7%BA%E8%89%B2%E5%9C%93%E6%9C%A8%E6%A1%8C%E6%97%81%E3%80%82%E5%A5%B9%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%8D%8A%E9%AB%98%E9%A0%98%E6%8A%93%E7%B5%A8%E9%81%8B%E5%8B%95%E8%A1%AB%EF%BC%8C%E5%B7%A6%E8%A2%96%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E3%80%8C%5B%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22alo%22%7D%5D%E3%80%8D%E6%A8%99%E7%B1%A4%E3%80%82%E5%A5%B9%E8%BA%AB%E9%AB%94%E5%89%8D%E5%82%BE%EF%BC%8C%E6%89%8B%E6%89%98%E8%91%97%E4%B8%8B%E5%B7%B4%EF%BC%8C%E6%89%8B%E8%82%98%E9%9D%A0%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%BA%AB%E6%9F%94%E5%9C%B0%E7%9C%8B%E8%91%97%E9%8F%A1%E9%A0%AD%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%A8%A1%E7%B3%8A%E8%80%8C%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%EF%BC%8C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E4%B8%8A%E5%8F%AF%E8%A6%8B%E8%BB%8C%E9%81%93%E7%87%88%EF%BC%8C%E9%81%A0%E8%99%95%E6%9C%89%E7%B4%85%E8%89%B2%E8%8F%9C%E5%96%AE%E6%9D%BF%E5%92%8C%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%A1%A7%E5%AE%A2%E3%80%82%E5%85%89%E7%B7%9A%E6%98%AF%E6%BA%AB%E6%9A%96%E7%9A%84%E5%AE%A4%E5%85%A7%E9%A0%82%E5%85%89%EF%BC%8C%E8%86%9A%E8%89%B2%E8%87%AA%E7%84%B6%EF%BC%8C%E9%AB%AE%E7%B5%B2%E6%B8%85%E6%99%B0%EF%BC%8C%E5%85%B7%E6%9C%89%E6%A5%B5%E9%AB%98%E7%9A%84%E6%94%9D%E5%BD%B1%E5%93%81%E8%B3%AA%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-1-5?prompt=%23%20%E5%9C%96%E5%83%8F%E9%87%8D%E7%8F%BE%E5%85%83%E6%8F%90%E7%A4%BA%0A%0A%23%23%201.%20%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A%20(Role)%0A%E6%82%A8%E6%98%AF%E4%B8%80%E4%BD%8D**%E8%B3%87%E6%B7%B1%E4%BA%BA%E5%83%8F%E6%94%9D%E5%BD%B1%E5%B8%AB**%E5%92%8C**%E7%87%88%E5%85%89%E6%A7%8B%E5%9C%96%E5%B0%88%E5%AE%B6**%E3%80%82%E6%82%A8%E6%93%85%E9%95%B7%E6%8D%95%E6%8D%89%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%87%AA%E7%84%B6%E7%9E%AC%E9%96%93%EF%BC%8C%E7%B2%BE%E9%80%9A%E5%AE%A4%E5%85%A7%E7%87%88%E5%85%89%E5%92%8C%E6%99%AF%E6%B7%B1%E6%8E%A7%E5%88%B6%EF%BC%8C%E4%B8%A6%E8%83%BD%E5%AE%8C%E7%BE%8E%E9%87%8D%E7%8F%BE%E3%80%8C%E7%94%B7%E5%8F%8B%E8%A6%96%E8%A7%92%E3%80%8D%E7%9A%84%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E9%A2%A8%E6%A0%BC%E7%85%A7%E7%89%87%E3%80%82%0A%0A%23%23%202.%20%E5%9C%96%E5%83%8F%E7%B5%90%E6%A7%8B%E8%88%87%E6%A7%8B%E5%9C%96%0A*%20**%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%9A**%209%3A16%20(%E5%9E%82%E7%9B%B4%E5%85%A8%E5%B9%85)%0A*%20**%E6%A7%8B%E5%9C%96%E6%A8%A1%E5%BC%8F%EF%BC%9A**%20%E4%B8%AD%E6%99%AF%E7%89%B9%E5%AF%AB%E4%BA%BA%E5%83%8F%EF%BC%8C%E4%B8%BB%E9%AB%94%E4%BD%94%E6%93%9A%E7%95%AB%E9%9D%A2%E5%B7%A6%E5%81%B4%E5%89%8D%E6%99%AF%E5%8D%80%E5%9F%9F%E7%9A%84%2060%25%E3%80%82%0A*%20**%E6%A0%B8%E5%BF%83%E9%8C%A8%E9%BB%9E%EF%BC%9A**%0A%20%20%20%20*%20%E5%89%8D%E6%99%AF%EF%BC%9A%E6%B7%BA%E8%89%B2%E6%9C%A8%E8%B3%AA%E5%9C%93%E6%A1%8C%E7%9A%84%E9%82%8A%E7%B7%A3%20(%E5%9C%A8%E7%95%AB%E9%9D%A2%E5%B7%A6%E4%B8%8B%E8%A7%92%E8%A2%AB%E8%A3%81%E5%88%87)%E3%80%82%0A%20%20%20%20*%20%E4%B8%AD%E6%99%AF%EF%BC%9A%E4%B8%BB%E9%AB%94%E7%9A%84%E4%B8%8A%E5%8D%8A%E8%BA%AB%EF%BC%8C%E7%89%B9%E5%88%A5%E6%98%AF%E8%87%89%E9%83%A8%E5%92%8C%E6%92%90%E8%91%97%E8%87%89%E9%A0%B0%E7%9A%84%E6%89%8B%E8%87%82%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E6%AB%83%E6%AA%AF%E5%92%8C%E4%BA%BA%E7%BE%A4%E3%80%82%0A*%20**%E6%96%87%E5%AD%97%E8%99%95%E7%90%86%EF%BC%9A**%20%E6%AD%A4%E5%9C%96%E5%83%8F%E6%B2%92%E6%9C%89%20UI%20%E6%96%87%E5%AD%97%E6%A1%86%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E8%87%AA%E7%84%B6%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E5%AD%97%E6%98%AF%E4%B8%BB%E9%AB%94%E5%B7%A6%E8%87%82%E8%A2%96%E5%AD%90%E4%B8%8A%E7%9A%84%E3%80%8Calo%E3%80%8D%E5%93%81%E7%89%8C%E6%A8%99%E7%B1%A4%E3%80%82%0A%0A%23%23%203.%20%E5%9C%96%E5%83%8F%E5%85%A7%E5%AE%B9%E7%94%9F%E6%88%90%E6%B5%81%E7%A8%8B%0A**%E6%AD%A5%E9%A9%9F%201%EF%BC%9A%E5%A0%B4%E6%99%AF%E8%A8%AD%E5%AE%9A**%0A%20%20%20%20*%20%E5%B0%87%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A%E7%82%BA%E7%8F%BE%E4%BB%A3%E3%80%81%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%85%A7%E9%83%A8%E3%80%82%0A%20%20%20%20*%20%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%9A%E8%A3%B8%E9%9C%B2%E7%9A%84%E5%B7%A5%E6%A5%AD%E9%A2%A8%E7%AE%A1%E9%81%93%EF%BC%8C%E8%A3%9D%E6%9C%89%E8%BB%8C%E9%81%93%E7%87%88%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E9%81%A0%E8%99%95%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%9C%8D%E5%8B%99%E6%AB%83%E6%AA%AF%20(%E4%BB%A5%E7%B4%85%E8%89%B2%E8%8F%9C%E5%96%AE%E6%9D%BF%E7%82%BA%E7%89%B9%E5%BE%B5)%20%E5%92%8C%E6%8E%92%E9%9A%8A%E7%9A%84%E6%B7%B1%E8%89%B2%E8%A1%A3%E8%91%97%E4%BA%BA%E7%BE%A4%E3%80%82%0A%0A**%E6%AD%A5%E9%A9%9F%202%EF%BC%9A%E4%B8%BB%E9%AB%94%E5%AE%9A%E7%BE%A9**%0A%20%20%20%20*%20%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E5%85%B7%E6%9C%89%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22young%20Asian%20female%22%7D%5D%20%E7%89%B9%E5%BE%B5%E7%9A%84%E4%B8%BB%E9%AB%94%E3%80%82%0A%20%20%20%20*%20%E9%AB%AE%E5%9E%8B%EF%BC%9A%E6%A3%95%E8%89%B2%E7%9F%AD%E9%AB%AE%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%A9%BA%E6%B0%A3%E7%80%8F%E6%B5%B7%E3%80%82%0A%20%20%20%20*%20%E6%9C%8D%E8%A3%9D%EF%BC%9A%E7%A9%BF%E8%91%97%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%8D%8A%E9%AB%98%E9%A0%98%E6%8A%93%E7%B5%A8%E6%9D%90%E8%B3%AA%E9%81%8B%E5%8B%95%E8%A1%AB%EF%BC%8C%E8%B3%AA%E5%9C%B0%E6%9F%94%E8%BB%9F%E5%8E%9A%E5%AF%A6%E3%80%82%0A%20%20%20%20*%20**%E9%97%9C%E9%8D%B5%E7%B4%B0%E7%AF%80%EF%BC%9A**%20%E5%B7%A6%E4%B8%8A%E8%87%82%E4%B8%8A%E5%BF%85%E9%A0%88%E6%9C%89%E4%B8%80%E5%80%8B%E6%B8%85%E6%99%B0%E7%9A%84%E9%BB%91%E8%89%B2%E6%96%B9%E5%A1%8A%E8%A3%9C%E4%B8%81%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E7%99%BD%E8%89%B2%E7%9A%84%E3%80%8Calo%E3%80%8D%E5%AD%97%E6%AF%8D%20Logo%E3%80%82%0A%0A**%E6%AD%A5%E9%A9%9F%203%EF%BC%9A%E5%A7%BF%E5%8B%A2%E8%88%87%E8%A1%A8%E6%83%85**%0A%20%20%20%20*%20%E5%8B%95%E4%BD%9C%EF%BC%9A%E8%BA%AB%E9%AB%94%E5%90%91%E5%89%8D%E5%82%BE%E6%96%9C%EF%BC%8C%E9%87%8D%E5%BF%83%E9%99%8D%E4%BD%8E%EF%BC%8C%E5%B7%A6%E6%89%8B%E8%82%98%E9%9D%A0%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%89%8B%E6%92%90%E8%91%97%E8%87%89%E9%A0%B0%2F%E4%B8%8B%E5%B7%B4%E3%80%82%0A%20%20%20%20*%20%E7%9C%BC%E7%A5%9E%EF%BC%9A%E7%9B%B4%E8%A6%96%E9%8F%A1%E9%A0%AD%EF%BC%8C%E7%9C%BC%E7%A5%9E%E6%B8%85%E6%BE%88%EF%BC%8C%E5%B8%B6%E6%9C%89%E4%B8%80%E7%B5%B2%E6%BA%AB%E6%9F%94%E6%88%96%E5%A5%BD%E5%A5%87%E7%9A%84%E5%BE%AE%E7%AC%91%E3%80%82%0A%0A**%E6%AD%A5%E9%A9%9F%204%EF%BC%9A%E7%9B%B8%E6%A9%9F%E5%8F%83%E6%95%B8%E6%A8%A1%E6%93%AC**%0A%20%20%20%20*%20%E7%84%A6%E8%B7%9D%EF%BC%9A50mm%20%E6%88%96%2085mm%20%E5%AE%9A%E7%84%A6%E9%8F%A1%E9%A0%AD%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E5%9C%88%EF%BC%9Af%2F1.8%20%E6%88%96%20f%2F2.0%20(%E4%BB%A5%E7%87%9F%E9%80%A0%E8%83%8C%E6%99%AF%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C)%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E7%B7%9A%EF%BC%9A%E6%A8%A1%E6%93%AC%E5%AE%A4%E5%85%A7%E9%A0%82%E9%83%A8%E5%85%89%E6%BA%90%EF%BC%8C%E8%87%89%E9%83%A8%E5%85%89%E7%B7%9A%E5%9D%87%E5%8B%BB%EF%BC%8C%E5%B8%B6%E6%9C%89%E8%BC%95%E5%BE%AE%E6%9A%96%E8%89%B2%E8%AA%BF%E3%80%82%0A%0A%23%23%204.%20%E6%95%B4%E9%AB%94%E6%8F%8F%E8%BF%B0%0A*%20**%E9%A2%A8%E6%A0%BC%EF%BC%9A**%20%E8%B6%85%E5%AF%AB%E5%AF%A6%E3%80%81%E7%94%9F%E6%B4%BB%E5%8C%96%E3%80%81%E9%AB%98%E7%95%AB%E8%B3%AA%20(8k%20%E8%A7%A3%E6%9E%90%E5%BA%A6)%E3%80%81Instagram%20%E9%A2%A8%E6%A0%BC%E3%80%82%0A*%20**%E8%89%B2%E5%BD%A9%EF%BC%9A**%20%E9%BB%91%E8%89%B2%20(%E6%9C%8D%E8%A3%9D)%20%E5%92%8C%E6%9A%96%E6%9C%A8%E8%89%B2%20(%E6%A1%8C%E5%AD%90)%20%E6%98%AF%E5%89%8D%E6%99%AF%E7%9A%84%E4%B8%BB%E8%A6%81%E8%89%B2%E8%AA%BF%EF%BC%8C%E8%83%8C%E6%99%AF%E6%B7%B7%E5%90%88%E4%BA%86%E6%9A%96%E9%BB%83%E8%89%B2%E7%87%88%E5%85%89%E5%92%8C%E7%B4%85%E8%89%B2%E9%BB%9E%E7%B6%B4%E3%80%82%0A*%20**%E7%B4%8B%E7%90%86%EF%BC%9A**%20%E5%BC%B7%E8%AA%BF%E9%81%8B%E5%8B%95%E8%A1%AB%E7%9A%84%E6%8A%93%E7%B5%A8%E7%B4%8B%E7%90%86%E3%80%81%E9%A0%AD%E9%AB%AE%E7%9A%84%E5%85%89%E6%BE%A4%E5%92%8C%E6%9C%A8%E6%A1%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%23%23%205.%20%E7%9B%AE%E6%A8%99%E7%89%A9%E4%BB%B6%E5%92%8C%E8%AA%9E%E8%A8%80%E8%BC%B8%E5%85%A5%E6%A1%86%20(User%20Inputs)%0A*%20**%5BSubject%20Characteristics%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D)%20-%20*%E9%A0%90%E8%A8%AD%EF%BC%9A%E5%8F%AF%E6%84%9B%E7%9A%84%E7%9F%AD%E9%AB%AE%E4%BA%9E%E6%B4%B2%E5%A5%B3%E6%80%A7*%0A*%20**%5BClothing%20Brand%20Detail%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22%22%7D)%20-%20*%E9%A0%90%E8%A8%AD%EF%BC%9Aalo%20%E5%93%81%E7%89%8C%E6%A8%99%E8%AA%8C*%0A*%20**%5BEnvironment%20Atmosphere%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22environment%20atmosphere%22%20default%3D%22outdoor%20cafe%22%7D)%20-%20*%E9%A0%90%E8%A8%AD%EF%BC%9A%E6%98%9F%E5%B7%B4%E5%85%8B%E9%A2%A8%E6%A0%BC%E5%92%96%E5%95%A1%E5%BA%97*%0A%0A---%0A**%E7%94%9F%E6%88%90%E6%8C%87%E4%BB%A4%20(Chinese%20Prompt%20Reference)%EF%BC%9A**%0A%E4%B8%80%E5%BC%B5%E8%B6%85%E5%AF%AB%E5%AF%A6%E7%9A%84%E5%9E%82%E7%9B%B4%E7%85%A7%E7%89%87%EF%BC%8C%E7%95%A5%E5%BE%AE%E4%BF%AF%E8%A6%96%E8%A7%92%E5%BA%A6%E3%80%82%E4%B8%BB%E9%AB%94%E6%98%AF%E4%B8%80%E4%BD%8D%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D%5D%EF%BC%8C%E5%9D%90%E5%9C%A8%E5%92%96%E5%95%A1%E5%BA%97%E8%A3%A1%E4%B8%80%E5%BC%B5%E6%B7%BA%E8%89%B2%E5%9C%93%E6%9C%A8%E6%A1%8C%E6%97%81%E3%80%82%E5%A5%B9%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%8D%8A%E9%AB%98%E9%A0%98%E6%8A%93%E7%B5%A8%E9%81%8B%E5%8B%95%E8%A1%AB%EF%BC%8C%E5%B7%A6%E8%A2%96%E4%B8%8A%E5%8D%B0%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E3%80%8C%5B%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22alo%22%7D%5D%E3%80%8D%E6%A8%99%E7%B1%A4%E3%80%82%E5%A5%B9%E8%BA%AB%E9%AB%94%E5%89%8D%E5%82%BE%EF%BC%8C%E6%89%8B%E6%92%90%E8%91%97%E4%B8%8B%E5%B7%B4%EF%BC%8C%E6%89%8B%E8%82%98%E9%9D%A0%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%BA%AB%E6%9F%94%E5%9C%B0%E7%9C%8B%E8%91%97%E9%8F%A1%E9%A0%AD%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%A8%A1%E7%B3%8A%E8%80%8C%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%EF%BC%8C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E4%B8%8A%E5%8F%AF%E8%A6%8B%E8%BB%8C%E9%81%93%E7%87%88%EF%BC%8C%E9%81%A0%E8%99%95%E6%9C%89%E7%B4%85%E8%89%B2%E8%8F%9C%E5%96%AE%E6%9D%BF%E5%92%8C%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%A1%A7%E5%AE%A2%E3%80%82%E5%85%89%E7%B7%9A%E6%98%AF%E6%BA%AB%E6%9A%96%E7%9A%84%E5%AE%A4%E5%85%A7%E9%A0%82%E9%83%A8%E5%85%89%E6%BA%90%EF%BC%8C%E8%86%9A%E8%89%B2%E8%87%AA%E7%84%B6%EF%BC%8C%E9%AB%AE%E7%B5%B2%E6%B8%85%E6%99%B0%EF%BC%8C%E5%85%B7%E6%9C%89%E6%A5%B5%E9%AB%98%E7%9A%84%E6%94%9D%E5%BD%B1%E5%93%81%E8%B3%AA%E3%80%82)**
 
 ---
 
-### No. 107: 圖像編輯：汽車與背景轉換
+### No. 107: 圖片編輯：汽車與背景轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4562,7 +4562,7 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948281920_spl4wx_G8Q-BeIa0AAqi1R.jpg" width="600" alt="圖像編輯：汽車與背景轉換 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948281920_spl4wx_G8Q-BeIa0AAqi1R.jpg" width="600" alt="圖片編輯：汽車與背景轉換 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4619,6 +4619,6 @@ OpenAI 歷史資訊圖表，包含其在 2025 年的進展
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-17T16:13:35.194Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-17T20:11:37.320Z</sub>
 
 </div>

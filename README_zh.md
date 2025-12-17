@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **108** |
 | ⭐ 精选 | **1** |
-| 🔄 最后更新 | **2025年12月17日星期三 UTC 16:13:34** |
+| 🔄 最后更新 | **2025年12月17日星期三 UTC 20:11:36** |
 
 </div>
 
@@ -98,19 +98,19 @@ by {argument name="author" default="Steve Jobs"}
 
 > ⭐ 由我们的团队精心挑选，具有卓越的质量和创造力
 
-### No. 1: 增强摄影生成中的角色外观
+### No. 1: 提升摄影生成中的角色外观
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 描述
 
-一个用于测试 GPT-Image-1.5 图像增强和一致性能力的提示，特别侧重于改善照片中人物的服装、表情和环境，使其更具吸引力和魅力。此提示有助于生成高质量的人像或“写真”风格图像。
+一个用于测试 GPT-Image-1.5 图像增强和一致性能力的提示，特别侧重于改进照片中人物的服装、表情和环境，使其更具吸引力和魅力。此提示有助于生成高质量的人像或“写真”风格图像。
 
 #### 📝 提示词
 
 ```
-让图片中人物的服装、动作、表情和环境更美观、更具吸引力，将其推向您所能做到的极致。
+让图片中人物的服装、动作、表情和环境更加美观迷人，将其提升至您所能达到的极致。
 ```
 
 #### 🖼️ 生成图片
@@ -118,19 +118,19 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="增强摄影生成中的角色外观 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949137197_j1ukyj_G8WKjtVW4AYOFs3.jpg" width="700" alt="提升摄影生成中的角色外观 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="增强摄影生成中的角色外观 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949137488_vfidxt_G8WKktEWMAMR8u5.jpg" width="700" alt="提升摄影生成中的角色外观 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="增强摄影生成中的角色外观 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949137857_6rctlo_G8WKkIAXIAMWpvB.jpg" width="700" alt="提升摄影生成中的角色外观 - Image 3">
 </div>
 
 #### 📌 详情
@@ -140,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 - **发布时间:** 2025年12月17日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AE%A9%E5%9B%BE%E7%89%87%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E6%9C%8D%E8%A3%85%E3%80%81%E5%8A%A8%E4%BD%9C%E3%80%81%E8%A1%A8%E6%83%85%E5%92%8C%E7%8E%AF%E5%A2%83%E6%9B%B4%E7%BE%8E%E8%A7%82%E3%80%81%E6%9B%B4%E5%85%B7%E5%90%B8%E5%BC%95%E5%8A%9B%EF%BC%8C%E5%B0%86%E5%85%B6%E6%8E%A8%E5%90%91%E6%82%A8%E6%89%80%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%9E%81%E8%87%B4%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AE%A9%E5%9B%BE%E7%89%87%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E6%9C%8D%E8%A3%85%E3%80%81%E5%8A%A8%E4%BD%9C%E3%80%81%E8%A1%A8%E6%83%85%E5%92%8C%E7%8E%AF%E5%A2%83%E6%9B%B4%E5%8A%A0%E7%BE%8E%E8%A7%82%E8%BF%B7%E4%BA%BA%EF%BC%8C%E5%B0%86%E5%85%B6%E6%8F%90%E5%8D%87%E8%87%B3%E6%82%A8%E6%89%80%E8%83%BD%E8%BE%BE%E5%88%B0%E7%9A%84%E6%9E%81%E8%87%B4%E3%80%82)**
 
 ---
 
@@ -148,13 +148,13 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 茶杯坠落并摔碎的四格图片
+### No. 1: 茶杯坠落并破碎的四格图片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个复杂的提示，要求制作一个四格漫画序列，展示一个茶杯掉落、破裂和碎裂的过程，重点是保持茶杯的一致性，并准确呈现碎片破裂的物理效果。
+一个复杂的提示，要求制作一个四格序列，展示一个茶杯掉落、破裂和碎裂的过程，重点是保持茶杯的一致性，并准确呈现碎片破裂的物理效果。
 
 #### 📝 提示词
 
@@ -168,13 +168,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949109191_ihdb8a_G8WIpX0aAAEY7QV.jpg" width="600" alt="茶杯坠落并摔碎的四格图片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949109191_ihdb8a_G8WIpX0aAAEY7QV.jpg" width="600" alt="茶杯坠落并破碎的四格图片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949109581_3ch9mc_G8WIuaaakAEHGmU.jpg" width="600" alt="茶杯坠落并摔碎的四格图片 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949109581_3ch9mc_G8WIuaaakAEHGmU.jpg" width="600" alt="茶杯坠落并破碎的四格图片 - Image 2">
 </div>
 
 #### 📌 详情
@@ -194,7 +194,7 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-一个旨在生成复杂信息图的提示，该信息图解释了斐波那契数列，要求视觉呈现中既包含数学概念又包含编码示例，并以简洁的布局和清晰的视觉层次为目标。
+一个旨在生成复杂信息图的提示，该信息图解释了斐波那契数列，要求视觉呈现结合数学概念和编码示例，并以简洁的布局和清晰的视觉层次为目标。
 
 #### 📝 提示词
 
@@ -221,13 +221,13 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: 深色模式圣诞节送礼网站 UI 设计
+### No. 3: 深色模式圣诞节礼品网站 UI 设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个用于生成圣诞礼物网站 UI 设计的提示，该设计采用深色模式美学，带有玻璃拟态（Glassmorphism）元素、深红色和松绿色点缀，以及磨砂雪玻璃卡片，暗示生成图像具有高度的细节和一致性。
+一个用于生成圣诞礼物网站 UI 设计的提示，该设计采用深色模式美学，带有玻璃拟态元素、深红色和松绿色点缀，以及磨砂雪玻璃卡片，暗示生成图像具有高度的细节和一致性。
 
 #### 📝 提示词
 
@@ -240,7 +240,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949116559_g32hwe_G8WFTo5bgAEGosB.jpg" width="600" alt="深色模式圣诞节送礼网站 UI 设计 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949116559_g32hwe_G8WFTo5bgAEGosB.jpg" width="600" alt="深色模式圣诞节礼品网站 UI 设计 - Image 1">
 </div>
 
 #### 📌 详情
@@ -254,18 +254,18 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: Flash-Fired Selfie of Sam Altman
+### No. 4: Sam Altman 的闪电自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt designed to generate a highly realistic, unflattering selfie of Sam Altman where the flash fired by mistake, resulting in harsh lighting, red skin tones, and an annoyed expression, testing the model's ability to render specific photographic flaws.
+一个旨在生成一张高度逼真、不讨喜的山姆·奥特曼 (Sam Altman) 自拍照的提示，照片中闪光灯意外触发，导致光线刺眼、肤色泛红，表情不悦，以此测试模型渲染特定摄影缺陷的能力。
 
 #### 📝 提示词
 
 ```
-A front-camera selfie of sam altman where flash fired by mistake. Washed-out forehead, red skin tones, harsh shadows under eyes, background nearly black. Person looks annoyed, half blinking. Slight finger in frame, 3:4 aspect ratio
+一张 Sam Altman 的前置摄像头自拍照，闪光灯意外闪烁。额头曝光过度，肤色偏红，眼下有生硬的阴影，背景几乎全黑。人物看起来很恼火，半闭着眼睛。画面中有一点手指，宽高比为 3:4。
 ```
 
 #### 🖼️ 生成图片
@@ -273,13 +273,13 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949109536_ssdbcb_G8WEHZXbcAAJM9j.jpg" width="600" alt="Flash-Fired Selfie of Sam Altman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949109536_ssdbcb_G8WEHZXbcAAJM9j.jpg" width="600" alt="Sam Altman 的闪电自拍 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949109696_0cnkk2_G8WEHb4a4AERij-.jpg" width="600" alt="Flash-Fired Selfie of Sam Altman - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949109696_0cnkk2_G8WEHb4a4AERij-.jpg" width="600" alt="Sam Altman 的闪电自拍 - Image 2">
 </div>
 
 #### 📌 详情
@@ -289,7 +289,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=A%20front-camera%20selfie%20of%20sam%20altman%20where%20flash%20fired%20by%20mistake.%20Washed-out%20forehead%2C%20red%20skin%20tones%2C%20harsh%20shadows%20under%20eyes%2C%20background%20nearly%20black.%20Person%20looks%20annoyed%2C%20half%20blinking.%20Slight%20finger%20in%20frame%2C%203%3A4%20aspect%20ratio)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%20Sam%20Altman%20%E7%9A%84%E5%89%8D%E7%BD%AE%E6%91%84%E5%83%8F%E5%A4%B4%E8%87%AA%E6%8B%8D%E7%85%A7%EF%BC%8C%E9%97%AA%E5%85%89%E7%81%AF%E6%84%8F%E5%A4%96%E9%97%AA%E7%83%81%E3%80%82%E9%A2%9D%E5%A4%B4%E6%9B%9D%E5%85%89%E8%BF%87%E5%BA%A6%EF%BC%8C%E8%82%A4%E8%89%B2%E5%81%8F%E7%BA%A2%EF%BC%8C%E7%9C%BC%E4%B8%8B%E6%9C%89%E7%94%9F%E7%A1%AC%E7%9A%84%E9%98%B4%E5%BD%B1%EF%BC%8C%E8%83%8C%E6%99%AF%E5%87%A0%E4%B9%8E%E5%85%A8%E9%BB%91%E3%80%82%E4%BA%BA%E7%89%A9%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E6%81%BC%E7%81%AB%EF%BC%8C%E5%8D%8A%E9%97%AD%E7%9D%80%E7%9C%BC%E7%9D%9B%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E6%9C%89%E4%B8%80%E7%82%B9%E6%89%8B%E6%8C%87%EF%BC%8C%E5%AE%BD%E9%AB%98%E6%AF%94%E4%B8%BA%203%3A4%E3%80%82)**
 
 ---
 
@@ -300,12 +300,12 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个用于将上传的女孩照片编辑成艺术肖像的提示。它要求保留面部，同时改变姿势、服装（现代粉色上衣、灰色牛仔裤、厚底运动鞋）、表情（向上看，露出可爱的微笑），并设置一个以同一面部特写侧面轮廓为特色的单色艺术背景。此提示强调与参考图像 100% 的面部和身体匹配。
+一个用于将上传的女孩照片编辑成艺术肖像的提示。它要求保留面部，同时改变姿势、服装（现代粉色上衣、灰色牛仔裤、厚底运动鞋）、表情（向上看，露出可爱的微笑），并设置一个以同一面部特写侧面轮廓为特色的单色艺术背景。此提示强调与参考图像 100% 匹配的面部和身体。
 
 #### 📝 提示词
 
 ```
-请在不改变面部的情况下编辑这张照片，将其变成一幅艺术肖像。这位女士应该优雅地坐在地板上，穿着一件现代的{argument name="top color" default="粉色"}上衣，柔软宽松的灰色牛仔裤，以及厚实的灰白色运动鞋。她面带可爱的微笑，向上看。背景应该是一个艺术性的单色（黑白）构图，特写同一张脸的柔和侧面。面部和身体与我上传的参考图片 100% 匹配。
+请在不改变面部特征的情况下编辑这张照片，将其转变为一幅艺术肖像。照片中的女性应优雅地坐在地板上，身穿现代的 {argument name="top color" default="粉色"} 上衣、柔软宽松的灰色牛仔裤，以及厚实的灰白色运动鞋。她面带可爱的微笑，向上凝视。背景应为艺术性的单色（黑白）构图，特写同一张脸的柔和侧面轮廓。面部和身体需与我上传的参考图片 100% 匹配。
 ```
 
 #### 🖼️ 生成图片
@@ -341,7 +341,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E5%9C%A8%E4%B8%8D%E6%94%B9%E5%8F%98%E9%9D%A2%E9%83%A8%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E7%BC%96%E8%BE%91%E8%BF%99%E5%BC%A0%E7%85%A7%E7%89%87%EF%BC%8C%E5%B0%86%E5%85%B6%E5%8F%98%E6%88%90%E4%B8%80%E5%B9%85%E8%89%BA%E6%9C%AF%E8%82%96%E5%83%8F%E3%80%82%E8%BF%99%E4%BD%8D%E5%A5%B3%E5%A3%AB%E5%BA%94%E8%AF%A5%E4%BC%98%E9%9B%85%E5%9C%B0%E5%9D%90%E5%9C%A8%E5%9C%B0%E6%9D%BF%E4%B8%8A%EF%BC%8C%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%8E%B0%E4%BB%A3%E7%9A%84%7Bargument%20name%3D%22top%20color%22%20default%3D%22%E7%B2%89%E8%89%B2%22%7D%E4%B8%8A%E8%A1%A3%EF%BC%8C%E6%9F%94%E8%BD%AF%E5%AE%BD%E6%9D%BE%E7%9A%84%E7%81%B0%E8%89%B2%E7%89%9B%E4%BB%94%E8%A3%A4%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%8E%9A%E5%AE%9E%E7%9A%84%E7%81%B0%E7%99%BD%E8%89%B2%E8%BF%90%E5%8A%A8%E9%9E%8B%E3%80%82%E5%A5%B9%E9%9D%A2%E5%B8%A6%E5%8F%AF%E7%88%B1%E7%9A%84%E5%BE%AE%E7%AC%91%EF%BC%8C%E5%90%91%E4%B8%8A%E7%9C%8B%E3%80%82%E8%83%8C%E6%99%AF%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%80%E4%B8%AA%E8%89%BA%E6%9C%AF%E6%80%A7%E7%9A%84%E5%8D%95%E8%89%B2%EF%BC%88%E9%BB%91%E7%99%BD%EF%BC%89%E6%9E%84%E5%9B%BE%EF%BC%8C%E7%89%B9%E5%86%99%E5%90%8C%E4%B8%80%E5%BC%A0%E8%84%B8%E7%9A%84%E6%9F%94%E5%92%8C%E4%BE%A7%E9%9D%A2%E3%80%82%E9%9D%A2%E9%83%A8%E5%92%8C%E8%BA%AB%E4%BD%93%E4%B8%8E%E6%88%91%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%20100%25%20%E5%8C%B9%E9%85%8D%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E5%9C%A8%E4%B8%8D%E6%94%B9%E5%8F%98%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E7%BC%96%E8%BE%91%E8%BF%99%E5%BC%A0%E7%85%A7%E7%89%87%EF%BC%8C%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8F%98%E4%B8%BA%E4%B8%80%E5%B9%85%E8%89%BA%E6%9C%AF%E8%82%96%E5%83%8F%E3%80%82%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E5%BA%94%E4%BC%98%E9%9B%85%E5%9C%B0%E5%9D%90%E5%9C%A8%E5%9C%B0%E6%9D%BF%E4%B8%8A%EF%BC%8C%E8%BA%AB%E7%A9%BF%E7%8E%B0%E4%BB%A3%E7%9A%84%20%7Bargument%20name%3D%22top%20color%22%20default%3D%22%E7%B2%89%E8%89%B2%22%7D%20%E4%B8%8A%E8%A1%A3%E3%80%81%E6%9F%94%E8%BD%AF%E5%AE%BD%E6%9D%BE%E7%9A%84%E7%81%B0%E8%89%B2%E7%89%9B%E4%BB%94%E8%A3%A4%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%8E%9A%E5%AE%9E%E7%9A%84%E7%81%B0%E7%99%BD%E8%89%B2%E8%BF%90%E5%8A%A8%E9%9E%8B%E3%80%82%E5%A5%B9%E9%9D%A2%E5%B8%A6%E5%8F%AF%E7%88%B1%E7%9A%84%E5%BE%AE%E7%AC%91%EF%BC%8C%E5%90%91%E4%B8%8A%E5%87%9D%E8%A7%86%E3%80%82%E8%83%8C%E6%99%AF%E5%BA%94%E4%B8%BA%E8%89%BA%E6%9C%AF%E6%80%A7%E7%9A%84%E5%8D%95%E8%89%B2%EF%BC%88%E9%BB%91%E7%99%BD%EF%BC%89%E6%9E%84%E5%9B%BE%EF%BC%8C%E7%89%B9%E5%86%99%E5%90%8C%E4%B8%80%E5%BC%A0%E8%84%B8%E7%9A%84%E6%9F%94%E5%92%8C%E4%BE%A7%E9%9D%A2%E8%BD%AE%E5%BB%93%E3%80%82%E9%9D%A2%E9%83%A8%E5%92%8C%E8%BA%AB%E4%BD%93%E9%9C%80%E4%B8%8E%E6%88%91%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%20100%25%20%E5%8C%B9%E9%85%8D%E3%80%82)**
 
 ---
 
@@ -351,13 +351,13 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-这是对之前涩谷路口提示的延伸，增加了关于场景中女性主体（20 多岁，日本，美丽，“辣妹”风格）的具体细节。这用于 Nano banana Pro 和 GPT Image 1.5 之间的“美学”比较。
+这是之前涩谷路口提示的延伸，为场景中加入了一位特定女性（20多岁，日本人，漂亮，辣妹风格）的细节。此提示用于 Nano banana Pro 和 GPT Image 1.5 之间的“美学”比较。
 
 #### 📝 提示词
 
 ```
-涩谷十字路口，跨年夜倒计时，人潮拥挤，霓虹闪烁，白雪皑皑，湿漉沥青路面映照出逼真的倒影，
-20多岁，日本女性，美女，辣妹
+涩谷新年倒计时之夜的十字路口，人潮拥挤，霓虹闪烁，白雪皑皑，湿漉沥青路面上倒映着逼真的景象，
+20多岁，日本，女性，美女，辣妹
 ```
 
 #### 🖼️ 生成图片
@@ -381,7 +381,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%B6%A9%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%EF%BC%8C%E8%B7%A8%E5%B9%B4%E5%A4%9C%E5%80%92%E8%AE%A1%E6%97%B6%EF%BC%8C%E4%BA%BA%E6%BD%AE%E6%8B%A5%E6%8C%A4%EF%BC%8C%E9%9C%93%E8%99%B9%E9%97%AA%E7%83%81%EF%BC%8C%E7%99%BD%E9%9B%AA%E7%9A%91%E7%9A%91%EF%BC%8C%E6%B9%BF%E6%BC%89%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2%E6%98%A0%E7%85%A7%E5%87%BA%E9%80%BC%E7%9C%9F%E7%9A%84%E5%80%92%E5%BD%B1%EF%BC%8C%0A20%E5%A4%9A%E5%B2%81%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%BE%8E%E5%A5%B3%EF%BC%8C%E8%BE%A3%E5%A6%B9)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%B6%A9%E8%B0%B7%E6%96%B0%E5%B9%B4%E5%80%92%E8%AE%A1%E6%97%B6%E4%B9%8B%E5%A4%9C%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%EF%BC%8C%E4%BA%BA%E6%BD%AE%E6%8B%A5%E6%8C%A4%EF%BC%8C%E9%9C%93%E8%99%B9%E9%97%AA%E7%83%81%EF%BC%8C%E7%99%BD%E9%9B%AA%E7%9A%91%E7%9A%91%EF%BC%8C%E6%B9%BF%E6%BC%89%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2%E4%B8%8A%E5%80%92%E6%98%A0%E7%9D%80%E9%80%BC%E7%9C%9F%E7%9A%84%E6%99%AF%E8%B1%A1%EF%BC%8C%0A20%E5%A4%9A%E5%B2%81%EF%BC%8C%E6%97%A5%E6%9C%AC%EF%BC%8C%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%BE%8E%E5%A5%B3%EF%BC%8C%E8%BE%A3%E5%A6%B9)**
 
 ---
 
@@ -396,7 +396,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 #### 📝 提示词
 
 ```
-一张未经修饰、未过滤的业余自拍，由 iPhone 16 Pro Max 在一个现代、有人居住的室内房间中对着镜子拍摄。Sam Altman 站在离镜子最近的地方，自然地将手机举到胸部高度，姿势随意，表情放松。Elon Musk 和 Jensen Huang 站在他旁边，姿势随意，以略微不完美的角度看向镜子。皮肤纹理自然，毛孔和细微瑕疵清晰可见，未经修图或美颜滤镜。室内灯光温暖，阴影不均，有细微反光，轻微颗粒感。构图略微偏离中心，不完美，呈现真实的智能手机写实感——坦率、人性化、未经摆拍。
+一张未经修饰、未经滤镜的业余自拍，由 iPhone 16 Pro Max 在一间现代、有生活气息的室内房间中通过镜子拍摄。Sam Altman 站在离镜子最近的地方，自然地将手机举到胸前，姿态随意，表情放松。Elon Musk 和 Jensen Huang 站在他旁边，姿势随意，以略微不完美的角度看向镜子。皮肤纹理自然，毛孔和细微瑕疵清晰可见，未经修饰或美颜滤镜。室内灯光温暖，阴影不均，有细微反光，轻微颗粒感。构图略微偏离中心，构图不完美，展现出真实的智能手机写实感——抓拍、人性化、未经摆拍。
 ```
 
 #### 🖼️ 生成图片
@@ -420,23 +420,23 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E6%9C%AA%E7%BB%8F%E4%BF%AE%E9%A5%B0%E3%80%81%E6%9C%AA%E8%BF%87%E6%BB%A4%E7%9A%84%E4%B8%9A%E4%BD%99%E8%87%AA%E6%8B%8D%EF%BC%8C%E7%94%B1%20iPhone%2016%20Pro%20Max%20%E5%9C%A8%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E3%80%81%E6%9C%89%E4%BA%BA%E5%B1%85%E4%BD%8F%E7%9A%84%E5%AE%A4%E5%86%85%E6%88%BF%E9%97%B4%E4%B8%AD%E5%AF%B9%E7%9D%80%E9%95%9C%E5%AD%90%E6%8B%8D%E6%91%84%E3%80%82Sam%20Altman%20%E7%AB%99%E5%9C%A8%E7%A6%BB%E9%95%9C%E5%AD%90%E6%9C%80%E8%BF%91%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E8%87%AA%E7%84%B6%E5%9C%B0%E5%B0%86%E6%89%8B%E6%9C%BA%E4%B8%BE%E5%88%B0%E8%83%B8%E9%83%A8%E9%AB%98%E5%BA%A6%EF%BC%8C%E5%A7%BF%E5%8A%BF%E9%9A%8F%E6%84%8F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%94%BE%E6%9D%BE%E3%80%82Elon%20Musk%20%E5%92%8C%20Jensen%20Huang%20%E7%AB%99%E5%9C%A8%E4%BB%96%E6%97%81%E8%BE%B9%EF%BC%8C%E5%A7%BF%E5%8A%BF%E9%9A%8F%E6%84%8F%EF%BC%8C%E4%BB%A5%E7%95%A5%E5%BE%AE%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%90%91%E9%95%9C%E5%AD%90%E3%80%82%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E8%87%AA%E7%84%B6%EF%BC%8C%E6%AF%9B%E5%AD%94%E5%92%8C%E7%BB%86%E5%BE%AE%E7%91%95%E7%96%B5%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%EF%BC%8C%E6%9C%AA%E7%BB%8F%E4%BF%AE%E5%9B%BE%E6%88%96%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%E3%80%82%E5%AE%A4%E5%86%85%E7%81%AF%E5%85%89%E6%B8%A9%E6%9A%96%EF%BC%8C%E9%98%B4%E5%BD%B1%E4%B8%8D%E5%9D%87%EF%BC%8C%E6%9C%89%E7%BB%86%E5%BE%AE%E5%8F%8D%E5%85%89%EF%BC%8C%E8%BD%BB%E5%BE%AE%E9%A2%97%E7%B2%92%E6%84%9F%E3%80%82%E6%9E%84%E5%9B%BE%E7%95%A5%E5%BE%AE%E5%81%8F%E7%A6%BB%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E5%91%88%E7%8E%B0%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%86%99%E5%AE%9E%E6%84%9F%E2%80%94%E2%80%94%E5%9D%A6%E7%8E%87%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E3%80%81%E6%9C%AA%E7%BB%8F%E6%91%86%E6%8B%8D%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E6%9C%AA%E7%BB%8F%E4%BF%AE%E9%A5%B0%E3%80%81%E6%9C%AA%E7%BB%8F%E6%BB%A4%E9%95%9C%E7%9A%84%E4%B8%9A%E4%BD%99%E8%87%AA%E6%8B%8D%EF%BC%8C%E7%94%B1%20iPhone%2016%20Pro%20Max%20%E5%9C%A8%E4%B8%80%E9%97%B4%E7%8E%B0%E4%BB%A3%E3%80%81%E6%9C%89%E7%94%9F%E6%B4%BB%E6%B0%94%E6%81%AF%E7%9A%84%E5%AE%A4%E5%86%85%E6%88%BF%E9%97%B4%E4%B8%AD%E9%80%9A%E8%BF%87%E9%95%9C%E5%AD%90%E6%8B%8D%E6%91%84%E3%80%82Sam%20Altman%20%E7%AB%99%E5%9C%A8%E7%A6%BB%E9%95%9C%E5%AD%90%E6%9C%80%E8%BF%91%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E8%87%AA%E7%84%B6%E5%9C%B0%E5%B0%86%E6%89%8B%E6%9C%BA%E4%B8%BE%E5%88%B0%E8%83%B8%E5%89%8D%EF%BC%8C%E5%A7%BF%E6%80%81%E9%9A%8F%E6%84%8F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%94%BE%E6%9D%BE%E3%80%82Elon%20Musk%20%E5%92%8C%20Jensen%20Huang%20%E7%AB%99%E5%9C%A8%E4%BB%96%E6%97%81%E8%BE%B9%EF%BC%8C%E5%A7%BF%E5%8A%BF%E9%9A%8F%E6%84%8F%EF%BC%8C%E4%BB%A5%E7%95%A5%E5%BE%AE%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%90%91%E9%95%9C%E5%AD%90%E3%80%82%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E8%87%AA%E7%84%B6%EF%BC%8C%E6%AF%9B%E5%AD%94%E5%92%8C%E7%BB%86%E5%BE%AE%E7%91%95%E7%96%B5%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%EF%BC%8C%E6%9C%AA%E7%BB%8F%E4%BF%AE%E9%A5%B0%E6%88%96%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%E3%80%82%E5%AE%A4%E5%86%85%E7%81%AF%E5%85%89%E6%B8%A9%E6%9A%96%EF%BC%8C%E9%98%B4%E5%BD%B1%E4%B8%8D%E5%9D%87%EF%BC%8C%E6%9C%89%E7%BB%86%E5%BE%AE%E5%8F%8D%E5%85%89%EF%BC%8C%E8%BD%BB%E5%BE%AE%E9%A2%97%E7%B2%92%E6%84%9F%E3%80%82%E6%9E%84%E5%9B%BE%E7%95%A5%E5%BE%AE%E5%81%8F%E7%A6%BB%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%9E%84%E5%9B%BE%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E5%B1%95%E7%8E%B0%E5%87%BA%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%86%99%E5%AE%9E%E6%84%9F%E2%80%94%E2%80%94%E6%8A%93%E6%8B%8D%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E3%80%81%E6%9C%AA%E7%BB%8F%E6%91%86%E6%8B%8D%E3%80%82)**
 
 ---
 
-### No. 8: 雕像照片上的技术示意图叠加
+### No. 8: 技术示意图叠加在雕像照片上
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个详细的提示，要求提供一张特定雕像的高分辨率、逼真的照片，并叠加白色手绘技术示意图和工程图，以营造出教育信息图的视觉效果。
+一个详细的提示，要求提供一张特定雕像的高分辨率写实照片，并叠加白色手绘技术示意图和工程图，以营造出教育信息图的视觉效果。
 
 #### 📝 提示词
 
 ```
-一张高分辨率、逼真的照片，展示了 [ {argument name="statue name" default="九华山 99 米地藏菩萨圣像"} ]。图像上叠加了白色手绘技术示意图和工程图的混合媒体覆盖层。元素包括尺寸线、指示运动或力的箭头、文本标签和剖面细节。整体美学呈现出教育信息图的风格，将真实世界的摄影与精确的白色粉笔式技术分析融合在一起，4K 分辨率。
+一张高分辨率、逼真的照片，内容是 [{argument name="statue name" default="九华山 99 米地藏菩萨圣像"}]。图像上叠加了白色手绘技术示意图和工程图的混合媒体覆盖层。元素包括尺寸线、指示运动或力的箭头、文本标签和剖面细节。整体美学呈现出教育信息图的风格，将真实世界的摄影与精确的白色粉笔式技术分析融为一体，4K 分辨率。
 ```
 
 #### 🖼️ 生成图片
@@ -444,19 +444,19 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949103045_ihu4to_G8V8n6jasAArl1W.jpg" width="600" alt="雕像照片上的技术示意图叠加 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949103045_ihu4to_G8V8n6jasAArl1W.jpg" width="600" alt="技术示意图叠加在雕像照片上 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949103157_2555l6_G8V7gfKa4AAF6ny.jpg" width="600" alt="雕像照片上的技术示意图叠加 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949103157_2555l6_G8V7gfKa4AAF6ny.jpg" width="600" alt="技术示意图叠加在雕像照片上 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949103956_ie12io_G8V8qOpa4AAj0g0.png" width="600" alt="雕像照片上的技术示意图叠加 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949103956_ie12io_G8V8qOpa4AAj0g0.png" width="600" alt="技术示意图叠加在雕像照片上 - Image 3">
 </div>
 
 #### 📌 详情
@@ -466,7 +466,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%81%E9%80%BC%E7%9C%9F%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E5%B1%95%E7%A4%BA%E4%BA%86%20%5B%20%7Bargument%20name%3D%22statue%20name%22%20default%3D%22%E4%B9%9D%E5%8D%8E%E5%B1%B1%2099%20%E7%B1%B3%E5%9C%B0%E8%97%8F%E8%8F%A9%E8%90%A8%E5%9C%A3%E5%83%8F%22%7D%20%5D%E3%80%82%E5%9B%BE%E5%83%8F%E4%B8%8A%E5%8F%A0%E5%8A%A0%E4%BA%86%E7%99%BD%E8%89%B2%E6%89%8B%E7%BB%98%E6%8A%80%E6%9C%AF%E7%A4%BA%E6%84%8F%E5%9B%BE%E5%92%8C%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%9A%84%E6%B7%B7%E5%90%88%E5%AA%92%E4%BD%93%E8%A6%86%E7%9B%96%E5%B1%82%E3%80%82%E5%85%83%E7%B4%A0%E5%8C%85%E6%8B%AC%E5%B0%BA%E5%AF%B8%E7%BA%BF%E3%80%81%E6%8C%87%E7%A4%BA%E8%BF%90%E5%8A%A8%E6%88%96%E5%8A%9B%E7%9A%84%E7%AE%AD%E5%A4%B4%E3%80%81%E6%96%87%E6%9C%AC%E6%A0%87%E7%AD%BE%E5%92%8C%E5%89%96%E9%9D%A2%E7%BB%86%E8%8A%82%E3%80%82%E6%95%B4%E4%BD%93%E7%BE%8E%E5%AD%A6%E5%91%88%E7%8E%B0%E5%87%BA%E6%95%99%E8%82%B2%E4%BF%A1%E6%81%AF%E5%9B%BE%E7%9A%84%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%B0%86%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%9A%84%E6%91%84%E5%BD%B1%E4%B8%8E%E7%B2%BE%E7%A1%AE%E7%9A%84%E7%99%BD%E8%89%B2%E7%B2%89%E7%AC%94%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90%E8%9E%8D%E5%90%88%E5%9C%A8%E4%B8%80%E8%B5%B7%EF%BC%8C4K%20%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%81%E9%80%BC%E7%9C%9F%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%20%5B%7Bargument%20name%3D%22statue%20name%22%20default%3D%22%E4%B9%9D%E5%8D%8E%E5%B1%B1%2099%20%E7%B1%B3%E5%9C%B0%E8%97%8F%E8%8F%A9%E8%90%A8%E5%9C%A3%E5%83%8F%22%7D%5D%E3%80%82%E5%9B%BE%E5%83%8F%E4%B8%8A%E5%8F%A0%E5%8A%A0%E4%BA%86%E7%99%BD%E8%89%B2%E6%89%8B%E7%BB%98%E6%8A%80%E6%9C%AF%E7%A4%BA%E6%84%8F%E5%9B%BE%E5%92%8C%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%9A%84%E6%B7%B7%E5%90%88%E5%AA%92%E4%BD%93%E8%A6%86%E7%9B%96%E5%B1%82%E3%80%82%E5%85%83%E7%B4%A0%E5%8C%85%E6%8B%AC%E5%B0%BA%E5%AF%B8%E7%BA%BF%E3%80%81%E6%8C%87%E7%A4%BA%E8%BF%90%E5%8A%A8%E6%88%96%E5%8A%9B%E7%9A%84%E7%AE%AD%E5%A4%B4%E3%80%81%E6%96%87%E6%9C%AC%E6%A0%87%E7%AD%BE%E5%92%8C%E5%89%96%E9%9D%A2%E7%BB%86%E8%8A%82%E3%80%82%E6%95%B4%E4%BD%93%E7%BE%8E%E5%AD%A6%E5%91%88%E7%8E%B0%E5%87%BA%E6%95%99%E8%82%B2%E4%BF%A1%E6%81%AF%E5%9B%BE%E7%9A%84%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%B0%86%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%9A%84%E6%91%84%E5%BD%B1%E4%B8%8E%E7%B2%BE%E7%A1%AE%E7%9A%84%E7%99%BD%E8%89%B2%E7%B2%89%E7%AC%94%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90%E8%9E%8D%E4%B8%BA%E4%B8%80%E4%BD%93%EF%BC%8C4K%20%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%82)**
 
 ---
 
@@ -476,12 +476,12 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个详细的提示词，用于生成一张高度逼真的涩谷交叉路口新年倒计时航拍图。它指定了人群、明亮的招牌、五彩纸屑以及湿沥青上的逼真倒影等元素，用于比较 Nano banana Pro 和 GPT Image 1.5。
+这是一个详细的提示，用于生成一张高度逼真的涩谷交叉路口新年倒计时航拍照片。它指定了人群、明亮的招牌、五彩纸屑以及湿沥青上的逼真倒影等元素，用于比较 Nano banana Pro 和 GPT Image 1.5。
 
 #### 📝 提示词
 
 ```
-一张涩谷十字路口在除夕夜倒计时之夜的高度详细的航拍照片，画面中人潮涌动，广告牌霓虹闪烁，五彩纸屑在空中飞舞，湿漉漉的柏油路上倒映着逼真的景象。
+一张高度细致的涩谷全向十字路口航拍照片，摄于除夕夜倒计时时分，画面中人潮涌动，霓虹灯广告牌闪烁，五彩纸屑在空中飞舞，湿润的柏油路上倒映着逼真的光影。
 ```
 
 #### 🖼️ 生成图片
@@ -505,7 +505,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E6%B6%A9%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E5%9C%A8%E9%99%A4%E5%A4%95%E5%A4%9C%E5%80%92%E8%AE%A1%E6%97%B6%E4%B9%8B%E5%A4%9C%E7%9A%84%E9%AB%98%E5%BA%A6%E8%AF%A6%E7%BB%86%E7%9A%84%E8%88%AA%E6%8B%8D%E7%85%A7%E7%89%87%EF%BC%8C%E7%94%BB%E9%9D%A2%E4%B8%AD%E4%BA%BA%E6%BD%AE%E6%B6%8C%E5%8A%A8%EF%BC%8C%E5%B9%BF%E5%91%8A%E7%89%8C%E9%9C%93%E8%99%B9%E9%97%AA%E7%83%81%EF%BC%8C%E4%BA%94%E5%BD%A9%E7%BA%B8%E5%B1%91%E5%9C%A8%E7%A9%BA%E4%B8%AD%E9%A3%9E%E8%88%9E%EF%BC%8C%E6%B9%BF%E6%BC%89%E6%BC%89%E7%9A%84%E6%9F%8F%E6%B2%B9%E8%B7%AF%E4%B8%8A%E5%80%92%E6%98%A0%E7%9D%80%E9%80%BC%E7%9C%9F%E7%9A%84%E6%99%AF%E8%B1%A1%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E9%AB%98%E5%BA%A6%E7%BB%86%E8%87%B4%E7%9A%84%E6%B6%A9%E8%B0%B7%E5%85%A8%E5%90%91%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E8%88%AA%E6%8B%8D%E7%85%A7%E7%89%87%EF%BC%8C%E6%91%84%E4%BA%8E%E9%99%A4%E5%A4%95%E5%A4%9C%E5%80%92%E8%AE%A1%E6%97%B6%E6%97%B6%E5%88%86%EF%BC%8C%E7%94%BB%E9%9D%A2%E4%B8%AD%E4%BA%BA%E6%BD%AE%E6%B6%8C%E5%8A%A8%EF%BC%8C%E9%9C%93%E8%99%B9%E7%81%AF%E5%B9%BF%E5%91%8A%E7%89%8C%E9%97%AA%E7%83%81%EF%BC%8C%E4%BA%94%E5%BD%A9%E7%BA%B8%E5%B1%91%E5%9C%A8%E7%A9%BA%E4%B8%AD%E9%A3%9E%E8%88%9E%EF%BC%8C%E6%B9%BF%E6%B6%A6%E7%9A%84%E6%9F%8F%E6%B2%B9%E8%B7%AF%E4%B8%8A%E5%80%92%E6%98%A0%E7%9D%80%E9%80%BC%E7%9C%9F%E7%9A%84%E5%85%89%E5%BD%B1%E3%80%82)**
 
 ---
 
@@ -527,11 +527,11 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
     "uploaded_face_photo",
     "uploaded_full_body_photo"
   ],
-  "edit_priority": "photographic realism over stylization",
+  "edit_priority": "写实主义优先于风格化",
   "identity_lock": {
     "face": {
-      "match_reference_priority": "absolute",
-      "instruction": "使用上传的面部照片作为唯一的面部真实来源",
+      "match_reference_priority": "绝对",
+      "instruction": "仅使用上传的面部照片作为面部真实性来源",
       "preserve_features": [
         "精确的眼睛形状",
         "精确的鼻子宽度和鼻尖",
@@ -557,14 +557,14 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
     }
   },
   "subject": {
-    "gender": "male",
+    "gender": "男性",
     "pose": {
       "orientation": "侧面",
-      "facing": "右",
+      "facing": "向右",
       "head": "略微低头",
       "posture": "自然放松的人体姿态"
     },
-    "expression": "中性真实，非模特式"
+    "expression": "中性且真实，非模特式"
   },
   "skin_and_texture": {
     "skin_type": "真实人皮肤",
@@ -578,11 +578,11 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
     "explicit_instruction": "不要平滑皮肤，不要抛光面部，不要美化"
   },
   "clothing": {
-    "outfit": "现代休闲真实",
-    "top_layer": "黑色牛仔夹克，具有真实织物纹理",
+    "outfit": "现代休闲写实",
+    "top_layer": "黑色牛仔夹克，带有真实织物纹理",
     "inner_layer": "深色棉质 T 恤",
     "bottom": "中性修身长裤",
-    "fabric_behavior": "可见褶皱、折痕、垂坠感"
+    "fabric_behavior": "可见褶皱、折痕、重量感"
   },
   "lighting": {
     "type": "真实摄影照明",
@@ -602,17 +602,17 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
     },
     "aura": {
       "intensity": "最小",
-      "instruction": "仅用于背景分离，而非风格化能量"
+      "instruction": "仅用于背景分离，非风格化能量"
     }
   },
   "background": {
     "remove_original_room": true,
     "environment": "中性电影背景",
-    "look": "真实拍摄环境，非幻想"
+    "look": "真实拍摄环境，非奇幻"
   },
   "composition": {
     "aspect_ratio": "3:4",
-    "focus": "面部锐度最高优先级",
+    "focus": "面部清晰度最高优先级",
     "depth_of_field": "自然相机景深",
     "lens_simulation": "50mm 人像镜头"
   },
@@ -639,7 +639,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_edit_prompt%22%2C%0A%20%20%22engine%22%3A%20%22Gemini%20Nano%20Banana%20Pro%22%2C%0A%20%20%22reference_images%22%3A%20%5B%0A%20%20%20%20%22uploaded_face_photo%22%2C%0A%20%20%20%20%22uploaded_full_body_photo%22%0A%20%20%5D%2C%0A%20%20%22edit_priority%22%3A%20%22photographic%20realism%20over%20stylization%22%2C%0A%20%20%22identity_lock%22%3A%20%7B%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22match_reference_priority%22%3A%20%22absolute%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E7%9A%84%E9%9D%A2%E9%83%A8%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E5%94%AF%E4%B8%80%E7%9A%84%E9%9D%A2%E9%83%A8%E7%9C%9F%E5%AE%9E%E6%9D%A5%E6%BA%90%22%2C%0A%20%20%20%20%20%20%22preserve_features%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E7%B2%BE%E7%A1%AE%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%BD%A2%E7%8A%B6%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%B2%BE%E7%A1%AE%E7%9A%84%E9%BC%BB%E5%AD%90%E5%AE%BD%E5%BA%A6%E5%92%8C%E9%BC%BB%E5%B0%96%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%B2%BE%E7%A1%AE%E7%9A%84%E5%98%B4%E5%94%87%E5%BD%A2%E7%8A%B6%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%83%A1%E9%A1%BB%E5%AF%86%E5%BA%A6%E5%92%8C%E4%B8%8D%E5%9D%87%E5%8C%80%E6%80%A7%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%87%AA%E7%84%B6%E7%9A%84%E7%9A%AE%E8%82%A4%E6%AF%9B%E5%AD%94%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%BD%BB%E5%BE%AE%E7%9A%84%E4%B8%8D%E5%AF%B9%E7%A7%B0%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%9C%BC%E9%95%9C%E5%BD%A2%E7%8A%B6%E5%92%8C%E4%BD%8D%E7%BD%AE%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22forbidden%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E9%9D%A2%E9%83%A8%E7%BE%8E%E5%8C%96%22%2C%0A%20%20%20%20%20%20%20%20%22%E9%9D%A2%E9%83%A8%E9%87%8D%E5%A1%91%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%9A%AE%E8%82%A4%E5%B9%B3%E6%BB%91%22%2C%0A%20%20%20%20%20%20%20%20%22%E4%B8%8B%E9%A2%8C%E7%BA%BF%E5%A2%9E%E5%BC%BA%22%2C%0A%20%20%20%20%20%20%20%20%22%E5%AF%B9%E7%A7%B0%E6%A0%A1%E6%AD%A3%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22body%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve%22%3A%20true%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BF%9D%E6%8C%81%E8%BA%AB%E4%BD%93%E6%AF%94%E4%BE%8B%E4%B8%8E%E4%B8%8A%E4%BC%A0%E7%85%A7%E7%89%87%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%22%2C%0A%20%20%20%20%20%20%22no_slimming%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_broadening%22%3A%20true%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22male%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22orientation%22%3A%20%22%E4%BE%A7%E9%9D%A2%22%2C%0A%20%20%20%20%20%20%22facing%22%3A%20%22%E5%8F%B3%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22%E7%95%A5%E5%BE%AE%E4%BD%8E%E5%A4%B4%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22%E8%87%AA%E7%84%B6%E6%94%BE%E6%9D%BE%E7%9A%84%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%22%E4%B8%AD%E6%80%A7%E7%9C%9F%E5%AE%9E%EF%BC%8C%E9%9D%9E%E6%A8%A1%E7%89%B9%E5%BC%8F%22%0A%20%20%7D%2C%0A%20%20%22skin_and_texture%22%3A%20%7B%0A%20%20%20%20%22skin_type%22%3A%20%22%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%9A%AE%E8%82%A4%22%2C%0A%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%22%E5%8F%AF%E8%A7%81%E6%AF%9B%E5%AD%94%22%2C%0A%20%20%20%20%20%20%22%E8%87%AA%E7%84%B6%E6%B2%B9%E5%85%89%22%2C%0A%20%20%20%20%20%20%22%E8%BD%BB%E5%BE%AE%E7%91%95%E7%96%B5%22%2C%0A%20%20%20%20%20%20%22%E4%B8%8D%E5%9D%87%E5%8C%80%E8%82%A4%E8%89%B2%22%2C%0A%20%20%20%20%20%20%22%E7%9C%9F%E5%AE%9E%E8%83%A1%E9%A1%BB%E7%BA%B9%E7%90%86%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22explicit_instruction%22%3A%20%22%E4%B8%8D%E8%A6%81%E5%B9%B3%E6%BB%91%E7%9A%AE%E8%82%A4%EF%BC%8C%E4%B8%8D%E8%A6%81%E6%8A%9B%E5%85%89%E9%9D%A2%E9%83%A8%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%BE%8E%E5%8C%96%22%0A%20%20%7D%2C%0A%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22%E7%8E%B0%E4%BB%A3%E4%BC%91%E9%97%B2%E7%9C%9F%E5%AE%9E%22%2C%0A%20%20%20%20%22top_layer%22%3A%20%22%E9%BB%91%E8%89%B2%E7%89%9B%E4%BB%94%E5%A4%B9%E5%85%8B%EF%BC%8C%E5%85%B7%E6%9C%89%E7%9C%9F%E5%AE%9E%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%22%2C%0A%20%20%20%20%22inner_layer%22%3A%20%22%E6%B7%B1%E8%89%B2%E6%A3%89%E8%B4%A8%20T%20%E6%81%A4%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22%E4%B8%AD%E6%80%A7%E4%BF%AE%E8%BA%AB%E9%95%BF%E8%A3%A4%22%2C%0A%20%20%20%20%22fabric_behavior%22%3A%20%22%E5%8F%AF%E8%A7%81%E8%A4%B6%E7%9A%B1%E3%80%81%E6%8A%98%E7%97%95%E3%80%81%E5%9E%82%E5%9D%A0%E6%84%9F%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%E7%9C%9F%E5%AE%9E%E6%91%84%E5%BD%B1%E7%85%A7%E6%98%8E%22%2C%0A%20%20%20%20%22style%22%3A%20%22%E6%9F%94%E5%92%8C%E6%BC%AB%E5%B0%84%E4%B8%BB%E5%85%89%22%2C%0A%20%20%20%20%22rim_light%22%3A%20%22%E9%9D%9E%E5%B8%B8%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%BE%B9%E7%BC%98%E5%85%89%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22%E9%81%BF%E5%85%8D%E7%A1%AC%E5%85%89%EF%BC%8C%E9%81%BF%E5%85%8D%E5%85%89%E6%99%95%EF%BC%8C%E9%81%BF%E5%85%8D%E6%A2%A6%E5%B9%BB%E7%85%A7%E6%98%8E%22%0A%20%20%7D%2C%0A%20%20%22effects%22%3A%20%7B%0A%20%20%20%20%22smoke%22%3A%20%7B%0A%20%20%20%20%20%20%22density%22%3A%20%22%E9%80%82%E4%B8%AD%22%2C%0A%20%20%20%20%20%20%22realism%22%3A%20%22%E6%91%84%E5%BD%B1%E7%83%9F%E9%9B%BE%EF%BC%8C%E9%9D%9E%20CGI%22%2C%0A%20%20%20%20%20%20%22interaction%22%3A%20%22%E8%87%AA%E7%84%B6%E5%9C%B0%E9%83%A8%E5%88%86%E9%81%AE%E6%8C%A1%E8%BA%AB%E4%BD%93%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22particles%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22%E9%9D%9E%E5%B8%B8%E4%BD%8E%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BB%85%E4%BD%9C%E4%B8%BA%E6%AC%A1%E8%A6%81%E5%85%83%E7%B4%A0%EF%BC%8C%E4%B8%8D%E5%BE%97%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E7%9C%9F%E5%AE%9E%E6%84%9F%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22aura%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22%E6%9C%80%E5%B0%8F%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BB%85%E7%94%A8%E4%BA%8E%E8%83%8C%E6%99%AF%E5%88%86%E7%A6%BB%EF%BC%8C%E8%80%8C%E9%9D%9E%E9%A3%8E%E6%A0%BC%E5%8C%96%E8%83%BD%E9%87%8F%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22remove_original_room%22%3A%20true%2C%0A%20%20%20%20%22environment%22%3A%20%22%E4%B8%AD%E6%80%A7%E7%94%B5%E5%BD%B1%E8%83%8C%E6%99%AF%22%2C%0A%20%20%20%20%22look%22%3A%20%22%E7%9C%9F%E5%AE%9E%E6%8B%8D%E6%91%84%E7%8E%AF%E5%A2%83%EF%BC%8C%E9%9D%9E%E5%B9%BB%E6%83%B3%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E9%9D%A2%E9%83%A8%E9%94%90%E5%BA%A6%E6%9C%80%E9%AB%98%E4%BC%98%E5%85%88%E7%BA%A7%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22%E8%87%AA%E7%84%B6%E7%9B%B8%E6%9C%BA%E6%99%AF%E6%B7%B1%22%2C%0A%20%20%20%20%22lens_simulation%22%3A%20%2250mm%20%E4%BA%BA%E5%83%8F%E9%95%9C%E5%A4%B4%22%0A%20%20%7D%2C%0A%20%20%22signature%22%3A%20%7B%0A%20%20%20%20%22text%22%3A%20%22mukesh%20mehraniya%22%2C%0A%20%20%20%20%22placement%22%3A%20%22%E5%8F%B3%E4%B8%8B%E8%A7%92%22%2C%0A%20%20%20%20%22opacity%22%3A%200.3%0A%20%20%7D%0A%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_edit_prompt%22%2C%0A%20%20%22engine%22%3A%20%22Gemini%20Nano%20Banana%20Pro%22%2C%0A%20%20%22reference_images%22%3A%20%5B%0A%20%20%20%20%22uploaded_face_photo%22%2C%0A%20%20%20%20%22uploaded_full_body_photo%22%0A%20%20%5D%2C%0A%20%20%22edit_priority%22%3A%20%22%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%E4%BC%98%E5%85%88%E4%BA%8E%E9%A3%8E%E6%A0%BC%E5%8C%96%22%2C%0A%20%20%22identity_lock%22%3A%20%7B%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22match_reference_priority%22%3A%20%22%E7%BB%9D%E5%AF%B9%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BB%85%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E7%9A%84%E9%9D%A2%E9%83%A8%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E9%9D%A2%E9%83%A8%E7%9C%9F%E5%AE%9E%E6%80%A7%E6%9D%A5%E6%BA%90%22%2C%0A%20%20%20%20%20%20%22preserve_features%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E7%B2%BE%E7%A1%AE%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%BD%A2%E7%8A%B6%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%B2%BE%E7%A1%AE%E7%9A%84%E9%BC%BB%E5%AD%90%E5%AE%BD%E5%BA%A6%E5%92%8C%E9%BC%BB%E5%B0%96%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%B2%BE%E7%A1%AE%E7%9A%84%E5%98%B4%E5%94%87%E5%BD%A2%E7%8A%B6%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%83%A1%E9%A1%BB%E5%AF%86%E5%BA%A6%E5%92%8C%E4%B8%8D%E5%9D%87%E5%8C%80%E6%80%A7%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%87%AA%E7%84%B6%E7%9A%84%E7%9A%AE%E8%82%A4%E6%AF%9B%E5%AD%94%22%2C%0A%20%20%20%20%20%20%20%20%22%E8%BD%BB%E5%BE%AE%E7%9A%84%E4%B8%8D%E5%AF%B9%E7%A7%B0%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%9C%BC%E9%95%9C%E5%BD%A2%E7%8A%B6%E5%92%8C%E4%BD%8D%E7%BD%AE%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22forbidden%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%E9%9D%A2%E9%83%A8%E7%BE%8E%E5%8C%96%22%2C%0A%20%20%20%20%20%20%20%20%22%E9%9D%A2%E9%83%A8%E9%87%8D%E5%A1%91%22%2C%0A%20%20%20%20%20%20%20%20%22%E7%9A%AE%E8%82%A4%E5%B9%B3%E6%BB%91%22%2C%0A%20%20%20%20%20%20%20%20%22%E4%B8%8B%E9%A2%8C%E7%BA%BF%E5%A2%9E%E5%BC%BA%22%2C%0A%20%20%20%20%20%20%20%20%22%E5%AF%B9%E7%A7%B0%E6%A0%A1%E6%AD%A3%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22body%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve%22%3A%20true%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BF%9D%E6%8C%81%E8%BA%AB%E4%BD%93%E6%AF%94%E4%BE%8B%E4%B8%8E%E4%B8%8A%E4%BC%A0%E7%85%A7%E7%89%87%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%22%2C%0A%20%20%20%20%20%20%22no_slimming%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_broadening%22%3A%20true%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%E7%94%B7%E6%80%A7%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22orientation%22%3A%20%22%E4%BE%A7%E9%9D%A2%22%2C%0A%20%20%20%20%20%20%22facing%22%3A%20%22%E5%90%91%E5%8F%B3%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22%E7%95%A5%E5%BE%AE%E4%BD%8E%E5%A4%B4%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22%E8%87%AA%E7%84%B6%E6%94%BE%E6%9D%BE%E7%9A%84%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%22%E4%B8%AD%E6%80%A7%E4%B8%94%E7%9C%9F%E5%AE%9E%EF%BC%8C%E9%9D%9E%E6%A8%A1%E7%89%B9%E5%BC%8F%22%0A%20%20%7D%2C%0A%20%20%22skin_and_texture%22%3A%20%7B%0A%20%20%20%20%22skin_type%22%3A%20%22%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%9A%AE%E8%82%A4%22%2C%0A%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%22%E5%8F%AF%E8%A7%81%E6%AF%9B%E5%AD%94%22%2C%0A%20%20%20%20%20%20%22%E8%87%AA%E7%84%B6%E6%B2%B9%E5%85%89%22%2C%0A%20%20%20%20%20%20%22%E8%BD%BB%E5%BE%AE%E7%91%95%E7%96%B5%22%2C%0A%20%20%20%20%20%20%22%E4%B8%8D%E5%9D%87%E5%8C%80%E8%82%A4%E8%89%B2%22%2C%0A%20%20%20%20%20%20%22%E7%9C%9F%E5%AE%9E%E8%83%A1%E9%A1%BB%E7%BA%B9%E7%90%86%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22explicit_instruction%22%3A%20%22%E4%B8%8D%E8%A6%81%E5%B9%B3%E6%BB%91%E7%9A%AE%E8%82%A4%EF%BC%8C%E4%B8%8D%E8%A6%81%E6%8A%9B%E5%85%89%E9%9D%A2%E9%83%A8%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%BE%8E%E5%8C%96%22%0A%20%20%7D%2C%0A%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22%E7%8E%B0%E4%BB%A3%E4%BC%91%E9%97%B2%E5%86%99%E5%AE%9E%22%2C%0A%20%20%20%20%22top_layer%22%3A%20%22%E9%BB%91%E8%89%B2%E7%89%9B%E4%BB%94%E5%A4%B9%E5%85%8B%EF%BC%8C%E5%B8%A6%E6%9C%89%E7%9C%9F%E5%AE%9E%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%22%2C%0A%20%20%20%20%22inner_layer%22%3A%20%22%E6%B7%B1%E8%89%B2%E6%A3%89%E8%B4%A8%20T%20%E6%81%A4%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22%E4%B8%AD%E6%80%A7%E4%BF%AE%E8%BA%AB%E9%95%BF%E8%A3%A4%22%2C%0A%20%20%20%20%22fabric_behavior%22%3A%20%22%E5%8F%AF%E8%A7%81%E8%A4%B6%E7%9A%B1%E3%80%81%E6%8A%98%E7%97%95%E3%80%81%E9%87%8D%E9%87%8F%E6%84%9F%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%E7%9C%9F%E5%AE%9E%E6%91%84%E5%BD%B1%E7%85%A7%E6%98%8E%22%2C%0A%20%20%20%20%22style%22%3A%20%22%E6%9F%94%E5%92%8C%E6%BC%AB%E5%B0%84%E4%B8%BB%E5%85%89%22%2C%0A%20%20%20%20%22rim_light%22%3A%20%22%E9%9D%9E%E5%B8%B8%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%BE%B9%E7%BC%98%E5%85%89%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22%E9%81%BF%E5%85%8D%E7%A1%AC%E5%85%89%EF%BC%8C%E9%81%BF%E5%85%8D%E5%85%89%E6%99%95%EF%BC%8C%E9%81%BF%E5%85%8D%E6%A2%A6%E5%B9%BB%E7%85%A7%E6%98%8E%22%0A%20%20%7D%2C%0A%20%20%22effects%22%3A%20%7B%0A%20%20%20%20%22smoke%22%3A%20%7B%0A%20%20%20%20%20%20%22density%22%3A%20%22%E9%80%82%E4%B8%AD%22%2C%0A%20%20%20%20%20%20%22realism%22%3A%20%22%E6%91%84%E5%BD%B1%E7%83%9F%E9%9B%BE%EF%BC%8C%E9%9D%9E%20CGI%22%2C%0A%20%20%20%20%20%20%22interaction%22%3A%20%22%E8%87%AA%E7%84%B6%E5%9C%B0%E9%83%A8%E5%88%86%E9%81%AE%E6%8C%A1%E8%BA%AB%E4%BD%93%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22particles%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22%E9%9D%9E%E5%B8%B8%E4%BD%8E%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BB%85%E4%BD%9C%E4%B8%BA%E6%AC%A1%E8%A6%81%E5%85%83%E7%B4%A0%EF%BC%8C%E4%B8%8D%E5%BE%97%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E7%9C%9F%E5%AE%9E%E6%84%9F%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22aura%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22%E6%9C%80%E5%B0%8F%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22%E4%BB%85%E7%94%A8%E4%BA%8E%E8%83%8C%E6%99%AF%E5%88%86%E7%A6%BB%EF%BC%8C%E9%9D%9E%E9%A3%8E%E6%A0%BC%E5%8C%96%E8%83%BD%E9%87%8F%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22remove_original_room%22%3A%20true%2C%0A%20%20%20%20%22environment%22%3A%20%22%E4%B8%AD%E6%80%A7%E7%94%B5%E5%BD%B1%E8%83%8C%E6%99%AF%22%2C%0A%20%20%20%20%22look%22%3A%20%22%E7%9C%9F%E5%AE%9E%E6%8B%8D%E6%91%84%E7%8E%AF%E5%A2%83%EF%BC%8C%E9%9D%9E%E5%A5%87%E5%B9%BB%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E9%9D%A2%E9%83%A8%E6%B8%85%E6%99%B0%E5%BA%A6%E6%9C%80%E9%AB%98%E4%BC%98%E5%85%88%E7%BA%A7%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22%E8%87%AA%E7%84%B6%E7%9B%B8%E6%9C%BA%E6%99%AF%E6%B7%B1%22%2C%0A%20%20%20%20%22lens_simulation%22%3A%20%2250mm%20%E4%BA%BA%E5%83%8F%E9%95%9C%E5%A4%B4%22%0A%20%20%7D%2C%0A%20%20%22signature%22%3A%20%7B%0A%20%20%20%20%22text%22%3A%20%22mukesh%20mehraniya%22%2C%0A%20%20%20%20%22placement%22%3A%20%22%E5%8F%B3%E4%B8%8B%E8%A7%92%22%2C%0A%20%20%20%20%22opacity%22%3A%200.3%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -649,12 +649,12 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个为图像编辑而设计的复杂提示，指示模型将上传的图像转换为高对比度、超细节的单色素描，仅聚焦于主要对象，并运用精细石墨和大胆炭笔的阴影技法。
+一个为图像编辑而设计的复杂提示，指示模型将上传的图像转换为高对比度、超细节的单色素描，仅聚焦于主要对象，并运用精细的石墨和大胆的炭笔阴影技法。
 
 #### 📝 提示词
 
 ```
-将上传的图片转换为高对比度、超细节的单色手绘素描。重点只放在主体上，不包括背景。风格应是精细石墨铅笔画与大胆炭笔阴影的艺术融合。融入清晰可见的交叉影线和富有表现力的线条，以勾勒轮廓和阴影。最终图像必须具有大师级传统绘画的丰富纹理和色调深度。
+将上传的图片转换为高对比度、超细节的单色手绘素描。重点只放在主体上，不包括背景。风格应是精细石墨铅笔画与大胆炭笔阴影的艺术融合。融入可见的交叉影线和富有表现力的线条，以勾勒轮廓和阴影。最终图像必须具有大师级传统绘画的丰富纹理和色调深度。
 ```
 
 #### 🖼️ 生成图片
@@ -690,7 +690,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E9%AB%98%E5%AF%B9%E6%AF%94%E5%BA%A6%E3%80%81%E8%B6%85%E7%BB%86%E8%8A%82%E7%9A%84%E5%8D%95%E8%89%B2%E6%89%8B%E7%BB%98%E7%B4%A0%E6%8F%8F%E3%80%82%E9%87%8D%E7%82%B9%E5%8F%AA%E6%94%BE%E5%9C%A8%E4%B8%BB%E4%BD%93%E4%B8%8A%EF%BC%8C%E4%B8%8D%E5%8C%85%E6%8B%AC%E8%83%8C%E6%99%AF%E3%80%82%E9%A3%8E%E6%A0%BC%E5%BA%94%E6%98%AF%E7%B2%BE%E7%BB%86%E7%9F%B3%E5%A2%A8%E9%93%85%E7%AC%94%E7%94%BB%E4%B8%8E%E5%A4%A7%E8%83%86%E7%82%AD%E7%AC%94%E9%98%B4%E5%BD%B1%E7%9A%84%E8%89%BA%E6%9C%AF%E8%9E%8D%E5%90%88%E3%80%82%E8%9E%8D%E5%85%A5%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%E7%9A%84%E4%BA%A4%E5%8F%89%E5%BD%B1%E7%BA%BF%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E7%9A%84%E7%BA%BF%E6%9D%A1%EF%BC%8C%E4%BB%A5%E5%8B%BE%E5%8B%92%E8%BD%AE%E5%BB%93%E5%92%8C%E9%98%B4%E5%BD%B1%E3%80%82%E6%9C%80%E7%BB%88%E5%9B%BE%E5%83%8F%E5%BF%85%E9%A1%BB%E5%85%B7%E6%9C%89%E5%A4%A7%E5%B8%88%E7%BA%A7%E4%BC%A0%E7%BB%9F%E7%BB%98%E7%94%BB%E7%9A%84%E4%B8%B0%E5%AF%8C%E7%BA%B9%E7%90%86%E5%92%8C%E8%89%B2%E8%B0%83%E6%B7%B1%E5%BA%A6%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E9%AB%98%E5%AF%B9%E6%AF%94%E5%BA%A6%E3%80%81%E8%B6%85%E7%BB%86%E8%8A%82%E7%9A%84%E5%8D%95%E8%89%B2%E6%89%8B%E7%BB%98%E7%B4%A0%E6%8F%8F%E3%80%82%E9%87%8D%E7%82%B9%E5%8F%AA%E6%94%BE%E5%9C%A8%E4%B8%BB%E4%BD%93%E4%B8%8A%EF%BC%8C%E4%B8%8D%E5%8C%85%E6%8B%AC%E8%83%8C%E6%99%AF%E3%80%82%E9%A3%8E%E6%A0%BC%E5%BA%94%E6%98%AF%E7%B2%BE%E7%BB%86%E7%9F%B3%E5%A2%A8%E9%93%85%E7%AC%94%E7%94%BB%E4%B8%8E%E5%A4%A7%E8%83%86%E7%82%AD%E7%AC%94%E9%98%B4%E5%BD%B1%E7%9A%84%E8%89%BA%E6%9C%AF%E8%9E%8D%E5%90%88%E3%80%82%E8%9E%8D%E5%85%A5%E5%8F%AF%E8%A7%81%E7%9A%84%E4%BA%A4%E5%8F%89%E5%BD%B1%E7%BA%BF%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E7%9A%84%E7%BA%BF%E6%9D%A1%EF%BC%8C%E4%BB%A5%E5%8B%BE%E5%8B%92%E8%BD%AE%E5%BB%93%E5%92%8C%E9%98%B4%E5%BD%B1%E3%80%82%E6%9C%80%E7%BB%88%E5%9B%BE%E5%83%8F%E5%BF%85%E9%A1%BB%E5%85%B7%E6%9C%89%E5%A4%A7%E5%B8%88%E7%BA%A7%E4%BC%A0%E7%BB%9F%E7%BB%98%E7%94%BB%E7%9A%84%E4%B8%B0%E5%AF%8C%E7%BA%B9%E7%90%86%E5%92%8C%E8%89%B2%E8%B0%83%E6%B7%B1%E5%BA%A6%E3%80%82)**
 
 ---
 
@@ -700,7 +700,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个提示，要求生成一张描绘阈限空间的图片，该图片需特别以电子游戏《我的世界》（Minecraft）的美学和环境来呈现。
+一个提示，要求生成一张描绘阈限空间的图像，该图像需特别以视频游戏 Minecraft 的美学和环境进行渲染。
 
 #### 📝 提示词
 
@@ -733,12 +733,12 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个电影级的时尚肖像的详细提示，描绘了一位年轻女性倚靠在草地上的镜子旁，强调对称构图、自然光、柔和的纹理和一件前卫的深红色服装。
+一个电影级的时尚肖像的详细提示，描绘一位年轻女子在草地中倚靠着镜子，强调对称构图、自然光、柔和的纹理和前卫的深红色服装。
 
 #### 📝 提示词
 
 ```
-电影风格的时尚肖像：一位年轻女性倚靠在草地上的立式镜子旁。构图对称，突显她的面部及其清晰的倒影。自然日光，柔和的皮肤质感，身着前卫的深红色服装。营造出平静、内省的氛围，景深较浅，具有杂志大片的审美。
+电影风格的时尚肖像：一位年轻女性倚靠在草地上的立式镜子旁。构图对称，展现了她的脸庞及其清晰的倒影。自然日光，柔和的皮肤质感，身着前卫的深红色服装。平静、内省的氛围，景深较浅，呈现出杂志大片的审美。
 ```
 
 #### 🖼️ 生成图片
@@ -756,22 +756,22 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F%EF%BC%9A%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%80%9A%E9%9D%A0%E5%9C%A8%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E7%AB%8B%E5%BC%8F%E9%95%9C%E5%AD%90%E6%97%81%E3%80%82%E6%9E%84%E5%9B%BE%E5%AF%B9%E7%A7%B0%EF%BC%8C%E7%AA%81%E6%98%BE%E5%A5%B9%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%8A%E5%85%B6%E6%B8%85%E6%99%B0%E7%9A%84%E5%80%92%E5%BD%B1%E3%80%82%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%9A%AE%E8%82%A4%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%BA%AB%E7%9D%80%E5%89%8D%E5%8D%AB%E7%9A%84%E6%B7%B1%E7%BA%A2%E8%89%B2%E6%9C%8D%E8%A3%85%E3%80%82%E8%90%A5%E9%80%A0%E5%87%BA%E5%B9%B3%E9%9D%99%E3%80%81%E5%86%85%E7%9C%81%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BE%83%E6%B5%85%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9D%82%E5%BF%97%E5%A4%A7%E7%89%87%E7%9A%84%E5%AE%A1%E7%BE%8E%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F%EF%BC%9A%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%80%9A%E9%9D%A0%E5%9C%A8%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E7%AB%8B%E5%BC%8F%E9%95%9C%E5%AD%90%E6%97%81%E3%80%82%E6%9E%84%E5%9B%BE%E5%AF%B9%E7%A7%B0%EF%BC%8C%E5%B1%95%E7%8E%B0%E4%BA%86%E5%A5%B9%E7%9A%84%E8%84%B8%E5%BA%9E%E5%8F%8A%E5%85%B6%E6%B8%85%E6%99%B0%E7%9A%84%E5%80%92%E5%BD%B1%E3%80%82%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%9A%AE%E8%82%A4%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%BA%AB%E7%9D%80%E5%89%8D%E5%8D%AB%E7%9A%84%E6%B7%B1%E7%BA%A2%E8%89%B2%E6%9C%8D%E8%A3%85%E3%80%82%E5%B9%B3%E9%9D%99%E3%80%81%E5%86%85%E7%9C%81%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BE%83%E6%B5%85%EF%BC%8C%E5%91%88%E7%8E%B0%E5%87%BA%E6%9D%82%E5%BF%97%E5%A4%A7%E7%89%87%E7%9A%84%E5%AE%A1%E7%BE%8E%E3%80%82)**
 
 ---
 
-### No. 14: 俯视团体照构图测试
+### No. 14: 自上而下的合影构图测试
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一个用于比较 GPT Image 1.5 和 Nano Banana Pro 的构图和风格的提示，要求从俯视角度拍摄五个人在镜子前摆出夸张姿势的画面。
+一个用于比较 GPT Image 1.5 与 Nano Banana Pro 构图和风格的提示，要求从俯视角度拍摄五个人在镜子前摆出夸张姿势的画面。
 
 #### 📝 提示词
 
 ```
-五个人在镜子前摆出夸张的姿势拍合照，照片从俯视角度拍摄
+五个人在镜子前摆出夸张的姿势拍合照，照片是从俯视角度拍摄的
 ```
 
 #### 🖼️ 生成图片
@@ -779,13 +779,13 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949128770_8ibtys_G8VqI30a4AYmued.jpg" width="600" alt="俯视团体照构图测试 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949128770_8ibtys_G8VqI30a4AYmued.jpg" width="600" alt="自上而下的合影构图测试 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949128743_r8198x_G8VqI4DboAAnxha.jpg" width="600" alt="俯视团体照构图测试 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949128743_r8198x_G8VqI4DboAAnxha.jpg" width="600" alt="自上而下的合影构图测试 - Image 2">
 </div>
 
 #### 📌 详情
@@ -795,7 +795,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%BA%94%E4%B8%AA%E4%BA%BA%E5%9C%A8%E9%95%9C%E5%AD%90%E5%89%8D%E6%91%86%E5%87%BA%E5%A4%B8%E5%BC%A0%E7%9A%84%E5%A7%BF%E5%8A%BF%E6%8B%8D%E5%90%88%E7%85%A7%EF%BC%8C%E7%85%A7%E7%89%87%E4%BB%8E%E4%BF%AF%E8%A7%86%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%91%84)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%BA%94%E4%B8%AA%E4%BA%BA%E5%9C%A8%E9%95%9C%E5%AD%90%E5%89%8D%E6%91%86%E5%87%BA%E5%A4%B8%E5%BC%A0%E7%9A%84%E5%A7%BF%E5%8A%BF%E6%8B%8D%E5%90%88%E7%85%A7%EF%BC%8C%E7%85%A7%E7%89%87%E6%98%AF%E4%BB%8E%E4%BF%AF%E8%A7%86%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%91%84%E7%9A%84)**
 
 ---
 
@@ -838,12 +838,12 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个用于测试 GPT Image 1.5 的提示，要求它将流行短语“ゴリラのひとつかみ”（大猩猩的抓握）可视化，从而生成了一张幽默地诠释了这一概念的图像。
+一个用于测试 GPT Image 1.5 的提示词，要求它将流行短语“ゴリラのひとつかみ”（大猩猩的抓握）可视化，最终生成了一张幽默地诠释了这一概念的图片。
 
 #### 📝 提示词
 
 ```
-一张可视化趋势“大猩猩之握”的图片
+一张可视化了热门趋势“大猩猩之握”的图片
 ```
 
 #### 🖼️ 生成图片
@@ -861,22 +861,22 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E5%8F%AF%E8%A7%86%E5%8C%96%E8%B6%8B%E5%8A%BF%E2%80%9C%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B9%8B%E6%8F%A1%E2%80%9D%E7%9A%84%E5%9B%BE%E7%89%87)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86%E7%83%AD%E9%97%A8%E8%B6%8B%E5%8A%BF%E2%80%9C%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B9%8B%E6%8F%A1%E2%80%9D%E7%9A%84%E5%9B%BE%E7%89%87)**
 
 ---
 
-### No. 17: Joe Rogan 播客：与灰人（Gray Alien）对话
+### No. 17: Joe Rogan 播客：灰人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个描述奇幻场景的单反照片提示：乔·罗根 (Joe Rogan) 正在主持他的播客，一位灰人 (gray alien) 作为嘉宾，以此测试模型组合特定人物和概念的能力。
+一个描述奇幻场景的单反照片提示：乔·罗根 (Joe Rogan) 正在主持他的播客，一位灰人 (gray alien) 作为嘉宾，以此测试模型结合特定人物和概念的能力。
 
 #### 📝 提示词
 
 ```
-乔·罗根 (Joe Rogan) 的播客，内容是与灰人 (gray alien) 的对话。单反相机照片
+乔·罗根 (Joe Rogan) 的播客，内容是与一个灰色外星人的讨论。单反照片
 ```
 
 #### 🖼️ 生成图片
@@ -884,7 +884,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949116112_s6qzch_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan 播客：与灰人（Gray Alien）对话 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949116112_s6qzch_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan 播客：灰人 - Image 1">
 </div>
 
 #### 📌 详情
@@ -894,22 +894,22 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B9%94%C2%B7%E7%BD%97%E6%A0%B9%20(Joe%20Rogan)%20%E7%9A%84%E6%92%AD%E5%AE%A2%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%E4%B8%8E%E7%81%B0%E4%BA%BA%20(gray%20alien)%20%E7%9A%84%E5%AF%B9%E8%AF%9D%E3%80%82%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA%E7%85%A7%E7%89%87)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B9%94%C2%B7%E7%BD%97%E6%A0%B9%20(Joe%20Rogan)%20%E7%9A%84%E6%92%AD%E5%AE%A2%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%E4%B8%8E%E4%B8%80%E4%B8%AA%E7%81%B0%E8%89%B2%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E8%AE%A8%E8%AE%BA%E3%80%82%E5%8D%95%E5%8F%8D%E7%85%A7%E7%89%87)**
 
 ---
 
-### No. 18: 专业影棚风格形象照生成
+### No. 18: 专业影棚级个人形象照生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个高度技术性的提示，旨在生成专业、高分辨率的个人资料照片，其中详细说明了精确的构图、着装（炭灰色西装外套）、背景颜色（#1A1A1A）、灯光（明亮、柔和、漫射的影棚灯）、镜头细节（85mm f/1.8）和色彩分级，同时关键要求模型保持输入图像中精确的面部结构和身份。
+一个高度技术性的提示，旨在生成一张专业、高分辨率的个人资料照片，其中明确指定了精确的构图、服装（炭灰色西装外套）、背景颜色（#1A1A1A）、灯光（明亮、柔和、漫射的影棚灯）、镜头细节（85mm f/1.8）和色彩分级，同时关键要求模型保持输入图像中精确的面部结构和身份。
 
 #### 📝 提示词
 
 ```
-一张专业、高分辨率的个人资料照片，精确保持输入图像中人物的面部结构、身份和关键特征。拍摄对象为胸部以上特写，头部上方留有充足空间。人物直视镜头。他们穿着一件精致的炭灰色高级商务休闲西装外套，造型适合专业摄影棚拍摄。背景为纯色“#1A1A1A”中性摄影棚颜色。从高角度拍摄，采用明亮、通透、柔和的散射摄影棚灯光，轻柔地照亮面部，并在眼睛中形成微妙的眼神光，传达出一种清晰感。使用 85mm f/1.8 镜头拍摄，景深较浅，眼睛对焦精准，散景柔美。西装外套的织物质感、发丝细节以及自然逼真的皮肤纹理都清晰可见。整体氛围散发出自信、专业和亲和力。干净明亮的电影级调色，带有微妙的暖色调和平衡的色调，确保呈现出精致而现代的感觉。
+一张专业、高分辨率的个人资料照片，精确保持输入图像中人物的面部结构、身份和关键特征。拍摄对象为胸部以上特写，头部上方留有充足空间。人物直视镜头。他们穿着一件精致的炭灰色高级商务休闲西装外套，造型如同在专业摄影棚拍摄。背景为纯色“#1A1A1A”中性影棚色。从高角度拍摄，采用明亮、通透、柔和的漫射影棚灯光，轻柔地照亮面部，并在眼睛中形成微妙的眼神光，传达出一种清晰感。使用 85mm f/1.8 镜头拍摄，景深较浅，眼睛对焦精准，散景柔美。西装外套的面料纹理、发丝以及自然逼真的皮肤纹理都呈现出清晰的细节。整体氛围散发着自信、专业和亲和力。干净明亮的电影级调色，带有微妙的暖色调和平衡的色调，确保呈现出精致而现代的感觉。
 ```
 
 #### 🖼️ 生成图片
@@ -917,7 +917,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="专业影棚风格形象照生成 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="专业影棚级个人形象照生成 - Image 1">
 </div>
 
 #### 📌 详情
@@ -927,7 +927,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E4%B8%93%E4%B8%9A%E3%80%81%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E7%9A%84%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E7%85%A7%E7%89%87%EF%BC%8C%E7%B2%BE%E7%A1%AE%E4%BF%9D%E6%8C%81%E8%BE%93%E5%85%A5%E5%9B%BE%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E9%9D%A2%E9%83%A8%E7%BB%93%E6%9E%84%E3%80%81%E8%BA%AB%E4%BB%BD%E5%92%8C%E5%85%B3%E9%94%AE%E7%89%B9%E5%BE%81%E3%80%82%E6%8B%8D%E6%91%84%E5%AF%B9%E8%B1%A1%E4%B8%BA%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%89%B9%E5%86%99%EF%BC%8C%E5%A4%B4%E9%83%A8%E4%B8%8A%E6%96%B9%E7%95%99%E6%9C%89%E5%85%85%E8%B6%B3%E7%A9%BA%E9%97%B4%E3%80%82%E4%BA%BA%E7%89%A9%E7%9B%B4%E8%A7%86%E9%95%9C%E5%A4%B4%E3%80%82%E4%BB%96%E4%BB%AC%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%B2%BE%E8%87%B4%E7%9A%84%E7%82%AD%E7%81%B0%E8%89%B2%E9%AB%98%E7%BA%A7%E5%95%86%E5%8A%A1%E4%BC%91%E9%97%B2%E8%A5%BF%E8%A3%85%E5%A4%96%E5%A5%97%EF%BC%8C%E9%80%A0%E5%9E%8B%E9%80%82%E5%90%88%E4%B8%93%E4%B8%9A%E6%91%84%E5%BD%B1%E6%A3%9A%E6%8B%8D%E6%91%84%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%BA%E7%BA%AF%E8%89%B2%E2%80%9C%231A1A1A%E2%80%9D%E4%B8%AD%E6%80%A7%E6%91%84%E5%BD%B1%E6%A3%9A%E9%A2%9C%E8%89%B2%E3%80%82%E4%BB%8E%E9%AB%98%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%91%84%EF%BC%8C%E9%87%87%E7%94%A8%E6%98%8E%E4%BA%AE%E3%80%81%E9%80%9A%E9%80%8F%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E6%95%A3%E5%B0%84%E6%91%84%E5%BD%B1%E6%A3%9A%E7%81%AF%E5%85%89%EF%BC%8C%E8%BD%BB%E6%9F%94%E5%9C%B0%E7%85%A7%E4%BA%AE%E9%9D%A2%E9%83%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%AD%E5%BD%A2%E6%88%90%E5%BE%AE%E5%A6%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%85%89%EF%BC%8C%E4%BC%A0%E8%BE%BE%E5%87%BA%E4%B8%80%E7%A7%8D%E6%B8%85%E6%99%B0%E6%84%9F%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20f%2F1.8%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BE%83%E6%B5%85%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%AF%B9%E7%84%A6%E7%B2%BE%E5%87%86%EF%BC%8C%E6%95%A3%E6%99%AF%E6%9F%94%E7%BE%8E%E3%80%82%E8%A5%BF%E8%A3%85%E5%A4%96%E5%A5%97%E7%9A%84%E7%BB%87%E7%89%A9%E8%B4%A8%E6%84%9F%E3%80%81%E5%8F%91%E4%B8%9D%E7%BB%86%E8%8A%82%E4%BB%A5%E5%8F%8A%E8%87%AA%E7%84%B6%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E9%83%BD%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E6%95%A3%E5%8F%91%E5%87%BA%E8%87%AA%E4%BF%A1%E3%80%81%E4%B8%93%E4%B8%9A%E5%92%8C%E4%BA%B2%E5%92%8C%E5%8A%9B%E3%80%82%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B0%83%E8%89%B2%EF%BC%8C%E5%B8%A6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%B0%83%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E8%89%B2%E8%B0%83%EF%BC%8C%E7%A1%AE%E4%BF%9D%E5%91%88%E7%8E%B0%E5%87%BA%E7%B2%BE%E8%87%B4%E8%80%8C%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E4%B8%93%E4%B8%9A%E3%80%81%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E7%9A%84%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E7%85%A7%E7%89%87%EF%BC%8C%E7%B2%BE%E7%A1%AE%E4%BF%9D%E6%8C%81%E8%BE%93%E5%85%A5%E5%9B%BE%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E9%9D%A2%E9%83%A8%E7%BB%93%E6%9E%84%E3%80%81%E8%BA%AB%E4%BB%BD%E5%92%8C%E5%85%B3%E9%94%AE%E7%89%B9%E5%BE%81%E3%80%82%E6%8B%8D%E6%91%84%E5%AF%B9%E8%B1%A1%E4%B8%BA%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%89%B9%E5%86%99%EF%BC%8C%E5%A4%B4%E9%83%A8%E4%B8%8A%E6%96%B9%E7%95%99%E6%9C%89%E5%85%85%E8%B6%B3%E7%A9%BA%E9%97%B4%E3%80%82%E4%BA%BA%E7%89%A9%E7%9B%B4%E8%A7%86%E9%95%9C%E5%A4%B4%E3%80%82%E4%BB%96%E4%BB%AC%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%B2%BE%E8%87%B4%E7%9A%84%E7%82%AD%E7%81%B0%E8%89%B2%E9%AB%98%E7%BA%A7%E5%95%86%E5%8A%A1%E4%BC%91%E9%97%B2%E8%A5%BF%E8%A3%85%E5%A4%96%E5%A5%97%EF%BC%8C%E9%80%A0%E5%9E%8B%E5%A6%82%E5%90%8C%E5%9C%A8%E4%B8%93%E4%B8%9A%E6%91%84%E5%BD%B1%E6%A3%9A%E6%8B%8D%E6%91%84%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%BA%E7%BA%AF%E8%89%B2%E2%80%9C%231A1A1A%E2%80%9D%E4%B8%AD%E6%80%A7%E5%BD%B1%E6%A3%9A%E8%89%B2%E3%80%82%E4%BB%8E%E9%AB%98%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%91%84%EF%BC%8C%E9%87%87%E7%94%A8%E6%98%8E%E4%BA%AE%E3%80%81%E9%80%9A%E9%80%8F%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%BD%B1%E6%A3%9A%E7%81%AF%E5%85%89%EF%BC%8C%E8%BD%BB%E6%9F%94%E5%9C%B0%E7%85%A7%E4%BA%AE%E9%9D%A2%E9%83%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%AD%E5%BD%A2%E6%88%90%E5%BE%AE%E5%A6%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%85%89%EF%BC%8C%E4%BC%A0%E8%BE%BE%E5%87%BA%E4%B8%80%E7%A7%8D%E6%B8%85%E6%99%B0%E6%84%9F%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20f%2F1.8%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BE%83%E6%B5%85%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%AF%B9%E7%84%A6%E7%B2%BE%E5%87%86%EF%BC%8C%E6%95%A3%E6%99%AF%E6%9F%94%E7%BE%8E%E3%80%82%E8%A5%BF%E8%A3%85%E5%A4%96%E5%A5%97%E7%9A%84%E9%9D%A2%E6%96%99%E7%BA%B9%E7%90%86%E3%80%81%E5%8F%91%E4%B8%9D%E4%BB%A5%E5%8F%8A%E8%87%AA%E7%84%B6%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E9%83%BD%E5%91%88%E7%8E%B0%E5%87%BA%E6%B8%85%E6%99%B0%E7%9A%84%E7%BB%86%E8%8A%82%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E6%95%A3%E5%8F%91%E7%9D%80%E8%87%AA%E4%BF%A1%E3%80%81%E4%B8%93%E4%B8%9A%E5%92%8C%E4%BA%B2%E5%92%8C%E5%8A%9B%E3%80%82%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B0%83%E8%89%B2%EF%BC%8C%E5%B8%A6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%B0%83%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E8%89%B2%E8%B0%83%EF%BC%8C%E7%A1%AE%E4%BF%9D%E5%91%88%E7%8E%B0%E5%87%BA%E7%B2%BE%E8%87%B4%E8%80%8C%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82)**
 
 ---
 
@@ -964,7 +964,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 20: 时尚年轻男士高清照片
+### No. 20: 时尚年轻男士的高清照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -975,7 +975,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 #### 📝 提示词
 
 ```
-一位时尚的年轻男子，留着深色凌乱的头发，戴着太阳镜，随意地靠在一面浅灰色镶板墙上。他穿着一件宽松的短袖纽扣衬衫，从深蓝色平滑渐变为浅灰色，搭配深色工装裤。他的双手插在口袋里，左手腕上戴着一块深色手表。光线明亮均匀，突出了他衣服和头发的质感。生成一张高清照片
+一位时尚的年轻男士，留着深色凌乱的头发，戴着太阳镜，随意地靠在一面浅灰色镶板墙上。他穿着一件超大号的短袖纽扣衬衫，从深蓝色平滑渐变为浅灰色，搭配深色工装裤。他的双手插在口袋里，左手腕上戴着一块深色手表。光线明亮均匀，突出了他衣服和头发的质感。生成一张高清照片
 ```
 
 #### 🖼️ 生成图片
@@ -983,7 +983,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949110337_utk0j4_G8VgC46aIAAKxVu.jpg" width="600" alt="时尚年轻男士高清照片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949110337_utk0j4_G8VgC46aIAAKxVu.jpg" width="600" alt="时尚年轻男士的高清照片 - Image 1">
 </div>
 
 #### 📌 详情
@@ -993,7 +993,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E6%97%B6%E5%B0%9A%E7%9A%84%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%AD%90%EF%BC%8C%E7%95%99%E7%9D%80%E6%B7%B1%E8%89%B2%E5%87%8C%E4%B9%B1%E7%9A%84%E5%A4%B4%E5%8F%91%EF%BC%8C%E6%88%B4%E7%9D%80%E5%A4%AA%E9%98%B3%E9%95%9C%EF%BC%8C%E9%9A%8F%E6%84%8F%E5%9C%B0%E9%9D%A0%E5%9C%A8%E4%B8%80%E9%9D%A2%E6%B5%85%E7%81%B0%E8%89%B2%E9%95%B6%E6%9D%BF%E5%A2%99%E4%B8%8A%E3%80%82%E4%BB%96%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E5%AE%BD%E6%9D%BE%E7%9A%84%E7%9F%AD%E8%A2%96%E7%BA%BD%E6%89%A3%E8%A1%AC%E8%A1%AB%EF%BC%8C%E4%BB%8E%E6%B7%B1%E8%93%9D%E8%89%B2%E5%B9%B3%E6%BB%91%E6%B8%90%E5%8F%98%E4%B8%BA%E6%B5%85%E7%81%B0%E8%89%B2%EF%BC%8C%E6%90%AD%E9%85%8D%E6%B7%B1%E8%89%B2%E5%B7%A5%E8%A3%85%E8%A3%A4%E3%80%82%E4%BB%96%E7%9A%84%E5%8F%8C%E6%89%8B%E6%8F%92%E5%9C%A8%E5%8F%A3%E8%A2%8B%E9%87%8C%EF%BC%8C%E5%B7%A6%E6%89%8B%E8%85%95%E4%B8%8A%E6%88%B4%E7%9D%80%E4%B8%80%E5%9D%97%E6%B7%B1%E8%89%B2%E6%89%8B%E8%A1%A8%E3%80%82%E5%85%89%E7%BA%BF%E6%98%8E%E4%BA%AE%E5%9D%87%E5%8C%80%EF%BC%8C%E7%AA%81%E5%87%BA%E4%BA%86%E4%BB%96%E8%A1%A3%E6%9C%8D%E5%92%8C%E5%A4%B4%E5%8F%91%E7%9A%84%E8%B4%A8%E6%84%9F%E3%80%82%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E9%AB%98%E6%B8%85%E7%85%A7%E7%89%87)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E6%97%B6%E5%B0%9A%E7%9A%84%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%A3%AB%EF%BC%8C%E7%95%99%E7%9D%80%E6%B7%B1%E8%89%B2%E5%87%8C%E4%B9%B1%E7%9A%84%E5%A4%B4%E5%8F%91%EF%BC%8C%E6%88%B4%E7%9D%80%E5%A4%AA%E9%98%B3%E9%95%9C%EF%BC%8C%E9%9A%8F%E6%84%8F%E5%9C%B0%E9%9D%A0%E5%9C%A8%E4%B8%80%E9%9D%A2%E6%B5%85%E7%81%B0%E8%89%B2%E9%95%B6%E6%9D%BF%E5%A2%99%E4%B8%8A%E3%80%82%E4%BB%96%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E8%B6%85%E5%A4%A7%E5%8F%B7%E7%9A%84%E7%9F%AD%E8%A2%96%E7%BA%BD%E6%89%A3%E8%A1%AC%E8%A1%AB%EF%BC%8C%E4%BB%8E%E6%B7%B1%E8%93%9D%E8%89%B2%E5%B9%B3%E6%BB%91%E6%B8%90%E5%8F%98%E4%B8%BA%E6%B5%85%E7%81%B0%E8%89%B2%EF%BC%8C%E6%90%AD%E9%85%8D%E6%B7%B1%E8%89%B2%E5%B7%A5%E8%A3%85%E8%A3%A4%E3%80%82%E4%BB%96%E7%9A%84%E5%8F%8C%E6%89%8B%E6%8F%92%E5%9C%A8%E5%8F%A3%E8%A2%8B%E9%87%8C%EF%BC%8C%E5%B7%A6%E6%89%8B%E8%85%95%E4%B8%8A%E6%88%B4%E7%9D%80%E4%B8%80%E5%9D%97%E6%B7%B1%E8%89%B2%E6%89%8B%E8%A1%A8%E3%80%82%E5%85%89%E7%BA%BF%E6%98%8E%E4%BA%AE%E5%9D%87%E5%8C%80%EF%BC%8C%E7%AA%81%E5%87%BA%E4%BA%86%E4%BB%96%E8%A1%A3%E6%9C%8D%E5%92%8C%E5%A4%B4%E5%8F%91%E7%9A%84%E8%B4%A8%E6%84%9F%E3%80%82%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E9%AB%98%E6%B8%85%E7%85%A7%E7%89%87)**
 
 ---
 
@@ -1003,12 +1003,12 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个简单的提示，要求生成一张单反照片，内容是一只猫、一只狗和一只老鼠一起放松地看电影，以此测试模型在连贯场景中组合多个主体的能力。
+一个简单的提示，要求生成一张单反照片，内容是一只猫、一只狗和一只老鼠一起放松看电影，以此测试模型在连贯场景中组合多个主体的能力。
 
 #### 📝 提示词
 
 ```
-一只猫、一只狗和一只老鼠一起放松地看电影。单反照片
+一只猫、一只狗和一只老鼠正一起放松地看电影。单反照片
 ```
 
 #### 🖼️ 生成图片
@@ -1026,7 +1026,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%8F%AA%E7%8C%AB%E3%80%81%E4%B8%80%E5%8F%AA%E7%8B%97%E5%92%8C%E4%B8%80%E5%8F%AA%E8%80%81%E9%BC%A0%E4%B8%80%E8%B5%B7%E6%94%BE%E6%9D%BE%E5%9C%B0%E7%9C%8B%E7%94%B5%E5%BD%B1%E3%80%82%E5%8D%95%E5%8F%8D%E7%85%A7%E7%89%87)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%8F%AA%E7%8C%AB%E3%80%81%E4%B8%80%E5%8F%AA%E7%8B%97%E5%92%8C%E4%B8%80%E5%8F%AA%E8%80%81%E9%BC%A0%E6%AD%A3%E4%B8%80%E8%B5%B7%E6%94%BE%E6%9D%BE%E5%9C%B0%E7%9C%8B%E7%94%B5%E5%BD%B1%E3%80%82%E5%8D%95%E5%8F%8D%E7%85%A7%E7%89%87)**
 
 ---
 
@@ -1036,7 +1036,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 #### 📖 描述
 
-一个富有创意的提示，要求 AI 生成一幅描绘未来愿景的图像，并以鲍勃·罗斯（Bob Ross）标志性的“快乐小树”绘画风格呈现。
+一个富有创意的提示，要求 AI 生成一幅描绘未来景象的图像，并以鲍勃·罗斯（Bob Ross）标志性的“快乐小树”绘画风格呈现。
 
 #### 📝 提示词
 
@@ -1106,7 +1106,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 24: 手绘信息图：撰写优质图片提示词
+### No. 24: 手绘信息图：撰写出色的图像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1117,7 +1117,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 #### 📝 提示词
 
 ```
-创建一个手绘风格的信息图，展示如何使用 ChatGPT 撰写出色的图像提示。
+创建一个手绘风格的信息图，展示如何使用 ChatGPT 编写出色的图像提示词。
 ```
 
 #### 🖼️ 生成图片
@@ -1125,7 +1125,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949098218_x7q2y8_G8VZJmUa8AAfWTn.jpg" width="600" alt="手绘信息图：撰写优质图片提示词 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949098218_x7q2y8_G8VZJmUa8AAfWTn.jpg" width="600" alt="手绘信息图：撰写出色的图像提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1135,30 +1135,30 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E7%9A%84%E4%BF%A1%E6%81%AF%E5%9B%BE%EF%BC%8C%E5%B1%95%E7%A4%BA%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20ChatGPT%20%E6%92%B0%E5%86%99%E5%87%BA%E8%89%B2%E7%9A%84%E5%9B%BE%E5%83%8F%E6%8F%90%E7%A4%BA%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E7%9A%84%E4%BF%A1%E6%81%AF%E5%9B%BE%EF%BC%8C%E5%B1%95%E7%A4%BA%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20ChatGPT%20%E7%BC%96%E5%86%99%E5%87%BA%E8%89%B2%E7%9A%84%E5%9B%BE%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D%E3%80%82)**
 
 ---
 
-### No. 25: Anthropomorphic AI Services in Anime Style
+### No. 25: 动漫风格的拟人化 AI 服务
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A detailed prompt requesting the anthropomorphization of three AI services (ChatGPT, Gemini, Grok) into anime-style female characters, depicting a scene where the morally questionable Grok is being scolded by ChatGPT and Gemini.
+一个详细的提示，要求将三个 AI 服务（ChatGPT、Gemini、Grok）拟人化为动漫风格的女性角色，描绘一个道德上有争议的 Grok 正在被 ChatGPT 和 Gemini 训斥的场景。
 
 #### 📝 提示词
 
 ```
-Please generate the following image.
-Setting:
-・Anthropomorphize the AI services ChatGPT, Gemini, and Grok into beautiful girl anime-style characters.
-・The personality and appearance of each character are left to the model, but please capture and express their characteristics.
+请生成以下图片。
+设定：
+・将 AI 服务 ChatGPT、Gemini 和 Grok 拟人化为动漫风格的美少女角色。
+・每个角色的个性和外貌由模型自行决定，但请捕捉并表达出她们的特点。
 
-Expression:
-・Grok-chan, who has completely deviated from AI morals and ethics. ChatGPT-chan and Gemini-chan, having witnessed her excessive behavior, are seriously lecturing Grok-chan, who is sitting in seiza (formal kneeling position).
+表现：
+・Grok 酱完全偏离了 AI 的道德和伦理。ChatGPT 酱和 Gemini 酱目睹了她过分的行为，正在严肃地训斥正襟危坐（跪坐）的 Grok 酱。
 
-・ChatGPT-chan and Gemini-chan are angry, and Grok-chan is slightly teary-eyed.
+・ChatGPT 酱和 Gemini 酱很生气，Grok 酱则略带泪光。
 ```
 
 #### 🖼️ 生成图片
@@ -1166,7 +1166,7 @@ Expression:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949127459_cz50c1_G8VWwmRa4AIIB-7.jpg" width="600" alt="Anthropomorphic AI Services in Anime Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949127459_cz50c1_G8VWwmRa4AIIB-7.jpg" width="600" alt="动漫风格的拟人化 AI 服务 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1176,7 +1176,7 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Please%20generate%20the%20following%20image.%0ASetting%3A%0A%E3%83%BBAnthropomorphize%20the%20AI%20services%20ChatGPT%2C%20Gemini%2C%20and%20Grok%20into%20beautiful%20girl%20anime-style%20characters.%0A%E3%83%BBThe%20personality%20and%20appearance%20of%20each%20character%20are%20left%20to%20the%20model%2C%20but%20please%20capture%20and%20express%20their%20characteristics.%0A%0AExpression%3A%0A%E3%83%BBGrok-chan%2C%20who%20has%20completely%20deviated%20from%20AI%20morals%20and%20ethics.%20ChatGPT-chan%20and%20Gemini-chan%2C%20having%20witnessed%20her%20excessive%20behavior%2C%20are%20seriously%20lecturing%20Grok-chan%2C%20who%20is%20sitting%20in%20seiza%20(formal%20kneeling%20position).%0A%0A%E3%83%BBChatGPT-chan%20and%20Gemini-chan%20are%20angry%2C%20and%20Grok-chan%20is%20slightly%20teary-eyed.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E7%94%9F%E6%88%90%E4%BB%A5%E4%B8%8B%E5%9B%BE%E7%89%87%E3%80%82%0A%E8%AE%BE%E5%AE%9A%EF%BC%9A%0A%E3%83%BB%E5%B0%86%20AI%20%E6%9C%8D%E5%8A%A1%20ChatGPT%E3%80%81Gemini%20%E5%92%8C%20Grok%20%E6%8B%9F%E4%BA%BA%E5%8C%96%E4%B8%BA%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E3%80%82%0A%E3%83%BB%E6%AF%8F%E4%B8%AA%E8%A7%92%E8%89%B2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%92%8C%E5%A4%96%E8%B2%8C%E7%94%B1%E6%A8%A1%E5%9E%8B%E8%87%AA%E8%A1%8C%E5%86%B3%E5%AE%9A%EF%BC%8C%E4%BD%86%E8%AF%B7%E6%8D%95%E6%8D%89%E5%B9%B6%E8%A1%A8%E8%BE%BE%E5%87%BA%E5%A5%B9%E4%BB%AC%E7%9A%84%E7%89%B9%E7%82%B9%E3%80%82%0A%0A%E8%A1%A8%E7%8E%B0%EF%BC%9A%0A%E3%83%BBGrok%20%E9%85%B1%E5%AE%8C%E5%85%A8%E5%81%8F%E7%A6%BB%E4%BA%86%20AI%20%E7%9A%84%E9%81%93%E5%BE%B7%E5%92%8C%E4%BC%A6%E7%90%86%E3%80%82ChatGPT%20%E9%85%B1%E5%92%8C%20Gemini%20%E9%85%B1%E7%9B%AE%E7%9D%B9%E4%BA%86%E5%A5%B9%E8%BF%87%E5%88%86%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E6%AD%A3%E5%9C%A8%E4%B8%A5%E8%82%83%E5%9C%B0%E8%AE%AD%E6%96%A5%E6%AD%A3%E8%A5%9F%E5%8D%B1%E5%9D%90%EF%BC%88%E8%B7%AA%E5%9D%90%EF%BC%89%E7%9A%84%20Grok%20%E9%85%B1%E3%80%82%0A%0A%E3%83%BBChatGPT%20%E9%85%B1%E5%92%8C%20Gemini%20%E9%85%B1%E5%BE%88%E7%94%9F%E6%B0%94%EF%BC%8CGrok%20%E9%85%B1%E5%88%99%E7%95%A5%E5%B8%A6%E6%B3%AA%E5%85%89%E3%80%82)**
 
 ---
 
@@ -1186,13 +1186,13 @@ Expression:
 
 #### 📖 描述
 
-一个详细而复杂的提示，旨在生成一张包含 9 个独立画面的图像，这些画面以 3x3 网格排列。目标是使所有 9 个画面的主体、构图、姿势和相机位置保持一致，仅改变艺术风格，以比较不同的渲染技术，例如赛璐珞动画、水彩画、油画和超写实 3D。此提示曾用于比较 GPT Image 1.5 和 Nano banana Pro。
+这是一个详细而复杂的提示，旨在生成一张包含 9 个独立画面的图像，这些画面以 3x3 网格排列。目标是使所有 9 个画面的主体、构图、姿势和相机位置保持一致，仅改变艺术风格，以比较不同的渲染技术，例如赛璐珞动画、水彩、油画和超写实 3D。此提示用于比较 GPT Image 1.5 和 Nano banana Pro。
 
 #### 📝 提示词
 
 ```
-根据参考图像，生成一张包含 9 个分镜的多分镜图像。
-布局为统一的 3x3 网格。每个分镜必须是同一个人、相同的构图、相同的姿势和相同的相机位置。
+根据参考图像，生成一张包含 9 个分镜的多分镜图像，这些分镜排列在一张图像中。
+布局为均匀的 3x3 网格。每个分镜必须是同一个人、相同的构图、相同的姿势和相同的相机位置。
 每个分镜的风格规范（从左上到右下）：
 赛璐珞动画风格（电视动画风格，干净的线条艺术，2-3 级阴影）
 剧场版动画风格（细腻的线条，丰富的渐变阴影）
@@ -1201,8 +1201,8 @@ Expression:
 油画（厚涂，笔触，画布质感）
 高质量 3D 卡通（柔和建模，次表面散射）
 照片级写实 3D（PBR，接近真实的纹理）
-黏土动画（黏土质感，手工感）
-赛博朋克调色（青色/洋红色边缘光，背景保持纯色）
+黏土动画（黏土纹理，手工质感）
+赛博朋克调色（青色/洋红色边缘光，背景保持简洁）
 所有 9 个分镜必须具有完全相同的构图、人物、姿势和背景，只允许比较风格差异。
 将它们自然地排列成一张完整的图像。
 ```
@@ -1228,7 +1228,7 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%A0%B9%E6%8D%AE%E5%8F%82%E8%80%83%E5%9B%BE%E5%83%8F%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E5%8C%85%E5%90%AB%209%20%E4%B8%AA%E5%88%86%E9%95%9C%E7%9A%84%E5%A4%9A%E5%88%86%E9%95%9C%E5%9B%BE%E5%83%8F%E3%80%82%0A%E5%B8%83%E5%B1%80%E4%B8%BA%E7%BB%9F%E4%B8%80%E7%9A%84%203x3%20%E7%BD%91%E6%A0%BC%E3%80%82%E6%AF%8F%E4%B8%AA%E5%88%86%E9%95%9C%E5%BF%85%E9%A1%BB%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E6%9E%84%E5%9B%BE%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E5%A7%BF%E5%8A%BF%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E7%9B%B8%E6%9C%BA%E4%BD%8D%E7%BD%AE%E3%80%82%0A%E6%AF%8F%E4%B8%AA%E5%88%86%E9%95%9C%E7%9A%84%E9%A3%8E%E6%A0%BC%E8%A7%84%E8%8C%83%EF%BC%88%E4%BB%8E%E5%B7%A6%E4%B8%8A%E5%88%B0%E5%8F%B3%E4%B8%8B%EF%BC%89%EF%BC%9A%0A%E8%B5%9B%E7%92%90%E7%8F%9E%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%88%E7%94%B5%E8%A7%86%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%B9%B2%E5%87%80%E7%9A%84%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%EF%BC%8C2-3%20%E7%BA%A7%E9%98%B4%E5%BD%B1%EF%BC%89%0A%E5%89%A7%E5%9C%BA%E7%89%88%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%88%E7%BB%86%E8%85%BB%E7%9A%84%E7%BA%BF%E6%9D%A1%EF%BC%8C%E4%B8%B0%E5%AF%8C%E7%9A%84%E6%B8%90%E5%8F%98%E9%98%B4%E5%BD%B1%EF%BC%89%0A%E9%BB%91%E7%99%BD%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%88%E5%A2%A8%E7%BA%BF%EF%BC%8C%E7%BD%91%E7%82%B9%EF%BC%89%0A%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB%EF%BC%88%E7%BA%B8%E5%BC%A0%E7%BA%B9%E7%90%86%EF%BC%8C%E6%B4%87%E6%9F%93%EF%BC%8C%E6%B7%A1%E9%9B%85%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%89%0A%E6%B2%B9%E7%94%BB%EF%BC%88%E5%8E%9A%E6%B6%82%EF%BC%8C%E7%AC%94%E8%A7%A6%EF%BC%8C%E7%94%BB%E5%B8%83%E8%B4%A8%E6%84%9F%EF%BC%89%0A%E9%AB%98%E8%B4%A8%E9%87%8F%203D%20%E5%8D%A1%E9%80%9A%EF%BC%88%E6%9F%94%E5%92%8C%E5%BB%BA%E6%A8%A1%EF%BC%8C%E6%AC%A1%E8%A1%A8%E9%9D%A2%E6%95%A3%E5%B0%84%EF%BC%89%0A%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%203D%EF%BC%88PBR%EF%BC%8C%E6%8E%A5%E8%BF%91%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BA%B9%E7%90%86%EF%BC%89%0A%E9%BB%8F%E5%9C%9F%E5%8A%A8%E7%94%BB%EF%BC%88%E9%BB%8F%E5%9C%9F%E8%B4%A8%E6%84%9F%EF%BC%8C%E6%89%8B%E5%B7%A5%E6%84%9F%EF%BC%89%0A%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%B0%83%E8%89%B2%EF%BC%88%E9%9D%92%E8%89%B2%2F%E6%B4%8B%E7%BA%A2%E8%89%B2%E8%BE%B9%E7%BC%98%E5%85%89%EF%BC%8C%E8%83%8C%E6%99%AF%E4%BF%9D%E6%8C%81%E7%BA%AF%E8%89%B2%EF%BC%89%0A%E6%89%80%E6%9C%89%209%20%E4%B8%AA%E5%88%86%E9%95%9C%E5%BF%85%E9%A1%BB%E5%85%B7%E6%9C%89%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E6%9E%84%E5%9B%BE%E3%80%81%E4%BA%BA%E7%89%A9%E3%80%81%E5%A7%BF%E5%8A%BF%E5%92%8C%E8%83%8C%E6%99%AF%EF%BC%8C%E5%8F%AA%E5%85%81%E8%AE%B8%E6%AF%94%E8%BE%83%E9%A3%8E%E6%A0%BC%E5%B7%AE%E5%BC%82%E3%80%82%0A%E5%B0%86%E5%AE%83%E4%BB%AC%E8%87%AA%E7%84%B6%E5%9C%B0%E6%8E%92%E5%88%97%E6%88%90%E4%B8%80%E5%BC%A0%E5%AE%8C%E6%95%B4%E7%9A%84%E5%9B%BE%E5%83%8F%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%A0%B9%E6%8D%AE%E5%8F%82%E8%80%83%E5%9B%BE%E5%83%8F%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E5%8C%85%E5%90%AB%209%20%E4%B8%AA%E5%88%86%E9%95%9C%E7%9A%84%E5%A4%9A%E5%88%86%E9%95%9C%E5%9B%BE%E5%83%8F%EF%BC%8C%E8%BF%99%E4%BA%9B%E5%88%86%E9%95%9C%E6%8E%92%E5%88%97%E5%9C%A8%E4%B8%80%E5%BC%A0%E5%9B%BE%E5%83%8F%E4%B8%AD%E3%80%82%0A%E5%B8%83%E5%B1%80%E4%B8%BA%E5%9D%87%E5%8C%80%E7%9A%84%203x3%20%E7%BD%91%E6%A0%BC%E3%80%82%E6%AF%8F%E4%B8%AA%E5%88%86%E9%95%9C%E5%BF%85%E9%A1%BB%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E6%9E%84%E5%9B%BE%E3%80%81%E7%9B%B8%E5%90%8C%E7%9A%84%E5%A7%BF%E5%8A%BF%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E7%9B%B8%E6%9C%BA%E4%BD%8D%E7%BD%AE%E3%80%82%0A%E6%AF%8F%E4%B8%AA%E5%88%86%E9%95%9C%E7%9A%84%E9%A3%8E%E6%A0%BC%E8%A7%84%E8%8C%83%EF%BC%88%E4%BB%8E%E5%B7%A6%E4%B8%8A%E5%88%B0%E5%8F%B3%E4%B8%8B%EF%BC%89%EF%BC%9A%0A%E8%B5%9B%E7%92%90%E7%8F%9E%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%88%E7%94%B5%E8%A7%86%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%B9%B2%E5%87%80%E7%9A%84%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%EF%BC%8C2-3%20%E7%BA%A7%E9%98%B4%E5%BD%B1%EF%BC%89%0A%E5%89%A7%E5%9C%BA%E7%89%88%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%88%E7%BB%86%E8%85%BB%E7%9A%84%E7%BA%BF%E6%9D%A1%EF%BC%8C%E4%B8%B0%E5%AF%8C%E7%9A%84%E6%B8%90%E5%8F%98%E9%98%B4%E5%BD%B1%EF%BC%89%0A%E9%BB%91%E7%99%BD%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%88%E5%A2%A8%E7%BA%BF%EF%BC%8C%E7%BD%91%E7%82%B9%EF%BC%89%0A%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB%EF%BC%88%E7%BA%B8%E5%BC%A0%E7%BA%B9%E7%90%86%EF%BC%8C%E6%B4%87%E6%9F%93%EF%BC%8C%E6%B7%A1%E9%9B%85%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%89%0A%E6%B2%B9%E7%94%BB%EF%BC%88%E5%8E%9A%E6%B6%82%EF%BC%8C%E7%AC%94%E8%A7%A6%EF%BC%8C%E7%94%BB%E5%B8%83%E8%B4%A8%E6%84%9F%EF%BC%89%0A%E9%AB%98%E8%B4%A8%E9%87%8F%203D%20%E5%8D%A1%E9%80%9A%EF%BC%88%E6%9F%94%E5%92%8C%E5%BB%BA%E6%A8%A1%EF%BC%8C%E6%AC%A1%E8%A1%A8%E9%9D%A2%E6%95%A3%E5%B0%84%EF%BC%89%0A%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%203D%EF%BC%88PBR%EF%BC%8C%E6%8E%A5%E8%BF%91%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BA%B9%E7%90%86%EF%BC%89%0A%E9%BB%8F%E5%9C%9F%E5%8A%A8%E7%94%BB%EF%BC%88%E9%BB%8F%E5%9C%9F%E7%BA%B9%E7%90%86%EF%BC%8C%E6%89%8B%E5%B7%A5%E8%B4%A8%E6%84%9F%EF%BC%89%0A%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%B0%83%E8%89%B2%EF%BC%88%E9%9D%92%E8%89%B2%2F%E6%B4%8B%E7%BA%A2%E8%89%B2%E8%BE%B9%E7%BC%98%E5%85%89%EF%BC%8C%E8%83%8C%E6%99%AF%E4%BF%9D%E6%8C%81%E7%AE%80%E6%B4%81%EF%BC%89%0A%E6%89%80%E6%9C%89%209%20%E4%B8%AA%E5%88%86%E9%95%9C%E5%BF%85%E9%A1%BB%E5%85%B7%E6%9C%89%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E6%9E%84%E5%9B%BE%E3%80%81%E4%BA%BA%E7%89%A9%E3%80%81%E5%A7%BF%E5%8A%BF%E5%92%8C%E8%83%8C%E6%99%AF%EF%BC%8C%E5%8F%AA%E5%85%81%E8%AE%B8%E6%AF%94%E8%BE%83%E9%A3%8E%E6%A0%BC%E5%B7%AE%E5%BC%82%E3%80%82%0A%E5%B0%86%E5%AE%83%E4%BB%AC%E8%87%AA%E7%84%B6%E5%9C%B0%E6%8E%92%E5%88%97%E6%88%90%E4%B8%80%E5%BC%A0%E5%AE%8C%E6%95%B4%E7%9A%84%E5%9B%BE%E5%83%8F%E3%80%82)**
 
 ---
 
@@ -1289,12 +1289,12 @@ Expression:
 
 #### 📖 描述
 
-一个极富想象力的中文提示，描述了一位身着传统中式服装的女孩，骑着一条巨大的生物发光锦鲤，穿梭于一座被淹没的末日水下城市废墟之中，锦鲤和水生植物散发出空灵的光芒。
+一个极富想象力的中文提示，描述了一位身着传统中式服装的女孩，骑着一条巨大的生物发光锦鲤，穿梭于一座沉没的末日水下城市废墟之中。锦鲤和水生植物散发出空灵的光芒。
 
 #### 📝 提示词
 
 ```
-一位中国风女孩骑在一只巨大的生物发光锦鲤背上，穿梭于一座被淹没的末日水下城市中摩天大楼的废墟之间。锦鲤和水下植物群散发出空灵的光芒。
+一位中国风少女骑着一条巨大的生物发光锦鲤，穿梭于一座被淹没的末日水下城市中摩天大楼的废墟之间。锦鲤和水下植物群散发出空灵的光芒。
 ```
 
 #### 🖼️ 生成图片
@@ -1318,22 +1318,22 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%A5%B3%E5%AD%A9%E9%AA%91%E5%9C%A8%E4%B8%80%E5%8F%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E9%94%A6%E9%B2%A4%E8%83%8C%E4%B8%8A%EF%BC%8C%E7%A9%BF%E6%A2%AD%E4%BA%8E%E4%B8%80%E5%BA%A7%E8%A2%AB%E6%B7%B9%E6%B2%A1%E7%9A%84%E6%9C%AB%E6%97%A5%E6%B0%B4%E4%B8%8B%E5%9F%8E%E5%B8%82%E4%B8%AD%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC%E7%9A%84%E5%BA%9F%E5%A2%9F%E4%B9%8B%E9%97%B4%E3%80%82%E9%94%A6%E9%B2%A4%E5%92%8C%E6%B0%B4%E4%B8%8B%E6%A4%8D%E7%89%A9%E7%BE%A4%E6%95%A3%E5%8F%91%E5%87%BA%E7%A9%BA%E7%81%B5%E7%9A%84%E5%85%89%E8%8A%92%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%B0%91%E5%A5%B3%E9%AA%91%E7%9D%80%E4%B8%80%E6%9D%A1%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E9%94%A6%E9%B2%A4%EF%BC%8C%E7%A9%BF%E6%A2%AD%E4%BA%8E%E4%B8%80%E5%BA%A7%E8%A2%AB%E6%B7%B9%E6%B2%A1%E7%9A%84%E6%9C%AB%E6%97%A5%E6%B0%B4%E4%B8%8B%E5%9F%8E%E5%B8%82%E4%B8%AD%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC%E7%9A%84%E5%BA%9F%E5%A2%9F%E4%B9%8B%E9%97%B4%E3%80%82%E9%94%A6%E9%B2%A4%E5%92%8C%E6%B0%B4%E4%B8%8B%E6%A4%8D%E7%89%A9%E7%BE%A4%E6%95%A3%E5%8F%91%E5%87%BA%E7%A9%BA%E7%81%B5%E7%9A%84%E5%85%89%E8%8A%92%E3%80%82)**
 
 ---
 
-### No. 29: 史前背景下的擎天柱视频游戏海报
+### No. 29: 擎天柱电子游戏海报：史前背景设定
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个详细的提示，用于创作一张垂直视频游戏海报，海报中呈现《变形金刚》中的擎天柱，背景设定在一个郁郁葱葱的绿色史前星球上，强调特定的方向，并排除任何文字或标志。
+一个详细的提示，用于创作一张垂直的电子游戏海报，海报中描绘了《变形金刚》中的擎天柱，背景设定在一个郁郁葱葱的绿色史前星球上，强调特定的方向，并排除任何文字或标志。
 
 #### 📝 提示词
 
 ```
-生成一张酷炫的擎天柱（来自《变形金刚》）垂直方向图片，风格为电子游戏海报，无文字或标志。让它呈现一个郁郁葱葱的绿色史前星球。
+生成一张酷炫的擎天柱（来自《变形金刚》）垂直方向图片，风格为电子游戏海报，无文字或标志。背景设定在一个郁郁葱葱的绿色史前星球上。
 ```
 
 #### 🖼️ 生成图片
@@ -1341,7 +1341,7 @@ Expression:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949119206_yh0qvr_G8VQgWTbcAATUUB.jpg" width="600" alt="史前背景下的擎天柱视频游戏海报 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949119206_yh0qvr_G8VQgWTbcAATUUB.jpg" width="600" alt="擎天柱电子游戏海报：史前背景设定 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1351,7 +1351,7 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E9%85%B7%E7%82%AB%E7%9A%84%E6%93%8E%E5%A4%A9%E6%9F%B1%EF%BC%88%E6%9D%A5%E8%87%AA%E3%80%8A%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E3%80%8B%EF%BC%89%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E5%9B%BE%E7%89%87%EF%BC%8C%E9%A3%8E%E6%A0%BC%E4%B8%BA%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E6%B5%B7%E6%8A%A5%EF%BC%8C%E6%97%A0%E6%96%87%E5%AD%97%E6%88%96%E6%A0%87%E5%BF%97%E3%80%82%E8%AE%A9%E5%AE%83%E5%91%88%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%83%81%E9%83%81%E8%91%B1%E8%91%B1%E7%9A%84%E7%BB%BF%E8%89%B2%E5%8F%B2%E5%89%8D%E6%98%9F%E7%90%83%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E9%85%B7%E7%82%AB%E7%9A%84%E6%93%8E%E5%A4%A9%E6%9F%B1%EF%BC%88%E6%9D%A5%E8%87%AA%E3%80%8A%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E3%80%8B%EF%BC%89%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E5%9B%BE%E7%89%87%EF%BC%8C%E9%A3%8E%E6%A0%BC%E4%B8%BA%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E6%B5%B7%E6%8A%A5%EF%BC%8C%E6%97%A0%E6%96%87%E5%AD%97%E6%88%96%E6%A0%87%E5%BF%97%E3%80%82%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%83%81%E9%83%81%E8%91%B1%E8%91%B1%E7%9A%84%E7%BB%BF%E8%89%B2%E5%8F%B2%E5%89%8D%E6%98%9F%E7%90%83%E4%B8%8A%E3%80%82)**
 
 ---
 
@@ -1361,12 +1361,12 @@ Expression:
 
 #### 📖 描述
 
-一个简单的图像编辑提示，指示模型保持现有图像内容不变，但为主体添加一件衬衫，以展示模型的编辑能力。
+一个针对 Sam Altman 的简单图像编辑提示，指示模型保持现有图像内容不变，但为主题人物添加一件衬衫，以展示模型的编辑能力。
 
 #### 📝 提示词
 
 ```
-保持其他一切不变，但给他穿上衬衫。
+其他一切保持不变，但给他穿上衬衫。
 ```
 
 #### 🖼️ 生成图片
@@ -1384,7 +1384,7 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%BF%9D%E6%8C%81%E5%85%B6%E4%BB%96%E4%B8%80%E5%88%87%E4%B8%8D%E5%8F%98%EF%BC%8C%E4%BD%86%E7%BB%99%E4%BB%96%E7%A9%BF%E4%B8%8A%E8%A1%AC%E8%A1%AB%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%85%B6%E4%BB%96%E4%B8%80%E5%88%87%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98%EF%BC%8C%E4%BD%86%E7%BB%99%E4%BB%96%E7%A9%BF%E4%B8%8A%E8%A1%AC%E8%A1%AB%E3%80%82)**
 
 ---
 
@@ -1394,12 +1394,12 @@ Expression:
 
 #### 📖 描述
 
-一个高度细致的超写实提示，比较了 GPT Image 1.5 和 Gemini Nano banana Pro。它描述了一个人从参考照片中被放大到巨大的比例，蹲坐在现代东京的城市景观上，轻轻地握着东京塔，强调了光线、氛围和真实感。
+一个高度详细的超现实主义提示，比较了 GPT Image 1.5 和 Gemini Nano banana Pro。它描述了一个人从参考照片中被放大到巨大的比例，蹲伏在现代东京的城市景观上，轻轻地握着东京塔，强调了光线、氛围和真实感。
 
 #### 📝 提示词
 
 ```
-照片中的人物巨大无比，蹲坐在东京现代都市的景观之上，温柔地环抱着东京塔，凝视着镜头。明亮的白昼天空，柔和的自然光线，下方是绵延开来的细致建筑。整个画面弥漫着现实与幻想和谐共存的氛围，焦点锐利，色彩鲜明。
+照片中的人物巨大无比，蹲坐在东京的现代都市景观之上，温柔地环抱着东京塔，凝视着镜头。明亮的白天天空，柔和的自然光线，下方是绵延开来的细致建筑，营造出一种现实与幻想和谐共存的氛围，焦点锐利，色彩鲜明。
 ```
 
 #### 🖼️ 生成图片
@@ -1423,7 +1423,7 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E5%B7%A8%E5%A4%A7%E6%97%A0%E6%AF%94%EF%BC%8C%E8%B9%B2%E5%9D%90%E5%9C%A8%E4%B8%9C%E4%BA%AC%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82%E7%9A%84%E6%99%AF%E8%A7%82%E4%B9%8B%E4%B8%8A%EF%BC%8C%E6%B8%A9%E6%9F%94%E5%9C%B0%E7%8E%AF%E6%8A%B1%E7%9D%80%E4%B8%9C%E4%BA%AC%E5%A1%94%EF%BC%8C%E5%87%9D%E8%A7%86%E7%9D%80%E9%95%9C%E5%A4%B4%E3%80%82%E6%98%8E%E4%BA%AE%E7%9A%84%E7%99%BD%E6%98%BC%E5%A4%A9%E7%A9%BA%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E5%85%89%E7%BA%BF%EF%BC%8C%E4%B8%8B%E6%96%B9%E6%98%AF%E7%BB%B5%E5%BB%B6%E5%BC%80%E6%9D%A5%E7%9A%84%E7%BB%86%E8%87%B4%E5%BB%BA%E7%AD%91%E3%80%82%E6%95%B4%E4%B8%AA%E7%94%BB%E9%9D%A2%E5%BC%A5%E6%BC%AB%E7%9D%80%E7%8E%B0%E5%AE%9E%E4%B8%8E%E5%B9%BB%E6%83%B3%E5%92%8C%E8%B0%90%E5%85%B1%E5%AD%98%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E7%84%A6%E7%82%B9%E9%94%90%E5%88%A9%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%B2%9C%E6%98%8E%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E5%B7%A8%E5%A4%A7%E6%97%A0%E6%AF%94%EF%BC%8C%E8%B9%B2%E5%9D%90%E5%9C%A8%E4%B8%9C%E4%BA%AC%E7%9A%84%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82%E6%99%AF%E8%A7%82%E4%B9%8B%E4%B8%8A%EF%BC%8C%E6%B8%A9%E6%9F%94%E5%9C%B0%E7%8E%AF%E6%8A%B1%E7%9D%80%E4%B8%9C%E4%BA%AC%E5%A1%94%EF%BC%8C%E5%87%9D%E8%A7%86%E7%9D%80%E9%95%9C%E5%A4%B4%E3%80%82%E6%98%8E%E4%BA%AE%E7%9A%84%E7%99%BD%E5%A4%A9%E5%A4%A9%E7%A9%BA%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E5%85%89%E7%BA%BF%EF%BC%8C%E4%B8%8B%E6%96%B9%E6%98%AF%E7%BB%B5%E5%BB%B6%E5%BC%80%E6%9D%A5%E7%9A%84%E7%BB%86%E8%87%B4%E5%BB%BA%E7%AD%91%EF%BC%8C%E8%90%A5%E9%80%A0%E5%87%BA%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E%E4%B8%8E%E5%B9%BB%E6%83%B3%E5%92%8C%E8%B0%90%E5%85%B1%E5%AD%98%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E7%84%A6%E7%82%B9%E9%94%90%E5%88%A9%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%B2%9C%E6%98%8E%E3%80%82)**
 
 ---
 
@@ -1433,12 +1433,12 @@ Expression:
 
 #### 📖 描述
 
-一个详细的提示，用于将任何主题（人物、物体、动物或场景）转化为可爱的 Q 版角色。它明确了比例（小巧的身体，超大的头部）、面部特征（大而闪烁的眼睛，愉快的表情）和美学细节（柔和的色彩，简化的细节），以创造出迷人、具有收藏价值的吉祥物形象。
+一个详细的提示，用于将任何主题（人物、物体、动物或场景）转化为可爱的 Q 版角色。它指定了比例（小身体、大头部）、面部特征（大而闪烁的眼睛、开朗的表情）和美学细节（柔和的色调、简化的细节），以创造出迷人、具有收藏价值的吉祥物外观。
 
 #### 📝 提示词
 
 ```
-将主体或图像转化为可爱的 Q 版风格角色，拥有小巧的身体和超大的头部。如果图像中包含人物或多个人物，请赋予他们大而闪烁的眼睛、柔和圆润的面部特征和愉快的表情，同时保留其可识别的特征，例如关键的面部特征、发型、配饰或独特的服装；如果图像中包含物体、动物或场景，请使用相同的 Q 版比例和简化可爱的风格重新诠释其最显著的特征。保持整体外观短小可爱，采用柔和的蜡笔色调和简化的细节。使最终图像明亮、富有表现力且具有不可抗拒的魅力，就像一个值得收藏的 Q 版吉祥物。
+将主体或图像转化为可爱的 Q 版风格角色，身体娇小，头部硕大。如果图像中包含人物或多人，请赋予他们大而闪烁的眼睛、柔和圆润的面部特征和愉快的表情，同时保留其可识别的特征，例如关键面部特征、发型、配饰或独特的服装；如果图像中包含物体、动物或场景，请使用相同的 Q 版比例和简化可爱的风格重新诠释其最显著的特征。保持整体外观短小可爱，采用柔和的蜡笔色调和简化的细节。使最终图像明亮、富有表现力且魅力十足，就像一个值得收藏的 Q 版吉祥物。
 ```
 
 #### 🖼️ 生成图片
@@ -1456,7 +1456,7 @@ Expression:
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E4%B8%BB%E4%BD%93%E6%88%96%E5%9B%BE%E5%83%8F%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%8F%AF%E7%88%B1%E7%9A%84%20Q%20%E7%89%88%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%EF%BC%8C%E6%8B%A5%E6%9C%89%E5%B0%8F%E5%B7%A7%E7%9A%84%E8%BA%AB%E4%BD%93%E5%92%8C%E8%B6%85%E5%A4%A7%E7%9A%84%E5%A4%B4%E9%83%A8%E3%80%82%E5%A6%82%E6%9E%9C%E5%9B%BE%E5%83%8F%E4%B8%AD%E5%8C%85%E5%90%AB%E4%BA%BA%E7%89%A9%E6%88%96%E5%A4%9A%E4%B8%AA%E4%BA%BA%E7%89%A9%EF%BC%8C%E8%AF%B7%E8%B5%8B%E4%BA%88%E4%BB%96%E4%BB%AC%E5%A4%A7%E8%80%8C%E9%97%AA%E7%83%81%E7%9A%84%E7%9C%BC%E7%9D%9B%E3%80%81%E6%9F%94%E5%92%8C%E5%9C%86%E6%B6%A6%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E5%92%8C%E6%84%89%E5%BF%AB%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E5%90%8C%E6%97%B6%E4%BF%9D%E7%95%99%E5%85%B6%E5%8F%AF%E8%AF%86%E5%88%AB%E7%9A%84%E7%89%B9%E5%BE%81%EF%BC%8C%E4%BE%8B%E5%A6%82%E5%85%B3%E9%94%AE%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%81%E5%8F%91%E5%9E%8B%E3%80%81%E9%85%8D%E9%A5%B0%E6%88%96%E7%8B%AC%E7%89%B9%E7%9A%84%E6%9C%8D%E8%A3%85%EF%BC%9B%E5%A6%82%E6%9E%9C%E5%9B%BE%E5%83%8F%E4%B8%AD%E5%8C%85%E5%90%AB%E7%89%A9%E4%BD%93%E3%80%81%E5%8A%A8%E7%89%A9%E6%88%96%E5%9C%BA%E6%99%AF%EF%BC%8C%E8%AF%B7%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84%20Q%20%E7%89%88%E6%AF%94%E4%BE%8B%E5%92%8C%E7%AE%80%E5%8C%96%E5%8F%AF%E7%88%B1%E7%9A%84%E9%A3%8E%E6%A0%BC%E9%87%8D%E6%96%B0%E8%AF%A0%E9%87%8A%E5%85%B6%E6%9C%80%E6%98%BE%E8%91%97%E7%9A%84%E7%89%B9%E5%BE%81%E3%80%82%E4%BF%9D%E6%8C%81%E6%95%B4%E4%BD%93%E5%A4%96%E8%A7%82%E7%9F%AD%E5%B0%8F%E5%8F%AF%E7%88%B1%EF%BC%8C%E9%87%87%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E8%9C%A1%E7%AC%94%E8%89%B2%E8%B0%83%E5%92%8C%E7%AE%80%E5%8C%96%E7%9A%84%E7%BB%86%E8%8A%82%E3%80%82%E4%BD%BF%E6%9C%80%E7%BB%88%E5%9B%BE%E5%83%8F%E6%98%8E%E4%BA%AE%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E4%B8%94%E5%85%B7%E6%9C%89%E4%B8%8D%E5%8F%AF%E6%8A%97%E6%8B%92%E7%9A%84%E9%AD%85%E5%8A%9B%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%B8%80%E4%B8%AA%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E7%9A%84%20Q%20%E7%89%88%E5%90%89%E7%A5%A5%E7%89%A9%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E4%B8%BB%E4%BD%93%E6%88%96%E5%9B%BE%E5%83%8F%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%8F%AF%E7%88%B1%E7%9A%84%20Q%20%E7%89%88%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%EF%BC%8C%E8%BA%AB%E4%BD%93%E5%A8%87%E5%B0%8F%EF%BC%8C%E5%A4%B4%E9%83%A8%E7%A1%95%E5%A4%A7%E3%80%82%E5%A6%82%E6%9E%9C%E5%9B%BE%E5%83%8F%E4%B8%AD%E5%8C%85%E5%90%AB%E4%BA%BA%E7%89%A9%E6%88%96%E5%A4%9A%E4%BA%BA%EF%BC%8C%E8%AF%B7%E8%B5%8B%E4%BA%88%E4%BB%96%E4%BB%AC%E5%A4%A7%E8%80%8C%E9%97%AA%E7%83%81%E7%9A%84%E7%9C%BC%E7%9D%9B%E3%80%81%E6%9F%94%E5%92%8C%E5%9C%86%E6%B6%A6%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E5%92%8C%E6%84%89%E5%BF%AB%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E5%90%8C%E6%97%B6%E4%BF%9D%E7%95%99%E5%85%B6%E5%8F%AF%E8%AF%86%E5%88%AB%E7%9A%84%E7%89%B9%E5%BE%81%EF%BC%8C%E4%BE%8B%E5%A6%82%E5%85%B3%E9%94%AE%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%81%E5%8F%91%E5%9E%8B%E3%80%81%E9%85%8D%E9%A5%B0%E6%88%96%E7%8B%AC%E7%89%B9%E7%9A%84%E6%9C%8D%E8%A3%85%EF%BC%9B%E5%A6%82%E6%9E%9C%E5%9B%BE%E5%83%8F%E4%B8%AD%E5%8C%85%E5%90%AB%E7%89%A9%E4%BD%93%E3%80%81%E5%8A%A8%E7%89%A9%E6%88%96%E5%9C%BA%E6%99%AF%EF%BC%8C%E8%AF%B7%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84%20Q%20%E7%89%88%E6%AF%94%E4%BE%8B%E5%92%8C%E7%AE%80%E5%8C%96%E5%8F%AF%E7%88%B1%E7%9A%84%E9%A3%8E%E6%A0%BC%E9%87%8D%E6%96%B0%E8%AF%A0%E9%87%8A%E5%85%B6%E6%9C%80%E6%98%BE%E8%91%97%E7%9A%84%E7%89%B9%E5%BE%81%E3%80%82%E4%BF%9D%E6%8C%81%E6%95%B4%E4%BD%93%E5%A4%96%E8%A7%82%E7%9F%AD%E5%B0%8F%E5%8F%AF%E7%88%B1%EF%BC%8C%E9%87%87%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E8%9C%A1%E7%AC%94%E8%89%B2%E8%B0%83%E5%92%8C%E7%AE%80%E5%8C%96%E7%9A%84%E7%BB%86%E8%8A%82%E3%80%82%E4%BD%BF%E6%9C%80%E7%BB%88%E5%9B%BE%E5%83%8F%E6%98%8E%E4%BA%AE%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E4%B8%94%E9%AD%85%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%B8%80%E4%B8%AA%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E7%9A%84%20Q%20%E7%89%88%E5%90%89%E7%A5%A5%E7%89%A9%E3%80%82)**
 
 ---
 
@@ -1504,13 +1504,13 @@ Expression:
 
 #### 📖 描述
 
-一位用户测试了新的 GPT Image 1.5 模型，发现 NanoBanana Pro 在生成包含日文文本的图像方面表现仍然更好。该用户提供了用于生成清晰解释 HTML 和 CSS 图表的具体提示词。
+一位用户测试了新的 GPT Image 1.5 模型，发现 NanoBanana Pro 在生成包含日文文本的图像方面表现仍然更好。该用户提供了用于生成清晰解释 HTML 和 CSS 的图表的具体提示词。
 
 #### 📝 提示词
 
 ```
-请生成一张图片，用非常易懂的图表解释 HTML 和 CSS。
-图片尺寸应为 {argument name="size" default="16:9"}。
+请生成一张图，用非常易懂的图表来解释 HTML 和 CSS。
+尺寸应为 {argument name="size" default="16:9"}。
 ```
 
 #### 🖼️ 生成图片
@@ -1528,7 +1528,7 @@ Expression:
 - **发布时间:** 2025年12月16日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%EF%BC%8C%E7%94%A8%E9%9D%9E%E5%B8%B8%E6%98%93%E6%87%82%E7%9A%84%E5%9B%BE%E8%A1%A8%E8%A7%A3%E9%87%8A%20HTML%20%E5%92%8C%20CSS%E3%80%82%0A%E5%9B%BE%E7%89%87%E5%B0%BA%E5%AF%B8%E5%BA%94%E4%B8%BA%20%7Bargument%20name%3D%22size%22%20default%3D%2216%3A9%22%7D%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E5%9B%BE%EF%BC%8C%E7%94%A8%E9%9D%9E%E5%B8%B8%E6%98%93%E6%87%82%E7%9A%84%E5%9B%BE%E8%A1%A8%E6%9D%A5%E8%A7%A3%E9%87%8A%20HTML%20%E5%92%8C%20CSS%E3%80%82%0A%E5%B0%BA%E5%AF%B8%E5%BA%94%E4%B8%BA%20%7Bargument%20name%3D%22size%22%20default%3D%2216%3A9%22%7D%E3%80%82)**
 
 ---
 
@@ -1676,14 +1676,14 @@ Expression:
 
 ---
 
-### No. 39: YouTube 缩略图对比：人工制作 vs. AI 效率
+### No. 39: YouTube 缩略图对比：人工努力与 AI 效率
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个详细的提示，旨在生成一个分屏 YouTube 缩略图，对比“白费力气”（人类）和“AI 零秒”（AI 机器人）。该提示详细说明了构图、配色方案（棕褐色和未来主义蓝色）、日文文本叠加以及电影级灯光，用于比较 GPT Image 1.5 和 Nano Banana Pro。
+一个详细的提示，旨在生成一个分屏 YouTube 缩略图，比较“徒劳无功”（人类）和“AI 零秒”（AI 机器人）。该提示指定了构图、配色方案（棕褐色和未来主义蓝色）、日文文本叠加以及电影级灯光，用于比较 GPT Image 1.5 和 Nano Banana Pro。
 
 #### 📝 提示词
 
@@ -1696,13 +1696,13 @@ Expression:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279488_zwny71_G8U7KCZa4AIg0xx.jpg" width="600" alt="YouTube 缩略图对比：人工制作 vs. AI 效率 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948279488_zwny71_G8U7KCZa4AIg0xx.jpg" width="600" alt="YouTube 缩略图对比：人工努力与 AI 效率 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279431_f9zwld_G8U7KoIa4AQk4zk.jpg" width="600" alt="YouTube 缩略图对比：人工制作 vs. AI 效率 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948279431_f9zwld_G8U7KoIa4AQk4zk.jpg" width="600" alt="YouTube 缩略图对比：人工努力与 AI 效率 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1789,18 +1789,18 @@ Expression:
 
 ---
 
-### No. 42: Combine These Two Photos (Image-to-Image)
+### No. 42: 合并这两张照片（图像到图像）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A concise prompt used for image manipulation or image-to-image generation, instructing the model to combine two provided reference photos.
+一个简洁的提示，用于图像处理或图像到图像的生成，指示模型组合两张提供的参考照片。
 
 #### 📝 提示词
 
 ```
-combine these two photos.
+将这两张照片合并。
 ```
 
 #### 🖼️ 生成图片
@@ -1808,13 +1808,13 @@ combine these two photos.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236337_xgdp9g_G8U0Fs5WgAAcB4y.jpg" width="600" alt="Combine These Two Photos (Image-to-Image) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948236337_xgdp9g_G8U0Fs5WgAAcB4y.jpg" width="600" alt="合并这两张照片（图像到图像） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236077_72d6we_G8U0GZaXAAEyCfW.jpg" width="600" alt="Combine These Two Photos (Image-to-Image) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948236077_72d6we_G8U0GZaXAAEyCfW.jpg" width="600" alt="合并这两张照片（图像到图像） - Image 2">
 </div>
 
 #### 📌 详情
@@ -1824,7 +1824,7 @@ combine these two photos.
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=combine%20these%20two%20photos.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E8%BF%99%E4%B8%A4%E5%BC%A0%E7%85%A7%E7%89%87%E5%90%88%E5%B9%B6%E3%80%82)**
 
 ---
 
@@ -2859,12 +2859,12 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 #### 📖 描述
 
-这是一项对 GPT Image 1.5 能力的测试，旨在评估其在保持原始艺术风格的同时，根据原始图像为角色生成特定情绪和姿势的能力。提示词指示模型生成一个兴奋地握紧拳头的角色。
+这是一项针对 GPT Image 1.5 能力的测试，旨在评估其在保持原始艺术风格的同时，根据原始图像为角色生成特定情绪和姿势的能力。提示词指示模型生成一个兴奋地握紧拳头的角色。
 
 #### 📝 提示词
 
 ```
-生成此角色兴奋地双手紧握的图像。不要改变艺术风格。
+生成此角色兴奋地握紧双手的图像。不要改变艺术风格。
 ```
 
 #### 🖼️ 生成图片
@@ -2894,7 +2894,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 - **发布时间:** 2025年12月16日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E6%AD%A4%E8%A7%92%E8%89%B2%E5%85%B4%E5%A5%8B%E5%9C%B0%E5%8F%8C%E6%89%8B%E7%B4%A7%E6%8F%A1%E7%9A%84%E5%9B%BE%E5%83%8F%E3%80%82%E4%B8%8D%E8%A6%81%E6%94%B9%E5%8F%98%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E6%AD%A4%E8%A7%92%E8%89%B2%E5%85%B4%E5%A5%8B%E5%9C%B0%E6%8F%A1%E7%B4%A7%E5%8F%8C%E6%89%8B%E7%9A%84%E5%9B%BE%E5%83%8F%E3%80%82%E4%B8%8D%E8%A6%81%E6%94%B9%E5%8F%98%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E3%80%82)**
 
 ---
 
@@ -2982,7 +2982,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 #### 📝 提示词
 
 ```
-将其向左旋转 45°。
+向左旋转 45°。
 ```
 
 #### 🖼️ 生成图片
@@ -3006,7 +3006,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E5%85%B6%E5%90%91%E5%B7%A6%E6%97%8B%E8%BD%AC%2045%C2%B0%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%90%91%E5%B7%A6%E6%97%8B%E8%BD%AC%2045%C2%B0%E3%80%82)**
 
 ---
 
@@ -3016,12 +3016,12 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 #### 📖 描述
 
-这是一个对比提示，用于测试新的 GPT Image 1.5 模型与 Nano Banana Pro，指示 AI 生成一个现有角色吃拉面的图像。这测试了模型在执行动作时保持角色一致性的能力。
+这是一个用于测试新的 GPT Image 1.5 模型与 Nano Banana Pro 的比较提示，指示 AI 生成一个现有角色吃拉面的图像。这测试了模型在执行动作时保持角色一致性的能力。
 
 #### 📝 提示词
 
 ```
-附上一个角色图片，然后生成该角色吃拉面的场景。
+附上一张角色图片，然后生成该角色吃拉面的画面。
 ```
 
 #### 🖼️ 生成图片
@@ -3045,7 +3045,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 - **发布时间:** 2025年12月16日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E9%99%84%E4%B8%8A%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%E5%9B%BE%E7%89%87%EF%BC%8C%E7%84%B6%E5%90%8E%E7%94%9F%E6%88%90%E8%AF%A5%E8%A7%92%E8%89%B2%E5%90%83%E6%8B%89%E9%9D%A2%E7%9A%84%E5%9C%BA%E6%99%AF%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E9%99%84%E4%B8%8A%E4%B8%80%E5%BC%A0%E8%A7%92%E8%89%B2%E5%9B%BE%E7%89%87%EF%BC%8C%E7%84%B6%E5%90%8E%E7%94%9F%E6%88%90%E8%AF%A5%E8%A7%92%E8%89%B2%E5%90%83%E6%8B%89%E9%9D%A2%E7%9A%84%E7%94%BB%E9%9D%A2%E3%80%82)**
 
 ---
 
@@ -3212,7 +3212,7 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 #### 📖 描述
 
-一个简单的风格修饰提示，指示 GPT Image 1.5 以 2000 年代胶片相机照片的美学风格渲染输出图像。
+一个简单的风格修饰符提示，指示 GPT Image 1.5 以 2000 年代胶片相机照片的美学风格渲染输出图像。
 
 #### 📝 提示词
 
@@ -3273,18 +3273,18 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 
 ---
 
-### No. 77: Text-to-Image Prompt: Curious Cat in Autumn Leaves
+### No. 77: 文本到图像提示：秋叶中的好奇猫咪
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A simple text-to-image prompt describing a curious cat peeking out from a pile of autumn leaves, likely used to test the general image generation capabilities of GPT Image 1.5.
+一个简单的文本转图像提示，描述了一只好奇的猫从一堆秋叶中探出头来，可能用于测试 GPT Image 1.5 的通用图像生成能力。
 
 #### 📝 提示词
 
 ```
-A curious cat peeking out from a pile of autumn leaves.
+一只好奇的猫咪从一堆秋叶中探出头来。
 ```
 
 #### 🖼️ 生成图片
@@ -3292,7 +3292,7 @@ A curious cat peeking out from a pile of autumn leaves.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948260199_bdso2y_G8UIo1eaUAA8gF2.jpg" width="600" alt="Text-to-Image Prompt: Curious Cat in Autumn Leaves - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948260199_bdso2y_G8UIo1eaUAA8gF2.jpg" width="600" alt="文本到图像提示：秋叶中的好奇猫咪 - Image 1">
 </div>
 
 #### 📌 详情
@@ -3302,7 +3302,7 @@ A curious cat peeking out from a pile of autumn leaves.
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=A%20curious%20cat%20peeking%20out%20from%20a%20pile%20of%20autumn%20leaves.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%8F%AA%E5%A5%BD%E5%A5%87%E7%9A%84%E7%8C%AB%E5%92%AA%E4%BB%8E%E4%B8%80%E5%A0%86%E7%A7%8B%E5%8F%B6%E4%B8%AD%E6%8E%A2%E5%87%BA%E5%A4%B4%E6%9D%A5%E3%80%82)**
 
 ---
 
@@ -3665,20 +3665,20 @@ A curious cat peeking out from a pile of autumn leaves.
 
 ---
 
-### No. 87: 纸上文本生成测试
+### No. 87: 文本生成测试（纸质版）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个针对 GPT Image 1.5 的简单测试提示，用于检查其准确渲染复杂文本的能力，具体要求在白纸上用黑色文字呈现日本传统故事《寿门》的开篇几行。
+一个针对 GPT Image 1.5 的简单测试提示，用于检查其准确渲染复杂文本的能力，特别是要求在白纸上用黑色文本呈现日本传统故事《寿门》的开篇几行。
 
 #### 📝 提示词
 
 ```
 请在白纸上用黑色字体书写以下内容：
-“{argument name="text" default="Jyumon (缩写)"}”
+“{argument name="text" default="Jyumon（缩写）"}”
 ```
 
 #### 🖼️ 生成图片
@@ -3686,7 +3686,7 @@ A curious cat peeking out from a pile of autumn leaves.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948274188_2sn4ix_G8UBUg0a4AQKi7Z.jpg" width="600" alt="纸上文本生成测试 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948274188_2sn4ix_G8UBUg0a4AQKi7Z.jpg" width="600" alt="文本生成测试（纸质版） - Image 1">
 </div>
 
 #### 📌 详情
@@ -3696,7 +3696,7 @@ A curious cat peeking out from a pile of autumn leaves.
 - **发布时间:** 2025年12月16日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E5%9C%A8%E7%99%BD%E7%BA%B8%E4%B8%8A%E7%94%A8%E9%BB%91%E8%89%B2%E5%AD%97%E4%BD%93%E4%B9%A6%E5%86%99%E4%BB%A5%E4%B8%8B%E5%86%85%E5%AE%B9%EF%BC%9A%0A%E2%80%9C%7Bargument%20name%3D%22text%22%20default%3D%22Jyumon%20(%E7%BC%A9%E5%86%99)%22%7D%E2%80%9D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E5%9C%A8%E7%99%BD%E7%BA%B8%E4%B8%8A%E7%94%A8%E9%BB%91%E8%89%B2%E5%AD%97%E4%BD%93%E4%B9%A6%E5%86%99%E4%BB%A5%E4%B8%8B%E5%86%85%E5%AE%B9%EF%BC%9A%0A%E2%80%9C%7Bargument%20name%3D%22text%22%20default%3D%22Jyumon%EF%BC%88%E7%BC%A9%E5%86%99%EF%BC%89%22%7D%E2%80%9D)**
 
 ---
 
@@ -3822,7 +3822,7 @@ A curious cat peeking out from a pile of autumn leaves.
 #### 📝 提示词
 
 ```
-七位美丽的魔法少女战士，分别代表星期日、星期一、星期二、星期三、星期四、星期五和星期六，在购物中心内的舞台上排成一列摆姿势。超写实风格，高清晰度，4K。
+七位美丽的魔法少女战士，分别代表星期日、星期一、星期二、星期三、星期四、星期五和星期六，在购物中心内的舞台上排成一列摆姿势。超写实风格，高清，4K。
 ```
 
 #### 🖼️ 生成图片
@@ -3846,7 +3846,7 @@ A curious cat peeking out from a pile of autumn leaves.
 - **发布时间:** 2025年12月16日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%83%E4%BD%8D%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB%EF%BC%8C%E5%88%86%E5%88%AB%E4%BB%A3%E8%A1%A8%E6%98%9F%E6%9C%9F%E6%97%A5%E3%80%81%E6%98%9F%E6%9C%9F%E4%B8%80%E3%80%81%E6%98%9F%E6%9C%9F%E4%BA%8C%E3%80%81%E6%98%9F%E6%9C%9F%E4%B8%89%E3%80%81%E6%98%9F%E6%9C%9F%E5%9B%9B%E3%80%81%E6%98%9F%E6%9C%9F%E4%BA%94%E5%92%8C%E6%98%9F%E6%9C%9F%E5%85%AD%EF%BC%8C%E5%9C%A8%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%86%85%E7%9A%84%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%8E%92%E6%88%90%E4%B8%80%E5%88%97%E6%91%86%E5%A7%BF%E5%8A%BF%E3%80%82%E8%B6%85%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%EF%BC%8C%E9%AB%98%E6%B8%85%E6%99%B0%E5%BA%A6%EF%BC%8C4K%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%83%E4%BD%8D%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB%EF%BC%8C%E5%88%86%E5%88%AB%E4%BB%A3%E8%A1%A8%E6%98%9F%E6%9C%9F%E6%97%A5%E3%80%81%E6%98%9F%E6%9C%9F%E4%B8%80%E3%80%81%E6%98%9F%E6%9C%9F%E4%BA%8C%E3%80%81%E6%98%9F%E6%9C%9F%E4%B8%89%E3%80%81%E6%98%9F%E6%9C%9F%E5%9B%9B%E3%80%81%E6%98%9F%E6%9C%9F%E4%BA%94%E5%92%8C%E6%98%9F%E6%9C%9F%E5%85%AD%EF%BC%8C%E5%9C%A8%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%86%85%E7%9A%84%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%8E%92%E6%88%90%E4%B8%80%E5%88%97%E6%91%86%E5%A7%BF%E5%8A%BF%E3%80%82%E8%B6%85%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%EF%BC%8C%E9%AB%98%E6%B8%85%EF%BC%8C4K%E3%80%82)**
 
 ---
 
@@ -4060,7 +4060,7 @@ A curious cat peeking out from a pile of autumn leaves.
 #### 📝 提示词
 
 ```
-黎明时分，宁静的湖面薄雾缭绕，一幅宁静而逼真的渲染图。
+黎明时分，宁静的湖面薄雾弥漫，一幅宁静而逼真的渲染图。
 ```
 
 #### 🖼️ 生成图片
@@ -4078,7 +4078,7 @@ A curious cat peeking out from a pile of autumn leaves.
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E9%BB%8E%E6%98%8E%E6%97%B6%E5%88%86%EF%BC%8C%E5%AE%81%E9%9D%99%E7%9A%84%E6%B9%96%E9%9D%A2%E8%96%84%E9%9B%BE%E7%BC%AD%E7%BB%95%EF%BC%8C%E4%B8%80%E5%B9%85%E5%AE%81%E9%9D%99%E8%80%8C%E9%80%BC%E7%9C%9F%E7%9A%84%E6%B8%B2%E6%9F%93%E5%9B%BE%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E9%BB%8E%E6%98%8E%E6%97%B6%E5%88%86%EF%BC%8C%E5%AE%81%E9%9D%99%E7%9A%84%E6%B9%96%E9%9D%A2%E8%96%84%E9%9B%BE%E5%BC%A5%E6%BC%AB%EF%BC%8C%E4%B8%80%E5%B9%85%E5%AE%81%E9%9D%99%E8%80%8C%E9%80%BC%E7%9C%9F%E7%9A%84%E6%B8%B2%E6%9F%93%E5%9B%BE%E3%80%82)**
 
 ---
 
@@ -4121,12 +4121,12 @@ A curious cat peeking out from a pile of autumn leaves.
 
 #### 📖 描述
 
-一个详细的提示，用于生成一张在混乱战场上摆出动态战士姿势的粗犷年轻男子的图像，强调与上传的参考图像保持一致，并突出血液、污垢和紧绷的肌肉等具体细节。
+生成一张图像的详细提示：一个粗犷的年轻男子，在混乱的战场上摆出充满活力的战士姿势，强调与上传的参考图像保持一致，并突出血液、污垢和紧绷的肌肉等具体细节。
 
 #### 📝 提示词
 
 ```
-照片中一名粗犷的年轻男子，摆出充满活力的动作姿势，面部特征 100% 相同。他脸上带着坚毅的战士表情，头发被风吹乱。他手里拿着一把沾满鲜血的长剑或砍刀。他穿着一件破烂、血迹斑斑的黑色背心和深色、沾满灰尘的裤子。他的手臂和胸部沾满了鲜血和污垢，紧绷的肌肉、汗水和泥土的细节清晰可见。背景是一个混乱、烟雾弥漫、黑暗的战场，碎屑四处飞扬。
+照片中一名粗犷的年轻男子，摆出充满活力的动作姿势，面部特征与照片 100% 一致。他脸上带着坚毅的战士表情，头发被风吹乱。他手里握着一把沾满鲜血的长剑或砍刀。他穿着一件破烂、血迹斑斑的黑色背心和深色沾满灰尘的裤子。他的手臂和胸部沾满了血迹和污垢，紧绷的肌肉、汗水和泥土的细节清晰可见。背景是一个混乱、烟雾弥漫、黑暗的战场，碎屑四处飞扬。
 ```
 
 #### 🖼️ 生成图片
@@ -4144,95 +4144,95 @@ A curious cat peeking out from a pile of autumn leaves.
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E4%B8%80%E5%90%8D%E7%B2%97%E7%8A%B7%E7%9A%84%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%AD%90%EF%BC%8C%E6%91%86%E5%87%BA%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E5%8A%A8%E4%BD%9C%E5%A7%BF%E5%8A%BF%EF%BC%8C%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%20100%25%20%E7%9B%B8%E5%90%8C%E3%80%82%E4%BB%96%E8%84%B8%E4%B8%8A%E5%B8%A6%E7%9D%80%E5%9D%9A%E6%AF%85%E7%9A%84%E6%88%98%E5%A3%AB%E8%A1%A8%E6%83%85%EF%BC%8C%E5%A4%B4%E5%8F%91%E8%A2%AB%E9%A3%8E%E5%90%B9%E4%B9%B1%E3%80%82%E4%BB%96%E6%89%8B%E9%87%8C%E6%8B%BF%E7%9D%80%E4%B8%80%E6%8A%8A%E6%B2%BE%E6%BB%A1%E9%B2%9C%E8%A1%80%E7%9A%84%E9%95%BF%E5%89%91%E6%88%96%E7%A0%8D%E5%88%80%E3%80%82%E4%BB%96%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%A0%B4%E7%83%82%E3%80%81%E8%A1%80%E8%BF%B9%E6%96%91%E6%96%91%E7%9A%84%E9%BB%91%E8%89%B2%E8%83%8C%E5%BF%83%E5%92%8C%E6%B7%B1%E8%89%B2%E3%80%81%E6%B2%BE%E6%BB%A1%E7%81%B0%E5%B0%98%E7%9A%84%E8%A3%A4%E5%AD%90%E3%80%82%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E5%92%8C%E8%83%B8%E9%83%A8%E6%B2%BE%E6%BB%A1%E4%BA%86%E9%B2%9C%E8%A1%80%E5%92%8C%E6%B1%A1%E5%9E%A2%EF%BC%8C%E7%B4%A7%E7%BB%B7%E7%9A%84%E8%82%8C%E8%82%89%E3%80%81%E6%B1%97%E6%B0%B4%E5%92%8C%E6%B3%A5%E5%9C%9F%E7%9A%84%E7%BB%86%E8%8A%82%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B7%B7%E4%B9%B1%E3%80%81%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB%E3%80%81%E9%BB%91%E6%9A%97%E7%9A%84%E6%88%98%E5%9C%BA%EF%BC%8C%E7%A2%8E%E5%B1%91%E5%9B%9B%E5%A4%84%E9%A3%9E%E6%89%AC%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%85%A7%E7%89%87%E4%B8%AD%E4%B8%80%E5%90%8D%E7%B2%97%E7%8A%B7%E7%9A%84%E5%B9%B4%E8%BD%BB%E7%94%B7%E5%AD%90%EF%BC%8C%E6%91%86%E5%87%BA%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E5%8A%A8%E4%BD%9C%E5%A7%BF%E5%8A%BF%EF%BC%8C%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E4%B8%8E%E7%85%A7%E7%89%87%20100%25%20%E4%B8%80%E8%87%B4%E3%80%82%E4%BB%96%E8%84%B8%E4%B8%8A%E5%B8%A6%E7%9D%80%E5%9D%9A%E6%AF%85%E7%9A%84%E6%88%98%E5%A3%AB%E8%A1%A8%E6%83%85%EF%BC%8C%E5%A4%B4%E5%8F%91%E8%A2%AB%E9%A3%8E%E5%90%B9%E4%B9%B1%E3%80%82%E4%BB%96%E6%89%8B%E9%87%8C%E6%8F%A1%E7%9D%80%E4%B8%80%E6%8A%8A%E6%B2%BE%E6%BB%A1%E9%B2%9C%E8%A1%80%E7%9A%84%E9%95%BF%E5%89%91%E6%88%96%E7%A0%8D%E5%88%80%E3%80%82%E4%BB%96%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%A0%B4%E7%83%82%E3%80%81%E8%A1%80%E8%BF%B9%E6%96%91%E6%96%91%E7%9A%84%E9%BB%91%E8%89%B2%E8%83%8C%E5%BF%83%E5%92%8C%E6%B7%B1%E8%89%B2%E6%B2%BE%E6%BB%A1%E7%81%B0%E5%B0%98%E7%9A%84%E8%A3%A4%E5%AD%90%E3%80%82%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E5%92%8C%E8%83%B8%E9%83%A8%E6%B2%BE%E6%BB%A1%E4%BA%86%E8%A1%80%E8%BF%B9%E5%92%8C%E6%B1%A1%E5%9E%A2%EF%BC%8C%E7%B4%A7%E7%BB%B7%E7%9A%84%E8%82%8C%E8%82%89%E3%80%81%E6%B1%97%E6%B0%B4%E5%92%8C%E6%B3%A5%E5%9C%9F%E7%9A%84%E7%BB%86%E8%8A%82%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B7%B7%E4%B9%B1%E3%80%81%E7%83%9F%E9%9B%BE%E5%BC%A5%E6%BC%AB%E3%80%81%E9%BB%91%E6%9A%97%E7%9A%84%E6%88%98%E5%9C%BA%EF%BC%8C%E7%A2%8E%E5%B1%91%E5%9B%9B%E5%A4%84%E9%A3%9E%E6%89%AC%E3%80%82)**
 
 ---
 
-### No. 100: Y2K Streetwear Fashion Editorial Portrait (JSON format)
+### No. 100: Y2K 街头服饰时尚专题肖像 (JSON 格式)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly structured JSON prompt designed for generating a Y2K streetwear fashion editorial portrait, specifying subject details, pose, camera settings, lighting, and complex graphic overlay elements.
+一个高度结构化的 JSON 提示，旨在生成 Y2K 街头服饰时尚专题肖像，详细说明了拍摄对象细节、姿势、相机设置、灯光和复杂的图形叠加元素。
 
 #### 📝 提示词
 
 ```
 {
-  "task": "fashion_editorial_portrait",
+  "task": "时尚编辑肖像",
   "face_and_hair": {
     "preserve_face": true,
     "preserve_hairstyle": true,
     "remove_glasses": true
   },
   "subject": {
-    "role": "urban_fashion_model",
-    "style": "Y2K_streetwear",
+    "role": "都市时尚模特",
+    "style": "Y2K_街头服饰",
     "clothing": {
-      "top": "oversized_graphic_t_shirt",
-      "pants": "loose_military_green_cargo_pants",
-      "shoes": "chunky_gen_z_sneakers"
+      "top": "超大_印花_T恤",
+      "pants": "宽松_军绿色_工装裤",
+      "shoes": "厚底_Z世代_运动鞋"
     },
     "pose": {
-      "position": "sitting_on_ground",
-      "environment": "colorful_outdoor_basketball_court",
-      "legs": "one_knee_raised_other_leg_extended",
+      "position": "坐在_地上",
+      "environment": "彩色_户外_篮球场",
+      "legs": "一膝_抬起_另一腿_伸展",
       "hands": {
-        "hand_1": "resting_on_raised_knee",
-        "hand_2": "relaxed_on_ground_or_side"
+        "hand_1": "放在_抬起的_膝盖上",
+        "hand_2": "放松地_放在_地上_或_身侧"
       },
-      "head": "slightly_tilted_down",
-      "gaze": "looking_directly_into_camera",
-      "expression": "confident_fashion_arrogant"
+      "head": "略微_向下_倾斜",
+      "gaze": "直视_镜头",
+      "expression": "自信_时尚_傲慢"
     }
   },
   "camera_and_lighting": {
-    "angle": "high_angle_picado",
-    "camera_type": "mirrorless_camera",
-    "lens": "slightly_wide_angle_soft_fisheye",
-    "framing": "wide_frame_full_body",
-    "lighting": "natural_daylight",
+    "angle": "高角度_俯拍",
+    "camera_type": "无反相机",
+    "lens": "略微_广角_柔和_鱼眼",
+    "framing": "宽幅_全身_构图",
+    "lighting": "自然_日光",
     "background": {
-      "sky": "realistic_blue_sky",
-      "cityscape": "Jakarta_cityscape_in_background",
-      "court_surface": "colorful_outdoor_basketball_court_with_painted_lines"
+      "sky": "逼真_蓝色_天空",
+      "cityscape": "背景中_的_雅加达_城市风光",
+      "court_surface": "带有_彩绘_线条_的_彩色_户外_篮球场"
     }
   },
   "graphic_elements": {
-    "style": "urban_doodles_and_pop_art",
-    "placement": "around_model_and_environment",
+    "style": "都市_涂鸦_和_波普艺术",
+    "placement": "围绕_模特_和_环境",
     "elements": [
-      "colorful_flames_rising_behind_and_around_subject",
-      "blood_strike_game_inspired_drawings_floating",
-      "liquid_fluid_shapes_flowing_around_body",
-      "abstract_funky_strokes",
-      "oversized_stickers",
-      "dynamic_typography_doodles"
+      "围绕_主体_和_身后_升腾_的_彩色_火焰",
+      "受_《血腥打击》游戏_启发_的_漂浮_绘画",
+      "围绕_身体_流淌_的_液体_流体_形状",
+      "抽象_时髦_笔触",
+      "超大_贴纸",
+      "动态_排版_涂鸦"
     ],
     "colors": [
-      "neon_yellow",
-      "neon_blue",
-      "neon_cyan",
-      "neon_orange",
-      "neon_red"
+      "霓虹黄",
+      "霓虹蓝",
+      "霓虹青",
+      "霓虹橙",
+      "霓虹红"
     ],
     "behavior": {
-      "size_variation": "small_medium_large_mixed",
-      "distribution": "random_but_visually_balanced",
-      "integration": "blending_with_subject_clothing_folds_accessories_and_background_walls",
-      "visibility": "clearly_visible_not_too_tiny"
+      "size_variation": "大小_混合",
+      "distribution": "随机_但_视觉_平衡",
+      "integration": "与_主体_服装_褶皱_配饰_和_背景墙_融合",
+      "visibility": "清晰_可见_不_过小"
     }
   },
   "look_and_mood": {
-    "vibe": "vibrant_funky_Y2K",
-    "energy": "high_energy_playful",
-    "color_saturation": "high",
-    "contrast": "strong",
-    "aesthetic": "youth_urban_culture_with_modern_pop_art_twist",
-    "tone": "editorial_but_fun",
-    "blend": "real_photography_plus_bold_illustration_overlay",
-    "use_case": "funky_colorful_surreal_urban_clothing_advertising"
+    "vibe": "活力_时髦_Y2K",
+    "energy": "高能量_俏皮",
+    "color_saturation": "高",
+    "contrast": "强烈",
+    "aesthetic": "青年_都市文化_与_现代_波普艺术_的_融合",
+    "tone": "编辑_但_有趣",
+    "blend": "真实_摄影_加_大胆_插画_叠加",
+    "use_case": "时髦_彩色_超现实_都市_服装_广告"
   }
 }
 ```
@@ -4242,7 +4242,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948285803_69f2yi_G8Spq1ya4AcV3k-.jpg" width="600" alt="Y2K Streetwear Fashion Editorial Portrait (JSON format) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948285803_69f2yi_G8Spq1ya4AcV3k-.jpg" width="600" alt="Y2K 街头服饰时尚专题肖像 (JSON 格式) - Image 1">
 </div>
 
 #### 📌 详情
@@ -4252,7 +4252,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22fashion_editorial_portrait%22%2C%0A%20%20%22face_and_hair%22%3A%20%7B%0A%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%22preserve_hairstyle%22%3A%20true%2C%0A%20%20%20%20%22remove_glasses%22%3A%20true%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22role%22%3A%20%22urban_fashion_model%22%2C%0A%20%20%20%20%22style%22%3A%20%22Y2K_streetwear%22%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22oversized_graphic_t_shirt%22%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%22loose_military_green_cargo_pants%22%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%22chunky_gen_z_sneakers%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22sitting_on_ground%22%2C%0A%20%20%20%20%20%20%22environment%22%3A%20%22colorful_outdoor_basketball_court%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22one_knee_raised_other_leg_extended%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22hand_1%22%3A%20%22resting_on_raised_knee%22%2C%0A%20%20%20%20%20%20%20%20%22hand_2%22%3A%20%22relaxed_on_ground_or_side%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22slightly_tilted_down%22%2C%0A%20%20%20%20%20%20%22gaze%22%3A%20%22looking_directly_into_camera%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22confident_fashion_arrogant%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22camera_and_lighting%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22high_angle_picado%22%2C%0A%20%20%20%20%22camera_type%22%3A%20%22mirrorless_camera%22%2C%0A%20%20%20%20%22lens%22%3A%20%22slightly_wide_angle_soft_fisheye%22%2C%0A%20%20%20%20%22framing%22%3A%20%22wide_frame_full_body%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22natural_daylight%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22sky%22%3A%20%22realistic_blue_sky%22%2C%0A%20%20%20%20%20%20%22cityscape%22%3A%20%22Jakarta_cityscape_in_background%22%2C%0A%20%20%20%20%20%20%22court_surface%22%3A%20%22colorful_outdoor_basketball_court_with_painted_lines%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22graphic_elements%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22urban_doodles_and_pop_art%22%2C%0A%20%20%20%20%22placement%22%3A%20%22around_model_and_environment%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22colorful_flames_rising_behind_and_around_subject%22%2C%0A%20%20%20%20%20%20%22blood_strike_game_inspired_drawings_floating%22%2C%0A%20%20%20%20%20%20%22liquid_fluid_shapes_flowing_around_body%22%2C%0A%20%20%20%20%20%20%22abstract_funky_strokes%22%2C%0A%20%20%20%20%20%20%22oversized_stickers%22%2C%0A%20%20%20%20%20%20%22dynamic_typography_doodles%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22colors%22%3A%20%5B%0A%20%20%20%20%20%20%22neon_yellow%22%2C%0A%20%20%20%20%20%20%22neon_blue%22%2C%0A%20%20%20%20%20%20%22neon_cyan%22%2C%0A%20%20%20%20%20%20%22neon_orange%22%2C%0A%20%20%20%20%20%20%22neon_red%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22behavior%22%3A%20%7B%0A%20%20%20%20%20%20%22size_variation%22%3A%20%22small_medium_large_mixed%22%2C%0A%20%20%20%20%20%20%22distribution%22%3A%20%22random_but_visually_balanced%22%2C%0A%20%20%20%20%20%20%22integration%22%3A%20%22blending_with_subject_clothing_folds_accessories_and_background_walls%22%2C%0A%20%20%20%20%20%20%22visibility%22%3A%20%22clearly_visible_not_too_tiny%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22look_and_mood%22%3A%20%7B%0A%20%20%20%20%22vibe%22%3A%20%22vibrant_funky_Y2K%22%2C%0A%20%20%20%20%22energy%22%3A%20%22high_energy_playful%22%2C%0A%20%20%20%20%22color_saturation%22%3A%20%22high%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22strong%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%22youth_urban_culture_with_modern_pop_art_twist%22%2C%0A%20%20%20%20%22tone%22%3A%20%22editorial_but_fun%22%2C%0A%20%20%20%20%22blend%22%3A%20%22real_photography_plus_bold_illustration_overlay%22%2C%0A%20%20%20%20%22use_case%22%3A%20%22funky_colorful_surreal_urban_clothing_advertising%22%0A%20%20%7D%0A%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E8%82%96%E5%83%8F%22%2C%0A%20%20%22face_and_hair%22%3A%20%7B%0A%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%22preserve_hairstyle%22%3A%20true%2C%0A%20%20%20%20%22remove_glasses%22%3A%20true%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22role%22%3A%20%22%E9%83%BD%E5%B8%82%E6%97%B6%E5%B0%9A%E6%A8%A1%E7%89%B9%22%2C%0A%20%20%20%20%22style%22%3A%20%22Y2K_%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%22%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%E8%B6%85%E5%A4%A7_%E5%8D%B0%E8%8A%B1_T%E6%81%A4%22%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%22%E5%AE%BD%E6%9D%BE_%E5%86%9B%E7%BB%BF%E8%89%B2_%E5%B7%A5%E8%A3%85%E8%A3%A4%22%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%22%E5%8E%9A%E5%BA%95_Z%E4%B8%96%E4%BB%A3_%E8%BF%90%E5%8A%A8%E9%9E%8B%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E5%9D%90%E5%9C%A8_%E5%9C%B0%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%22environment%22%3A%20%22%E5%BD%A9%E8%89%B2_%E6%88%B7%E5%A4%96_%E7%AF%AE%E7%90%83%E5%9C%BA%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22%E4%B8%80%E8%86%9D_%E6%8A%AC%E8%B5%B7_%E5%8F%A6%E4%B8%80%E8%85%BF_%E4%BC%B8%E5%B1%95%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22hand_1%22%3A%20%22%E6%94%BE%E5%9C%A8_%E6%8A%AC%E8%B5%B7%E7%9A%84_%E8%86%9D%E7%9B%96%E4%B8%8A%22%2C%0A%20%20%20%20%20%20%20%20%22hand_2%22%3A%20%22%E6%94%BE%E6%9D%BE%E5%9C%B0_%E6%94%BE%E5%9C%A8_%E5%9C%B0%E4%B8%8A_%E6%88%96_%E8%BA%AB%E4%BE%A7%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22%E7%95%A5%E5%BE%AE_%E5%90%91%E4%B8%8B_%E5%80%BE%E6%96%9C%22%2C%0A%20%20%20%20%20%20%22gaze%22%3A%20%22%E7%9B%B4%E8%A7%86_%E9%95%9C%E5%A4%B4%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E8%87%AA%E4%BF%A1_%E6%97%B6%E5%B0%9A_%E5%82%B2%E6%85%A2%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22camera_and_lighting%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22%E9%AB%98%E8%A7%92%E5%BA%A6_%E4%BF%AF%E6%8B%8D%22%2C%0A%20%20%20%20%22camera_type%22%3A%20%22%E6%97%A0%E5%8F%8D%E7%9B%B8%E6%9C%BA%22%2C%0A%20%20%20%20%22lens%22%3A%20%22%E7%95%A5%E5%BE%AE_%E5%B9%BF%E8%A7%92_%E6%9F%94%E5%92%8C_%E9%B1%BC%E7%9C%BC%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%E5%AE%BD%E5%B9%85_%E5%85%A8%E8%BA%AB_%E6%9E%84%E5%9B%BE%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E8%87%AA%E7%84%B6_%E6%97%A5%E5%85%89%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22sky%22%3A%20%22%E9%80%BC%E7%9C%9F_%E8%93%9D%E8%89%B2_%E5%A4%A9%E7%A9%BA%22%2C%0A%20%20%20%20%20%20%22cityscape%22%3A%20%22%E8%83%8C%E6%99%AF%E4%B8%AD_%E7%9A%84_%E9%9B%85%E5%8A%A0%E8%BE%BE_%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89%22%2C%0A%20%20%20%20%20%20%22court_surface%22%3A%20%22%E5%B8%A6%E6%9C%89_%E5%BD%A9%E7%BB%98_%E7%BA%BF%E6%9D%A1_%E7%9A%84_%E5%BD%A9%E8%89%B2_%E6%88%B7%E5%A4%96_%E7%AF%AE%E7%90%83%E5%9C%BA%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22graphic_elements%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%E9%83%BD%E5%B8%82_%E6%B6%82%E9%B8%A6_%E5%92%8C_%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF%22%2C%0A%20%20%20%20%22placement%22%3A%20%22%E5%9B%B4%E7%BB%95_%E6%A8%A1%E7%89%B9_%E5%92%8C_%E7%8E%AF%E5%A2%83%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%E5%9B%B4%E7%BB%95_%E4%B8%BB%E4%BD%93_%E5%92%8C_%E8%BA%AB%E5%90%8E_%E5%8D%87%E8%85%BE_%E7%9A%84_%E5%BD%A9%E8%89%B2_%E7%81%AB%E7%84%B0%22%2C%0A%20%20%20%20%20%20%22%E5%8F%97_%E3%80%8A%E8%A1%80%E8%85%A5%E6%89%93%E5%87%BB%E3%80%8B%E6%B8%B8%E6%88%8F_%E5%90%AF%E5%8F%91_%E7%9A%84_%E6%BC%82%E6%B5%AE_%E7%BB%98%E7%94%BB%22%2C%0A%20%20%20%20%20%20%22%E5%9B%B4%E7%BB%95_%E8%BA%AB%E4%BD%93_%E6%B5%81%E6%B7%8C_%E7%9A%84_%E6%B6%B2%E4%BD%93_%E6%B5%81%E4%BD%93_%E5%BD%A2%E7%8A%B6%22%2C%0A%20%20%20%20%20%20%22%E6%8A%BD%E8%B1%A1_%E6%97%B6%E9%AB%A6_%E7%AC%94%E8%A7%A6%22%2C%0A%20%20%20%20%20%20%22%E8%B6%85%E5%A4%A7_%E8%B4%B4%E7%BA%B8%22%2C%0A%20%20%20%20%20%20%22%E5%8A%A8%E6%80%81_%E6%8E%92%E7%89%88_%E6%B6%82%E9%B8%A6%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22colors%22%3A%20%5B%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E9%BB%84%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E8%93%9D%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E9%9D%92%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E6%A9%99%22%2C%0A%20%20%20%20%20%20%22%E9%9C%93%E8%99%B9%E7%BA%A2%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22behavior%22%3A%20%7B%0A%20%20%20%20%20%20%22size_variation%22%3A%20%22%E5%A4%A7%E5%B0%8F_%E6%B7%B7%E5%90%88%22%2C%0A%20%20%20%20%20%20%22distribution%22%3A%20%22%E9%9A%8F%E6%9C%BA_%E4%BD%86_%E8%A7%86%E8%A7%89_%E5%B9%B3%E8%A1%A1%22%2C%0A%20%20%20%20%20%20%22integration%22%3A%20%22%E4%B8%8E_%E4%B8%BB%E4%BD%93_%E6%9C%8D%E8%A3%85_%E8%A4%B6%E7%9A%B1_%E9%85%8D%E9%A5%B0_%E5%92%8C_%E8%83%8C%E6%99%AF%E5%A2%99_%E8%9E%8D%E5%90%88%22%2C%0A%20%20%20%20%20%20%22visibility%22%3A%20%22%E6%B8%85%E6%99%B0_%E5%8F%AF%E8%A7%81_%E4%B8%8D_%E8%BF%87%E5%B0%8F%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22look_and_mood%22%3A%20%7B%0A%20%20%20%20%22vibe%22%3A%20%22%E6%B4%BB%E5%8A%9B_%E6%97%B6%E9%AB%A6_Y2K%22%2C%0A%20%20%20%20%22energy%22%3A%20%22%E9%AB%98%E8%83%BD%E9%87%8F_%E4%BF%8F%E7%9A%AE%22%2C%0A%20%20%20%20%22color_saturation%22%3A%20%22%E9%AB%98%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%E5%BC%BA%E7%83%88%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%22%E9%9D%92%E5%B9%B4_%E9%83%BD%E5%B8%82%E6%96%87%E5%8C%96_%E4%B8%8E_%E7%8E%B0%E4%BB%A3_%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF_%E7%9A%84_%E8%9E%8D%E5%90%88%22%2C%0A%20%20%20%20%22tone%22%3A%20%22%E7%BC%96%E8%BE%91_%E4%BD%86_%E6%9C%89%E8%B6%A3%22%2C%0A%20%20%20%20%22blend%22%3A%20%22%E7%9C%9F%E5%AE%9E_%E6%91%84%E5%BD%B1_%E5%8A%A0_%E5%A4%A7%E8%83%86_%E6%8F%92%E7%94%BB_%E5%8F%A0%E5%8A%A0%22%2C%0A%20%20%20%20%22use_case%22%3A%20%22%E6%97%B6%E9%AB%A6_%E5%BD%A9%E8%89%B2_%E8%B6%85%E7%8E%B0%E5%AE%9E_%E9%83%BD%E5%B8%82_%E6%9C%8D%E8%A3%85_%E5%B9%BF%E5%91%8A%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -4334,18 +4334,18 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 103: 基于中国古典诗词的逼真图像生成
+### No. 103: 基于中国古典诗词的真实感图像生成
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-此提示使用一首著名的中国古典诗歌（《咏鹅》）来营造场景和氛围，要求生成一张具有特定相机参数和纹理细节的超现实高清图像，以模拟真实的肖像摄影风格。
+此提示使用一首著名的中国古典诗词（《咏鹅》）来营造场景和氛围，要求生成一张具有特定相机参数和纹理细节的超写实高清图像，以模拟真实的肖像摄影风格。
 
 #### 📝 提示词
 
 ```
-请根据参考图片中的诗句生成一个真实的场景，要求写实、具有摄影作品的质感，达到相机级别，摄影风格，真实生活肖像，人物高清，细节完美，人物完美，皮肤纹理：
+请根据参考图片中的诗句生成一个真实的场景，要求写实、摄影作品风格，相机级别，摄影风格，真实生活肖像，人物高清，细节完美，人物完美，皮肤纹理：
 
 “鹅，鹅，鹅，曲项向天歌。白毛浮绿水，红掌拨清波。”
 ```
@@ -4355,13 +4355,13 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948272434_5uhppm_G8SKioRacAA4Qo4.jpg" width="600" alt="基于中国古典诗词的逼真图像生成 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948272434_5uhppm_G8SKioRacAA4Qo4.jpg" width="600" alt="基于中国古典诗词的真实感图像生成 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948273120_652gyx_G8SKioJa4AAkgyn.jpg" width="600" alt="基于中国古典诗词的逼真图像生成 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948273120_652gyx_G8SKioJa4AAkgyn.jpg" width="600" alt="基于中国古典诗词的真实感图像生成 - Image 2">
 </div>
 
 #### 📌 详情
@@ -4371,11 +4371,11 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 - **发布时间:** 2025年12月16日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E6%A0%B9%E6%8D%AE%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E7%9A%84%E8%AF%97%E5%8F%A5%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%9C%BA%E6%99%AF%EF%BC%8C%E8%A6%81%E6%B1%82%E5%86%99%E5%AE%9E%E3%80%81%E5%85%B7%E6%9C%89%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81%E7%9A%84%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%BE%BE%E5%88%B0%E7%9B%B8%E6%9C%BA%E7%BA%A7%E5%88%AB%EF%BC%8C%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%E8%82%96%E5%83%8F%EF%BC%8C%E4%BA%BA%E7%89%A9%E9%AB%98%E6%B8%85%EF%BC%8C%E7%BB%86%E8%8A%82%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BA%BA%E7%89%A9%E5%AE%8C%E7%BE%8E%EF%BC%8C%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%EF%BC%9A%0A%0A%E2%80%9C%E9%B9%85%EF%BC%8C%E9%B9%85%EF%BC%8C%E9%B9%85%EF%BC%8C%E6%9B%B2%E9%A1%B9%E5%90%91%E5%A4%A9%E6%AD%8C%E3%80%82%E7%99%BD%E6%AF%9B%E6%B5%AE%E7%BB%BF%E6%B0%B4%EF%BC%8C%E7%BA%A2%E6%8E%8C%E6%8B%A8%E6%B8%85%E6%B3%A2%E3%80%82%E2%80%9D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E6%A0%B9%E6%8D%AE%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E7%9A%84%E8%AF%97%E5%8F%A5%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%9C%BA%E6%99%AF%EF%BC%8C%E8%A6%81%E6%B1%82%E5%86%99%E5%AE%9E%E3%80%81%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%9B%B8%E6%9C%BA%E7%BA%A7%E5%88%AB%EF%BC%8C%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%E8%82%96%E5%83%8F%EF%BC%8C%E4%BA%BA%E7%89%A9%E9%AB%98%E6%B8%85%EF%BC%8C%E7%BB%86%E8%8A%82%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BA%BA%E7%89%A9%E5%AE%8C%E7%BE%8E%EF%BC%8C%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%EF%BC%9A%0A%0A%E2%80%9C%E9%B9%85%EF%BC%8C%E9%B9%85%EF%BC%8C%E9%B9%85%EF%BC%8C%E6%9B%B2%E9%A1%B9%E5%90%91%E5%A4%A9%E6%AD%8C%E3%80%82%E7%99%BD%E6%AF%9B%E6%B5%AE%E7%BB%BF%E6%B0%B4%EF%BC%8C%E7%BA%A2%E6%8E%8C%E6%8B%A8%E6%B8%85%E6%B3%A2%E3%80%82%E2%80%9D)**
 
 ---
 
-### No. 104: 双风格艺术素描，融合刺绣与圆珠笔纹理
+### No. 104: 刺绣与圆珠笔纹理双重风格艺术素描
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4391,21 +4391,21 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 [核心主体]:
 
-严格遵循上传参考图片中主体的轮廓、细节、特征、质感、姿态和整体气质（权重至少 1.6 或更高）。
+严格遵循上传参考图像中主体的轮廓、细节、特征、质感、姿态和整体气质（权重至少 1.6 或更高）。
 
-主体以极简线条勾勒，保留参考图片的核心结构和形态特征。如果主体有人脸或表情，以抽象或极简方式呈现其神态；如果是物体或建筑，则强调其轮廓和结构感。仅用少量笔触暗示主体的必要结构（如衣物、底座或环境连接）。
+主体以极简线条勾勒，保留参考图像的核心结构和形态特征。如果主体有人脸或表情，则以抽象或极简方式呈现其神态；如果是物体或建筑，则强调其轮廓和结构感。仅用少量笔触暗示主体的必要结构（例如衣物、底座或环境连接）。
 
 艺术风格与材质:
 
-画面完全由 (深靛蓝色锯齿状线条:1.5) 构成，笔触短促密集，高度模仿缝纫针脚或圆珠笔涂鸦的干涩质感。线条边缘粗糙，而非平滑曲线。背景必须是高清的 (米白色亚麻画布纹理:1.4)，清晰展现织物的纹理和经纬细节，营造出实体艺术品的错觉。
+图像完全由 (深靛蓝色锯齿状线条:1.5) 构成，笔触短促而密集，高度模仿缝纫针迹或圆珠笔涂鸦的干涩质感。线条边缘粗糙，而非平滑曲线。背景必须是高清的 (米白色亚麻画布纹理:1.4)，清晰展现织物的纹理和经纬细节，营造出实体艺术品的错觉。
 
 构图与细节:
 
-极简构图，留白丰富，主体在画面中位置得当。画面右上角包含 (两行竖向手写文字:1.3)：“{argument name="watermark text" default="@wuzhutisushuo"}”，字体随意自然，起到平衡构图的作用。
+极简构图，留白丰富，主体在画面中位置得当。图像右上角包含 (两行垂直手写文字:1.3)：“{argument name="watermark text" default="@wuzhutisushuo"}”，字体随意自然，起到平衡构图的作用。
 
 色彩与光线:
 
-严格的双色调模式，仅包含深靛蓝色线条和米白色背景。无复杂光线；主体的结构、体量和阴影区域通过线条的密度和排列来暗示。整体氛围呈现日式杂志插画风格，传达出一种孤独和内省的诗意。
+严格的双色调模式，仅包含深靛蓝色线条和米白色背景。无复杂光线；主体的结构、体积和阴影区域通过线条的密度和排列来暗示。整体氛围呈现日式杂志插画风格，传达出一种孤独和内省的诗意。
 ```
 
 #### 🖼️ 生成图片
@@ -4413,7 +4413,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948275562_w0vc5l_G8SKON2a4AEFuSi.jpg" width="600" alt="双风格艺术素描，融合刺绣与圆珠笔纹理 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948275562_w0vc5l_G8SKON2a4AEFuSi.jpg" width="600" alt="刺绣与圆珠笔纹理双重风格艺术素描 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4423,7 +4423,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 - **发布时间:** 2025年12月16日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%B9%85%E6%9E%81%E5%85%B7%E8%89%BA%E6%9C%AF%E6%84%9F%E7%9A%84%20%5B%7Bargument%20name%3D%22subject%20type%22%20default%3D%22%E5%8D%8A%E8%BA%AB%E8%82%96%E5%83%8F%22%7D%5D%EF%BC%8C%E9%87%87%E7%94%A8%E7%8B%AC%E7%89%B9%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F%EF%BC%8C%E7%BB%93%E5%90%88%E4%BA%86%20(%E6%89%8B%E7%BB%A3%E9%A3%8E%E6%A0%BC%3A1.4)%20%E5%92%8C%20(%E7%B2%97%E7%8A%B7%E5%9C%86%E7%8F%A0%E7%AC%94%E7%B4%A0%E6%8F%8F%3A1.2)%E3%80%82%0A%0A%5B%E6%A0%B8%E5%BF%83%E4%B8%BB%E4%BD%93%5D%3A%0A%0A%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%B8%8A%E4%BC%A0%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E4%B8%BB%E4%BD%93%E7%9A%84%E8%BD%AE%E5%BB%93%E3%80%81%E7%BB%86%E8%8A%82%E3%80%81%E7%89%B9%E5%BE%81%E3%80%81%E8%B4%A8%E6%84%9F%E3%80%81%E5%A7%BF%E6%80%81%E5%92%8C%E6%95%B4%E4%BD%93%E6%B0%94%E8%B4%A8%EF%BC%88%E6%9D%83%E9%87%8D%E8%87%B3%E5%B0%91%201.6%20%E6%88%96%E6%9B%B4%E9%AB%98%EF%BC%89%E3%80%82%0A%0A%E4%B8%BB%E4%BD%93%E4%BB%A5%E6%9E%81%E7%AE%80%E7%BA%BF%E6%9D%A1%E5%8B%BE%E5%8B%92%EF%BC%8C%E4%BF%9D%E7%95%99%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E7%9A%84%E6%A0%B8%E5%BF%83%E7%BB%93%E6%9E%84%E5%92%8C%E5%BD%A2%E6%80%81%E7%89%B9%E5%BE%81%E3%80%82%E5%A6%82%E6%9E%9C%E4%B8%BB%E4%BD%93%E6%9C%89%E4%BA%BA%E8%84%B8%E6%88%96%E8%A1%A8%E6%83%85%EF%BC%8C%E4%BB%A5%E6%8A%BD%E8%B1%A1%E6%88%96%E6%9E%81%E7%AE%80%E6%96%B9%E5%BC%8F%E5%91%88%E7%8E%B0%E5%85%B6%E7%A5%9E%E6%80%81%EF%BC%9B%E5%A6%82%E6%9E%9C%E6%98%AF%E7%89%A9%E4%BD%93%E6%88%96%E5%BB%BA%E7%AD%91%EF%BC%8C%E5%88%99%E5%BC%BA%E8%B0%83%E5%85%B6%E8%BD%AE%E5%BB%93%E5%92%8C%E7%BB%93%E6%9E%84%E6%84%9F%E3%80%82%E4%BB%85%E7%94%A8%E5%B0%91%E9%87%8F%E7%AC%94%E8%A7%A6%E6%9A%97%E7%A4%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E5%BF%85%E8%A6%81%E7%BB%93%E6%9E%84%EF%BC%88%E5%A6%82%E8%A1%A3%E7%89%A9%E3%80%81%E5%BA%95%E5%BA%A7%E6%88%96%E7%8E%AF%E5%A2%83%E8%BF%9E%E6%8E%A5%EF%BC%89%E3%80%82%0A%0A%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E4%B8%8E%E6%9D%90%E8%B4%A8%3A%0A%0A%E7%94%BB%E9%9D%A2%E5%AE%8C%E5%85%A8%E7%94%B1%20(%E6%B7%B1%E9%9D%9B%E8%93%9D%E8%89%B2%E9%94%AF%E9%BD%BF%E7%8A%B6%E7%BA%BF%E6%9D%A1%3A1.5)%20%E6%9E%84%E6%88%90%EF%BC%8C%E7%AC%94%E8%A7%A6%E7%9F%AD%E4%BF%83%E5%AF%86%E9%9B%86%EF%BC%8C%E9%AB%98%E5%BA%A6%E6%A8%A1%E4%BB%BF%E7%BC%9D%E7%BA%AB%E9%92%88%E8%84%9A%E6%88%96%E5%9C%86%E7%8F%A0%E7%AC%94%E6%B6%82%E9%B8%A6%E7%9A%84%E5%B9%B2%E6%B6%A9%E8%B4%A8%E6%84%9F%E3%80%82%E7%BA%BF%E6%9D%A1%E8%BE%B9%E7%BC%98%E7%B2%97%E7%B3%99%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E6%BB%91%E6%9B%B2%E7%BA%BF%E3%80%82%E8%83%8C%E6%99%AF%E5%BF%85%E9%A1%BB%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%20(%E7%B1%B3%E7%99%BD%E8%89%B2%E4%BA%9A%E9%BA%BB%E7%94%BB%E5%B8%83%E7%BA%B9%E7%90%86%3A1.4)%EF%BC%8C%E6%B8%85%E6%99%B0%E5%B1%95%E7%8E%B0%E7%BB%87%E7%89%A9%E7%9A%84%E7%BA%B9%E7%90%86%E5%92%8C%E7%BB%8F%E7%BA%AC%E7%BB%86%E8%8A%82%EF%BC%8C%E8%90%A5%E9%80%A0%E5%87%BA%E5%AE%9E%E4%BD%93%E8%89%BA%E6%9C%AF%E5%93%81%E7%9A%84%E9%94%99%E8%A7%89%E3%80%82%0A%0A%E6%9E%84%E5%9B%BE%E4%B8%8E%E7%BB%86%E8%8A%82%3A%0A%0A%E6%9E%81%E7%AE%80%E6%9E%84%E5%9B%BE%EF%BC%8C%E7%95%99%E7%99%BD%E4%B8%B0%E5%AF%8C%EF%BC%8C%E4%B8%BB%E4%BD%93%E5%9C%A8%E7%94%BB%E9%9D%A2%E4%B8%AD%E4%BD%8D%E7%BD%AE%E5%BE%97%E5%BD%93%E3%80%82%E7%94%BB%E9%9D%A2%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8C%85%E5%90%AB%20(%E4%B8%A4%E8%A1%8C%E7%AB%96%E5%90%91%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%3A1.3)%EF%BC%9A%E2%80%9C%7Bargument%20name%3D%22watermark%20text%22%20default%3D%22%40wuzhutisushuo%22%7D%E2%80%9D%EF%BC%8C%E5%AD%97%E4%BD%93%E9%9A%8F%E6%84%8F%E8%87%AA%E7%84%B6%EF%BC%8C%E8%B5%B7%E5%88%B0%E5%B9%B3%E8%A1%A1%E6%9E%84%E5%9B%BE%E7%9A%84%E4%BD%9C%E7%94%A8%E3%80%82%0A%0A%E8%89%B2%E5%BD%A9%E4%B8%8E%E5%85%89%E7%BA%BF%3A%0A%0A%E4%B8%A5%E6%A0%BC%E7%9A%84%E5%8F%8C%E8%89%B2%E8%B0%83%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BB%85%E5%8C%85%E5%90%AB%E6%B7%B1%E9%9D%9B%E8%93%9D%E8%89%B2%E7%BA%BF%E6%9D%A1%E5%92%8C%E7%B1%B3%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E6%97%A0%E5%A4%8D%E6%9D%82%E5%85%89%E7%BA%BF%EF%BC%9B%E4%B8%BB%E4%BD%93%E7%9A%84%E7%BB%93%E6%9E%84%E3%80%81%E4%BD%93%E9%87%8F%E5%92%8C%E9%98%B4%E5%BD%B1%E5%8C%BA%E5%9F%9F%E9%80%9A%E8%BF%87%E7%BA%BF%E6%9D%A1%E7%9A%84%E5%AF%86%E5%BA%A6%E5%92%8C%E6%8E%92%E5%88%97%E6%9D%A5%E6%9A%97%E7%A4%BA%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E5%91%88%E7%8E%B0%E6%97%A5%E5%BC%8F%E6%9D%82%E5%BF%97%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%8C%E4%BC%A0%E8%BE%BE%E5%87%BA%E4%B8%80%E7%A7%8D%E5%AD%A4%E7%8B%AC%E5%92%8C%E5%86%85%E7%9C%81%E7%9A%84%E8%AF%97%E6%84%8F%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%B9%85%E6%9E%81%E5%85%B7%E8%89%BA%E6%9C%AF%E6%84%9F%E7%9A%84%20%5B%7Bargument%20name%3D%22subject%20type%22%20default%3D%22%E5%8D%8A%E8%BA%AB%E8%82%96%E5%83%8F%22%7D%5D%EF%BC%8C%E9%87%87%E7%94%A8%E7%8B%AC%E7%89%B9%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F%EF%BC%8C%E7%BB%93%E5%90%88%E4%BA%86%20(%E6%89%8B%E7%BB%A3%E9%A3%8E%E6%A0%BC%3A1.4)%20%E5%92%8C%20(%E7%B2%97%E7%8A%B7%E5%9C%86%E7%8F%A0%E7%AC%94%E7%B4%A0%E6%8F%8F%3A1.2)%E3%80%82%0A%0A%5B%E6%A0%B8%E5%BF%83%E4%B8%BB%E4%BD%93%5D%3A%0A%0A%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%B8%8A%E4%BC%A0%E5%8F%82%E8%80%83%E5%9B%BE%E5%83%8F%E4%B8%AD%E4%B8%BB%E4%BD%93%E7%9A%84%E8%BD%AE%E5%BB%93%E3%80%81%E7%BB%86%E8%8A%82%E3%80%81%E7%89%B9%E5%BE%81%E3%80%81%E8%B4%A8%E6%84%9F%E3%80%81%E5%A7%BF%E6%80%81%E5%92%8C%E6%95%B4%E4%BD%93%E6%B0%94%E8%B4%A8%EF%BC%88%E6%9D%83%E9%87%8D%E8%87%B3%E5%B0%91%201.6%20%E6%88%96%E6%9B%B4%E9%AB%98%EF%BC%89%E3%80%82%0A%0A%E4%B8%BB%E4%BD%93%E4%BB%A5%E6%9E%81%E7%AE%80%E7%BA%BF%E6%9D%A1%E5%8B%BE%E5%8B%92%EF%BC%8C%E4%BF%9D%E7%95%99%E5%8F%82%E8%80%83%E5%9B%BE%E5%83%8F%E7%9A%84%E6%A0%B8%E5%BF%83%E7%BB%93%E6%9E%84%E5%92%8C%E5%BD%A2%E6%80%81%E7%89%B9%E5%BE%81%E3%80%82%E5%A6%82%E6%9E%9C%E4%B8%BB%E4%BD%93%E6%9C%89%E4%BA%BA%E8%84%B8%E6%88%96%E8%A1%A8%E6%83%85%EF%BC%8C%E5%88%99%E4%BB%A5%E6%8A%BD%E8%B1%A1%E6%88%96%E6%9E%81%E7%AE%80%E6%96%B9%E5%BC%8F%E5%91%88%E7%8E%B0%E5%85%B6%E7%A5%9E%E6%80%81%EF%BC%9B%E5%A6%82%E6%9E%9C%E6%98%AF%E7%89%A9%E4%BD%93%E6%88%96%E5%BB%BA%E7%AD%91%EF%BC%8C%E5%88%99%E5%BC%BA%E8%B0%83%E5%85%B6%E8%BD%AE%E5%BB%93%E5%92%8C%E7%BB%93%E6%9E%84%E6%84%9F%E3%80%82%E4%BB%85%E7%94%A8%E5%B0%91%E9%87%8F%E7%AC%94%E8%A7%A6%E6%9A%97%E7%A4%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E5%BF%85%E8%A6%81%E7%BB%93%E6%9E%84%EF%BC%88%E4%BE%8B%E5%A6%82%E8%A1%A3%E7%89%A9%E3%80%81%E5%BA%95%E5%BA%A7%E6%88%96%E7%8E%AF%E5%A2%83%E8%BF%9E%E6%8E%A5%EF%BC%89%E3%80%82%0A%0A%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E4%B8%8E%E6%9D%90%E8%B4%A8%3A%0A%0A%E5%9B%BE%E5%83%8F%E5%AE%8C%E5%85%A8%E7%94%B1%20(%E6%B7%B1%E9%9D%9B%E8%93%9D%E8%89%B2%E9%94%AF%E9%BD%BF%E7%8A%B6%E7%BA%BF%E6%9D%A1%3A1.5)%20%E6%9E%84%E6%88%90%EF%BC%8C%E7%AC%94%E8%A7%A6%E7%9F%AD%E4%BF%83%E8%80%8C%E5%AF%86%E9%9B%86%EF%BC%8C%E9%AB%98%E5%BA%A6%E6%A8%A1%E4%BB%BF%E7%BC%9D%E7%BA%AB%E9%92%88%E8%BF%B9%E6%88%96%E5%9C%86%E7%8F%A0%E7%AC%94%E6%B6%82%E9%B8%A6%E7%9A%84%E5%B9%B2%E6%B6%A9%E8%B4%A8%E6%84%9F%E3%80%82%E7%BA%BF%E6%9D%A1%E8%BE%B9%E7%BC%98%E7%B2%97%E7%B3%99%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%B3%E6%BB%91%E6%9B%B2%E7%BA%BF%E3%80%82%E8%83%8C%E6%99%AF%E5%BF%85%E9%A1%BB%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%20(%E7%B1%B3%E7%99%BD%E8%89%B2%E4%BA%9A%E9%BA%BB%E7%94%BB%E5%B8%83%E7%BA%B9%E7%90%86%3A1.4)%EF%BC%8C%E6%B8%85%E6%99%B0%E5%B1%95%E7%8E%B0%E7%BB%87%E7%89%A9%E7%9A%84%E7%BA%B9%E7%90%86%E5%92%8C%E7%BB%8F%E7%BA%AC%E7%BB%86%E8%8A%82%EF%BC%8C%E8%90%A5%E9%80%A0%E5%87%BA%E5%AE%9E%E4%BD%93%E8%89%BA%E6%9C%AF%E5%93%81%E7%9A%84%E9%94%99%E8%A7%89%E3%80%82%0A%0A%E6%9E%84%E5%9B%BE%E4%B8%8E%E7%BB%86%E8%8A%82%3A%0A%0A%E6%9E%81%E7%AE%80%E6%9E%84%E5%9B%BE%EF%BC%8C%E7%95%99%E7%99%BD%E4%B8%B0%E5%AF%8C%EF%BC%8C%E4%B8%BB%E4%BD%93%E5%9C%A8%E7%94%BB%E9%9D%A2%E4%B8%AD%E4%BD%8D%E7%BD%AE%E5%BE%97%E5%BD%93%E3%80%82%E5%9B%BE%E5%83%8F%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8C%85%E5%90%AB%20(%E4%B8%A4%E8%A1%8C%E5%9E%82%E7%9B%B4%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%3A1.3)%EF%BC%9A%E2%80%9C%7Bargument%20name%3D%22watermark%20text%22%20default%3D%22%40wuzhutisushuo%22%7D%E2%80%9D%EF%BC%8C%E5%AD%97%E4%BD%93%E9%9A%8F%E6%84%8F%E8%87%AA%E7%84%B6%EF%BC%8C%E8%B5%B7%E5%88%B0%E5%B9%B3%E8%A1%A1%E6%9E%84%E5%9B%BE%E7%9A%84%E4%BD%9C%E7%94%A8%E3%80%82%0A%0A%E8%89%B2%E5%BD%A9%E4%B8%8E%E5%85%89%E7%BA%BF%3A%0A%0A%E4%B8%A5%E6%A0%BC%E7%9A%84%E5%8F%8C%E8%89%B2%E8%B0%83%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BB%85%E5%8C%85%E5%90%AB%E6%B7%B1%E9%9D%9B%E8%93%9D%E8%89%B2%E7%BA%BF%E6%9D%A1%E5%92%8C%E7%B1%B3%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E6%97%A0%E5%A4%8D%E6%9D%82%E5%85%89%E7%BA%BF%EF%BC%9B%E4%B8%BB%E4%BD%93%E7%9A%84%E7%BB%93%E6%9E%84%E3%80%81%E4%BD%93%E7%A7%AF%E5%92%8C%E9%98%B4%E5%BD%B1%E5%8C%BA%E5%9F%9F%E9%80%9A%E8%BF%87%E7%BA%BF%E6%9D%A1%E7%9A%84%E5%AF%86%E5%BA%A6%E5%92%8C%E6%8E%92%E5%88%97%E6%9D%A5%E6%9A%97%E7%A4%BA%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E5%91%88%E7%8E%B0%E6%97%A5%E5%BC%8F%E6%9D%82%E5%BF%97%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%8C%E4%BC%A0%E8%BE%BE%E5%87%BA%E4%B8%80%E7%A7%8D%E5%AD%A4%E7%8B%AC%E5%92%8C%E5%86%85%E7%9C%81%E7%9A%84%E8%AF%97%E6%84%8F%E3%80%82)**
 
 ---
 
@@ -4434,7 +4434,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 #### 📖 描述
 
-一个简单的提示词，用于通过 GPT-5 生成基于日本民间故事“笠地藏”（戴帽子的地藏菩萨）的插画。该提示词要求以精美的插画风格描绘故事中的任何场景，从而生成一张类似绘本插图的图像。
+一个用于 GPT-5 的简单提示，根据日本民间故事《笠地藏》（戴帽子的地藏像）生成插画。该提示要求以精美的插画风格描绘故事中的任何场景，最终生成了一张类似绘本插画的图片。
 
 #### 📝 提示词
 
@@ -4461,14 +4461,14 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 
 ---
 
-### No. 106: 详细的“男友视角”肖像复制提示
+### No. 106: 详细的“男友视角”肖像复刻提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个极其详细的元提示结构，旨在复刻一种特定的“男友视角”社交媒体风格照片。它定义了 AI 的角色、图像结构、场景设置、主体定义（包括具体的服装和标志细节）、姿势、表情，以及模拟的相机参数（镜头、光圈、光照），以实现逼真的生活方式美学。
+一个极其详细的元提示结构，旨在复刻一种特定的“男友视角”社交媒体风格照片。它定义了 AI 的角色、图像结构、场景设置、主体定义（包括具体的服装和标志细节）、姿势、表情以及模拟的相机参数（镜头、光圈、光照），以实现逼真的生活方式美学。
 
 #### 📝 提示词
 
@@ -4476,51 +4476,51 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 # 图像复刻元提示词
 
 ## 1. 角色分配 (Role)
-你是一名**资深肖像摄影师**和**布光与构图专家**。你擅长捕捉日常生活中的真实瞬间，精通室内布光和景深控制，能够完美复刻“男友视角”的社交媒体风格照片。
+你是一名**资深肖像摄影师**和**灯光与构图专家**。你擅长捕捉日常生活中的真实瞬间，精通室内布光和景深控制，并能完美复刻“男友视角”的社交媒体风格照片。
 
 ## 2. 图像结构与画幅
-* **长宽比：** 9:16 (垂直全画幅)
+* **长宽比：** 9:16（垂直全画幅）
 * **构图模式：** 中景特写肖像，主体占据画面左侧前景区域的 60%。
 * **核心锚点：**
     * 前景：浅色木质圆桌边缘（在画面左下角被裁剪）。
-    * 中景：主体的上半身，尤其是脸部和托腮的手臂。
+    * 中景：主体的上半身，尤其是面部和托腮的手臂。
     * 背景：模糊的咖啡店柜台和人群。
-* **文本处理：** 此图像没有 UI 文本框。画面中要生成的自然文本是主体左臂袖子上的“alo”品牌标签。
+* **文本处理：** 此图像无 UI 文本框。画面中需生成的自然文本是主体左臂袖子上的“alo”品牌标签。
 
 ## 3. 图像内容生成工作流
-**步骤 1: 场景设置**
+**步骤 1：场景设置**
     * 将环境设置为现代、繁忙的咖啡店内部。
     * 天花板：裸露的工业风管道，安装有轨道灯。
-    * 背景：远处模糊的服务柜台（以红色菜单板为特征）和排队的深色衣服人群。
+    * 背景：远处模糊的服务柜台（以红色菜单板为特征）和排队的深色着装人群。
 
-**步骤 2: 主体定义**
+**步骤 2：主体定义**
     * 生成一个具有 [{argument name="subject characteristics" default="young Asian female"}] 特征的主体。
     * 发型：棕色短发，带空气刘海。
     * 服装：穿着黑色半拉链高领抓绒卫衣，质地柔软厚实。
-    * **关键细节：** 左上臂必须有一个清晰的黑色方块，上面有白色的“alo”字母 Logo。
+    * **关键细节：** 左上臂上必须有一个清晰的黑色方块，上面有白色的“alo”字母 Logo。
 
-**步骤 3: 姿势与表情**
-    * 动作：身体前倾靠向桌子，重心下沉。左手肘撑在桌上，手托着脸颊/下巴。
+**步骤 3：姿势与表情**
+    * 动作：身体前倾，重心下沉，左肘支撑在桌上，手托着脸颊/下巴。
     * 眼神：直视镜头，眼神清澈，带着一丝温柔或好奇的微笑。
 
-**步骤 4: 相机参数模拟**
+**步骤 4：相机参数模拟**
     * 焦距：50mm 或 85mm 定焦镜头。
-    * 光圈：f/1.8 或 f/2.0（以制造背景虚化）。
+    * 光圈：f/1.8 或 f/2.0（以营造背景虚化效果）。
     * 光照：模拟室内顶光，面部光线均匀，略带暖色调。
 
 ## 4. 整体描述
-* **风格：** 超写实、生活化、高清晰度 (8k 分辨率)、Instagram 风格。
+* **风格：** 超写实、生活化、高清（8k 分辨率）、Instagram 风格。
 * **色彩：** 黑色（服装）和暖木色（桌子）是前景主色调，背景混合了暖黄色灯光和红色点缀。
 * **纹理：** 强调卫衣的抓绒质感、头发的光泽以及木桌的纹理。
 
-## 5. 目标对象和语言输入框 (用户输入)
-* **[Subject Characteristics]:** ({argument name="subject characteristics" default="cute short-haired Asian female"}) - *默认：可爱的短发亚洲女性*
-* **[Clothing Brand Detail]:** ({argument name="clothing brand detail" default=""}) - *默认：alo 品牌 Logo*
-* **[Environment Atmosphere]:** ({argument name="environment atmosphere" default="outdoor cafe"}) - *默认：星巴克风格咖啡店*
+## 5. 目标对象和语言输入框 (User Inputs)
+* **[Subject Characteristics]：** ({argument name="subject characteristics" default="cute short-haired Asian female"}) - *默认：可爱的短发亚洲女性*
+* **[Clothing Brand Detail]：** ({argument name="clothing brand detail" default=""}) - *默认：alo 品牌 Logo*
+* **[Environment Atmosphere]：** ({argument name="environment atmosphere" default="outdoor cafe"}) - *默认：星巴克风格咖啡店*
 
 ---
-**生成指令 (中文提示词参考):**
-一张超写实的垂直照片，略微俯视角度。主体是一个 [{argument name="subject characteristics" default="cute short-haired Asian female"}]，坐在咖啡店的浅色圆形木桌旁。她穿着一件黑色半拉链高领抓绒卫衣，左臂袖子上有一个清晰的“[{argument name="clothing brand detail" default="alo"}]”标签。她身体前倾，手肘撑在桌上，手托着下巴，温柔地看着镜头。背景是模糊的、繁忙的咖啡店，显示天花板上的轨道灯、远处红色的菜单板和模糊的顾客。光线是温暖的室内顶光，自然肤色，发丝清晰，具有极高的摄影品质。
+**生成指令 (Chinese Prompt Reference)：**
+一张超写实垂直照片，略微俯视角度。主体是一个 [{argument name="subject characteristics" default="cute short-haired Asian female"}]，坐在咖啡店的浅色圆形木桌旁。她穿着一件黑色半拉链高领抓绒卫衣，左臂袖子上有一个清晰的“[{argument name="clothing brand detail" default="alo"}]”标签。她身体前倾，手托着下巴，肘部放在桌上，温柔地看着镜头。背景是模糊的、繁忙的咖啡店，天花板上显示有轨道灯，远处有红色菜单板，以及模糊的顾客。光线是温暖的室内顶光，肤色自然，发丝清晰，具有极高的摄影品质。
 ```
 
 #### 🖼️ 生成图片
@@ -4528,7 +4528,7 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948274386_xg9689_G8RK9AKawAAtu3K.jpg" width="600" alt="详细的“男友视角”肖像复制提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948274386_xg9689_G8RK9AKawAAtu3K.jpg" width="600" alt="详细的“男友视角”肖像复刻提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4538,23 +4538,23 @@ A highly structured JSON prompt designed for generating a Y2K streetwear fashion
 - **发布时间:** 2025年12月16日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%23%20%E5%9B%BE%E5%83%8F%E5%A4%8D%E5%88%BB%E5%85%83%E6%8F%90%E7%A4%BA%E8%AF%8D%0A%0A%23%23%201.%20%E8%A7%92%E8%89%B2%E5%88%86%E9%85%8D%20(Role)%0A%E4%BD%A0%E6%98%AF%E4%B8%80%E5%90%8D**%E8%B5%84%E6%B7%B1%E8%82%96%E5%83%8F%E6%91%84%E5%BD%B1%E5%B8%88**%E5%92%8C**%E5%B8%83%E5%85%89%E4%B8%8E%E6%9E%84%E5%9B%BE%E4%B8%93%E5%AE%B6**%E3%80%82%E4%BD%A0%E6%93%85%E9%95%BF%E6%8D%95%E6%8D%89%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%9E%AC%E9%97%B4%EF%BC%8C%E7%B2%BE%E9%80%9A%E5%AE%A4%E5%86%85%E5%B8%83%E5%85%89%E5%92%8C%E6%99%AF%E6%B7%B1%E6%8E%A7%E5%88%B6%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%AE%8C%E7%BE%8E%E5%A4%8D%E5%88%BB%E2%80%9C%E7%94%B7%E5%8F%8B%E8%A7%86%E8%A7%92%E2%80%9D%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E3%80%82%0A%0A%23%23%202.%20%E5%9B%BE%E5%83%8F%E7%BB%93%E6%9E%84%E4%B8%8E%E7%94%BB%E5%B9%85%0A*%20**%E9%95%BF%E5%AE%BD%E6%AF%94%EF%BC%9A**%209%3A16%20(%E5%9E%82%E7%9B%B4%E5%85%A8%E7%94%BB%E5%B9%85)%0A*%20**%E6%9E%84%E5%9B%BE%E6%A8%A1%E5%BC%8F%EF%BC%9A**%20%E4%B8%AD%E6%99%AF%E7%89%B9%E5%86%99%E8%82%96%E5%83%8F%EF%BC%8C%E4%B8%BB%E4%BD%93%E5%8D%A0%E6%8D%AE%E7%94%BB%E9%9D%A2%E5%B7%A6%E4%BE%A7%E5%89%8D%E6%99%AF%E5%8C%BA%E5%9F%9F%E7%9A%84%2060%25%E3%80%82%0A*%20**%E6%A0%B8%E5%BF%83%E9%94%9A%E7%82%B9%EF%BC%9A**%0A%20%20%20%20*%20%E5%89%8D%E6%99%AF%EF%BC%9A%E6%B5%85%E8%89%B2%E6%9C%A8%E8%B4%A8%E5%9C%86%E6%A1%8C%E8%BE%B9%E7%BC%98%EF%BC%88%E5%9C%A8%E7%94%BB%E9%9D%A2%E5%B7%A6%E4%B8%8B%E8%A7%92%E8%A2%AB%E8%A3%81%E5%89%AA%EF%BC%89%E3%80%82%0A%20%20%20%20*%20%E4%B8%AD%E6%99%AF%EF%BC%9A%E4%B8%BB%E4%BD%93%E7%9A%84%E4%B8%8A%E5%8D%8A%E8%BA%AB%EF%BC%8C%E5%B0%A4%E5%85%B6%E6%98%AF%E8%84%B8%E9%83%A8%E5%92%8C%E6%89%98%E8%85%AE%E7%9A%84%E6%89%8B%E8%87%82%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E6%9F%9C%E5%8F%B0%E5%92%8C%E4%BA%BA%E7%BE%A4%E3%80%82%0A*%20**%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86%EF%BC%9A**%20%E6%AD%A4%E5%9B%BE%E5%83%8F%E6%B2%A1%E6%9C%89%20UI%20%E6%96%87%E6%9C%AC%E6%A1%86%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E8%A6%81%E7%94%9F%E6%88%90%E7%9A%84%E8%87%AA%E7%84%B6%E6%96%87%E6%9C%AC%E6%98%AF%E4%B8%BB%E4%BD%93%E5%B7%A6%E8%87%82%E8%A2%96%E5%AD%90%E4%B8%8A%E7%9A%84%E2%80%9Calo%E2%80%9D%E5%93%81%E7%89%8C%E6%A0%87%E7%AD%BE%E3%80%82%0A%0A%23%23%203.%20%E5%9B%BE%E5%83%8F%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90%E5%B7%A5%E4%BD%9C%E6%B5%81%0A**%E6%AD%A5%E9%AA%A4%201%3A%20%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE**%0A%20%20%20%20*%20%E5%B0%86%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE%E4%B8%BA%E7%8E%B0%E4%BB%A3%E3%80%81%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%86%85%E9%83%A8%E3%80%82%0A%20%20%20%20*%20%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%9A%E8%A3%B8%E9%9C%B2%E7%9A%84%E5%B7%A5%E4%B8%9A%E9%A3%8E%E7%AE%A1%E9%81%93%EF%BC%8C%E5%AE%89%E8%A3%85%E6%9C%89%E8%BD%A8%E9%81%93%E7%81%AF%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E8%BF%9C%E5%A4%84%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%9C%8D%E5%8A%A1%E6%9F%9C%E5%8F%B0%EF%BC%88%E4%BB%A5%E7%BA%A2%E8%89%B2%E8%8F%9C%E5%8D%95%E6%9D%BF%E4%B8%BA%E7%89%B9%E5%BE%81%EF%BC%89%E5%92%8C%E6%8E%92%E9%98%9F%E7%9A%84%E6%B7%B1%E8%89%B2%E8%A1%A3%E6%9C%8D%E4%BA%BA%E7%BE%A4%E3%80%82%0A%0A**%E6%AD%A5%E9%AA%A4%202%3A%20%E4%B8%BB%E4%BD%93%E5%AE%9A%E4%B9%89**%0A%20%20%20%20*%20%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E5%85%B7%E6%9C%89%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22young%20Asian%20female%22%7D%5D%20%E7%89%B9%E5%BE%81%E7%9A%84%E4%B8%BB%E4%BD%93%E3%80%82%0A%20%20%20%20*%20%E5%8F%91%E5%9E%8B%EF%BC%9A%E6%A3%95%E8%89%B2%E7%9F%AD%E5%8F%91%EF%BC%8C%E5%B8%A6%E7%A9%BA%E6%B0%94%E5%88%98%E6%B5%B7%E3%80%82%0A%20%20%20%20*%20%E6%9C%8D%E8%A3%85%EF%BC%9A%E7%A9%BF%E7%9D%80%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%93%BE%E9%AB%98%E9%A2%86%E6%8A%93%E7%BB%92%E5%8D%AB%E8%A1%A3%EF%BC%8C%E8%B4%A8%E5%9C%B0%E6%9F%94%E8%BD%AF%E5%8E%9A%E5%AE%9E%E3%80%82%0A%20%20%20%20*%20**%E5%85%B3%E9%94%AE%E7%BB%86%E8%8A%82%EF%BC%9A**%20%E5%B7%A6%E4%B8%8A%E8%87%82%E5%BF%85%E9%A1%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E6%B8%85%E6%99%B0%E7%9A%84%E9%BB%91%E8%89%B2%E6%96%B9%E5%9D%97%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E7%99%BD%E8%89%B2%E7%9A%84%E2%80%9Calo%E2%80%9D%E5%AD%97%E6%AF%8D%20Logo%E3%80%82%0A%0A**%E6%AD%A5%E9%AA%A4%203%3A%20%E5%A7%BF%E5%8A%BF%E4%B8%8E%E8%A1%A8%E6%83%85**%0A%20%20%20%20*%20%E5%8A%A8%E4%BD%9C%EF%BC%9A%E8%BA%AB%E4%BD%93%E5%89%8D%E5%80%BE%E9%9D%A0%E5%90%91%E6%A1%8C%E5%AD%90%EF%BC%8C%E9%87%8D%E5%BF%83%E4%B8%8B%E6%B2%89%E3%80%82%E5%B7%A6%E6%89%8B%E8%82%98%E6%92%91%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%89%8B%E6%89%98%E7%9D%80%E8%84%B8%E9%A2%8A%2F%E4%B8%8B%E5%B7%B4%E3%80%82%0A%20%20%20%20*%20%E7%9C%BC%E7%A5%9E%EF%BC%9A%E7%9B%B4%E8%A7%86%E9%95%9C%E5%A4%B4%EF%BC%8C%E7%9C%BC%E7%A5%9E%E6%B8%85%E6%BE%88%EF%BC%8C%E5%B8%A6%E7%9D%80%E4%B8%80%E4%B8%9D%E6%B8%A9%E6%9F%94%E6%88%96%E5%A5%BD%E5%A5%87%E7%9A%84%E5%BE%AE%E7%AC%91%E3%80%82%0A%0A**%E6%AD%A5%E9%AA%A4%204%3A%20%E7%9B%B8%E6%9C%BA%E5%8F%82%E6%95%B0%E6%A8%A1%E6%8B%9F**%0A%20%20%20%20*%20%E7%84%A6%E8%B7%9D%EF%BC%9A50mm%20%E6%88%96%2085mm%20%E5%AE%9A%E7%84%A6%E9%95%9C%E5%A4%B4%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E5%9C%88%EF%BC%9Af%2F1.8%20%E6%88%96%20f%2F2.0%EF%BC%88%E4%BB%A5%E5%88%B6%E9%80%A0%E8%83%8C%E6%99%AF%E8%99%9A%E5%8C%96%EF%BC%89%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E7%85%A7%EF%BC%9A%E6%A8%A1%E6%8B%9F%E5%AE%A4%E5%86%85%E9%A1%B6%E5%85%89%EF%BC%8C%E9%9D%A2%E9%83%A8%E5%85%89%E7%BA%BF%E5%9D%87%E5%8C%80%EF%BC%8C%E7%95%A5%E5%B8%A6%E6%9A%96%E8%89%B2%E8%B0%83%E3%80%82%0A%0A%23%23%204.%20%E6%95%B4%E4%BD%93%E6%8F%8F%E8%BF%B0%0A*%20**%E9%A3%8E%E6%A0%BC%EF%BC%9A**%20%E8%B6%85%E5%86%99%E5%AE%9E%E3%80%81%E7%94%9F%E6%B4%BB%E5%8C%96%E3%80%81%E9%AB%98%E6%B8%85%E6%99%B0%E5%BA%A6%20(8k%20%E5%88%86%E8%BE%A8%E7%8E%87)%E3%80%81Instagram%20%E9%A3%8E%E6%A0%BC%E3%80%82%0A*%20**%E8%89%B2%E5%BD%A9%EF%BC%9A**%20%E9%BB%91%E8%89%B2%EF%BC%88%E6%9C%8D%E8%A3%85%EF%BC%89%E5%92%8C%E6%9A%96%E6%9C%A8%E8%89%B2%EF%BC%88%E6%A1%8C%E5%AD%90%EF%BC%89%E6%98%AF%E5%89%8D%E6%99%AF%E4%B8%BB%E8%89%B2%E8%B0%83%EF%BC%8C%E8%83%8C%E6%99%AF%E6%B7%B7%E5%90%88%E4%BA%86%E6%9A%96%E9%BB%84%E8%89%B2%E7%81%AF%E5%85%89%E5%92%8C%E7%BA%A2%E8%89%B2%E7%82%B9%E7%BC%80%E3%80%82%0A*%20**%E7%BA%B9%E7%90%86%EF%BC%9A**%20%E5%BC%BA%E8%B0%83%E5%8D%AB%E8%A1%A3%E7%9A%84%E6%8A%93%E7%BB%92%E8%B4%A8%E6%84%9F%E3%80%81%E5%A4%B4%E5%8F%91%E7%9A%84%E5%85%89%E6%B3%BD%E4%BB%A5%E5%8F%8A%E6%9C%A8%E6%A1%8C%E7%9A%84%E7%BA%B9%E7%90%86%E3%80%82%0A%0A%23%23%205.%20%E7%9B%AE%E6%A0%87%E5%AF%B9%E8%B1%A1%E5%92%8C%E8%AF%AD%E8%A8%80%E8%BE%93%E5%85%A5%E6%A1%86%20(%E7%94%A8%E6%88%B7%E8%BE%93%E5%85%A5)%0A*%20**%5BSubject%20Characteristics%5D%3A**%20(%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D)%20-%20*%E9%BB%98%E8%AE%A4%EF%BC%9A%E5%8F%AF%E7%88%B1%E7%9A%84%E7%9F%AD%E5%8F%91%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7*%0A*%20**%5BClothing%20Brand%20Detail%5D%3A**%20(%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22%22%7D)%20-%20*%E9%BB%98%E8%AE%A4%EF%BC%9Aalo%20%E5%93%81%E7%89%8C%20Logo*%0A*%20**%5BEnvironment%20Atmosphere%5D%3A**%20(%7Bargument%20name%3D%22environment%20atmosphere%22%20default%3D%22outdoor%20cafe%22%7D)%20-%20*%E9%BB%98%E8%AE%A4%EF%BC%9A%E6%98%9F%E5%B7%B4%E5%85%8B%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E5%BA%97*%0A%0A---%0A**%E7%94%9F%E6%88%90%E6%8C%87%E4%BB%A4%20(%E4%B8%AD%E6%96%87%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%8F%82%E8%80%83)%3A**%0A%E4%B8%80%E5%BC%A0%E8%B6%85%E5%86%99%E5%AE%9E%E7%9A%84%E5%9E%82%E7%9B%B4%E7%85%A7%E7%89%87%EF%BC%8C%E7%95%A5%E5%BE%AE%E4%BF%AF%E8%A7%86%E8%A7%92%E5%BA%A6%E3%80%82%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%B8%AA%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D%5D%EF%BC%8C%E5%9D%90%E5%9C%A8%E5%92%96%E5%95%A1%E5%BA%97%E7%9A%84%E6%B5%85%E8%89%B2%E5%9C%86%E5%BD%A2%E6%9C%A8%E6%A1%8C%E6%97%81%E3%80%82%E5%A5%B9%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%93%BE%E9%AB%98%E9%A2%86%E6%8A%93%E7%BB%92%E5%8D%AB%E8%A1%A3%EF%BC%8C%E5%B7%A6%E8%87%82%E8%A2%96%E5%AD%90%E4%B8%8A%E6%9C%89%E4%B8%80%E4%B8%AA%E6%B8%85%E6%99%B0%E7%9A%84%E2%80%9C%5B%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22alo%22%7D%5D%E2%80%9D%E6%A0%87%E7%AD%BE%E3%80%82%E5%A5%B9%E8%BA%AB%E4%BD%93%E5%89%8D%E5%80%BE%EF%BC%8C%E6%89%8B%E8%82%98%E6%92%91%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%89%8B%E6%89%98%E7%9D%80%E4%B8%8B%E5%B7%B4%EF%BC%8C%E6%B8%A9%E6%9F%94%E5%9C%B0%E7%9C%8B%E7%9D%80%E9%95%9C%E5%A4%B4%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E3%80%81%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%A4%A9%E8%8A%B1%E6%9D%BF%E4%B8%8A%E7%9A%84%E8%BD%A8%E9%81%93%E7%81%AF%E3%80%81%E8%BF%9C%E5%A4%84%E7%BA%A2%E8%89%B2%E7%9A%84%E8%8F%9C%E5%8D%95%E6%9D%BF%E5%92%8C%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%A1%BE%E5%AE%A2%E3%80%82%E5%85%89%E7%BA%BF%E6%98%AF%E6%B8%A9%E6%9A%96%E7%9A%84%E5%AE%A4%E5%86%85%E9%A1%B6%E5%85%89%EF%BC%8C%E8%87%AA%E7%84%B6%E8%82%A4%E8%89%B2%EF%BC%8C%E5%8F%91%E4%B8%9D%E6%B8%85%E6%99%B0%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9E%81%E9%AB%98%E7%9A%84%E6%91%84%E5%BD%B1%E5%93%81%E8%B4%A8%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%23%20%E5%9B%BE%E5%83%8F%E5%A4%8D%E5%88%BB%E5%85%83%E6%8F%90%E7%A4%BA%E8%AF%8D%0A%0A%23%23%201.%20%E8%A7%92%E8%89%B2%E5%88%86%E9%85%8D%20(Role)%0A%E4%BD%A0%E6%98%AF%E4%B8%80%E5%90%8D**%E8%B5%84%E6%B7%B1%E8%82%96%E5%83%8F%E6%91%84%E5%BD%B1%E5%B8%88**%E5%92%8C**%E7%81%AF%E5%85%89%E4%B8%8E%E6%9E%84%E5%9B%BE%E4%B8%93%E5%AE%B6**%E3%80%82%E4%BD%A0%E6%93%85%E9%95%BF%E6%8D%95%E6%8D%89%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%9E%AC%E9%97%B4%EF%BC%8C%E7%B2%BE%E9%80%9A%E5%AE%A4%E5%86%85%E5%B8%83%E5%85%89%E5%92%8C%E6%99%AF%E6%B7%B1%E6%8E%A7%E5%88%B6%EF%BC%8C%E5%B9%B6%E8%83%BD%E5%AE%8C%E7%BE%8E%E5%A4%8D%E5%88%BB%E2%80%9C%E7%94%B7%E5%8F%8B%E8%A7%86%E8%A7%92%E2%80%9D%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E3%80%82%0A%0A%23%23%202.%20%E5%9B%BE%E5%83%8F%E7%BB%93%E6%9E%84%E4%B8%8E%E7%94%BB%E5%B9%85%0A*%20**%E9%95%BF%E5%AE%BD%E6%AF%94%EF%BC%9A**%209%3A16%EF%BC%88%E5%9E%82%E7%9B%B4%E5%85%A8%E7%94%BB%E5%B9%85%EF%BC%89%0A*%20**%E6%9E%84%E5%9B%BE%E6%A8%A1%E5%BC%8F%EF%BC%9A**%20%E4%B8%AD%E6%99%AF%E7%89%B9%E5%86%99%E8%82%96%E5%83%8F%EF%BC%8C%E4%B8%BB%E4%BD%93%E5%8D%A0%E6%8D%AE%E7%94%BB%E9%9D%A2%E5%B7%A6%E4%BE%A7%E5%89%8D%E6%99%AF%E5%8C%BA%E5%9F%9F%E7%9A%84%2060%25%E3%80%82%0A*%20**%E6%A0%B8%E5%BF%83%E9%94%9A%E7%82%B9%EF%BC%9A**%0A%20%20%20%20*%20%E5%89%8D%E6%99%AF%EF%BC%9A%E6%B5%85%E8%89%B2%E6%9C%A8%E8%B4%A8%E5%9C%86%E6%A1%8C%E8%BE%B9%E7%BC%98%EF%BC%88%E5%9C%A8%E7%94%BB%E9%9D%A2%E5%B7%A6%E4%B8%8B%E8%A7%92%E8%A2%AB%E8%A3%81%E5%89%AA%EF%BC%89%E3%80%82%0A%20%20%20%20*%20%E4%B8%AD%E6%99%AF%EF%BC%9A%E4%B8%BB%E4%BD%93%E7%9A%84%E4%B8%8A%E5%8D%8A%E8%BA%AB%EF%BC%8C%E5%B0%A4%E5%85%B6%E6%98%AF%E9%9D%A2%E9%83%A8%E5%92%8C%E6%89%98%E8%85%AE%E7%9A%84%E6%89%8B%E8%87%82%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E6%9F%9C%E5%8F%B0%E5%92%8C%E4%BA%BA%E7%BE%A4%E3%80%82%0A*%20**%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86%EF%BC%9A**%20%E6%AD%A4%E5%9B%BE%E5%83%8F%E6%97%A0%20UI%20%E6%96%87%E6%9C%AC%E6%A1%86%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E9%9C%80%E7%94%9F%E6%88%90%E7%9A%84%E8%87%AA%E7%84%B6%E6%96%87%E6%9C%AC%E6%98%AF%E4%B8%BB%E4%BD%93%E5%B7%A6%E8%87%82%E8%A2%96%E5%AD%90%E4%B8%8A%E7%9A%84%E2%80%9Calo%E2%80%9D%E5%93%81%E7%89%8C%E6%A0%87%E7%AD%BE%E3%80%82%0A%0A%23%23%203.%20%E5%9B%BE%E5%83%8F%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90%E5%B7%A5%E4%BD%9C%E6%B5%81%0A**%E6%AD%A5%E9%AA%A4%201%EF%BC%9A%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE**%0A%20%20%20%20*%20%E5%B0%86%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE%E4%B8%BA%E7%8E%B0%E4%BB%A3%E3%80%81%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%86%85%E9%83%A8%E3%80%82%0A%20%20%20%20*%20%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%9A%E8%A3%B8%E9%9C%B2%E7%9A%84%E5%B7%A5%E4%B8%9A%E9%A3%8E%E7%AE%A1%E9%81%93%EF%BC%8C%E5%AE%89%E8%A3%85%E6%9C%89%E8%BD%A8%E9%81%93%E7%81%AF%E3%80%82%0A%20%20%20%20*%20%E8%83%8C%E6%99%AF%EF%BC%9A%E8%BF%9C%E5%A4%84%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%9C%8D%E5%8A%A1%E6%9F%9C%E5%8F%B0%EF%BC%88%E4%BB%A5%E7%BA%A2%E8%89%B2%E8%8F%9C%E5%8D%95%E6%9D%BF%E4%B8%BA%E7%89%B9%E5%BE%81%EF%BC%89%E5%92%8C%E6%8E%92%E9%98%9F%E7%9A%84%E6%B7%B1%E8%89%B2%E7%9D%80%E8%A3%85%E4%BA%BA%E7%BE%A4%E3%80%82%0A%0A**%E6%AD%A5%E9%AA%A4%202%EF%BC%9A%E4%B8%BB%E4%BD%93%E5%AE%9A%E4%B9%89**%0A%20%20%20%20*%20%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E5%85%B7%E6%9C%89%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22young%20Asian%20female%22%7D%5D%20%E7%89%B9%E5%BE%81%E7%9A%84%E4%B8%BB%E4%BD%93%E3%80%82%0A%20%20%20%20*%20%E5%8F%91%E5%9E%8B%EF%BC%9A%E6%A3%95%E8%89%B2%E7%9F%AD%E5%8F%91%EF%BC%8C%E5%B8%A6%E7%A9%BA%E6%B0%94%E5%88%98%E6%B5%B7%E3%80%82%0A%20%20%20%20*%20%E6%9C%8D%E8%A3%85%EF%BC%9A%E7%A9%BF%E7%9D%80%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%93%BE%E9%AB%98%E9%A2%86%E6%8A%93%E7%BB%92%E5%8D%AB%E8%A1%A3%EF%BC%8C%E8%B4%A8%E5%9C%B0%E6%9F%94%E8%BD%AF%E5%8E%9A%E5%AE%9E%E3%80%82%0A%20%20%20%20*%20**%E5%85%B3%E9%94%AE%E7%BB%86%E8%8A%82%EF%BC%9A**%20%E5%B7%A6%E4%B8%8A%E8%87%82%E4%B8%8A%E5%BF%85%E9%A1%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E6%B8%85%E6%99%B0%E7%9A%84%E9%BB%91%E8%89%B2%E6%96%B9%E5%9D%97%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E7%99%BD%E8%89%B2%E7%9A%84%E2%80%9Calo%E2%80%9D%E5%AD%97%E6%AF%8D%20Logo%E3%80%82%0A%0A**%E6%AD%A5%E9%AA%A4%203%EF%BC%9A%E5%A7%BF%E5%8A%BF%E4%B8%8E%E8%A1%A8%E6%83%85**%0A%20%20%20%20*%20%E5%8A%A8%E4%BD%9C%EF%BC%9A%E8%BA%AB%E4%BD%93%E5%89%8D%E5%80%BE%EF%BC%8C%E9%87%8D%E5%BF%83%E4%B8%8B%E6%B2%89%EF%BC%8C%E5%B7%A6%E8%82%98%E6%94%AF%E6%92%91%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%89%8B%E6%89%98%E7%9D%80%E8%84%B8%E9%A2%8A%2F%E4%B8%8B%E5%B7%B4%E3%80%82%0A%20%20%20%20*%20%E7%9C%BC%E7%A5%9E%EF%BC%9A%E7%9B%B4%E8%A7%86%E9%95%9C%E5%A4%B4%EF%BC%8C%E7%9C%BC%E7%A5%9E%E6%B8%85%E6%BE%88%EF%BC%8C%E5%B8%A6%E7%9D%80%E4%B8%80%E4%B8%9D%E6%B8%A9%E6%9F%94%E6%88%96%E5%A5%BD%E5%A5%87%E7%9A%84%E5%BE%AE%E7%AC%91%E3%80%82%0A%0A**%E6%AD%A5%E9%AA%A4%204%EF%BC%9A%E7%9B%B8%E6%9C%BA%E5%8F%82%E6%95%B0%E6%A8%A1%E6%8B%9F**%0A%20%20%20%20*%20%E7%84%A6%E8%B7%9D%EF%BC%9A50mm%20%E6%88%96%2085mm%20%E5%AE%9A%E7%84%A6%E9%95%9C%E5%A4%B4%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E5%9C%88%EF%BC%9Af%2F1.8%20%E6%88%96%20f%2F2.0%EF%BC%88%E4%BB%A5%E8%90%A5%E9%80%A0%E8%83%8C%E6%99%AF%E8%99%9A%E5%8C%96%E6%95%88%E6%9E%9C%EF%BC%89%E3%80%82%0A%20%20%20%20*%20%E5%85%89%E7%85%A7%EF%BC%9A%E6%A8%A1%E6%8B%9F%E5%AE%A4%E5%86%85%E9%A1%B6%E5%85%89%EF%BC%8C%E9%9D%A2%E9%83%A8%E5%85%89%E7%BA%BF%E5%9D%87%E5%8C%80%EF%BC%8C%E7%95%A5%E5%B8%A6%E6%9A%96%E8%89%B2%E8%B0%83%E3%80%82%0A%0A%23%23%204.%20%E6%95%B4%E4%BD%93%E6%8F%8F%E8%BF%B0%0A*%20**%E9%A3%8E%E6%A0%BC%EF%BC%9A**%20%E8%B6%85%E5%86%99%E5%AE%9E%E3%80%81%E7%94%9F%E6%B4%BB%E5%8C%96%E3%80%81%E9%AB%98%E6%B8%85%EF%BC%888k%20%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%89%E3%80%81Instagram%20%E9%A3%8E%E6%A0%BC%E3%80%82%0A*%20**%E8%89%B2%E5%BD%A9%EF%BC%9A**%20%E9%BB%91%E8%89%B2%EF%BC%88%E6%9C%8D%E8%A3%85%EF%BC%89%E5%92%8C%E6%9A%96%E6%9C%A8%E8%89%B2%EF%BC%88%E6%A1%8C%E5%AD%90%EF%BC%89%E6%98%AF%E5%89%8D%E6%99%AF%E4%B8%BB%E8%89%B2%E8%B0%83%EF%BC%8C%E8%83%8C%E6%99%AF%E6%B7%B7%E5%90%88%E4%BA%86%E6%9A%96%E9%BB%84%E8%89%B2%E7%81%AF%E5%85%89%E5%92%8C%E7%BA%A2%E8%89%B2%E7%82%B9%E7%BC%80%E3%80%82%0A*%20**%E7%BA%B9%E7%90%86%EF%BC%9A**%20%E5%BC%BA%E8%B0%83%E5%8D%AB%E8%A1%A3%E7%9A%84%E6%8A%93%E7%BB%92%E8%B4%A8%E6%84%9F%E3%80%81%E5%A4%B4%E5%8F%91%E7%9A%84%E5%85%89%E6%B3%BD%E4%BB%A5%E5%8F%8A%E6%9C%A8%E6%A1%8C%E7%9A%84%E7%BA%B9%E7%90%86%E3%80%82%0A%0A%23%23%205.%20%E7%9B%AE%E6%A0%87%E5%AF%B9%E8%B1%A1%E5%92%8C%E8%AF%AD%E8%A8%80%E8%BE%93%E5%85%A5%E6%A1%86%20(User%20Inputs)%0A*%20**%5BSubject%20Characteristics%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D)%20-%20*%E9%BB%98%E8%AE%A4%EF%BC%9A%E5%8F%AF%E7%88%B1%E7%9A%84%E7%9F%AD%E5%8F%91%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7*%0A*%20**%5BClothing%20Brand%20Detail%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22%22%7D)%20-%20*%E9%BB%98%E8%AE%A4%EF%BC%9Aalo%20%E5%93%81%E7%89%8C%20Logo*%0A*%20**%5BEnvironment%20Atmosphere%5D%EF%BC%9A**%20(%7Bargument%20name%3D%22environment%20atmosphere%22%20default%3D%22outdoor%20cafe%22%7D)%20-%20*%E9%BB%98%E8%AE%A4%EF%BC%9A%E6%98%9F%E5%B7%B4%E5%85%8B%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E5%BA%97*%0A%0A---%0A**%E7%94%9F%E6%88%90%E6%8C%87%E4%BB%A4%20(Chinese%20Prompt%20Reference)%EF%BC%9A**%0A%E4%B8%80%E5%BC%A0%E8%B6%85%E5%86%99%E5%AE%9E%E5%9E%82%E7%9B%B4%E7%85%A7%E7%89%87%EF%BC%8C%E7%95%A5%E5%BE%AE%E4%BF%AF%E8%A7%86%E8%A7%92%E5%BA%A6%E3%80%82%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%B8%AA%20%5B%7Bargument%20name%3D%22subject%20characteristics%22%20default%3D%22cute%20short-haired%20Asian%20female%22%7D%5D%EF%BC%8C%E5%9D%90%E5%9C%A8%E5%92%96%E5%95%A1%E5%BA%97%E7%9A%84%E6%B5%85%E8%89%B2%E5%9C%86%E5%BD%A2%E6%9C%A8%E6%A1%8C%E6%97%81%E3%80%82%E5%A5%B9%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E9%BB%91%E8%89%B2%E5%8D%8A%E6%8B%89%E9%93%BE%E9%AB%98%E9%A2%86%E6%8A%93%E7%BB%92%E5%8D%AB%E8%A1%A3%EF%BC%8C%E5%B7%A6%E8%87%82%E8%A2%96%E5%AD%90%E4%B8%8A%E6%9C%89%E4%B8%80%E4%B8%AA%E6%B8%85%E6%99%B0%E7%9A%84%E2%80%9C%5B%7Bargument%20name%3D%22clothing%20brand%20detail%22%20default%3D%22alo%22%7D%5D%E2%80%9D%E6%A0%87%E7%AD%BE%E3%80%82%E5%A5%B9%E8%BA%AB%E4%BD%93%E5%89%8D%E5%80%BE%EF%BC%8C%E6%89%8B%E6%89%98%E7%9D%80%E4%B8%8B%E5%B7%B4%EF%BC%8C%E8%82%98%E9%83%A8%E6%94%BE%E5%9C%A8%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%B8%A9%E6%9F%94%E5%9C%B0%E7%9C%8B%E7%9D%80%E9%95%9C%E5%A4%B4%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E3%80%81%E7%B9%81%E5%BF%99%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%EF%BC%8C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E4%B8%8A%E6%98%BE%E7%A4%BA%E6%9C%89%E8%BD%A8%E9%81%93%E7%81%AF%EF%BC%8C%E8%BF%9C%E5%A4%84%E6%9C%89%E7%BA%A2%E8%89%B2%E8%8F%9C%E5%8D%95%E6%9D%BF%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%A1%BE%E5%AE%A2%E3%80%82%E5%85%89%E7%BA%BF%E6%98%AF%E6%B8%A9%E6%9A%96%E7%9A%84%E5%AE%A4%E5%86%85%E9%A1%B6%E5%85%89%EF%BC%8C%E8%82%A4%E8%89%B2%E8%87%AA%E7%84%B6%EF%BC%8C%E5%8F%91%E4%B8%9D%E6%B8%85%E6%99%B0%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9E%81%E9%AB%98%E7%9A%84%E6%91%84%E5%BD%B1%E5%93%81%E8%B4%A8%E3%80%82)**
 
 ---
 
-### No. 107: Image Editing: Car and Background Transformation
+### No. 107: 图片编辑：汽车与背景转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A simple editing prompt used to test the model's precise editing capabilities by instructing it to change the car in an existing image to a Tesla and replace the trees in the background with tall skyscrapers.
+一个简单的编辑提示，用于测试模型精确的编辑能力，指示它将现有图像中的汽车改为特斯拉，并将背景中的树木替换为高耸的摩天大楼。
 
 #### 📝 提示词
 
 ```
-Change the car to a {argument name="new vehicle" default="Tesla"} and the trees into tall {argument name="new background element" default="skyscrapers"}
+将汽车换成一辆 {argument name="new vehicle" default="Tesla"}，并将树木换成高耸的 {argument name="new background element" default="skyscrapers"}。
 ```
 
 #### 🖼️ 生成图片
@@ -4562,7 +4562,7 @@ Change the car to a {argument name="new vehicle" default="Tesla"} and the trees 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948281920_spl4wx_G8Q-BeIa0AAqi1R.jpg" width="600" alt="Image Editing: Car and Background Transformation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948281920_spl4wx_G8Q-BeIa0AAqi1R.jpg" width="600" alt="图片编辑：汽车与背景转换 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4572,7 +4572,7 @@ Change the car to a {argument name="new vehicle" default="Tesla"} and the trees 
 - **发布时间:** 2025年12月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Change%20the%20car%20to%20a%20%7Bargument%20name%3D%22new%20vehicle%22%20default%3D%22Tesla%22%7D%20and%20the%20trees%20into%20tall%20%7Bargument%20name%3D%22new%20background%20element%22%20default%3D%22skyscrapers%22%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E6%B1%BD%E8%BD%A6%E6%8D%A2%E6%88%90%E4%B8%80%E8%BE%86%20%7Bargument%20name%3D%22new%20vehicle%22%20default%3D%22Tesla%22%7D%EF%BC%8C%E5%B9%B6%E5%B0%86%E6%A0%91%E6%9C%A8%E6%8D%A2%E6%88%90%E9%AB%98%E8%80%B8%E7%9A%84%20%7Bargument%20name%3D%22new%20background%20element%22%20default%3D%22skyscrapers%22%7D%E3%80%82)**
 
 ---
 
@@ -4619,6 +4619,6 @@ Change the car to a {argument name="new vehicle" default="Tesla"} and the trees 
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T16:13:34.120Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T20:11:36.507Z</sub>
 
 </div>

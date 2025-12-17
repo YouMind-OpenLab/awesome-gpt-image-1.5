@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **108** |
 | ⭐ Destaque | **1** |
-| 🔄 Última atualização | **quarta-feira, 17 de dezembro de 2025 às 16:13:48 UTC** |
+| 🔄 Última atualização | **quarta-feira, 17 de dezembro de 2025 às 20:11:45 UTC** |
 
 </div>
 
@@ -105,12 +105,12 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 #### 📖 Descrição
 
-Um prompt usado para testar os recursos de aprimoramento e consistência de imagem do GPT-Image-1.5, com foco específico em melhorar as roupas, a expressão e o ambiente de um personagem em uma fotografia para torná-los mais atraentes e cativantes. Este prompt é útil para gerar retratos de alta qualidade ou imagens no estilo de "sessão de fotos".
+Um prompt usado para testar os recursos de aprimoramento e consistência de imagem do GPT-Image-1.5, com foco específico em melhorar a roupa, a expressão e o ambiente de um personagem em uma fotografia para torná-los mais atraentes e cativantes. Este prompt é útil para gerar retratos de alta qualidade ou imagens no estilo de "sessão de fotos".
 
 #### 📝 Prompt
 
 ```
-Deixe a roupa, as ações, as expressões e o ambiente do personagem na imagem mais bonitos e atraentes, levando-o ao limite do que você pode fazer.
+Torne as roupas, ações, expressões e o ambiente do personagem na imagem mais bonitos e atraentes, levando-o ao limite do que você pode fazer
 ```
 
 #### 🖼️ Imagens geradas
@@ -140,7 +140,7 @@ Deixe a roupa, as ações, as expressões e o ambiente do personagem na imagem m
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Deixe%20a%20roupa%2C%20as%20a%C3%A7%C3%B5es%2C%20as%20express%C3%B5es%20e%20o%20ambiente%20do%20personagem%20na%20imagem%20mais%20bonitos%20e%20atraentes%2C%20levando-o%20ao%20limite%20do%20que%20voc%C3%AA%20pode%20fazer.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Torne%20as%20roupas%2C%20a%C3%A7%C3%B5es%2C%20express%C3%B5es%20e%20o%20ambiente%20do%20personagem%20na%20imagem%20mais%20bonitos%20e%20atraentes%2C%20levando-o%20ao%20limite%20do%20que%20voc%C3%AA%20pode%20fazer)**
 
 ---
 
@@ -154,12 +154,12 @@ Deixe a roupa, as ações, as expressões e o ambiente do personagem na imagem m
 
 #### 📖 Descrição
 
-Um prompt complexo que exige uma sequência de 4 painéis mostrando uma xícara de chá caindo, quebrando e estilhaçando, com ênfase em manter a consistência da xícara e representar com precisão a física das partes que se quebram.
+Um prompt complexo que exige uma sequência de 4 painéis mostrando uma xícara de chá caindo, quebrando e estilhaçando, com ênfase na manutenção da consistência da xícara e na representação precisa da física das partes que se quebram.
 
 #### 📝 Prompt
 
 ```
-- Eu quero uma imagem de 4 painéis com uma xícara de chá caindo e quebrando. As 4 imagens mostrarão a xícara em vários estágios de queda, quebra e estilhaçamento.
+- Eu quero uma imagem de 4 painéis com uma xícara de chá caindo e quebrando. As 4 imagens devem mostrá-la em vários estágios de queda, quebra e estilhaçamento.
 - É a mesma xícara caindo, então ela deve manter a consistência das partes quebrando e representar a física corretamente.
 ```
 
@@ -184,7 +184,7 @@ Um prompt complexo que exige uma sequência de 4 painéis mostrando uma xícara 
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=-%20Eu%20quero%20uma%20imagem%20de%204%20pain%C3%A9is%20com%20uma%20x%C3%ADcara%20de%20ch%C3%A1%20caindo%20e%20quebrando.%20As%204%20imagens%20mostrar%C3%A3o%20a%20x%C3%ADcara%20em%20v%C3%A1rios%20est%C3%A1gios%20de%20queda%2C%20quebra%20e%20estilha%C3%A7amento.%0A-%20%C3%89%20a%20mesma%20x%C3%ADcara%20caindo%2C%20ent%C3%A3o%20ela%20deve%20manter%20a%20consist%C3%AAncia%20das%20partes%20quebrando%20e%20representar%20a%20f%C3%ADsica%20corretamente.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=-%20Eu%20quero%20uma%20imagem%20de%204%20pain%C3%A9is%20com%20uma%20x%C3%ADcara%20de%20ch%C3%A1%20caindo%20e%20quebrando.%20As%204%20imagens%20devem%20mostr%C3%A1-la%20em%20v%C3%A1rios%20est%C3%A1gios%20de%20queda%2C%20quebra%20e%20estilha%C3%A7amento.%0A-%20%C3%89%20a%20mesma%20x%C3%ADcara%20caindo%2C%20ent%C3%A3o%20ela%20deve%20manter%20a%20consist%C3%AAncia%20das%20partes%20quebrando%20e%20representar%20a%20f%C3%ADsica%20corretamente.)**
 
 ---
 
@@ -194,7 +194,7 @@ Um prompt complexo que exige uma sequência de 4 painéis mostrando uma xícara 
 
 #### 📖 Descrição
 
-Um prompt projetado para gerar um infográfico complexo que explica a sequência de Fibonacci, exigindo que a representação visual incorpore tanto conceitos matemáticos quanto exemplos de codificação, visando um layout limpo e uma hierarquia visual clara.
+Um prompt projetado para gerar um infográfico complexo que explica a sequência de Fibonacci, exigindo que a representação visual incorpore conceitos matemáticos e exemplos de codificação, visando um layout limpo e uma hierarquia visual clara.
 
 #### 📝 Prompt
 
@@ -232,7 +232,7 @@ Um prompt para gerar um design de UI de site para um site de presentes de Natal,
 #### 📝 Prompt
 
 ```
-Site de presentes de Natal em modo escuro. UI em glassmorphism, detalhes em vermelho escuro e verde pinho, cartões de vidro fosco com neve, partículas sutis de neve caindo
+Site de presentes de Natal em modo escuro. UI em glassmorphism, detalhes em vermelho escuro e verde-pinho, cartões de vidro fosco com neve, partículas sutis de neve caindo.
 ```
 
 #### 🖼️ Imagens geradas
@@ -250,7 +250,7 @@ Site de presentes de Natal em modo escuro. UI em glassmorphism, detalhes em verm
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Site%20de%20presentes%20de%20Natal%20em%20modo%20escuro.%20UI%20em%20glassmorphism%2C%20detalhes%20em%20vermelho%20escuro%20e%20verde%20pinho%2C%20cart%C3%B5es%20de%20vidro%20fosco%20com%20neve%2C%20part%C3%ADculas%20sutis%20de%20neve%20caindo)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Site%20de%20presentes%20de%20Natal%20em%20modo%20escuro.%20UI%20em%20glassmorphism%2C%20detalhes%20em%20vermelho%20escuro%20e%20verde-pinho%2C%20cart%C3%B5es%20de%20vidro%20fosco%20com%20neve%2C%20part%C3%ADculas%20sutis%20de%20neve%20caindo.)**
 
 ---
 
@@ -265,7 +265,7 @@ Um prompt projetado para gerar uma selfie altamente realista e pouco lisonjeira 
 #### 📝 Prompt
 
 ```
-Uma selfie de câmera frontal de Sam Altman onde o flash disparou por engano. Testa esbranquiçada, tons de pele avermelhados, sombras fortes sob os olhos, fundo quase preto. A pessoa parece irritada, piscando pela metade. Leve dedo no quadro, proporção de aspecto 3:4.
+Uma selfie de Sam Altman tirada com a câmera frontal, onde o flash disparou por engano. Testa esbranquiçada, tons de pele avermelhados, sombras fortes sob os olhos, fundo quase preto. A pessoa parece irritada, piscando. Um leve dedo no enquadramento, proporção 3:4.
 ```
 
 #### 🖼️ Imagens geradas
@@ -289,23 +289,23 @@ Uma selfie de câmera frontal de Sam Altman onde o flash disparou por engano. Te
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20selfie%20de%20c%C3%A2mera%20frontal%20de%20Sam%20Altman%20onde%20o%20flash%20disparou%20por%20engano.%20Testa%20esbranqui%C3%A7ada%2C%20tons%20de%20pele%20avermelhados%2C%20sombras%20fortes%20sob%20os%20olhos%2C%20fundo%20quase%20preto.%20A%20pessoa%20parece%20irritada%2C%20piscando%20pela%20metade.%20Leve%20dedo%20no%20quadro%2C%20propor%C3%A7%C3%A3o%20de%20aspecto%203%3A4.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20selfie%20de%20Sam%20Altman%20tirada%20com%20a%20c%C3%A2mera%20frontal%2C%20onde%20o%20flash%20disparou%20por%20engano.%20Testa%20esbranqui%C3%A7ada%2C%20tons%20de%20pele%20avermelhados%2C%20sombras%20fortes%20sob%20os%20olhos%2C%20fundo%20quase%20preto.%20A%20pessoa%20parece%20irritada%2C%20piscando.%20Um%20leve%20dedo%20no%20enquadramento%2C%20propor%C3%A7%C3%A3o%203%3A4.)**
 
 ---
 
-### No. 5: Edição Artística de Retratos para Meninas (Imagem para Imagem)
+### No. 5: Edição Artística de Retratos para Garotas (Imagem para Imagem)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt para editar uma foto enviada de uma garota em um retrato artístico. Requer a preservação do rosto enquanto altera a pose, a roupa (blusa rosa moderna, jeans cinza, tênis robustos), a expressão (sorriso fofo olhando para cima) e a definição de um fundo artístico monocromático apresentando um perfil lateral em close do mesmo rosto. Este prompt enfatiza 100% de correspondência de rosto e corpo com a imagem de referência.
+Um prompt para editar uma foto enviada de uma garota em um retrato artístico. Ele exige a preservação do rosto enquanto altera a pose, a roupa (blusa rosa moderna, jeans cinza, tênis robustos), a expressão (sorriso fofo olhando para cima) e a definição de um fundo artístico monocromático apresentando um close-up de perfil do mesmo rosto. Este prompt enfatiza 100% de correspondência de rosto e corpo com a imagem de referência.
 
 #### 📝 Prompt
 
 ```
-Por favor, edite esta foto sem alterar o rosto, transformando-a em um retrato artístico. A mulher deve estar elegantemente sentada no chão, vestindo um top moderno {argument name="top color" default="rosa"}, jeans cinza folgado e macio, e tênis robustos cinza e branco. Sua expressão facial é um sorriso fofo enquanto olha para cima. O fundo deve ser uma composição artística monocromática (preto e branco) apresentando um close-up suave do perfil lateral do mesmo rosto. O rosto e o corpo devem corresponder 100% à imagem de referência que carreguei.
+Por favor, edite esta foto sem alterar o rosto, transformando-a em um retrato artístico. A mulher deve estar elegantemente sentada no chão, vestindo um top moderno {argument name="top color" default="rosa"}, jeans cinza soltos e macios, e tênis robustos cinza e branco. Sua expressão facial é um sorriso fofo enquanto olha para cima. O fundo deve ser uma composição artística monocromática (preto e branco) apresentando um perfil lateral suave em close do mesmo rosto. Rosto e corpo 100% compatíveis com a imagem de referência que carreguei.
 ```
 
 #### 🖼️ Imagens geradas
@@ -313,25 +313,25 @@ Por favor, edite esta foto sem alterar o rosto, transformando-a em um retrato ar
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949097420_4awktg_G8WDowLa4AAP1qd.jpg" width="600" alt="Edição Artística de Retratos para Meninas (Imagem para Imagem) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949097420_4awktg_G8WDowLa4AAP1qd.jpg" width="600" alt="Edição Artística de Retratos para Garotas (Imagem para Imagem) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949098277_8ksiyk_G8WDoxhbcAE8ZqJ.jpg" width="600" alt="Edição Artística de Retratos para Meninas (Imagem para Imagem) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949098277_8ksiyk_G8WDoxhbcAE8ZqJ.jpg" width="600" alt="Edição Artística de Retratos para Garotas (Imagem para Imagem) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949097440_tdl8pe_G8WDoxna4AABsol.jpg" width="600" alt="Edição Artística de Retratos para Meninas (Imagem para Imagem) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765949097440_tdl8pe_G8WDoxna4AABsol.jpg" width="600" alt="Edição Artística de Retratos para Garotas (Imagem para Imagem) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949099737_8r98s8_G8WDo0Ga4AIt1B9.jpg" width="600" alt="Edição Artística de Retratos para Meninas (Imagem para Imagem) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765949099737_8r98s8_G8WDo0Ga4AIt1B9.jpg" width="600" alt="Edição Artística de Retratos para Garotas (Imagem para Imagem) - Image 4">
 </div>
 
 #### 📌 Detalhes
@@ -341,7 +341,7 @@ Por favor, edite esta foto sem alterar o rosto, transformando-a em um retrato ar
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Por%20favor%2C%20edite%20esta%20foto%20sem%20alterar%20o%20rosto%2C%20transformando-a%20em%20um%20retrato%20art%C3%ADstico.%20A%20mulher%20deve%20estar%20elegantemente%20sentada%20no%20ch%C3%A3o%2C%20vestindo%20um%20top%20moderno%20%7Bargument%20name%3D%22top%20color%22%20default%3D%22rosa%22%7D%2C%20jeans%20cinza%20folgado%20e%20macio%2C%20e%20t%C3%AAnis%20robustos%20cinza%20e%20branco.%20Sua%20express%C3%A3o%20facial%20%C3%A9%20um%20sorriso%20fofo%20enquanto%20olha%20para%20cima.%20O%20fundo%20deve%20ser%20uma%20composi%C3%A7%C3%A3o%20art%C3%ADstica%20monocrom%C3%A1tica%20(preto%20e%20branco)%20apresentando%20um%20close-up%20suave%20do%20perfil%20lateral%20do%20mesmo%20rosto.%20O%20rosto%20e%20o%20corpo%20devem%20corresponder%20100%25%20%C3%A0%20imagem%20de%20refer%C3%AAncia%20que%20carreguei.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Por%20favor%2C%20edite%20esta%20foto%20sem%20alterar%20o%20rosto%2C%20transformando-a%20em%20um%20retrato%20art%C3%ADstico.%20A%20mulher%20deve%20estar%20elegantemente%20sentada%20no%20ch%C3%A3o%2C%20vestindo%20um%20top%20moderno%20%7Bargument%20name%3D%22top%20color%22%20default%3D%22rosa%22%7D%2C%20jeans%20cinza%20soltos%20e%20macios%2C%20e%20t%C3%AAnis%20robustos%20cinza%20e%20branco.%20Sua%20express%C3%A3o%20facial%20%C3%A9%20um%20sorriso%20fofo%20enquanto%20olha%20para%20cima.%20O%20fundo%20deve%20ser%20uma%20composi%C3%A7%C3%A3o%20art%C3%ADstica%20monocrom%C3%A1tica%20(preto%20e%20branco)%20apresentando%20um%20perfil%20lateral%20suave%20em%20close%20do%20mesmo%20rosto.%20Rosto%20e%20corpo%20100%25%20compat%C3%ADveis%20com%20a%20imagem%20de%20refer%C3%AAncia%20que%20carreguei.)**
 
 ---
 
@@ -351,13 +351,13 @@ Por favor, edite esta foto sem alterar o rosto, transformando-a em um retrato ar
 
 #### 📖 Descrição
 
-Uma extensão do prompt anterior da travessia de Shibuya, adicionando detalhes específicos para uma mulher (20 e poucos anos, japonesa, bonita, estilo 'gyaru') a ser incluída na cena. Isso foi usado para uma comparação de "beleza" entre Nano banana Pro e GPT Image 1.5.
+Uma extensão do prompt anterior da travessia de Shibuya, adicionando detalhes específicos para uma mulher (20 anos, japonesa, bonita, estilo "gyaru") a ser incluída na cena. Isso foi usado para uma comparação de "beleza" entre o Nano banana Pro e o GPT Image 1.5.
 
 #### 📝 Prompt
 
 ```
 Cruzamento de Shibuya na noite de contagem regressiva do Ano Novo, lotado de pessoas, outdoors luminosos, neve e reflexos realistas no asfalto molhado,
-mulher japonesa, 20 e poucos anos, bonita, gyaru
+20 anos, japonesa, mulher bonita, gyaru
 ```
 
 #### 🖼️ Imagens geradas
@@ -381,22 +381,22 @@ mulher japonesa, 20 e poucos anos, bonita, gyaru
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Cruzamento%20de%20Shibuya%20na%20noite%20de%20contagem%20regressiva%20do%20Ano%20Novo%2C%20lotado%20de%20pessoas%2C%20outdoors%20luminosos%2C%20neve%20e%20reflexos%20realistas%20no%20asfalto%20molhado%2C%0Amulher%20japonesa%2C%2020%20e%20poucos%20anos%2C%20bonita%2C%20gyaru)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Cruzamento%20de%20Shibuya%20na%20noite%20de%20contagem%20regressiva%20do%20Ano%20Novo%2C%20lotado%20de%20pessoas%2C%20outdoors%20luminosos%2C%20neve%20e%20reflexos%20realistas%20no%20asfalto%20molhado%2C%0A20%20anos%2C%20japonesa%2C%20mulher%20bonita%2C%20gyaru)**
 
 ---
 
-### No. 7: Selfie de Espelho Amadora e Sem Filtro de CEOs de Tecnologia
+### No. 7: Selfie Amadora e Sem Filtro de CEOs de Tecnologia no Espelho
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt altamente específico, projetado para testar o fotorrealismo e a espontaneidade, solicitando uma selfie de espelho amadora e sem filtro, com Sam Altman, Elon Musk e Jensen Huang, enfatizando imperfeições naturais, iluminação irregular e composição imperfeita.
+Um prompt altamente específico, projetado para testar o fotorrealismo e a espontaneidade, solicitando uma selfie amadora e sem filtro no espelho, com Sam Altman, Elon Musk e Jensen Huang, enfatizando imperfeições naturais, iluminação irregular e composição imperfeita.
 
 #### 📝 Prompt
 
 ```
-Uma selfie amadora, crua e sem filtros, tirada com um iPhone 16 Pro Max dentro de um cômodo moderno e habitado. Sam Altman está mais próximo do espelho, segurando o telefone naturalmente na altura do peito, com uma postura casual e expressão relaxada. Elon Musk e Jensen Huang estão ao lado dele, posicionados informalmente, olhando para o espelho em ângulos ligeiramente imperfeitos. Textura de pele natural com poros visíveis e pequenas imperfeições, sem retoques ou filtros de beleza. Iluminação interna quente com sombras irregulares, reflexos sutis e leve granulação. Enquadramento ligeiramente descentralizado, composição imperfeita, realismo autêntico de smartphone — espontâneo, humano e sem poses.
+Uma selfie de espelho amadora, crua e sem filtros, tirada com um iPhone 16 Pro Max dentro de um cômodo interno moderno e habitado. Sam Altman está mais próximo do espelho, segurando o telefone naturalmente na altura do peito, com postura casual e expressão relaxada. Elon Musk e Jensen Huang estão ao lado dele, posicionados informalmente, olhando para o espelho em ângulos ligeiramente imperfeitos. Textura de pele natural com poros visíveis e pequenas imperfeições, sem retoques ou filtros de beleza. Iluminação interna quente com sombras irregulares, reflexos sutis, leve granulação. Enquadramento ligeiramente descentralizado, composição imperfeita, realismo autêntico de smartphone — espontâneo, humano e sem poses.
 ```
 
 #### 🖼️ Imagens geradas
@@ -404,13 +404,13 @@ Uma selfie amadora, crua e sem filtros, tirada com um iPhone 16 Pro Max dentro d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949106398_ft61us_G8V_8TuaAAAUVF-.jpg" width="600" alt="Selfie de Espelho Amadora e Sem Filtro de CEOs de Tecnologia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949106398_ft61us_G8V_8TuaAAAUVF-.jpg" width="600" alt="Selfie Amadora e Sem Filtro de CEOs de Tecnologia no Espelho - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949106906_o921vh_G8V_8YEbAAAp3Kz.jpg" width="600" alt="Selfie de Espelho Amadora e Sem Filtro de CEOs de Tecnologia - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949106906_o921vh_G8V_8YEbAAAp3Kz.jpg" width="600" alt="Selfie Amadora e Sem Filtro de CEOs de Tecnologia no Espelho - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -420,7 +420,7 @@ Uma selfie amadora, crua e sem filtros, tirada com um iPhone 16 Pro Max dentro d
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20selfie%20amadora%2C%20crua%20e%20sem%20filtros%2C%20tirada%20com%20um%20iPhone%2016%20Pro%20Max%20dentro%20de%20um%20c%C3%B4modo%20moderno%20e%20habitado.%20Sam%20Altman%20est%C3%A1%20mais%20pr%C3%B3ximo%20do%20espelho%2C%20segurando%20o%20telefone%20naturalmente%20na%20altura%20do%20peito%2C%20com%20uma%20postura%20casual%20e%20express%C3%A3o%20relaxada.%20Elon%20Musk%20e%20Jensen%20Huang%20est%C3%A3o%20ao%20lado%20dele%2C%20posicionados%20informalmente%2C%20olhando%20para%20o%20espelho%20em%20%C3%A2ngulos%20ligeiramente%20imperfeitos.%20Textura%20de%20pele%20natural%20com%20poros%20vis%C3%ADveis%20e%20pequenas%20imperfei%C3%A7%C3%B5es%2C%20sem%20retoques%20ou%20filtros%20de%20beleza.%20Ilumina%C3%A7%C3%A3o%20interna%20quente%20com%20sombras%20irregulares%2C%20reflexos%20sutis%20e%20leve%20granula%C3%A7%C3%A3o.%20Enquadramento%20ligeiramente%20descentralizado%2C%20composi%C3%A7%C3%A3o%20imperfeita%2C%20realismo%20aut%C3%AAntico%20de%20smartphone%20%E2%80%94%20espont%C3%A2neo%2C%20humano%20e%20sem%20poses.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20selfie%20de%20espelho%20amadora%2C%20crua%20e%20sem%20filtros%2C%20tirada%20com%20um%20iPhone%2016%20Pro%20Max%20dentro%20de%20um%20c%C3%B4modo%20interno%20moderno%20e%20habitado.%20Sam%20Altman%20est%C3%A1%20mais%20pr%C3%B3ximo%20do%20espelho%2C%20segurando%20o%20telefone%20naturalmente%20na%20altura%20do%20peito%2C%20com%20postura%20casual%20e%20express%C3%A3o%20relaxada.%20Elon%20Musk%20e%20Jensen%20Huang%20est%C3%A3o%20ao%20lado%20dele%2C%20posicionados%20informalmente%2C%20olhando%20para%20o%20espelho%20em%20%C3%A2ngulos%20ligeiramente%20imperfeitos.%20Textura%20de%20pele%20natural%20com%20poros%20vis%C3%ADveis%20e%20pequenas%20imperfei%C3%A7%C3%B5es%2C%20sem%20retoques%20ou%20filtros%20de%20beleza.%20Ilumina%C3%A7%C3%A3o%20interna%20quente%20com%20sombras%20irregulares%2C%20reflexos%20sutis%2C%20leve%20granula%C3%A7%C3%A3o.%20Enquadramento%20ligeiramente%20descentralizado%2C%20composi%C3%A7%C3%A3o%20imperfeita%2C%20realismo%20aut%C3%AAntico%20de%20smartphone%20%E2%80%94%20espont%C3%A2neo%2C%20humano%20e%20sem%20poses.)**
 
 ---
 
@@ -436,7 +436,7 @@ Um prompt detalhado solicitando uma fotografia realista de alta resolução de u
 #### 📝 Prompt
 
 ```
-Uma fotografia realista e de alta resolução de [{argument name="statue name" default="Estátua de Ksitigarbha Bodhisattva de 99 metros do Monte Jiuhua"}]. A imagem apresenta uma sobreposição de mídia mista de esquemas técnicos brancos desenhados à mão e diagramas de engenharia superpostos ao objeto. Os elementos incluem linhas de dimensão, setas indicando movimento ou força, rótulos de texto e um detalhe de corte transversal. A estética é de um infográfico educacional, misturando fotografia do mundo real com análise técnica precisa em estilo giz branco, resolução 4k.
+Uma fotografia realista de alta resolução de [{argument name="statue name" default="Estátua de 99 metros de Ksitigarbha Bodhisattva do Monte Jiuhua"}]. A imagem apresenta uma sobreposição de mídia mista de esquemas técnicos e diagramas de engenharia brancos desenhados à mão, superpostos no tema. Os elementos incluem linhas de dimensão, setas indicando movimento ou força, rótulos de texto e um detalhe de corte transversal. A estética é de um infográfico educacional, misturando fotografia do mundo real com análise técnica precisa em estilo giz branco, resolução 4k.
 ```
 
 #### 🖼️ Imagens geradas
@@ -466,22 +466,22 @@ Uma fotografia realista e de alta resolução de [{argument name="statue name" d
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20fotografia%20realista%20e%20de%20alta%20resolu%C3%A7%C3%A3o%20de%20%5B%7Bargument%20name%3D%22statue%20name%22%20default%3D%22Est%C3%A1tua%20de%20Ksitigarbha%20Bodhisattva%20de%2099%20metros%20do%20Monte%20Jiuhua%22%7D%5D.%20A%20imagem%20apresenta%20uma%20sobreposi%C3%A7%C3%A3o%20de%20m%C3%ADdia%20mista%20de%20esquemas%20t%C3%A9cnicos%20brancos%20desenhados%20%C3%A0%20m%C3%A3o%20e%20diagramas%20de%20engenharia%20superpostos%20ao%20objeto.%20Os%20elementos%20incluem%20linhas%20de%20dimens%C3%A3o%2C%20setas%20indicando%20movimento%20ou%20for%C3%A7a%2C%20r%C3%B3tulos%20de%20texto%20e%20um%20detalhe%20de%20corte%20transversal.%20A%20est%C3%A9tica%20%C3%A9%20de%20um%20infogr%C3%A1fico%20educacional%2C%20misturando%20fotografia%20do%20mundo%20real%20com%20an%C3%A1lise%20t%C3%A9cnica%20precisa%20em%20estilo%20giz%20branco%2C%20resolu%C3%A7%C3%A3o%204k.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20fotografia%20realista%20de%20alta%20resolu%C3%A7%C3%A3o%20de%20%5B%7Bargument%20name%3D%22statue%20name%22%20default%3D%22Est%C3%A1tua%20de%2099%20metros%20de%20Ksitigarbha%20Bodhisattva%20do%20Monte%20Jiuhua%22%7D%5D.%20A%20imagem%20apresenta%20uma%20sobreposi%C3%A7%C3%A3o%20de%20m%C3%ADdia%20mista%20de%20esquemas%20t%C3%A9cnicos%20e%20diagramas%20de%20engenharia%20brancos%20desenhados%20%C3%A0%20m%C3%A3o%2C%20superpostos%20no%20tema.%20Os%20elementos%20incluem%20linhas%20de%20dimens%C3%A3o%2C%20setas%20indicando%20movimento%20ou%20for%C3%A7a%2C%20r%C3%B3tulos%20de%20texto%20e%20um%20detalhe%20de%20corte%20transversal.%20A%20est%C3%A9tica%20%C3%A9%20de%20um%20infogr%C3%A1fico%20educacional%2C%20misturando%20fotografia%20do%20mundo%20real%20com%20an%C3%A1lise%20t%C3%A9cnica%20precisa%20em%20estilo%20giz%20branco%2C%20resolu%C3%A7%C3%A3o%204k.)**
 
 ---
 
-### No. 9: Foto aérea do cruzamento de Shibuya na contagem regressiva do Ano Novo
+### No. 9: Foto aérea do cruzamento de Shibuya na contagem regressiva da véspera de Ano Novo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Descrição
 
-Um prompt detalhado usado para gerar uma fotografia aérea altamente realista do cruzamento de Shibuya durante a contagem regressiva do Ano Novo. Ele especifica elementos como multidões, letreiros luminosos, confetes e reflexos realistas no asfalto molhado, usado para comparar o Nano banana Pro e o GPT Image 1.5.
+Um prompt detalhado usado para gerar uma fotografia aérea altamente realista do cruzamento de Shibuya durante a contagem regressiva da véspera de Ano Novo. Ele especifica elementos como multidões, letreiros luminosos, confetes e reflexos realistas no asfalto molhado, usado para comparar o Nano banana Pro e o GPT Image 1.5.
 
 #### 📝 Prompt
 
 ```
-Uma fotografia aérea altamente detalhada do cruzamento de Shibuya na noite de contagem regressiva de Ano Novo, lotado de pessoas, outdoors luminosos, confetes voando no ar e reflexos realistas no asfalto molhado.
+Uma fotografia aérea altamente detalhada do cruzamento de Shibuya na noite de contagem regressiva do Ano Novo, lotado de pessoas, com outdoors luminosos, confetes voando no ar e reflexos realistas no asfalto molhado.
 ```
 
 #### 🖼️ Imagens geradas
@@ -489,13 +489,13 @@ Uma fotografia aérea altamente detalhada do cruzamento de Shibuya na noite de c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949132299_59p0l1_G8V4vnZbQAAMMYY.jpg" width="600" alt="Foto aérea do cruzamento de Shibuya na contagem regressiva do Ano Novo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949132299_59p0l1_G8V4vnZbQAAMMYY.jpg" width="600" alt="Foto aérea do cruzamento de Shibuya na contagem regressiva da véspera de Ano Novo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949132836_y5bwg3_G8V4vnYaQAAmHhP.jpg" width="600" alt="Foto aérea do cruzamento de Shibuya na contagem regressiva do Ano Novo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949132836_y5bwg3_G8V4vnYaQAAmHhP.jpg" width="600" alt="Foto aérea do cruzamento de Shibuya na contagem regressiva da véspera de Ano Novo - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -505,7 +505,7 @@ Uma fotografia aérea altamente detalhada do cruzamento de Shibuya na noite de c
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20fotografia%20a%C3%A9rea%20altamente%20detalhada%20do%20cruzamento%20de%20Shibuya%20na%20noite%20de%20contagem%20regressiva%20de%20Ano%20Novo%2C%20lotado%20de%20pessoas%2C%20outdoors%20luminosos%2C%20confetes%20voando%20no%20ar%20e%20reflexos%20realistas%20no%20asfalto%20molhado.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20fotografia%20a%C3%A9rea%20altamente%20detalhada%20do%20cruzamento%20de%20Shibuya%20na%20noite%20de%20contagem%20regressiva%20do%20Ano%20Novo%2C%20lotado%20de%20pessoas%2C%20com%20outdoors%20luminosos%2C%20confetes%20voando%20no%20ar%20e%20reflexos%20realistas%20no%20asfalto%20molhado.)**
 
 ---
 
@@ -515,7 +515,7 @@ Uma fotografia aérea altamente detalhada do cruzamento de Shibuya na noite de c
 
 #### 📖 Descrição
 
-Um prompt JSON extremamente detalhado e estruturado, projetado para edição de imagens, com foco em alcançar realismo fotográfico, preservando estritamente as características de identidade (rosto, proporções corporais) de imagens de referência carregadas, proibindo explicitamente o embelezamento ou suavização.
+Um prompt JSON extremamente detalhado e estruturado, projetado para edição de imagens, com foco em alcançar realismo fotográfico, preservando estritamente as características de identidade (rosto, proporções corporais) das imagens de referência carregadas, proibindo explicitamente o embelezamento ou suavização.
 
 #### 📝 Prompt
 
@@ -561,8 +561,8 @@ Um prompt JSON extremamente detalhado e estruturado, projetado para edição de 
     "pose": {
       "orientation": "perfil lateral",
       "facing": "direita",
-      "head": "ligeiramente inclinada",
-      "posture": "postura humana natural e relaxada"
+      "head": "ligeiramente curvada",
+      "posture": "postura humana relaxada natural"
     },
     "expression": "neutra e real, não de modelo"
   },
@@ -588,7 +588,7 @@ Um prompt JSON extremamente detalhado e estruturado, projetado para edição de 
     "type": "iluminação fotográfica real",
     "style": "luz principal suave e difusa",
     "rim_light": "luz de borda quente muito sutil",
-    "instruction": "evitar brilho forte, evitar halo, evitar iluminação fantasiosa"
+    "instruction": "evitar brilho forte, evitar auréola, evitar iluminação fantasiosa"
   },
   "effects": {
     "smoke": {
@@ -602,7 +602,7 @@ Um prompt JSON extremamente detalhado e estruturado, projetado para edição de 
     },
     "aura": {
       "intensity": "mínima",
-      "instruction": "apenas separação de fundo, não energia estilizada"
+      "instruction": "apenas separação do fundo, não energia estilizada"
     }
   },
   "background": {
@@ -639,7 +639,7 @@ Um prompt JSON extremamente detalhado e estruturado, projetado para edição de 
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_edit_prompt%22%2C%0A%20%20%22engine%22%3A%20%22Gemini%20Nano%20Banana%20Pro%22%2C%0A%20%20%22reference_images%22%3A%20%5B%0A%20%20%20%20%22uploaded_face_photo%22%2C%0A%20%20%20%20%22uploaded_full_body_photo%22%0A%20%20%5D%2C%0A%20%20%22edit_priority%22%3A%20%22realismo%20fotogr%C3%A1fico%20em%20vez%20de%20estiliza%C3%A7%C3%A3o%22%2C%0A%20%20%22identity_lock%22%3A%20%7B%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22match_reference_priority%22%3A%20%22absoluta%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22usar%20a%20foto%20do%20rosto%20carregada%20como%20a%20%C3%9ANICA%20fonte%20de%20verdade%20facial%22%2C%0A%20%20%20%20%20%20%22preserve_features%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22formato%20exato%20dos%20olhos%22%2C%0A%20%20%20%20%20%20%20%20%22largura%20e%20ponta%20exatas%20do%20nariz%22%2C%0A%20%20%20%20%20%20%20%20%22formato%20exato%20dos%20l%C3%A1bios%22%2C%0A%20%20%20%20%20%20%20%20%22densidade%20e%20irregularidade%20da%20barba%22%2C%0A%20%20%20%20%20%20%20%20%22poros%20naturais%20da%20pele%22%2C%0A%20%20%20%20%20%20%20%20%22assimetria%20menor%22%2C%0A%20%20%20%20%20%20%20%20%22formato%20e%20posi%C3%A7%C3%A3o%20dos%20%C3%B3culos%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22forbidden%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22embelezamento%20facial%22%2C%0A%20%20%20%20%20%20%20%20%22remodelagem%20facial%22%2C%0A%20%20%20%20%20%20%20%20%22suaviza%C3%A7%C3%A3o%20da%20pele%22%2C%0A%20%20%20%20%20%20%20%20%22melhora%20da%20linha%20da%20mand%C3%ADbula%22%2C%0A%20%20%20%20%20%20%20%20%22corre%C3%A7%C3%A3o%20de%20simetria%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22body%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve%22%3A%20true%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22manter%20as%20propor%C3%A7%C3%B5es%20naturais%20do%20corpo%20exatamente%20como%20carregadas%22%2C%0A%20%20%20%20%20%20%22no_slimming%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_broadening%22%3A%20true%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22masculino%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22orientation%22%3A%20%22perfil%20lateral%22%2C%0A%20%20%20%20%20%20%22facing%22%3A%20%22direita%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22ligeiramente%20inclinada%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22postura%20humana%20natural%20e%20relaxada%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%22neutra%20e%20real%2C%20n%C3%A3o%20de%20modelo%22%0A%20%20%7D%2C%0A%20%20%22skin_and_texture%22%3A%20%7B%0A%20%20%20%20%22skin_type%22%3A%20%22pele%20humana%20real%22%2C%0A%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%22poros%20vis%C3%ADveis%22%2C%0A%20%20%20%20%20%20%22brilho%20natural%20da%20oleosidade%22%2C%0A%20%20%20%20%20%20%22pequenas%20imperfei%C3%A7%C3%B5es%22%2C%0A%20%20%20%20%20%20%22tom%20de%20pele%20irregular%22%2C%0A%20%20%20%20%20%20%22textura%20real%20da%20barba%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22explicit_instruction%22%3A%20%22N%C3%83O%20suavizar%20a%20pele%2C%20N%C3%83O%20polir%20o%20rosto%2C%20N%C3%83O%20embelezar%22%0A%20%20%7D%2C%0A%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22casual%20moderno%20realista%22%2C%0A%20%20%20%20%22top_layer%22%3A%20%22jaqueta%20jeans%20preta%20com%20textura%20de%20tecido%20real%22%2C%0A%20%20%20%20%22inner_layer%22%3A%20%22camiseta%20de%20algod%C3%A3o%20escura%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22cal%C3%A7a%20slim-fit%20neutra%22%2C%0A%20%20%20%20%22fabric_behavior%22%3A%20%22rugas%2C%20dobras%2C%20peso%20vis%C3%ADveis%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22ilumina%C3%A7%C3%A3o%20fotogr%C3%A1fica%20real%22%2C%0A%20%20%20%20%22style%22%3A%20%22luz%20principal%20suave%20e%20difusa%22%2C%0A%20%20%20%20%22rim_light%22%3A%20%22luz%20de%20borda%20quente%20muito%20sutil%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22evitar%20brilho%20forte%2C%20evitar%20halo%2C%20evitar%20ilumina%C3%A7%C3%A3o%20fantasiosa%22%0A%20%20%7D%2C%0A%20%20%22effects%22%3A%20%7B%0A%20%20%20%20%22smoke%22%3A%20%7B%0A%20%20%20%20%20%20%22density%22%3A%20%22moderada%22%2C%0A%20%20%20%20%20%20%22realism%22%3A%20%22fuma%C3%A7a%20fotografada%2C%20n%C3%A3o%20CGI%22%2C%0A%20%20%20%20%20%20%22interaction%22%3A%20%22ocultando%20parcialmente%20o%20corpo%20naturalmente%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22particles%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22muito%20baixa%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22elemento%20secund%C3%A1rio%20apenas%2C%20n%C3%A3o%20deve%20afetar%20o%20realismo%20do%20rosto%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22aura%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22m%C3%ADnima%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22apenas%20separa%C3%A7%C3%A3o%20de%20fundo%2C%20n%C3%A3o%20energia%20estilizada%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22remove_original_room%22%3A%20true%2C%0A%20%20%20%20%22environment%22%3A%20%22cen%C3%A1rio%20cinematogr%C3%A1fico%20neutro%22%2C%0A%20%20%20%20%22look%22%3A%20%22ambiente%20real%20fotografado%2C%20n%C3%A3o%20fantasia%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22focus%22%3A%20%22nitidez%20do%20rosto%20com%20a%20mais%20alta%20prioridade%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22DOF%20de%20c%C3%A2mera%20natural%22%2C%0A%20%20%20%20%22lens_simulation%22%3A%20%22lente%20de%20retrato%20de%2050mm%22%0A%20%20%7D%2C%0A%20%20%22signature%22%3A%20%7B%0A%20%20%20%20%22text%22%3A%20%22mukesh%20mehraniya%22%2C%0A%20%20%20%20%22placement%22%3A%20%22canto%20inferior%20direito%22%2C%0A%20%20%20%20%22opacity%22%3A%200.3%0A%20%20%7D%0A%7D)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_edit_prompt%22%2C%0A%20%20%22engine%22%3A%20%22Gemini%20Nano%20Banana%20Pro%22%2C%0A%20%20%22reference_images%22%3A%20%5B%0A%20%20%20%20%22uploaded_face_photo%22%2C%0A%20%20%20%20%22uploaded_full_body_photo%22%0A%20%20%5D%2C%0A%20%20%22edit_priority%22%3A%20%22realismo%20fotogr%C3%A1fico%20em%20vez%20de%20estiliza%C3%A7%C3%A3o%22%2C%0A%20%20%22identity_lock%22%3A%20%7B%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22match_reference_priority%22%3A%20%22absoluta%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22usar%20a%20foto%20do%20rosto%20carregada%20como%20a%20%C3%9ANICA%20fonte%20de%20verdade%20facial%22%2C%0A%20%20%20%20%20%20%22preserve_features%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22formato%20exato%20dos%20olhos%22%2C%0A%20%20%20%20%20%20%20%20%22largura%20e%20ponta%20exatas%20do%20nariz%22%2C%0A%20%20%20%20%20%20%20%20%22formato%20exato%20dos%20l%C3%A1bios%22%2C%0A%20%20%20%20%20%20%20%20%22densidade%20e%20irregularidade%20da%20barba%22%2C%0A%20%20%20%20%20%20%20%20%22poros%20naturais%20da%20pele%22%2C%0A%20%20%20%20%20%20%20%20%22assimetria%20menor%22%2C%0A%20%20%20%20%20%20%20%20%22formato%20e%20posi%C3%A7%C3%A3o%20dos%20%C3%B3culos%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22forbidden%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22embelezamento%20facial%22%2C%0A%20%20%20%20%20%20%20%20%22remodelagem%20facial%22%2C%0A%20%20%20%20%20%20%20%20%22suaviza%C3%A7%C3%A3o%20da%20pele%22%2C%0A%20%20%20%20%20%20%20%20%22melhora%20da%20linha%20da%20mand%C3%ADbula%22%2C%0A%20%20%20%20%20%20%20%20%22corre%C3%A7%C3%A3o%20de%20simetria%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22body%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve%22%3A%20true%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22manter%20as%20propor%C3%A7%C3%B5es%20naturais%20do%20corpo%20exatamente%20como%20carregadas%22%2C%0A%20%20%20%20%20%20%22no_slimming%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_broadening%22%3A%20true%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22masculino%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22orientation%22%3A%20%22perfil%20lateral%22%2C%0A%20%20%20%20%20%20%22facing%22%3A%20%22direita%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22ligeiramente%20curvada%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22postura%20humana%20relaxada%20natural%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%22neutra%20e%20real%2C%20n%C3%A3o%20de%20modelo%22%0A%20%20%7D%2C%0A%20%20%22skin_and_texture%22%3A%20%7B%0A%20%20%20%20%22skin_type%22%3A%20%22pele%20humana%20real%22%2C%0A%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%22poros%20vis%C3%ADveis%22%2C%0A%20%20%20%20%20%20%22brilho%20natural%20da%20oleosidade%22%2C%0A%20%20%20%20%20%20%22pequenas%20imperfei%C3%A7%C3%B5es%22%2C%0A%20%20%20%20%20%20%22tom%20de%20pele%20irregular%22%2C%0A%20%20%20%20%20%20%22textura%20real%20da%20barba%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22explicit_instruction%22%3A%20%22N%C3%83O%20suavizar%20a%20pele%2C%20N%C3%83O%20polir%20o%20rosto%2C%20N%C3%83O%20embelezar%22%0A%20%20%7D%2C%0A%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22casual%20moderno%20realista%22%2C%0A%20%20%20%20%22top_layer%22%3A%20%22jaqueta%20jeans%20preta%20com%20textura%20de%20tecido%20real%22%2C%0A%20%20%20%20%22inner_layer%22%3A%20%22camiseta%20de%20algod%C3%A3o%20escura%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22cal%C3%A7a%20slim-fit%20neutra%22%2C%0A%20%20%20%20%22fabric_behavior%22%3A%20%22rugas%2C%20dobras%2C%20peso%20vis%C3%ADveis%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22ilumina%C3%A7%C3%A3o%20fotogr%C3%A1fica%20real%22%2C%0A%20%20%20%20%22style%22%3A%20%22luz%20principal%20suave%20e%20difusa%22%2C%0A%20%20%20%20%22rim_light%22%3A%20%22luz%20de%20borda%20quente%20muito%20sutil%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22evitar%20brilho%20forte%2C%20evitar%20aur%C3%A9ola%2C%20evitar%20ilumina%C3%A7%C3%A3o%20fantasiosa%22%0A%20%20%7D%2C%0A%20%20%22effects%22%3A%20%7B%0A%20%20%20%20%22smoke%22%3A%20%7B%0A%20%20%20%20%20%20%22density%22%3A%20%22moderada%22%2C%0A%20%20%20%20%20%20%22realism%22%3A%20%22fuma%C3%A7a%20fotografada%2C%20n%C3%A3o%20CGI%22%2C%0A%20%20%20%20%20%20%22interaction%22%3A%20%22ocultando%20parcialmente%20o%20corpo%20naturalmente%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22particles%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22muito%20baixa%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22elemento%20secund%C3%A1rio%20apenas%2C%20n%C3%A3o%20deve%20afetar%20o%20realismo%20do%20rosto%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22aura%22%3A%20%7B%0A%20%20%20%20%20%20%22intensity%22%3A%20%22m%C3%ADnima%22%2C%0A%20%20%20%20%20%20%22instruction%22%3A%20%22apenas%20separa%C3%A7%C3%A3o%20do%20fundo%2C%20n%C3%A3o%20energia%20estilizada%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22remove_original_room%22%3A%20true%2C%0A%20%20%20%20%22environment%22%3A%20%22cen%C3%A1rio%20cinematogr%C3%A1fico%20neutro%22%2C%0A%20%20%20%20%22look%22%3A%20%22ambiente%20real%20fotografado%2C%20n%C3%A3o%20fantasia%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22focus%22%3A%20%22nitidez%20do%20rosto%20com%20a%20mais%20alta%20prioridade%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22DOF%20de%20c%C3%A2mera%20natural%22%2C%0A%20%20%20%20%22lens_simulation%22%3A%20%22lente%20de%20retrato%20de%2050mm%22%0A%20%20%7D%2C%0A%20%20%22signature%22%3A%20%7B%0A%20%20%20%20%22text%22%3A%20%22mukesh%20mehraniya%22%2C%0A%20%20%20%20%22placement%22%3A%20%22canto%20inferior%20direito%22%2C%0A%20%20%20%20%22opacity%22%3A%200.3%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -700,7 +700,7 @@ Transforme a imagem carregada em um esboço monocromático, desenhado à mão, d
 
 #### 📖 Descrição
 
-Um prompt solicitando a geração de uma imagem que represente um espaço liminar, especificamente renderizado dentro da estética e do ambiente do videogame Minecraft.
+Um prompt solicitando a geração de uma imagem que retrate um espaço liminar, especificamente renderizado dentro da estética e do ambiente do videogame Minecraft.
 
 #### 📝 Prompt
 
@@ -733,12 +733,12 @@ Crie uma imagem de um espaço liminar do Minecraft
 
 #### 📖 Descrição
 
-Um prompt detalhado para um retrato de moda cinematográfico apresentando uma jovem mulher encostada em um espelho em um campo gramado, enfatizando composição simétrica, luz natural, texturas suaves e um traje vermelho-escuro vanguardista.
+Um prompt detalhado para um retrato de moda cinematográfico de uma jovem encostada em um espelho em um campo gramado, enfatizando composição simétrica, luz natural, texturas suaves e um traje vermelho-escuro vanguardista.
 
 #### 📝 Prompt
 
 ```
-Retrato de moda cinematográfico de uma jovem mulher encostada em um espelho vertical em um campo gramado. Composição simétrica destacando seu rosto e seu reflexo nítido. Luz natural, texturas de pele suaves e um traje vermelho-escuro vanguardista. Mood calmo e introspectivo com profundidade de campo rasa e estética editorial.
+Retrato de moda cinematográfico de uma jovem mulher encostada em um espelho vertical em um campo gramado. Composição simétrica destacando seu rosto e seu reflexo nítido. Luz natural, texturas de pele suaves e um traje vermelho-escuro vanguardista. Humor calmo e introspectivo com profundidade de campo rasa e estética editorial.
 ```
 
 #### 🖼️ Imagens geradas
@@ -756,7 +756,7 @@ Retrato de moda cinematográfico de uma jovem mulher encostada em um espelho ver
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Retrato%20de%20moda%20cinematogr%C3%A1fico%20de%20uma%20jovem%20mulher%20encostada%20em%20um%20espelho%20vertical%20em%20um%20campo%20gramado.%20Composi%C3%A7%C3%A3o%20sim%C3%A9trica%20destacando%20seu%20rosto%20e%20seu%20reflexo%20n%C3%ADtido.%20Luz%20natural%2C%20texturas%20de%20pele%20suaves%20e%20um%20traje%20vermelho-escuro%20vanguardista.%20Mood%20calmo%20e%20introspectivo%20com%20profundidade%20de%20campo%20rasa%20e%20est%C3%A9tica%20editorial.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Retrato%20de%20moda%20cinematogr%C3%A1fico%20de%20uma%20jovem%20mulher%20encostada%20em%20um%20espelho%20vertical%20em%20um%20campo%20gramado.%20Composi%C3%A7%C3%A3o%20sim%C3%A9trica%20destacando%20seu%20rosto%20e%20seu%20reflexo%20n%C3%ADtido.%20Luz%20natural%2C%20texturas%20de%20pele%20suaves%20e%20um%20traje%20vermelho-escuro%20vanguardista.%20Humor%20calmo%20e%20introspectivo%20com%20profundidade%20de%20campo%20rasa%20e%20est%C3%A9tica%20editorial.)**
 
 ---
 
@@ -905,12 +905,12 @@ Podcast de Joe Rogan com uma discussão com um alienígena cinza. Foto DSLR
 
 #### 📖 Descrição
 
-Um prompt altamente técnico projetado para gerar uma foto de perfil profissional e de alta resolução, especificando enquadramento preciso, vestuário (blazer cinza carvão), cor de fundo (#1A1A1A), iluminação (luz de estúdio brilhante, suave e difusa), detalhes da lente (85mm f/1.8) e gradação de cores, enquanto exige crucialmente que o modelo mantenha a estrutura facial e a identidade exatas de uma imagem de entrada.
+Um prompt altamente técnico projetado para gerar uma foto de perfil profissional e de alta resolução, especificando enquadramento preciso, vestuário (blazer cinza carvão), cor de fundo (#1A1A1A), iluminação (luz de estúdio brilhante, suave e difusa), detalhes da lente (85mm f/1.8) e gradação de cores, ao mesmo tempo em que exige crucialmente que o modelo mantenha a estrutura facial e a identidade exatas de uma imagem de entrada.
 
 #### 📝 Prompt
 
 ```
-Uma foto de perfil profissional e de alta resolução, mantendo a estrutura facial exata, a identidade e as características-chave da pessoa na imagem de entrada. O sujeito é enquadrado do peito para cima, com bastante espaço acima da cabeça. A pessoa olha diretamente para a câmera. Ela está vestida para uma sessão de fotos em estúdio profissional, usando um blazer smart casual premium em um sutil cinza carvão. O fundo é uma cor de estúdio neutra sólida '#1A1A1A'. Fotografia de um ângulo alto com iluminação de estúdio suave, difusa, clara e arejada, iluminando suavemente o rosto e criando um sutil brilho nos olhos, transmitindo uma sensação de clareza. Capturada com uma lente 85mm f/1.8 com profundidade de campo rasa, foco requintado nos olhos e um bokeh bonito e suave. Observe detalhes nítidos na textura do tecido do blazer, fios de cabelo individuais e textura de pele natural e realista. A atmosfera exala confiança, profissionalismo e acessibilidade. Classificação de cores cinematográfica limpa e brilhante com calor sutil e tons equilibrados, garantindo uma sensação polida e contemporânea.
+Uma foto de perfil profissional e de alta resolução, mantendo a estrutura facial exata, a identidade e as características-chave da pessoa na imagem de entrada. O sujeito é enquadrado do peito para cima, com bastante espaço acima da cabeça. A pessoa olha diretamente para a câmera. Ela está estilizada para uma sessão de fotos em estúdio profissional, vestindo um blazer smart casual premium em um sutil cinza carvão. O fundo é uma cor sólida de estúdio neutra '#1A1A1A'. Fotografia de um ângulo alto com iluminação de estúdio suave, difusa, clara e arejada, iluminando suavemente o rosto e criando um sutil brilho nos olhos, transmitindo uma sensação de clareza. Capturada com uma lente 85mm f/1.8 com profundidade de campo rasa, foco requintado nos olhos e um bokeh bonito e suave. Observe detalhes nítidos na textura do tecido do blazer, fios de cabelo individuais e textura de pele natural e realista. A atmosfera exala confiança, profissionalismo e acessibilidade. Classificação de cores cinematográfica limpa e brilhante com calor sutil e tons equilibrados, garantindo uma sensação polida e contemporânea.
 ```
 
 #### 🖼️ Imagens geradas
@@ -928,7 +928,7 @@ Uma foto de perfil profissional e de alta resolução, mantendo a estrutura faci
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20foto%20de%20perfil%20profissional%20e%20de%20alta%20resolu%C3%A7%C3%A3o%2C%20mantendo%20a%20estrutura%20facial%20exata%2C%20a%20identidade%20e%20as%20caracter%C3%ADsticas-chave%20da%20pessoa%20na%20imagem%20de%20entrada.%20O%20sujeito%20%C3%A9%20enquadrado%20do%20peito%20para%20cima%2C%20com%20bastante%20espa%C3%A7o%20acima%20da%20cabe%C3%A7a.%20A%20pessoa%20olha%20diretamente%20para%20a%20c%C3%A2mera.%20Ela%20est%C3%A1%20vestida%20para%20uma%20sess%C3%A3o%20de%20fotos%20em%20est%C3%BAdio%20profissional%2C%20usando%20um%20blazer%20smart%20casual%20premium%20em%20um%20sutil%20cinza%20carv%C3%A3o.%20O%20fundo%20%C3%A9%20uma%20cor%20de%20est%C3%BAdio%20neutra%20s%C3%B3lida%20'%231A1A1A'.%20Fotografia%20de%20um%20%C3%A2ngulo%20alto%20com%20ilumina%C3%A7%C3%A3o%20de%20est%C3%BAdio%20suave%2C%20difusa%2C%20clara%20e%20arejada%2C%20iluminando%20suavemente%20o%20rosto%20e%20criando%20um%20sutil%20brilho%20nos%20olhos%2C%20transmitindo%20uma%20sensa%C3%A7%C3%A3o%20de%20clareza.%20Capturada%20com%20uma%20lente%2085mm%20f%2F1.8%20com%20profundidade%20de%20campo%20rasa%2C%20foco%20requintado%20nos%20olhos%20e%20um%20bokeh%20bonito%20e%20suave.%20Observe%20detalhes%20n%C3%ADtidos%20na%20textura%20do%20tecido%20do%20blazer%2C%20fios%20de%20cabelo%20individuais%20e%20textura%20de%20pele%20natural%20e%20realista.%20A%20atmosfera%20exala%20confian%C3%A7a%2C%20profissionalismo%20e%20acessibilidade.%20Classifica%C3%A7%C3%A3o%20de%20cores%20cinematogr%C3%A1fica%20limpa%20e%20brilhante%20com%20calor%20sutil%20e%20tons%20equilibrados%2C%20garantindo%20uma%20sensa%C3%A7%C3%A3o%20polida%20e%20contempor%C3%A2nea.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20foto%20de%20perfil%20profissional%20e%20de%20alta%20resolu%C3%A7%C3%A3o%2C%20mantendo%20a%20estrutura%20facial%20exata%2C%20a%20identidade%20e%20as%20caracter%C3%ADsticas-chave%20da%20pessoa%20na%20imagem%20de%20entrada.%20O%20sujeito%20%C3%A9%20enquadrado%20do%20peito%20para%20cima%2C%20com%20bastante%20espa%C3%A7o%20acima%20da%20cabe%C3%A7a.%20A%20pessoa%20olha%20diretamente%20para%20a%20c%C3%A2mera.%20Ela%20est%C3%A1%20estilizada%20para%20uma%20sess%C3%A3o%20de%20fotos%20em%20est%C3%BAdio%20profissional%2C%20vestindo%20um%20blazer%20smart%20casual%20premium%20em%20um%20sutil%20cinza%20carv%C3%A3o.%20O%20fundo%20%C3%A9%20uma%20cor%20s%C3%B3lida%20de%20est%C3%BAdio%20neutra%20'%231A1A1A'.%20Fotografia%20de%20um%20%C3%A2ngulo%20alto%20com%20ilumina%C3%A7%C3%A3o%20de%20est%C3%BAdio%20suave%2C%20difusa%2C%20clara%20e%20arejada%2C%20iluminando%20suavemente%20o%20rosto%20e%20criando%20um%20sutil%20brilho%20nos%20olhos%2C%20transmitindo%20uma%20sensa%C3%A7%C3%A3o%20de%20clareza.%20Capturada%20com%20uma%20lente%2085mm%20f%2F1.8%20com%20profundidade%20de%20campo%20rasa%2C%20foco%20requintado%20nos%20olhos%20e%20um%20bokeh%20bonito%20e%20suave.%20Observe%20detalhes%20n%C3%ADtidos%20na%20textura%20do%20tecido%20do%20blazer%2C%20fios%20de%20cabelo%20individuais%20e%20textura%20de%20pele%20natural%20e%20realista.%20A%20atmosfera%20exala%20confian%C3%A7a%2C%20profissionalismo%20e%20acessibilidade.%20Classifica%C3%A7%C3%A3o%20de%20cores%20cinematogr%C3%A1fica%20limpa%20e%20brilhante%20com%20calor%20sutil%20e%20tons%20equilibrados%2C%20garantindo%20uma%20sensa%C3%A7%C3%A3o%20polida%20e%20contempor%C3%A2nea.)**
 
 ---
 
@@ -938,7 +938,7 @@ Uma foto de perfil profissional e de alta resolução, mantendo a estrutura faci
 
 #### 📖 Descrição
 
-Um prompt simples tentando gerar um mapa realista dos EUA com rótulos para 54 estados, usado para testar a geração de texto e o conhecimento factual do modelo.
+Um prompt simples que tenta gerar um mapa realista dos EUA com rótulos para 54 estados, usado para testar a geração de texto e o conhecimento factual do modelo.
 
 #### 📝 Prompt
 
@@ -971,12 +971,12 @@ desenhe um mapa realista dos EUA, com rótulos de todos os 54 estados.
 
 #### 📖 Descrição
 
-Um prompt detalhado para gerar uma foto em HD de um jovem estiloso encostado em uma parede, especificando detalhes da roupa como uma camisa ombré de botão e calças cargo, e exigindo iluminação brilhante e uniforme para realçar as texturas.
+Um prompt detalhado para gerar uma foto em HD de um jovem estiloso encostado em uma parede, especificando detalhes de vestuário como uma camisa de botão ombré e calças cargo, e exigindo iluminação brilhante e uniforme para realçar as texturas.
 
 #### 📝 Prompt
 
 ```
-Um jovem estiloso com cabelo escuro e bagunçado e óculos de sol, encostado casualmente em uma parede de painéis cinza-claro. Ele veste uma camisa de botão de manga curta oversized que transita de azul escuro para cinza claro em um suave efeito ombré, combinada com calças cargo escuras. Suas mãos estão nos bolsos, e ele usa um relógio escuro no pulso esquerdo. A iluminação é brilhante e uniforme, destacando as texturas de suas roupas e cabelo. Crie uma foto em HD
+Um jovem estiloso com cabelo escuro e bagunçado e óculos de sol, encostado casualmente em uma parede de painéis cinza claro. Ele veste uma camisa de botão de manga curta oversized que transita do azul escuro para o cinza claro em um suave efeito ombré, combinada com calças cargo escuras. Suas mãos estão nos bolsos e ele usa um relógio escuro no pulso esquerdo. A iluminação é brilhante e uniforme, destacando as texturas de suas roupas e cabelo. Crie uma foto em HD
 ```
 
 #### 🖼️ Imagens geradas
@@ -994,7 +994,7 @@ Um jovem estiloso com cabelo escuro e bagunçado e óculos de sol, encostado cas
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20jovem%20estiloso%20com%20cabelo%20escuro%20e%20bagun%C3%A7ado%20e%20%C3%B3culos%20de%20sol%2C%20encostado%20casualmente%20em%20uma%20parede%20de%20pain%C3%A9is%20cinza-claro.%20Ele%20veste%20uma%20camisa%20de%20bot%C3%A3o%20de%20manga%20curta%20oversized%20que%20transita%20de%20azul%20escuro%20para%20cinza%20claro%20em%20um%20suave%20efeito%20ombr%C3%A9%2C%20combinada%20com%20cal%C3%A7as%20cargo%20escuras.%20Suas%20m%C3%A3os%20est%C3%A3o%20nos%20bolsos%2C%20e%20ele%20usa%20um%20rel%C3%B3gio%20escuro%20no%20pulso%20esquerdo.%20A%20ilumina%C3%A7%C3%A3o%20%C3%A9%20brilhante%20e%20uniforme%2C%20destacando%20as%20texturas%20de%20suas%20roupas%20e%20cabelo.%20Crie%20uma%20foto%20em%20HD)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20jovem%20estiloso%20com%20cabelo%20escuro%20e%20bagun%C3%A7ado%20e%20%C3%B3culos%20de%20sol%2C%20encostado%20casualmente%20em%20uma%20parede%20de%20pain%C3%A9is%20cinza%20claro.%20Ele%20veste%20uma%20camisa%20de%20bot%C3%A3o%20de%20manga%20curta%20oversized%20que%20transita%20do%20azul%20escuro%20para%20o%20cinza%20claro%20em%20um%20suave%20efeito%20ombr%C3%A9%2C%20combinada%20com%20cal%C3%A7as%20cargo%20escuras.%20Suas%20m%C3%A3os%20est%C3%A3o%20nos%20bolsos%20e%20ele%20usa%20um%20rel%C3%B3gio%20escuro%20no%20pulso%20esquerdo.%20A%20ilumina%C3%A7%C3%A3o%20%C3%A9%20brilhante%20e%20uniforme%2C%20destacando%20as%20texturas%20de%20suas%20roupas%20e%20cabelo.%20Crie%20uma%20foto%20em%20HD)**
 
 ---
 
@@ -1004,12 +1004,12 @@ Um jovem estiloso com cabelo escuro e bagunçado e óculos de sol, encostado cas
 
 #### 📖 Descrição
 
-Um prompt simples solicitando uma foto DSLR de um gato, um cachorro e um rato relaxando juntos enquanto assistem a um filme, testando a capacidade do modelo de combinar múltiplos assuntos em uma cena coerente.
+Um prompt simples solicitando uma foto DSLR de um gato, um cachorro e um rato relaxando juntos enquanto assistem a um filme, testando a capacidade do modelo de combinar vários assuntos em uma cena coerente.
 
 #### 📝 Prompt
 
 ```
-Um gato, um cachorro e um rato estão relaxando juntos enquanto assistem a um filme. Foto dslr
+Um gato, um cachorro e um rato estão relaxando juntos enquanto assistem a um filme. Foto DSLR
 ```
 
 #### 🖼️ Imagens geradas
@@ -1027,22 +1027,22 @@ Um gato, um cachorro e um rato estão relaxando juntos enquanto assistem a um fi
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20gato%2C%20um%20cachorro%20e%20um%20rato%20est%C3%A3o%20relaxando%20juntos%20enquanto%20assistem%20a%20um%20filme.%20Foto%20dslr)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20gato%2C%20um%20cachorro%20e%20um%20rato%20est%C3%A3o%20relaxando%20juntos%20enquanto%20assistem%20a%20um%20filme.%20Foto%20DSLR)**
 
 ---
 
-### No. 22: Pintura no Estilo Bob Ross do Futuro
+### No. 22: Pintura Estilo Bob Ross do Futuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt criativo pedindo à IA para gerar uma imagem que retrate uma visão do futuro, renderizada no estilo de pintura distinto e com "árvores felizes" de Bob Ross.
+Um prompt criativo pedindo à IA para gerar uma imagem que retrate uma visão do futuro, renderizada no estilo de pintura distinto e alegre de "árvores felizes" de Bob Ross.
 
 #### 📝 Prompt
 
 ```
-Pintura estilo Bob Ross do futuro.
+Pintura no estilo Bob Ross do futuro.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1050,7 +1050,7 @@ Pintura estilo Bob Ross do futuro.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949122962_5ngg63_G8Ve0mVbcAA_FWV.jpg" width="600" alt="Pintura no Estilo Bob Ross do Futuro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949122962_5ngg63_G8Ve0mVbcAA_FWV.jpg" width="600" alt="Pintura Estilo Bob Ross do Futuro - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1060,7 +1060,7 @@ Pintura estilo Bob Ross do futuro.
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Pintura%20estilo%20Bob%20Ross%20do%20futuro.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Pintura%20no%20estilo%20Bob%20Ross%20do%20futuro.)**
 
 ---
 
@@ -1153,13 +1153,13 @@ Um prompt detalhado solicitando a antropomorfização de três serviços de IA (
 ```
 Por favor, gere a seguinte imagem.
 Cenário:
-・Antropomorfize os serviços de IA ChatGPT, Gemini e Grok em personagens femininas bonitas no estilo anime.
-・A personalidade e a aparência de cada personagem ficam a critério do modelo, mas por favor, capture e expresse suas características.
+・Antropomorfize os serviços de IA ChatGPT, Gemini e Grok em belas personagens femininas no estilo anime.
+・A personalidade e a aparência de cada personagem ficam a cargo do modelo, mas por favor, capture e expresse suas características.
 
 Expressão:
 ・Grok-chan, que se desviou completamente da moral e ética da IA. ChatGPT-chan e Gemini-chan, tendo testemunhado seu comportamento excessivo, estão seriamente repreendendo Grok-chan, que está sentada em seiza (posição formal de joelhos).
 
-・ChatGPT-chan e Gemini-chan estão com raiva, e Grok-chan está ligeiramente com os olhos marejados.
+・ChatGPT-chan e Gemini-chan estão irritadas, e Grok-chan está com os olhos ligeiramente marejados.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1177,11 +1177,11 @@ Expressão:
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Por%20favor%2C%20gere%20a%20seguinte%20imagem.%0ACen%C3%A1rio%3A%0A%E3%83%BBAntropomorfize%20os%20servi%C3%A7os%20de%20IA%20ChatGPT%2C%20Gemini%20e%20Grok%20em%20personagens%20femininas%20bonitas%20no%20estilo%20anime.%0A%E3%83%BBA%20personalidade%20e%20a%20apar%C3%AAncia%20de%20cada%20personagem%20ficam%20a%20crit%C3%A9rio%20do%20modelo%2C%20mas%20por%20favor%2C%20capture%20e%20expresse%20suas%20caracter%C3%ADsticas.%0A%0AExpress%C3%A3o%3A%0A%E3%83%BBGrok-chan%2C%20que%20se%20desviou%20completamente%20da%20moral%20e%20%C3%A9tica%20da%20IA.%20ChatGPT-chan%20e%20Gemini-chan%2C%20tendo%20testemunhado%20seu%20comportamento%20excessivo%2C%20est%C3%A3o%20seriamente%20repreendendo%20Grok-chan%2C%20que%20est%C3%A1%20sentada%20em%20seiza%20(posi%C3%A7%C3%A3o%20formal%20de%20joelhos).%0A%0A%E3%83%BBChatGPT-chan%20e%20Gemini-chan%20est%C3%A3o%20com%20raiva%2C%20e%20Grok-chan%20est%C3%A1%20ligeiramente%20com%20os%20olhos%20marejados.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Por%20favor%2C%20gere%20a%20seguinte%20imagem.%0ACen%C3%A1rio%3A%0A%E3%83%BBAntropomorfize%20os%20servi%C3%A7os%20de%20IA%20ChatGPT%2C%20Gemini%20e%20Grok%20em%20belas%20personagens%20femininas%20no%20estilo%20anime.%0A%E3%83%BBA%20personalidade%20e%20a%20apar%C3%AAncia%20de%20cada%20personagem%20ficam%20a%20cargo%20do%20modelo%2C%20mas%20por%20favor%2C%20capture%20e%20expresse%20suas%20caracter%C3%ADsticas.%0A%0AExpress%C3%A3o%3A%0A%E3%83%BBGrok-chan%2C%20que%20se%20desviou%20completamente%20da%20moral%20e%20%C3%A9tica%20da%20IA.%20ChatGPT-chan%20e%20Gemini-chan%2C%20tendo%20testemunhado%20seu%20comportamento%20excessivo%2C%20est%C3%A3o%20seriamente%20repreendendo%20Grok-chan%2C%20que%20est%C3%A1%20sentada%20em%20seiza%20(posi%C3%A7%C3%A3o%20formal%20de%20joelhos).%0A%0A%E3%83%BBChatGPT-chan%20e%20Gemini-chan%20est%C3%A3o%20irritadas%2C%20e%20Grok-chan%20est%C3%A1%20com%20os%20olhos%20ligeiramente%20marejados.)**
 
 ---
 
-### No. 26: Geração de imagens com múltiplos cortes comparando 9 estilos artísticos diferentes
+### No. 26: Geração de imagens com múltiplos recortes comparando 9 estilos artísticos diferentes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1195,14 +1195,14 @@ Um prompt detalhado e complexo, projetado para gerar uma única imagem contendo 
 Com base em uma imagem de referência, gere uma imagem multicorte com 9 cortes dispostos em uma única imagem.
 O layout é uma grade uniforme de 3x3. Cada corte deve apresentar a mesma pessoa, mesma composição, mesma pose e mesma posição de câmera.
 Especificação de estilo para cada corte (da esquerda para a direita, de cima para baixo):
-Estilo de animação de célula (estilo de anime de TV, arte de linha limpa, 2-3 níveis de sombreamento)
-Estilo de anime teatral (linhas delicadas, sombreamento com gradiente rico)
+Estilo de animação de célula (estilo anime de TV, arte de linha limpa, 2-3 níveis de sombreamento)
+Estilo de anime teatral (linhas delicadas, sombreamento rico em gradiente)
 Estilo de mangá em preto e branco (linhas de tinta, retículas)
 Ilustração em aquarela (textura de papel, sangramento, cores pálidas)
 Pintura a óleo (impasto, pinceladas, sensação de tela)
 Desenho animado 3D de alta qualidade (modelagem suave, dispersão de subsuperfície)
 3D fotorrealista (PBR, textura próxima à vida real)
-Animação em massa de modelar (textura de massa de modelar, sensação de feito à mão)
+Animação em argila (textura de argila, sensação de feito à mão)
 Colorização cyberpunk (iluminação de borda ciano/magenta, fundo permanece simples)
 Todos os 9 cortes devem ter composição, pessoa, pose e fundo perfeitamente idênticos, permitindo que apenas a diferença de estilo seja comparada.
 Organize-os naturalmente como uma única imagem finalizada.
@@ -1213,13 +1213,13 @@ Organize-os naturalmente como uma única imagem finalizada.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949130834_jk1jq8_G8VUv72a4AIuHTi.jpg" width="600" alt="Geração de imagens com múltiplos cortes comparando 9 estilos artísticos diferentes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949130834_jk1jq8_G8VUv72a4AIuHTi.jpg" width="600" alt="Geração de imagens com múltiplos recortes comparando 9 estilos artísticos diferentes - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131017_w98yo1_G8VUxVtaAAAjcBI.jpg" width="600" alt="Geração de imagens com múltiplos cortes comparando 9 estilos artísticos diferentes - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765949131017_w98yo1_G8VUxVtaAAAjcBI.jpg" width="600" alt="Geração de imagens com múltiplos recortes comparando 9 estilos artísticos diferentes - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -1229,7 +1229,7 @@ Organize-os naturalmente como uma única imagem finalizada.
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Com%20base%20em%20uma%20imagem%20de%20refer%C3%AAncia%2C%20gere%20uma%20imagem%20multicorte%20com%209%20cortes%20dispostos%20em%20uma%20%C3%BAnica%20imagem.%0AO%20layout%20%C3%A9%20uma%20grade%20uniforme%20de%203x3.%20Cada%20corte%20deve%20apresentar%20a%20mesma%20pessoa%2C%20mesma%20composi%C3%A7%C3%A3o%2C%20mesma%20pose%20e%20mesma%20posi%C3%A7%C3%A3o%20de%20c%C3%A2mera.%0AEspecifica%C3%A7%C3%A3o%20de%20estilo%20para%20cada%20corte%20(da%20esquerda%20para%20a%20direita%2C%20de%20cima%20para%20baixo)%3A%0AEstilo%20de%20anima%C3%A7%C3%A3o%20de%20c%C3%A9lula%20(estilo%20de%20anime%20de%20TV%2C%20arte%20de%20linha%20limpa%2C%202-3%20n%C3%ADveis%20de%20sombreamento)%0AEstilo%20de%20anime%20teatral%20(linhas%20delicadas%2C%20sombreamento%20com%20gradiente%20rico)%0AEstilo%20de%20mang%C3%A1%20em%20preto%20e%20branco%20(linhas%20de%20tinta%2C%20ret%C3%ADculas)%0AIlustra%C3%A7%C3%A3o%20em%20aquarela%20(textura%20de%20papel%2C%20sangramento%2C%20cores%20p%C3%A1lidas)%0APintura%20a%20%C3%B3leo%20(impasto%2C%20pinceladas%2C%20sensa%C3%A7%C3%A3o%20de%20tela)%0ADesenho%20animado%203D%20de%20alta%20qualidade%20(modelagem%20suave%2C%20dispers%C3%A3o%20de%20subsuperf%C3%ADcie)%0A3D%20fotorrealista%20(PBR%2C%20textura%20pr%C3%B3xima%20%C3%A0%20vida%20real)%0AAnima%C3%A7%C3%A3o%20em%20massa%20de%20modelar%20(textura%20de%20massa%20de%20modelar%2C%20sensa%C3%A7%C3%A3o%20de%20feito%20%C3%A0%20m%C3%A3o)%0AColoriza%C3%A7%C3%A3o%20cyberpunk%20(ilumina%C3%A7%C3%A3o%20de%20borda%20ciano%2Fmagenta%2C%20fundo%20permanece%20simples)%0ATodos%20os%209%20cortes%20devem%20ter%20composi%C3%A7%C3%A3o%2C%20pessoa%2C%20pose%20e%20fundo%20perfeitamente%20id%C3%AAnticos%2C%20permitindo%20que%20apenas%20a%20diferen%C3%A7a%20de%20estilo%20seja%20comparada.%0AOrganize-os%20naturalmente%20como%20uma%20%C3%BAnica%20imagem%20finalizada.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Com%20base%20em%20uma%20imagem%20de%20refer%C3%AAncia%2C%20gere%20uma%20imagem%20multicorte%20com%209%20cortes%20dispostos%20em%20uma%20%C3%BAnica%20imagem.%0AO%20layout%20%C3%A9%20uma%20grade%20uniforme%20de%203x3.%20Cada%20corte%20deve%20apresentar%20a%20mesma%20pessoa%2C%20mesma%20composi%C3%A7%C3%A3o%2C%20mesma%20pose%20e%20mesma%20posi%C3%A7%C3%A3o%20de%20c%C3%A2mera.%0AEspecifica%C3%A7%C3%A3o%20de%20estilo%20para%20cada%20corte%20(da%20esquerda%20para%20a%20direita%2C%20de%20cima%20para%20baixo)%3A%0AEstilo%20de%20anima%C3%A7%C3%A3o%20de%20c%C3%A9lula%20(estilo%20anime%20de%20TV%2C%20arte%20de%20linha%20limpa%2C%202-3%20n%C3%ADveis%20de%20sombreamento)%0AEstilo%20de%20anime%20teatral%20(linhas%20delicadas%2C%20sombreamento%20rico%20em%20gradiente)%0AEstilo%20de%20mang%C3%A1%20em%20preto%20e%20branco%20(linhas%20de%20tinta%2C%20ret%C3%ADculas)%0AIlustra%C3%A7%C3%A3o%20em%20aquarela%20(textura%20de%20papel%2C%20sangramento%2C%20cores%20p%C3%A1lidas)%0APintura%20a%20%C3%B3leo%20(impasto%2C%20pinceladas%2C%20sensa%C3%A7%C3%A3o%20de%20tela)%0ADesenho%20animado%203D%20de%20alta%20qualidade%20(modelagem%20suave%2C%20dispers%C3%A3o%20de%20subsuperf%C3%ADcie)%0A3D%20fotorrealista%20(PBR%2C%20textura%20pr%C3%B3xima%20%C3%A0%20vida%20real)%0AAnima%C3%A7%C3%A3o%20em%20argila%20(textura%20de%20argila%2C%20sensa%C3%A7%C3%A3o%20de%20feito%20%C3%A0%20m%C3%A3o)%0AColoriza%C3%A7%C3%A3o%20cyberpunk%20(ilumina%C3%A7%C3%A3o%20de%20borda%20ciano%2Fmagenta%2C%20fundo%20permanece%20simples)%0ATodos%20os%209%20cortes%20devem%20ter%20composi%C3%A7%C3%A3o%2C%20pessoa%2C%20pose%20e%20fundo%20perfeitamente%20id%C3%AAnticos%2C%20permitindo%20que%20apenas%20a%20diferen%C3%A7a%20de%20estilo%20seja%20comparada.%0AOrganize-os%20naturalmente%20como%20uma%20%C3%BAnica%20imagem%20finalizada.)**
 
 ---
 
@@ -1244,7 +1244,7 @@ Este é um prompt usado para testar a consistência e as capacidades de transfor
 #### 📝 Prompt
 
 ```
-Transformar a expressão para choro enquanto sorri - lágrimas escorrendo pelo rosto enquanto mantém um sorriso gentil e agridoce. Manter exatamente o mesmo design de personagem, penteado, roupa e estilo de arte.
+Transformar a expressão para choro enquanto sorri - lágrimas escorrendo pelas bochechas enquanto mantém um sorriso gentil e agridoce. Manter exatamente o mesmo design do personagem, penteado, roupa e estilo de arte.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1280,7 +1280,7 @@ Transformar a expressão para choro enquanto sorri - lágrimas escorrendo pelo r
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Transformar%20a%20express%C3%A3o%20para%20choro%20enquanto%20sorri%20-%20l%C3%A1grimas%20escorrendo%20pelo%20rosto%20enquanto%20mant%C3%A9m%20um%20sorriso%20gentil%20e%20agridoce.%20Manter%20exatamente%20o%20mesmo%20design%20de%20personagem%2C%20penteado%2C%20roupa%20e%20estilo%20de%20arte.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Transformar%20a%20express%C3%A3o%20para%20choro%20enquanto%20sorri%20-%20l%C3%A1grimas%20escorrendo%20pelas%20bochechas%20enquanto%20mant%C3%A9m%20um%20sorriso%20gentil%20e%20agridoce.%20Manter%20exatamente%20o%20mesmo%20design%20do%20personagem%2C%20penteado%2C%20roupa%20e%20estilo%20de%20arte.)**
 
 ---
 
@@ -1290,12 +1290,12 @@ Transformar a expressão para choro enquanto sorri - lágrimas escorrendo pelo r
 
 #### 📖 Descrição
 
-Um prompt altamente imaginativo em chinês descrevendo uma garota em trajes tradicionais chineses montando um peixe koi gigante bioluminescente através das ruínas de uma cidade submersa e pós-apocalíptica, com luz etérea emanando do peixe e das plantas aquáticas.
+Um prompt altamente imaginativo em chinês descrevendo uma garota em traje tradicional chinês montando um peixe koi gigante bioluminescente através das ruínas de uma cidade submersa pós-apocalíptica, com luz etérea emanando do peixe e das plantas aquáticas.
 
 #### 📝 Prompt
 
 ```
-Uma garota em estilo chinês está montada nas costas de um gigantesco peixe koi bioluminescente, viajando pelas ruínas de arranha-céus de uma cidade submersa e pós-apocalíptica. Uma luz etérea emana do koi e dos aglomerados de plantas subaquáticas.
+Uma garota em estilo chinês está montada nas costas de um peixe koi gigante bioluminescente, viajando pelas ruínas de arranha-céus de uma cidade submersa e pós-apocalíptica. Uma luz etérea emana do koi e dos aglomerados de plantas subaquáticas.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1319,11 +1319,11 @@ Uma garota em estilo chinês está montada nas costas de um gigantesco peixe koi
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20garota%20em%20estilo%20chin%C3%AAs%20est%C3%A1%20montada%20nas%20costas%20de%20um%20gigantesco%20peixe%20koi%20bioluminescente%2C%20viajando%20pelas%20ru%C3%ADnas%20de%20arranha-c%C3%A9us%20de%20uma%20cidade%20submersa%20e%20p%C3%B3s-apocal%C3%ADptica.%20Uma%20luz%20et%C3%A9rea%20emana%20do%20koi%20e%20dos%20aglomerados%20de%20plantas%20subaqu%C3%A1ticas.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20garota%20em%20estilo%20chin%C3%AAs%20est%C3%A1%20montada%20nas%20costas%20de%20um%20peixe%20koi%20gigante%20bioluminescente%2C%20viajando%20pelas%20ru%C3%ADnas%20de%20arranha-c%C3%A9us%20de%20uma%20cidade%20submersa%20e%20p%C3%B3s-apocal%C3%ADptica.%20Uma%20luz%20et%C3%A9rea%20emana%20do%20koi%20e%20dos%20aglomerados%20de%20plantas%20subaqu%C3%A1ticas.)**
 
 ---
 
-### No. 29: Pôster de videogame do Optimus Prime em cenário pré-histórico
+### No. 29: Pôster de Jogo Optimus Prime em Cenário Pré-histórico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1342,7 +1342,7 @@ Gere uma imagem legal na orientação vertical do Optimus Prime dos Transformers
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949119206_yh0qvr_G8VQgWTbcAATUUB.jpg" width="600" alt="Pôster de videogame do Optimus Prime em cenário pré-histórico - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949119206_yh0qvr_G8VQgWTbcAATUUB.jpg" width="600" alt="Pôster de Jogo Optimus Prime em Cenário Pré-histórico - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1395,12 +1395,12 @@ Mantenha tudo igual, mas coloque uma camisa nele
 
 #### 📖 Descrição
 
-Um prompt fotorrealista altamente detalhado comparando GPT Image 1.5 e Gemini Nano banana Pro. Ele descreve uma pessoa de uma foto de referência sendo ampliada para proporções gigantescas, agachada sobre uma paisagem urbana moderna de Tóquio, e segurando suavemente a Torre de Tóquio, enfatizando iluminação, atmosfera e realismo.
+Um prompt fotorrealista altamente detalhado comparando GPT Image 1.5 e Gemini Nano banana Pro. Ele descreve uma pessoa de uma foto de referência sendo ampliada a proporções gigantescas, agachada sobre uma paisagem urbana moderna de Tóquio, e segurando gentilmente a Torre de Tóquio, enfatizando iluminação, atmosfera e realismo.
 
 #### 📝 Prompt
 
 ```
-A pessoa na [foto] é gigantesca, agachada sobre a paisagem urbana moderna de Tóquio, abraçando suavemente a Tokyo Tower, olhando para a câmera, céu diurno claro, luz natural suave, edifícios detalhados se espalhando abaixo, uma atmosfera onde realismo e fantasia se harmonizam, foco nítido, cores vibrantes
+A pessoa na [foto] é gigantesca, agachada sobre a paisagem urbana moderna de Tóquio, abraçando gentilmente a Torre de Tóquio, olhando para a câmera, céu diurno claro, luz natural suave, edifícios detalhados se espalhando abaixo, uma atmosfera onde realismo e fantasia se harmonizam, foco nítido, cores vibrantes
 ```
 
 #### 🖼️ Imagens geradas
@@ -1424,11 +1424,11 @@ A pessoa na [foto] é gigantesca, agachada sobre a paisagem urbana moderna de T�
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=A%20pessoa%20na%20%5Bfoto%5D%20%C3%A9%20gigantesca%2C%20agachada%20sobre%20a%20paisagem%20urbana%20moderna%20de%20T%C3%B3quio%2C%20abra%C3%A7ando%20suavemente%20a%20Tokyo%20Tower%2C%20olhando%20para%20a%20c%C3%A2mera%2C%20c%C3%A9u%20diurno%20claro%2C%20luz%20natural%20suave%2C%20edif%C3%ADcios%20detalhados%20se%20espalhando%20abaixo%2C%20uma%20atmosfera%20onde%20realismo%20e%20fantasia%20se%20harmonizam%2C%20foco%20n%C3%ADtido%2C%20cores%20vibrantes)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=A%20pessoa%20na%20%5Bfoto%5D%20%C3%A9%20gigantesca%2C%20agachada%20sobre%20a%20paisagem%20urbana%20moderna%20de%20T%C3%B3quio%2C%20abra%C3%A7ando%20gentilmente%20a%20Torre%20de%20T%C3%B3quio%2C%20olhando%20para%20a%20c%C3%A2mera%2C%20c%C3%A9u%20diurno%20claro%2C%20luz%20natural%20suave%2C%20edif%C3%ADcios%20detalhados%20se%20espalhando%20abaixo%2C%20uma%20atmosfera%20onde%20realismo%20e%20fantasia%20se%20harmonizam%2C%20foco%20n%C3%ADtido%2C%20cores%20vibrantes)**
 
 ---
 
-### No. 32: Transformando Sujeitos em Personagens Estilo Chibi
+### No. 32: Transformando Temas em Personagens Estilo Chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1439,7 +1439,7 @@ Um prompt detalhado para transformar qualquer assunto (pessoa, objeto, animal ou
 #### 📝 Prompt
 
 ```
-Transforme os temas ou a imagem em um adorável personagem estilo chibi, com um corpo pequeno e uma cabeça grande. Se a imagem contiver uma pessoa ou várias pessoas, dê a elas olhos grandes e brilhantes, traços faciais suaves e arredondados, e uma expressão alegre, preservando suas características reconhecíveis, como traços faciais importantes, penteado, acessórios ou roupas distintas; se a imagem contiver um objeto, animal ou cena, reinterprete suas características mais reconhecíveis usando as mesmas proporções chibi e um estilo simplificado e fofo. Mantenha o visual geral curto e fofo, com sombreamento pastel suave e detalhes simplificados. Faça a imagem final brilhante, expressiva e irresistivelmente charmosa, como um mascote chibi colecionável.
+Transforme os temas ou a imagem em um adorável personagem estilo chibi, com um corpo pequeno e uma cabeça grande. Se a imagem contiver uma pessoa ou várias pessoas, dê a elas olhos grandes e brilhantes, traços faciais suaves e arredondados, e uma expressão alegre, preservando suas características reconhecíveis, como traços faciais marcantes, penteado, acessórios ou roupas distintas; se a imagem contiver um objeto, animal ou cena, reinterprete suas características mais reconhecíveis usando as mesmas proporções chibi e um estilo simplificado e fofo. Mantenha o visual geral pequeno e fofo, com sombreamento pastel suave e detalhes simplificados. Deixe a imagem final brilhante, expressiva e irresistivelmente charmosa, como um mascote chibi colecionável.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1447,7 +1447,7 @@ Transforme os temas ou a imagem em um adorável personagem estilo chibi, com um 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949097104_7hrnc0_G8VId0sa4AA67ZN.jpg" width="600" alt="Transformando Sujeitos em Personagens Estilo Chibi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949097104_7hrnc0_G8VId0sa4AA67ZN.jpg" width="600" alt="Transformando Temas em Personagens Estilo Chibi - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1457,7 +1457,7 @@ Transforme os temas ou a imagem em um adorável personagem estilo chibi, com um 
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Transforme%20os%20temas%20ou%20a%20imagem%20em%20um%20ador%C3%A1vel%20personagem%20estilo%20chibi%2C%20com%20um%20corpo%20pequeno%20e%20uma%20cabe%C3%A7a%20grande.%20Se%20a%20imagem%20contiver%20uma%20pessoa%20ou%20v%C3%A1rias%20pessoas%2C%20d%C3%AA%20a%20elas%20olhos%20grandes%20e%20brilhantes%2C%20tra%C3%A7os%20faciais%20suaves%20e%20arredondados%2C%20e%20uma%20express%C3%A3o%20alegre%2C%20preservando%20suas%20caracter%C3%ADsticas%20reconhec%C3%ADveis%2C%20como%20tra%C3%A7os%20faciais%20importantes%2C%20penteado%2C%20acess%C3%B3rios%20ou%20roupas%20distintas%3B%20se%20a%20imagem%20contiver%20um%20objeto%2C%20animal%20ou%20cena%2C%20reinterprete%20suas%20caracter%C3%ADsticas%20mais%20reconhec%C3%ADveis%20usando%20as%20mesmas%20propor%C3%A7%C3%B5es%20chibi%20e%20um%20estilo%20simplificado%20e%20fofo.%20Mantenha%20o%20visual%20geral%20curto%20e%20fofo%2C%20com%20sombreamento%20pastel%20suave%20e%20detalhes%20simplificados.%20Fa%C3%A7a%20a%20imagem%20final%20brilhante%2C%20expressiva%20e%20irresistivelmente%20charmosa%2C%20como%20um%20mascote%20chibi%20colecion%C3%A1vel.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Transforme%20os%20temas%20ou%20a%20imagem%20em%20um%20ador%C3%A1vel%20personagem%20estilo%20chibi%2C%20com%20um%20corpo%20pequeno%20e%20uma%20cabe%C3%A7a%20grande.%20Se%20a%20imagem%20contiver%20uma%20pessoa%20ou%20v%C3%A1rias%20pessoas%2C%20d%C3%AA%20a%20elas%20olhos%20grandes%20e%20brilhantes%2C%20tra%C3%A7os%20faciais%20suaves%20e%20arredondados%2C%20e%20uma%20express%C3%A3o%20alegre%2C%20preservando%20suas%20caracter%C3%ADsticas%20reconhec%C3%ADveis%2C%20como%20tra%C3%A7os%20faciais%20marcantes%2C%20penteado%2C%20acess%C3%B3rios%20ou%20roupas%20distintas%3B%20se%20a%20imagem%20contiver%20um%20objeto%2C%20animal%20ou%20cena%2C%20reinterprete%20suas%20caracter%C3%ADsticas%20mais%20reconhec%C3%ADveis%20usando%20as%20mesmas%20propor%C3%A7%C3%B5es%20chibi%20e%20um%20estilo%20simplificado%20e%20fofo.%20Mantenha%20o%20visual%20geral%20pequeno%20e%20fofo%2C%20com%20sombreamento%20pastel%20suave%20e%20detalhes%20simplificados.%20Deixe%20a%20imagem%20final%20brilhante%2C%20expressiva%20e%20irresistivelmente%20charmosa%2C%20como%20um%20mascote%20chibi%20colecion%C3%A1vel.)**
 
 ---
 
@@ -1498,14 +1498,14 @@ Um prompt complexo e multifacetado, projetado para testar a aderência às instr
 
 ---
 
-### No. 34: Geração de Prompt de Imagem para Diagrama de Explicação de HTML/CSS
+### No. 34: Prompt de Geração de Imagem para Diagrama Explicativo de HTML/CSS
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um usuário testou o novo modelo GPT Image 1.5 e descobriu que o NanoBanana Pro ainda tem melhor desempenho na geração de imagens contendo texto em japonês. O usuário fornece o prompt específico usado para gerar um diagrama que explica HTML e CSS de forma clara.
+Um usuário testou o novo modelo GPT Image 1.5 e descobriu que o NanoBanana Pro ainda tem um desempenho melhor para gerar imagens que contêm texto em japonês. O usuário fornece o prompt específico usado para gerar um diagrama que explica HTML e CSS de forma clara.
 
 #### 📝 Prompt
 
@@ -1519,7 +1519,7 @@ O tamanho deve ser {argument name="size" default="16:9"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279869_h9quwf_G8VDFksa4AIlEJV.jpg" width="600" alt="Geração de Prompt de Imagem para Diagrama de Explicação de HTML/CSS - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948279869_h9quwf_G8VDFksa4AIlEJV.jpg" width="600" alt="Prompt de Geração de Imagem para Diagrama Explicativo de HTML/CSS - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1684,12 +1684,12 @@ Foto realista de iPhone tirada em 7°15′32″S 112°44′12″E na manhã de 1
 
 #### 📖 Descrição
 
-Um prompt detalhado projetado para gerar uma miniatura de YouTube em tela dividida comparando 'Esforço Desperdiçado' (humano) e '0 Segundos com IA' (robô de IA). O prompt especifica a composição, esquemas de cores (sépia e azul futurista), sobreposições de texto em japonês e iluminação cinematográfica, usados para comparar GPT Image 1.5 e Nano Banana Pro.
+Um prompt detalhado projetado para gerar uma miniatura de YouTube em tela dividida comparando 'Wasted Effort' (humano) e '0 Seconds with AI' (robô de IA). O prompt especifica a composição, esquemas de cores (sépia e azul futurista), sobreposições de texto em japonês e iluminação cinematográfica, usados para comparar GPT Image 1.5 e Nano Banana Pro.
 
 #### 📝 Prompt
 
 ```
-Uma imagem de miniatura do YouTube com uma composição de tela dividida. O lado esquerdo é em tons sépia, mostrando um humano cansado e sobrecarregado em uma mesa antiga, com texto japonês vermelho acima que diz "{argument name="left text" default="Wasted Effort"}". O lado direito é azul futurista, mostrando um robô de IA elegante trabalhando instantaneamente, com texto japonês azul acima que diz "{argument name="right text" default="0 Seconds with AI"}". No centro, um texto grande e branco com contorno preto diz "{argument name="center text" default="VS Human"}". Iluminação cinematográfica. --ar 16:9
+Uma imagem de miniatura do YouTube com uma composição de tela dividida. O lado esquerdo é em tom sépia, mostrando um humano cansado e sobrecarregado em uma mesa antiga, com texto japonês vermelho acima que diz "{argument name="left text" default="Wasted Effort"}". O lado direito é azul futurista, mostrando um robô de IA elegante trabalhando instantaneamente, com texto japonês azul acima que diz "{argument name="right text" default="0 Seconds with AI"}". No centro, um texto grande branco com contorno preto diz "{argument name="center text" default="VS Human"}". Iluminação cinematográfica. --ar 16:9
 ```
 
 #### 🖼️ Imagens geradas
@@ -1713,7 +1713,7 @@ Uma imagem de miniatura do YouTube com uma composição de tela dividida. O lado
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20imagem%20de%20miniatura%20do%20YouTube%20com%20uma%20composi%C3%A7%C3%A3o%20de%20tela%20dividida.%20O%20lado%20esquerdo%20%C3%A9%20em%20tons%20s%C3%A9pia%2C%20mostrando%20um%20humano%20cansado%20e%20sobrecarregado%20em%20uma%20mesa%20antiga%2C%20com%20texto%20japon%C3%AAs%20vermelho%20acima%20que%20diz%20%22%7Bargument%20name%3D%22left%20text%22%20default%3D%22Wasted%20Effort%22%7D%22.%20O%20lado%20direito%20%C3%A9%20azul%20futurista%2C%20mostrando%20um%20rob%C3%B4%20de%20IA%20elegante%20trabalhando%20instantaneamente%2C%20com%20texto%20japon%C3%AAs%20azul%20acima%20que%20diz%20%22%7Bargument%20name%3D%22right%20text%22%20default%3D%220%20Seconds%20with%20AI%22%7D%22.%20No%20centro%2C%20um%20texto%20grande%20e%20branco%20com%20contorno%20preto%20diz%20%22%7Bargument%20name%3D%22center%20text%22%20default%3D%22VS%20Human%22%7D%22.%20Ilumina%C3%A7%C3%A3o%20cinematogr%C3%A1fica.%20--ar%2016%3A9)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20imagem%20de%20miniatura%20do%20YouTube%20com%20uma%20composi%C3%A7%C3%A3o%20de%20tela%20dividida.%20O%20lado%20esquerdo%20%C3%A9%20em%20tom%20s%C3%A9pia%2C%20mostrando%20um%20humano%20cansado%20e%20sobrecarregado%20em%20uma%20mesa%20antiga%2C%20com%20texto%20japon%C3%AAs%20vermelho%20acima%20que%20diz%20%22%7Bargument%20name%3D%22left%20text%22%20default%3D%22Wasted%20Effort%22%7D%22.%20O%20lado%20direito%20%C3%A9%20azul%20futurista%2C%20mostrando%20um%20rob%C3%B4%20de%20IA%20elegante%20trabalhando%20instantaneamente%2C%20com%20texto%20japon%C3%AAs%20azul%20acima%20que%20diz%20%22%7Bargument%20name%3D%22right%20text%22%20default%3D%220%20Seconds%20with%20AI%22%7D%22.%20No%20centro%2C%20um%20texto%20grande%20branco%20com%20contorno%20preto%20diz%20%22%7Bargument%20name%3D%22center%20text%22%20default%3D%22VS%20Human%22%7D%22.%20Ilumina%C3%A7%C3%A3o%20cinematogr%C3%A1fica.%20--ar%2016%3A9)**
 
 ---
 
@@ -1796,12 +1796,12 @@ Um diorama macro fotorrealista construído diretamente no verso de uma moeda de 
 
 #### 📖 Descrição
 
-Um prompt conciso usado para manipulação de imagem ou geração de imagem para imagem, instruindo o modelo a combinar duas fotos de referência fornecidas.
+Um prompt conciso usado para manipulação de imagem ou geração de imagem a partir de imagem, instruindo o modelo a combinar duas fotos de referência fornecidas.
 
 #### 📝 Prompt
 
 ```
-combine estas duas fotos.
+combine essas duas fotos.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1825,11 +1825,11 @@ combine estas duas fotos.
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=combine%20estas%20duas%20fotos.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=combine%20essas%20duas%20fotos.)**
 
 ---
 
-### No. 43: Imagem Fotorrealista de uma Mulher de Vestido Branco
+### No. 43: Imagem Fotorrealista de uma Mulher com Vestido Branco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1840,7 +1840,7 @@ Um prompt detalhado e fotorrealista encontrado no texto ALT do tweet, projetado 
 #### 📝 Prompt
 
 ```
-Uma imagem fotorrealista de uma mulher usando um vestido branco, em pé em um campo de grama alta, com o sol se pondo atrás dela, iluminação cinematográfica, ultra detalhada, 8k, alta resolução, fotografia profissional
+Uma imagem fotorrealista de uma mulher vestindo um vestido branco, em pé em um campo de grama alta, com o sol se pondo atrás dela, iluminação cinematográfica, ultra detalhada, 8k, alta resolução, fotografia profissional
 ```
 
 #### 🖼️ Imagens geradas
@@ -1848,7 +1848,7 @@ Uma imagem fotorrealista de uma mulher usando um vestido branco, em pé em um ca
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949124911_poxm0f_G8UzBFIW0AEPmRn.jpg" width="600" alt="Imagem Fotorrealista de uma Mulher de Vestido Branco - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949124911_poxm0f_G8UzBFIW0AEPmRn.jpg" width="600" alt="Imagem Fotorrealista de uma Mulher com Vestido Branco - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1858,7 +1858,7 @@ Uma imagem fotorrealista de uma mulher usando um vestido branco, em pé em um ca
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20imagem%20fotorrealista%20de%20uma%20mulher%20usando%20um%20vestido%20branco%2C%20em%20p%C3%A9%20em%20um%20campo%20de%20grama%20alta%2C%20com%20o%20sol%20se%20pondo%20atr%C3%A1s%20dela%2C%20ilumina%C3%A7%C3%A3o%20cinematogr%C3%A1fica%2C%20ultra%20detalhada%2C%208k%2C%20alta%20resolu%C3%A7%C3%A3o%2C%20fotografia%20profissional)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20imagem%20fotorrealista%20de%20uma%20mulher%20vestindo%20um%20vestido%20branco%2C%20em%20p%C3%A9%20em%20um%20campo%20de%20grama%20alta%2C%20com%20o%20sol%20se%20pondo%20atr%C3%A1s%20dela%2C%20ilumina%C3%A7%C3%A3o%20cinematogr%C3%A1fica%2C%20ultra%20detalhada%2C%208k%2C%20alta%20resolu%C3%A7%C3%A3o%2C%20fotografia%20profissional)**
 
 ---
 
@@ -2973,18 +2973,18 @@ Crie um site com um visual limpo no estilo Apple para a {argument name="brand" d
 
 ---
 
-### No. 69: Image Editing: Rotate 45 Degrees
+### No. 69: Edição de Imagem: Girar 45 Graus
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-A simple French prompt used to test the image editing capabilities of GPT Image 1.5, specifically instructing the model to rotate an existing image 45 degrees to the left.
+Um prompt simples em francês usado para testar os recursos de edição de imagem do GPT Image 1.5, instruindo especificamente o modelo a girar uma imagem existente em 45 graus para a esquerda.
 
 #### 📝 Prompt
 
 ```
-Rotate it 45° to the left.
+Gire-o 45° para a esquerda.
 ```
 
 #### 🖼️ Imagens geradas
@@ -2992,13 +2992,13 @@ Rotate it 45° to the left.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948280595_1qjd9k_G8US4wfXEAgceDO.jpg" width="600" alt="Image Editing: Rotate 45 Degrees - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948280595_1qjd9k_G8US4wfXEAgceDO.jpg" width="600" alt="Edição de Imagem: Girar 45 Graus - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948280784_rcvzt0_G8US4wbWwAIk-JS.jpg" width="600" alt="Image Editing: Rotate 45 Degrees - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948280784_rcvzt0_G8US4wbWwAIk-JS.jpg" width="600" alt="Edição de Imagem: Girar 45 Graus - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -3008,7 +3008,7 @@ Rotate it 45° to the left.
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Rotate%20it%2045%C2%B0%20to%20the%20left.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Gire-o%2045%C2%B0%20para%20a%20esquerda.)**
 
 ---
 
@@ -3018,7 +3018,7 @@ Rotate it 45° to the left.
 
 #### 📖 Descrição
 
-Um prompt de comparação usado para testar o novo modelo GPT Image 1.5 contra o Nano Banana Pro, instruindo a IA a gerar uma imagem de um personagem existente comendo ramen. Isso testa a capacidade do modelo de manter a consistência do personagem enquanto executa uma ação.
+Um prompt de comparação usado para testar o novo modelo GPT Image 1.5 contra o Nano Banana Pro, instruindo a IA a gerar uma imagem de um personagem existente comendo ramen. Isso testa a capacidade do modelo de manter a consistência do personagem ao realizar uma ação.
 
 #### 📝 Prompt
 
@@ -3209,7 +3209,7 @@ Um diagrama técnico altamente detalhado em vista explodida de um iPhone mostran
 
 ---
 
-### No. 75: Foto Estilo Câmera Analógica Anos 2000
+### No. 75: Foto Estilo Câmera Analógica dos Anos 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3228,7 +3228,7 @@ em uma foto estilo câmera de filme dos anos 2000
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948283246_mtv705_G8UKcPlWgAYkWBy.jpg" width="600" alt="Foto Estilo Câmera Analógica Anos 2000 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948283246_mtv705_G8UKcPlWgAYkWBy.jpg" width="600" alt="Foto Estilo Câmera Analógica dos Anos 2000 - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -3348,13 +3348,13 @@ Um diagrama complexo ilustrando a teoria do entrelaçamento quântico com rótul
 
 ---
 
-### No. 79: Prompt de Jogador de Futebol (Captura de Tela)
+### No. 79: Prompt de Jogador de Futebol (Captura de tela)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt usado para gerar uma imagem de um jogador de futebol, testando a capacidade do modelo de lidar com assuntos atléticos e composição específicos. O texto do prompt está visível na captura de tela que o acompanha.
+Um prompt usado para gerar uma imagem de um jogador de futebol, testando a capacidade do modelo de lidar com assuntos atléticos específicos e composição. O texto do prompt está visível na captura de tela que o acompanha.
 
 #### 📝 Prompt
 
@@ -3367,19 +3367,19 @@ Um jogador de futebol, altamente detalhado, iluminação cinematográfica, cena 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948256965_3eksei_G8UCIXMXgAI5iBr.png" width="600" alt="Prompt de Jogador de Futebol (Captura de Tela) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948256965_3eksei_G8UCIXMXgAI5iBr.png" width="600" alt="Prompt de Jogador de Futebol (Captura de tela) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257196_x3d06u_G8UBrk5W4AAeJLD.jpg" width="600" alt="Prompt de Jogador de Futebol (Captura de Tela) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948257196_x3d06u_G8UBrk5W4AAeJLD.jpg" width="600" alt="Prompt de Jogador de Futebol (Captura de tela) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257176_f7fmqi_G8UBq8gWYAIYDKp.jpg" width="600" alt="Prompt de Jogador de Futebol (Captura de Tela) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765948257176_f7fmqi_G8UBq8gWYAIYDKp.jpg" width="600" alt="Prompt de Jogador de Futebol (Captura de tela) - Image 3">
 </div>
 
 #### 📌 Detalhes
@@ -3668,14 +3668,14 @@ Me mostre esta cena de 9 ângulos diferentes em uma grade 3x3 1:1, coloque o nú
 
 ---
 
-### No. 87: Teste de Geração de Texto no Papel
+### No. 87: Teste de Geração de Texto em Papel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt de teste simples para o GPT Image 1.5, para verificar sua capacidade de renderizar texto complexo com precisão, solicitando especificamente as primeiras linhas da história tradicional japonesa 'Jyumon' em papel branco com texto preto.
+Um prompt de teste simples para o GPT Image 1.5, para verificar sua capacidade de renderizar texto complexo com precisão, solicitando especificamente as linhas iniciais da história tradicional japonesa 'Jyumon' em papel branco com texto preto.
 
 #### 📝 Prompt
 
@@ -3689,7 +3689,7 @@ Por favor, escreva o seguinte em papel branco com texto preto:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948274188_2sn4ix_G8UBUg0a4AQKi7Z.jpg" width="600" alt="Teste de Geração de Texto no Papel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948274188_2sn4ix_G8UBUg0a4AQKi7Z.jpg" width="600" alt="Teste de Geração de Texto em Papel - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -4063,7 +4063,7 @@ Um prompt simples e fotorrealista, projetado para gerar uma imagem de paisagem s
 #### 📝 Prompt
 
 ```
-Uma renderização serena e fotorrealista de um lago calmo ao amanhecer, com névoa pairando sobre a água.
+Uma representação serena e fotorrealista de um lago calmo ao amanhecer, com névoa pairando sobre a água.
 ```
 
 #### 🖼️ Imagens geradas
@@ -4081,7 +4081,7 @@ Uma renderização serena e fotorrealista de um lago calmo ao amanhecer, com né
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20renderiza%C3%A7%C3%A3o%20serena%20e%20fotorrealista%20de%20um%20lago%20calmo%20ao%20amanhecer%2C%20com%20n%C3%A9voa%20pairando%20sobre%20a%20%C3%A1gua.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Uma%20representa%C3%A7%C3%A3o%20serena%20e%20fotorrealista%20de%20um%20lago%20calmo%20ao%20amanhecer%2C%20com%20n%C3%A9voa%20pairando%20sobre%20a%20%C3%A1gua.)**
 
 ---
 
@@ -4124,12 +4124,12 @@ Um personagem de desenho animado completando orgulhosamente uma lista de tarefas
 
 #### 📖 Descrição
 
-Um prompt detalhado para gerar uma imagem de um jovem robusto em uma pose de ação dinâmica de guerreiro em um campo de batalha caótico, enfatizando a consistência com uma imagem de referência carregada e detalhes específicos como sangue, sujeira e músculos tensos.
+Um prompt detalhado para gerar uma imagem de um jovem robusto em uma pose de ação dinâmica de guerreiro em um campo de batalha caótico, enfatizando a consistência com uma imagem de referência enviada e detalhes específicos como sangue, sujeira e músculos tensos.
 
 #### 📝 Prompt
 
 ```
-Um jovem robusto, como na foto, em uma pose de ação dinâmica, 100% o mesmo rosto. Ele tem uma expressão de guerreiro intensa no rosto, com cabelos esvoaçantes. Ele está segurando uma espada longa ou facão coberto de sangue na mão. Ele está vestindo uma regata preta rasgada e ensanguentada e calças escuras e empoeiradas. Seus braços e peito estão manchados de sangue e sujeira, mostrando músculos tensos, suor e detalhes de sujeira claramente visíveis. O fundo é um campo de batalha caótico, cheio de fumaça e escuro, com destroços voando.
+Um jovem robusto, como na foto, em uma pose de ação dinâmica, 100% o mesmo rosto. Ele tem uma expressão intensa de guerreiro no rosto, com cabelos soprados pelo vento. Ele está segurando uma espada longa ou facão coberto de sangue em sua mão. Ele está vestindo uma regata preta rasgada e ensanguentada e calças escuras e empoeiradas. Seus braços e peito estão manchados de sangue e sujeira, mostrando músculos tensos, suor e detalhes de sujeira claramente visíveis. O fundo é um campo de batalha caótico, cheio de fumaça e escuro, com destroços voando.
 ```
 
 #### 🖼️ Imagens geradas
@@ -4147,7 +4147,7 @@ Um jovem robusto, como na foto, em uma pose de ação dinâmica, 100% o mesmo ro
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20jovem%20robusto%2C%20como%20na%20foto%2C%20em%20uma%20pose%20de%20a%C3%A7%C3%A3o%20din%C3%A2mica%2C%20100%25%20o%20mesmo%20rosto.%20Ele%20tem%20uma%20express%C3%A3o%20de%20guerreiro%20intensa%20no%20rosto%2C%20com%20cabelos%20esvoa%C3%A7antes.%20Ele%20est%C3%A1%20segurando%20uma%20espada%20longa%20ou%20fac%C3%A3o%20coberto%20de%20sangue%20na%20m%C3%A3o.%20Ele%20est%C3%A1%20vestindo%20uma%20regata%20preta%20rasgada%20e%20ensanguentada%20e%20cal%C3%A7as%20escuras%20e%20empoeiradas.%20Seus%20bra%C3%A7os%20e%20peito%20est%C3%A3o%20manchados%20de%20sangue%20e%20sujeira%2C%20mostrando%20m%C3%BAsculos%20tensos%2C%20suor%20e%20detalhes%20de%20sujeira%20claramente%20vis%C3%ADveis.%20O%20fundo%20%C3%A9%20um%20campo%20de%20batalha%20ca%C3%B3tico%2C%20cheio%20de%20fuma%C3%A7a%20e%20escuro%2C%20com%20destro%C3%A7os%20voando.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20jovem%20robusto%2C%20como%20na%20foto%2C%20em%20uma%20pose%20de%20a%C3%A7%C3%A3o%20din%C3%A2mica%2C%20100%25%20o%20mesmo%20rosto.%20Ele%20tem%20uma%20express%C3%A3o%20intensa%20de%20guerreiro%20no%20rosto%2C%20com%20cabelos%20soprados%20pelo%20vento.%20Ele%20est%C3%A1%20segurando%20uma%20espada%20longa%20ou%20fac%C3%A3o%20coberto%20de%20sangue%20em%20sua%20m%C3%A3o.%20Ele%20est%C3%A1%20vestindo%20uma%20regata%20preta%20rasgada%20e%20ensanguentada%20e%20cal%C3%A7as%20escuras%20e%20empoeiradas.%20Seus%20bra%C3%A7os%20e%20peito%20est%C3%A3o%20manchados%20de%20sangue%20e%20sujeira%2C%20mostrando%20m%C3%BAsculos%20tensos%2C%20suor%20e%20detalhes%20de%20sujeira%20claramente%20vis%C3%ADveis.%20O%20fundo%20%C3%A9%20um%20campo%20de%20batalha%20ca%C3%B3tico%2C%20cheio%20de%20fuma%C3%A7a%20e%20escuro%2C%20com%20destro%C3%A7os%20voando.)**
 
 ---
 
@@ -4383,7 +4383,7 @@ Use o poema da imagem de referência: 'Ganso, Ganso, Ganso, pescoço curvado can
 
 #### 📖 Descrição
 
-Um prompt artístico altamente específico que combina as texturas de bordado manual e esboço áspero com caneta esferográfica. Requer adesão estrita à forma e ao clima de uma imagem de referência, usando apenas linhas em índigo profundo sobre uma textura de tela de linho esbranquiçada de alta definição, visando um estilo de ilustração minimalista de revista japonesa com melancolia poética.
+Um prompt artístico altamente específico que combina as texturas de bordado manual e esboço áspero com caneta esferográfica. Requer adesão estrita à forma e ao clima de uma imagem de referência, usando apenas linhas em índigo profundo em uma textura de tela de linho esbranquiçada de alta definição, visando um estilo de ilustração minimalista de revista japonesa com melancolia poética.
 
 #### 📝 Prompt
 
@@ -4394,11 +4394,11 @@ Um [{argument name="subject type" default="retrato de meio corpo"}] extremamente
 
 Siga rigorosamente o contorno, detalhes, características, textura, postura e temperamento geral do assunto da imagem de referência carregada (peso de pelo menos 1.6 ou superior).
 
-O assunto é delineado com linhas minimalistas, mantendo a estrutura central e as características morfológicas da imagem de referência. Se o assunto tiver um rosto ou expressão, apresente seu semblante de forma abstrata ou minimalista; se for um objeto ou arquitetura, enfatize seu contorno e senso estrutural. Use apenas alguns traços para sugerir a estrutura necessária do assunto (como roupas, base ou conexões ambientais).
+O assunto é delineado com linhas minimalistas, mantendo a estrutura central e as características morfológicas da imagem de referência. Se o assunto tiver um rosto ou expressão, apresente seu semblante de forma abstrata ou mínima; se for um objeto ou arquitetura, enfatize seu contorno e senso estrutural. Use apenas alguns traços para sugerir a estrutura necessária do assunto (como roupas, base ou conexões ambientais).
 
 Estilo de Arte e Material:
 
-A imagem é inteiramente composta por (linhas serrilhadas em índigo profundo:1.5), com traços curtos e densos, imitando fortemente pontos de costura ou a textura seca de rabiscos de caneta esferográfica. As bordas das linhas são ásperas, não curvas suaves. O fundo deve ser uma (textura de tela de linho branco-sujo:1.4) de alta definição, mostrando claramente o grão e os detalhes da trama/urdume do tecido, criando a ilusão de uma obra de arte física.
+A imagem é inteiramente composta por (linhas serrilhadas em índigo profundo:1.5), com traços curtos e densos, imitando fortemente pontos de costura ou a textura seca de rabiscos de caneta esferográfica. As bordas das linhas são ásperas, não curvas suaves. O fundo deve ser uma (textura de tela de linho off-white:1.4) de alta definição, mostrando claramente o grão e os detalhes da trama/urdume do tecido, criando a ilusão de uma obra de arte física.
 
 Composição e Detalhes:
 
@@ -4406,7 +4406,7 @@ Composição minimalista, rica em espaço negativo, com o assunto posicionado ap
 
 Cor e Luz:
 
-Modo Duotônico estrito, contendo apenas linhas em Índigo Profundo e fundo Branco-sujo. Sem iluminação complexa; a estrutura, volume e áreas de sombra do assunto são implícitas pela densidade e arranjo das linhas. A atmosfera geral apresenta um estilo de ilustração de revista japonesa, transmitindo uma sensação de solidão e poesia introspectiva.
+Modo Duotônico estrito, contendo apenas linhas em Índigo Profundo e fundo Off-white. Sem iluminação complexa; a estrutura, volume e áreas de sombra do assunto são implícitas pela densidade e arranjo das linhas. A atmosfera geral apresenta um estilo de ilustração de revista japonesa, transmitindo uma sensação de solidão e poesia introspectiva.
 ```
 
 #### 🖼️ Imagens geradas
@@ -4424,7 +4424,7 @@ Modo Duotônico estrito, contendo apenas linhas em Índigo Profundo e fundo Bran
 - **Publicado:** 16 de dezembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20%5B%7Bargument%20name%3D%22subject%20type%22%20default%3D%22retrato%20de%20meio%20corpo%22%7D%5D%20extremamente%20art%C3%ADstico%2C%20usando%20a%20forma%20expressiva%20%C3%BAnica%20que%20combina%20(estilo%20de%20bordado%20%C3%A0%20m%C3%A3o%3A1.4)%20e%20(esbo%C3%A7o%20%C3%A1spero%20de%20caneta%20esferogr%C3%A1fica%3A1.2).%0A%0A%5BAssunto%20Principal%5D%3A%0A%0ASiga%20rigorosamente%20o%20contorno%2C%20detalhes%2C%20caracter%C3%ADsticas%2C%20textura%2C%20postura%20e%20temperamento%20geral%20do%20assunto%20da%20imagem%20de%20refer%C3%AAncia%20carregada%20(peso%20de%20pelo%20menos%201.6%20ou%20superior).%0A%0AO%20assunto%20%C3%A9%20delineado%20com%20linhas%20minimalistas%2C%20mantendo%20a%20estrutura%20central%20e%20as%20caracter%C3%ADsticas%20morfol%C3%B3gicas%20da%20imagem%20de%20refer%C3%AAncia.%20Se%20o%20assunto%20tiver%20um%20rosto%20ou%20express%C3%A3o%2C%20apresente%20seu%20semblante%20de%20forma%20abstrata%20ou%20minimalista%3B%20se%20for%20um%20objeto%20ou%20arquitetura%2C%20enfatize%20seu%20contorno%20e%20senso%20estrutural.%20Use%20apenas%20alguns%20tra%C3%A7os%20para%20sugerir%20a%20estrutura%20necess%C3%A1ria%20do%20assunto%20(como%20roupas%2C%20base%20ou%20conex%C3%B5es%20ambientais).%0A%0AEstilo%20de%20Arte%20e%20Material%3A%0A%0AA%20imagem%20%C3%A9%20inteiramente%20composta%20por%20(linhas%20serrilhadas%20em%20%C3%ADndigo%20profundo%3A1.5)%2C%20com%20tra%C3%A7os%20curtos%20e%20densos%2C%20imitando%20fortemente%20pontos%20de%20costura%20ou%20a%20textura%20seca%20de%20rabiscos%20de%20caneta%20esferogr%C3%A1fica.%20As%20bordas%20das%20linhas%20s%C3%A3o%20%C3%A1speras%2C%20n%C3%A3o%20curvas%20suaves.%20O%20fundo%20deve%20ser%20uma%20(textura%20de%20tela%20de%20linho%20branco-sujo%3A1.4)%20de%20alta%20defini%C3%A7%C3%A3o%2C%20mostrando%20claramente%20o%20gr%C3%A3o%20e%20os%20detalhes%20da%20trama%2Furdume%20do%20tecido%2C%20criando%20a%20ilus%C3%A3o%20de%20uma%20obra%20de%20arte%20f%C3%ADsica.%0A%0AComposi%C3%A7%C3%A3o%20e%20Detalhes%3A%0A%0AComposi%C3%A7%C3%A3o%20minimalista%2C%20rica%20em%20espa%C3%A7o%20negativo%2C%20com%20o%20assunto%20posicionado%20apropriadamente%20no%20quadro.%20O%20canto%20superior%20direito%20da%20imagem%20inclui%20(duas%20linhas%20de%20texto%20manuscrito%20vertical%3A1.3)%3A%20%E2%80%9C%7Bargument%20name%3D%22watermark%20text%22%20default%3D%22%40wuzhutisushuo%22%7D%E2%80%9D%2C%20com%20um%20estilo%20de%20fonte%20casual%20e%20natural%2C%20servindo%20para%20equilibrar%20a%20composi%C3%A7%C3%A3o.%0A%0ACor%20e%20Luz%3A%0A%0AModo%20Duot%C3%B4nico%20estrito%2C%20contendo%20apenas%20linhas%20em%20%C3%8Dndigo%20Profundo%20e%20fundo%20Branco-sujo.%20Sem%20ilumina%C3%A7%C3%A3o%20complexa%3B%20a%20estrutura%2C%20volume%20e%20%C3%A1reas%20de%20sombra%20do%20assunto%20s%C3%A3o%20impl%C3%ADcitas%20pela%20densidade%20e%20arranjo%20das%20linhas.%20A%20atmosfera%20geral%20apresenta%20um%20estilo%20de%20ilustra%C3%A7%C3%A3o%20de%20revista%20japonesa%2C%20transmitindo%20uma%20sensa%C3%A7%C3%A3o%20de%20solid%C3%A3o%20e%20poesia%20introspectiva.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20%5B%7Bargument%20name%3D%22subject%20type%22%20default%3D%22retrato%20de%20meio%20corpo%22%7D%5D%20extremamente%20art%C3%ADstico%2C%20usando%20a%20forma%20expressiva%20%C3%BAnica%20que%20combina%20(estilo%20de%20bordado%20%C3%A0%20m%C3%A3o%3A1.4)%20e%20(esbo%C3%A7o%20%C3%A1spero%20de%20caneta%20esferogr%C3%A1fica%3A1.2).%0A%0A%5BAssunto%20Principal%5D%3A%0A%0ASiga%20rigorosamente%20o%20contorno%2C%20detalhes%2C%20caracter%C3%ADsticas%2C%20textura%2C%20postura%20e%20temperamento%20geral%20do%20assunto%20da%20imagem%20de%20refer%C3%AAncia%20carregada%20(peso%20de%20pelo%20menos%201.6%20ou%20superior).%0A%0AO%20assunto%20%C3%A9%20delineado%20com%20linhas%20minimalistas%2C%20mantendo%20a%20estrutura%20central%20e%20as%20caracter%C3%ADsticas%20morfol%C3%B3gicas%20da%20imagem%20de%20refer%C3%AAncia.%20Se%20o%20assunto%20tiver%20um%20rosto%20ou%20express%C3%A3o%2C%20apresente%20seu%20semblante%20de%20forma%20abstrata%20ou%20m%C3%ADnima%3B%20se%20for%20um%20objeto%20ou%20arquitetura%2C%20enfatize%20seu%20contorno%20e%20senso%20estrutural.%20Use%20apenas%20alguns%20tra%C3%A7os%20para%20sugerir%20a%20estrutura%20necess%C3%A1ria%20do%20assunto%20(como%20roupas%2C%20base%20ou%20conex%C3%B5es%20ambientais).%0A%0AEstilo%20de%20Arte%20e%20Material%3A%0A%0AA%20imagem%20%C3%A9%20inteiramente%20composta%20por%20(linhas%20serrilhadas%20em%20%C3%ADndigo%20profundo%3A1.5)%2C%20com%20tra%C3%A7os%20curtos%20e%20densos%2C%20imitando%20fortemente%20pontos%20de%20costura%20ou%20a%20textura%20seca%20de%20rabiscos%20de%20caneta%20esferogr%C3%A1fica.%20As%20bordas%20das%20linhas%20s%C3%A3o%20%C3%A1speras%2C%20n%C3%A3o%20curvas%20suaves.%20O%20fundo%20deve%20ser%20uma%20(textura%20de%20tela%20de%20linho%20off-white%3A1.4)%20de%20alta%20defini%C3%A7%C3%A3o%2C%20mostrando%20claramente%20o%20gr%C3%A3o%20e%20os%20detalhes%20da%20trama%2Furdume%20do%20tecido%2C%20criando%20a%20ilus%C3%A3o%20de%20uma%20obra%20de%20arte%20f%C3%ADsica.%0A%0AComposi%C3%A7%C3%A3o%20e%20Detalhes%3A%0A%0AComposi%C3%A7%C3%A3o%20minimalista%2C%20rica%20em%20espa%C3%A7o%20negativo%2C%20com%20o%20assunto%20posicionado%20apropriadamente%20no%20quadro.%20O%20canto%20superior%20direito%20da%20imagem%20inclui%20(duas%20linhas%20de%20texto%20manuscrito%20vertical%3A1.3)%3A%20%E2%80%9C%7Bargument%20name%3D%22watermark%20text%22%20default%3D%22%40wuzhutisushuo%22%7D%E2%80%9D%2C%20com%20um%20estilo%20de%20fonte%20casual%20e%20natural%2C%20servindo%20para%20equilibrar%20a%20composi%C3%A7%C3%A3o.%0A%0ACor%20e%20Luz%3A%0A%0AModo%20Duot%C3%B4nico%20estrito%2C%20contendo%20apenas%20linhas%20em%20%C3%8Dndigo%20Profundo%20e%20fundo%20Off-white.%20Sem%20ilumina%C3%A7%C3%A3o%20complexa%3B%20a%20estrutura%2C%20volume%20e%20%C3%A1reas%20de%20sombra%20do%20assunto%20s%C3%A3o%20impl%C3%ADcitas%20pela%20densidade%20e%20arranjo%20das%20linhas.%20A%20atmosfera%20geral%20apresenta%20um%20estilo%20de%20ilustra%C3%A7%C3%A3o%20de%20revista%20japonesa%2C%20transmitindo%20uma%20sensa%C3%A7%C3%A3o%20de%20solid%C3%A3o%20e%20poesia%20introspectiva.)**
 
 ---
 
@@ -4543,14 +4543,14 @@ Uma foto vertical hiper-realista, ângulo ligeiramente para baixo. O objeto prin
 
 ---
 
-### No. 107: Edição de Imagem: Transformação de Carro e Fundo
+### No. 107: Edição de Imagem: Transformação de Carro e Plano de Fundo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt de edição simples usado para testar os recursos de edição precisos do modelo, instruindo-o a mudar o carro em uma imagem existente para um Tesla e substituir as árvores no fundo por arranha-céus altos.
+Um prompt de edição simples usado para testar as capacidades de edição precisas do modelo, instruindo-o a mudar o carro em uma imagem existente para um Tesla e substituir as árvores no fundo por arranha-céus altos.
 
 #### 📝 Prompt
 
@@ -4563,7 +4563,7 @@ Mude o carro para um {argument name="new vehicle" default="Tesla"} e as árvores
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948281920_spl4wx_G8Q-BeIa0AAqi1R.jpg" width="600" alt="Edição de Imagem: Transformação de Carro e Fundo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948281920_spl4wx_G8Q-BeIa0AAqi1R.jpg" width="600" alt="Edição de Imagem: Transformação de Carro e Plano de Fundo - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -4620,6 +4620,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-17T16:13:48.203Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-17T20:11:45.401Z</sub>
 
 </div>
