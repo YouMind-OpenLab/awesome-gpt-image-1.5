@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **180** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 8:15:16 UTC** |
+| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 12:19:47 UTC** |
 
 </div>
 
@@ -209,7 +209,7 @@ Representa el anhelo y la sensación de liberación de una chica que mira al cie
 
 #### 📖 Descripción
 
-Un usuario generó una imagen con GPT-Image 1.5 para darle a su personaje, Max, un simpático amigo caribú, lo que destaca la capacidad del modelo para crear interacciones específicas entre personajes.
+Un usuario generó una imagen usando GPT-Image 1.5 para darle a su personaje, Max, un lindo amigo caribú, destacando la capacidad del modelo para crear interacciones específicas entre personajes.
 
 #### 📝 Prompt
 
@@ -242,12 +242,12 @@ dale a Max un lindo amigo caribú
 
 #### 📖 Descripción
 
-Una plantilla de prompt creativa, denominada "método FCG", que instruye a la IA para generar un conjunto de imágenes que representan una historia descabellada que se desarrolla en intervalos de tiempo específicos: 5 minutos, 10 minutos, 1 hora y 3 horas.
+Una plantilla de prompt creativa, conocida como el "método FCG", que instruye a la IA para generar un conjunto de imágenes que representan una historia descabellada que se desarrolla en intervalos de tiempo específicos: 5 minutos, 10 minutos, 1 hora y 3 horas.
 
 #### 📝 Prompt
 
 ```
-"Crea un conjunto de imágenes de lo que sucede 5 minutos, 10 minutos, 1 hora y 3 horas después. Inventa algún tipo de historia descabellada."
+"Crea un conjunto de imágenes de lo que sucede 5 minutos, 10 minutos, 1 hora y 3 horas después. Inventa una historia un poco loca."
 ```
 
 #### 🖼️ Imágenes generadas
@@ -265,7 +265,7 @@ Una plantilla de prompt creativa, denominada "método FCG", que instruye a la IA
 - **Publicado:** 18 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=%22Crea%20un%20conjunto%20de%20im%C3%A1genes%20de%20lo%20que%20sucede%205%20minutos%2C%2010%20minutos%2C%201%20hora%20y%203%20horas%20despu%C3%A9s.%20Inventa%20alg%C3%BAn%20tipo%20de%20historia%20descabellada.%22)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=%22Crea%20un%20conjunto%20de%20im%C3%A1genes%20de%20lo%20que%20sucede%205%20minutos%2C%2010%20minutos%2C%201%20hora%20y%203%20horas%20despu%C3%A9s.%20Inventa%20una%20historia%20un%20poco%20loca.%22)**
 
 ---
 
@@ -807,7 +807,7 @@ Un *prompt* JSON altamente estructurado para GPT Image 1.5 para generar una imag
 
 ---
 
-### No. 18: Perro en patineta: prompt original para foto de iPhone
+### No. 18: Perro en patineta: prompt original de foto para iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -818,7 +818,7 @@ Un *prompt* diseñado para lograr un aspecto menos "generado por IA" al especifi
 #### 📝 Prompt
 
 ```
-Fotografía de un perro en un monopatín tomada con el iPhone original.
+Fotografía de un perro en patineta tomada con el iPhone original.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -826,13 +826,13 @@ Fotografía de un perro en un monopatín tomada con el iPhone original.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Perro en patineta: prompt original para foto de iPhone - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Perro en patineta: prompt original de foto para iPhone - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Perro en patineta: prompt original para foto de iPhone - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Perro en patineta: prompt original de foto para iPhone - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -842,7 +842,7 @@ Fotografía de un perro en un monopatín tomada con el iPhone original.
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=Fotograf%C3%ADa%20de%20un%20perro%20en%20un%20monopat%C3%ADn%20tomada%20con%20el%20iPhone%20original.)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=Fotograf%C3%ADa%20de%20un%20perro%20en%20patineta%20tomada%20con%20el%20iPhone%20original.)**
 
 ---
 
@@ -852,12 +852,12 @@ Fotografía de un perro en un monopatín tomada con el iPhone original.
 
 #### 📖 Descripción
 
-Un prompt detallado para generar un retrato al estilo del arte pop de los cómics de los años 60. Especifica el uso de líneas de contorno negras y audaces, colores primarios planos y saturados, sombreado denso de semitonos, rasgos faciales expresivos y una composición gráfica a sangre completa con el encanto de la impresión vintage.
+Una instrucción detallada para generar un retrato al estilo del arte pop de los cómics de los años 60. Especifica el uso de líneas de contorno negras y audaces, colores primarios planos y saturados, sombreado denso de semitonos, rasgos faciales expresivos y una composición gráfica a sangre completa con el encanto de la impresión vintage.
 
 #### 📝 Prompt
 
 ```
-Un retrato del sujeto al estilo pop-art de cómic de los años 60, ilustrado con atrevidas líneas de contorno negras, colores primarios planos y saturados, y un denso sombreado de puntos de semitono. Los rasgos faciales deben parecer expresivos, estilizados y ligeramente exagerados, como si fueran capturados en un dramático momento a mitad de viñeta. Utiliza una composición limpia y gráfica con una fuerte energía pop-art y un encanto de impresión vintage. La obra de arte debe ser a sangre completa, sin bordes.
+Un retrato del sujeto al estilo de cómic pop-art de los años 60, ilustrado con atrevidas líneas de contorno negras, colores primarios planos y saturados, y un denso sombreado de puntos de semitono. Los rasgos faciales deben parecer expresivos, estilizados y ligeramente exagerados, como si fueran capturados en un dramático momento a mitad de viñeta. Utiliza una composición limpia y gráfica con una fuerte energía pop-art y un encanto de impresión vintage. La obra de arte debe ser a sangre completa, sin bordes.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -875,7 +875,7 @@ Un retrato del sujeto al estilo pop-art de cómic de los años 60, ilustrado con
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=Un%20retrato%20del%20sujeto%20al%20estilo%20pop-art%20de%20c%C3%B3mic%20de%20los%20a%C3%B1os%2060%2C%20ilustrado%20con%20atrevidas%20l%C3%ADneas%20de%20contorno%20negras%2C%20colores%20primarios%20planos%20y%20saturados%2C%20y%20un%20denso%20sombreado%20de%20puntos%20de%20semitono.%20Los%20rasgos%20faciales%20deben%20parecer%20expresivos%2C%20estilizados%20y%20ligeramente%20exagerados%2C%20como%20si%20fueran%20capturados%20en%20un%20dram%C3%A1tico%20momento%20a%20mitad%20de%20vi%C3%B1eta.%20Utiliza%20una%20composici%C3%B3n%20limpia%20y%20gr%C3%A1fica%20con%20una%20fuerte%20energ%C3%ADa%20pop-art%20y%20un%20encanto%20de%20impresi%C3%B3n%20vintage.%20La%20obra%20de%20arte%20debe%20ser%20a%20sangre%20completa%2C%20sin%20bordes.)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=Un%20retrato%20del%20sujeto%20al%20estilo%20de%20c%C3%B3mic%20pop-art%20de%20los%20a%C3%B1os%2060%2C%20ilustrado%20con%20atrevidas%20l%C3%ADneas%20de%20contorno%20negras%2C%20colores%20primarios%20planos%20y%20saturados%2C%20y%20un%20denso%20sombreado%20de%20puntos%20de%20semitono.%20Los%20rasgos%20faciales%20deben%20parecer%20expresivos%2C%20estilizados%20y%20ligeramente%20exagerados%2C%20como%20si%20fueran%20capturados%20en%20un%20dram%C3%A1tico%20momento%20a%20mitad%20de%20vi%C3%B1eta.%20Utiliza%20una%20composici%C3%B3n%20limpia%20y%20gr%C3%A1fica%20con%20una%20fuerte%20energ%C3%ADa%20pop-art%20y%20un%20encanto%20de%20impresi%C3%B3n%20vintage.%20La%20obra%20de%20arte%20debe%20ser%20a%20sangre%20completa%2C%20sin%20bordes.)**
 
 ---
 
@@ -1716,7 +1716,7 @@ Un prompt fotorrealista detallado para GPT Image 1.5 que solicita una foto de st
 #### 📝 Prompt
 
 ```
-Vista frontal de una mujer linda con cabello {argument name="hair color" default="negro"} en una {argument name="clothing item" default="falda corta"}, mirando hacia la cámara, sobre un fondo {argument name="background color" default="blanco"}, detallada y fotorrealista, sonrisa recatada, foto de archivo
+vista frontal de una mujer linda con cabello {argument name="hair color" default="black"} y una {argument name="clothing item" default="short skirt"}, mirando hacia la cámara, sobre un fondo {argument name="background color" default="white"}, detallada y fotorrealista, sonrisa recatada, foto de archivo
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1734,7 +1734,7 @@ Vista frontal de una mujer linda con cabello {argument name="hair color" default
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=Vista%20frontal%20de%20una%20mujer%20linda%20con%20cabello%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22negro%22%7D%20en%20una%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22falda%20corta%22%7D%2C%20mirando%20hacia%20la%20c%C3%A1mara%2C%20sobre%20un%20fondo%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22blanco%22%7D%2C%20detallada%20y%20fotorrealista%2C%20sonrisa%20recatada%2C%20foto%20de%20archivo)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=vista%20frontal%20de%20una%20mujer%20linda%20con%20cabello%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22black%22%7D%20y%20una%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22short%20skirt%22%7D%2C%20mirando%20hacia%20la%20c%C3%A1mara%2C%20sobre%20un%20fondo%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22white%22%7D%2C%20detallada%20y%20fotorrealista%2C%20sonrisa%20recatada%2C%20foto%20de%20archivo)**
 
 ---
 
@@ -1849,7 +1849,7 @@ Conviértelo en una pintura de acuarela transparente dibujada en un cuaderno de 
 
 ---
 
-### No. 45: Prompt de encuentro entre un cíborg y un escolar sireno
+### No. 45: Prompt para el encuentro entre un escolar cíborg y una sirena
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1868,13 +1868,13 @@ El encuentro entre un chico cíborg con gakuran (uniforme escolar) y un chico si
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Prompt de encuentro entre un cíborg y un escolar sireno - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Prompt para el encuentro entre un escolar cíborg y una sirena - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Prompt de encuentro entre un cíborg y un escolar sireno - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Prompt para el encuentro entre un escolar cíborg y una sirena - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -3481,7 +3481,7 @@ Una fotografía realista de alta resolución de {argument name="statue name" def
 
 #### 📖 Descripción
 
-Un prompt divertido para GPT Image 1.5 para generar imágenes nostálgicas al estilo Purikura (cabina de fotos japonesa), específicamente con un gorila y una ardilla, destacando la capacidad del modelo para manejar estilos y sujetos específicos.
+Un prompt divertido para que GPT Image 1.5 genere imágenes nostálgicas al estilo Purikura (cabina de fotos japonesa), específicamente con un gorila y una ardilla, destacando la capacidad del modelo para manejar estilos y sujetos específicos.
 
 #### 📝 Prompt
 
@@ -4237,12 +4237,12 @@ Expresión:
 
 #### 📖 Descripción
 
-Un *prompt* diseñado para probar la consistencia y las capacidades de transformación de expresiones de los modelos de imagen. Solicita transformar la expresión de un personaje a "llorando mientras sonríe" —específicamente, lágrimas corriendo por las mejillas mientras mantiene una sonrisa suave y agridulce—, preservando estrictamente el diseño del personaje, el peinado, la ropa y el estilo artístico.
+Un *prompt* diseñado para probar la consistencia y las capacidades de transformación de expresiones de los modelos de imagen. Solicita transformar la expresión de un personaje a "llorando mientras sonríe" —específicamente, lágrimas corriendo por las mejillas mientras mantiene una sonrisa suave y agridulce—, preservando estrictamente el diseño del personaje, el peinado, la vestimenta y el estilo artístico.
 
 #### 📝 Prompt
 
 ```
-"Transforma la expresión a llanto mientras sonríe - lágrimas corriendo por las mejillas mientras mantiene una sonrisa dulce y agridulce. Mantén exactamente el mismo diseño de personaje, peinado, vestimenta y estilo artístico."
+"Transformar la expresión a llanto mientras sonríe: lágrimas corriendo por las mejillas mientras mantiene una sonrisa dulce y agridulce. Mantener exactamente el mismo diseño del personaje, peinado, vestimenta y estilo artístico."
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4278,7 +4278,7 @@ Un *prompt* diseñado para probar la consistencia y las capacidades de transform
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=%22Transforma%20la%20expresi%C3%B3n%20a%20llanto%20mientras%20sonr%C3%ADe%20-%20l%C3%A1grimas%20corriendo%20por%20las%20mejillas%20mientras%20mantiene%20una%20sonrisa%20dulce%20y%20agridulce.%20Mant%C3%A9n%20exactamente%20el%20mismo%20dise%C3%B1o%20de%20personaje%2C%20peinado%2C%20vestimenta%20y%20estilo%20art%C3%ADstico.%22)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-1-5?prompt=%22Transformar%20la%20expresi%C3%B3n%20a%20llanto%20mientras%20sonr%C3%ADe%3A%20l%C3%A1grimas%20corriendo%20por%20las%20mejillas%20mientras%20mantiene%20una%20sonrisa%20dulce%20y%20agridulce.%20Mantener%20exactamente%20el%20mismo%20dise%C3%B1o%20del%20personaje%2C%20peinado%2C%20vestimenta%20y%20estilo%20art%C3%ADstico.%22)**
 
 ---
 
@@ -5115,6 +5115,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T08:15:16.149Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T12:19:47.450Z</sub>
 
 </div>

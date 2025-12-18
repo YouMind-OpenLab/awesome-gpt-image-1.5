@@ -88,7 +88,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **180** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 08:15:19 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 12:20:53 UTC** |
 
 </div>
 
@@ -209,12 +209,12 @@ Stellen Sie die Sehnsucht und das Gefühl der Befreiung eines Mädchens dar, das
 
 #### 📖 Beschreibung
 
-Ein Nutzer hat mit GPT-Image 1.5 ein Bild erstellt, um seinem Charakter Max einen niedlichen Karibu-Freund zu geben, was die Fähigkeit des Modells hervorhebt, spezifische Charakterinteraktionen zu erzeugen.
+Ein Nutzer hat ein Bild mit GPT-Image 1.5 erstellt, um seinem Charakter Max einen niedlichen Karibu-Freund zu geben, was die Fähigkeit des Modells hervorhebt, spezifische Charakterinteraktionen zu erzeugen.
 
 #### 📝 Prompt
 
 ```
-gib Max einen niedlichen Karibu-Freund
+Gib Max einen niedlichen Karibu-Freund
 ```
 
 #### 🖼️ Generierte Bilder
@@ -232,11 +232,11 @@ gib Max einen niedlichen Karibu-Freund
 - **Veröffentlicht:** 18. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=gib%20Max%20einen%20niedlichen%20Karibu-Freund)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Gib%20Max%20einen%20niedlichen%20Karibu-Freund)**
 
 ---
 
-### No. 5: FCG-Methoden-Prompt: Zeitraffer-Story
+### No. 5: FCG-Methoden-Prompt: Zeitraffer-Geschichte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -247,7 +247,7 @@ Eine kreative Prompt-Vorlage, die als „FCG-Methode“ bezeichnet wird und die 
 #### 📝 Prompt
 
 ```
-Erstelle eine Reihe von Bildern, die zeigen, was nach 5 Minuten, 10 Minuten, 1 Stunde und 3 Stunden passiert. Erzähle eine Art verrückte Geschichte.
+Erstelle eine Reihe von Bildern, die zeigen, was nach 5 Minuten, 10 Minuten, 1 Stunde und 3 Stunden passiert. Erzähle dabei eine Art verrückte Geschichte.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -255,7 +255,7 @@ Erstelle eine Reihe von Bildern, die zeigen, was nach 5 Minuten, 10 Minuten, 1 S
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="FCG-Methoden-Prompt: Zeitraffer-Story - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="FCG-Methoden-Prompt: Zeitraffer-Geschichte - Image 1">
 </div>
 
 #### 📌 Details
@@ -265,7 +265,7 @@ Erstelle eine Reihe von Bildern, die zeigen, was nach 5 Minuten, 10 Minuten, 1 S
 - **Veröffentlicht:** 18. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20eine%20Reihe%20von%20Bildern%2C%20die%20zeigen%2C%20was%20nach%205%20Minuten%2C%2010%20Minuten%2C%201%20Stunde%20und%203%20Stunden%20passiert.%20Erz%C3%A4hle%20eine%20Art%20verr%C3%BCckte%20Geschichte.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20eine%20Reihe%20von%20Bildern%2C%20die%20zeigen%2C%20was%20nach%205%20Minuten%2C%2010%20Minuten%2C%201%20Stunde%20und%203%20Stunden%20passiert.%20Erz%C3%A4hle%20dabei%20eine%20Art%20verr%C3%BCckte%20Geschichte.)**
 
 ---
 
@@ -805,13 +805,13 @@ Ein hochstrukturierter JSON-Prompt für GPT Image 1.5 zur Generierung eines ultr
 
 ---
 
-### No. 18: Hund auf Skateboard – Original-iPhone-Foto-Prompt
+### No. 18: Hund auf Skateboard Original iPhone Foto Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein Prompt, der darauf abzielt, ein weniger „KI-generiertes“ Aussehen zu erzielen, indem der Bildstil als Foto, aufgenommen mit dem originalen iPhone, mit einem Hund auf einem Skateboard, spezifiziert wird.
+Ein Prompt, der darauf abzielt, ein weniger „KI-generiertes“ Aussehen zu erzielen, indem der Bildstil als Foto, das mit dem originalen iPhone aufgenommen wurde, mit einem Hund auf einem Skateboard, spezifiziert wird.
 
 #### 📝 Prompt
 
@@ -824,13 +824,13 @@ Foto eines Hundes auf einem Skateboard, aufgenommen mit dem originalen iPhone.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Hund auf Skateboard – Original-iPhone-Foto-Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Hund auf Skateboard Original iPhone Foto Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Hund auf Skateboard – Original-iPhone-Foto-Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Hund auf Skateboard Original iPhone Foto Prompt - Image 2">
 </div>
 
 #### 📌 Details
@@ -850,12 +850,12 @@ Foto eines Hundes auf einem Skateboard, aufgenommen mit dem originalen iPhone.
 
 #### 📖 Beschreibung
 
-Ein detaillierter Prompt zur Erstellung eines Porträts im Stil der Pop-Art von Comicbüchern der 1960er Jahre. Er spezifiziert die Verwendung von kräftigen schwarzen Konturlinien, flachen, gesättigten Primärfarben, dichter Halbtonschattierung, ausdrucksstarken Gesichtszügen und einer vollflächigen, grafischen Komposition mit Vintage-Druck-Charme.
+Ein detaillierter Prompt zur Erstellung eines Porträts im Stil der Pop-Art von Comicbüchern der 1960er-Jahre. Er spezifiziert die Verwendung von kräftigen schwarzen Konturlinien, flachen, gesättigten Primärfarben, dichter Halbtonschattierung, ausdrucksstarken Gesichtszügen und einer vollflächigen, grafischen Komposition mit Vintage-Print-Charme.
 
 #### 📝 Prompt
 
 ```
-Ein Porträt des Motivs im Stil eines Pop-Art-Comics der 1960er Jahre, illustriert mit kräftigen schwarzen Konturlinien, flachen, gesättigten Primärfarben und dichter Halbtonpunkt-Schattierung. Die Gesichtszüge sollen ausdrucksstark, stilisiert und leicht übertrieben wirken, als wären sie in einem dramatischen Moment mitten im Panel eingefangen. Verwenden Sie eine klare, grafische Komposition mit starker Pop-Art-Energie und Vintage-Print-Charme. Das Kunstwerk muss randabfallend sein – ohne Ränder.
+Ein Porträt der Person im Pop-Art-Stil eines Comicbuchs der 1960er Jahre, illustriert mit kräftigen schwarzen Konturlinien, flachen, gesättigten Primärfarben und dichter Halbtonpunkt-Schattierung. Die Gesichtszüge sollen ausdrucksstark, stilisiert und leicht übertrieben wirken, als wären sie in einem dramatischen Moment mitten im Panel eingefangen. Verwenden Sie eine klare, grafische Komposition mit starker Pop-Art-Energie und Vintage-Druck-Charme. Das Kunstwerk muss randabfallend sein – ohne Ränder.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -873,7 +873,7 @@ Ein Porträt des Motivs im Stil eines Pop-Art-Comics der 1960er Jahre, illustrie
 - **Veröffentlicht:** 17. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Portr%C3%A4t%20des%20Motivs%20im%20Stil%20eines%20Pop-Art-Comics%20der%201960er%20Jahre%2C%20illustriert%20mit%20kr%C3%A4ftigen%20schwarzen%20Konturlinien%2C%20flachen%2C%20ges%C3%A4ttigten%20Prim%C3%A4rfarben%20und%20dichter%20Halbtonpunkt-Schattierung.%20Die%20Gesichtsz%C3%BCge%20sollen%20ausdrucksstark%2C%20stilisiert%20und%20leicht%20%C3%BCbertrieben%20wirken%2C%20als%20w%C3%A4ren%20sie%20in%20einem%20dramatischen%20Moment%20mitten%20im%20Panel%20eingefangen.%20Verwenden%20Sie%20eine%20klare%2C%20grafische%20Komposition%20mit%20starker%20Pop-Art-Energie%20und%20Vintage-Print-Charme.%20Das%20Kunstwerk%20muss%20randabfallend%20sein%20%E2%80%93%20ohne%20R%C3%A4nder.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Portr%C3%A4t%20der%20Person%20im%20Pop-Art-Stil%20eines%20Comicbuchs%20der%201960er%20Jahre%2C%20illustriert%20mit%20kr%C3%A4ftigen%20schwarzen%20Konturlinien%2C%20flachen%2C%20ges%C3%A4ttigten%20Prim%C3%A4rfarben%20und%20dichter%20Halbtonpunkt-Schattierung.%20Die%20Gesichtsz%C3%BCge%20sollen%20ausdrucksstark%2C%20stilisiert%20und%20leicht%20%C3%BCbertrieben%20wirken%2C%20als%20w%C3%A4ren%20sie%20in%20einem%20dramatischen%20Moment%20mitten%20im%20Panel%20eingefangen.%20Verwenden%20Sie%20eine%20klare%2C%20grafische%20Komposition%20mit%20starker%20Pop-Art-Energie%20und%20Vintage-Druck-Charme.%20Das%20Kunstwerk%20muss%20randabfallend%20sein%20%E2%80%93%20ohne%20R%C3%A4nder.)**
 
 ---
 
@@ -1326,14 +1326,14 @@ Ein lebendiges, retro-futuristisches Reiseposter für die Stadt {argument name="
 
 ---
 
-### No. 31: Bildbearbeitungs-Prompt: Hinzufügen von Kreaturen zum Hintergrund
+### No. 31: Bildbearbeitungs-Prompt: Kreaturen zum Hintergrund hinzufügen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein Prompt, der verwendet wird, um ein bestehendes Bild (erstes Bild) zu bearbeiten, indem ein Lebewesen (zweites Bild) in unterschiedlichen Entfernungen in den Hintergrund eingefügt wird, wobei der Fokus und die Größe für die jeweilige Entfernung angemessen sind, und insgesamt 7 Lebewesen mit leichten Variationen in Aussehen und Stil angefordert werden.
+Ein Prompt, der verwendet wird, um ein bestehendes Bild (erstes Bild) zu bearbeiten, indem ein Lebewesen (zweites Bild) in unterschiedlichen Entfernungen in den Hintergrund eingefügt wird, wobei der Fokus und die Größe für die Entfernung angemessen sind, und insgesamt 7 Lebewesen mit leichten Variationen in Aussehen und Stil angefordert werden.
 
 #### 📝 Prompt
 
@@ -1346,7 +1346,7 @@ Verwende das erste Bild und dessen Stil und Größe, um die Kreatur aus dem zwei
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035368731_jzr55o_G8Yij3ta0AAi13i.jpg" width="600" alt="Bildbearbeitungs-Prompt: Hinzufügen von Kreaturen zum Hintergrund - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035368731_jzr55o_G8Yij3ta0AAi13i.jpg" width="600" alt="Bildbearbeitungs-Prompt: Kreaturen zum Hintergrund hinzufügen - Image 1">
 </div>
 
 #### 📌 Details
@@ -1713,7 +1713,7 @@ Ein detaillierter, fotorealistischer Prompt für GPT Image 1.5, der ein Stockfot
 #### 📝 Prompt
 
 ```
-Vorderansicht einer niedlichen Frau mit {argument name="hair color" default="black"} Haaren in einem {argument name="clothing item" default="short skirt"}, die in die Kamera blickt, auf einem {argument name="background color" default="white"} Hintergrund, detailliert und fotorealistisch, schüchternes Lächeln, Stockfoto
+Vorderansicht einer niedlichen Frau mit {argument name="hair color" default="schwarzem"} Haar in einem {argument name="clothing item" default="kurzen Rock"}, die in die Kamera blickt, vor einem {argument name="background color" default="weißen"} Hintergrund, detailliert und fotorealistisch, schüchternes Lächeln, Stockfoto
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1731,7 +1731,7 @@ Vorderansicht einer niedlichen Frau mit {argument name="hair color" default="bla
 - **Veröffentlicht:** 17. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Vorderansicht%20einer%20niedlichen%20Frau%20mit%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22black%22%7D%20Haaren%20in%20einem%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22short%20skirt%22%7D%2C%20die%20in%20die%20Kamera%20blickt%2C%20auf%20einem%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22white%22%7D%20Hintergrund%2C%20detailliert%20und%20fotorealistisch%2C%20sch%C3%BCchternes%20L%C3%A4cheln%2C%20Stockfoto)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Vorderansicht%20einer%20niedlichen%20Frau%20mit%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22schwarzem%22%7D%20Haar%20in%20einem%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22kurzen%20Rock%22%7D%2C%20die%20in%20die%20Kamera%20blickt%2C%20vor%20einem%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22wei%C3%9Fen%22%7D%20Hintergrund%2C%20detailliert%20und%20fotorealistisch%2C%20sch%C3%BCchternes%20L%C3%A4cheln%2C%20Stockfoto)**
 
 ---
 
@@ -1857,7 +1857,7 @@ Ein Prompt, der eine Szene beschreibt, in der ein Cyborg-Junge in Schuluniform (
 #### 📝 Prompt
 
 ```
-Die Begegnung zwischen einem Gakuran (Schuluniform) Cyborg-Jungen und einem Gakuran Meerjungfrauen-Jungen.
+Die Begegnung zwischen einem Gakuran-Cyborg-Jungen und einem Gakuran-Meerjungfrauen-Jungen.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1881,7 +1881,7 @@ Die Begegnung zwischen einem Gakuran (Schuluniform) Cyborg-Jungen und einem Gaku
 - **Veröffentlicht:** 17. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Die%20Begegnung%20zwischen%20einem%20Gakuran%20(Schuluniform)%20Cyborg-Jungen%20und%20einem%20Gakuran%20Meerjungfrauen-Jungen.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Die%20Begegnung%20zwischen%20einem%20Gakuran-Cyborg-Jungen%20und%20einem%20Gakuran-Meerjungfrauen-Jungen.)**
 
 ---
 
@@ -3471,14 +3471,14 @@ Ein hochauflösendes, realistisches Foto der {argument name="statue name" defaul
 
 ---
 
-### No. 81: Purikura-Fotos im Tier-Stil generieren mit GPT Image 1.5
+### No. 81: Purikura-Fotos im Tier-Stil mit GPT Image 1.5 erstellen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein lustiger Prompt für GPT Image 1.5, um nostalgische Bilder im Purikura-Stil (japanische Fotokabine) zu generieren, insbesondere mit einem Gorilla und einem Eichhörnchen, der die Fähigkeit des Modells hervorhebt, spezifische Stile und Motive zu verarbeiten.
+Ein unterhaltsamer Prompt für GPT Image 1.5, um nostalgische Bilder im Purikura-Stil (japanische Fotokabine) zu generieren, die speziell einen Gorilla und ein Eichhörnchen zeigen und die Fähigkeit des Modells hervorheben, spezifische Stile und Motive zu verarbeiten.
 
 #### 📝 Prompt
 
@@ -3491,13 +3491,13 @@ Ich habe ein nostalgisches Purikura-Foto von einem {argument name="animal 1" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035433004_t3pjhr_G8VzaSnawAEsQe1.jpg" width="600" alt="Purikura-Fotos im Tier-Stil generieren mit GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035433004_t3pjhr_G8VzaSnawAEsQe1.jpg" width="600" alt="Purikura-Fotos im Tier-Stil mit GPT Image 1.5 erstellen - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035433319_2zs2yl_G8VzbI2a4AEJCAd.jpg" width="600" alt="Purikura-Fotos im Tier-Stil generieren mit GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035433319_2zs2yl_G8VzbI2a4AEJCAd.jpg" width="600" alt="Purikura-Fotos im Tier-Stil mit GPT Image 1.5 erstellen - Image 2">
 </div>
 
 #### 📌 Details
@@ -4233,7 +4233,7 @@ Ausdruck:
 
 #### 📖 Beschreibung
 
-Ein Prompt, der entwickelt wurde, um die Konsistenz und die Fähigkeit zur Ausdrucksumwandlung von Bildmodellen zu testen. Er fordert die Umwandlung des Gesichtsausdrucks eines Charakters in „weinend und lächelnd“ – genauer gesagt, Tränen, die über die Wangen laufen, während ein sanftes, bittersüßes Lächeln beibehalten wird – unter strenger Beibehaltung des Charakterdesigns, der Frisur, der Kleidung und des Kunststils.
+Ein Prompt, der entwickelt wurde, um die Konsistenz und die Fähigkeit zur Ausdrucksumwandlung von Bildmodellen zu testen. Er fordert die Umwandlung des Gesichtsausdrucks eines Charakters in „weinend und lächelnd“ – genauer gesagt, Tränen, die über die Wangen laufen, während ein sanftes, bittersüßes Lächeln beibehalten wird – unter strikter Beibehaltung des Charakterdesigns, der Frisur, der Kleidung und des Kunststils.
 
 #### 📝 Prompt
 
@@ -5111,6 +5111,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T08:15:19.481Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T12:20:53.624Z</sub>
 
 </div>

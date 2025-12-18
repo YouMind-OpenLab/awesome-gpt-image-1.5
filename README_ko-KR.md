@@ -88,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **180** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 12월 18일 목요일 오전 8시 15분 3초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 18일 목요일 오후 12시 19분 5초 UTC** |
 
 </div>
 
@@ -203,7 +203,7 @@ GPT-4o를 사용하여 옥상에서 하늘을 올려다보는 소녀의 이미�
 
 ---
 
-### No. 4: Max와 순록 친구
+### No. 4: 맥스와 캐리부 친구
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -214,7 +214,7 @@ GPT-4o를 사용하여 옥상에서 하늘을 올려다보는 소녀의 이미�
 #### 📝 프롬프트
 
 ```
-Max에게 귀여운 카리부 친구를 선물하세요
+Max에게 귀여운 카리부 친구를 선물하세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -222,7 +222,7 @@ Max에게 귀여운 카리부 친구를 선물하세요
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035934137_bazvsl_G8anz_wakAUA17M.png" width="600" alt="Max와 순록 친구 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035934137_bazvsl_G8anz_wakAUA17M.png" width="600" alt="맥스와 캐리부 친구 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -232,17 +232,17 @@ Max에게 귀여운 카리부 친구를 선물하세요
 - **게시일:** 2025년 12월 18일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=Max%EC%97%90%EA%B2%8C%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EC%B9%B4%EB%A6%AC%EB%B6%80%20%EC%B9%9C%EA%B5%AC%EB%A5%BC%20%EC%84%A0%EB%AC%BC%ED%95%98%EC%84%B8%EC%9A%94)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=Max%EC%97%90%EA%B2%8C%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EC%B9%B4%EB%A6%AC%EB%B6%80%20%EC%B9%9C%EA%B5%AC%EB%A5%BC%20%EC%84%A0%EB%AC%BC%ED%95%98%EC%84%B8%EC%9A%94.)**
 
 ---
 
-### No. 5: FCG 방법 프롬프트: 타임랩스 스토리
+### No. 5: FCG 메서드 프롬프트: 타임랩스 스토리
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-AI에게 5분, 10분, 1시간, 3시간 등 특정 시간 간격으로 전개되는 기상천외한 이야기를 묘사하는 일련의 이미지를 생성하도록 지시하는 'FCG 방법'이라는 창의적인 프롬프트 템플릿입니다.
+AI에게 5분, 10분, 1시간, 3시간 등 특정 시간 간격으로 전개되는 기상천외한 이야기를 묘사하는 일련의 이미지를 생성하도록 지시하는 'FCG 방식'이라는 창의적인 프롬프트 템플릿입니다.
 
 #### 📝 프롬프트
 
@@ -255,7 +255,7 @@ AI에게 5분, 10분, 1시간, 3시간 등 특정 시간 간격으로 전개되�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="FCG 방법 프롬프트: 타임랩스 스토리 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="FCG 메서드 프롬프트: 타임랩스 스토리 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -806,13 +806,13 @@ GPT Image 1.5용으로 고도로 구조화된 JSON 프롬프트. 특정 '우발�
 
 ---
 
-### No. 18: 스케이트보드를 탄 개 오리지널 iPhone 사진 프롬프트
+### No. 18: 스케이트보드 탄 개 오리지널 iPhone 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-스케이트보드를 탄 강아지를 오리지널 iPhone으로 촬영한 사진 스타일로 지정하여 'AI 생성' 느낌을 줄인 프롬프트입니다.
+스케이트보드를 탄 강아지의 모습을 오리지널 iPhone으로 촬영한 사진 스타일로 지정하여 'AI가 생성한 것 같지 않은' 느낌을 주는 프롬프트.
 
 #### 📝 프롬프트
 
@@ -825,13 +825,13 @@ GPT Image 1.5용으로 고도로 구조화된 JSON 프롬프트. 특정 '우발�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="스케이트보드를 탄 개 오리지널 iPhone 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="스케이트보드 탄 개 오리지널 iPhone 사진 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="스케이트보드를 탄 개 오리지널 iPhone 사진 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="스케이트보드 탄 개 오리지널 iPhone 사진 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -851,12 +851,12 @@ GPT Image 1.5용으로 고도로 구조화된 JSON 프롬프트. 특정 '우발�
 
 #### 📖 설명
 
-1960년대 만화책 팝아트 스타일의 인물화를 생성하기 위한 상세 프롬프트입니다. 굵은 검은색 윤곽선, 채도가 높은 평면적인 원색, 조밀한 하프톤 음영, 표현력이 풍부한 얼굴 특징, 그리고 빈티지 인쇄의 매력이 담긴 전면 인쇄 그래픽 구성을 사용하도록 명시합니다.
+1960년대 만화책 팝아트 스타일의 인물화를 생성하기 위한 상세 프롬프트입니다. 굵은 검은색 윤곽선, 채도가 높은 평면적인 원색, 조밀한 하프톤 음영, 표현력이 풍부한 얼굴 특징, 그리고 빈티지 인쇄의 매력이 담긴 전면 인쇄(full-bleed) 그래픽 구성을 사용하도록 지정합니다.
 
 #### 📝 프롬프트
 
 ```
-1960년대 만화책 팝아트 스타일로 그려진 인물 초상화. 굵은 검은색 윤곽선, 채도가 높은 단색 원색, 촘촘한 하프톤 도트 음영으로 표현되어야 합니다. 얼굴 특징은 극적인 패널 중간 순간에 포착된 것처럼 표현력이 풍부하고 양식화되었으며 약간 과장되어야 합니다. 강렬한 팝아트 에너지와 빈티지 인쇄 매력이 담긴 깔끔하고 그래픽적인 구도를 사용하세요. 작품은 테두리 없이 전면 인쇄(full-bleed)되어야 합니다.
+1960년대 만화책 팝아트 스타일로 그려진 인물 초상화. 굵은 검은색 윤곽선, 채도가 높은 단색 원색, 촘촘한 하프톤 도트 음영으로 표현되어야 합니다. 얼굴 특징은 극적인 패널 중간 순간에 포착된 것처럼 표현력이 풍부하고 양식화되었으며 약간 과장되어야 합니다. 강렬한 팝아트 에너지와 빈티지 인쇄 매력을 담은 깔끔하고 그래픽적인 구성을 사용하세요. 작품은 테두리 없이 전면 인쇄(full-bleed)되어야 합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -874,7 +874,7 @@ GPT Image 1.5용으로 고도로 구조화된 JSON 프롬프트. 특정 '우발�
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=1960%EB%85%84%EB%8C%80%20%EB%A7%8C%ED%99%94%EC%B1%85%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EA%B7%B8%EB%A0%A4%EC%A7%84%20%EC%9D%B8%EB%AC%BC%20%EC%B4%88%EC%83%81%ED%99%94.%20%EA%B5%B5%EC%9D%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%2C%20%EC%B1%84%EB%8F%84%EA%B0%80%20%EB%86%92%EC%9D%80%20%EB%8B%A8%EC%83%89%20%EC%9B%90%EC%83%89%2C%20%EC%B4%98%EC%B4%98%ED%95%9C%20%ED%95%98%ED%94%84%ED%86%A4%20%EB%8F%84%ED%8A%B8%20%EC%9D%8C%EC%98%81%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%EC%9D%80%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%ED%8C%A8%EB%84%90%20%EC%A4%91%EA%B0%84%20%EC%88%9C%EA%B0%84%EC%97%90%20%ED%8F%AC%EC%B0%A9%EB%90%9C%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%B4%20%ED%92%8D%EB%B6%80%ED%95%98%EA%B3%A0%20%EC%96%91%EC%8B%9D%ED%99%94%EB%90%98%EC%97%88%EC%9C%BC%EB%A9%B0%20%EC%95%BD%EA%B0%84%20%EA%B3%BC%EC%9E%A5%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EA%B0%95%EB%A0%AC%ED%95%9C%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%97%90%EB%84%88%EC%A7%80%EC%99%80%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%EC%9D%B8%EC%87%84%20%EB%A7%A4%EB%A0%A5%EC%9D%B4%20%EB%8B%B4%EA%B8%B4%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EB%8F%84%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%9E%91%ED%92%88%EC%9D%80%20%ED%85%8C%EB%91%90%EB%A6%AC%20%EC%97%86%EC%9D%B4%20%EC%A0%84%EB%A9%B4%20%EC%9D%B8%EC%87%84(full-bleed)%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=1960%EB%85%84%EB%8C%80%20%EB%A7%8C%ED%99%94%EC%B1%85%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EA%B7%B8%EB%A0%A4%EC%A7%84%20%EC%9D%B8%EB%AC%BC%20%EC%B4%88%EC%83%81%ED%99%94.%20%EA%B5%B5%EC%9D%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%2C%20%EC%B1%84%EB%8F%84%EA%B0%80%20%EB%86%92%EC%9D%80%20%EB%8B%A8%EC%83%89%20%EC%9B%90%EC%83%89%2C%20%EC%B4%98%EC%B4%98%ED%95%9C%20%ED%95%98%ED%94%84%ED%86%A4%20%EB%8F%84%ED%8A%B8%20%EC%9D%8C%EC%98%81%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%EC%9D%80%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%ED%8C%A8%EB%84%90%20%EC%A4%91%EA%B0%84%20%EC%88%9C%EA%B0%84%EC%97%90%20%ED%8F%AC%EC%B0%A9%EB%90%9C%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%B4%20%ED%92%8D%EB%B6%80%ED%95%98%EA%B3%A0%20%EC%96%91%EC%8B%9D%ED%99%94%EB%90%98%EC%97%88%EC%9C%BC%EB%A9%B0%20%EC%95%BD%EA%B0%84%20%EA%B3%BC%EC%9E%A5%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EA%B0%95%EB%A0%AC%ED%95%9C%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%97%90%EB%84%88%EC%A7%80%EC%99%80%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%EC%9D%B8%EC%87%84%20%EB%A7%A4%EB%A0%A5%EC%9D%84%20%EB%8B%B4%EC%9D%80%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EC%84%B1%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%9E%91%ED%92%88%EC%9D%80%20%ED%85%8C%EB%91%90%EB%A6%AC%20%EC%97%86%EC%9D%B4%20%EC%A0%84%EB%A9%B4%20%EC%9D%B8%EC%87%84(full-bleed)%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -1335,12 +1335,12 @@ GPT Image 1.5 테스트는 네 단계로 진행됩니다. 초기 이미지를 �
 
 #### 📖 설명
 
-기존 이미지(첫 번째 이미지)에 생물(두 번째 이미지)을 다양한 거리로 배경에 추가하여 편집하는 데 사용되는 프롬프트입니다. 이때 거리에 따라 적절한 초점과 크기를 유지하고, 외형과 스타일에 약간의 변화를 준 총 7마리의 생물을 요청합니다.
+기존 이미지(첫 번째 이미지)에 생물(두 번째 이미지)을 다양한 거리로 배경에 추가하여 편집하는 데 사용되는 프롬프트로, 거리에 따라 적절한 초점과 크기를 보장하고, 외형과 스타일에 약간의 변화를 준 총 7마리의 생물을 요청합니다.
 
 #### 📝 프롬프트
 
 ```
-첫 번째 이미지와 그 스타일 및 크기를 사용하여, 두 번째 이미지의 생명체를 첫 번째 이미지의 배경에 다양한 거리로 추가하고, 생명체의 초점과 크기가 거리에 적절하도록 하세요. 총 {argument name="number of creatures" default="7"} 마리의 생명체가 있어야 하며, 이들의 모습과 스타일은 서로 약간씩 다를 수 있습니다.
+첫 번째 이미지와 그 스타일 및 크기를 사용하여, 두 번째 이미지에 있는 생명체를 첫 번째 이미지의 배경에 다양한 거리로 추가하되, 생명체의 초점과 크기는 거리에 맞게 적절해야 합니다. 총 {argument name="number of creatures" default="7"} 마리의 생명체가 있어야 하며, 이들의 모습과 스타일은 서로 약간씩 다를 수 있습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1358,7 +1358,7 @@ GPT Image 1.5 테스트는 네 단계로 진행됩니다. 초기 이미지를 �
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EA%B7%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EB%B0%8F%20%ED%81%AC%EA%B8%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%2C%20%EB%91%90%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%B2%B4%EB%A5%BC%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EA%B1%B0%EB%A6%AC%EB%A1%9C%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0%2C%20%EC%83%9D%EB%AA%85%EC%B2%B4%EC%9D%98%20%EC%B4%88%EC%A0%90%EA%B3%BC%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EA%B1%B0%EB%A6%AC%EC%97%90%20%EC%A0%81%EC%A0%88%ED%95%98%EB%8F%84%EB%A1%9D%20%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%B4%9D%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20%EB%A7%88%EB%A6%AC%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%B2%B4%EA%B0%80%20%EC%9E%88%EC%96%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%9D%B4%EB%93%A4%EC%9D%98%20%EB%AA%A8%EC%8A%B5%EA%B3%BC%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EC%84%9C%EB%A1%9C%20%EC%95%BD%EA%B0%84%EC%94%A9%20%EB%8B%A4%EB%A5%BC%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EA%B7%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EB%B0%8F%20%ED%81%AC%EA%B8%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%2C%20%EB%91%90%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%83%9D%EB%AA%85%EC%B2%B4%EB%A5%BC%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EA%B1%B0%EB%A6%AC%EB%A1%9C%20%EC%B6%94%EA%B0%80%ED%95%98%EB%90%98%2C%20%EC%83%9D%EB%AA%85%EC%B2%B4%EC%9D%98%20%EC%B4%88%EC%A0%90%EA%B3%BC%20%ED%81%AC%EA%B8%B0%EB%8A%94%20%EA%B1%B0%EB%A6%AC%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%A0%81%EC%A0%88%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%B4%9D%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20%EB%A7%88%EB%A6%AC%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%B2%B4%EA%B0%80%20%EC%9E%88%EC%96%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%9D%B4%EB%93%A4%EC%9D%98%20%EB%AA%A8%EC%8A%B5%EA%B3%BC%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EC%84%9C%EB%A1%9C%20%EC%95%BD%EA%B0%84%EC%94%A9%20%EB%8B%A4%EB%A5%BC%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -1710,12 +1710,12 @@ GPT Image 1.5를 위한 메타 프롬프트 전략: 'GPT-5.2 Thinking'을 선택
 
 #### 📖 설명
 
-흰색 배경에서 카메라를 바라보는 검은 머리의 짧은 치마를 입은 귀여운 여성의 스톡 사진을 요청하는 GPT Image 1.5용 상세한 포토리얼리스틱 프롬프트.
+흰색 배경에서 카메라를 바라보고 있는 검은 머리의 짧은 치마를 입은 귀여운 여성의 스톡 사진을 요청하는 GPT Image 1.5용 상세한 포토리얼리스틱 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-{argument name="background color" default="white"} 배경에 카메라를 바라보고 있는 귀여운 {argument name="hair color" default="black"} 머리 여성의 정면 모습. {argument name="clothing item" default="short skirt"}를 입고 있으며, 단정한 미소를 띠고 있다. 디테일하고 사실적인 스톡 사진.
+{argument name="hair color" default="black"} 머리를 한 귀여운 여성이 {argument name="clothing item" default="short skirt"}를 입고 카메라를 바라보고 있는 정면 모습. {argument name="background color" default="white"} 배경에 섬세하고 사실적인 묘사, 다소곳한 미소, 스톡 사진.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1733,7 +1733,7 @@ GPT Image 1.5를 위한 메타 프롬프트 전략: 'GPT-5.2 Thinking'을 선택
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22background%20color%22%20default%3D%22white%22%7D%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22black%22%7D%20%EB%A8%B8%EB%A6%AC%20%EC%97%AC%EC%84%B1%EC%9D%98%20%EC%A0%95%EB%A9%B4%20%EB%AA%A8%EC%8A%B5.%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22short%20skirt%22%7D%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%8B%A8%EC%A0%95%ED%95%9C%20%EB%AF%B8%EC%86%8C%EB%A5%BC%20%EB%9D%A0%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%94%94%ED%85%8C%EC%9D%BC%ED%95%98%EA%B3%A0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%8A%A4%ED%86%A1%20%EC%82%AC%EC%A7%84.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22hair%20color%22%20default%3D%22black%22%7D%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%ED%95%9C%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EC%97%AC%EC%84%B1%EC%9D%B4%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22short%20skirt%22%7D%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%A0%95%EB%A9%B4%20%EB%AA%A8%EC%8A%B5.%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22white%22%7D%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EC%84%AC%EC%84%B8%ED%95%98%EA%B3%A0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%AC%98%EC%82%AC%2C%20%EB%8B%A4%EC%86%8C%EA%B3%B3%ED%95%9C%20%EB%AF%B8%EC%86%8C%2C%20%EC%8A%A4%ED%86%A1%20%EC%82%AC%EC%A7%84.)**
 
 ---
 
@@ -1854,7 +1854,7 @@ GPT Image 1.5를 위한 메타 프롬프트 전략: 'GPT-5.2 Thinking'을 선택
 
 #### 📖 설명
 
-교복(가쿠란)을 입은 사이보그 소년이 역시 교복을 입은 인어 소년을 만나는 장면을 묘사하는 프롬프트입니다. 사용자는 이전에 Niji Journey에서 사용했던 프롬프트를 GPT Image 1.5가 어떻게 처리하는지 테스트하고 있습니다.
+교복(가쿠란)을 입은 사이보그 소년이 역시 교복을 입은 인어 소년을 만나는 장면을 묘사하는 프롬프트입니다. 사용자는 Niji Journey에서 이전에 사용했던 프롬프트를 GPT Image 1.5가 어떻게 처리하는지 테스트하고 있습니다.
 
 #### 📝 프롬프트
 
@@ -3472,13 +3472,13 @@ iPhone 16 Pro Max로 촬영한 보정되지 않은 아마추어 거울 셀카를
 
 ---
 
-### No. 81: GPT Image 1.5로 동물과 함께 푸리쿠라 스타일 사진 생성하기
+### No. 81: GPT Image 1.5를 사용하여 동물과 함께하는 스티커 사진 스타일 이미지 생성하기
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 설명
 
-GPT Image 1.5로 향수를 불러일으키는 푸리쿠라(일본 스티커 사진 부스) 스타일 이미지를 생성하는 재미있는 프롬프트입니다. 특히 고릴라와 다람쥐를 특징으로 하며, 특정 스타일과 피사체를 처리하는 모델의 능력을 강조합니다.
+GPT Image 1.5로 향수를 불러일으키는 푸리쿠라(일본 스티커 사진 부스) 스타일 이미지를 생성하는 재미있는 프롬프트입니다. 특히 고릴라와 다람쥐를 특징으로 하여 특정 스타일과 대상을 처리하는 모델의 능력을 강조합니다.
 
 #### 📝 프롬프트
 
@@ -3491,13 +3491,13 @@ GPT Image 1.5로 향수를 불러일으키는 푸리쿠라(일본 스티커 사�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035433004_t3pjhr_G8VzaSnawAEsQe1.jpg" width="600" alt="GPT Image 1.5로 동물과 함께 푸리쿠라 스타일 사진 생성하기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035433004_t3pjhr_G8VzaSnawAEsQe1.jpg" width="600" alt="GPT Image 1.5를 사용하여 동물과 함께하는 스티커 사진 스타일 이미지 생성하기 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035433319_2zs2yl_G8VzbI2a4AEJCAd.jpg" width="600" alt="GPT Image 1.5로 동물과 함께 푸리쿠라 스타일 사진 생성하기 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035433319_2zs2yl_G8VzbI2a4AEJCAd.jpg" width="600" alt="GPT Image 1.5를 사용하여 동물과 함께하는 스티커 사진 스타일 이미지 생성하기 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4234,12 +4234,12 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 
 #### 📖 설명
 
-이미지 모델의 일관성과 표현 변환 능력을 테스트하기 위해 고안된 프롬프트입니다. 캐릭터 디자인, 헤어스타일, 의상, 아트 스타일을 엄격하게 유지하면서 캐릭터의 표정을 '울면서 웃는' 표정, 특히 부드럽고 씁쓸한 미소를 유지한 채 뺨에 눈물이 흐르는 표정으로 변환하도록 요청합니다.
+이미지 모델의 일관성과 표현 변환 능력을 테스트하기 위해 고안된 프롬프트입니다. 캐릭터 디자인, 헤어스타일, 의상, 아트 스타일을 엄격하게 유지하면서 캐릭터의 표정을 '울면서 웃는' 표정, 즉 부드럽고 씁쓸한 미소를 유지한 채 뺨에 눈물이 흐르는 표정으로 변환하도록 요청합니다.
 
 #### 📝 프롬프트
 
 ```
-웃으면서 우는 표정으로 바꿔줘. 부드럽고 씁쓸한 미소를 유지한 채 뺨에 눈물이 흐르는 모습으로. 캐릭터 디자인, 헤어스타일, 의상, 아트 스타일은 모두 똑같이 유지해 줘.
+웃으면서 우는 표정으로 바꿔줘. 부드럽고 씁쓸한 미소를 유지한 채 뺨에 눈물이 흐르는 모습으로. 캐릭터 디자인, 헤어스타일, 의상, 아트 스타일은 모두 동일하게 유지해 줘.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -4275,7 +4275,7 @@ ChatGPT를 사용하여 훌륭한 이미지 프롬프트를 작성하는 과정�
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9B%83%EC%9C%BC%EB%A9%B4%EC%84%9C%20%EC%9A%B0%EB%8A%94%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EB%B0%94%EA%BF%94%EC%A4%98.%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%94%81%EC%93%B8%ED%95%9C%20%EB%AF%B8%EC%86%8C%EB%A5%BC%20%EC%9C%A0%EC%A7%80%ED%95%9C%20%EC%B1%84%20%EB%BA%A8%EC%97%90%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%ED%9D%90%EB%A5%B4%EB%8A%94%20%EB%AA%A8%EC%8A%B5%EC%9C%BC%EB%A1%9C.%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%9D%98%EC%83%81%2C%20%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EB%AA%A8%EB%91%90%20%EB%98%91%EA%B0%99%EC%9D%B4%20%EC%9C%A0%EC%A7%80%ED%95%B4%20%EC%A4%98.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9B%83%EC%9C%BC%EB%A9%B4%EC%84%9C%20%EC%9A%B0%EB%8A%94%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EB%B0%94%EA%BF%94%EC%A4%98.%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%94%81%EC%93%B8%ED%95%9C%20%EB%AF%B8%EC%86%8C%EB%A5%BC%20%EC%9C%A0%EC%A7%80%ED%95%9C%20%EC%B1%84%20%EB%BA%A8%EC%97%90%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%ED%9D%90%EB%A5%B4%EB%8A%94%20%EB%AA%A8%EC%8A%B5%EC%9C%BC%EB%A1%9C.%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%9D%98%EC%83%81%2C%20%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EB%AA%A8%EB%91%90%20%EB%8F%99%EC%9D%BC%ED%95%98%EA%B2%8C%20%EC%9C%A0%EC%A7%80%ED%95%B4%20%EC%A4%98.)**
 
 ---
 
@@ -5112,6 +5112,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-18T08:15:03.227Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-18T12:19:05.885Z</sub>
 
 </div>

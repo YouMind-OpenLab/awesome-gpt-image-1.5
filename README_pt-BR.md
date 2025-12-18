@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **180** |
 | ⭐ Destaque | **0** |
-| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 08:15:26 UTC** |
+| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 12:20:58 UTC** |
 
 </div>
 
@@ -807,7 +807,7 @@ Um prompt JSON altamente estruturado para o GPT Image 1.5 gerar uma imagem edito
 
 ---
 
-### No. 18: Cachorro de Skate: Prompt de Foto Original para iPhone
+### No. 18: Foto Original de iPhone: Cachorro de Skate - Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -826,13 +826,13 @@ Fotografia de um cachorro em um skate, tirada com o iPhone original.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Cachorro de Skate: Prompt de Foto Original para iPhone - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Foto Original de iPhone: Cachorro de Skate - Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Cachorro de Skate: Prompt de Foto Original para iPhone - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Foto Original de iPhone: Cachorro de Skate - Prompt - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -846,18 +846,18 @@ Fotografia de um cachorro em um skate, tirada com o iPhone original.
 
 ---
 
-### No. 19: Retrato em Quadrinhos Pop Art Anos 60
+### No. 19: Retrato em Quadrinhos Pop Art dos Anos 60
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt detalhado para gerar um retrato no estilo pop art de histórias em quadrinhos dos anos 1960. Ele especifica o uso de contornos pretos fortes, cores primárias saturadas e planas, sombreamento denso em meio-tom, características faciais expressivas e uma composição gráfica de sangria total com o charme da impressão vintage.
+Um prompt detalhado para gerar um retrato no estilo pop art de quadrinhos dos anos 1960. Ele especifica o uso de contornos pretos ousados, cores primárias saturadas e planas, sombreamento denso em meio-tom, características faciais expressivas e uma composição gráfica de sangria total com o charme de impressão vintage.
 
 #### 📝 Prompt
 
 ```
-Um retrato do sujeito em estilo pop-art de gibi dos anos 1960, ilustrado com contornos pretos fortes, cores primárias chapadas e saturadas, e sombreamento denso de pontos de meio-tom. As características faciais devem parecer expressivas, estilizadas e ligeiramente exageradas, como se capturadas em um momento dramático no meio de um painel. Use uma composição limpa e gráfica com forte energia pop-art e charme de impressão vintage. A arte deve ser sangrada — sem bordas.
+Um retrato do tema em um estilo pop-art de gibi dos anos 1960, ilustrado com contornos pretos fortes, cores primárias saturadas e planas, e sombreamento denso de pontos de meio-tom. As características faciais devem parecer expressivas, estilizadas e ligeiramente exageradas, como se capturadas em um momento dramático no meio de um painel. Use uma composição limpa e gráfica com forte energia pop-art e charme de impressão vintage. A arte deve ser sangrada — sem bordas.
 ```
 
 #### 🖼️ Imagens geradas
@@ -865,7 +865,7 @@ Um retrato do sujeito em estilo pop-art de gibi dos anos 1960, ilustrado com con
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035328592_qbssrn_G8Zk3nCa4AA_K5L.jpg" width="600" alt="Retrato em Quadrinhos Pop Art Anos 60 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035328592_qbssrn_G8Zk3nCa4AA_K5L.jpg" width="600" alt="Retrato em Quadrinhos Pop Art dos Anos 60 - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -875,7 +875,7 @@ Um retrato do sujeito em estilo pop-art de gibi dos anos 1960, ilustrado com con
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20retrato%20do%20sujeito%20em%20estilo%20pop-art%20de%20gibi%20dos%20anos%201960%2C%20ilustrado%20com%20contornos%20pretos%20fortes%2C%20cores%20prim%C3%A1rias%20chapadas%20e%20saturadas%2C%20e%20sombreamento%20denso%20de%20pontos%20de%20meio-tom.%20As%20caracter%C3%ADsticas%20faciais%20devem%20parecer%20expressivas%2C%20estilizadas%20e%20ligeiramente%20exageradas%2C%20como%20se%20capturadas%20em%20um%20momento%20dram%C3%A1tico%20no%20meio%20de%20um%20painel.%20Use%20uma%20composi%C3%A7%C3%A3o%20limpa%20e%20gr%C3%A1fica%20com%20forte%20energia%20pop-art%20e%20charme%20de%20impress%C3%A3o%20vintage.%20A%20arte%20deve%20ser%20sangrada%20%E2%80%94%20sem%20bordas.)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=Um%20retrato%20do%20tema%20em%20um%20estilo%20pop-art%20de%20gibi%20dos%20anos%201960%2C%20ilustrado%20com%20contornos%20pretos%20fortes%2C%20cores%20prim%C3%A1rias%20saturadas%20e%20planas%2C%20e%20sombreamento%20denso%20de%20pontos%20de%20meio-tom.%20As%20caracter%C3%ADsticas%20faciais%20devem%20parecer%20expressivas%2C%20estilizadas%20e%20ligeiramente%20exageradas%2C%20como%20se%20capturadas%20em%20um%20momento%20dram%C3%A1tico%20no%20meio%20de%20um%20painel.%20Use%20uma%20composi%C3%A7%C3%A3o%20limpa%20e%20gr%C3%A1fica%20com%20forte%20energia%20pop-art%20e%20charme%20de%20impress%C3%A3o%20vintage.%20A%20arte%20deve%20ser%20sangrada%20%E2%80%94%20sem%20bordas.)**
 
 ---
 
@@ -1341,7 +1341,7 @@ Um prompt usado para editar uma imagem existente (primeira imagem) adicionando u
 #### 📝 Prompt
 
 ```
-usando a primeira imagem e seu estilo e tamanho, adicione a criatura da segunda imagem na primeira em várias distâncias no fundo, certifique-se de que o foco e o tamanho das criaturas sejam apropriados para sua distância, deve haver um total de {argument name="number of creatures" default="7"} delas, sua aparência e estilo podem variar ligeiramente entre si
+usando a primeira imagem e seu estilo e tamanho, adicione a criatura da segunda imagem na primeira em distâncias variadas no fundo, garantindo que o foco e o tamanho das criaturas sejam apropriados para sua distância, deve haver um total de {argument name="number of creatures" default="7"} delas, sua aparência e estilo podem variar ligeiramente entre si
 ```
 
 #### 🖼️ Imagens geradas
@@ -1359,7 +1359,7 @@ usando a primeira imagem e seu estilo e tamanho, adicione a criatura da segunda 
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=usando%20a%20primeira%20imagem%20e%20seu%20estilo%20e%20tamanho%2C%20adicione%20a%20criatura%20da%20segunda%20imagem%20na%20primeira%20em%20v%C3%A1rias%20dist%C3%A2ncias%20no%20fundo%2C%20certifique-se%20de%20que%20o%20foco%20e%20o%20tamanho%20das%20criaturas%20sejam%20apropriados%20para%20sua%20dist%C3%A2ncia%2C%20deve%20haver%20um%20total%20de%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20delas%2C%20sua%20apar%C3%AAncia%20e%20estilo%20podem%20variar%20ligeiramente%20entre%20si)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=usando%20a%20primeira%20imagem%20e%20seu%20estilo%20e%20tamanho%2C%20adicione%20a%20criatura%20da%20segunda%20imagem%20na%20primeira%20em%20dist%C3%A2ncias%20variadas%20no%20fundo%2C%20garantindo%20que%20o%20foco%20e%20o%20tamanho%20das%20criaturas%20sejam%20apropriados%20para%20sua%20dist%C3%A2ncia%2C%20deve%20haver%20um%20total%20de%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20delas%2C%20sua%20apar%C3%AAncia%20e%20estilo%20podem%20variar%20ligeiramente%20entre%20si)**
 
 ---
 
@@ -1711,7 +1711,7 @@ Tenha cuidado para identificar corretamente (e não confundir) elementos que sã
 
 #### 📖 Descrição
 
-Um prompt fotorrealista detalhado para GPT Image 1.5 solicitando uma foto de banco de imagens de uma mulher fofa com cabelo preto e saia curta, olhando para a câmera em um fundo branco.
+Um prompt fotorrealista detalhado para o GPT Image 1.5 solicitando uma foto de banco de imagens de uma mulher fofa com cabelo preto e saia curta, olhando para a câmera em um fundo branco.
 
 #### 📝 Prompt
 
@@ -3474,14 +3474,14 @@ Uma fotografia realista de alta resolução de {argument name="statue name" defa
 
 ---
 
-### No. 81: Gerando Fotos Estilo Purikura com Animais Usando o GPT Image 1.5
+### No. 81: Gerando Fotos Estilo Purikura com Animais Usando GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt divertido para o GPT Image 1.5 gerar imagens nostálgicas no estilo Purikura (cabine de fotos japonesa), apresentando especificamente um gorila e um esquilo, destacando a capacidade do modelo de lidar com estilos e assuntos específicos.
+Um prompt divertido para o GPT Image 1.5 gerar imagens nostálgicas no estilo Purikura (cabine de fotos japonesa), especificamente com um gorila e um esquilo, destacando a capacidade do modelo de lidar com estilos e assuntos específicos.
 
 #### 📝 Prompt
 
@@ -3494,13 +3494,13 @@ Tirei uma foto nostálgica de Purikura com um {argument name="animal 1" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035433004_t3pjhr_G8VzaSnawAEsQe1.jpg" width="600" alt="Gerando Fotos Estilo Purikura com Animais Usando o GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035433004_t3pjhr_G8VzaSnawAEsQe1.jpg" width="600" alt="Gerando Fotos Estilo Purikura com Animais Usando GPT Image 1.5 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035433319_2zs2yl_G8VzbI2a4AEJCAd.jpg" width="600" alt="Gerando Fotos Estilo Purikura com Animais Usando o GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035433319_2zs2yl_G8VzbI2a4AEJCAd.jpg" width="600" alt="Gerando Fotos Estilo Purikura com Animais Usando GPT Image 1.5 - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -4237,12 +4237,12 @@ Expressão:
 
 #### 📖 Descrição
 
-Um prompt projetado para testar a consistência e as capacidades de transformação de expressão de modelos de imagem. Ele solicita a transformação da expressão de um personagem para "chorando enquanto sorri" — especificamente, lágrimas escorrendo pelo rosto enquanto mantém um sorriso gentil e agridoce — preservando estritamente o design do personagem, penteado, roupas e estilo de arte.
+Um prompt projetado para testar a consistência e as capacidades de transformação de expressão de modelos de imagem. Ele solicita a transformação da expressão de um personagem para "chorando enquanto sorri" — especificamente, lágrimas escorrendo pelo rosto enquanto mantém um sorriso gentil e agridoce — preservando estritamente o design do personagem, o penteado, as roupas e o estilo de arte.
 
 #### 📝 Prompt
 
 ```
-"Transformar a expressão para choro enquanto sorri - lágrimas escorrendo pelo rosto enquanto mantém um sorriso gentil e agridoce. Manter exatamente o mesmo design de personagem, penteado, roupa e estilo de arte."
+"Transforme a expressão para choro enquanto sorri - lágrimas escorrendo pelo rosto enquanto mantém um sorriso gentil e agridoce. Mantenha exatamente o mesmo design de personagem, penteado, roupas e estilo de arte."
 ```
 
 #### 🖼️ Imagens geradas
@@ -4278,7 +4278,7 @@ Um prompt projetado para testar a consistência e as capacidades de transformaç
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=%22Transformar%20a%20express%C3%A3o%20para%20choro%20enquanto%20sorri%20-%20l%C3%A1grimas%20escorrendo%20pelo%20rosto%20enquanto%20mant%C3%A9m%20um%20sorriso%20gentil%20e%20agridoce.%20Manter%20exatamente%20o%20mesmo%20design%20de%20personagem%2C%20penteado%2C%20roupa%20e%20estilo%20de%20arte.%22)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-1-5?prompt=%22Transforme%20a%20express%C3%A3o%20para%20choro%20enquanto%20sorri%20-%20l%C3%A1grimas%20escorrendo%20pelo%20rosto%20enquanto%20mant%C3%A9m%20um%20sorriso%20gentil%20e%20agridoce.%20Mantenha%20exatamente%20o%20mesmo%20design%20de%20personagem%2C%20penteado%2C%20roupas%20e%20estilo%20de%20arte.%22)**
 
 ---
 
@@ -5115,6 +5115,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T08:15:26.168Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T12:20:58.289Z</sub>
 
 </div>

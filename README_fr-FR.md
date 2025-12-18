@@ -88,7 +88,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **180** |
 | ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 08:15:21 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 12:20:54 UTC** |
 
 </div>
 
@@ -203,7 +203,7 @@ Dépeindre le désir ardent et le sentiment de libération d'une jeune fille lev
 
 ---
 
-### No. 4: Max et son ami le Caribou
+### No. 4: Max et un ami Caribou
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -222,7 +222,7 @@ donnez à Max un adorable ami caribou
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035934137_bazvsl_G8anz_wakAUA17M.png" width="600" alt="Max et son ami le Caribou - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035934137_bazvsl_G8anz_wakAUA17M.png" width="600" alt="Max et un ami Caribou - Image 1">
 </div>
 
 #### 📌 Détails
@@ -236,13 +236,13 @@ donnez à Max un adorable ami caribou
 
 ---
 
-### No. 5: Méthode FCG – Prompt : Récit en accéléré
+### No. 5: FCG Method Prompt : Récit en accéléré
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Un modèle d'invite créative, appelé « méthode FCG », qui demande à l'IA de générer une série d'images décrivant une histoire folle se déroulant à des intervalles de temps spécifiques : 5 minutes, 10 minutes, 1 heure et 3 heures.
+Un modèle d'invite créative, appelé « méthode FCG », qui demande à l'IA de générer un ensemble d'images décrivant une histoire folle se déroulant à des intervalles de temps spécifiques : 5 minutes, 10 minutes, 1 heure et 3 heures.
 
 #### 📝 Prompt
 
@@ -255,7 +255,7 @@ Créez une série d'images de ce qui se passe après 5 minutes, 10 minutes, 1 he
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="Méthode FCG – Prompt : Récit en accéléré - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="FCG Method Prompt : Récit en accéléré - Image 1">
 </div>
 
 #### 📌 Détails
@@ -806,13 +806,13 @@ Une invite JSON très structurée pour GPT Image 1.5 afin de générer une image
 
 ---
 
-### No. 18: Photo originale d'un chien sur un skateboard pour iPhone - Prompt
+### No. 18: Photo originale d'un chien en skateboard sur iPhone – Invite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite conçue pour obtenir un rendu moins « généré par l'IA » en spécifiant le style de l'image comme une photographie prise avec le tout premier iPhone, représentant un chien sur un skateboard.
+Une invite conçue pour obtenir un aspect moins « généré par l'IA » en spécifiant le style de l'image comme étant une photographie prise par le premier iPhone, représentant un chien sur un skateboard.
 
 #### 📝 Prompt
 
@@ -825,13 +825,13 @@ Photographie d'un chien sur un skateboard, prise avec le tout premier iPhone.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Photo originale d'un chien sur un skateboard pour iPhone - Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Photo originale d'un chien en skateboard sur iPhone – Invite - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Photo originale d'un chien sur un skateboard pour iPhone - Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Photo originale d'un chien en skateboard sur iPhone – Invite - Image 2">
 </div>
 
 #### 📌 Détails
@@ -845,18 +845,18 @@ Photographie d'un chien sur un skateboard, prise avec le tout premier iPhone.
 
 ---
 
-### No. 19: Portrait Pop Art Style Bande Dessinée Années 60
+### No. 19: Portrait de bande dessinée Pop Art des années 1960
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Un prompt détaillé pour générer un portrait dans le style pop art des bandes dessinées des années 1960. Il spécifie l'utilisation de contours noirs audacieux, de couleurs primaires plates et saturées, d'un tramage dense, de traits faciaux expressifs et d'une composition graphique en pleine page avec le charme de l'impression vintage.
+Une instruction détaillée pour générer un portrait dans le style du pop art des bandes dessinées des années 1960. Elle spécifie l'utilisation de contours noirs audacieux, de couleurs primaires plates et saturées, d'un tramage dense en demi-teintes, de traits faciaux expressifs et d'une composition graphique pleine page avec le charme de l'impression vintage.
 
 #### 📝 Prompt
 
 ```
-Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, illustré avec des contours noirs audacieux, des couleurs primaires saturées et plates, et un tramage dense par points. Les traits du visage doivent être expressifs, stylisés et légèrement exagérés, comme s'ils étaient capturés dans un moment dramatique au milieu d'une planche. Utiliser une composition graphique et épurée avec une forte énergie pop-art et un charme d'impression vintage. L'œuvre doit être en plein-bord — sans marges.
+Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, illustré par des contours noirs audacieux, des couleurs primaires plates et saturées, et un tramage dense par points. Les traits du visage doivent être expressifs, stylisés et légèrement exagérés, comme s'ils étaient capturés dans un moment dramatique au milieu d'une planche. Utilisez une composition graphique épurée avec une forte énergie pop-art et un charme d'impression vintage. L'œuvre doit être en plein-cadre — sans bordures.
 ```
 
 #### 🖼️ Images générées
@@ -864,7 +864,7 @@ Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035328592_qbssrn_G8Zk3nCa4AA_K5L.jpg" width="600" alt="Portrait Pop Art Style Bande Dessinée Années 60 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035328592_qbssrn_G8Zk3nCa4AA_K5L.jpg" width="600" alt="Portrait de bande dessinée Pop Art des années 1960 - Image 1">
 </div>
 
 #### 📌 Détails
@@ -874,7 +874,7 @@ Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, 
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20portrait%20du%20sujet%20dans%20un%20style%20pop-art%20de%20bande%20dessin%C3%A9e%20des%20ann%C3%A9es%201960%2C%20illustr%C3%A9%20avec%20des%20contours%20noirs%20audacieux%2C%20des%20couleurs%20primaires%20satur%C3%A9es%20et%20plates%2C%20et%20un%20tramage%20dense%20par%20points.%20Les%20traits%20du%20visage%20doivent%20%C3%AAtre%20expressifs%2C%20stylis%C3%A9s%20et%20l%C3%A9g%C3%A8rement%20exag%C3%A9r%C3%A9s%2C%20comme%20s'ils%20%C3%A9taient%20captur%C3%A9s%20dans%20un%20moment%20dramatique%20au%20milieu%20d'une%20planche.%20Utiliser%20une%20composition%20graphique%20et%20%C3%A9pur%C3%A9e%20avec%20une%20forte%20%C3%A9nergie%20pop-art%20et%20un%20charme%20d'impression%20vintage.%20L'%C5%93uvre%20doit%20%C3%AAtre%20en%20plein-bord%20%E2%80%94%20sans%20marges.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20portrait%20du%20sujet%20dans%20un%20style%20pop-art%20de%20bande%20dessin%C3%A9e%20des%20ann%C3%A9es%201960%2C%20illustr%C3%A9%20par%20des%20contours%20noirs%20audacieux%2C%20des%20couleurs%20primaires%20plates%20et%20satur%C3%A9es%2C%20et%20un%20tramage%20dense%20par%20points.%20Les%20traits%20du%20visage%20doivent%20%C3%AAtre%20expressifs%2C%20stylis%C3%A9s%20et%20l%C3%A9g%C3%A8rement%20exag%C3%A9r%C3%A9s%2C%20comme%20s'ils%20%C3%A9taient%20captur%C3%A9s%20dans%20un%20moment%20dramatique%20au%20milieu%20d'une%20planche.%20Utilisez%20une%20composition%20graphique%20%C3%A9pur%C3%A9e%20avec%20une%20forte%20%C3%A9nergie%20pop-art%20et%20un%20charme%20d'impression%20vintage.%20L'%C5%93uvre%20doit%20%C3%AAtre%20en%20plein-cadre%20%E2%80%94%20sans%20bordures.)**
 
 ---
 
@@ -1328,7 +1328,7 @@ Une affiche de voyage vibrante et rétro-futuriste pour la ville de {argument na
 
 ---
 
-### No. 31: **Invite de retouche d'image : Ajout de créatures à l'arrière-plan**
+### No. 31: **Prompt de retouche d'image : Ajout de créatures à l'arrière-plan**
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1340,7 +1340,7 @@ Une invite utilisée pour modifier une image existante (première image) en ajou
 #### 📝 Prompt
 
 ```
-en utilisant la première image et son style et sa taille, ajoutez la créature de la deuxième image dans la première à différentes distances en arrière-plan, assurez-vous que la mise au point et la taille des créatures sont appropriées à leur distance, il devrait y en avoir un total de {argument name="number of creatures" default="7"}, leur apparence et leur style peuvent varier légèrement d'une à l'autre
+en utilisant la première image et son style et sa taille, ajoutez la créature de la deuxième image dans la première à des distances variables en arrière-plan, assurez-vous que la mise au point et la taille des créatures sont appropriées à leur distance, il devrait y en avoir un total de {argument name="number of creatures" default="7"}, leur apparence et leur style peuvent varier légèrement les unes des autres
 ```
 
 #### 🖼️ Images générées
@@ -1348,7 +1348,7 @@ en utilisant la première image et son style et sa taille, ajoutez la créature 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035368731_jzr55o_G8Yij3ta0AAi13i.jpg" width="600" alt="**Invite de retouche d'image : Ajout de créatures à l'arrière-plan** - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035368731_jzr55o_G8Yij3ta0AAi13i.jpg" width="600" alt="**Prompt de retouche d'image : Ajout de créatures à l'arrière-plan** - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1358,7 +1358,7 @@ en utilisant la première image et son style et sa taille, ajoutez la créature 
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=en%20utilisant%20la%20premi%C3%A8re%20image%20et%20son%20style%20et%20sa%20taille%2C%20ajoutez%20la%20cr%C3%A9ature%20de%20la%20deuxi%C3%A8me%20image%20dans%20la%20premi%C3%A8re%20%C3%A0%20diff%C3%A9rentes%20distances%20en%20arri%C3%A8re-plan%2C%20assurez-vous%20que%20la%20mise%20au%20point%20et%20la%20taille%20des%20cr%C3%A9atures%20sont%20appropri%C3%A9es%20%C3%A0%20leur%20distance%2C%20il%20devrait%20y%20en%20avoir%20un%20total%20de%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%2C%20leur%20apparence%20et%20leur%20style%20peuvent%20varier%20l%C3%A9g%C3%A8rement%20d'une%20%C3%A0%20l'autre)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=en%20utilisant%20la%20premi%C3%A8re%20image%20et%20son%20style%20et%20sa%20taille%2C%20ajoutez%20la%20cr%C3%A9ature%20de%20la%20deuxi%C3%A8me%20image%20dans%20la%20premi%C3%A8re%20%C3%A0%20des%20distances%20variables%20en%20arri%C3%A8re-plan%2C%20assurez-vous%20que%20la%20mise%20au%20point%20et%20la%20taille%20des%20cr%C3%A9atures%20sont%20appropri%C3%A9es%20%C3%A0%20leur%20distance%2C%20il%20devrait%20y%20en%20avoir%20un%20total%20de%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%2C%20leur%20apparence%20et%20leur%20style%20peuvent%20varier%20l%C3%A9g%C3%A8rement%20les%20unes%20des%20autres)**
 
 ---
 
@@ -1703,19 +1703,19 @@ Veillez à bien identifier (et à ne pas confondre) les éléments qui sont fort
 
 ---
 
-### No. 41: Photo de stock photoréaliste d'une femme – Prompt
+### No. 41: Image de stock photoréaliste d'une femme – Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une invite photoréaliste détaillée pour GPT Image 1.5 demandant une photo de stock d'une femme mignonne aux cheveux noirs et vêtue d'une jupe courte, regardant vers l'appareil photo sur un fond blanc.
+Une invite photoréaliste détaillée pour GPT Image 1.5 demandant une photo de stock d'une jolie femme aux cheveux noirs et vêtue d'une jupe courte, regardant vers l'appareil photo sur un fond blanc.
 
 #### 📝 Prompt
 
 ```
-vue de face d'une femme mignonne aux cheveux {argument name="hair color" default="noirs"} vêtue d'une {argument name="clothing item" default="jupe courte"}, regardant l'appareil photo, sur un fond {argument name="background color" default="blanc"}, détaillée et photoréaliste, sourire discret, photo de stock
+vue de face d'une jolie femme aux cheveux {argument name="hair color" default="noirs"} vêtue d'une {argument name="clothing item" default="jupe courte"}, regardant l'appareil photo, sur un fond {argument name="background color" default="blanc"}, détaillée et photoréaliste, sourire discret, photo de stock
 ```
 
 #### 🖼️ Images générées
@@ -1723,7 +1723,7 @@ vue de face d'une femme mignonne aux cheveux {argument name="hair color" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035359991_v3h2od_G8YIKgqaQAEKGXx.jpg" width="600" alt="Photo de stock photoréaliste d'une femme – Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035359991_v3h2od_G8YIKgqaQAEKGXx.jpg" width="600" alt="Image de stock photoréaliste d'une femme – Prompt - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1733,7 +1733,7 @@ vue de face d'une femme mignonne aux cheveux {argument name="hair color" default
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=vue%20de%20face%20d'une%20femme%20mignonne%20aux%20cheveux%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22noirs%22%7D%20v%C3%AAtue%20d'une%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22jupe%20courte%22%7D%2C%20regardant%20l'appareil%20photo%2C%20sur%20un%20fond%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22blanc%22%7D%2C%20d%C3%A9taill%C3%A9e%20et%20photor%C3%A9aliste%2C%20sourire%20discret%2C%20photo%20de%20stock)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=vue%20de%20face%20d'une%20jolie%20femme%20aux%20cheveux%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22noirs%22%7D%20v%C3%AAtue%20d'une%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22jupe%20courte%22%7D%2C%20regardant%20l'appareil%20photo%2C%20sur%20un%20fond%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22blanc%22%7D%2C%20d%C3%A9taill%C3%A9e%20et%20photor%C3%A9aliste%2C%20sourire%20discret%2C%20photo%20de%20stock)**
 
 ---
 
@@ -1848,7 +1848,7 @@ Convertissez-le en une aquarelle transparente dessinée dans un carnet de croqui
 
 ---
 
-### No. 45: Prompt de rencontre entre un écolier cyborg et une sirène
+### No. 45: Cyborg et écolier sirène : invite de rencontre
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1867,13 +1867,13 @@ La rencontre entre un cyborg en gakuran (uniforme scolaire) et une sirène en ga
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Prompt de rencontre entre un écolier cyborg et une sirène - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Cyborg et écolier sirène : invite de rencontre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Prompt de rencontre entre un écolier cyborg et une sirène - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Cyborg et écolier sirène : invite de rencontre - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3484,7 +3484,7 @@ Une invite amusante pour GPT Image 1.5 afin de générer des images nostalgiques
 #### 📝 Prompt
 
 ```
-J'ai pris une photo Purikura nostalgique avec un {argument name="animal 1" default="gorille"} et un {argument name="animal 2" default="écureuil"}.
+J'ai fait prendre une photo Purikura nostalgique par un {argument name="animal 1" default="gorille"} et un {argument name="animal 2" default="écureuil"}.
 ```
 
 #### 🖼️ Images générées
@@ -3508,7 +3508,7 @@ J'ai pris une photo Purikura nostalgique avec un {argument name="animal 1" defau
 - **Publié:** 17 décembre 2025
 - **Langues:** ja
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=J'ai%20pris%20une%20photo%20Purikura%20nostalgique%20avec%20un%20%7Bargument%20name%3D%22animal%201%22%20default%3D%22gorille%22%7D%20et%20un%20%7Bargument%20name%3D%22animal%202%22%20default%3D%22%C3%A9cureuil%22%7D.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=J'ai%20fait%20prendre%20une%20photo%20Purikura%20nostalgique%20par%20un%20%7Bargument%20name%3D%22animal%201%22%20default%3D%22gorille%22%7D%20et%20un%20%7Bargument%20name%3D%22animal%202%22%20default%3D%22%C3%A9cureuil%22%7D.)**
 
 ---
 
@@ -4239,7 +4239,7 @@ Une invite conçue pour tester la cohérence et les capacités de transformation
 #### 📝 Prompt
 
 ```
-"Transformer l'expression en pleurs tout en souriant - des larmes coulant sur les joues tout en conservant un sourire doux et doux-amer. Garder exactement le même design de personnage, la même coiffure, les mêmes vêtements et le même style artistique."
+"Transformer l'expression en pleurs tout en souriant - des larmes coulant sur les joues tout en conservant un sourire doux et doux-amer. Garder exactement le même design de personnage, la même coiffure, les mêmes vêtements, le même style artistique."
 ```
 
 #### 🖼️ Images générées
@@ -4275,7 +4275,7 @@ Une invite conçue pour tester la cohérence et les capacités de transformation
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%22Transformer%20l'expression%20en%20pleurs%20tout%20en%20souriant%20-%20des%20larmes%20coulant%20sur%20les%20joues%20tout%20en%20conservant%20un%20sourire%20doux%20et%20doux-amer.%20Garder%20exactement%20le%20m%C3%AAme%20design%20de%20personnage%2C%20la%20m%C3%AAme%20coiffure%2C%20les%20m%C3%AAmes%20v%C3%AAtements%20et%20le%20m%C3%AAme%20style%20artistique.%22)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%22Transformer%20l'expression%20en%20pleurs%20tout%20en%20souriant%20-%20des%20larmes%20coulant%20sur%20les%20joues%20tout%20en%20conservant%20un%20sourire%20doux%20et%20doux-amer.%20Garder%20exactement%20le%20m%C3%AAme%20design%20de%20personnage%2C%20la%20m%C3%AAme%20coiffure%2C%20les%20m%C3%AAmes%20v%C3%AAtements%2C%20le%20m%C3%AAme%20style%20artistique.%22)**
 
 ---
 
@@ -5112,6 +5112,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T08:15:21.596Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T12:20:54.423Z</sub>
 
 </div>

@@ -88,7 +88,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **180** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **18 Aralık 2025 Perşembe 08:15:30 UTC** |
+| 🔄 Son Güncelleme | **18 Aralık 2025 Perşembe 12:21:03 UTC** |
 
 </div>
 
@@ -214,7 +214,7 @@ Bir kullanıcı, karakteri Max'e sevimli bir karibu arkadaşı vermek için GPT-
 #### 📝 İstem
 
 ```
-Max'e sevimli bir karibu arkadaş ver
+Max'e şirin bir karibu arkadaş ver
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -232,7 +232,7 @@ Max'e sevimli bir karibu arkadaş ver
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Max'e%20sevimli%20bir%20karibu%20arkada%C5%9F%20ver)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Max'e%20%C5%9Firin%20bir%20karibu%20arkada%C5%9F%20ver)**
 
 ---
 
@@ -851,12 +851,12 @@ Orijinal iPhone ile çekilmiş kaykaylı bir köpek fotoğrafı.
 
 #### 📖 Açıklama
 
-1960'ların çizgi roman pop art tarzında bir portre oluşturmak için ayrıntılı bir istem. Kalın siyah kontur çizgileri, düz doygun ana renkler, yoğun tram gölgelendirme, etkileyici yüz hatları ve vintage baskı cazibesiyle tam taşmalı, grafik bir kompozisyon kullanılmasını belirtir.
+1960'ların çizgi roman pop art tarzında bir portre oluşturmak için ayrıntılı bir istem. Kalın siyah kontur çizgileri, düz doygun ana renkler, yoğun tram gölgelendirme, etkileyici yüz hatları ve vintage baskı cazibesiyle tam taşmalı, grafik bir kompozisyon kullanılması belirtilmiştir.
 
 #### 📝 İstem
 
 ```
-Konunun 1960'ların çizgi roman pop-art tarzında, kalın siyah kontur çizgileri, düz doygun ana renkler ve yoğun tram nokta gölgelendirme ile çizilmiş bir portresi. Yüz hatları, dramatik bir panel ortası anında yakalanmış gibi etkileyici, stilize edilmiş ve hafifçe abartılı görünmelidir. Güçlü pop-art enerjisi ve vintage baskı çekiciliği ile temiz, grafik bir kompozisyon kullanın. Sanat eseri tam taşmalı olmalı – kenarlık yok.
+Konunun 1960'lar çizgi roman pop-art tarzında, kalın siyah kontur çizgileri, düz doygun ana renkler ve yoğun tram nokta gölgelendirmesiyle çizilmiş bir portresi. Yüz hatları, dramatik bir panel ortası anında yakalanmış gibi etkileyici, stilize edilmiş ve hafifçe abartılmış görünmelidir. Güçlü pop-art enerjisi ve vintage baskı cazibesiyle temiz, grafik bir kompozisyon kullanın. Sanat eseri tam taşmalı olmalı – kenarlık yok.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -874,7 +874,7 @@ Konunun 1960'ların çizgi roman pop-art tarzında, kalın siyah kontur çizgile
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Konunun%201960'lar%C4%B1n%20%C3%A7izgi%20roman%20pop-art%20tarz%C4%B1nda%2C%20kal%C4%B1n%20siyah%20kontur%20%C3%A7izgileri%2C%20d%C3%BCz%20doygun%20ana%20renkler%20ve%20yo%C4%9Fun%20tram%20nokta%20g%C3%B6lgelendirme%20ile%20%C3%A7izilmi%C5%9F%20bir%20portresi.%20Y%C3%BCz%20hatlar%C4%B1%2C%20dramatik%20bir%20panel%20ortas%C4%B1%20an%C4%B1nda%20yakalanm%C4%B1%C5%9F%20gibi%20etkileyici%2C%20stilize%20edilmi%C5%9F%20ve%20hafif%C3%A7e%20abart%C4%B1l%C4%B1%20g%C3%B6r%C3%BCnmelidir.%20G%C3%BC%C3%A7l%C3%BC%20pop-art%20enerjisi%20ve%20vintage%20bask%C4%B1%20%C3%A7ekicili%C4%9Fi%20ile%20temiz%2C%20grafik%20bir%20kompozisyon%20kullan%C4%B1n.%20Sanat%20eseri%20tam%20ta%C5%9Fmal%C4%B1%20olmal%C4%B1%20%E2%80%93%20kenarl%C4%B1k%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Konunun%201960'lar%20%C3%A7izgi%20roman%20pop-art%20tarz%C4%B1nda%2C%20kal%C4%B1n%20siyah%20kontur%20%C3%A7izgileri%2C%20d%C3%BCz%20doygun%20ana%20renkler%20ve%20yo%C4%9Fun%20tram%20nokta%20g%C3%B6lgelendirmesiyle%20%C3%A7izilmi%C5%9F%20bir%20portresi.%20Y%C3%BCz%20hatlar%C4%B1%2C%20dramatik%20bir%20panel%20ortas%C4%B1%20an%C4%B1nda%20yakalanm%C4%B1%C5%9F%20gibi%20etkileyici%2C%20stilize%20edilmi%C5%9F%20ve%20hafif%C3%A7e%20abart%C4%B1lm%C4%B1%C5%9F%20g%C3%B6r%C3%BCnmelidir.%20G%C3%BC%C3%A7l%C3%BC%20pop-art%20enerjisi%20ve%20vintage%20bask%C4%B1%20cazibesiyle%20temiz%2C%20grafik%20bir%20kompozisyon%20kullan%C4%B1n.%20Sanat%20eseri%20tam%20ta%C5%9Fmal%C4%B1%20olmal%C4%B1%20%E2%80%93%20kenarl%C4%B1k%20yok.)**
 
 ---
 
@@ -1335,12 +1335,12 @@ Kullanıcı, 'Şehir Posteri' istemini GPT-1.5 üzerinde test etti ve sonuçlar�
 
 #### 📖 Açıklama
 
-Mevcut bir görüntüyü (birinci görüntü) düzenlemek için kullanılan bir istem; arka plana farklı mesafelerde bir yaratık (ikinci görüntü) ekleyerek, mesafeye uygun odak ve boyut sağlayarak ve görünüm ile stilde hafif farklılıklar gösteren toplam 7 yaratık talep ederek.
+Mevcut bir görüntüyü (ilk görüntü) düzenlemek için kullanılan bir istem; arka plana farklı mesafelerde bir yaratık (ikinci görüntü) ekleyerek, mesafeye uygun odak ve boyut sağlayarak ve görünüm ile stilde hafif farklılıklar gösteren toplam 7 yaratık talep ediyor.
 
 #### 📝 İstem
 
 ```
-İlk görseli ve onun stilini ve boyutunu kullanarak, ikinci görseldeki yaratığı arka planda değişen mesafelerde ilk görsele ekleyin. Yaratıkların odak noktası ve boyutu mesafelerine uygun olmalı ve toplamda {argument name="number of creatures" default="7"} adet olmalıdır. Görünümleri ve stilleri birbirinden biraz farklılık gösterebilir.
+İlk görseli ve onun stilini ve boyutunu kullanarak, ikinci görseldeki yaratığı ilk görsele farklı mesafelerde arka plana ekleyin, yaratıkların odak noktasının ve boyutunun mesafelerine uygun olduğundan emin olun, toplamda {argument name="number of creatures" default="7"} tane olmalı, görünümleri ve stilleri birbirinden biraz farklılık gösterebilir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1358,7 +1358,7 @@ Mevcut bir görüntüyü (birinci görüntü) düzenlemek için kullanılan bir 
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%C4%B0lk%20g%C3%B6rseli%20ve%20onun%20stilini%20ve%20boyutunu%20kullanarak%2C%20ikinci%20g%C3%B6rseldeki%20yarat%C4%B1%C4%9F%C4%B1%20arka%20planda%20de%C4%9Fi%C5%9Fen%20mesafelerde%20ilk%20g%C3%B6rsele%20ekleyin.%20Yarat%C4%B1klar%C4%B1n%20odak%20noktas%C4%B1%20ve%20boyutu%20mesafelerine%20uygun%20olmal%C4%B1%20ve%20toplamda%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20adet%20olmal%C4%B1d%C4%B1r.%20G%C3%B6r%C3%BCn%C3%BCmleri%20ve%20stilleri%20birbirinden%20biraz%20farkl%C4%B1l%C4%B1k%20g%C3%B6sterebilir.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%C4%B0lk%20g%C3%B6rseli%20ve%20onun%20stilini%20ve%20boyutunu%20kullanarak%2C%20ikinci%20g%C3%B6rseldeki%20yarat%C4%B1%C4%9F%C4%B1%20ilk%20g%C3%B6rsele%20farkl%C4%B1%20mesafelerde%20arka%20plana%20ekleyin%2C%20yarat%C4%B1klar%C4%B1n%20odak%20noktas%C4%B1n%C4%B1n%20ve%20boyutunun%20mesafelerine%20uygun%20oldu%C4%9Fundan%20emin%20olun%2C%20toplamda%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20tane%20olmal%C4%B1%2C%20g%C3%B6r%C3%BCn%C3%BCmleri%20ve%20stilleri%20birbirinden%20biraz%20farkl%C4%B1l%C4%B1k%20g%C3%B6sterebilir.)**
 
 ---
 
@@ -1703,19 +1703,19 @@ Sol ve sağ taraflarda oldukça asimetrik olan öğeleri doğru bir şekilde tan
 
 ---
 
-### No. 41: Bir Kadının Fotoğraf Gerçekçiliğinde Stok Fotoğraf İstemleri
+### No. 41: Bir Kadının Fotogerçekçi Stok Fotoğraf İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Siyah saçlı ve kısa etekli, kameraya doğru bakan şirin bir kadının beyaz arka plan üzerinde çekilmiş bir stok fotoğrafını isteyen GPT Image 1.5 için ayrıntılı, fotogerçekçi bir komut istemi.
+Siyah saçlı ve kısa etekli, kameraya doğru bakan şirin bir kadının beyaz arka plan üzerindeki stok fotoğrafını isteyen GPT Image 1.5 için ayrıntılı, fotogerçekçi bir komut istemi.
 
 #### 📝 İstem
 
 ```
-{argument name="hair color" default="siyah"} saçlı, {argument name="clothing item" default="kısa etekli"} şirin bir kadının önden görünümü, kameraya bakıyor, {argument name="background color" default="beyaz"} arka plan üzerinde, detaylı ve fotogerçekçi, mütevazı gülümseme, stok fotoğraf
+{argument name="hair color" default="siyah"} saçlı, {argument name="clothing item" default="kısa etekli"} şirin bir kadının önden görünüşü, kameraya bakıyor, {argument name="background color" default="beyaz"} arka plan üzerinde, detaylı ve fotogerçekçi, çekingen gülümseme, stok fotoğraf
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1723,7 +1723,7 @@ Siyah saçlı ve kısa etekli, kameraya doğru bakan şirin bir kadının beyaz 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035359991_v3h2od_G8YIKgqaQAEKGXx.jpg" width="600" alt="Bir Kadının Fotoğraf Gerçekçiliğinde Stok Fotoğraf İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035359991_v3h2od_G8YIKgqaQAEKGXx.jpg" width="600" alt="Bir Kadının Fotogerçekçi Stok Fotoğraf İstemcisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1733,7 +1733,7 @@ Siyah saçlı ve kısa etekli, kameraya doğru bakan şirin bir kadının beyaz 
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22hair%20color%22%20default%3D%22siyah%22%7D%20sa%C3%A7l%C4%B1%2C%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22k%C4%B1sa%20etekli%22%7D%20%C5%9Firin%20bir%20kad%C4%B1n%C4%B1n%20%C3%B6nden%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC%2C%20kameraya%20bak%C4%B1yor%2C%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22beyaz%22%7D%20arka%20plan%20%C3%BCzerinde%2C%20detayl%C4%B1%20ve%20fotoger%C3%A7ek%C3%A7i%2C%20m%C3%BCtevaz%C4%B1%20g%C3%BCl%C3%BCmseme%2C%20stok%20foto%C4%9Fraf)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22hair%20color%22%20default%3D%22siyah%22%7D%20sa%C3%A7l%C4%B1%2C%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22k%C4%B1sa%20etekli%22%7D%20%C5%9Firin%20bir%20kad%C4%B1n%C4%B1n%20%C3%B6nden%20g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC%2C%20kameraya%20bak%C4%B1yor%2C%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22beyaz%22%7D%20arka%20plan%20%C3%BCzerinde%2C%20detayl%C4%B1%20ve%20fotoger%C3%A7ek%C3%A7i%2C%20%C3%A7ekingen%20g%C3%BCl%C3%BCmseme%2C%20stok%20foto%C4%9Fraf)**
 
 ---
 
@@ -1848,18 +1848,18 @@ Mevcut bir grafiği şeffaf sulu boya resim stiline dönüştürmek için GPT Im
 
 ---
 
-### No. 45: Cyborg ve Deniz Kızı Okul Çocuğu Karşılaşma İstemcisi
+### No. 45: Sayborg ve Deniz Kızı Okul Çocuğu Karşılaşması İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-Okul üniforması (gakuran) giyen bir siborg çocuğun, yine okul üniforması giyen bir deniz çocuğuyla tanıştığı bir sahneyi anlatan bir bilgi istemi. Kullanıcı, GPT Image 1.5'in daha önce Niji Journey'de kullanılan bir bilgi istemini nasıl ele aldığını test ediyor.
+Okul üniforması (gakuran) giymiş bir siborg çocuğun, yine okul üniforması giymiş bir deniz çocuğuyla tanıştığı bir sahneyi anlatan bir komut istemi. Kullanıcı, GPT Image 1.5'in daha önce Niji Journey'de kullanılan bir komut istemini nasıl ele aldığını test ediyor.
 
 #### 📝 İstem
 
 ```
-Bir gakuran (okul üniforması) siber çocuk ile bir gakuran deniz adamı çocuğun karşılaşması.
+Gakuran (okul üniforması) giyen bir sayborg çocuk ile gakuran giyen bir deniz adamı çocuğun karşılaşması.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1867,13 +1867,13 @@ Bir gakuran (okul üniforması) siber çocuk ile bir gakuran deniz adamı çocu�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Cyborg ve Deniz Kızı Okul Çocuğu Karşılaşma İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Sayborg ve Deniz Kızı Okul Çocuğu Karşılaşması İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Cyborg ve Deniz Kızı Okul Çocuğu Karşılaşma İstemcisi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Sayborg ve Deniz Kızı Okul Çocuğu Karşılaşması İstemleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1883,7 +1883,7 @@ Bir gakuran (okul üniforması) siber çocuk ile bir gakuran deniz adamı çocu�
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Bir%20gakuran%20(okul%20%C3%BCniformas%C4%B1)%20siber%20%C3%A7ocuk%20ile%20bir%20gakuran%20deniz%20adam%C4%B1%20%C3%A7ocu%C4%9Fun%20kar%C5%9F%C4%B1la%C5%9Fmas%C4%B1.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Gakuran%20(okul%20%C3%BCniformas%C4%B1)%20giyen%20bir%20sayborg%20%C3%A7ocuk%20ile%20gakuran%20giyen%20bir%20deniz%20adam%C4%B1%20%C3%A7ocu%C4%9Fun%20kar%C5%9F%C4%B1la%C5%9Fmas%C4%B1.)**
 
 ---
 
@@ -3480,7 +3480,7 @@ Jiuhua Dağı'ndaki 99 metrelik Ksitigarbha Bodhisattva Heykeli'nin yüksek çö
 
 #### 📖 Açıklama
 
-GPT Image 1.5 için nostaljik Purikura (Japon fotoğraf kabini) tarzı görseller oluşturmaya yönelik eğlenceli bir komut; özellikle bir goril ve bir sincap içeren, modelin belirli stilleri ve konuları işleme yeteneğini vurgulayan bir komut.
+GPT Image 1.5'in belirli stilleri ve konuları ele alma yeteneğini vurgulayarak, nostaljik Purikura (Japon fotoğraf kabini) tarzı görüntüler oluşturmak için eğlenceli bir istem, özellikle bir goril ve bir sincap içeren.
 
 #### 📝 İstem
 
@@ -4236,12 +4236,12 @@ Ortam:
 
 #### 📖 Açıklama
 
-Görsel modellerin tutarlılık ve ifade dönüştürme yeteneklerini test etmek için tasarlanmış bir komut istemidir. Bir karakterin ifadesini 'gülümserken ağlama' şeklinde dönüştürmeyi talep eder; özellikle, yanaklardan yaşlar akarken nazik, buruk bir gülümsemeyi koruyarak, karakter tasarımını, saç stilini, kıyafetlerini ve sanat tarzını kesinlikle muhafaza eder.
+Görsel modellerin tutarlılık ve ifade dönüştürme yeteneklerini test etmek için tasarlanmış bir komut istemidir. Bir karakterin ifadesini "gülümserken ağlama" şeklinde dönüştürmeyi talep eder; özellikle, tatlı-acı bir gülümsemeyi korurken yanaklardan yaşların akmasını isterken, karakter tasarımını, saç stilini, kıyafetleri ve sanat stilini kesinlikle korur.
 
 #### 📝 İstem
 
 ```
-İfadeyi gülümserken ağlamaya dönüştürün - yanaklardan süzülen gözyaşları eşliğinde nazik, acı tatlı bir gülümseme koruyun. Tamamen aynı karakter tasarımını, saç stilini, kıyafeti ve sanat tarzını muhafaza edin.
+"Gülümserken ağlamaya dönüşen ifade - yanaklardan süzülen gözyaşları, nazik, buruk bir gülümsemeyi korurken. Tamamen aynı karakter tasarımını, saç stilini, kıyafetleri ve sanat tarzını koruyun."
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4277,7 +4277,7 @@ Görsel modellerin tutarlılık ve ifade dönüştürme yeteneklerini test etmek
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%C4%B0fadeyi%20g%C3%BCl%C3%BCmserken%20a%C4%9Flamaya%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%20-%20yanaklardan%20s%C3%BCz%C3%BClen%20g%C3%B6zya%C5%9Flar%C4%B1%20e%C5%9Fli%C4%9Finde%20nazik%2C%20ac%C4%B1%20tatl%C4%B1%20bir%20g%C3%BCl%C3%BCmseme%20koruyun.%20Tamamen%20ayn%C4%B1%20karakter%20tasar%C4%B1m%C4%B1n%C4%B1%2C%20sa%C3%A7%20stilini%2C%20k%C4%B1yafeti%20ve%20sanat%20tarz%C4%B1n%C4%B1%20muhafaza%20edin.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%22G%C3%BCl%C3%BCmserken%20a%C4%9Flamaya%20d%C3%B6n%C3%BC%C5%9Fen%20ifade%20-%20yanaklardan%20s%C3%BCz%C3%BClen%20g%C3%B6zya%C5%9Flar%C4%B1%2C%20nazik%2C%20buruk%20bir%20g%C3%BCl%C3%BCmsemeyi%20korurken.%20Tamamen%20ayn%C4%B1%20karakter%20tasar%C4%B1m%C4%B1n%C4%B1%2C%20sa%C3%A7%20stilini%2C%20k%C4%B1yafetleri%20ve%20sanat%20tarz%C4%B1n%C4%B1%20koruyun.%22)**
 
 ---
 
@@ -5114,6 +5114,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-18T08:15:30.484Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-18T12:21:03.765Z</sub>
 
 </div>

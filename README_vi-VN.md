@@ -88,7 +88,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **180** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 08:15:11 UTC Thứ Năm, 18 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:19:10 UTC Thứ Năm, 18 tháng 12, 2025** |
 
 </div>
 
@@ -203,13 +203,13 @@ Miêu tả nỗi khát khao và cảm giác tự do của một cô gái đang n
 
 ---
 
-### No. 4: Max và Người bạn Tuần lộc
+### No. 4: Max và người bạn Caribou
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một người dùng đã tạo ảnh bằng GPT-Image 1.5 để thêm cho nhân vật của họ, Max, một người bạn tuần lộc dễ thương, làm nổi bật khả năng của mô hình trong việc tạo ra các tương tác nhân vật cụ thể.
+Một người dùng đã tạo một hình ảnh bằng GPT-Image 1.5 để thêm cho nhân vật của họ, Max, một người bạn tuần lộc dễ thương, làm nổi bật khả năng của mô hình trong việc tạo ra các tương tác nhân vật cụ thể.
 
 #### 📝 Câu lệnh
 
@@ -222,7 +222,7 @@ tặng Max một người bạn tuần lộc dễ thương
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035934137_bazvsl_G8anz_wakAUA17M.png" width="600" alt="Max và Người bạn Tuần lộc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035934137_bazvsl_G8anz_wakAUA17M.png" width="600" alt="Max và người bạn Caribou - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -247,7 +247,7 @@ Một mẫu lời nhắc sáng tạo, được gọi là "phương pháp FCG", h
 #### 📝 Câu lệnh
 
 ```
-"Tạo một bộ ảnh về những gì xảy ra sau 5 phút, 10 phút, 1 giờ và 3 giờ. Tạo một câu chuyện điên rồ nào đó."
+"Tạo một bộ ảnh về những gì xảy ra sau 5 phút, 10 phút, 1 giờ và 3 giờ. Hãy tạo ra một câu chuyện điên rồ nào đó."
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -265,7 +265,7 @@ Một mẫu lời nhắc sáng tạo, được gọi là "phương pháp FCG", h
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%99%20%E1%BA%A3nh%20v%E1%BB%81%20nh%E1%BB%AFng%20g%C3%AC%20x%E1%BA%A3y%20ra%20sau%205%20ph%C3%BAt%2C%2010%20ph%C3%BAt%2C%201%20gi%E1%BB%9D%20v%C3%A0%203%20gi%E1%BB%9D.%20T%E1%BA%A1o%20m%E1%BB%99t%20c%C3%A2u%20chuy%E1%BB%87n%20%C4%91i%C3%AAn%20r%E1%BB%93%20n%C3%A0o%20%C4%91%C3%B3.%22)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%99%20%E1%BA%A3nh%20v%E1%BB%81%20nh%E1%BB%AFng%20g%C3%AC%20x%E1%BA%A3y%20ra%20sau%205%20ph%C3%BAt%2C%2010%20ph%C3%BAt%2C%201%20gi%E1%BB%9D%20v%C3%A0%203%20gi%E1%BB%9D.%20H%C3%A3y%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20c%C3%A2u%20chuy%E1%BB%87n%20%C4%91i%C3%AAn%20r%E1%BB%93%20n%C3%A0o%20%C4%91%C3%B3.%22)**
 
 ---
 
@@ -806,7 +806,7 @@ Một lời nhắc JSON có cấu trúc cao dành cho GPT Image 1.5 để tạo 
 
 ---
 
-### No. 18: Ảnh gốc chụp bằng iPhone: Chú chó trượt ván
+### No. 18: Ảnh gốc iPhone: Chó trượt ván
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -817,7 +817,7 @@ Một lời nhắc được thiết kế để tạo ra hình ảnh ít giống 
 #### 📝 Câu lệnh
 
 ```
-Ảnh chụp một chú chó trên ván trượt, được chụp bằng iPhone đời đầu.
+Ảnh chụp một chú chó trên ván trượt được chụp bằng iPhone đời đầu.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -825,13 +825,13 @@ Một lời nhắc được thiết kế để tạo ra hình ảnh ít giống 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Ảnh gốc chụp bằng iPhone: Chú chó trượt ván - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Ảnh gốc iPhone: Chó trượt ván - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Ảnh gốc chụp bằng iPhone: Chú chó trượt ván - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Ảnh gốc iPhone: Chó trượt ván - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -841,7 +841,7 @@ Một lời nhắc được thiết kế để tạo ra hình ảnh ít giống 
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%E1%BA%A2nh%20ch%E1%BB%A5p%20m%E1%BB%99t%20ch%C3%BA%20ch%C3%B3%20tr%C3%AAn%20v%C3%A1n%20tr%C6%B0%E1%BB%A3t%2C%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20iPhone%20%C4%91%E1%BB%9Di%20%C4%91%E1%BA%A7u.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%E1%BA%A2nh%20ch%E1%BB%A5p%20m%E1%BB%99t%20ch%C3%BA%20ch%C3%B3%20tr%C3%AAn%20v%C3%A1n%20tr%C6%B0%E1%BB%A3t%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20iPhone%20%C4%91%E1%BB%9Di%20%C4%91%E1%BA%A7u.)**
 
 ---
 
@@ -856,7 +856,7 @@ Một lời nhắc chi tiết để tạo ra một bức chân dung theo phong c
 #### 📝 Câu lệnh
 
 ```
-Một bức chân dung đối tượng theo phong cách pop-art truyện tranh thập niên 1960, được minh họa bằng những đường nét viền đen đậm, màu sắc cơ bản bão hòa phẳng và chấm halftone dày đặc. Các đặc điểm khuôn mặt phải biểu cảm, cách điệu và hơi phóng đại, như thể được ghi lại trong một khoảnh khắc kịch tính giữa khung truyện. Sử dụng bố cục đồ họa rõ ràng với năng lượng pop-art mạnh mẽ và nét quyến rũ của bản in cổ điển. Tác phẩm nghệ thuật phải tràn lề — không có đường viền.
+Một bức chân dung của đối tượng theo phong cách pop-art truyện tranh thập niên 1960, được minh họa bằng những đường nét viền đen đậm, màu sắc cơ bản bão hòa phẳng và các chấm halftone dày đặc. Các đặc điểm khuôn mặt nên biểu cảm, cách điệu và hơi phóng đại, như thể được ghi lại trong một khoảnh khắc kịch tính giữa khung truyện. Sử dụng bố cục đồ họa rõ ràng với năng lượng pop-art mạnh mẽ và nét quyến rũ của bản in cổ điển. Tác phẩm nghệ thuật phải tràn lề — không có đường viền.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -874,7 +874,7 @@ Một bức chân dung đối tượng theo phong cách pop-art truyện tranh t
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20theo%20phong%20c%C3%A1ch%20pop-art%20truy%E1%BB%87n%20tranh%20th%E1%BA%ADp%20ni%C3%AAn%201960%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20vi%E1%BB%81n%20%C4%91en%20%C4%91%E1%BA%ADm%2C%20m%C3%A0u%20s%E1%BA%AFc%20c%C6%A1%20b%E1%BA%A3n%20b%C3%A3o%20h%C3%B2a%20ph%E1%BA%B3ng%20v%C3%A0%20ch%E1%BA%A5m%20halftone%20d%C3%A0y%20%C4%91%E1%BA%B7c.%20C%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20ph%E1%BA%A3i%20bi%E1%BB%83u%20c%E1%BA%A3m%2C%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20v%C3%A0%20h%C6%A1i%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%2C%20nh%C6%B0%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ghi%20l%E1%BA%A1i%20trong%20m%E1%BB%99t%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20k%E1%BB%8Bch%20t%C3%ADnh%20gi%E1%BB%AFa%20khung%20truy%E1%BB%87n.%20S%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BB%91%20c%E1%BB%A5c%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20r%C3%B5%20r%C3%A0ng%20v%E1%BB%9Bi%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20pop-art%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20n%C3%A9t%20quy%E1%BA%BFn%20r%C5%A9%20c%E1%BB%A7a%20b%E1%BA%A3n%20in%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20T%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%20ph%E1%BA%A3i%20tr%C3%A0n%20l%E1%BB%81%20%E2%80%94%20kh%C3%B4ng%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20c%E1%BB%A7a%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20theo%20phong%20c%C3%A1ch%20pop-art%20truy%E1%BB%87n%20tranh%20th%E1%BA%ADp%20ni%C3%AAn%201960%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20vi%E1%BB%81n%20%C4%91en%20%C4%91%E1%BA%ADm%2C%20m%C3%A0u%20s%E1%BA%AFc%20c%C6%A1%20b%E1%BA%A3n%20b%C3%A3o%20h%C3%B2a%20ph%E1%BA%B3ng%20v%C3%A0%20c%C3%A1c%20ch%E1%BA%A5m%20halftone%20d%C3%A0y%20%C4%91%E1%BA%B7c.%20C%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20n%C3%AAn%20bi%E1%BB%83u%20c%E1%BA%A3m%2C%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20v%C3%A0%20h%C6%A1i%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%2C%20nh%C6%B0%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ghi%20l%E1%BA%A1i%20trong%20m%E1%BB%99t%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20k%E1%BB%8Bch%20t%C3%ADnh%20gi%E1%BB%AFa%20khung%20truy%E1%BB%87n.%20S%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BB%91%20c%E1%BB%A5c%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20r%C3%B5%20r%C3%A0ng%20v%E1%BB%9Bi%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20pop-art%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20n%C3%A9t%20quy%E1%BA%BFn%20r%C5%A9%20c%E1%BB%A7a%20b%E1%BA%A3n%20in%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20T%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%20ph%E1%BA%A3i%20tr%C3%A0n%20l%E1%BB%81%20%E2%80%94%20kh%C3%B4ng%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n.)**
 
 ---
 
@@ -1328,7 +1328,7 @@ Một tấm áp phích du lịch sống động, mang phong cách retro-futurist
 
 ---
 
-### No. 31: Chỉnh sửa hình ảnh: Thêm sinh vật vào nền
+### No. 31: Chỉnh sửa ảnh: Thêm sinh vật vào nền
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1340,7 +1340,7 @@ Một lời nhắc được sử dụng để chỉnh sửa một hình ảnh hi
 #### 📝 Câu lệnh
 
 ```
-sử dụng hình ảnh đầu tiên cùng với phong cách và kích thước của nó, thêm sinh vật từ hình ảnh thứ hai vào hình ảnh đầu tiên ở các khoảng cách khác nhau trong nền, đảm bảo tiêu điểm và kích thước của các sinh vật phù hợp với khoảng cách của chúng, tổng cộng phải có {argument name="number of creatures" default="7"} sinh vật, hình dáng và phong cách của chúng có thể hơi khác nhau
+sử dụng hình ảnh đầu tiên cùng với phong cách và kích thước của nó, thêm sinh vật từ hình ảnh thứ hai vào hình ảnh đầu tiên ở các khoảng cách khác nhau trong nền, đảm bảo tiêu điểm và kích thước của các sinh vật phù hợp với khoảng cách của chúng, tổng cộng phải có {argument name="number of creatures" default="7"} sinh vật, hình dáng và phong cách của chúng có thể hơi khác nhau một chút
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1348,7 +1348,7 @@ sử dụng hình ảnh đầu tiên cùng với phong cách và kích thước 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035368731_jzr55o_G8Yij3ta0AAi13i.jpg" width="600" alt="Chỉnh sửa hình ảnh: Thêm sinh vật vào nền - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035368731_jzr55o_G8Yij3ta0AAi13i.jpg" width="600" alt="Chỉnh sửa ảnh: Thêm sinh vật vào nền - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1358,7 +1358,7 @@ sử dụng hình ảnh đầu tiên cùng với phong cách và kích thước 
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=s%E1%BB%AD%20d%E1%BB%A5ng%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20c%C3%B9ng%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20v%C3%A0%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20n%C3%B3%2C%20th%C3%AAm%20sinh%20v%E1%BA%ADt%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20th%E1%BB%A9%20hai%20v%C3%A0o%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20%E1%BB%9F%20c%C3%A1c%20kho%E1%BA%A3ng%20c%C3%A1ch%20kh%C3%A1c%20nhau%20trong%20n%E1%BB%81n%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20ti%C3%AAu%20%C4%91i%E1%BB%83m%20v%C3%A0%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20c%C3%A1c%20sinh%20v%E1%BA%ADt%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20kho%E1%BA%A3ng%20c%C3%A1ch%20c%E1%BB%A7a%20ch%C3%BAng%2C%20t%E1%BB%95ng%20c%E1%BB%99ng%20ph%E1%BA%A3i%20c%C3%B3%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20sinh%20v%E1%BA%ADt%2C%20h%C3%ACnh%20d%C3%A1ng%20v%C3%A0%20phong%20c%C3%A1ch%20c%E1%BB%A7a%20ch%C3%BAng%20c%C3%B3%20th%E1%BB%83%20h%C6%A1i%20kh%C3%A1c%20nhau)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=s%E1%BB%AD%20d%E1%BB%A5ng%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20c%C3%B9ng%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20v%C3%A0%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20n%C3%B3%2C%20th%C3%AAm%20sinh%20v%E1%BA%ADt%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20th%E1%BB%A9%20hai%20v%C3%A0o%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20%E1%BB%9F%20c%C3%A1c%20kho%E1%BA%A3ng%20c%C3%A1ch%20kh%C3%A1c%20nhau%20trong%20n%E1%BB%81n%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20ti%C3%AAu%20%C4%91i%E1%BB%83m%20v%C3%A0%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20c%C3%A1c%20sinh%20v%E1%BA%ADt%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20kho%E1%BA%A3ng%20c%C3%A1ch%20c%E1%BB%A7a%20ch%C3%BAng%2C%20t%E1%BB%95ng%20c%E1%BB%99ng%20ph%E1%BA%A3i%20c%C3%B3%20%7Bargument%20name%3D%22number%20of%20creatures%22%20default%3D%227%22%7D%20sinh%20v%E1%BA%ADt%2C%20h%C3%ACnh%20d%C3%A1ng%20v%C3%A0%20phong%20c%C3%A1ch%20c%E1%BB%A7a%20ch%C3%BAng%20c%C3%B3%20th%E1%BB%83%20h%C6%A1i%20kh%C3%A1c%20nhau%20m%E1%BB%99t%20ch%C3%BAt)**
 
 ---
 
@@ -1715,7 +1715,7 @@ Một lời nhắc chi tiết, chân thực như ảnh cho GPT Image 1.5 yêu c�
 #### 📝 Câu lệnh
 
 ```
-ảnh chụp chính diện một phụ nữ dễ thương với mái tóc {argument name="hair color" default="đen"} trong chiếc {argument name="clothing item" default="váy ngắn"}, nhìn về phía máy ảnh, trên nền {argument name="background color" default="trắng"}, chi tiết và chân thực như ảnh chụp, mỉm cười dịu dàng, ảnh stock
+cận cảnh một người phụ nữ dễ thương với mái tóc {argument name="hair color" default="đen"} trong chiếc {argument name="clothing item" default="váy ngắn"}, nhìn về phía máy ảnh, trên nền {argument name="background color" default="trắng"}, chi tiết và chân thực như ảnh chụp, mỉm cười dịu dàng, ảnh stock
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1733,7 +1733,7 @@ Một lời nhắc chi tiết, chân thực như ảnh cho GPT Image 1.5 yêu c�
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%E1%BA%A3nh%20ch%E1%BB%A5p%20ch%C3%ADnh%20di%E1%BB%87n%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22%C4%91en%22%7D%20trong%20chi%E1%BA%BFc%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22v%C3%A1y%20ng%E1%BA%AFn%22%7D%2C%20nh%C3%ACn%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A1y%20%E1%BA%A3nh%2C%20tr%C3%AAn%20n%E1%BB%81n%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22tr%E1%BA%AFng%22%7D%2C%20chi%20ti%E1%BA%BFt%20v%C3%A0%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%2C%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%20d%E1%BB%8Bu%20d%C3%A0ng%2C%20%E1%BA%A3nh%20stock)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22%C4%91en%22%7D%20trong%20chi%E1%BA%BFc%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22v%C3%A1y%20ng%E1%BA%AFn%22%7D%2C%20nh%C3%ACn%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A1y%20%E1%BA%A3nh%2C%20tr%C3%AAn%20n%E1%BB%81n%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22tr%E1%BA%AFng%22%7D%2C%20chi%20ti%E1%BA%BFt%20v%C3%A0%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%2C%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%20d%E1%BB%8Bu%20d%C3%A0ng%2C%20%E1%BA%A3nh%20stock)**
 
 ---
 
@@ -1848,13 +1848,13 @@ Chuyển đổi nó thành một bức tranh màu nước trong suốt được 
 
 ---
 
-### No. 45: Cyborg và Học sinh người cá gặp gỡ: Gợi ý
+### No. 45: Lời nhắc về cuộc gặp gỡ giữa người máy và học sinh người cá
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc mô tả cảnh một cậu bé người máy trong bộ đồng phục học sinh (gakuran) gặp một cậu bé người cá cũng mặc đồng phục học sinh. Người dùng đang thử nghiệm cách GPT Image 1.5 xử lý một lời nhắc đã được sử dụng trước đây trong Niji Journey.
+Một lời nhắc mô tả cảnh một cậu bé người máy trong bộ đồng phục học sinh (gakuran) gặp một cậu bé người cá cũng trong bộ đồng phục học sinh. Người dùng đang kiểm tra cách GPT Image 1.5 xử lý một lời nhắc đã được sử dụng trước đây trong Niji Journey.
 
 #### 📝 Câu lệnh
 
@@ -1867,13 +1867,13 @@ Cuộc gặp gỡ giữa một cậu bé người máy mặc gakuran (đồng ph
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Cyborg và Học sinh người cá gặp gỡ: Gợi ý - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Lời nhắc về cuộc gặp gỡ giữa người máy và học sinh người cá - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Cyborg và Học sinh người cá gặp gỡ: Gợi ý - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Lời nhắc về cuộc gặp gỡ giữa người máy và học sinh người cá - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3480,12 +3480,12 @@ Một bức ảnh chân thực, độ phân giải cao về {argument name="stat
 
 #### 📖 Mô tả
 
-Một gợi ý thú vị cho GPT Image 1.5 để tạo ra những hình ảnh theo phong cách Purikura (máy chụp ảnh tự động của Nhật Bản) hoài cổ, đặc biệt có hình ảnh một con khỉ đột và một con sóc, làm nổi bật khả năng xử lý các phong cách và chủ đề cụ thể của mô hình.
+Một gợi ý thú vị cho GPT Image 1.5 để tạo ra những hình ảnh theo phong cách Purikura (máy chụp ảnh tự động của Nhật Bản) hoài cổ, đặc biệt có hình ảnh một con khỉ đột và một con sóc, làm nổi bật khả năng của mô hình trong việc xử lý các phong cách và chủ đề cụ thể.
 
 #### 📝 Câu lệnh
 
 ```
-Tôi đã chụp một bức ảnh Purikura đầy hoài niệm bởi một chú {argument name="animal 1" default="gorilla"} và một chú {argument name="animal 2" default="squirrel"}.
+Tôi đã có một bức ảnh Purikura hoài niệm được chụp bởi một con {argument name="animal 1" default="gorilla"} và một con {argument name="animal 2" default="squirrel"}.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -3509,7 +3509,7 @@ Tôi đã chụp một bức ảnh Purikura đầy hoài niệm bởi một chú
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%C3%B4i%20%C4%91%C3%A3%20ch%E1%BB%A5p%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20Purikura%20%C4%91%E1%BA%A7y%20ho%C3%A0i%20ni%E1%BB%87m%20b%E1%BB%9Fi%20m%E1%BB%99t%20ch%C3%BA%20%7Bargument%20name%3D%22animal%201%22%20default%3D%22gorilla%22%7D%20v%C3%A0%20m%E1%BB%99t%20ch%C3%BA%20%7Bargument%20name%3D%22animal%202%22%20default%3D%22squirrel%22%7D.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%C3%B4i%20%C4%91%C3%A3%20c%C3%B3%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20Purikura%20ho%C3%A0i%20ni%E1%BB%87m%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BB%9Fi%20m%E1%BB%99t%20con%20%7Bargument%20name%3D%22animal%201%22%20default%3D%22gorilla%22%7D%20v%C3%A0%20m%E1%BB%99t%20con%20%7Bargument%20name%3D%22animal%202%22%20default%3D%22squirrel%22%7D.)**
 
 ---
 
@@ -4236,12 +4236,12 @@ Biểu cảm:
 
 #### 📖 Mô tả
 
-Một prompt được thiết kế để kiểm tra tính nhất quán và khả năng chuyển đổi biểu cảm của các mô hình hình ảnh. Nó yêu cầu chuyển đổi biểu cảm của một nhân vật thành 'vừa khóc vừa cười'—cụ thể là nước mắt chảy dài trên má trong khi vẫn giữ nụ cười dịu dàng, vừa ngọt ngào vừa buồn—đồng thời giữ nguyên thiết kế nhân vật, kiểu tóc, trang phục và phong cách nghệ thuật.
+Một prompt được thiết kế để kiểm tra tính nhất quán và khả năng biến đổi biểu cảm của các mô hình hình ảnh. Nó yêu cầu biến đổi biểu cảm của một nhân vật thành 'vừa khóc vừa cười'—cụ thể là nước mắt chảy dài trên má trong khi vẫn giữ nụ cười nhẹ nhàng, ngọt ngào xen lẫn cay đắng—đồng thời bảo toàn nghiêm ngặt thiết kế nhân vật, kiểu tóc, trang phục và phong cách nghệ thuật.
 
 #### 📝 Câu lệnh
 
 ```
-"Biến đổi biểu cảm thành vừa khóc vừa cười - nước mắt chảy dài trên má nhưng vẫn giữ nụ cười dịu dàng, buồn vui lẫn lộn. Giữ nguyên thiết kế nhân vật, kiểu tóc, trang phục, phong cách nghệ thuật."
+"Biến đổi biểu cảm thành vừa khóc vừa cười - nước mắt chảy dài trên má nhưng vẫn giữ nụ cười dịu dàng, vừa ngọt ngào vừa cay đắng. Giữ nguyên thiết kế nhân vật, kiểu tóc, trang phục, phong cách nghệ thuật."
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4277,7 +4277,7 @@ Một prompt được thiết kế để kiểm tra tính nhất quán và khả
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22Bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20bi%E1%BB%83u%20c%E1%BA%A3m%20th%C3%A0nh%20v%E1%BB%ABa%20kh%C3%B3c%20v%E1%BB%ABa%20c%C6%B0%E1%BB%9Di%20-%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20ch%E1%BA%A3y%20d%C3%A0i%20tr%C3%AAn%20m%C3%A1%20nh%C6%B0ng%20v%E1%BA%ABn%20gi%E1%BB%AF%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20d%E1%BB%8Bu%20d%C3%A0ng%2C%20bu%E1%BB%93n%20vui%20l%E1%BA%ABn%20l%E1%BB%99n.%20Gi%E1%BB%AF%20nguy%C3%AAn%20thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C3%A2n%20v%E1%BA%ADt%2C%20ki%E1%BB%83u%20t%C3%B3c%2C%20trang%20ph%E1%BB%A5c%2C%20phong%20c%C3%A1ch%20ngh%E1%BB%87%20thu%E1%BA%ADt.%22)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22Bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20bi%E1%BB%83u%20c%E1%BA%A3m%20th%C3%A0nh%20v%E1%BB%ABa%20kh%C3%B3c%20v%E1%BB%ABa%20c%C6%B0%E1%BB%9Di%20-%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20ch%E1%BA%A3y%20d%C3%A0i%20tr%C3%AAn%20m%C3%A1%20nh%C6%B0ng%20v%E1%BA%ABn%20gi%E1%BB%AF%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20d%E1%BB%8Bu%20d%C3%A0ng%2C%20v%E1%BB%ABa%20ng%E1%BB%8Dt%20ng%C3%A0o%20v%E1%BB%ABa%20cay%20%C4%91%E1%BA%AFng.%20Gi%E1%BB%AF%20nguy%C3%AAn%20thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C3%A2n%20v%E1%BA%ADt%2C%20ki%E1%BB%83u%20t%C3%B3c%2C%20trang%20ph%E1%BB%A5c%2C%20phong%20c%C3%A1ch%20ngh%E1%BB%87%20thu%E1%BA%ADt.%22)**
 
 ---
 
@@ -5114,6 +5114,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-18T08:15:11.885Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-18T12:19:10.572Z</sub>
 
 </div>

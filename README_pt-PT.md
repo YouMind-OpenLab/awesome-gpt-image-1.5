@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **180** |
 | ⭐ Destaque | **0** |
-| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 08:15:28 UTC** |
+| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 12:21:00 UTC** |
 
 </div>
 
@@ -247,7 +247,7 @@ Um modelo de prompt criativo, conhecido como "método FCG", que instrui a IA a g
 #### 📝 Prompt
 
 ```
-Crie um conjunto de imagens do que acontece 5 minutos, 10 minutos, 1 hora e 3 horas depois. Crie uma história meio maluca.
+Crie um conjunto de imagens do que acontece 5 minutos, 10 minutos, 1 hora e 3 horas depois. Crie algum tipo de história maluca.
 ```
 
 #### 🖼️ Imagens geradas
@@ -265,7 +265,7 @@ Crie um conjunto de imagens do que acontece 5 minutos, 10 minutos, 1 hora e 3 ho
 - **Publicado:** 18 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-PT/gpt-image-1-5?prompt=Crie%20um%20conjunto%20de%20imagens%20do%20que%20acontece%205%20minutos%2C%2010%20minutos%2C%201%20hora%20e%203%20horas%20depois.%20Crie%20uma%20hist%C3%B3ria%20meio%20maluca.)**
+**[👉 Experimente agora →](https://youmind.com/pt-PT/gpt-image-1-5?prompt=Crie%20um%20conjunto%20de%20imagens%20do%20que%20acontece%205%20minutos%2C%2010%20minutos%2C%201%20hora%20e%203%20horas%20depois.%20Crie%20algum%20tipo%20de%20hist%C3%B3ria%20maluca.)**
 
 ---
 
@@ -807,7 +807,7 @@ Um prompt JSON altamente estruturado para GPT Image 1.5 gerar uma imagem editori
 
 ---
 
-### No. 18: Cão em Skate, Prompt de Foto Original para iPhone
+### No. 18: Cachorro no Skate Prompt de Foto Original para iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -826,13 +826,13 @@ Fotografia de um cão em um skate, tirada com o iPhone original.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Cão em Skate, Prompt de Foto Original para iPhone - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Cachorro no Skate Prompt de Foto Original para iPhone - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Cão em Skate, Prompt de Foto Original para iPhone - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Cachorro no Skate Prompt de Foto Original para iPhone - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -846,18 +846,18 @@ Fotografia de um cão em um skate, tirada com o iPhone original.
 
 ---
 
-### No. 19: Retrato de Banda Desenhada Pop-Art dos Anos 60
+### No. 19: Retrato em Quadrinhos Pop-Art dos Anos 60
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt detalhado para gerar um retrato no estilo pop art de quadrinhos dos anos 1960. Ele especifica o uso de contornos pretos fortes, cores primárias saturadas e planas, sombreamento denso em meio-tom, características faciais expressivas e uma composição gráfica de sangria total com o charme da impressão vintage.
+Um prompt detalhado para gerar um retrato no estilo de pop art de quadrinhos dos anos 1960. Ele especifica o uso de contornos pretos fortes, cores primárias saturadas e planas, sombreamento denso em meio-tom, características faciais expressivas e uma composição gráfica de sangria total com o charme da impressão vintage.
 
 #### 📝 Prompt
 
 ```
-Um retrato do sujeito em estilo pop-art de história em quadrinhos dos anos 1960, ilustrado com contornos pretos fortes, cores primárias planas e saturadas, e sombreamento denso de pontos de meio-tom. As características faciais devem parecer expressivas, estilizadas e ligeiramente exageradas, como se capturadas em um momento dramático no meio de um painel. Use uma composição limpa e gráfica com forte energia pop-art e charme de impressão vintage. A arte deve ser sangrada — sem bordas.
+Um retrato do sujeito no estilo pop-art de histórias em quadrinhos dos anos 1960, ilustrado com contornos pretos fortes, cores primárias saturadas e planas, e sombreamento denso de pontos de meio-tom. As características faciais devem parecer expressivas, estilizadas e ligeiramente exageradas, como se capturadas em um momento dramático no meio de um painel. Use uma composição limpa e gráfica com forte energia pop-art e charme de impressão vintage. A arte deve ser full-bleed — sem bordas.
 ```
 
 #### 🖼️ Imagens geradas
@@ -865,7 +865,7 @@ Um retrato do sujeito em estilo pop-art de história em quadrinhos dos anos 1960
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035328592_qbssrn_G8Zk3nCa4AA_K5L.jpg" width="600" alt="Retrato de Banda Desenhada Pop-Art dos Anos 60 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035328592_qbssrn_G8Zk3nCa4AA_K5L.jpg" width="600" alt="Retrato em Quadrinhos Pop-Art dos Anos 60 - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -875,7 +875,7 @@ Um retrato do sujeito em estilo pop-art de história em quadrinhos dos anos 1960
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-PT/gpt-image-1-5?prompt=Um%20retrato%20do%20sujeito%20em%20estilo%20pop-art%20de%20hist%C3%B3ria%20em%20quadrinhos%20dos%20anos%201960%2C%20ilustrado%20com%20contornos%20pretos%20fortes%2C%20cores%20prim%C3%A1rias%20planas%20e%20saturadas%2C%20e%20sombreamento%20denso%20de%20pontos%20de%20meio-tom.%20As%20caracter%C3%ADsticas%20faciais%20devem%20parecer%20expressivas%2C%20estilizadas%20e%20ligeiramente%20exageradas%2C%20como%20se%20capturadas%20em%20um%20momento%20dram%C3%A1tico%20no%20meio%20de%20um%20painel.%20Use%20uma%20composi%C3%A7%C3%A3o%20limpa%20e%20gr%C3%A1fica%20com%20forte%20energia%20pop-art%20e%20charme%20de%20impress%C3%A3o%20vintage.%20A%20arte%20deve%20ser%20sangrada%20%E2%80%94%20sem%20bordas.)**
+**[👉 Experimente agora →](https://youmind.com/pt-PT/gpt-image-1-5?prompt=Um%20retrato%20do%20sujeito%20no%20estilo%20pop-art%20de%20hist%C3%B3rias%20em%20quadrinhos%20dos%20anos%201960%2C%20ilustrado%20com%20contornos%20pretos%20fortes%2C%20cores%20prim%C3%A1rias%20saturadas%20e%20planas%2C%20e%20sombreamento%20denso%20de%20pontos%20de%20meio-tom.%20As%20caracter%C3%ADsticas%20faciais%20devem%20parecer%20expressivas%2C%20estilizadas%20e%20ligeiramente%20exageradas%2C%20como%20se%20capturadas%20em%20um%20momento%20dram%C3%A1tico%20no%20meio%20de%20um%20painel.%20Use%20uma%20composi%C3%A7%C3%A3o%20limpa%20e%20gr%C3%A1fica%20com%20forte%20energia%20pop-art%20e%20charme%20de%20impress%C3%A3o%20vintage.%20A%20arte%20deve%20ser%20full-bleed%20%E2%80%94%20sem%20bordas.)**
 
 ---
 
@@ -1711,7 +1711,7 @@ Tenha cuidado para identificar corretamente (e não confundir) elementos que sã
 
 #### 📖 Descrição
 
-Um prompt fotorrealista detalhado para GPT Image 1.5 solicitando uma foto de stock de uma mulher bonita com cabelo preto e uma saia curta, olhando para a câmara num fundo branco.
+Um prompt fotorrealista detalhado para GPT Image 1.5 solicitando uma foto de stock de uma mulher bonita com cabelo preto e saia curta, olhando para a câmera em um fundo branco.
 
 #### 📝 Prompt
 
@@ -4231,18 +4231,18 @@ Expressão:
 
 ---
 
-### No. 99: Transformação da Expressão: Chorar Enquanto Sorri
+### No. 99: Transformação de Expressão: Chorar Enquanto Sorri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt projetado para testar a consistência e as capacidades de transformação de expressão de modelos de imagem. Ele solicita a transformação da expressão de um personagem para "chorando enquanto sorri" — especificamente, lágrimas escorrendo pelas bochechas enquanto mantém um sorriso gentil e agridoce — preservando estritamente o design do personagem, penteado, vestuário e estilo de arte.
+Um prompt projetado para testar a consistência e as capacidades de transformação de expressão de modelos de imagem. Ele solicita a transformação da expressão de um personagem para "chorando enquanto sorri" — especificamente, lágrimas escorrendo pelas bochechas enquanto mantém um sorriso gentil e agridoce — preservando estritamente o design do personagem, o penteado, as roupas e o estilo artístico.
 
 #### 📝 Prompt
 
 ```
-"Transformar a expressão para chorar enquanto sorri – lágrimas escorrendo pelas bochechas, mantendo um sorriso gentil e agridoce. Manter exatamente o mesmo design da personagem, penteado, roupa e estilo de arte."
+"Transformar a expressão para choro enquanto sorri - lágrimas escorrendo pelas bochechas enquanto mantém um sorriso gentil e agridoce. Manter exatamente o mesmo design de personagem, penteado, roupa e estilo de arte."
 ```
 
 #### 🖼️ Imagens geradas
@@ -4250,25 +4250,25 @@ Um prompt projetado para testar a consistência e as capacidades de transformaç
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423100_63do9x_G8VTV-oacAAUqep.jpg" width="600" alt="Transformação da Expressão: Chorar Enquanto Sorri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035423100_63do9x_G8VTV-oacAAUqep.jpg" width="600" alt="Transformação de Expressão: Chorar Enquanto Sorri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035422982_mvwi6v_G8VTV-obkAAC6e7.jpg" width="600" alt="Transformação da Expressão: Chorar Enquanto Sorri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035422982_mvwi6v_G8VTV-obkAAC6e7.jpg" width="600" alt="Transformação de Expressão: Chorar Enquanto Sorri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423369_7d0kfi_G8VTV-ibYAASnJ-.jpg" width="600" alt="Transformação da Expressão: Chorar Enquanto Sorri - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766035423369_7d0kfi_G8VTV-ibYAASnJ-.jpg" width="600" alt="Transformação de Expressão: Chorar Enquanto Sorri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035424732_4cvi86_G8VTV-ra4AAqUVF.jpg" width="600" alt="Transformação da Expressão: Chorar Enquanto Sorri - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766035424732_4cvi86_G8VTV-ra4AAqUVF.jpg" width="600" alt="Transformação de Expressão: Chorar Enquanto Sorri - Image 4">
 </div>
 
 #### 📌 Detalhes
@@ -4278,7 +4278,7 @@ Um prompt projetado para testar a consistência e as capacidades de transformaç
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-PT/gpt-image-1-5?prompt=%22Transformar%20a%20express%C3%A3o%20para%20chorar%20enquanto%20sorri%20%E2%80%93%20l%C3%A1grimas%20escorrendo%20pelas%20bochechas%2C%20mantendo%20um%20sorriso%20gentil%20e%20agridoce.%20Manter%20exatamente%20o%20mesmo%20design%20da%20personagem%2C%20penteado%2C%20roupa%20e%20estilo%20de%20arte.%22)**
+**[👉 Experimente agora →](https://youmind.com/pt-PT/gpt-image-1-5?prompt=%22Transformar%20a%20express%C3%A3o%20para%20choro%20enquanto%20sorri%20-%20l%C3%A1grimas%20escorrendo%20pelas%20bochechas%20enquanto%20mant%C3%A9m%20um%20sorriso%20gentil%20e%20agridoce.%20Manter%20exatamente%20o%20mesmo%20design%20de%20personagem%2C%20penteado%2C%20roupa%20e%20estilo%20de%20arte.%22)**
 
 ---
 
@@ -5115,6 +5115,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T08:15:28.345Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T12:21:00.631Z</sub>
 
 </div>

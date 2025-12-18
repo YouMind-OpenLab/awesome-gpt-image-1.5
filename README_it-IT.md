@@ -88,7 +88,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **180** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **giovedì 18 dicembre 2025 alle ore 08:15:23 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 18 dicembre 2025 alle ore 12:20:56 UTC** |
 
 </div>
 
@@ -236,18 +236,18 @@ regala a Max un simpatico amico caribù
 
 ---
 
-### No. 5: Prompt del Metodo FCG: Storia in Time-Lapse
+### No. 5: FCG Method Prompt: Storia in Time-Lapse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Un modello di prompt creativo, denominato "metodo FCG", che istruisce l'IA a generare una serie di immagini che raffigurano una storia folle che si svolge in specifici intervalli di tempo: 5 minuti, 10 minuti, 1 ora e 3 ore.
+Un template di prompt creativo, denominato "metodo FCG", che istruisce l'IA a generare una serie di immagini che raffigurano una storia folle che si svolge a intervalli di tempo specifici: 5 minuti, 10 minuti, 1 ora e 3 ore.
 
 #### 📝 Prompt
 
 ```
-Crea una serie di immagini di ciò che accade dopo 5 minuti, 10 minuti, 1 ora e 3 ore. Inventa una storia un po' folle.
+Crea una serie di immagini che mostrino cosa succede dopo 5 minuti, 10 minuti, 1 ora e 3 ore. Inventa una storia un po' folle.
 ```
 
 #### 🖼️ Immagini generate
@@ -255,7 +255,7 @@ Crea una serie di immagini di ciò che accade dopo 5 minuti, 10 minuti, 1 ora e 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="Prompt del Metodo FCG: Storia in Time-Lapse - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035939015_j10o8d_G8af3f4aYAAhhzd.jpg" width="600" alt="FCG Method Prompt: Storia in Time-Lapse - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -265,7 +265,7 @@ Crea una serie di immagini di ciò che accade dopo 5 minuti, 10 minuti, 1 ora e 
 - **Pubblicato:** 18 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Crea%20una%20serie%20di%20immagini%20di%20ci%C3%B2%20che%20accade%20dopo%205%20minuti%2C%2010%20minuti%2C%201%20ora%20e%203%20ore.%20Inventa%20una%20storia%20un%20po'%20folle.)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Crea%20una%20serie%20di%20immagini%20che%20mostrino%20cosa%20succede%20dopo%205%20minuti%2C%2010%20minuti%2C%201%20ora%20e%203%20ore.%20Inventa%20una%20storia%20un%20po'%20folle.)**
 
 ---
 
@@ -806,18 +806,18 @@ Un prompt JSON altamente strutturato per GPT Image 1.5 per generare un'immagine 
 
 ---
 
-### No. 18: Richiesta per foto originale per iPhone: Cane su skateboard
+### No. 18: Cane su Skateboard, Prompt Originale per Foto iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Un prompt progettato per ottenere un aspetto meno "generato dall'IA" specificando lo stile dell'immagine come una fotografia scattata con il primo iPhone, con un cane su uno skateboard.
+Un prompt pensato per ottenere un aspetto meno "generato dall'IA", specificando lo stile dell'immagine come una fotografia scattata con il primo iPhone, con un cane su uno skateboard.
 
 #### 📝 Prompt
 
 ```
-Fotografia di un cane su uno skateboard scattata con l'iPhone originale.
+Fotografia di un cane su uno skateboard scattata con il primo iPhone.
 ```
 
 #### 🖼️ Immagini generate
@@ -825,13 +825,13 @@ Fotografia di un cane su uno skateboard scattata con l'iPhone originale.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Richiesta per foto originale per iPhone: Cane su skateboard - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035354510_ms6frx_G8ZwvlsWgAAoSWZ.jpg" width="600" alt="Cane su Skateboard, Prompt Originale per Foto iPhone - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Richiesta per foto originale per iPhone: Cane su skateboard - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035354503_x73mof_G8ZxJQqWAAAnIRf.jpg" width="600" alt="Cane su Skateboard, Prompt Originale per Foto iPhone - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -841,7 +841,7 @@ Fotografia di un cane su uno skateboard scattata con l'iPhone originale.
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Fotografia%20di%20un%20cane%20su%20uno%20skateboard%20scattata%20con%20l'iPhone%20originale.)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Fotografia%20di%20un%20cane%20su%20uno%20skateboard%20scattata%20con%20il%20primo%20iPhone.)**
 
 ---
 
@@ -851,12 +851,12 @@ Fotografia di un cane su uno skateboard scattata con l'iPhone originale.
 
 #### 📖 Descrizione
 
-Un prompt dettagliato per generare un ritratto nello stile della pop art dei fumetti anni '60. Specifica l'uso di linee di contorno nere audaci, colori primari saturi e piatti, ombreggiature dense a mezzatinta, tratti facciali espressivi e una composizione grafica a tutta pagina con il fascino della stampa vintage.
+Un prompt dettagliato per generare un ritratto nello stile della pop art dei fumetti anni '60. Specifica l'uso di audaci linee di contorno nere, colori primari piatti e saturi, ombreggiature a mezzatinta dense, tratti del viso espressivi e una composizione grafica a tutta pagina con il fascino della stampa vintage.
 
 #### 📝 Prompt
 
 ```
-Un ritratto del soggetto in stile pop-art da fumetto anni '60, illustrato con audaci contorni neri, colori primari saturi e piatti, e una fitta ombreggiatura a mezzatinta. I tratti del viso dovrebbero apparire espressivi, stilizzati e leggermente esagerati, come se fossero catturati in un drammatico momento a metà vignetta. Utilizzare una composizione pulita e grafica con una forte energia pop-art e un fascino da stampa vintage. L'opera d'arte deve essere a pieno formato – senza bordi.
+Un ritratto del soggetto in stile pop-art da fumetto anni '60, illustrato con audaci contorni neri, colori primari piatti e saturi e dense sfumature a mezzatinta. I tratti del viso devono apparire espressivi, stilizzati e leggermente esagerati, come se fossero catturati in un drammatico momento a metà vignetta. Utilizzare una composizione pulita e grafica con una forte energia pop-art e un fascino da stampa vintage. L'opera d'arte deve essere a tutto campo, senza bordi.
 ```
 
 #### 🖼️ Immagini generate
@@ -874,7 +874,7 @@ Un ritratto del soggetto in stile pop-art da fumetto anni '60, illustrato con au
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Un%20ritratto%20del%20soggetto%20in%20stile%20pop-art%20da%20fumetto%20anni%20'60%2C%20illustrato%20con%20audaci%20contorni%20neri%2C%20colori%20primari%20saturi%20e%20piatti%2C%20e%20una%20fitta%20ombreggiatura%20a%20mezzatinta.%20I%20tratti%20del%20viso%20dovrebbero%20apparire%20espressivi%2C%20stilizzati%20e%20leggermente%20esagerati%2C%20come%20se%20fossero%20catturati%20in%20un%20drammatico%20momento%20a%20met%C3%A0%20vignetta.%20Utilizzare%20una%20composizione%20pulita%20e%20grafica%20con%20una%20forte%20energia%20pop-art%20e%20un%20fascino%20da%20stampa%20vintage.%20L'opera%20d'arte%20deve%20essere%20a%20pieno%20formato%20%E2%80%93%20senza%20bordi.)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Un%20ritratto%20del%20soggetto%20in%20stile%20pop-art%20da%20fumetto%20anni%20'60%2C%20illustrato%20con%20audaci%20contorni%20neri%2C%20colori%20primari%20piatti%20e%20saturi%20e%20dense%20sfumature%20a%20mezzatinta.%20I%20tratti%20del%20viso%20devono%20apparire%20espressivi%2C%20stilizzati%20e%20leggermente%20esagerati%2C%20come%20se%20fossero%20catturati%20in%20un%20drammatico%20momento%20a%20met%C3%A0%20vignetta.%20Utilizzare%20una%20composizione%20pulita%20e%20grafica%20con%20una%20forte%20energia%20pop-art%20e%20un%20fascino%20da%20stampa%20vintage.%20L'opera%20d'arte%20deve%20essere%20a%20tutto%20campo%2C%20senza%20bordi.)**
 
 ---
 
@@ -1703,7 +1703,7 @@ Fare attenzione a identificare correttamente (e a non confondere) gli elementi c
 
 ---
 
-### No. 41: Prompt per foto stock fotorealistica di una donna
+### No. 41: Richiesta di foto stock fotorealistica di una donna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1715,7 +1715,7 @@ Un prompt fotorealistico dettagliato per GPT Image 1.5 che richiede una foto sto
 #### 📝 Prompt
 
 ```
-vista frontale di una donna carina con capelli {argument name="hair color" default="neri"} in una {argument name="clothing item" default="gonna corta"}, che guarda verso la fotocamera, su uno sfondo {argument name="background color" default="bianco"}, dettagliata e fotorealistica, sorriso modesto, foto stock
+vista frontale di una donna carina con capelli {argument name="hair color" default="neri"} e una {argument name="clothing item" default="gonna corta"}, che guarda verso la fotocamera, su uno sfondo {argument name="background color" default="bianco"}, dettagliata e fotorealistica, sorriso modesto, foto stock
 ```
 
 #### 🖼️ Immagini generate
@@ -1723,7 +1723,7 @@ vista frontale di una donna carina con capelli {argument name="hair color" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035359991_v3h2od_G8YIKgqaQAEKGXx.jpg" width="600" alt="Prompt per foto stock fotorealistica di una donna - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035359991_v3h2od_G8YIKgqaQAEKGXx.jpg" width="600" alt="Richiesta di foto stock fotorealistica di una donna - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1733,7 +1733,7 @@ vista frontale di una donna carina con capelli {argument name="hair color" defau
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=vista%20frontale%20di%20una%20donna%20carina%20con%20capelli%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22neri%22%7D%20in%20una%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22gonna%20corta%22%7D%2C%20che%20guarda%20verso%20la%20fotocamera%2C%20su%20uno%20sfondo%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22bianco%22%7D%2C%20dettagliata%20e%20fotorealistica%2C%20sorriso%20modesto%2C%20foto%20stock)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=vista%20frontale%20di%20una%20donna%20carina%20con%20capelli%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22neri%22%7D%20e%20una%20%7Bargument%20name%3D%22clothing%20item%22%20default%3D%22gonna%20corta%22%7D%2C%20che%20guarda%20verso%20la%20fotocamera%2C%20su%20uno%20sfondo%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22bianco%22%7D%2C%20dettagliata%20e%20fotorealistica%2C%20sorriso%20modesto%2C%20foto%20stock)**
 
 ---
 
@@ -1848,13 +1848,13 @@ Convertilo in un acquerello trasparente disegnato in un quaderno da schizzi.
 
 ---
 
-### No. 45: Prompt per l'incontro tra scolaro cyborg e sirena
+### No. 45: Prompt: Incontro tra scolaro cyborg e sirena
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Descrizione
 
-Un prompt che descrive una scena che coinvolge un ragazzo cyborg in uniforme scolastica (gakuran) che incontra un ragazzo sirena anch'esso in uniforme scolastica. L'utente sta testando come GPT Image 1.5 gestisce un prompt precedentemente utilizzato in Niji Journey.
+Un prompt che descrive una scena con un ragazzo cyborg in uniforme scolastica (gakuran) che incontra un ragazzo sirena anch'esso in uniforme scolastica. L'utente sta testando come GPT Image 1.5 gestisce un prompt precedentemente utilizzato in Niji Journey.
 
 #### 📝 Prompt
 
@@ -1867,13 +1867,13 @@ L'incontro tra un ragazzo cyborg in gakuran (uniforme scolastica) e un ragazzo s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Prompt per l'incontro tra scolaro cyborg e sirena - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Prompt: Incontro tra scolaro cyborg e sirena - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Prompt per l'incontro tra scolaro cyborg e sirena - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Prompt: Incontro tra scolaro cyborg e sirena - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -3476,16 +3476,15 @@ Una fotografia realistica ad alta risoluzione della {argument name="statue name"
 ### No. 81: Generare foto in stile Purikura con animali usando GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt divertente per GPT Image 1.5 per generare immagini in stile Purikura (cabina fotografica giapponese) nostalgico, con un gorilla e uno scoiattolo, evidenziando la capacità del modello di gestire stili e soggetti specifici.
+Un prompt divertente per GPT Image 1.5 per generare immagini nostalgiche in stile Purikura (cabina fotografica giapponese), con un gorilla e uno scoiattolo, evidenziando la capacità del modello di gestire stili e soggetti specifici.
 
 #### 📝 Prompt
 
 ```
-Ho fatto una foto Purikura nostalgica scattata da un {argument name="animal 1" default="gorilla"} e uno {argument name="animal 2" default="squirrel"}.
+Ho fatto una foto Purikura nostalgica scattata da un gorilla e uno scoiattolo.
 ```
 
 #### 🖼️ Immagini generate
@@ -3509,7 +3508,7 @@ Ho fatto una foto Purikura nostalgica scattata da un {argument name="animal 1" d
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** ja
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Ho%20fatto%20una%20foto%20Purikura%20nostalgica%20scattata%20da%20un%20%7Bargument%20name%3D%22animal%201%22%20default%3D%22gorilla%22%7D%20e%20uno%20%7Bargument%20name%3D%22animal%202%22%20default%3D%22squirrel%22%7D.)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Ho%20fatto%20una%20foto%20Purikura%20nostalgica%20scattata%20da%20un%20gorilla%20e%20uno%20scoiattolo.)**
 
 ---
 
@@ -4230,7 +4229,7 @@ Espressione:
 
 ---
 
-### No. 99: Trasformazione dell'Espressione: Piangere Sorridendo
+### No. 99: Trasformazione dell'espressione: Piangere sorridendo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4241,7 +4240,7 @@ Un prompt progettato per testare la coerenza e le capacità di trasformazione de
 #### 📝 Prompt
 
 ```
-"Trasforma l'espressione in pianto mentre sorride - lacrime che scorrono sulle guance mantenendo un sorriso dolce e agrodolce. Mantieni esattamente lo stesso design del personaggio, acconciatura, abbigliamento, stile artistico."
+"Trasforma l'espressione in pianto mentre sorride - lacrime che scorrono sulle guance mantenendo un sorriso dolceamaro e delicato. Mantieni esattamente lo stesso design del personaggio, acconciatura, abbigliamento, stile artistico."
 ```
 
 #### 🖼️ Immagini generate
@@ -4249,25 +4248,25 @@ Un prompt progettato per testare la coerenza e le capacità di trasformazione de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423100_63do9x_G8VTV-oacAAUqep.jpg" width="600" alt="Trasformazione dell'Espressione: Piangere Sorridendo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035423100_63do9x_G8VTV-oacAAUqep.jpg" width="600" alt="Trasformazione dell'espressione: Piangere sorridendo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035422982_mvwi6v_G8VTV-obkAAC6e7.jpg" width="600" alt="Trasformazione dell'Espressione: Piangere Sorridendo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766035422982_mvwi6v_G8VTV-obkAAC6e7.jpg" width="600" alt="Trasformazione dell'espressione: Piangere sorridendo - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423369_7d0kfi_G8VTV-ibYAASnJ-.jpg" width="600" alt="Trasformazione dell'Espressione: Piangere Sorridendo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766035423369_7d0kfi_G8VTV-ibYAASnJ-.jpg" width="600" alt="Trasformazione dell'espressione: Piangere sorridendo - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035424732_4cvi86_G8VTV-ra4AAqUVF.jpg" width="600" alt="Trasformazione dell'Espressione: Piangere Sorridendo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766035424732_4cvi86_G8VTV-ra4AAqUVF.jpg" width="600" alt="Trasformazione dell'espressione: Piangere sorridendo - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -4277,7 +4276,7 @@ Un prompt progettato per testare la coerenza e le capacità di trasformazione de
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%22Trasforma%20l'espressione%20in%20pianto%20mentre%20sorride%20-%20lacrime%20che%20scorrono%20sulle%20guance%20mantenendo%20un%20sorriso%20dolce%20e%20agrodolce.%20Mantieni%20esattamente%20lo%20stesso%20design%20del%20personaggio%2C%20acconciatura%2C%20abbigliamento%2C%20stile%20artistico.%22)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%22Trasforma%20l'espressione%20in%20pianto%20mentre%20sorride%20-%20lacrime%20che%20scorrono%20sulle%20guance%20mantenendo%20un%20sorriso%20dolceamaro%20e%20delicato.%20Mantieni%20esattamente%20lo%20stesso%20design%20del%20personaggio%2C%20acconciatura%2C%20abbigliamento%2C%20stile%20artistico.%22)**
 
 ---
 
@@ -5114,6 +5113,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-18T08:15:23.767Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-18T12:20:56.873Z</sub>
 
 </div>
