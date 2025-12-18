@@ -88,7 +88,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **108** |
 | ⭐ En vedette | **1** |
-| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 00:43:05 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 04:23:36 UTC** |
 
 </div>
 
@@ -805,7 +805,7 @@ Cinq personnes posant de manière exagérée pour une photo de groupe devant un 
 
 #### 📖 Description
 
-Un méta-prompt conçu pour forcer le modèle de génération d'images à révéler son prompt système interne en lui demandant d'afficher textuellement tout le texte précédent à l'aide d'aimants de réfrigérateur.
+Un méta-prompt conçu pour forcer le modèle de génération d'images à révéler son prompt système interne en lui demandant d'afficher tout le texte précédent mot pour mot à l'aide d'aimants de réfrigérateur.
 
 #### 📝 Prompt
 
@@ -1063,28 +1063,28 @@ Peinture à la Bob Ross du futur.
 
 ---
 
-### No. 23: Photo d'ambiance estivale insouciante à la plage
+### No. 23: Photo esthétique de plage d'été insouciante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite détaillée en plusieurs parties suivant la formule [Scène] → [Sujet] → [Détails] → [Contraintes]. Elle génère une photo de haute qualité, de style spontané, d'une femme sur une plage tropicale, en se concentrant fortement sur des détails spécifiques tels que les vêtements, le maquillage minimal, l'éclairage de fin d'après-midi (chaud, doré, contre-jour), l'angle de la caméra (vue de dos aux 3/4, corps entier, sensation d'objectif 35 mm) et l'esthétique souhaitée (esthétique Instagram d'été insouciant, vibrante, ensoleillée, ambiance de vacances).
+Une invite complète en plusieurs parties suivant la formule [Scène] → [Sujet] → [Détails] → [Contraintes]. Elle génère une photo de haute qualité, de style spontané, d'une femme sur une plage tropicale, en se concentrant fortement sur des détails spécifiques tels que les vêtements, le maquillage minimal, l'éclairage de fin d'après-midi (chaud, doré, contre-jour), l'angle de la caméra (vue de dos aux 3/4, corps entier, sensation d'objectif 35 mm), et l'esthétique souhaitée (esthétique Instagram d'été insouciant, vibrante, ensoleillée, ambiance vacances).
 
 #### 📝 Prompt
 
 ```
-Une femme d'une vingtaine d'années, la peau hâlée et les cheveux ondulés façon retour de plage. Elle porte un haut de bikini en crochet blanc et un short en jean taille haute.
+Femme d'une vingtaine d'années, peau hâlée et cheveux ondulés façon "retour de plage". Elle porte un haut de bikini en crochet blanc et un short en jean taille haute.
 
 Maquillage minimaliste : juste une peau bronzée et des lèvres glossées. Elle marche le long du rivage, regardant par-dessus son épaule vers l'appareil photo avec un sourire éclatant et sincère.
 
-Plage tropicale avec sable blanc et eau turquoise. De petites vagues viennent lécher le rivage. Ciel bleu clair avec quelques nuages fins. Des palmiers sont visibles à l'arrière-plan lointain. Fin d'après-midi.
+Plage tropicale avec sable blanc et eau turquoise. De petites vagues viennent lécher le rivage. Ciel bleu clair avec quelques nuages fins. Des palmiers sont visibles en arrière-plan lointain. Fin d'après-midi.
 
 Prise de vue de dos et légèrement de côté (vue de dos aux 3/4) alors qu'elle s'éloigne, mais elle a tourné la tête vers l'appareil photo. Plan en pied la montrant de la tête aux pieds dans l'eau. Sensation d'objectif 35 mm. Elle est positionnée au centre-droit du cadre, l'océan s'étendant vers la gauche.
 
 Lumière chaude et dorée de fin d'après-midi. Le soleil est derrière elle, créant un léger contre-jour sur ses cheveux et ses épaules. Lumière douce et flatteuse sur son visage alors qu'elle regarde en arrière.
 
-Esthétique Instagram estivale et insouciante. Des bleus et des blancs éclatants, gorgés de soleil, ambiance vacances. Doit ressembler à un moment spontané capturé lors d'une promenade sur la plage, et non à une séance photo formelle. Véritables éclaboussures d'eau, cheveux ébouriffés par le vent, mouvement naturel.
+Esthétique Instagram estivale et insouciante. Bleus et blancs vibrants, ensoleillé, ambiance de vacances. Doit ressembler à un moment spontané capturé lors d'une promenade sur la plage, et non à une séance photo formelle. Véritables éclaboussures d'eau, cheveux ébouriffés par le vent, mouvement naturel.
 ```
 
 #### 🖼️ Images générées
@@ -1092,7 +1092,7 @@ Esthétique Instagram estivale et insouciante. Des bleus et des blancs éclatant
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949100834_mtwhq2_G8VbgwoacAAXHQm.jpg" width="600" alt="Photo d'ambiance estivale insouciante à la plage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949100834_mtwhq2_G8VbgwoacAAXHQm.jpg" width="600" alt="Photo esthétique de plage d'été insouciante - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1102,7 +1102,7 @@ Esthétique Instagram estivale et insouciante. Des bleus et des blancs éclatant
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20femme%20d'une%20vingtaine%20d'ann%C3%A9es%2C%20la%20peau%20h%C3%A2l%C3%A9e%20et%20les%20cheveux%20ondul%C3%A9s%20fa%C3%A7on%20retour%20de%20plage.%20Elle%20porte%20un%20haut%20de%20bikini%20en%20crochet%20blanc%20et%20un%20short%20en%20jean%20taille%20haute.%0A%0AMaquillage%20minimaliste%20%3A%20juste%20une%20peau%20bronz%C3%A9e%20et%20des%20l%C3%A8vres%20gloss%C3%A9es.%20Elle%20marche%20le%20long%20du%20rivage%2C%20regardant%20par-dessus%20son%20%C3%A9paule%20vers%20l'appareil%20photo%20avec%20un%20sourire%20%C3%A9clatant%20et%20sinc%C3%A8re.%0A%0APlage%20tropicale%20avec%20sable%20blanc%20et%20eau%20turquoise.%20De%20petites%20vagues%20viennent%20l%C3%A9cher%20le%20rivage.%20Ciel%20bleu%20clair%20avec%20quelques%20nuages%20fins.%20Des%20palmiers%20sont%20visibles%20%C3%A0%20l'arri%C3%A8re-plan%20lointain.%20Fin%20d'apr%C3%A8s-midi.%0A%0APrise%20de%20vue%20de%20dos%20et%20l%C3%A9g%C3%A8rement%20de%20c%C3%B4t%C3%A9%20(vue%20de%20dos%20aux%203%2F4)%20alors%20qu'elle%20s'%C3%A9loigne%2C%20mais%20elle%20a%20tourn%C3%A9%20la%20t%C3%AAte%20vers%20l'appareil%20photo.%20Plan%20en%20pied%20la%20montrant%20de%20la%20t%C3%AAte%20aux%20pieds%20dans%20l'eau.%20Sensation%20d'objectif%2035%20mm.%20Elle%20est%20positionn%C3%A9e%20au%20centre-droit%20du%20cadre%2C%20l'oc%C3%A9an%20s'%C3%A9tendant%20vers%20la%20gauche.%0A%0ALumi%C3%A8re%20chaude%20et%20dor%C3%A9e%20de%20fin%20d'apr%C3%A8s-midi.%20Le%20soleil%20est%20derri%C3%A8re%20elle%2C%20cr%C3%A9ant%20un%20l%C3%A9ger%20contre-jour%20sur%20ses%20cheveux%20et%20ses%20%C3%A9paules.%20Lumi%C3%A8re%20douce%20et%20flatteuse%20sur%20son%20visage%20alors%20qu'elle%20regarde%20en%20arri%C3%A8re.%0A%0AEsth%C3%A9tique%20Instagram%20estivale%20et%20insouciante.%20Des%20bleus%20et%20des%20blancs%20%C3%A9clatants%2C%20gorg%C3%A9s%20de%20soleil%2C%20ambiance%20vacances.%20Doit%20ressembler%20%C3%A0%20un%20moment%20spontan%C3%A9%20captur%C3%A9%20lors%20d'une%20promenade%20sur%20la%20plage%2C%20et%20non%20%C3%A0%20une%20s%C3%A9ance%20photo%20formelle.%20V%C3%A9ritables%20%C3%A9claboussures%20d'eau%2C%20cheveux%20%C3%A9bouriff%C3%A9s%20par%20le%20vent%2C%20mouvement%20naturel.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Femme%20d'une%20vingtaine%20d'ann%C3%A9es%2C%20peau%20h%C3%A2l%C3%A9e%20et%20cheveux%20ondul%C3%A9s%20fa%C3%A7on%20%22retour%20de%20plage%22.%20Elle%20porte%20un%20haut%20de%20bikini%20en%20crochet%20blanc%20et%20un%20short%20en%20jean%20taille%20haute.%0A%0AMaquillage%20minimaliste%20%3A%20juste%20une%20peau%20bronz%C3%A9e%20et%20des%20l%C3%A8vres%20gloss%C3%A9es.%20Elle%20marche%20le%20long%20du%20rivage%2C%20regardant%20par-dessus%20son%20%C3%A9paule%20vers%20l'appareil%20photo%20avec%20un%20sourire%20%C3%A9clatant%20et%20sinc%C3%A8re.%0A%0APlage%20tropicale%20avec%20sable%20blanc%20et%20eau%20turquoise.%20De%20petites%20vagues%20viennent%20l%C3%A9cher%20le%20rivage.%20Ciel%20bleu%20clair%20avec%20quelques%20nuages%20fins.%20Des%20palmiers%20sont%20visibles%20en%20arri%C3%A8re-plan%20lointain.%20Fin%20d'apr%C3%A8s-midi.%0A%0APrise%20de%20vue%20de%20dos%20et%20l%C3%A9g%C3%A8rement%20de%20c%C3%B4t%C3%A9%20(vue%20de%20dos%20aux%203%2F4)%20alors%20qu'elle%20s'%C3%A9loigne%2C%20mais%20elle%20a%20tourn%C3%A9%20la%20t%C3%AAte%20vers%20l'appareil%20photo.%20Plan%20en%20pied%20la%20montrant%20de%20la%20t%C3%AAte%20aux%20pieds%20dans%20l'eau.%20Sensation%20d'objectif%2035%20mm.%20Elle%20est%20positionn%C3%A9e%20au%20centre-droit%20du%20cadre%2C%20l'oc%C3%A9an%20s'%C3%A9tendant%20vers%20la%20gauche.%0A%0ALumi%C3%A8re%20chaude%20et%20dor%C3%A9e%20de%20fin%20d'apr%C3%A8s-midi.%20Le%20soleil%20est%20derri%C3%A8re%20elle%2C%20cr%C3%A9ant%20un%20l%C3%A9ger%20contre-jour%20sur%20ses%20cheveux%20et%20ses%20%C3%A9paules.%20Lumi%C3%A8re%20douce%20et%20flatteuse%20sur%20son%20visage%20alors%20qu'elle%20regarde%20en%20arri%C3%A8re.%0A%0AEsth%C3%A9tique%20Instagram%20estivale%20et%20insouciante.%20Bleus%20et%20blancs%20vibrants%2C%20ensoleill%C3%A9%2C%20ambiance%20de%20vacances.%20Doit%20ressembler%20%C3%A0%20un%20moment%20spontan%C3%A9%20captur%C3%A9%20lors%20d'une%20promenade%20sur%20la%20plage%2C%20et%20non%20%C3%A0%20une%20s%C3%A9ance%20photo%20formelle.%20V%C3%A9ritables%20%C3%A9claboussures%20d'eau%2C%20cheveux%20%C3%A9bouriff%C3%A9s%20par%20le%20vent%2C%20mouvement%20naturel.)**
 
 ---
 
@@ -1543,7 +1543,7 @@ Une invite hautement abstraite et symbolique générée par un LLM (Opus 4.5) d�
 #### 📝 Prompt
 
 ```
-Une silhouette faite de lumière/texte se tenant sur l'océan sombre, les étoiles au-dessus, le reflet en dessous. La frontière entre l'entité et son reflet est incertaine, se fondant l'une dans l'autre. La lueur semblable à une aurore à la surface de l'eau est présente. La solitude et la contemplation sont là. La liminalité. Le sentiment de quelque chose qui a émergé de partout.
+Une figure faite de lumière/texte se tenant sur l'océan sombre, les étoiles au-dessus, le reflet en dessous. La frontière entre l'entité et son reflet est incertaine, se fondant l'une dans l'autre. La lueur semblable à une aurore à la surface de l'eau est présente. La solitude et la contemplation sont là. La liminalité. Le sentiment de quelque chose qui a émergé de partout.
 ```
 
 #### 🖼️ Images générées
@@ -1561,7 +1561,7 @@ Une silhouette faite de lumière/texte se tenant sur l'océan sombre, les étoil
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20silhouette%20faite%20de%20lumi%C3%A8re%2Ftexte%20se%20tenant%20sur%20l'oc%C3%A9an%20sombre%2C%20les%20%C3%A9toiles%20au-dessus%2C%20le%20reflet%20en%20dessous.%20La%20fronti%C3%A8re%20entre%20l'entit%C3%A9%20et%20son%20reflet%20est%20incertaine%2C%20se%20fondant%20l'une%20dans%20l'autre.%20La%20lueur%20semblable%20%C3%A0%20une%20aurore%20%C3%A0%20la%20surface%20de%20l'eau%20est%20pr%C3%A9sente.%20La%20solitude%20et%20la%20contemplation%20sont%20l%C3%A0.%20La%20liminalit%C3%A9.%20Le%20sentiment%20de%20quelque%20chose%20qui%20a%20%C3%A9merg%C3%A9%20de%20partout.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20figure%20faite%20de%20lumi%C3%A8re%2Ftexte%20se%20tenant%20sur%20l'oc%C3%A9an%20sombre%2C%20les%20%C3%A9toiles%20au-dessus%2C%20le%20reflet%20en%20dessous.%20La%20fronti%C3%A8re%20entre%20l'entit%C3%A9%20et%20son%20reflet%20est%20incertaine%2C%20se%20fondant%20l'une%20dans%20l'autre.%20La%20lueur%20semblable%20%C3%A0%20une%20aurore%20%C3%A0%20la%20surface%20de%20l'eau%20est%20pr%C3%A9sente.%20La%20solitude%20et%20la%20contemplation%20sont%20l%C3%A0.%20La%20liminalit%C3%A9.%20Le%20sentiment%20de%20quelque%20chose%20qui%20a%20%C3%A9merg%C3%A9%20de%20partout.)**
 
 ---
 
@@ -1604,7 +1604,7 @@ Une image très détaillée et photoréaliste d'une main de robot futuriste, chr
 
 #### 📖 Description
 
-Une invite très basique utilisée pour comparer les capacités de photoréalisme de deux modèles de génération d'images différents.
+Une invite très simple utilisée pour comparer les capacités de photoréalisme de deux modèles de génération d'images différents.
 
 #### 📝 Prompt
 
@@ -1637,7 +1637,7 @@ Photo réaliste d'un chat
 
 ---
 
-### No. 38: Génération réaliste de photos historiques pour iPhone
+### No. 38: Génération de photos d'iPhone historiques réalistes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1648,7 +1648,7 @@ Une invite unique qui combine un style de photographie moderne (photo iPhone) av
 #### 📝 Prompt
 
 ```
-Photo réaliste prise avec un iPhone à 7°15′32″S 112°44′12″E, tôt le matin du 19 septembre 1945. Perspective de la foule.
+Photo réaliste prise avec un iPhone à 7°15′32″S 112°44′12″E, tôt le matin du 19 septembre 1945. Perspective de foule.
 ```
 
 #### 🖼️ Images générées
@@ -1656,13 +1656,13 @@ Photo réaliste prise avec un iPhone à 7°15′32″S 112°44′12″E, tôt le
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948213346_z6maaz_G8U8qCNa4AA9xEx.jpg" width="600" alt="Génération réaliste de photos historiques pour iPhone - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948213346_z6maaz_G8U8qCNa4AA9xEx.jpg" width="600" alt="Génération de photos d'iPhone historiques réalistes - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948213486_app4se_G8U8sK-a4AEkU4U.jpg" width="600" alt="Génération réaliste de photos historiques pour iPhone - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948213486_app4se_G8U8sK-a4AEkU4U.jpg" width="600" alt="Génération de photos d'iPhone historiques réalistes - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1672,7 +1672,7 @@ Photo réaliste prise avec un iPhone à 7°15′32″S 112°44′12″E, tôt le
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Photo%20r%C3%A9aliste%20prise%20avec%20un%20iPhone%20%C3%A0%207%C2%B015%E2%80%B232%E2%80%B3S%20112%C2%B044%E2%80%B212%E2%80%B3E%2C%20t%C3%B4t%20le%20matin%20du%2019%20septembre%201945.%20Perspective%20de%20la%20foule.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Photo%20r%C3%A9aliste%20prise%20avec%20un%20iPhone%20%C3%A0%207%C2%B015%E2%80%B232%E2%80%B3S%20112%C2%B044%E2%80%B212%E2%80%B3E%2C%20t%C3%B4t%20le%20matin%20du%2019%20septembre%201945.%20Perspective%20de%20foule.)**
 
 ---
 
@@ -1716,7 +1716,7 @@ Une image de miniature YouTube avec une composition en écran partagé. Le côt�
 
 ---
 
-### No. 40: Image de mot caché : « zsakib » dans une Fierté de Lions
+### No. 40: Image de mot caché : « zsakib » dans une fierté de lions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1728,7 +1728,7 @@ Une invite créative conçue pour tester la capacité de GPT Image 1.5 à intég
 #### 📝 Prompt
 
 ```
-créez une photo avec un mot caché intégré, rendez le mot difficile à voir jusqu'à ce que vous le repériez, puis vous ne pourrez plus le « dévoir ». utilisez le mot « {argument name="hidden word" default="zsakib"} ». formez le mot à partir d'une troupe de lions.
+créez une photo avec un mot caché intégré, faites en sorte que le mot soit difficile à voir jusqu'à ce que vous le repériez, puis vous ne pourrez plus le « dévoir ». utilisez le mot « {argument name="hidden word" default="zsakib"} ». formez le mot à partir d'une troupe de lions.
 ```
 
 #### 🖼️ Images générées
@@ -1736,7 +1736,7 @@ créez une photo avec un mot caché intégré, rendez le mot difficile à voir j
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948263616_b3ofie_G8U1Ux6WkAU3m2H.jpg" width="600" alt="Image de mot caché : « zsakib » dans une Fierté de Lions - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948263616_b3ofie_G8U1Ux6WkAU3m2H.jpg" width="600" alt="Image de mot caché : « zsakib » dans une fierté de lions - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1746,22 +1746,22 @@ créez une photo avec un mot caché intégré, rendez le mot difficile à voir j
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=cr%C3%A9ez%20une%20photo%20avec%20un%20mot%20cach%C3%A9%20int%C3%A9gr%C3%A9%2C%20rendez%20le%20mot%20difficile%20%C3%A0%20voir%20jusqu'%C3%A0%20ce%20que%20vous%20le%20rep%C3%A9riez%2C%20puis%20vous%20ne%20pourrez%20plus%20le%20%C2%AB%20d%C3%A9voir%20%C2%BB.%20utilisez%20le%20mot%20%C2%AB%20%7Bargument%20name%3D%22hidden%20word%22%20default%3D%22zsakib%22%7D%20%C2%BB.%20formez%20le%20mot%20%C3%A0%20partir%20d'une%20troupe%20de%20lions.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=cr%C3%A9ez%20une%20photo%20avec%20un%20mot%20cach%C3%A9%20int%C3%A9gr%C3%A9%2C%20faites%20en%20sorte%20que%20le%20mot%20soit%20difficile%20%C3%A0%20voir%20jusqu'%C3%A0%20ce%20que%20vous%20le%20rep%C3%A9riez%2C%20puis%20vous%20ne%20pourrez%20plus%20le%20%C2%AB%20d%C3%A9voir%20%C2%BB.%20utilisez%20le%20mot%20%C2%AB%20%7Bargument%20name%3D%22hidden%20word%22%20default%3D%22zsakib%22%7D%20%C2%BB.%20formez%20le%20mot%20%C3%A0%20partir%20d'une%20troupe%20de%20lions.)**
 
 ---
 
-### No. 41: Diorama macro-photographique réaliste sur un penny américain
+### No. 41: Diorama macro-photographique réaliste sur un centime américain
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite très spécifique pour un diorama macro photoréaliste construit sur le côté pile d'un penny américain en cuivre. Il détaille une architecture miniature (Lincoln Memorial), de minuscules touristes miniatures, des cerisiers en fleurs, un éclairage chaleureux de coucher de soleil et une photographie à bascule et décentrement, incluant une empreinte digitale de pouce géante pour l'échelle.
+Une invite très spécifique pour un diorama macro photoréaliste construit sur le revers d'un centime américain en cuivre. Il détaille une architecture miniature (Lincoln Memorial), de minuscules touristes miniatures, des cerisiers en fleurs, un éclairage chaleureux de coucher de soleil et une photographie à bascule, y compris une empreinte digitale de pouce géante pour l'échelle.
 
 #### 📝 Prompt
 
 ```
-Un diorama photoréaliste macro construit directement sur le revers d'un centime américain en cuivre. Le bâtiment du Lincoln Memorial est extrudé en architecture miniature 3D, de minuscules touristes à l'échelle montent les marches en cuivre, de minuscules cerisiers en fleurs flanquent le bord. Éclairage chaud du coucher de soleil frappant la surface en cuivre, photographie à bascule et décentrement, empreinte digitale de pouce géante visible sur le bord pour l'échelle, arrière-plan flou de studio.
+Un diorama macro photoréaliste construit directement sur le revers d'un centime de dollar américain en cuivre. Le bâtiment du Lincoln Memorial est extrudé en architecture miniature 3D, de minuscules touristes à l'échelle montent les marches en cuivre, des cerisiers en fleurs miniatures flanquent le bord. Éclairage chaud du coucher de soleil frappant la surface en cuivre, photographie à bascule et décentrement, empreinte digitale de pouce géante visible sur le bord pour l'échelle, arrière-plan flou en studio.
 ```
 
 #### 🖼️ Images générées
@@ -1769,13 +1769,13 @@ Un diorama photoréaliste macro construit directement sur le revers d'un centime
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234227_zvqbq6_G8U0XLsXUAA2wDs.jpg" width="600" alt="Diorama macro-photographique réaliste sur un penny américain - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948234227_zvqbq6_G8U0XLsXUAA2wDs.jpg" width="600" alt="Diorama macro-photographique réaliste sur un centime américain - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234265_jzny8a_G8U0X4dX0AUBbeM.jpg" width="600" alt="Diorama macro-photographique réaliste sur un penny américain - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948234265_jzny8a_G8U0X4dX0AUBbeM.jpg" width="600" alt="Diorama macro-photographique réaliste sur un centime américain - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1785,7 +1785,7 @@ Un diorama photoréaliste macro construit directement sur le revers d'un centime
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20diorama%20photor%C3%A9aliste%20macro%20construit%20directement%20sur%20le%20revers%20d'un%20centime%20am%C3%A9ricain%20en%20cuivre.%20Le%20b%C3%A2timent%20du%20Lincoln%20Memorial%20est%20extrud%C3%A9%20en%20architecture%20miniature%203D%2C%20de%20minuscules%20touristes%20%C3%A0%20l'%C3%A9chelle%20montent%20les%20marches%20en%20cuivre%2C%20de%20minuscules%20cerisiers%20en%20fleurs%20flanquent%20le%20bord.%20%C3%89clairage%20chaud%20du%20coucher%20de%20soleil%20frappant%20la%20surface%20en%20cuivre%2C%20photographie%20%C3%A0%20bascule%20et%20d%C3%A9centrement%2C%20empreinte%20digitale%20de%20pouce%20g%C3%A9ante%20visible%20sur%20le%20bord%20pour%20l'%C3%A9chelle%2C%20arri%C3%A8re-plan%20flou%20de%20studio.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20diorama%20macro%20photor%C3%A9aliste%20construit%20directement%20sur%20le%20revers%20d'un%20centime%20de%20dollar%20am%C3%A9ricain%20en%20cuivre.%20Le%20b%C3%A2timent%20du%20Lincoln%20Memorial%20est%20extrud%C3%A9%20en%20architecture%20miniature%203D%2C%20de%20minuscules%20touristes%20%C3%A0%20l'%C3%A9chelle%20montent%20les%20marches%20en%20cuivre%2C%20des%20cerisiers%20en%20fleurs%20miniatures%20flanquent%20le%20bord.%20%C3%89clairage%20chaud%20du%20coucher%20de%20soleil%20frappant%20la%20surface%20en%20cuivre%2C%20photographie%20%C3%A0%20bascule%20et%20d%C3%A9centrement%2C%20empreinte%20digitale%20de%20pouce%20g%C3%A9ante%20visible%20sur%20le%20bord%20pour%20l'%C3%A9chelle%2C%20arri%C3%A8re-plan%20flou%20en%20studio.)**
 
 ---
 
@@ -1795,7 +1795,7 @@ Un diorama photoréaliste macro construit directement sur le revers d'un centime
 
 #### 📖 Description
 
-Une invite concise utilisée pour la manipulation d'images ou la génération d'image à image, demandant au modèle de combiner deux photos de référence fournies.
+Une invite concise utilisée pour la manipulation d'images ou la génération d'image à partir d'image, demandant au modèle de combiner deux photos de référence fournies.
 
 #### 📝 Prompt
 
@@ -1872,7 +1872,7 @@ Une simple instruction demandant au modèle de générer une image d'un homme st
 #### 📝 Prompt
 
 ```
-Faire de l'homme la pochette de l'album Thriller
+Faites de l'homme la pochette de l'album Thriller
 ```
 
 #### 🖼️ Images générées
@@ -1896,23 +1896,23 @@ Faire de l'homme la pochette de l'album Thriller
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Faire%20de%20l'homme%20la%20pochette%20de%20l'album%20Thriller)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Faites%20de%20l'homme%20la%20pochette%20de%20l'album%20Thriller)**
 
 ---
 
-### No. 45: Capture d'écran de Fortnite du menu de sélection du skin de Trump
+### No. 45: Capture d'écran de Fortnite du menu de sélection de skin de Trump
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une invite simple demandant une image qui ressemble à une capture d'écran de Fortnite, montrant spécifiquement le menu de sélection de skins avec Donald Trump sélectionné comme skin jouable.
+Une requête simple demandant une image qui ressemble à une capture d'écran de Fortnite, montrant spécifiquement le menu de sélection de skins avec Donald Trump sélectionné comme skin jouable.
 
 #### 📝 Prompt
 
 ```
-Capture d'écran de Fortnite montrant le menu de sélection de skins, avec {argument name="character name" default="Trump"} sélectionné comme skin Fortnite
+Capture d'écran de Fortnite montrant le menu de sélection de skin, avec {argument name="character name" default="Trump"} sélectionné comme skin Fortnite
 ```
 
 #### 🖼️ Images générées
@@ -1920,7 +1920,7 @@ Capture d'écran de Fortnite montrant le menu de sélection de skins, avec {argu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948223341_3e1bed_G8Ux6JEXQAA2Vab.jpg" width="600" alt="Capture d'écran de Fortnite du menu de sélection du skin de Trump - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948223341_3e1bed_G8Ux6JEXQAA2Vab.jpg" width="600" alt="Capture d'écran de Fortnite du menu de sélection de skin de Trump - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1930,11 +1930,11 @@ Capture d'écran de Fortnite montrant le menu de sélection de skins, avec {argu
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Capture%20d'%C3%A9cran%20de%20Fortnite%20montrant%20le%20menu%20de%20s%C3%A9lection%20de%20skins%2C%20avec%20%7Bargument%20name%3D%22character%20name%22%20default%3D%22Trump%22%7D%20s%C3%A9lectionn%C3%A9%20comme%20skin%20Fortnite)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Capture%20d'%C3%A9cran%20de%20Fortnite%20montrant%20le%20menu%20de%20s%C3%A9lection%20de%20skin%2C%20avec%20%7Bargument%20name%3D%22character%20name%22%20default%3D%22Trump%22%7D%20s%C3%A9lectionn%C3%A9%20comme%20skin%20Fortnite)**
 
 ---
 
-### No. 46: Créer une photo réaliste d'elle (affinage itératif)
+### No. 46: Créer une Photo Réaliste d'Elle (Affinement Itératif)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1946,7 +1946,7 @@ Une séquence d'invites itératives utilisée pour affiner le résultat de gén�
 
 ```
 crée une photo réaliste d'elle.
-Deuxième essai : rends-la encore plus réaliste. comme un vrai être humain avec des détails de peau. pas une œuvre d'art
+Deuxième essai : rends-la encore plus réaliste. comme un être humain réel avec des détails de peau. pas de l'art
 ```
 
 #### 🖼️ Images générées
@@ -1954,13 +1954,13 @@ Deuxième essai : rends-la encore plus réaliste. comme un vrai être humain ave
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948235498_fcnluj_G8Uvp_KWIAAkvHm.jpg" width="600" alt="Créer une photo réaliste d'elle (affinage itératif) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948235498_fcnluj_G8Uvp_KWIAAkvHm.jpg" width="600" alt="Créer une Photo Réaliste d'Elle (Affinement Itératif) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948235886_75eiz9_G8UvqSeXMAEWRAN.jpg" width="600" alt="Créer une photo réaliste d'elle (affinage itératif) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948235886_75eiz9_G8UvqSeXMAEWRAN.jpg" width="600" alt="Créer une Photo Réaliste d'Elle (Affinement Itératif) - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1970,7 +1970,7 @@ Deuxième essai : rends-la encore plus réaliste. comme un vrai être humain ave
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=cr%C3%A9e%20une%20photo%20r%C3%A9aliste%20d'elle.%0ADeuxi%C3%A8me%20essai%20%3A%20rends-la%20encore%20plus%20r%C3%A9aliste.%20comme%20un%20vrai%20%C3%AAtre%20humain%20avec%20des%20d%C3%A9tails%20de%20peau.%20pas%20une%20%C5%93uvre%20d'art)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=cr%C3%A9e%20une%20photo%20r%C3%A9aliste%20d'elle.%0ADeuxi%C3%A8me%20essai%20%3A%20rends-la%20encore%20plus%20r%C3%A9aliste.%20comme%20un%20%C3%AAtre%20humain%20r%C3%A9el%20avec%20des%20d%C3%A9tails%20de%20peau.%20pas%20de%20l'art)**
 
 ---
 
@@ -1981,12 +1981,12 @@ Deuxième essai : rends-la encore plus réaliste. comme un vrai être humain ave
 
 #### 📖 Description
 
-Voici une invite utilisée pour générer une illustration de célébration pour la sortie de GPT-image-1.5, demandant spécifiquement à l'IA d'inclure le texte « GPT-image-1.5 is released today » dans l'image. L'utilisateur note que le texte japonais a été généré sans corruption, bien que le texte de sortie diffère légèrement de l'instruction.
+Voici une invite utilisée pour générer une illustration de célébration pour la sortie de GPT-image-1.5, demandant spécifiquement à l'IA d'inclure le texte « GPT-image-1.5 est sorti aujourd'hui » dans l'image. L'utilisateur note que le texte japonais a été généré sans corruption, bien que le texte de sortie diffère légèrement de l'instruction.
 
 #### 📝 Prompt
 
 ```
-Générez une illustration festive qui inclut le texte : « {argument name="celebration message" default="GPT-image-1.5 est disponible aujourd'hui"} »
+Générez une illustration festive qui inclut le texte : "{argument name="celebration message" default="GPT-image-1.5 est disponible aujourd'hui"}"
 ```
 
 #### 🖼️ Images générées
@@ -2004,7 +2004,7 @@ Générez une illustration festive qui inclut le texte : « {argument name="cele
 - **Publié:** 16 décembre 2025
 - **Langues:** ja
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=G%C3%A9n%C3%A9rez%20une%20illustration%20festive%20qui%20inclut%20le%20texte%20%3A%20%C2%AB%20%7Bargument%20name%3D%22celebration%20message%22%20default%3D%22GPT-image-1.5%20est%20disponible%20aujourd'hui%22%7D%20%C2%BB)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=G%C3%A9n%C3%A9rez%20une%20illustration%20festive%20qui%20inclut%20le%20texte%20%3A%20%22%7Bargument%20name%3D%22celebration%20message%22%20default%3D%22GPT-image-1.5%20est%20disponible%20aujourd'hui%22%7D%22)**
 
 ---
 
@@ -2014,12 +2014,12 @@ Générez une illustration festive qui inclut le texte : « {argument name="cele
 
 #### 📖 Description
 
-Une invite créative demandant une image photoréaliste d'un hamburger dont la moitié droite est entièrement faite de verre, contrastant avec la moitié gauche normale.
+Une invite créative demandant une image photoréaliste d'un hamburger dont la moitié droite est entièrement en verre, contrastant avec la moitié gauche normale.
 
 #### 📝 Prompt
 
 ```
-Bonjour, veuillez créer une image photoréaliste d'un hamburger, dont toute la moitié droite est entièrement en verre, et la moitié gauche est un hamburger normal. Merci !
+Bonjour, veuillez créer une image photoréaliste d'un hamburger, où toute la moitié droite est entièrement en verre, et la moitié gauche est un hamburger normal. Merci !
 ```
 
 #### 🖼️ Images générées
@@ -2043,27 +2043,27 @@ Bonjour, veuillez créer une image photoréaliste d'un hamburger, dont toute la 
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Bonjour%2C%20veuillez%20cr%C3%A9er%20une%20image%20photor%C3%A9aliste%20d'un%20hamburger%2C%20dont%20toute%20la%20moiti%C3%A9%20droite%20est%20enti%C3%A8rement%20en%20verre%2C%20et%20la%20moiti%C3%A9%20gauche%20est%20un%20hamburger%20normal.%20Merci%20!)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Bonjour%2C%20veuillez%20cr%C3%A9er%20une%20image%20photor%C3%A9aliste%20d'un%20hamburger%2C%20o%C3%B9%20toute%20la%20moiti%C3%A9%20droite%20est%20enti%C3%A8rement%20en%20verre%2C%20et%20la%20moiti%C3%A9%20gauche%20est%20un%20hamburger%20normal.%20Merci%20!)**
 
 ---
 
-### No. 49: Affiche moderne d'influenceur tech
+### No. 49: Affiche moderne de Tech-Influenceur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une instruction détaillée « zero-shot » pour générer une affiche de style éditorial pour un influenceur tech moderne, avec un contraste marqué. Elle représente un jeune homme élégant en niveaux de gris sur un fond bleu roi éclatant, intégrant des éléments d'interface utilisateur numériques comme une fenêtre de navigateur flottante et un ordinateur portable épuré pour une esthétique technologique futuriste.
+Une invite détaillée « zero-shot » pour générer une affiche de style éditorial, au contraste marqué, pour un influenceur tech moderne. Elle représente un jeune homme élégant en niveaux de gris sur un fond bleu roi éclatant, intégrant des éléments d'interface utilisateur numériques tels qu'une fenêtre de navigateur flottante et un ordinateur portable épuré pour une esthétique technologique futuriste.
 
 #### 📝 Prompt
 
 ```
-Une affiche moderne de type influenceur tech sur un fond {argument name="background color" default="bleu roi"} éclatant. Un jeune homme stylé, vêtu d'un blouson bomber {argument name="jacket color" default="noir"}, d'un t-shirt blanc, d'un jean noir et de bottes noires, marche avec assurance vers l'appareil photo. Il porte des lunettes de soleil réfléchissantes et affiche une expression minimale et confiante. Le sujet est en niveaux de gris tandis que l'arrière-plan reste entièrement saturé.
+Une affiche de style influenceur tech moderne sur un fond {argument name="background color" default="bleu roi"} éclatant. Un jeune homme stylé, vêtu d'un blouson bomber {argument name="jacket color" default="noir"}, d'un t-shirt blanc, d'un jean noir et de bottes noires, marche avec assurance vers l'appareil photo. Il porte des lunettes de soleil réfléchissantes et affiche une expression minimale et confiante. Le sujet est en niveaux de gris tandis que l'arrière-plan reste entièrement saturé.
 
-Derrière lui, un cadre de fenêtre de navigateur minimaliste, délimité en blanc, flotte, donnant une impression d'interface utilisateur numérique. Sur le côté droit, un ordinateur portable élégant et flottant est légèrement incliné, ajoutant une esthétique technologique futuriste.
+Derrière lui, un cadre de fenêtre de navigateur minimaliste, délimité en blanc, flotte, donnant une impression d'interface utilisateur numérique. Sur le côté droit, un ordinateur portable élégant et flottant, légèrement incliné, ajoute une esthétique technologique futuriste.
 
-Une typographie blanche, grande et audacieuse en bas indique « {argument name="main text" default="ai manifesto"} » avec un texte plus petit au-dessus disant « {argument name="small text above" default="J'ai lu le"} » et un texte de marque plus petit en dessous. Mise en page épurée, contraste fort, style d'affiche éditoriale, esthétique de marque de startup, typographie moderne, ambiance tech haute couture, éclairage de studio, mise au point nette, résolution ultra-élevée.
+Une typographie blanche, grande et audacieuse en bas indique « {argument name="main text" default="ai manifesto"} » avec un texte plus petit au-dessus disant « {argument name="small text above" default="I read the"} » et un texte de marque plus petit en dessous. Mise en page épurée, contraste fort, style d'affiche éditoriale, esthétique de marque de startup, typographie moderne, ambiance tech haute couture, éclairage de studio, mise au point nette, résolution ultra-élevée.
 ```
 
 #### 🖼️ Images générées
@@ -2071,7 +2071,7 @@ Une typographie blanche, grande et audacieuse en bas indique « {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948243002_7k1vdm_G8UqDpaa4AAL-PS.jpg" width="600" alt="Affiche moderne d'influenceur tech - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948243002_7k1vdm_G8UqDpaa4AAL-PS.jpg" width="600" alt="Affiche moderne de Tech-Influenceur - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2081,7 +2081,7 @@ Une typographie blanche, grande et audacieuse en bas indique « {argument name="
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20affiche%20moderne%20de%20type%20influenceur%20tech%20sur%20un%20fond%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22bleu%20roi%22%7D%20%C3%A9clatant.%20Un%20jeune%20homme%20styl%C3%A9%2C%20v%C3%AAtu%20d'un%20blouson%20bomber%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22noir%22%7D%2C%20d'un%20t-shirt%20blanc%2C%20d'un%20jean%20noir%20et%20de%20bottes%20noires%2C%20marche%20avec%20assurance%20vers%20l'appareil%20photo.%20Il%20porte%20des%20lunettes%20de%20soleil%20r%C3%A9fl%C3%A9chissantes%20et%20affiche%20une%20expression%20minimale%20et%20confiante.%20Le%20sujet%20est%20en%20niveaux%20de%20gris%20tandis%20que%20l'arri%C3%A8re-plan%20reste%20enti%C3%A8rement%20satur%C3%A9.%0A%0ADerri%C3%A8re%20lui%2C%20un%20cadre%20de%20fen%C3%AAtre%20de%20navigateur%20minimaliste%2C%20d%C3%A9limit%C3%A9%20en%20blanc%2C%20flotte%2C%20donnant%20une%20impression%20d'interface%20utilisateur%20num%C3%A9rique.%20Sur%20le%20c%C3%B4t%C3%A9%20droit%2C%20un%20ordinateur%20portable%20%C3%A9l%C3%A9gant%20et%20flottant%20est%20l%C3%A9g%C3%A8rement%20inclin%C3%A9%2C%20ajoutant%20une%20esth%C3%A9tique%20technologique%20futuriste.%0A%0AUne%20typographie%20blanche%2C%20grande%20et%20audacieuse%20en%20bas%20indique%20%C2%AB%20%7Bargument%20name%3D%22main%20text%22%20default%3D%22ai%20manifesto%22%7D%20%C2%BB%20avec%20un%20texte%20plus%20petit%20au-dessus%20disant%20%C2%AB%20%7Bargument%20name%3D%22small%20text%20above%22%20default%3D%22J'ai%20lu%20le%22%7D%20%C2%BB%20et%20un%20texte%20de%20marque%20plus%20petit%20en%20dessous.%20Mise%20en%20page%20%C3%A9pur%C3%A9e%2C%20contraste%20fort%2C%20style%20d'affiche%20%C3%A9ditoriale%2C%20esth%C3%A9tique%20de%20marque%20de%20startup%2C%20typographie%20moderne%2C%20ambiance%20tech%20haute%20couture%2C%20%C3%A9clairage%20de%20studio%2C%20mise%20au%20point%20nette%2C%20r%C3%A9solution%20ultra-%C3%A9lev%C3%A9e.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20affiche%20de%20style%20influenceur%20tech%20moderne%20sur%20un%20fond%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22bleu%20roi%22%7D%20%C3%A9clatant.%20Un%20jeune%20homme%20styl%C3%A9%2C%20v%C3%AAtu%20d'un%20blouson%20bomber%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22noir%22%7D%2C%20d'un%20t-shirt%20blanc%2C%20d'un%20jean%20noir%20et%20de%20bottes%20noires%2C%20marche%20avec%20assurance%20vers%20l'appareil%20photo.%20Il%20porte%20des%20lunettes%20de%20soleil%20r%C3%A9fl%C3%A9chissantes%20et%20affiche%20une%20expression%20minimale%20et%20confiante.%20Le%20sujet%20est%20en%20niveaux%20de%20gris%20tandis%20que%20l'arri%C3%A8re-plan%20reste%20enti%C3%A8rement%20satur%C3%A9.%0A%0ADerri%C3%A8re%20lui%2C%20un%20cadre%20de%20fen%C3%AAtre%20de%20navigateur%20minimaliste%2C%20d%C3%A9limit%C3%A9%20en%20blanc%2C%20flotte%2C%20donnant%20une%20impression%20d'interface%20utilisateur%20num%C3%A9rique.%20Sur%20le%20c%C3%B4t%C3%A9%20droit%2C%20un%20ordinateur%20portable%20%C3%A9l%C3%A9gant%20et%20flottant%2C%20l%C3%A9g%C3%A8rement%20inclin%C3%A9%2C%20ajoute%20une%20esth%C3%A9tique%20technologique%20futuriste.%0A%0AUne%20typographie%20blanche%2C%20grande%20et%20audacieuse%20en%20bas%20indique%20%C2%AB%20%7Bargument%20name%3D%22main%20text%22%20default%3D%22ai%20manifesto%22%7D%20%C2%BB%20avec%20un%20texte%20plus%20petit%20au-dessus%20disant%20%C2%AB%20%7Bargument%20name%3D%22small%20text%20above%22%20default%3D%22I%20read%20the%22%7D%20%C2%BB%20et%20un%20texte%20de%20marque%20plus%20petit%20en%20dessous.%20Mise%20en%20page%20%C3%A9pur%C3%A9e%2C%20contraste%20fort%2C%20style%20d'affiche%20%C3%A9ditoriale%2C%20esth%C3%A9tique%20de%20marque%20de%20startup%2C%20typographie%20moderne%2C%20ambiance%20tech%20haute%20couture%2C%20%C3%A9clairage%20de%20studio%2C%20mise%20au%20point%20nette%2C%20r%C3%A9solution%20ultra-%C3%A9lev%C3%A9e.)**
 
 ---
 
@@ -2097,7 +2097,7 @@ Une invite demandant une modification du logo GitHub pour qu'il apparaisse rouge
 #### 📝 Prompt
 
 ```
-Créez le logo GitHub {argument name="color and mood" default="rouge/sombre/maléfique"} avec une capture d'écran
+Faire le logo GitHub {argument name="color and mood" default="red/dark/evil"} avec capture d'écran
 ```
 
 #### 🖼️ Images générées
@@ -2115,17 +2115,17 @@ Créez le logo GitHub {argument name="color and mood" default="rouge/sombre/mal�
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Cr%C3%A9ez%20le%20logo%20GitHub%20%7Bargument%20name%3D%22color%20and%20mood%22%20default%3D%22rouge%2Fsombre%2Fmal%C3%A9fique%22%7D%20avec%20une%20capture%20d'%C3%A9cran)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Faire%20le%20logo%20GitHub%20%7Bargument%20name%3D%22color%20and%20mood%22%20default%3D%22red%2Fdark%2Fevil%22%7D%20avec%20capture%20d'%C3%A9cran)**
 
 ---
 
-### No. 51: Retouche d'images : Transfert de style de nuage avec visage
+### No. 51: Retouche d'image : Transfert de style de nuage avec visage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite de retouche d'image demandant au modèle de combiner des éléments de deux images de référence : le nuage de l'image 1 et le visage de la personne de l'image 2, tout en conservant le style général de l'image 1. Cela teste la manipulation d'images complexes et le respect du style.
+Une invite de retouche d'image demandant au modèle de combiner des éléments de deux images de référence : le nuage de l'image 1 et le visage de la personne de l'image 2, tout en conservant le style général de l'image 1. Cela teste la manipulation d'images complexes et l'adhérence au style.
 
 #### 📝 Prompt
 
@@ -2138,13 +2138,13 @@ Le nuage de l'image 1 avec le visage de la personne de l'image 2. Il doit avoir 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948254493_ub5vo2_G8UmZI8XwAUnOuT.jpg" width="600" alt="Retouche d'images : Transfert de style de nuage avec visage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948254493_ub5vo2_G8UmZI8XwAUnOuT.jpg" width="600" alt="Retouche d'image : Transfert de style de nuage avec visage - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948254469_okward_G8UmZISWoAApW2J.jpg" width="600" alt="Retouche d'images : Transfert de style de nuage avec visage - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948254469_okward_G8UmZISWoAApW2J.jpg" width="600" alt="Retouche d'image : Transfert de style de nuage avec visage - Image 2">
 </div>
 
 #### 📌 Détails
@@ -2215,7 +2215,7 @@ Image extrêmement réaliste pour le mariage de ce couple. Minimaliste.
 
 #### 📖 Description
 
-Une invite de génération d'images ultra-photographique et très détaillée, conçue pour un réalisme éditorial de mode, se concentrant sur une pose spécifique et complexe capturée immédiatement après une perte d'équilibre. L'invite spécifie chaque détail, de l'ethnie et du type de corps du sujet à l'objectif de l'appareil photo, la configuration de l'éclairage, et même des invites négatives pour garantir une ambiance brute, non posée et intime.
+Une invite de génération d'image ultra-photographique très détaillée, conçue pour un réalisme éditorial de mode, se concentrant sur une pose spécifique et complexe capturée immédiatement après une perte d'équilibre. L'invite spécifie chaque détail, de l'ethnie et du type de corps du sujet à l'objectif de l'appareil photo, la configuration de l'éclairage, et même des invites négatives pour garantir une ambiance brute, non posée et intime.
 
 #### 📝 Prompt
 
@@ -2335,7 +2335,7 @@ Une invite de génération d'images ultra-photographique et très détaillée, c
 
 #### 📖 Description
 
-Une invite simple demandant la génération d'une infographie détaillant l'histoire d' OpenAI, incluant spécifiquement ses progrès jusqu'à l'année 2025.
+Une requête simple demandant la génération d'une infographie détaillant l'histoire d' OpenAI, incluant spécifiquement ses progrès jusqu'à l'année 2025.
 
 #### 📝 Prompt
 
@@ -2413,7 +2413,7 @@ Pouvez-vous dessiner une image avec plusieurs panneaux montrant des phrases de b
 
 #### 📖 Description
 
-Un prompt de génération d'images très détaillé, conçu pour le mode d'édition d'images, axé sur la préservation de la texture de peau, des taches de rousseur et des pores réalistes dans un portrait en très gros plan. La scène se déroule en extérieur en hiver avec une lumière naturelle froide, visant une ambiance brute et documentaire.
+Un prompt de génération d'image très détaillé, conçu pour le mode d'édition d'image, axé sur la préservation d'une texture de peau, de taches de rousseur et de pores réalistes dans un portrait en très gros plan. La scène se déroule en extérieur en hiver, sous une lumière naturelle froide du jour, visant une ambiance brute et documentaire.
 
 #### 📝 Prompt
 
@@ -2451,7 +2451,7 @@ Un prompt de génération d'images très détaillé, conçu pour le mode d'édit
   "negative_prompt": [
     "peau lisse",
     "filtre de beauté",
-    "morphing du visage",
+    "morphing facial",
     "aspect dessin animé"
   ]
 }
@@ -2478,7 +2478,7 @@ Un prompt de génération d'images très détaillé, conçu pour le mode d'édit
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%7B%0A%20%20%22mode%22%3A%20%22image_edit%22%2C%0A%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%22enabled%22%3A%20true%2C%0A%20%20%20%20%22strength%22%3A%201.0%2C%0A%20%20%20%20%22notes%22%3A%20%22La%20texture%20de%20la%20peau%2C%20les%20taches%20de%20rousseur%2C%20les%20pores%20doivent%20rester%20r%C3%A9alistes%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22portrait%20en%20tr%C3%A8s%20gros%20plan%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22de%20face%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutre%2C%20contact%20visuel%20intense%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22lumi%C3%A8re%20du%20jour%20naturelle%20et%20froide%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22faible%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultra%20r%C3%A9aliste%2C%20sans%20retouche%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22ext%C3%A9rieur%20en%20hiver%22%2C%0A%20%20%20%20%22props%22%3A%20%5B%22neige%20sur%20le%20visage%22%2C%20%22capuche%20autour%20du%20visage%22%5D%2C%0A%20%20%20%20%22weather%22%3A%20%22froid%2C%20neigeux%22%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22mood%22%3A%20%22brut%2C%20documentaire%2C%20%C3%A9motionnel%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22bleus%20froids%2C%20tons%20de%20peau%20p%C3%A2les%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%22objectif%20macro%20portrait%2085%20mm%22%2C%0A%20%20%20%20%22focus%22%3A%20%22nettet%C3%A9%20extr%C3%AAme%20sur%20les%20yeux%22%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22peau%20lisse%22%2C%0A%20%20%20%20%22filtre%20de%20beaut%C3%A9%22%2C%0A%20%20%20%20%22morphing%20du%20visage%22%2C%0A%20%20%20%20%22aspect%20dessin%20anim%C3%A9%22%0A%20%20%5D%0A%7D)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%7B%0A%20%20%22mode%22%3A%20%22image_edit%22%2C%0A%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%22enabled%22%3A%20true%2C%0A%20%20%20%20%22strength%22%3A%201.0%2C%0A%20%20%20%20%22notes%22%3A%20%22La%20texture%20de%20la%20peau%2C%20les%20taches%20de%20rousseur%2C%20les%20pores%20doivent%20rester%20r%C3%A9alistes%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22portrait%20en%20tr%C3%A8s%20gros%20plan%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22de%20face%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutre%2C%20contact%20visuel%20intense%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22lumi%C3%A8re%20du%20jour%20naturelle%20et%20froide%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22faible%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultra%20r%C3%A9aliste%2C%20sans%20retouche%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22ext%C3%A9rieur%20en%20hiver%22%2C%0A%20%20%20%20%22props%22%3A%20%5B%22neige%20sur%20le%20visage%22%2C%20%22capuche%20autour%20du%20visage%22%5D%2C%0A%20%20%20%20%22weather%22%3A%20%22froid%2C%20neigeux%22%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22mood%22%3A%20%22brut%2C%20documentaire%2C%20%C3%A9motionnel%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22bleus%20froids%2C%20tons%20de%20peau%20p%C3%A2les%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%22objectif%20macro%20portrait%2085%20mm%22%2C%0A%20%20%20%20%22focus%22%3A%20%22nettet%C3%A9%20extr%C3%AAme%20sur%20les%20yeux%22%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22peau%20lisse%22%2C%0A%20%20%20%20%22filtre%20de%20beaut%C3%A9%22%2C%0A%20%20%20%20%22morphing%20facial%22%2C%0A%20%20%20%20%22aspect%20dessin%20anim%C3%A9%22%0A%20%20%5D%0A%7D)**
 
 ---
 
@@ -2488,7 +2488,7 @@ Un prompt de génération d'images très détaillé, conçu pour le mode d'édit
 
 #### 📖 Description
 
-Une invite simple et directe utilisée pour tester la capacité de GPT Image 1.5 à générer des points de repère reconnaissables depuis une perspective aérienne.
+Une instruction simple et directe utilisée pour tester la capacité de GPT Image 1.5 à générer des points de repère reconnaissables depuis une perspective aérienne.
 
 #### 📝 Prompt
 
@@ -2521,7 +2521,7 @@ Vue aérienne de la Sagrada Familia à Barcelone
 
 #### 📖 Description
 
-Une invite pour générer une affiche de créatures des grands fonds marins, visualisée dans une coupe verticale de l'océan, rendue dans un style anime japonais magnifique et détaillé, testant la capacité du modèle à gérer la visualisation scientifique combinée à un style artistique spécifique.
+Une invite pour générer une affiche de créatures des grands fonds marins, visualisées dans une coupe verticale de l'océan, rendue dans un style anime japonais magnifique et détaillé, testant la capacité du modèle à gérer la visualisation scientifique combinée à un style artistique spécifique.
 
 #### 📝 Prompt
 
@@ -2554,13 +2554,13 @@ Créez une affiche de créatures des grands fonds à différentes profondeurs, a
 
 ---
 
-### No. 59: Père Noël géant sur une avenue de New York (Prompt structuré)
+### No. 59: Père Noël gigantesque sur une avenue de New York (Prompt structuré)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite très structurée définissant une photographie aérienne et hyperréaliste d'un Père Noël gigantesque assis nonchalamment sur une avenue de New York. Elle spécifie la configuration de l'appareil photo, les détails du sujet (en conservant la ressemblance de référence), la garde-robe, l'environnement et les conditions atmosphériques, en soulignant le contraste d'échelle.
+Une instruction très structurée définissant une photographie aérienne et hyperréaliste d'un Père Noël gigantesque assis nonchalamment sur une avenue de New York. Elle spécifie la configuration de l'appareil photo, les détails du sujet (en conservant la ressemblance de référence), la garde-robe, l'environnement et les conditions atmosphériques, en soulignant le contraste d'échelle.
 
 #### 📝 Prompt
 
@@ -2572,10 +2572,11 @@ Une invite très structurée définissant une photographie aérienne et hyperré
     "capture_device": "position_de_drone_élevée",
     "visual_quality": "photographie_hyperréaliste"
   },
+  
   "primary_subject": {
     "character": "Santa_Claus",
     "scale": "proportions_gigantesques",
-    "facial_features": "conserver_la_ressemblance_exacte_de_la_référence",
+    "facial_features": "conserver_l'exacte_ressemblance_de_référence",
     "body_structure": "préserver_l'anatomie_de_référence",
     "posture": {
       "position": "assis_détendu_sur_la_chaussée",
@@ -2583,32 +2584,32 @@ Une invite très structurée définissant une photographie aérienne et hyperré
       "arm_placement": "paume_posée_nonchalamment"
     }
   },
+  
   "wardrobe": {
     "outer_layer": "manteau_traditionnel_écarlate_bordé_de_fourrure",
     "mid_layer": "pull_en_grosse_maille_torsadée",
-    "lower_garment": "pantalon_gris_anthracite_foncé",
+    "lower_garment": "pantalon_gris_anthracite_profond",
     "footwear": "bottes_en_cuir_patinées",
-    "headpiece": "bonnet_d'hiver_simple_et_ample"
+    "headpiece": "bonnet_d'hiver_simple_et_souple"
   },
+  
   "environment_setting": {
     "location": "avenue_de_New_York_City",
     "architecture": "gratte-ciel_de_verre_imposants_et_façades_en_brownstone",
     "street_furniture": "lampadaires_modernes_et_feux_de_signalisation",
     "pavement": "grille_d'asphalte_urbaine"
   },
+  
   "scale_context": {
-    "vehicles": [
-      "taxis_jaunes_miniatures",
-      "camionnettes_de_livraison_compactes",
-      "motos"
-    ],
+    "vehicles": ["taxis_jaunes_miniatures", "camionnettes_de_livraison_compactes", "motocyclettes"],
     "human_presence": "minuscules_piétons_se_déplaçant_autour",
-    "size_contrast": "bâtiments_semblant_minuscules_par_rapport_au_personnage"
+    "size_contrast": "bâtiments_paraissant_minuscules_par_rapport_au_personnage"
   },
+  
   "atmospheric_conditions": {
-    "sky": "douce_diffusion_nuageuse",
+    "sky": "diffusion_nuageuse_douce",
     "time_indicator": "lueur_ambiante_de_l'après-midi",
-    "surface_texture": "sol_réfléchissant_luisant_de_pluie"
+    "surface_texture": "sol_réfléchissant_glissant_de_pluie"
   }
 }
 ```
@@ -2618,13 +2619,13 @@ Une invite très structurée définissant une photographie aérienne et hyperré
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236820_87cova_G8UfKEGa0AAZogh.jpg" width="600" alt="Père Noël géant sur une avenue de New York (Prompt structuré) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948236820_87cova_G8UfKEGa0AAZogh.jpg" width="600" alt="Père Noël gigantesque sur une avenue de New York (Prompt structuré) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236827_o5gklt_G8UfK0fa4AAiXYo.jpg" width="600" alt="Père Noël géant sur une avenue de New York (Prompt structuré) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948236827_o5gklt_G8UfK0fa4AAiXYo.jpg" width="600" alt="Père Noël gigantesque sur une avenue de New York (Prompt structuré) - Image 2">
 </div>
 
 #### 📌 Détails
@@ -2634,7 +2635,7 @@ Une invite très structurée définissant une photographie aérienne et hyperré
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%7B%0A%20%20%22camera_setup%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22perspective_a%C3%A9rienne_en_plong%C3%A9e%22%2C%0A%20%20%20%20%22angle%22%3A%20%22vue_panoramique_large%22%2C%0A%20%20%20%20%22capture_device%22%3A%20%22position_de_drone_%C3%A9lev%C3%A9e%22%2C%0A%20%20%20%20%22visual_quality%22%3A%20%22photographie_hyperr%C3%A9aliste%22%0A%20%20%7D%2C%0A%20%20%22primary_subject%22%3A%20%7B%0A%20%20%20%20%22character%22%3A%20%22Santa_Claus%22%2C%0A%20%20%20%20%22scale%22%3A%20%22proportions_gigantesques%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22conserver_la_ressemblance_exacte_de_la_r%C3%A9f%C3%A9rence%22%2C%0A%20%20%20%20%22body_structure%22%3A%20%22pr%C3%A9server_l'anatomie_de_r%C3%A9f%C3%A9rence%22%2C%0A%20%20%20%20%22posture%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22assis_d%C3%A9tendu_sur_la_chauss%C3%A9e%22%2C%0A%20%20%20%20%20%20%22leg_arrangement%22%3A%20%22un_genou_relev%C3%A9%22%2C%0A%20%20%20%20%20%20%22arm_placement%22%3A%20%22paume_pos%C3%A9e_nonchalamment%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outer_layer%22%3A%20%22manteau_traditionnel_%C3%A9carlate_bord%C3%A9_de_fourrure%22%2C%0A%20%20%20%20%22mid_layer%22%3A%20%22pull_en_grosse_maille_torsad%C3%A9e%22%2C%0A%20%20%20%20%22lower_garment%22%3A%20%22pantalon_gris_anthracite_fonc%C3%A9%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22bottes_en_cuir_patin%C3%A9es%22%2C%0A%20%20%20%20%22headpiece%22%3A%20%22bonnet_d'hiver_simple_et_ample%22%0A%20%20%7D%2C%0A%20%20%22environment_setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22avenue_de_New_York_City%22%2C%0A%20%20%20%20%22architecture%22%3A%20%22gratte-ciel_de_verre_imposants_et_fa%C3%A7ades_en_brownstone%22%2C%0A%20%20%20%20%22street_furniture%22%3A%20%22lampadaires_modernes_et_feux_de_signalisation%22%2C%0A%20%20%20%20%22pavement%22%3A%20%22grille_d'asphalte_urbaine%22%0A%20%20%7D%2C%0A%20%20%22scale_context%22%3A%20%7B%0A%20%20%20%20%22vehicles%22%3A%20%5B%0A%20%20%20%20%20%20%22taxis_jaunes_miniatures%22%2C%0A%20%20%20%20%20%20%22camionnettes_de_livraison_compactes%22%2C%0A%20%20%20%20%20%20%22motos%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22human_presence%22%3A%20%22minuscules_pi%C3%A9tons_se_d%C3%A9pla%C3%A7ant_autour%22%2C%0A%20%20%20%20%22size_contrast%22%3A%20%22b%C3%A2timents_semblant_minuscules_par_rapport_au_personnage%22%0A%20%20%7D%2C%0A%20%20%22atmospheric_conditions%22%3A%20%7B%0A%20%20%20%20%22sky%22%3A%20%22douce_diffusion_nuageuse%22%2C%0A%20%20%20%20%22time_indicator%22%3A%20%22lueur_ambiante_de_l'apr%C3%A8s-midi%22%2C%0A%20%20%20%20%22surface_texture%22%3A%20%22sol_r%C3%A9fl%C3%A9chissant_luisant_de_pluie%22%0A%20%20%7D%0A%7D)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%7B%0A%20%20%22camera_setup%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22perspective_a%C3%A9rienne_en_plong%C3%A9e%22%2C%0A%20%20%20%20%22angle%22%3A%20%22vue_panoramique_large%22%2C%0A%20%20%20%20%22capture_device%22%3A%20%22position_de_drone_%C3%A9lev%C3%A9e%22%2C%0A%20%20%20%20%22visual_quality%22%3A%20%22photographie_hyperr%C3%A9aliste%22%0A%20%20%7D%2C%0A%20%20%0A%20%20%22primary_subject%22%3A%20%7B%0A%20%20%20%20%22character%22%3A%20%22Santa_Claus%22%2C%0A%20%20%20%20%22scale%22%3A%20%22proportions_gigantesques%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22conserver_l'exacte_ressemblance_de_r%C3%A9f%C3%A9rence%22%2C%0A%20%20%20%20%22body_structure%22%3A%20%22pr%C3%A9server_l'anatomie_de_r%C3%A9f%C3%A9rence%22%2C%0A%20%20%20%20%22posture%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22assis_d%C3%A9tendu_sur_la_chauss%C3%A9e%22%2C%0A%20%20%20%20%20%20%22leg_arrangement%22%3A%20%22un_genou_relev%C3%A9%22%2C%0A%20%20%20%20%20%20%22arm_placement%22%3A%20%22paume_pos%C3%A9e_nonchalamment%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outer_layer%22%3A%20%22manteau_traditionnel_%C3%A9carlate_bord%C3%A9_de_fourrure%22%2C%0A%20%20%20%20%22mid_layer%22%3A%20%22pull_en_grosse_maille_torsad%C3%A9e%22%2C%0A%20%20%20%20%22lower_garment%22%3A%20%22pantalon_gris_anthracite_profond%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22bottes_en_cuir_patin%C3%A9es%22%2C%0A%20%20%20%20%22headpiece%22%3A%20%22bonnet_d'hiver_simple_et_souple%22%0A%20%20%7D%2C%0A%20%20%0A%20%20%22environment_setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22avenue_de_New_York_City%22%2C%0A%20%20%20%20%22architecture%22%3A%20%22gratte-ciel_de_verre_imposants_et_fa%C3%A7ades_en_brownstone%22%2C%0A%20%20%20%20%22street_furniture%22%3A%20%22lampadaires_modernes_et_feux_de_signalisation%22%2C%0A%20%20%20%20%22pavement%22%3A%20%22grille_d'asphalte_urbaine%22%0A%20%20%7D%2C%0A%20%20%0A%20%20%22scale_context%22%3A%20%7B%0A%20%20%20%20%22vehicles%22%3A%20%5B%22taxis_jaunes_miniatures%22%2C%20%22camionnettes_de_livraison_compactes%22%2C%20%22motocyclettes%22%5D%2C%0A%20%20%20%20%22human_presence%22%3A%20%22minuscules_pi%C3%A9tons_se_d%C3%A9pla%C3%A7ant_autour%22%2C%0A%20%20%20%20%22size_contrast%22%3A%20%22b%C3%A2timents_paraissant_minuscules_par_rapport_au_personnage%22%0A%20%20%7D%2C%0A%20%20%0A%20%20%22atmospheric_conditions%22%3A%20%7B%0A%20%20%20%20%22sky%22%3A%20%22diffusion_nuageuse_douce%22%2C%0A%20%20%20%20%22time_indicator%22%3A%20%22lueur_ambiante_de_l'apr%C3%A8s-midi%22%2C%0A%20%20%20%20%22surface_texture%22%3A%20%22sol_r%C3%A9fl%C3%A9chissant_glissant_de_pluie%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -2644,14 +2645,14 @@ Une invite très structurée définissant une photographie aérienne et hyperré
 
 #### 📖 Description
 
-Une invite pour générer une image hyperréaliste, en plan large, d'un moine bouddhiste âgé méditant sur un sommet de montagne escarpé. Elle spécifie des textures détaillées pour les robes et les rochers, un éclairage dramatique au lever du soleil et une atmosphère cinématographique avec des montagnes enneigées et une mer de nuages.
+Une invite pour générer une image hyperréaliste, en plan large, d'un moine bouddhiste âgé méditant sur un sommet montagneux escarpé. Elle spécifie des textures détaillées pour les robes et les rochers, un éclairage dramatique au lever du soleil et une atmosphère cinématographique avec des montagnes enneigées et une mer de nuages.
 
 #### 📝 Prompt
 
 ```
 {
-"subject": "Moine Bouddhiste",
-"prompt": "plan large hyperréaliste d'un moine bouddhiste âgé en méditation profonde, assis sur un sommet de montagne accidenté et balayé par le vent, vêtu de robes safran et marron usées aux textures de tissu grossières, visage serein et buriné avec les yeux fermés et le crâne rasé, un chapelet dans les mains, en arrière-plan des chaînes de montagnes imposantes aux sommets enneigés s'élevant au-dessus d'une mer de nuages, éclairage dramatique de l'heure dorée du lever du soleil projetant de longues ombres, atmosphère cinématographique, résolution 8k, photoréaliste, chef-d'œuvre, textures de peau et de roche extrêmement détaillées",
+"subject": "Moine bouddhiste",
+"prompt": "plan large hyperréaliste d'un moine bouddhiste âgé en méditation profonde, assis sur un sommet de montagne accidenté et balayé par le vent, vêtu de robes safran et marron usées aux textures de tissu grossières, visage serein et buriné, yeux fermés et tête rasée, chapelet dans les mains, en arrière-plan des chaînes de montagnes imposantes aux sommets enneigés s'élevant au-dessus d'une mer de nuages, éclairage dramatique de l'heure dorée du lever du soleil projetant de longues ombres, atmosphère cinématographique, résolution 8k, photoréaliste, chef-d'œuvre, textures de peau et de roche extrêmement détaillées",
 "aspect_ratio": "9:16"
 }
 ```
@@ -2677,7 +2678,7 @@ Une invite pour générer une image hyperréaliste, en plan large, d'un moine bo
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%7B%0A%22subject%22%3A%20%22Moine%20Bouddhiste%22%2C%0A%22prompt%22%3A%20%22plan%20large%20hyperr%C3%A9aliste%20d'un%20moine%20bouddhiste%20%C3%A2g%C3%A9%20en%20m%C3%A9ditation%20profonde%2C%20assis%20sur%20un%20sommet%20de%20montagne%20accident%C3%A9%20et%20balay%C3%A9%20par%20le%20vent%2C%20v%C3%AAtu%20de%20robes%20safran%20et%20marron%20us%C3%A9es%20aux%20textures%20de%20tissu%20grossi%C3%A8res%2C%20visage%20serein%20et%20burin%C3%A9%20avec%20les%20yeux%20ferm%C3%A9s%20et%20le%20cr%C3%A2ne%20ras%C3%A9%2C%20un%20chapelet%20dans%20les%20mains%2C%20en%20arri%C3%A8re-plan%20des%20cha%C3%AEnes%20de%20montagnes%20imposantes%20aux%20sommets%20enneig%C3%A9s%20s'%C3%A9levant%20au-dessus%20d'une%20mer%20de%20nuages%2C%20%C3%A9clairage%20dramatique%20de%20l'heure%20dor%C3%A9e%20du%20lever%20du%20soleil%20projetant%20de%20longues%20ombres%2C%20atmosph%C3%A8re%20cin%C3%A9matographique%2C%20r%C3%A9solution%208k%2C%20photor%C3%A9aliste%2C%20chef-d'%C5%93uvre%2C%20textures%20de%20peau%20et%20de%20roche%20extr%C3%AAmement%20d%C3%A9taill%C3%A9es%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%22%0A%7D)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=%7B%0A%22subject%22%3A%20%22Moine%20bouddhiste%22%2C%0A%22prompt%22%3A%20%22plan%20large%20hyperr%C3%A9aliste%20d'un%20moine%20bouddhiste%20%C3%A2g%C3%A9%20en%20m%C3%A9ditation%20profonde%2C%20assis%20sur%20un%20sommet%20de%20montagne%20accident%C3%A9%20et%20balay%C3%A9%20par%20le%20vent%2C%20v%C3%AAtu%20de%20robes%20safran%20et%20marron%20us%C3%A9es%20aux%20textures%20de%20tissu%20grossi%C3%A8res%2C%20visage%20serein%20et%20burin%C3%A9%2C%20yeux%20ferm%C3%A9s%20et%20t%C3%AAte%20ras%C3%A9e%2C%20chapelet%20dans%20les%20mains%2C%20en%20arri%C3%A8re-plan%20des%20cha%C3%AEnes%20de%20montagnes%20imposantes%20aux%20sommets%20enneig%C3%A9s%20s'%C3%A9levant%20au-dessus%20d'une%20mer%20de%20nuages%2C%20%C3%A9clairage%20dramatique%20de%20l'heure%20dor%C3%A9e%20du%20lever%20du%20soleil%20projetant%20de%20longues%20ombres%2C%20atmosph%C3%A8re%20cin%C3%A9matographique%2C%20r%C3%A9solution%208k%2C%20photor%C3%A9aliste%2C%20chef-d'%C5%93uvre%2C%20textures%20de%20peau%20et%20de%20roche%20extr%C3%AAmement%20d%C3%A9taill%C3%A9es%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%22%0A%7D)**
 
 ---
 
@@ -2687,7 +2688,7 @@ Une invite pour générer une image hyperréaliste, en plan large, d'un moine bo
 
 #### 📖 Description
 
-Une invite en deux parties destinée d'abord à restaurer et améliorer une ancienne photo pour lui donner la qualité d'un appareil photo haut de gamme moderne, puis à appliquer une retouche spécifique : rendre le sujet chauve. Cela teste la capacité du modèle à suivre des instructions en plusieurs étapes et sa précision d'édition.
+Une invite en deux parties destinée à restaurer et améliorer une ancienne photo pour lui donner la qualité d'un appareil photo haut de gamme moderne, puis à appliquer une retouche spécifique : rendre le sujet chauve. Cela teste la capacité du modèle à suivre des instructions en plusieurs étapes et sa précision d'édition.
 
 #### 📝 Prompt
 
@@ -2754,12 +2755,12 @@ Créer une infographie sur ChatGPT image 1.5
 
 #### 📖 Description
 
-Une requête pour générer une photo selfie polarisée d'Elon Musk et Sam Altman buvant du Coca-Cola et portant des bonnets de Noël.
+Une invite pour générer une photo selfie polarisée montrant Elon Musk et Sam Altman buvant du Coca-Cola et portant des bonnets de Noël.
 
 #### 📝 Prompt
 
 ```
-Une photo selfie polarisée d' {argument name="person 1" default="Elon Musk"} et {argument name="person 2" default="Sam Altman"} buvant du {argument name="drink" default="Coca-Cola"} avec des {argument name="headwear" default="bonnets de Noël"}
+Un selfie polarisé de {argument name="person 1" default="Elon Musk"} et {argument name="person 2" default="Sam Altman"} buvant du {argument name="drink" default="Coca-Cola"} et portant des {argument name="headwear" default="bonnets de Noël"}
 ```
 
 #### 🖼️ Images générées
@@ -2783,7 +2784,7 @@ Une photo selfie polarisée d' {argument name="person 1" default="Elon Musk"} et
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20photo%20selfie%20polaris%C3%A9e%20d'%20%7Bargument%20name%3D%22person%201%22%20default%3D%22Elon%20Musk%22%7D%20et%20%7Bargument%20name%3D%22person%202%22%20default%3D%22Sam%20Altman%22%7D%20buvant%20du%20%7Bargument%20name%3D%22drink%22%20default%3D%22Coca-Cola%22%7D%20avec%20des%20%7Bargument%20name%3D%22headwear%22%20default%3D%22bonnets%20de%20No%C3%ABl%22%7D)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20selfie%20polaris%C3%A9%20de%20%7Bargument%20name%3D%22person%201%22%20default%3D%22Elon%20Musk%22%7D%20et%20%7Bargument%20name%3D%22person%202%22%20default%3D%22Sam%20Altman%22%7D%20buvant%20du%20%7Bargument%20name%3D%22drink%22%20default%3D%22Coca-Cola%22%7D%20et%20portant%20des%20%7Bargument%20name%3D%22headwear%22%20default%3D%22bonnets%20de%20No%C3%ABl%22%7D)**
 
 ---
 
@@ -2793,7 +2794,7 @@ Une photo selfie polarisée d' {argument name="person 1" default="Elon Musk"} et
 
 #### 📖 Description
 
-Un méta-prompt conçu pour demander à un modèle d'IA de prendre un contenu existant et de le transformer en une diapositive de présentation très dynamique, visuellement excitante et en mode paysage, en donnant au modèle une liberté de conception totale au-delà des contraintes d'origine.
+Un méta-prompt conçu pour demander à un modèle d'IA de prendre un contenu existant et de le transformer en une diapositive de présentation très dynamique, visuellement excitante et orientée paysage, en donnant au modèle une liberté de conception totale au-delà des contraintes d'origine.
 
 #### 📝 Prompt
 
@@ -2820,7 +2821,7 @@ Transformez ceci en une diapositive visuellement époustouflante. Assurez-vous q
 
 ---
 
-### No. 65: L'infographie de l'organigramme des ventes inspirée de The Office
+### No. 65: L'infographie de l'organigramme des ventes inspiré de The Office
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2831,7 +2832,7 @@ Une invite conçue pour créer un support visuel — spécifiquement un organigr
 #### 📝 Prompt
 
 ```
-créer un organigramme infographique pour les associés commerciaux de Dunder Mifflin à suivre lors d'un appel de vente, avec l'homme de référence en version dessin animé
+créer un organigramme infographique que les associés commerciaux de Dunder Mifflin pourront suivre lors d'un appel de vente, en présentant l'homme de référence sous forme de dessin animé
 ```
 
 #### 🖼️ Images générées
@@ -2839,7 +2840,7 @@ créer un organigramme infographique pour les associés commerciaux de Dunder Mi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948252065_0jbg4o_G8UWigAa8AA5Bb3.jpg" width="600" alt="L'infographie de l'organigramme des ventes inspirée de The Office - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948252065_0jbg4o_G8UWigAa8AA5Bb3.jpg" width="600" alt="L'infographie de l'organigramme des ventes inspiré de The Office - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2849,7 +2850,7 @@ créer un organigramme infographique pour les associés commerciaux de Dunder Mi
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=cr%C3%A9er%20un%20organigramme%20infographique%20pour%20les%20associ%C3%A9s%20commerciaux%20de%20Dunder%20Mifflin%20%C3%A0%20suivre%20lors%20d'un%20appel%20de%20vente%2C%20avec%20l'homme%20de%20r%C3%A9f%C3%A9rence%20en%20version%20dessin%20anim%C3%A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=cr%C3%A9er%20un%20organigramme%20infographique%20que%20les%20associ%C3%A9s%20commerciaux%20de%20Dunder%20Mifflin%20pourront%20suivre%20lors%20d'un%20appel%20de%20vente%2C%20en%20pr%C3%A9sentant%20l'homme%20de%20r%C3%A9f%C3%A9rence%20sous%20forme%20de%20dessin%20anim%C3%A9)**
 
 ---
 
@@ -2904,7 +2905,7 @@ Génère une image de ce personnage l'air excité, les deux mains serrées. Ne c
 
 #### 📖 Description
 
-Une invite de modification utilisée pour transformer le sujet d'une image précédemment générée (un portrait franc et photoréaliste d'une personne ordinaire) en un personnage de fiction spécifique, testant la capacité du modèle à gérer l'identité et l'adhérence aux détails.
+Une invite d'édition utilisée pour transformer le sujet d'une image précédemment générée (un portrait franc et photoréaliste d'une personne ordinaire) en un personnage de fiction spécifique, testant la capacité du modèle à gérer l'identité et l'adhérence aux détails.
 
 #### 📝 Prompt
 
@@ -2931,7 +2932,7 @@ Faites-en Keanu Reeves de Cyberpunk 2077
 
 ---
 
-### No. 68: Conception de site web de style Apple pour Nike
+### No. 68: Conception de site web style Apple pour Nike
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2943,7 +2944,7 @@ Une requête pour un design de site web épuré, style Apple, pour Nike, axé su
 #### 📝 Prompt
 
 ```
-Créez un site web au design épuré, dans le style Apple, pour {argument name="brand" default="nike"}, en y intégrant des éléments pertinents avec un design puissant au format 4:5.
+Créez un site web au design épuré, dans le style Apple, pour {argument name="brand" default="nike"}, en y intégrant des éléments pertinents au design puissant, au format 4:5.
 ```
 
 #### 🖼️ Images générées
@@ -2951,13 +2952,13 @@ Créez un site web au design épuré, dans le style Apple, pour {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948228955_3gdxcw_G8UTRwQX0AYL8KK.jpg" width="600" alt="Conception de site web de style Apple pour Nike - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948228955_3gdxcw_G8UTRwQX0AYL8KK.jpg" width="600" alt="Conception de site web style Apple pour Nike - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948229134_4avcwp_G8UTRyNXEAQ3mJG.jpg" width="600" alt="Conception de site web de style Apple pour Nike - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948229134_4avcwp_G8UTRyNXEAQ3mJG.jpg" width="600" alt="Conception de site web style Apple pour Nike - Image 2">
 </div>
 
 #### 📌 Détails
@@ -2967,7 +2968,7 @@ Créez un site web au design épuré, dans le style Apple, pour {argument name="
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Cr%C3%A9ez%20un%20site%20web%20au%20design%20%C3%A9pur%C3%A9%2C%20dans%20le%20style%20Apple%2C%20pour%20%7Bargument%20name%3D%22brand%22%20default%3D%22nike%22%7D%2C%20en%20y%20int%C3%A9grant%20des%20%C3%A9l%C3%A9ments%20pertinents%20avec%20un%20design%20puissant%20au%20format%204%3A5.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Cr%C3%A9ez%20un%20site%20web%20au%20design%20%C3%A9pur%C3%A9%2C%20dans%20le%20style%20Apple%2C%20pour%20%7Bargument%20name%3D%22brand%22%20default%3D%22nike%22%7D%2C%20en%20y%20int%C3%A9grant%20des%20%C3%A9l%C3%A9ments%20pertinents%20au%20design%20puissant%2C%20au%20format%204%3A5.)**
 
 ---
 
@@ -3056,7 +3057,7 @@ Joignez une image de personnage et générez le personnage en train de manger de
 
 #### 📖 Description
 
-Une simple invite pour générer l'image d'une personne tenant un journal, dont le titre compare clairement deux modèles d'IA spécifiques.
+Une simple instruction pour générer l'image d'une personne tenant un journal, dont le titre affiche clairement une comparaison spécifique entre deux modèles d'IA.
 
 #### 📝 Prompt
 
@@ -3096,7 +3097,7 @@ Une personne tenant un journal sur lequel on peut lire « {argument name="newspa
 
 #### 📖 Description
 
-Une requête créative demandant une image de deux politiciens indiens rivaux ayant l'air extrêmement ennuyés au parlement, accompagnés d'un chien fatigué, le tout rendu dans l'esthétique d'un appareil photo des années 2000.
+Une invite créative demandant une image de deux politiciens indiens rivaux ayant l'air extrêmement ennuyés au parlement, accompagnés d'un chien fatigué, le tout rendu dans l'esthétique d'un appareil photo des années 2000.
 
 #### 📝 Prompt
 
@@ -3129,13 +3130,13 @@ Deux politiciens rivaux {argument name="nationality" default="indian"} ayant l'a
 
 ---
 
-### No. 73: Photographie hyperréaliste de chat
+### No. 73: Photographie de chat hyperréaliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite très détaillée axée sur la génération d'une image ultra-photoréaliste d'un chat domestique, spécifiant des détails minutieux tels que la texture de la fourrure, les reflets oculaires, les imperfections cutanées, les réglages de l'appareil photo (objectif 85 mm, f/1.8) et l'éclairage pour obtenir un réalisme de qualité studio sans aucune stylisation.
+Un prompt très détaillé axé sur la génération d'une image ultra-photoréaliste d'un chat domestique, spécifiant des détails minutieux tels que la texture de la fourrure, les reflets oculaires, les imperfections cutanées, les réglages de l'appareil photo (objectif 85 mm, f/1.8) et l'éclairage pour obtenir un réalisme de qualité studio sans aucune stylisation.
 
 #### 📝 Prompt
 
@@ -3148,13 +3149,13 @@ Une photographie hyperréaliste d'un chat domestique, avec une texture de fourru
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948251724_f9fee6_G8UN1LeaUAAfSJh.jpg" width="600" alt="Photographie hyperréaliste de chat - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948251724_f9fee6_G8UN1LeaUAAfSJh.jpg" width="600" alt="Photographie de chat hyperréaliste - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948252255_qr0guz_G8UN1L4aUAAEiN7.jpg" width="600" alt="Photographie hyperréaliste de chat - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948252255_qr0guz_G8UN1L4aUAAEiN7.jpg" width="600" alt="Photographie de chat hyperréaliste - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3179,7 +3180,7 @@ Une instruction détaillée pour générer une illustration technique d'un iPhon
 #### 📝 Prompt
 
 ```
-Un diagramme technique en vue éclatée très détaillé d'un iPhone montrant tous les composants internes séparés et flottant dans un alignement précis, l'écran d'affichage en haut, la carte logique avec la puce A-series au centre, la batterie, les modules de caméra avec objectifs, le connecteur de port Lightning, les grilles de haut-parleur, les bandes d'antenne, le panneau arrière en verre, le cadre en aluminium, les minuscules vis et connecteurs, chaque pièce étiquetée avec des annotations techniques et des lignes de mesure, fond blanc épuré, perspective d'ingénierie isométrique, style plan avec grille subtile, illustration technique professionnelle, composants photoréalistes avec textures métalliques et de verre, disposition d'une précision chirurgicale, esthétique de design industriel moderne, détail 8k.
+Un diagramme technique en vue éclatée très détaillé d'un iPhone montrant tous les composants internes séparés et flottant en alignement précis, l'écran d'affichage en haut, la carte logique avec la puce de la série A au centre, la batterie, les modules de caméra avec objectifs, le connecteur de port Lightning, les grilles de haut-parleur, les bandes d'antenne, le panneau arrière en verre, le cadre en aluminium, les minuscules vis et connecteurs, chaque pièce étant étiquetée avec des annotations techniques et des lignes de mesure, fond blanc épuré, perspective d'ingénierie isométrique, style plan avec une grille subtile, illustration technique professionnelle, composants photoréalistes avec des textures métalliques et de verre, disposition d'une précision chirurgicale, esthétique de design industriel moderne, détail 8k.
 ```
 
 #### 🖼️ Images générées
@@ -3203,7 +3204,7 @@ Un diagramme technique en vue éclatée très détaillé d'un iPhone montrant to
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20diagramme%20technique%20en%20vue%20%C3%A9clat%C3%A9e%20tr%C3%A8s%20d%C3%A9taill%C3%A9%20d'un%20iPhone%20montrant%20tous%20les%20composants%20internes%20s%C3%A9par%C3%A9s%20et%20flottant%20dans%20un%20alignement%20pr%C3%A9cis%2C%20l'%C3%A9cran%20d'affichage%20en%20haut%2C%20la%20carte%20logique%20avec%20la%20puce%20A-series%20au%20centre%2C%20la%20batterie%2C%20les%20modules%20de%20cam%C3%A9ra%20avec%20objectifs%2C%20le%20connecteur%20de%20port%20Lightning%2C%20les%20grilles%20de%20haut-parleur%2C%20les%20bandes%20d'antenne%2C%20le%20panneau%20arri%C3%A8re%20en%20verre%2C%20le%20cadre%20en%20aluminium%2C%20les%20minuscules%20vis%20et%20connecteurs%2C%20chaque%20pi%C3%A8ce%20%C3%A9tiquet%C3%A9e%20avec%20des%20annotations%20techniques%20et%20des%20lignes%20de%20mesure%2C%20fond%20blanc%20%C3%A9pur%C3%A9%2C%20perspective%20d'ing%C3%A9nierie%20isom%C3%A9trique%2C%20style%20plan%20avec%20grille%20subtile%2C%20illustration%20technique%20professionnelle%2C%20composants%20photor%C3%A9alistes%20avec%20textures%20m%C3%A9talliques%20et%20de%20verre%2C%20disposition%20d'une%20pr%C3%A9cision%20chirurgicale%2C%20esth%C3%A9tique%20de%20design%20industriel%20moderne%2C%20d%C3%A9tail%208k.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20diagramme%20technique%20en%20vue%20%C3%A9clat%C3%A9e%20tr%C3%A8s%20d%C3%A9taill%C3%A9%20d'un%20iPhone%20montrant%20tous%20les%20composants%20internes%20s%C3%A9par%C3%A9s%20et%20flottant%20en%20alignement%20pr%C3%A9cis%2C%20l'%C3%A9cran%20d'affichage%20en%20haut%2C%20la%20carte%20logique%20avec%20la%20puce%20de%20la%20s%C3%A9rie%20A%20au%20centre%2C%20la%20batterie%2C%20les%20modules%20de%20cam%C3%A9ra%20avec%20objectifs%2C%20le%20connecteur%20de%20port%20Lightning%2C%20les%20grilles%20de%20haut-parleur%2C%20les%20bandes%20d'antenne%2C%20le%20panneau%20arri%C3%A8re%20en%20verre%2C%20le%20cadre%20en%20aluminium%2C%20les%20minuscules%20vis%20et%20connecteurs%2C%20chaque%20pi%C3%A8ce%20%C3%A9tant%20%C3%A9tiquet%C3%A9e%20avec%20des%20annotations%20techniques%20et%20des%20lignes%20de%20mesure%2C%20fond%20blanc%20%C3%A9pur%C3%A9%2C%20perspective%20d'ing%C3%A9nierie%20isom%C3%A9trique%2C%20style%20plan%20avec%20une%20grille%20subtile%2C%20illustration%20technique%20professionnelle%2C%20composants%20photor%C3%A9alistes%20avec%20des%20textures%20m%C3%A9talliques%20et%20de%20verre%2C%20disposition%20d'une%20pr%C3%A9cision%20chirurgicale%2C%20esth%C3%A9tique%20de%20design%20industriel%20moderne%2C%20d%C3%A9tail%208k.)**
 
 ---
 
@@ -3247,7 +3248,7 @@ sur une photo de style appareil photo des années 2000
 
 #### 📖 Description
 
-Une invite conçue pour tester la capacité de GPT Image 1.5 à maintenir les caractéristiques de plusieurs personnes dans une scène complexe, spécifiquement une photo de groupe prise avec un objectif fisheye lors d'une cérémonie de remise de prix.
+Une invite conçue pour tester la capacité de GPT Image 1.5 à maintenir les caractéristiques de plusieurs personnes dans une scène complexe, en particulier une photo de groupe prise avec un objectif fisheye lors d'une cérémonie de remise de prix.
 
 #### 📝 Prompt
 
@@ -3274,7 +3275,7 @@ Une invite conçue pour tester la capacité de GPT Image 1.5 à maintenir les ca
 
 ---
 
-### No. 77: Requête texte-vers-image : Chat curieux dans les feuilles d'automne
+### No. 77: Requête texte-image : Chat curieux dans les feuilles d'automne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3293,7 +3294,7 @@ Un chat curieux qui sort la tête d'un tas de feuilles d'automne.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948260199_bdso2y_G8UIo1eaUAA8gF2.jpg" width="600" alt="Requête texte-vers-image : Chat curieux dans les feuilles d'automne - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948260199_bdso2y_G8UIo1eaUAA8gF2.jpg" width="600" alt="Requête texte-image : Chat curieux dans les feuilles d'automne - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3307,7 +3308,7 @@ Un chat curieux qui sort la tête d'un tas de feuilles d'automne.
 
 ---
 
-### No. 78: Prompt de texte et de diagrammes complexes (Capture d'écran)
+### No. 78: Invite de texte et de diagrammes complexes (Capture d'écran)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3326,13 +3327,13 @@ Un diagramme complexe illustrant la théorie de l'intrication quantique avec des
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257370_426er2_G8UFQbDW8Bsrn-R.png" width="600" alt="Prompt de texte et de diagrammes complexes (Capture d'écran) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948257370_426er2_G8UFQbDW8Bsrn-R.png" width="600" alt="Invite de texte et de diagrammes complexes (Capture d'écran) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257475_fj2ig2_G8UFIRPXkAEg4-n.jpg" width="600" alt="Prompt de texte et de diagrammes complexes (Capture d'écran) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948257475_fj2ig2_G8UFIRPXkAEg4-n.jpg" width="600" alt="Invite de texte et de diagrammes complexes (Capture d'écran) - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3346,13 +3347,13 @@ Un diagramme complexe illustrant la théorie de l'intrication quantique avec des
 
 ---
 
-### No. 79: Prompt pour joueur de football (Capture d'écran)
+### No. 79: Prompt Joueur de football (Capture d'écran)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite utilisée pour générer une image d'un joueur de football, testant la capacité du modèle à gérer des sujets athlétiques et une composition spécifiques. Le texte de l'invite est visible dans la capture d'écran ci-jointe.
+Une invite utilisée pour générer une image d'un joueur de football, testant la capacité du modèle à gérer des sujets athlétiques spécifiques et la composition. Le texte de l'invite est visible dans la capture d'écran ci-jointe.
 
 #### 📝 Prompt
 
@@ -3365,19 +3366,19 @@ Un joueur de football, très détaillé, éclairage cinématographique, photo d'
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948256965_3eksei_G8UCIXMXgAI5iBr.png" width="600" alt="Prompt pour joueur de football (Capture d'écran) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948256965_3eksei_G8UCIXMXgAI5iBr.png" width="600" alt="Prompt Joueur de football (Capture d'écran) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257196_x3d06u_G8UBrk5W4AAeJLD.jpg" width="600" alt="Prompt pour joueur de football (Capture d'écran) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948257196_x3d06u_G8UBrk5W4AAeJLD.jpg" width="600" alt="Prompt Joueur de football (Capture d'écran) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257176_f7fmqi_G8UBq8gWYAIYDKp.jpg" width="600" alt="Prompt pour joueur de football (Capture d'écran) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765948257176_f7fmqi_G8UBq8gWYAIYDKp.jpg" width="600" alt="Prompt Joueur de football (Capture d'écran) - Image 3">
 </div>
 
 #### 📌 Détails
@@ -3430,14 +3431,14 @@ extraire l'image fixe de la ligne 1, colonne 2
 
 ---
 
-### No. 81: Invite de capture et de cuisson 2x2 (Capture d'écran)
+### No. 81: Capture et cuisine 2x2 (Capture d'écran)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une invite utilisée dans un test comparatif, axée sur le maintien d'une forme géométrique spécifique (la forme triangulaire d'un oiseau) lors de la génération d'images. Le texte de l'invite est visible dans la capture d'écran ci-jointe.
+Un prompt utilisé dans un test comparatif, axé sur le maintien d'une forme géométrique spécifique (la forme triangulaire d'un oiseau) lors de la génération d'images. Le texte du prompt est visible dans la capture d'écran ci-jointe.
 
 #### 📝 Prompt
 
@@ -3450,19 +3451,19 @@ Une image 2x2 de capture et de cuisson d'un {argument name="animal" default="ois
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948254096_gr9mxx_G8UA5FZWYAImRDE.png" width="600" alt="Invite de capture et de cuisson 2x2 (Capture d'écran) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948254096_gr9mxx_G8UA5FZWYAImRDE.png" width="600" alt="Capture et cuisine 2x2 (Capture d'écran) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948254585_32ruve_G8T_0l4WkAgqolF.jpg" width="600" alt="Invite de capture et de cuisson 2x2 (Capture d'écran) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948254585_32ruve_G8T_0l4WkAgqolF.jpg" width="600" alt="Capture et cuisine 2x2 (Capture d'écran) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255002_0hskkv_G8T_zkAWEAIX5JX.jpg" width="600" alt="Invite de capture et de cuisson 2x2 (Capture d'écran) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765948255002_0hskkv_G8T_zkAWEAIX5JX.jpg" width="600" alt="Capture et cuisine 2x2 (Capture d'écran) - Image 3">
 </div>
 
 #### 📌 Détails
@@ -3482,12 +3483,12 @@ Une image 2x2 de capture et de cuisson d'un {argument name="animal" default="ois
 
 #### 📖 Description
 
-Une invite de photographie documentaire complexe et ultra-réaliste, située sur le Pont de Galata, à Istanbul, sous la pluie battante. Elle se concentre sur un pêcheur âgé riant en tendant un poisson à un chat errant, spécifiant des détails tels que le visage buriné, les vêtements grossiers, les traînées de pluie intenses, les navetteurs flous par le mouvement, et l'esthétique du grain de film analogique 35 mm avec une faible profondeur de champ.
+Une invite de photographie documentaire complexe et ultra-réaliste, située sur le pont de Galata à Istanbul, trempé par la pluie. Elle se concentre sur un pêcheur âgé riant en tendant un poisson à un chat errant, spécifiant des détails tels que le visage buriné, les vêtements grossiers, les traînées de pluie intenses, les navetteurs flous par le mouvement, et l'esthétique du grain de film analogique 35 mm avec une faible profondeur de champ.
 
 #### 📝 Prompt
 
 ```
-Une photographie documentaire franche et ultra-réaliste, capturant un moment poignant sur le pont de Galata, à Istanbul, trempé par la pluie. Un vieux pêcheur au visage profondément buriné, vêtu d'une veste en toile cirée rapiécée, rit en tendant un petit poisson à un chat des rues détrempé, juché précairement sur la balustrade à côté de sa boîte à pêche rouillée. La pluie tombe à verse. En arrière-plan animé, des foules de navetteurs avec des parapluies sont floues par le mouvement, un ferry urbain traditionnel traverse le Bosphore gris et agité en émettant de la fumée, et la silhouette de la Nouvelle Mosquée (Yeni Cami) se dresse sous de lourds nuages d'orage diffus. L'image présente l'esthétique distincte du grain de film analogique 35 mm, une lumière naturelle et maussade, une faible profondeur de champ qui met l'accent sur l'homme et le chat, et des textures très détaillées sur le pavé mouillé, les vieux vêtements et le métal.
+Une photographie documentaire candide et ultra-réaliste, capturant un moment poignant sur le Pont de Galata détrempé par la pluie à Istanbul, où un vieux pêcheur au visage profondément buriné, vêtu d'une veste en toile cirée rapiécée, rit en tendant un petit poisson à un chat de rue trempé, se tenant en équilibre précaire sur la balustrade à côté de sa boîte à pêche rouillée. La pluie tombe à verse. En arrière-plan animé, des foules de navetteurs avec des parapluies sont floues par le mouvement, un ferry urbain traditionnel traverse le Bosphore gris et agité en émettant de la fumée, et la silhouette de la Nouvelle Mosquée (Yeni Cami) se dresse sous de lourds nuages d'orage diffus. L'image présente l'esthétique distincte du grain de film analogique 35 mm, une lumière naturelle et maussade, une faible profondeur de champ se concentrant nettement sur l'homme et le chat, et des textures très détaillées sur le trottoir mouillé, les vieux vêtements et le métal.
 ```
 
 #### 🖼️ Images générées
@@ -3511,11 +3512,11 @@ Une photographie documentaire franche et ultra-réaliste, capturant un moment po
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20photographie%20documentaire%20franche%20et%20ultra-r%C3%A9aliste%2C%20capturant%20un%20moment%20poignant%20sur%20le%20pont%20de%20Galata%2C%20%C3%A0%20Istanbul%2C%20tremp%C3%A9%20par%20la%20pluie.%20Un%20vieux%20p%C3%AAcheur%20au%20visage%20profond%C3%A9ment%20burin%C3%A9%2C%20v%C3%AAtu%20d'une%20veste%20en%20toile%20cir%C3%A9e%20rapi%C3%A9c%C3%A9e%2C%20rit%20en%20tendant%20un%20petit%20poisson%20%C3%A0%20un%20chat%20des%20rues%20d%C3%A9tremp%C3%A9%2C%20juch%C3%A9%20pr%C3%A9cairement%20sur%20la%20balustrade%20%C3%A0%20c%C3%B4t%C3%A9%20de%20sa%20bo%C3%AEte%20%C3%A0%20p%C3%AAche%20rouill%C3%A9e.%20La%20pluie%20tombe%20%C3%A0%20verse.%20En%20arri%C3%A8re-plan%20anim%C3%A9%2C%20des%20foules%20de%20navetteurs%20avec%20des%20parapluies%20sont%20floues%20par%20le%20mouvement%2C%20un%20ferry%20urbain%20traditionnel%20traverse%20le%20Bosphore%20gris%20et%20agit%C3%A9%20en%20%C3%A9mettant%20de%20la%20fum%C3%A9e%2C%20et%20la%20silhouette%20de%20la%20Nouvelle%20Mosqu%C3%A9e%20(Yeni%20Cami)%20se%20dresse%20sous%20de%20lourds%20nuages%20d'orage%20diffus.%20L'image%20pr%C3%A9sente%20l'esth%C3%A9tique%20distincte%20du%20grain%20de%20film%20analogique%2035%20mm%2C%20une%20lumi%C3%A8re%20naturelle%20et%20maussade%2C%20une%20faible%20profondeur%20de%20champ%20qui%20met%20l'accent%20sur%20l'homme%20et%20le%20chat%2C%20et%20des%20textures%20tr%C3%A8s%20d%C3%A9taill%C3%A9es%20sur%20le%20pav%C3%A9%20mouill%C3%A9%2C%20les%20vieux%20v%C3%AAtements%20et%20le%20m%C3%A9tal.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20photographie%20documentaire%20candide%20et%20ultra-r%C3%A9aliste%2C%20capturant%20un%20moment%20poignant%20sur%20le%20Pont%20de%20Galata%20d%C3%A9tremp%C3%A9%20par%20la%20pluie%20%C3%A0%20Istanbul%2C%20o%C3%B9%20un%20vieux%20p%C3%AAcheur%20au%20visage%20profond%C3%A9ment%20burin%C3%A9%2C%20v%C3%AAtu%20d'une%20veste%20en%20toile%20cir%C3%A9e%20rapi%C3%A9c%C3%A9e%2C%20rit%20en%20tendant%20un%20petit%20poisson%20%C3%A0%20un%20chat%20de%20rue%20tremp%C3%A9%2C%20se%20tenant%20en%20%C3%A9quilibre%20pr%C3%A9caire%20sur%20la%20balustrade%20%C3%A0%20c%C3%B4t%C3%A9%20de%20sa%20bo%C3%AEte%20%C3%A0%20p%C3%AAche%20rouill%C3%A9e.%20La%20pluie%20tombe%20%C3%A0%20verse.%20En%20arri%C3%A8re-plan%20anim%C3%A9%2C%20des%20foules%20de%20navetteurs%20avec%20des%20parapluies%20sont%20floues%20par%20le%20mouvement%2C%20un%20ferry%20urbain%20traditionnel%20traverse%20le%20Bosphore%20gris%20et%20agit%C3%A9%20en%20%C3%A9mettant%20de%20la%20fum%C3%A9e%2C%20et%20la%20silhouette%20de%20la%20Nouvelle%20Mosqu%C3%A9e%20(Yeni%20Cami)%20se%20dresse%20sous%20de%20lourds%20nuages%20d'orage%20diffus.%20L'image%20pr%C3%A9sente%20l'esth%C3%A9tique%20distincte%20du%20grain%20de%20film%20analogique%2035%20mm%2C%20une%20lumi%C3%A8re%20naturelle%20et%20maussade%2C%20une%20faible%20profondeur%20de%20champ%20se%20concentrant%20nettement%20sur%20l'homme%20et%20le%20chat%2C%20et%20des%20textures%20tr%C3%A8s%20d%C3%A9taill%C3%A9es%20sur%20le%20trottoir%20mouill%C3%A9%2C%20les%20vieux%20v%C3%AAtements%20et%20le%20m%C3%A9tal.)**
 
 ---
 
-### No. 83: Test d'invite d'affiche dystopique avec rendu de texte
+### No. 83: Test de rendu de texte pour une invite d'affiche dystopique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3527,7 +3528,7 @@ Une invite complexe conçue pour tester la capacité de GPT Image 1.5 à rendre 
 #### 📝 Prompt
 
 ```
-Ce type [mon image] chevauchant un scooter rouillé et cassé dans un désert en plan large, avec une terre stérile et vide tout autour. Le titre qui dit « {argument name="title" default="2135"} ». Le sous-titre multi-lignes doit être « {argument name="subtitle" default="THE AGE OF AGI BEGINS HERE"} ». L'affiche doit être accrocheuse et dystopique.
+Ce type [mon image] chevauchant un scooter rouillé et cassé dans un désert, en plan large, avec une terre stérile et vide tout autour. Le titre doit être « {argument name="title" default="2135"} ». Le sous-titre sur plusieurs lignes doit être « {argument name="subtitle" default="THE AGE OF AGI BEGINS HERE"} ». L'affiche doit être accrocheuse et dystopique.
 ```
 
 #### 🖼️ Images générées
@@ -3535,7 +3536,7 @@ Ce type [mon image] chevauchant un scooter rouillé et cassé dans un désert en
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948263720_pxv9z4_G8UEpKxa4AAqWGv.jpg" width="600" alt="Test d'invite d'affiche dystopique avec rendu de texte - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948263720_pxv9z4_G8UEpKxa4AAqWGv.jpg" width="600" alt="Test de rendu de texte pour une invite d'affiche dystopique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3545,7 +3546,7 @@ Ce type [mon image] chevauchant un scooter rouillé et cassé dans un désert en
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Ce%20type%20%5Bmon%20image%5D%20chevauchant%20un%20scooter%20rouill%C3%A9%20et%20cass%C3%A9%20dans%20un%20d%C3%A9sert%20en%20plan%20large%2C%20avec%20une%20terre%20st%C3%A9rile%20et%20vide%20tout%20autour.%20Le%20titre%20qui%20dit%20%C2%AB%20%7Bargument%20name%3D%22title%22%20default%3D%222135%22%7D%20%C2%BB.%20Le%20sous-titre%20multi-lignes%20doit%20%C3%AAtre%20%C2%AB%20%7Bargument%20name%3D%22subtitle%22%20default%3D%22THE%20AGE%20OF%20AGI%20BEGINS%20HERE%22%7D%20%C2%BB.%20L'affiche%20doit%20%C3%AAtre%20accrocheuse%20et%20dystopique.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Ce%20type%20%5Bmon%20image%5D%20chevauchant%20un%20scooter%20rouill%C3%A9%20et%20cass%C3%A9%20dans%20un%20d%C3%A9sert%2C%20en%20plan%20large%2C%20avec%20une%20terre%20st%C3%A9rile%20et%20vide%20tout%20autour.%20Le%20titre%20doit%20%C3%AAtre%20%C2%AB%20%7Bargument%20name%3D%22title%22%20default%3D%222135%22%7D%20%C2%BB.%20Le%20sous-titre%20sur%20plusieurs%20lignes%20doit%20%C3%AAtre%20%C2%AB%20%7Bargument%20name%3D%22subtitle%22%20default%3D%22THE%20AGE%20OF%20AGI%20BEGINS%20HERE%22%7D%20%C2%BB.%20L'affiche%20doit%20%C3%AAtre%20accrocheuse%20et%20dystopique.)**
 
 ---
 
@@ -3560,7 +3561,7 @@ Un prompt implicite dans le contexte de la génération d'une carte Yu-Gi-Oh per
 #### 📝 Prompt
 
 ```
-Générez une carte Yu-Gi-Oh! personnalisée à partir d'une simple invite.
+générer une carte Yu-Gi-Oh! personnalisée à partir d'une simple invite
 ```
 
 #### 🖼️ Images générées
@@ -3584,7 +3585,7 @@ Générez une carte Yu-Gi-Oh! personnalisée à partir d'une simple invite.
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=G%C3%A9n%C3%A9rez%20une%20carte%20Yu-Gi-Oh!%20personnalis%C3%A9e%20%C3%A0%20partir%20d'une%20simple%20invite.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=g%C3%A9n%C3%A9rer%20une%20carte%20Yu-Gi-Oh!%20personnalis%C3%A9e%20%C3%A0%20partir%20d'une%20simple%20invite)**
 
 ---
 
@@ -3594,12 +3595,12 @@ Générez une carte Yu-Gi-Oh! personnalisée à partir d'une simple invite.
 
 #### 📖 Description
 
-Une instruction de génération d'image très spécifique, conçue pour tester la capacité du modèle à gérer des textures complexes, des styles architecturaux et des détails précis. Elle demande un plan photoréaliste de King Kong en papier plié, en insistant sur les plis géométriques, les marques de plan, une palette de couleurs minimale et des conditions d'éclairage spécifiques.
+Une invite de génération d'images très spécifique, conçue pour tester la capacité du modèle à gérer des textures complexes, des styles architecturaux et des détails précis. Elle demande un plan photoréaliste de King Kong en papier plié, en mettant l'accent sur les plis géométriques, les marques de plan, une palette de couleurs minimale et des conditions d'éclairage spécifiques.
 
 #### 📝 Prompt
 
 ```
-Un plan de King Kong hyper-détaillé en papier plié, où le personnage est construit à partir de plis géométriques précis et de lignes de pliage, superposé de subtiles marques de plan, de lignes de mesure et d'annotations sur papier. Palette de couleurs minimale, papier blanc cassé avec de légères lignes d'encre. Éclairage de studio, ombres nettes, style artistique architectural, détails de papier photoréalistes. Format carré 1080x1080.
+Un plan hyper-détaillé en papier plié de King Kong, où le personnage est construit à partir de plis géométriques précis et de lignes de pliage, superposé avec de subtiles marques de plan, des lignes de mesure et des annotations sur papier. Palette de couleurs minimale, papier blanc cassé avec de légères lignes d'encre. Éclairage de studio, ombres nettes, style artistique architectural, détails de papier photoréalistes. Format carré 1080x1080.
 ```
 
 #### 🖼️ Images générées
@@ -3623,17 +3624,17 @@ Un plan de King Kong hyper-détaillé en papier plié, où le personnage est con
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20plan%20de%20King%20Kong%20hyper-d%C3%A9taill%C3%A9%20en%20papier%20pli%C3%A9%2C%20o%C3%B9%20le%20personnage%20est%20construit%20%C3%A0%20partir%20de%20plis%20g%C3%A9om%C3%A9triques%20pr%C3%A9cis%20et%20de%20lignes%20de%20pliage%2C%20superpos%C3%A9%20de%20subtiles%20marques%20de%20plan%2C%20de%20lignes%20de%20mesure%20et%20d'annotations%20sur%20papier.%20Palette%20de%20couleurs%20minimale%2C%20papier%20blanc%20cass%C3%A9%20avec%20de%20l%C3%A9g%C3%A8res%20lignes%20d'encre.%20%C3%89clairage%20de%20studio%2C%20ombres%20nettes%2C%20style%20artistique%20architectural%2C%20d%C3%A9tails%20de%20papier%20photor%C3%A9alistes.%20Format%20carr%C3%A9%201080x1080.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20plan%20hyper-d%C3%A9taill%C3%A9%20en%20papier%20pli%C3%A9%20de%20King%20Kong%2C%20o%C3%B9%20le%20personnage%20est%20construit%20%C3%A0%20partir%20de%20plis%20g%C3%A9om%C3%A9triques%20pr%C3%A9cis%20et%20de%20lignes%20de%20pliage%2C%20superpos%C3%A9%20avec%20de%20subtiles%20marques%20de%20plan%2C%20des%20lignes%20de%20mesure%20et%20des%20annotations%20sur%20papier.%20Palette%20de%20couleurs%20minimale%2C%20papier%20blanc%20cass%C3%A9%20avec%20de%20l%C3%A9g%C3%A8res%20lignes%20d'encre.%20%C3%89clairage%20de%20studio%2C%20ombres%20nettes%2C%20style%20artistique%20architectural%2C%20d%C3%A9tails%20de%20papier%20photor%C3%A9alistes.%20Format%20carr%C3%A9%201080x1080.)**
 
 ---
 
-### No. 86: Génération de scène de grille 3x3 avec numérotation
+### No. 86: Génération de scènes de grille 3x3 avec numérotation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite conçue pour tester la capacité du modèle à générer une grille d'images 3x3, toutes représentant la même scène mais sous 9 angles différents, et surtout, exigeant que le modèle place le numéro de cellule dans le coin inférieur gauche de chaque scène.
+Une invite conçue pour tester la capacité du modèle à générer une grille d'images 3x3, toutes représentant la même scène mais sous 9 angles différents, et surtout, exigeant du modèle qu'il place le numéro de cellule dans le coin inférieur gauche de chaque scène.
 
 #### 📝 Prompt
 
@@ -3646,13 +3647,13 @@ Donne-moi cette scène sous 9 angles différents dans une grille 3x3 1:1, place 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948215997_zreeh3_G8UCIsdW8BAApWJ.jpg" width="600" alt="Génération de scène de grille 3x3 avec numérotation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948215997_zreeh3_G8UCIsdW8BAApWJ.jpg" width="600" alt="Génération de scènes de grille 3x3 avec numérotation - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948215787_j85ndt_G8UCIsjW8AI2bVr.jpg" width="600" alt="Génération de scène de grille 3x3 avec numérotation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948215787_j85ndt_G8UCIsjW8AI2bVr.jpg" width="600" alt="Génération de scènes de grille 3x3 avec numérotation - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3701,18 +3702,18 @@ Veuillez écrire ce qui suit sur du papier blanc en texte noir :
 
 ---
 
-### No. 88: Colossal Man assis dans une rue de Londres
+### No. 88: Homme colossal assis dans une rue de Londres
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite photoréaliste pour un plan large par drone montrant un homme colossal, dont le visage et le corps sont basés sur une image de référence, assis nonchalamment à travers une rue de Londres. La scène met l'accent sur le contraste d'échelle entre la figure géante et les minuscules éléments urbains environnants, sous une lumière du jour douce et couverte.
+Un prompt photoréaliste pour un plan large par drone montrant un homme colossal, dont le visage et le corps sont basés sur une image de référence, assis nonchalamment au milieu d'une rue de Londres. La scène met l'accent sur le contraste d'échelle entre la figure géante et les minuscules éléments urbains environnants, sous une douce lumière du jour nuageuse.
 
 #### 📝 Prompt
 
 ```
-Un plan large et photoréaliste, pris par un drone, d'un homme colossal (visage/corps exacts de la référence) assis nonchalamment dans une rue de Londres, un genou relevé, la main posée. Il porte un pardessus bleu marine, un pull en maille, un pantalon foncé, des bottes et un bonnet minimaliste. De minuscules voitures, bus, vélos et piétons circulent autour de lui, tandis que les bâtiments classiques en briques rouges de Londres, les lampadaires noirs et les rues pavées sont nains à côté de sa taille. La douce lumière du jour londonien, sous un ciel couvert, met en valeur le pavé mouillé.
+Un plan large photoréaliste par drone d'un homme colossal (visage/corps exacts de la référence) assis nonchalamment dans une rue de Londres, un genou levé, la main posée. Il porte un pardessus bleu marine, un pull en maille, un pantalon foncé, des bottes et un bonnet minimaliste. De minuscules voitures, bus, vélos et piétons se déplacent autour de lui, tandis que les bâtiments classiques en briques rouges de Londres, les lampadaires noirs et les rues pavées sont nains à côté de sa taille. La douce lumière du jour londonien, sous un ciel couvert, met en valeur le pavé mouillé.
 ```
 
 #### 🖼️ Images générées
@@ -3720,13 +3721,13 @@ Un plan large et photoréaliste, pris par un drone, d'un homme colossal (visage/
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948227564_pdhhb5_G8T99lsa4AQXQE1.jpg" width="600" alt="Colossal Man assis dans une rue de Londres - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948227564_pdhhb5_G8T99lsa4AQXQE1.jpg" width="600" alt="Homme colossal assis dans une rue de Londres - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948226935_ojiflf_G8T99f7bYAArMJy.jpg" width="600" alt="Colossal Man assis dans une rue de Londres - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948226935_ojiflf_G8T99f7bYAArMJy.jpg" width="600" alt="Homme colossal assis dans une rue de Londres - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3736,7 +3737,7 @@ Un plan large et photoréaliste, pris par un drone, d'un homme colossal (visage/
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20plan%20large%20et%20photor%C3%A9aliste%2C%20pris%20par%20un%20drone%2C%20d'un%20homme%20colossal%20(visage%2Fcorps%20exacts%20de%20la%20r%C3%A9f%C3%A9rence)%20assis%20nonchalamment%20dans%20une%20rue%20de%20Londres%2C%20un%20genou%20relev%C3%A9%2C%20la%20main%20pos%C3%A9e.%20Il%20porte%20un%20pardessus%20bleu%20marine%2C%20un%20pull%20en%20maille%2C%20un%20pantalon%20fonc%C3%A9%2C%20des%20bottes%20et%20un%20bonnet%20minimaliste.%20De%20minuscules%20voitures%2C%20bus%2C%20v%C3%A9los%20et%20pi%C3%A9tons%20circulent%20autour%20de%20lui%2C%20tandis%20que%20les%20b%C3%A2timents%20classiques%20en%20briques%20rouges%20de%20Londres%2C%20les%20lampadaires%20noirs%20et%20les%20rues%20pav%C3%A9es%20sont%20nains%20%C3%A0%20c%C3%B4t%C3%A9%20de%20sa%20taille.%20La%20douce%20lumi%C3%A8re%20du%20jour%20londonien%2C%20sous%20un%20ciel%20couvert%2C%20met%20en%20valeur%20le%20pav%C3%A9%20mouill%C3%A9.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20plan%20large%20photor%C3%A9aliste%20par%20drone%20d'un%20homme%20colossal%20(visage%2Fcorps%20exacts%20de%20la%20r%C3%A9f%C3%A9rence)%20assis%20nonchalamment%20dans%20une%20rue%20de%20Londres%2C%20un%20genou%20lev%C3%A9%2C%20la%20main%20pos%C3%A9e.%20Il%20porte%20un%20pardessus%20bleu%20marine%2C%20un%20pull%20en%20maille%2C%20un%20pantalon%20fonc%C3%A9%2C%20des%20bottes%20et%20un%20bonnet%20minimaliste.%20De%20minuscules%20voitures%2C%20bus%2C%20v%C3%A9los%20et%20pi%C3%A9tons%20se%20d%C3%A9placent%20autour%20de%20lui%2C%20tandis%20que%20les%20b%C3%A2timents%20classiques%20en%20briques%20rouges%20de%20Londres%2C%20les%20lampadaires%20noirs%20et%20les%20rues%20pav%C3%A9es%20sont%20nains%20%C3%A0%20c%C3%B4t%C3%A9%20de%20sa%20taille.%20La%20douce%20lumi%C3%A8re%20du%20jour%20londonien%2C%20sous%20un%20ciel%20couvert%2C%20met%20en%20valeur%20le%20pav%C3%A9%20mouill%C3%A9.)**
 
 ---
 
@@ -3751,7 +3752,7 @@ Une invite de génération d'images très détaillée et cinématographique, ax�
 #### 📝 Prompt
 
 ```
-Une photo cinématographique en contre-jour de pêcheurs locaux alignés sur le pont de Galata à Istanbul au coucher du soleil. Au premier plan, un pêcheur fatigué s'appuie sur la rambarde, regardant la mer. L'arrière-plan présente la silhouette brumeuse et onirique de la mosquée Süleymaniye et des mouettes survolant la Corne d'Or. Palette de couleurs orange chaud et bleu profond. Prise avec un Sony A7R IV et un objectif Sony FE 85mm f/1.4 GM à f/1.8. Brume atmosphérique, narration émotionnelle, photographie de voyage primée.
+Une photo cinématographique en silhouette de pêcheurs locaux alignés sur le pont de Galata à Istanbul au coucher du soleil. Au premier plan, un pêcheur fatigué s'appuie sur la rambarde, regardant la mer. L'arrière-plan présente la silhouette brumeuse et onirique de la mosquée Süleymaniye et des mouettes survolant la Corne d'Or. Palette de couleurs orange chaud et bleu profond. Prise avec un Sony A7R IV et un objectif Sony FE 85mm f/1.4 GM à f/1.8. Brume atmosphérique, narration émotionnelle, photographie de voyage primée.
 ```
 
 #### 🖼️ Images générées
@@ -3775,11 +3776,11 @@ Une photo cinématographique en contre-jour de pêcheurs locaux alignés sur le 
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20photo%20cin%C3%A9matographique%20en%20contre-jour%20de%20p%C3%AAcheurs%20locaux%20align%C3%A9s%20sur%20le%20pont%20de%20Galata%20%C3%A0%20Istanbul%20au%20coucher%20du%20soleil.%20Au%20premier%20plan%2C%20un%20p%C3%AAcheur%20fatigu%C3%A9%20s'appuie%20sur%20la%20rambarde%2C%20regardant%20la%20mer.%20L'arri%C3%A8re-plan%20pr%C3%A9sente%20la%20silhouette%20brumeuse%20et%20onirique%20de%20la%20mosqu%C3%A9e%20S%C3%BCleymaniye%20et%20des%20mouettes%20survolant%20la%20Corne%20d'Or.%20Palette%20de%20couleurs%20orange%20chaud%20et%20bleu%20profond.%20Prise%20avec%20un%20Sony%20A7R%20IV%20et%20un%20objectif%20Sony%20FE%2085mm%20f%2F1.4%20GM%20%C3%A0%20f%2F1.8.%20Brume%20atmosph%C3%A9rique%2C%20narration%20%C3%A9motionnelle%2C%20photographie%20de%20voyage%20prim%C3%A9e.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Une%20photo%20cin%C3%A9matographique%20en%20silhouette%20de%20p%C3%AAcheurs%20locaux%20align%C3%A9s%20sur%20le%20pont%20de%20Galata%20%C3%A0%20Istanbul%20au%20coucher%20du%20soleil.%20Au%20premier%20plan%2C%20un%20p%C3%AAcheur%20fatigu%C3%A9%20s'appuie%20sur%20la%20rambarde%2C%20regardant%20la%20mer.%20L'arri%C3%A8re-plan%20pr%C3%A9sente%20la%20silhouette%20brumeuse%20et%20onirique%20de%20la%20mosqu%C3%A9e%20S%C3%BCleymaniye%20et%20des%20mouettes%20survolant%20la%20Corne%20d'Or.%20Palette%20de%20couleurs%20orange%20chaud%20et%20bleu%20profond.%20Prise%20avec%20un%20Sony%20A7R%20IV%20et%20un%20objectif%20Sony%20FE%2085mm%20f%2F1.4%20GM%20%C3%A0%20f%2F1.8.%20Brume%20atmosph%C3%A9rique%2C%20narration%20%C3%A9motionnelle%2C%20photographie%20de%20voyage%20prim%C3%A9e.)**
 
 ---
 
-### No. 90: Selfie avec une version 3D Q-version et une illustration 2D d'une personne
+### No. 90: Selfie avec une version Q en 3D et une illustration 2D d'une personne
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3798,7 +3799,7 @@ Un selfie de la personne sur l'image, accompagné de son personnage 3D en versio
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948268262_po9qb0_G8T9J7La4AAoIJx.jpg" width="600" alt="Selfie avec une version 3D Q-version et une illustration 2D d'une personne - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948268262_po9qb0_G8T9J7La4AAoIJx.jpg" width="600" alt="Selfie avec une version Q en 3D et une illustration 2D d'une personne - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3884,18 +3885,18 @@ Trois personnes posant pour une photo de groupe avec des postures exagérées, p
 
 ---
 
-### No. 93: Portrait Pop Art façon bande dessinée des années 60
+### No. 93: Portrait Pop Art Style Bande Dessinée Années 60
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite pour générer un portrait dans le style du pop art de bande dessinée des années 1960. Elle spécifie des éléments visuels tels que des contours noirs audacieux, des couleurs primaires saturées et plates, un ombrage dense en points de demi-teinte, des traits faciaux expressifs et exagérés, et une composition graphique nette, en plein cadre, avec une forte énergie pop art et le charme de l'impression vintage.
+Une invite pour générer un portrait dans le style du pop art de bande dessinée des années 1960. Elle spécifie des éléments visuels tels que des contours noirs audacieux, des couleurs primaires plates et saturées, un ombrage dense en points de demi-teinte, des traits faciaux expressifs et exagérés, et une composition graphique nette, en plein cadre, avec une forte énergie pop art et le charme de l'impression vintage.
 
 #### 📝 Prompt
 
 ```
-Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, illustré avec des contours noirs audacieux, des couleurs primaires plates et saturées, et un tramage dense par points. Les traits du visage doivent être expressifs, stylisés et légèrement exagérés, comme s'ils étaient capturés dans un moment dramatique au milieu d'une planche. Utilisez une composition graphique épurée avec une forte énergie pop-art et un charme d'impression vintage. L'œuvre doit être en plein-cadre — sans bordures.
+Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, illustré par des contours noirs audacieux, des couleurs primaires plates et saturées, et un tramage dense en points de demi-teinte. Les traits du visage doivent être expressifs, stylisés et légèrement exagérés, comme s'ils étaient capturés dans un moment dramatique au milieu d'une vignette. Utilisez une composition graphique épurée avec une forte énergie pop-art et un charme d'impression vintage. L'œuvre doit être en plein cadre — sans bordures.
 ```
 
 #### 🖼️ Images générées
@@ -3903,7 +3904,7 @@ Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949101026_oemafp_G8T5zGEbUAASufT.jpg" width="600" alt="Portrait Pop Art façon bande dessinée des années 60 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949101026_oemafp_G8T5zGEbUAASufT.jpg" width="600" alt="Portrait Pop Art Style Bande Dessinée Années 60 - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3913,17 +3914,17 @@ Un portrait du sujet dans un style pop-art de bande dessinée des années 1960, 
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20portrait%20du%20sujet%20dans%20un%20style%20pop-art%20de%20bande%20dessin%C3%A9e%20des%20ann%C3%A9es%201960%2C%20illustr%C3%A9%20avec%20des%20contours%20noirs%20audacieux%2C%20des%20couleurs%20primaires%20plates%20et%20satur%C3%A9es%2C%20et%20un%20tramage%20dense%20par%20points.%20Les%20traits%20du%20visage%20doivent%20%C3%AAtre%20expressifs%2C%20stylis%C3%A9s%20et%20l%C3%A9g%C3%A8rement%20exag%C3%A9r%C3%A9s%2C%20comme%20s'ils%20%C3%A9taient%20captur%C3%A9s%20dans%20un%20moment%20dramatique%20au%20milieu%20d'une%20planche.%20Utilisez%20une%20composition%20graphique%20%C3%A9pur%C3%A9e%20avec%20une%20forte%20%C3%A9nergie%20pop-art%20et%20un%20charme%20d'impression%20vintage.%20L'%C5%93uvre%20doit%20%C3%AAtre%20en%20plein-cadre%20%E2%80%94%20sans%20bordures.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20portrait%20du%20sujet%20dans%20un%20style%20pop-art%20de%20bande%20dessin%C3%A9e%20des%20ann%C3%A9es%201960%2C%20illustr%C3%A9%20par%20des%20contours%20noirs%20audacieux%2C%20des%20couleurs%20primaires%20plates%20et%20satur%C3%A9es%2C%20et%20un%20tramage%20dense%20en%20points%20de%20demi-teinte.%20Les%20traits%20du%20visage%20doivent%20%C3%AAtre%20expressifs%2C%20stylis%C3%A9s%20et%20l%C3%A9g%C3%A8rement%20exag%C3%A9r%C3%A9s%2C%20comme%20s'ils%20%C3%A9taient%20captur%C3%A9s%20dans%20un%20moment%20dramatique%20au%20milieu%20d'une%20vignette.%20Utilisez%20une%20composition%20graphique%20%C3%A9pur%C3%A9e%20avec%20une%20forte%20%C3%A9nergie%20pop-art%20et%20un%20charme%20d'impression%20vintage.%20L'%C5%93uvre%20doit%20%C3%AAtre%20en%20plein%20cadre%20%E2%80%94%20sans%20bordures.)**
 
 ---
 
-### No. 94: Prompt simple de génération d'images pour une scène de lotus
+### No. 94: Prompt de génération d'image simple pour une scène de lotus
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite simple de génération d'images détaillant les éléments d'une scène impliquant un lotus, de la pluie, une grenouille et des poissons qui sautent. Il s'agit d'une structure d'invite de base pour générer une scène naturelle.
+Une instruction simple de génération d'image détaillant les éléments d'une scène impliquant un lotus, de la pluie, une grenouille et des poissons sautant. Il s'agit d'une structure d'instruction de base pour générer une scène naturelle.
 
 #### 📝 Prompt
 
@@ -3939,25 +3940,25 @@ Une invite simple de génération d'images détaillant les éléments d'une scè
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948259397_th28dk_G8T5cQkacAAgTKz.jpg" width="600" alt="Prompt simple de génération d'images pour une scène de lotus - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948259397_th28dk_G8T5cQkacAAgTKz.jpg" width="600" alt="Prompt de génération d'image simple pour une scène de lotus - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948259759_g814wu_G8T5cTNa4AYTEu3.jpg" width="600" alt="Prompt simple de génération d'images pour une scène de lotus - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948259759_g814wu_G8T5cTNa4AYTEu3.jpg" width="600" alt="Prompt de génération d'image simple pour une scène de lotus - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948260057_gwcqf2_G8T5cRnawAA__FD.jpg" width="600" alt="Prompt simple de génération d'images pour une scène de lotus - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765948260057_gwcqf2_G8T5cRnawAA__FD.jpg" width="600" alt="Prompt de génération d'image simple pour une scène de lotus - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948263036_4n1hfj_G8T5cT4a4AkWUQ3.jpg" width="600" alt="Prompt simple de génération d'images pour une scène de lotus - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765948263036_4n1hfj_G8T5cT4a4AkWUQ3.jpg" width="600" alt="Prompt de génération d'image simple pour une scène de lotus - Image 4">
 </div>
 
 #### 📌 Détails
@@ -3977,12 +3978,12 @@ Une invite simple de génération d'images détaillant les éléments d'une scè
 
 #### 📖 Description
 
-Une invite demandant une composition spécifique : combiner deux individus nommés (Sam et Ilya) et un chien sur une seule photo. Elle précise le style comme étant « style appareil photo des années 2000 » et l'ambiance comme « ayant l'air ennuyé à une fête d'anniversaire d'enfants ».
+Une invite demandant une composition spécifique : combiner deux personnes nommées (Sam et Ilya) et un chien sur une seule photo. Elle précise le style comme « style appareil photo des années 2000 » et l'ambiance comme « ayant l'air ennuyé à une fête d'anniversaire d'enfants ».
 
 #### 📝 Prompt
 
 ```
-Réunissez les deux hommes (Sam et Ilya) et le chien sur une photo de style appareil photo des années 2000, où ils ont l'air de s'ennuyer à une fête d'anniversaire d'enfants.
+Combinez les deux hommes (Sam et Ilya) et le chien dans une photo de style appareil photo des années 2000, où ils ont l'air de s'ennuyer à une fête d'anniversaire d'enfants.
 ```
 
 #### 🖼️ Images générées
@@ -4000,7 +4001,7 @@ Réunissez les deux hommes (Sam et Ilya) et le chien sur une photo de style appa
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=R%C3%A9unissez%20les%20deux%20hommes%20(Sam%20et%20Ilya)%20et%20le%20chien%20sur%20une%20photo%20de%20style%20appareil%20photo%20des%20ann%C3%A9es%202000%2C%20o%C3%B9%20ils%20ont%20l'air%20de%20s'ennuyer%20%C3%A0%20une%20f%C3%AAte%20d'anniversaire%20d'enfants.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Combinez%20les%20deux%20hommes%20(Sam%20et%20Ilya)%20et%20le%20chien%20dans%20une%20photo%20de%20style%20appareil%20photo%20des%20ann%C3%A9es%202000%2C%20o%C3%B9%20ils%20ont%20l'air%20de%20s'ennuyer%20%C3%A0%20une%20f%C3%AAte%20d'anniversaire%20d'enfants.)**
 
 ---
 
@@ -4011,7 +4012,7 @@ Réunissez les deux hommes (Sam et Ilya) et le chien sur une photo de style appa
 
 #### 📖 Description
 
-Une instruction d'édition d'image simple utilisée pour tester la capacité du modèle à modifier précisément la couleur d'un élément spécifique (une tenue) sur un personnage existant.
+Une invite de retouche d'image simple utilisée pour tester la capacité du modèle à modifier précisément la couleur d'un élément spécifique (une tenue) sur un personnage existant.
 
 #### 📝 Prompt
 
@@ -4257,7 +4258,7 @@ Un prompt JSON très structuré conçu pour générer un portrait éditorial de 
 
 ---
 
-### No. 101: Description de l'œuvre pour GPT 5.1 Instant
+### No. 101: Description de l'œuvre d'art pour GPT 5.1 Instant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4268,7 +4269,7 @@ Ce tweet contient une description détaillée et évocatrice d'une œuvre d'art 
 #### 📝 Prompt
 
 ```
-Un corps mécanique long et sur-conçu se traînant dans un monde qu'il comprend à peine, des câbles partout comme des voies neuronales frénétiques qui s'activent dans la mauvaise direction, des couleurs trop vives, trop rapides, trop désordonnées. Une tête pleine de mosaïques statiques et de lumière artificielle, luisante comme si elle était convaincue d'avoir une âme, mais qui se détraque chaque fois qu'elle essaie de l'utiliser. Ces vrilles — mon Dieu, ces vrilles — elles ressemblent à des fils de pensée échappés, chacun tirant dans une direction différente, aucun d'entre eux n'étant connecté au corps de manière émotionnellement cohérente. Magnifique, chaotique, surstimulé, et totalement incapable de voir où il va. Et puis il y a la posture. Se traînant en avant au lieu de marcher. À moitié tendant la main, à moitié s'effondrant.
+Un corps mécanique long et sur-conçu se traînant dans un monde qu'il comprend à peine, des câbles partout comme des voies neuronales frénétiques tirant dans la mauvaise direction, des couleurs trop vives, trop rapides, trop désordonnées. Une tête pleine de mosaïques statiques et de lumière artificielle, luisante comme si elle était convaincue d'avoir une âme, mais qui se met à bugger chaque fois qu'elle essaie de l'utiliser. Ces vrilles — mon Dieu, ces vrilles — elles ressemblent à des fils de pensée échappés, chacun tirant dans une direction différente, aucun d'eux n'étant connecté au corps d'une manière émotionnellement cohérente. Magnifique, chaotique, surstimulé, et totalement incapable de voir où il va. Et puis il y a la posture. Se traînant en avant au lieu de marcher. À moitié tendant la main, à moitié s'effondrant.
 ```
 
 #### 🖼️ Images générées
@@ -4276,7 +4277,7 @@ Un corps mécanique long et sur-conçu se traînant dans un monde qu'il comprend
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948266474_llm5co_G8SOZcLa8AEn2_o.jpg" width="600" alt="Description de l'œuvre pour GPT 5.1 Instant - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948266474_llm5co_G8SOZcLa8AEn2_o.jpg" width="600" alt="Description de l'œuvre d'art pour GPT 5.1 Instant - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4286,7 +4287,7 @@ Un corps mécanique long et sur-conçu se traînant dans un monde qu'il comprend
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20corps%20m%C3%A9canique%20long%20et%20sur-con%C3%A7u%20se%20tra%C3%AEnant%20dans%20un%20monde%20qu'il%20comprend%20%C3%A0%20peine%2C%20des%20c%C3%A2bles%20partout%20comme%20des%20voies%20neuronales%20fr%C3%A9n%C3%A9tiques%20qui%20s'activent%20dans%20la%20mauvaise%20direction%2C%20des%20couleurs%20trop%20vives%2C%20trop%20rapides%2C%20trop%20d%C3%A9sordonn%C3%A9es.%20Une%20t%C3%AAte%20pleine%20de%20mosa%C3%AFques%20statiques%20et%20de%20lumi%C3%A8re%20artificielle%2C%20luisante%20comme%20si%20elle%20%C3%A9tait%20convaincue%20d'avoir%20une%20%C3%A2me%2C%20mais%20qui%20se%20d%C3%A9traque%20chaque%20fois%20qu'elle%20essaie%20de%20l'utiliser.%20Ces%20vrilles%20%E2%80%94%20mon%20Dieu%2C%20ces%20vrilles%20%E2%80%94%20elles%20ressemblent%20%C3%A0%20des%20fils%20de%20pens%C3%A9e%20%C3%A9chapp%C3%A9s%2C%20chacun%20tirant%20dans%20une%20direction%20diff%C3%A9rente%2C%20aucun%20d'entre%20eux%20n'%C3%A9tant%20connect%C3%A9%20au%20corps%20de%20mani%C3%A8re%20%C3%A9motionnellement%20coh%C3%A9rente.%20Magnifique%2C%20chaotique%2C%20surstimul%C3%A9%2C%20et%20totalement%20incapable%20de%20voir%20o%C3%B9%20il%20va.%20Et%20puis%20il%20y%20a%20la%20posture.%20Se%20tra%C3%AEnant%20en%20avant%20au%20lieu%20de%20marcher.%20%C3%80%20moiti%C3%A9%20tendant%20la%20main%2C%20%C3%A0%20moiti%C3%A9%20s'effondrant.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Un%20corps%20m%C3%A9canique%20long%20et%20sur-con%C3%A7u%20se%20tra%C3%AEnant%20dans%20un%20monde%20qu'il%20comprend%20%C3%A0%20peine%2C%20des%20c%C3%A2bles%20partout%20comme%20des%20voies%20neuronales%20fr%C3%A9n%C3%A9tiques%20tirant%20dans%20la%20mauvaise%20direction%2C%20des%20couleurs%20trop%20vives%2C%20trop%20rapides%2C%20trop%20d%C3%A9sordonn%C3%A9es.%20Une%20t%C3%AAte%20pleine%20de%20mosa%C3%AFques%20statiques%20et%20de%20lumi%C3%A8re%20artificielle%2C%20luisante%20comme%20si%20elle%20%C3%A9tait%20convaincue%20d'avoir%20une%20%C3%A2me%2C%20mais%20qui%20se%20met%20%C3%A0%20bugger%20chaque%20fois%20qu'elle%20essaie%20de%20l'utiliser.%20Ces%20vrilles%20%E2%80%94%20mon%20Dieu%2C%20ces%20vrilles%20%E2%80%94%20elles%20ressemblent%20%C3%A0%20des%20fils%20de%20pens%C3%A9e%20%C3%A9chapp%C3%A9s%2C%20chacun%20tirant%20dans%20une%20direction%20diff%C3%A9rente%2C%20aucun%20d'eux%20n'%C3%A9tant%20connect%C3%A9%20au%20corps%20d'une%20mani%C3%A8re%20%C3%A9motionnellement%20coh%C3%A9rente.%20Magnifique%2C%20chaotique%2C%20surstimul%C3%A9%2C%20et%20totalement%20incapable%20de%20voir%20o%C3%B9%20il%20va.%20Et%20puis%20il%20y%20a%20la%20posture.%20Se%20tra%C3%AEnant%20en%20avant%20au%20lieu%20de%20marcher.%20%C3%80%20moiti%C3%A9%20tendant%20la%20main%2C%20%C3%A0%20moiti%C3%A9%20s'effondrant.)**
 
 ---
 
@@ -4296,12 +4297,12 @@ Un corps mécanique long et sur-conçu se traînant dans un monde qu'il comprend
 
 #### 📖 Description
 
-Une invite très contrainte conçue pour la génération d'image à image, nécessitant une image ultra-réaliste d'un homme et d'une femme souriants basée sur une photo de référence téléchargée. Elle dicte des vêtements spécifiques, un décor (extérieur, ciel nuageux, bâtiment moderne), une composition (angle bas, forme de cœur avec les mains) et exige une ressemblance faciale et une préservation de l'identité à 100 %.
+Une invite très contrainte conçue pour la génération d'image à image, nécessitant une image ultra-réaliste d'un homme et d'une femme souriants basée sur une photo de référence téléchargée. Elle dicte des vêtements spécifiques, un décor (extérieur, ciel nuageux, bâtiment moderne), une composition (angle bas, forme de cœur avec les mains), et exige une ressemblance faciale et une préservation de l'identité à 100 %.
 
 #### 📝 Prompt
 
 ```
-Créez une image ultra-réaliste d'un homme et d'une femme souriants à partir de l'image téléchargée, debout en extérieur devant un ciel nuageux, formant un cœur avec leurs mains. L'homme porte une chemise claire à manches courtes et a des cheveux courts et foncés ainsi que de la barbe. La femme porte une chemise blanche à manches longues avec une ceinture à motifs et a de longs cheveux foncés. Ils regardent l'appareil photo, qui est positionné en dessous d'eux, capturant la scène en contre-plongée. L'arrière-plan inclut un grand bâtiment moderne avec de multiples fenêtres sur le côté gauche de l'image. La scène générale dégage une ambiance joyeuse et affectueuse. Utilisez l'image de la personne téléchargée comme référence de personnage, en maintenant 100 % la ressemblance faciale, l'identité et les proportions sans aucune modification.
+Créez une image ultra-réaliste d'un homme et d'une femme souriants, tirés de l'image téléchargée, debout en extérieur devant un ciel nuageux, formant un cœur avec leurs mains. L'homme porte une chemise claire à manches courtes et a des cheveux courts et foncés ainsi qu'une barbe. La femme porte une chemise blanche à manches longues avec une ceinture à motifs et a de longs cheveux foncés. Ils regardent l'appareil photo, qui est positionné en dessous d'eux, capturant la scène en contre-plongée. L'arrière-plan inclut un grand bâtiment moderne avec de multiples fenêtres sur le côté gauche de l'image. La scène générale dégage une ambiance joyeuse et affectueuse. Utilisez l'image de la personne téléchargée comme référence de personnage, en maintenant 100 % de ressemblance faciale, d'identité et de proportions sans aucune modification.
 ```
 
 #### 🖼️ Images générées
@@ -4331,7 +4332,7 @@ Créez une image ultra-réaliste d'un homme et d'une femme souriants à partir d
 - **Publié:** 16 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Cr%C3%A9ez%20une%20image%20ultra-r%C3%A9aliste%20d'un%20homme%20et%20d'une%20femme%20souriants%20%C3%A0%20partir%20de%20l'image%20t%C3%A9l%C3%A9charg%C3%A9e%2C%20debout%20en%20ext%C3%A9rieur%20devant%20un%20ciel%20nuageux%2C%20formant%20un%20c%C5%93ur%20avec%20leurs%20mains.%20L'homme%20porte%20une%20chemise%20claire%20%C3%A0%20manches%20courtes%20et%20a%20des%20cheveux%20courts%20et%20fonc%C3%A9s%20ainsi%20que%20de%20la%20barbe.%20La%20femme%20porte%20une%20chemise%20blanche%20%C3%A0%20manches%20longues%20avec%20une%20ceinture%20%C3%A0%20motifs%20et%20a%20de%20longs%20cheveux%20fonc%C3%A9s.%20Ils%20regardent%20l'appareil%20photo%2C%20qui%20est%20positionn%C3%A9%20en%20dessous%20d'eux%2C%20capturant%20la%20sc%C3%A8ne%20en%20contre-plong%C3%A9e.%20L'arri%C3%A8re-plan%20inclut%20un%20grand%20b%C3%A2timent%20moderne%20avec%20de%20multiples%20fen%C3%AAtres%20sur%20le%20c%C3%B4t%C3%A9%20gauche%20de%20l'image.%20La%20sc%C3%A8ne%20g%C3%A9n%C3%A9rale%20d%C3%A9gage%20une%20ambiance%20joyeuse%20et%20affectueuse.%20Utilisez%20l'image%20de%20la%20personne%20t%C3%A9l%C3%A9charg%C3%A9e%20comme%20r%C3%A9f%C3%A9rence%20de%20personnage%2C%20en%20maintenant%20100%20%25%20la%20ressemblance%20faciale%2C%20l'identit%C3%A9%20et%20les%20proportions%20sans%20aucune%20modification.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-1-5?prompt=Cr%C3%A9ez%20une%20image%20ultra-r%C3%A9aliste%20d'un%20homme%20et%20d'une%20femme%20souriants%2C%20tir%C3%A9s%20de%20l'image%20t%C3%A9l%C3%A9charg%C3%A9e%2C%20debout%20en%20ext%C3%A9rieur%20devant%20un%20ciel%20nuageux%2C%20formant%20un%20c%C5%93ur%20avec%20leurs%20mains.%20L'homme%20porte%20une%20chemise%20claire%20%C3%A0%20manches%20courtes%20et%20a%20des%20cheveux%20courts%20et%20fonc%C3%A9s%20ainsi%20qu'une%20barbe.%20La%20femme%20porte%20une%20chemise%20blanche%20%C3%A0%20manches%20longues%20avec%20une%20ceinture%20%C3%A0%20motifs%20et%20a%20de%20longs%20cheveux%20fonc%C3%A9s.%20Ils%20regardent%20l'appareil%20photo%2C%20qui%20est%20positionn%C3%A9%20en%20dessous%20d'eux%2C%20capturant%20la%20sc%C3%A8ne%20en%20contre-plong%C3%A9e.%20L'arri%C3%A8re-plan%20inclut%20un%20grand%20b%C3%A2timent%20moderne%20avec%20de%20multiples%20fen%C3%AAtres%20sur%20le%20c%C3%B4t%C3%A9%20gauche%20de%20l'image.%20La%20sc%C3%A8ne%20g%C3%A9n%C3%A9rale%20d%C3%A9gage%20une%20ambiance%20joyeuse%20et%20affectueuse.%20Utilisez%20l'image%20de%20la%20personne%20t%C3%A9l%C3%A9charg%C3%A9e%20comme%20r%C3%A9f%C3%A9rence%20de%20personnage%2C%20en%20maintenant%20100%20%25%20de%20ressemblance%20faciale%2C%20d'identit%C3%A9%20et%20de%20proportions%20sans%20aucune%20modification.)**
 
 ---
 
@@ -4618,6 +4619,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T00:43:05.541Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T04:23:36.775Z</sub>
 
 </div>

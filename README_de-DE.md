@@ -88,7 +88,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **108** |
 | ⭐ Ausgewählt | **1** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 00:43:04 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 04:23:36 UTC** |
 
 </div>
 
@@ -1063,28 +1063,28 @@ Bob Ross-Stil-Gemälde der Zukunft.
 
 ---
 
-### No. 23: Sorgloses Sommerstrand-Ästhetik-Foto
+### No. 23: Sorgloses Sommer-Strand-Ästhetik-Foto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein umfangreicher, mehrteiliger Prompt, der der Formel [Szene] → [Subjekt] → [Details] → [Einschränkungen] folgt. Er erzeugt ein hochwertiges, authentisch wirkendes Foto einer Frau an einem tropischen Strand, wobei der Fokus stark auf spezifischen Details liegt, wie Kleidung, minimales Make-up, Beleuchtung am späten Nachmittag (warmes, goldenes Gegenlicht), Kamerawinkel (3/4-Rückenansicht, Ganzkörper, 35-mm-Objektiv-Feeling) und der gewünschten Ästhetik (sorglose Sommer-Instagram-Ästhetik, lebendig, sonnenverwöhnt, Urlaubsstimmung).
+Ein umfangreicher, mehrteiliger Prompt, der der Formel [Szene] → [Subjekt] → [Details] → [Einschränkungen] folgt. Er generiert ein hochwertiges, authentisch wirkendes Foto einer Frau an einem tropischen Strand, wobei der Schwerpunkt auf spezifischen Details wie Kleidung, minimalem Make-up, spätnachmittäglichem Licht (warm, golden, Gegenlicht), Kamerawinkel (3/4-Rückenansicht, Ganzkörper, 35-mm-Objektiv-Feeling) und der gewünschten Ästhetik (sorglose Sommer-Instagram-Ästhetik, lebendig, sonnenverwöhnt, Urlaubsstimmung) liegt.
 
 #### 📝 Prompt
 
 ```
-Eine Frau Mitte 20 mit sonnengebräunter Haut und Beach Waves im Haar. Sie trägt ein weißes Häkel-Bikinioberteil und hochgeschnittene Jeans-Shorts.
+Eine Frau Mitte zwanzig mit sonnengebräunter Haut und Beach Waves im Haar. Sie trägt ein weißes Häkel-Bikinioberteil und hoch taillierte Jeans-Shorts.
 
-Minimales Make-up – nur gebräunte Haut und glänzende Lippen. Sie geht am Ufer entlang und blickt mit einem strahlenden, echten Lächeln über ihre Schulter zur Kamera zurück.
+Minimales Make-up – nur gebräunte Haut und glänzende Lippen. Sie geht am Ufer entlang und blickt über ihre Schulter zurück zur Kamera mit einem strahlenden, echten Lächeln.
 
 Tropischer Strand mit weißem Sand und türkisfarbenem Wasser. Kleine Wellen schwappen ans Ufer. Klarer blauer Himmel mit ein paar zarten Wolken. Palmen sind im entfernten Hintergrund sichtbar. Später Nachmittag.
 
-Aufnahme von hinten und leicht seitlich (3/4 Rückenansicht), während sie wegläuft, aber sie hat den Kopf zur Kamera zurückgedreht. Ganzkörperaufnahme, die sie von Kopf bis Fuß im Wasser zeigt. 35-mm-Objektiv-Feeling. Sie ist mittig rechts im Bild positioniert, wobei sich der Ozean nach links erstreckt.
+Aufnahme von hinten und leicht seitlich (3/4 Rückenansicht), während sie wegläuft, aber sie hat ihren Kopf zur Kamera zurückgedreht. Ganzkörperaufnahme, die sie von Kopf bis Fuß im Wasser zeigt. 35-mm-Objektiv-Feeling. Sie ist mittig rechts im Bild positioniert, wobei sich der Ozean nach links erstreckt.
 
-Warmes, goldenes Spätnachmittagslicht. Die Sonne ist hinter ihr und erzeugt ein leichtes Gegenlicht auf ihrem Haar und ihren Schultern. Weiches, schmeichelhaftes Licht auf ihrem Gesicht, während sie zurückblickt.
+Warmes, goldenes Spätnachmittagslicht. Die Sonne ist hinter ihr und erzeugt ein leichtes Gegenlicht auf ihren Haaren und Schultern. Weiches, schmeichelhaftes Licht auf ihrem Gesicht, während sie zurückblickt.
 
-Unbeschwerte Sommer-Instagram-Ästhetik. Lebendige Blau- und Weißtöne, sonnenverwöhnt, Urlaubsstimmung. Sollte wie ein spontaner Moment wirken, der bei einem Strandspaziergang festgehalten wurde, nicht wie ein formelles Fotoshooting. Echte Wasserspritzer, windgepeitschte Haare, natürliche Bewegung.
+Unbeschwerte Sommer-Instagram-Ästhetik. Lebendige Blau- und Weißtöne, sonnenverwöhnt, Urlaubsstimmung. Sollte wie ein spontaner Moment wirken, der bei einem Strandspaziergang eingefangen wurde, nicht wie ein formelles Fotoshooting. Echte Wasserspritzer, windzerzaustes Haar, natürliche Bewegung.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1092,7 +1092,7 @@ Unbeschwerte Sommer-Instagram-Ästhetik. Lebendige Blau- und Weißtöne, sonnenv
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949100834_mtwhq2_G8VbgwoacAAXHQm.jpg" width="600" alt="Sorgloses Sommerstrand-Ästhetik-Foto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949100834_mtwhq2_G8VbgwoacAAXHQm.jpg" width="600" alt="Sorgloses Sommer-Strand-Ästhetik-Foto - Image 1">
 </div>
 
 #### 📌 Details
@@ -1102,7 +1102,7 @@ Unbeschwerte Sommer-Instagram-Ästhetik. Lebendige Blau- und Weißtöne, sonnenv
 - **Veröffentlicht:** 17. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20Frau%20Mitte%2020%20mit%20sonnengebr%C3%A4unter%20Haut%20und%20Beach%20Waves%20im%20Haar.%20Sie%20tr%C3%A4gt%20ein%20wei%C3%9Fes%20H%C3%A4kel-Bikinioberteil%20und%20hochgeschnittene%20Jeans-Shorts.%0A%0AMinimales%20Make-up%20%E2%80%93%20nur%20gebr%C3%A4unte%20Haut%20und%20gl%C3%A4nzende%20Lippen.%20Sie%20geht%20am%20Ufer%20entlang%20und%20blickt%20mit%20einem%20strahlenden%2C%20echten%20L%C3%A4cheln%20%C3%BCber%20ihre%20Schulter%20zur%20Kamera%20zur%C3%BCck.%0A%0ATropischer%20Strand%20mit%20wei%C3%9Fem%20Sand%20und%20t%C3%BCrkisfarbenem%20Wasser.%20Kleine%20Wellen%20schwappen%20ans%20Ufer.%20Klarer%20blauer%20Himmel%20mit%20ein%20paar%20zarten%20Wolken.%20Palmen%20sind%20im%20entfernten%20Hintergrund%20sichtbar.%20Sp%C3%A4ter%20Nachmittag.%0A%0AAufnahme%20von%20hinten%20und%20leicht%20seitlich%20(3%2F4%20R%C3%BCckenansicht)%2C%20w%C3%A4hrend%20sie%20wegl%C3%A4uft%2C%20aber%20sie%20hat%20den%20Kopf%20zur%20Kamera%20zur%C3%BCckgedreht.%20Ganzk%C3%B6rperaufnahme%2C%20die%20sie%20von%20Kopf%20bis%20Fu%C3%9F%20im%20Wasser%20zeigt.%2035-mm-Objektiv-Feeling.%20Sie%20ist%20mittig%20rechts%20im%20Bild%20positioniert%2C%20wobei%20sich%20der%20Ozean%20nach%20links%20erstreckt.%0A%0AWarmes%2C%20goldenes%20Sp%C3%A4tnachmittagslicht.%20Die%20Sonne%20ist%20hinter%20ihr%20und%20erzeugt%20ein%20leichtes%20Gegenlicht%20auf%20ihrem%20Haar%20und%20ihren%20Schultern.%20Weiches%2C%20schmeichelhaftes%20Licht%20auf%20ihrem%20Gesicht%2C%20w%C3%A4hrend%20sie%20zur%C3%BCckblickt.%0A%0AUnbeschwerte%20Sommer-Instagram-%C3%84sthetik.%20Lebendige%20Blau-%20und%20Wei%C3%9Ft%C3%B6ne%2C%20sonnenverw%C3%B6hnt%2C%20Urlaubsstimmung.%20Sollte%20wie%20ein%20spontaner%20Moment%20wirken%2C%20der%20bei%20einem%20Strandspaziergang%20festgehalten%20wurde%2C%20nicht%20wie%20ein%20formelles%20Fotoshooting.%20Echte%20Wasserspritzer%2C%20windgepeitschte%20Haare%2C%20nat%C3%BCrliche%20Bewegung.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20Frau%20Mitte%20zwanzig%20mit%20sonnengebr%C3%A4unter%20Haut%20und%20Beach%20Waves%20im%20Haar.%20Sie%20tr%C3%A4gt%20ein%20wei%C3%9Fes%20H%C3%A4kel-Bikinioberteil%20und%20hoch%20taillierte%20Jeans-Shorts.%0A%0AMinimales%20Make-up%20%E2%80%93%20nur%20gebr%C3%A4unte%20Haut%20und%20gl%C3%A4nzende%20Lippen.%20Sie%20geht%20am%20Ufer%20entlang%20und%20blickt%20%C3%BCber%20ihre%20Schulter%20zur%C3%BCck%20zur%20Kamera%20mit%20einem%20strahlenden%2C%20echten%20L%C3%A4cheln.%0A%0ATropischer%20Strand%20mit%20wei%C3%9Fem%20Sand%20und%20t%C3%BCrkisfarbenem%20Wasser.%20Kleine%20Wellen%20schwappen%20ans%20Ufer.%20Klarer%20blauer%20Himmel%20mit%20ein%20paar%20zarten%20Wolken.%20Palmen%20sind%20im%20entfernten%20Hintergrund%20sichtbar.%20Sp%C3%A4ter%20Nachmittag.%0A%0AAufnahme%20von%20hinten%20und%20leicht%20seitlich%20(3%2F4%20R%C3%BCckenansicht)%2C%20w%C3%A4hrend%20sie%20wegl%C3%A4uft%2C%20aber%20sie%20hat%20ihren%20Kopf%20zur%20Kamera%20zur%C3%BCckgedreht.%20Ganzk%C3%B6rperaufnahme%2C%20die%20sie%20von%20Kopf%20bis%20Fu%C3%9F%20im%20Wasser%20zeigt.%2035-mm-Objektiv-Feeling.%20Sie%20ist%20mittig%20rechts%20im%20Bild%20positioniert%2C%20wobei%20sich%20der%20Ozean%20nach%20links%20erstreckt.%0A%0AWarmes%2C%20goldenes%20Sp%C3%A4tnachmittagslicht.%20Die%20Sonne%20ist%20hinter%20ihr%20und%20erzeugt%20ein%20leichtes%20Gegenlicht%20auf%20ihren%20Haaren%20und%20Schultern.%20Weiches%2C%20schmeichelhaftes%20Licht%20auf%20ihrem%20Gesicht%2C%20w%C3%A4hrend%20sie%20zur%C3%BCckblickt.%0A%0AUnbeschwerte%20Sommer-Instagram-%C3%84sthetik.%20Lebendige%20Blau-%20und%20Wei%C3%9Ft%C3%B6ne%2C%20sonnenverw%C3%B6hnt%2C%20Urlaubsstimmung.%20Sollte%20wie%20ein%20spontaner%20Moment%20wirken%2C%20der%20bei%20einem%20Strandspaziergang%20eingefangen%20wurde%2C%20nicht%20wie%20ein%20formelles%20Fotoshooting.%20Echte%20Wasserspritzer%2C%20windzerzaustes%20Haar%2C%20nat%C3%BCrliche%20Bewegung.)**
 
 ---
 
@@ -1643,7 +1643,7 @@ Realistisches Foto einer Katze
 
 #### 📖 Beschreibung
 
-Ein einzigartiger Prompt, der einen modernen Fotostil (iPhone-Foto) mit hochspezifischen historischen und geografischen Koordinaten (7°15′32″S 112°44′12″E) und einem präzisen Datum (19. September 1945) kombiniert, um ein Bild eines historischen Ereignisses aus der Perspektive einer Menschenmenge zu generieren.
+Ein einzigartiger Prompt, der einen modernen Fotografie-Stil (iPhone-Foto) mit hochspezifischen historischen und geografischen Koordinaten (7°15′32″S 112°44′12″E) und einem präzisen Datum (19. September 1945) kombiniert, um ein Bild eines historischen Ereignisses aus der Perspektive einer Menschenmenge zu generieren.
 
 #### 📝 Prompt
 
@@ -1723,7 +1723,7 @@ Ein YouTube-Miniaturbild mit einer geteilten Bildschirmkomposition. Die linke Se
 
 #### 📖 Beschreibung
 
-Ein kreativer Prompt, der die Fähigkeit von GPT Image 1.5 testen soll, ein spezifisches, schwer erkennbares verstecktes Wort („zsakib“) in ein komplexes Bild – ein Löwenrudel – einzubetten, das, einmal entdeckt, offensichtlich wird.
+Ein kreativer Prompt, der entwickelt wurde, um die Fähigkeit von GPT Image 1.5 zu testen, ein spezifisches, schwer erkennbares verstecktes Wort („zsakib“) in ein komplexes Bild – ein Löwenrudel – einzubetten, das, sobald es entdeckt wird, offensichtlich wird.
 
 #### 📝 Prompt
 
@@ -1756,7 +1756,7 @@ Erstelle ein Foto mit einem darin eingebetteten versteckten Wort. Das Wort soll 
 
 #### 📖 Beschreibung
 
-Ein sehr spezifischer Prompt für ein makrofotorealistisches Diorama, das auf der Rückseite eines kupfernen US-Pennys aufgebaut ist. Es zeigt Miniaturarchitektur (Lincoln Memorial), winzige Modell-Touristen, Kirschblütenbäume, warmes Sonnenuntergangslicht und Tilt-Shift-Fotografie, einschließlich eines riesigen Daumenabdrucks zur Größenbestimmung.
+Ein sehr spezifischer Prompt für ein makrofotorealistisches Diorama, das auf der Rückseite eines kupfernen US-Pennys gebaut wurde. Es beschreibt Miniaturarchitektur (Lincoln Memorial), winzige Modell-Touristen, Kirschblütenbäume, warmes Sonnenuntergangslicht und Tilt-Shift-Fotografie, einschließlich eines riesigen Daumenabdrucks zur Größenbestimmung.
 
 #### 📝 Prompt
 
@@ -1795,7 +1795,7 @@ Ein makrofotoreales Diorama, direkt auf der Rückseite eines kupfernen US-Pennys
 
 #### 📖 Beschreibung
 
-Ein prägnanter Prompt, der für die Bildbearbeitung oder Bild-zu-Bild-Generierung verwendet wird und das Modell anweist, zwei bereitgestellte Referenzfotos zu kombinieren.
+Ein prägnanter Prompt, der für Bildbearbeitung oder Bild-zu-Bild-Generierung verwendet wird und das Modell anweist, zwei bereitgestellte Referenzfotos zu kombinieren.
 
 #### 📝 Prompt
 
@@ -1867,7 +1867,7 @@ Ein fotorealistisches Bild einer Frau in einem weißen Kleid, die in einem Feld 
 
 #### 📖 Beschreibung
 
-Eine einfache Anweisung, die das Modell anweist, ein Bild eines Mannes zu generieren, der im Stil des Albumcovers von Michael Jacksons „Thriller“ gestaltet ist, um die Fähigkeit des Modells zu testen, spezifische kulturelle Referenzen und Stile zu interpretieren und anzuwenden.
+Eine einfache Anweisung an das Modell, ein Bild eines Mannes zu generieren, der im Stil des Albumcovers von Michael Jacksons „Thriller“ gestaltet ist, um die Fähigkeit des Modells zu testen, spezifische kulturelle Referenzen und Stile zu interpretieren und anzuwenden.
 
 #### 📝 Prompt
 
@@ -1912,7 +1912,7 @@ Eine einfache Aufforderung, die ein Bild anfordert, das wie ein Fortnite-Screens
 #### 📝 Prompt
 
 ```
-Fortnite-Screenshot des Skin-Auswahlmenüs, das {argument name="character name" default="Trump"} als Fortnite-Skin auswählt
+Fortnite-Screenshot des Skin-Auswahlmenüs, bei dem {argument name="character name" default="Trump"} als Fortnite-Skin ausgewählt wird
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1930,7 +1930,7 @@ Fortnite-Screenshot des Skin-Auswahlmenüs, das {argument name="character name" 
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Fortnite-Screenshot%20des%20Skin-Auswahlmen%C3%BCs%2C%20das%20%7Bargument%20name%3D%22character%20name%22%20default%3D%22Trump%22%7D%20als%20Fortnite-Skin%20ausw%C3%A4hlt)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Fortnite-Screenshot%20des%20Skin-Auswahlmen%C3%BCs%2C%20bei%20dem%20%7Bargument%20name%3D%22character%20name%22%20default%3D%22Trump%22%7D%20als%20Fortnite-Skin%20ausgew%C3%A4hlt%20wird)**
 
 ---
 
@@ -1940,13 +1940,13 @@ Fortnite-Screenshot des Skin-Auswahlmenüs, das {argument name="character name" 
 
 #### 📖 Beschreibung
 
-Eine iterative Prompt-Sequenz, die verwendet wird, um das Ergebnis einer Bildgenerierung zu verfeinern, beginnend mit der Anforderung eines realistischen Fotos und dann noch größeren Realismus mit spezifischen Details wie Hauttextur fordernd, wobei ein nicht-künstlerisches, menschliches Aussehen betont wird.
+Eine iterative Prompt-Sequenz, die verwendet wird, um ein Bilderzeugungsergebnis zu verfeinern, beginnend mit der Anforderung eines realistischen Fotos und dann der Forderung nach noch größerem Realismus mit spezifischen Details wie Hauttextur, wobei ein nicht-künstlerischer, menschlicher Look betont wird.
 
 #### 📝 Prompt
 
 ```
 Erstelle ein realistisches Foto von ihr.
-Zweiter Versuch: Mach es noch realistischer, wie ein echter Mensch mit Hautdetails. Keine Kunst.
+Zweiter Versuch: Mach es noch realistischer. Wie ein echter Mensch mit Hautdetails. Keine Kunst.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1970,18 +1970,18 @@ Zweiter Versuch: Mach es noch realistischer, wie ein echter Mensch mit Hautdetai
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20realistisches%20Foto%20von%20ihr.%0AZweiter%20Versuch%3A%20Mach%20es%20noch%20realistischer%2C%20wie%20ein%20echter%20Mensch%20mit%20Hautdetails.%20Keine%20Kunst.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20realistisches%20Foto%20von%20ihr.%0AZweiter%20Versuch%3A%20Mach%20es%20noch%20realistischer.%20Wie%20ein%20echter%20Mensch%20mit%20Hautdetails.%20Keine%20Kunst.)**
 
 ---
 
-### No. 47: GPT Image 1.5 Feier-Illustration-Prompt
+### No. 47: GPT Image 1.5 Feier-Illustration Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Dies ist ein Prompt, der verwendet wurde, um eine feierliche Illustration für die Veröffentlichung von GPT-image-1.5 zu generieren, wobei die KI speziell angewiesen wurde, den Text „GPT-image-1.5 is released today“ in das Bild aufzunehmen. Der Benutzer merkt an, dass der japanische Text ohne Fehler generiert wurde, obwohl der Ausgabetext leicht von der Anweisung abwich.
+Dies ist ein Prompt, der verwendet wurde, um eine feierliche Illustration für die Veröffentlichung von GPT-image-1.5 zu erstellen, wobei die KI angewiesen wurde, den Text „GPT-image-1.5 is released today“ in das Bild aufzunehmen. Der Benutzer merkt an, dass der japanische Text ohne Fehler generiert wurde, obwohl der Ausgabetext leicht von der Anweisung abweicht.
 
 #### 📝 Prompt
 
@@ -1994,7 +1994,7 @@ Erstellen Sie eine festliche Illustration mit dem Text: „{argument name="celeb
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949135354_29g517_G8UvDOAbkAA1yWM.jpg" width="600" alt="GPT Image 1.5 Feier-Illustration-Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949135354_29g517_G8UvDOAbkAA1yWM.jpg" width="600" alt="GPT Image 1.5 Feier-Illustration Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -2008,7 +2008,7 @@ Erstellen Sie eine festliche Illustration mit dem Text: „{argument name="celeb
 
 ---
 
-### No. 48: Fotorealistischer Hamburger: halb Glas, halb normal
+### No. 48: Fotorealistischer Hamburger, halb Glas, halb normal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2027,13 +2027,13 @@ Hallo, bitte erstellen Sie ein fotorealistisches Bild eines Hamburgers, bei dem 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948232524_b559ww_G8Uqf4EXYAA2lNJ.jpg" width="600" alt="Fotorealistischer Hamburger: halb Glas, halb normal - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948232524_b559ww_G8Uqf4EXYAA2lNJ.jpg" width="600" alt="Fotorealistischer Hamburger, halb Glas, halb normal - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948233105_o2ppl6_G8Uqj2UWoAAMAFx.jpg" width="600" alt="Fotorealistischer Hamburger: halb Glas, halb normal - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948233105_o2ppl6_G8Uqj2UWoAAMAFx.jpg" width="600" alt="Fotorealistischer Hamburger, halb Glas, halb normal - Image 2">
 </div>
 
 #### 📌 Details
@@ -2059,7 +2059,7 @@ Ein detaillierter Zero-Shot-Prompt zur Generierung eines modernen Tech-Influence
 #### 📝 Prompt
 
 ```
-Ein modernes Tech-Influencer-Posterdesign auf einem leuchtenden, {argument name="background color" default="königsblauen"} Hintergrund. Ein stilvoller junger Mann in einer {argument name="jacket color" default="schwarzen"} Bomberjacke, weißem T-Shirt, schwarzen Jeans und schwarzen Stiefeln geht selbstbewusst auf die Kamera zu. Er trägt eine verspiegelte Sonnenbrille und hat einen minimalistischen, selbstbewussten Ausdruck. Das Motiv ist in Graustufen gehalten, während der Hintergrund voll gesättigt bleibt.
+Ein modernes Tech-Influencer-Posterdesign auf einem lebendigen, {argument name="background color" default="königsblauen"} Hintergrund. Ein stilvoller junger Mann in einer {argument name="jacket color" default="schwarzen"} Bomberjacke, weißem T-Shirt, schwarzen Jeans und schwarzen Stiefeln geht selbstbewusst auf die Kamera zu. Er trägt eine verspiegelte Sonnenbrille und hat einen minimalistischen, selbstbewussten Ausdruck. Das Motiv ist in Graustufen gehalten, während der Hintergrund voll gesättigt bleibt.
 
 Hinter ihm schwebt ein minimalistischer, weiß umrandeter Browserfensterrahmen, der ein digitales UI-Gefühl vermittelt. Auf der rechten Seite schwebt ein schlankes, leicht angewinkeltes Laptop, das eine futuristische Tech-Ästhetik hinzufügt.
 
@@ -2081,7 +2081,7 @@ Unten eine fette, große weiße Typografie mit der Aufschrift „{argument name=
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20modernes%20Tech-Influencer-Posterdesign%20auf%20einem%20leuchtenden%2C%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22k%C3%B6nigsblauen%22%7D%20Hintergrund.%20Ein%20stilvoller%20junger%20Mann%20in%20einer%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22schwarzen%22%7D%20Bomberjacke%2C%20wei%C3%9Fem%20T-Shirt%2C%20schwarzen%20Jeans%20und%20schwarzen%20Stiefeln%20geht%20selbstbewusst%20auf%20die%20Kamera%20zu.%20Er%20tr%C3%A4gt%20eine%20verspiegelte%20Sonnenbrille%20und%20hat%20einen%20minimalistischen%2C%20selbstbewussten%20Ausdruck.%20Das%20Motiv%20ist%20in%20Graustufen%20gehalten%2C%20w%C3%A4hrend%20der%20Hintergrund%20voll%20ges%C3%A4ttigt%20bleibt.%0A%0AHinter%20ihm%20schwebt%20ein%20minimalistischer%2C%20wei%C3%9F%20umrandeter%20Browserfensterrahmen%2C%20der%20ein%20digitales%20UI-Gef%C3%BChl%20vermittelt.%20Auf%20der%20rechten%20Seite%20schwebt%20ein%20schlankes%2C%20leicht%20angewinkeltes%20Laptop%2C%20das%20eine%20futuristische%20Tech-%C3%84sthetik%20hinzuf%C3%BCgt.%0A%0AUnten%20eine%20fette%2C%20gro%C3%9Fe%20wei%C3%9Fe%20Typografie%20mit%20der%20Aufschrift%20%E2%80%9E%7Bargument%20name%3D%22main%20text%22%20default%3D%22ai%20manifesto%22%7D%E2%80%9C%2C%20dar%C3%BCber%20ein%20kleinerer%20Text%20mit%20%E2%80%9E%7Bargument%20name%3D%22small%20text%20above%22%20default%3D%22I%20read%20the%22%7D%E2%80%9C%20und%20darunter%20ein%20kleinerer%20Branding-Text.%20Klares%20Layout%2C%20starker%20Kontrast%2C%20redaktioneller%20Posterstil%2C%20Startup-Branding-%C3%84sthetik%2C%20moderne%20Typografie%2C%20High-Fashion-Tech-Vibe%2C%20Studiobeleuchtung%2C%20scharfer%20Fokus%2C%20ultrahohe%20Aufl%C3%B6sung.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20modernes%20Tech-Influencer-Posterdesign%20auf%20einem%20lebendigen%2C%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22k%C3%B6nigsblauen%22%7D%20Hintergrund.%20Ein%20stilvoller%20junger%20Mann%20in%20einer%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22schwarzen%22%7D%20Bomberjacke%2C%20wei%C3%9Fem%20T-Shirt%2C%20schwarzen%20Jeans%20und%20schwarzen%20Stiefeln%20geht%20selbstbewusst%20auf%20die%20Kamera%20zu.%20Er%20tr%C3%A4gt%20eine%20verspiegelte%20Sonnenbrille%20und%20hat%20einen%20minimalistischen%2C%20selbstbewussten%20Ausdruck.%20Das%20Motiv%20ist%20in%20Graustufen%20gehalten%2C%20w%C3%A4hrend%20der%20Hintergrund%20voll%20ges%C3%A4ttigt%20bleibt.%0A%0AHinter%20ihm%20schwebt%20ein%20minimalistischer%2C%20wei%C3%9F%20umrandeter%20Browserfensterrahmen%2C%20der%20ein%20digitales%20UI-Gef%C3%BChl%20vermittelt.%20Auf%20der%20rechten%20Seite%20schwebt%20ein%20schlankes%2C%20leicht%20angewinkeltes%20Laptop%2C%20das%20eine%20futuristische%20Tech-%C3%84sthetik%20hinzuf%C3%BCgt.%0A%0AUnten%20eine%20fette%2C%20gro%C3%9Fe%20wei%C3%9Fe%20Typografie%20mit%20der%20Aufschrift%20%E2%80%9E%7Bargument%20name%3D%22main%20text%22%20default%3D%22ai%20manifesto%22%7D%E2%80%9C%2C%20dar%C3%BCber%20ein%20kleinerer%20Text%20mit%20%E2%80%9E%7Bargument%20name%3D%22small%20text%20above%22%20default%3D%22I%20read%20the%22%7D%E2%80%9C%20und%20darunter%20ein%20kleinerer%20Branding-Text.%20Klares%20Layout%2C%20starker%20Kontrast%2C%20redaktioneller%20Posterstil%2C%20Startup-Branding-%C3%84sthetik%2C%20moderne%20Typografie%2C%20High-Fashion-Tech-Vibe%2C%20Studiobeleuchtung%2C%20scharfer%20Fokus%2C%20ultrahohe%20Aufl%C3%B6sung.)**
 
 ---
 
@@ -2092,12 +2092,12 @@ Unten eine fette, große weiße Typografie mit der Aufschrift „{argument name=
 
 #### 📖 Beschreibung
 
-Eine Aufforderung zur Modifikation des GitHub-Logos, damit es rot, dunkel und böse erscheint, präsentiert im Kontext eines Screenshots.
+Eine Aufforderung zur Modifizierung des GitHub-Logos, sodass es rot, dunkel und böse erscheint, präsentiert im Kontext eines Screenshots.
 
 #### 📝 Prompt
 
 ```
-Mache das GitHub-Logo {argument name="color and mood" default="rot/dunkel/böse"} mit Screenshot
+Mache das GitHub-Logo {argument name="color and mood" default="red/dark/evil"} mit Screenshot
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2115,7 +2115,7 @@ Mache das GitHub-Logo {argument name="color and mood" default="rot/dunkel/böse"
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Mache%20das%20GitHub-Logo%20%7Bargument%20name%3D%22color%20and%20mood%22%20default%3D%22rot%2Fdunkel%2Fb%C3%B6se%22%7D%20mit%20Screenshot)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Mache%20das%20GitHub-Logo%20%7Bargument%20name%3D%22color%20and%20mood%22%20default%3D%22red%2Fdark%2Fevil%22%7D%20mit%20Screenshot)**
 
 ---
 
@@ -2164,7 +2164,7 @@ Die Wolke aus Bild 1 mit dem Gesicht der Person aus Bild 2. Sie sollte den Stil 
 
 #### 📖 Beschreibung
 
-Ein Prompt, der ein extrem realistisches und minimalistisches Bild anfordert, das sich für eine Hochzeitsanzeige oder ein Porträt eignet, basierend auf einem implizierten Referenzbild eines Paares.
+Ein Prompt, der ein extrem realistisches und minimalistisches Bild anfordert, das für eine Heiratsanzeige oder ein Porträt geeignet ist, basierend auf einem implizierten Referenzbild eines Paares.
 
 #### 📝 Prompt
 
@@ -2209,7 +2209,7 @@ Extrem realistisches Bild für die Hochzeit dieses Paares. Minimalistisch.
 
 ---
 
-### No. 53: Ultra-fotorealistische redaktionelle Pose für einen versehentlichen Sturz
+### No. 53: Ultra-fotorealistische redaktionelle Pose: Unfall beim Fallen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2268,8 +2268,8 @@ Ein hochdetaillierter, ultra-fotorealistischer Bildgenerierungs-Prompt, der für
     "body_type": "athletisch",
     "face": {
       "makeup": "ungeschminkt",
-      "skin": "natürliche Textur, sichtbare Poren, leichte Rötungen, reale Unvollkommenheiten",
-      "expression": "ruhig, unfixiert, fast ausdruckslos"
+      "skin": "natürliche Textur, sichtbare Poren, leichte Rötungen, realistische Unvollkommenheiten",
+      "expression": "ruhig, unfokussiert, fast ausdruckslos"
     },
     "hair": {
       "color": "dunkelblond",
@@ -2290,7 +2290,7 @@ Ein hochdetaillierter, ultra-fotorealistischer Bildgenerierungs-Prompt, der für
   "lighting": {
     "type": "saubere weiße Studiobeleuchtung",
     "color_temperature": "neutralweiß (5000–5600K)",
-    "setup": "gleichmäßige Softbox-Beleuchtung von oben-vorne",
+    "setup": "gleichmäßige Softbox-Beleuchtung von oben vorne",
     "shadows": "sehr weiche, nur realistische Kontaktschatten",
     "look": "klinisch, ehrlich, ungestylt"
   },
@@ -2315,7 +2315,7 @@ Ein hochdetaillierter, ultra-fotorealistischer Bildgenerierungs-Prompt, der für
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948248474_u8wpkh_G8UkRA1WoAMr3gN.jpg" width="600" alt="Ultra-fotorealistische redaktionelle Pose für einen versehentlichen Sturz - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948248474_u8wpkh_G8UkRA1WoAMr3gN.jpg" width="600" alt="Ultra-fotorealistische redaktionelle Pose: Unfall beim Fallen - Image 1">
 </div>
 
 #### 📌 Details
@@ -2325,7 +2325,7 @@ Ein hochdetaillierter, ultra-fotorealistischer Bildgenerierungs-Prompt, der für
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22editorial_accidental_fall_pose%22%2C%0A%20%20%22output%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22single_image%22%2C%0A%20%20%20%20%22resolution%22%3A%20%22ultra_high_resolution%22%2C%0A%20%20%20%20%22realism%22%3A%20%22ultra_photorealistic%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22true_to_life_natural_skin%22%2C%0A%20%20%20%20%22quality%22%3A%20%22high_end_editorial%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22minimalistisches%20Studio%22%2C%0A%20%20%20%20%22background%22%3A%20%22sauberer%2C%20hellgrauer%2C%20nahtloser%20Hintergrund%22%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22wei%C3%9Fer%20rechteckiger%20W%C3%BCrfel%22%2C%0A%20%20%20%20%20%20%22finish%22%3A%20%22matt%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22moment%22%3A%20%22unmittelbar%20nach%20dem%20Gleichgewichtsverlust%20aufgenommen%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22torso%22%3A%20%22Oberk%C3%B6rper%20nach%20vorne%20auf%20den%20Boden%20gefallen%22%2C%0A%20%20%20%20%20%20%22hips%22%3A%20%22ungleichm%C3%A4%C3%9Fig%20auf%20der%20W%C3%BCrfelkante%20aufgefangen%22%2C%0A%20%20%20%20%20%20%22upper_legs%22%3A%20%22auf%20dem%20W%C3%BCrfel%20ruhend%22%2C%0A%20%20%20%20%20%20%22lower_legs%22%3A%20%22nach%20oben%20in%20die%20Luft%20gehoben%2C%20nat%C3%BCrlich%20gebeugt%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22position%22%3A%20%22seitlich%20auf%20dem%20Boden%20liegend%22%2C%0A%20%20%20%20%20%20%20%20%22neck%22%3A%20%22vollst%C3%A4ndig%20entspannt%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22neutral%2C%20ungestellt%2C%20nat%C3%BCrlich%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22one%22%3A%20%22locker%20auf%20dem%20Boden%20ausgestreckt%22%2C%0A%20%20%20%20%20%20%20%20%22other%22%3A%20%22entspannt%2C%20nahe%20am%20Oberk%C3%B6rper%20gebeugt%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22angle%22%3A%20%22Seitenprofil%22%2C%0A%20%20%20%20%20%20%22shot_type%22%3A%20%22Ganzk%C3%B6rperaufnahme%22%2C%0A%20%20%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%20%20%22framing%22%3A%20%22nat%C3%BCrlicher%20Abstand%2C%20nicht%20zu%20nah%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22weiblich%22%2C%0A%20%20%20%20%22ethnicity%22%3A%20%22skandinavisch%22%2C%0A%20%20%20%20%22age_range%22%3A%20%22Mitte%2020%22%2C%0A%20%20%20%20%22body_type%22%3A%20%22athletisch%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22makeup%22%3A%20%22ungeschminkt%22%2C%0A%20%20%20%20%20%20%22skin%22%3A%20%22nat%C3%BCrliche%20Textur%2C%20sichtbare%20Poren%2C%20leichte%20R%C3%B6tungen%2C%20reale%20Unvollkommenheiten%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22ruhig%2C%20unfixiert%2C%20fast%20ausdruckslos%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22dunkelblond%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22nach%20vorne%20gefallen%2C%20leicht%20zerzaust%20durch%20die%20Bewegung%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Pilates-Kleidung%22%2C%0A%20%20%20%20%22color%22%3A%20%22tiefrot%22%2C%0A%20%20%20%20%22top%22%3A%20%22eng%20anliegendes%20rotes%20Pilates-Crop-Top%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22hoch%20taillierte%20rote%20Pilates-Shorts%22%2C%0A%20%20%20%20%22footwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22High%20Heels%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22minimalistischer%20Stiletto%22%2C%0A%20%20%20%20%20%20%22color%22%3A%20%22rot%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22saubere%20wei%C3%9Fe%20Studiobeleuchtung%22%2C%0A%20%20%20%20%22color_temperature%22%3A%20%22neutralwei%C3%9F%20(5000%E2%80%935600K)%22%2C%0A%20%20%20%20%22setup%22%3A%20%22gleichm%C3%A4%C3%9Fige%20Softbox-Beleuchtung%20von%20oben-vorne%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22sehr%20weiche%2C%20nur%20realistische%20Kontaktschatten%22%2C%0A%20%20%20%20%22look%22%3A%20%22klinisch%2C%20ehrlich%2C%20ungestylt%22%0A%20%20%7D%2C%0A%20%20%22mood%22%3A%20%22roh%2C%20zuf%C3%A4llig%2C%20intim%2C%20Fashion-Realismus%22%2C%0A%20%20%22style%22%3A%20%22ungestellte%20Editorial-Fotografie%22%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22Beauty-Make-up%22%2C%0A%20%20%20%20%22Glamour-Beleuchtung%22%2C%0A%20%20%20%20%22warme%20T%C3%B6ne%22%2C%0A%20%20%20%20%22gelbes%20Licht%22%2C%0A%20%20%20%20%22dramatische%20Schatten%22%2C%0A%20%20%20%20%22Plastikhaut%22%2C%0A%20%20%20%20%22CGI%22%2C%0A%20%20%20%20%22gestellter%20Look%22%2C%0A%20%20%20%20%22perfekte%20Gesichtssymmetrie%22%0A%20%20%5D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22editorial_accidental_fall_pose%22%2C%0A%20%20%22output%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22single_image%22%2C%0A%20%20%20%20%22resolution%22%3A%20%22ultra_high_resolution%22%2C%0A%20%20%20%20%22realism%22%3A%20%22ultra_photorealistic%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22true_to_life_natural_skin%22%2C%0A%20%20%20%20%22quality%22%3A%20%22high_end_editorial%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22minimalistisches%20Studio%22%2C%0A%20%20%20%20%22background%22%3A%20%22sauberer%2C%20hellgrauer%2C%20nahtloser%20Hintergrund%22%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22wei%C3%9Fer%20rechteckiger%20W%C3%BCrfel%22%2C%0A%20%20%20%20%20%20%22finish%22%3A%20%22matt%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22moment%22%3A%20%22unmittelbar%20nach%20dem%20Gleichgewichtsverlust%20aufgenommen%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22torso%22%3A%20%22Oberk%C3%B6rper%20nach%20vorne%20auf%20den%20Boden%20gefallen%22%2C%0A%20%20%20%20%20%20%22hips%22%3A%20%22ungleichm%C3%A4%C3%9Fig%20auf%20der%20W%C3%BCrfelkante%20aufgefangen%22%2C%0A%20%20%20%20%20%20%22upper_legs%22%3A%20%22auf%20dem%20W%C3%BCrfel%20ruhend%22%2C%0A%20%20%20%20%20%20%22lower_legs%22%3A%20%22nach%20oben%20in%20die%20Luft%20gehoben%2C%20nat%C3%BCrlich%20gebeugt%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22position%22%3A%20%22seitlich%20auf%20dem%20Boden%20liegend%22%2C%0A%20%20%20%20%20%20%20%20%22neck%22%3A%20%22vollst%C3%A4ndig%20entspannt%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22neutral%2C%20ungestellt%2C%20nat%C3%BCrlich%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22one%22%3A%20%22locker%20auf%20dem%20Boden%20ausgestreckt%22%2C%0A%20%20%20%20%20%20%20%20%22other%22%3A%20%22entspannt%2C%20nahe%20am%20Oberk%C3%B6rper%20gebeugt%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22angle%22%3A%20%22Seitenprofil%22%2C%0A%20%20%20%20%20%20%22shot_type%22%3A%20%22Ganzk%C3%B6rperaufnahme%22%2C%0A%20%20%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%20%20%22framing%22%3A%20%22nat%C3%BCrlicher%20Abstand%2C%20nicht%20zu%20nah%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22weiblich%22%2C%0A%20%20%20%20%22ethnicity%22%3A%20%22skandinavisch%22%2C%0A%20%20%20%20%22age_range%22%3A%20%22Mitte%2020%22%2C%0A%20%20%20%20%22body_type%22%3A%20%22athletisch%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22makeup%22%3A%20%22ungeschminkt%22%2C%0A%20%20%20%20%20%20%22skin%22%3A%20%22nat%C3%BCrliche%20Textur%2C%20sichtbare%20Poren%2C%20leichte%20R%C3%B6tungen%2C%20realistische%20Unvollkommenheiten%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22ruhig%2C%20unfokussiert%2C%20fast%20ausdruckslos%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22dunkelblond%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22nach%20vorne%20gefallen%2C%20leicht%20zerzaust%20durch%20die%20Bewegung%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Pilates-Kleidung%22%2C%0A%20%20%20%20%22color%22%3A%20%22tiefrot%22%2C%0A%20%20%20%20%22top%22%3A%20%22eng%20anliegendes%20rotes%20Pilates-Crop-Top%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22hoch%20taillierte%20rote%20Pilates-Shorts%22%2C%0A%20%20%20%20%22footwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22High%20Heels%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22minimalistischer%20Stiletto%22%2C%0A%20%20%20%20%20%20%22color%22%3A%20%22rot%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22saubere%20wei%C3%9Fe%20Studiobeleuchtung%22%2C%0A%20%20%20%20%22color_temperature%22%3A%20%22neutralwei%C3%9F%20(5000%E2%80%935600K)%22%2C%0A%20%20%20%20%22setup%22%3A%20%22gleichm%C3%A4%C3%9Fige%20Softbox-Beleuchtung%20von%20oben%20vorne%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22sehr%20weiche%2C%20nur%20realistische%20Kontaktschatten%22%2C%0A%20%20%20%20%22look%22%3A%20%22klinisch%2C%20ehrlich%2C%20ungestylt%22%0A%20%20%7D%2C%0A%20%20%22mood%22%3A%20%22roh%2C%20zuf%C3%A4llig%2C%20intim%2C%20Fashion-Realismus%22%2C%0A%20%20%22style%22%3A%20%22ungestellte%20Editorial-Fotografie%22%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22Beauty-Make-up%22%2C%0A%20%20%20%20%22Glamour-Beleuchtung%22%2C%0A%20%20%20%20%22warme%20T%C3%B6ne%22%2C%0A%20%20%20%20%22gelbes%20Licht%22%2C%0A%20%20%20%20%22dramatische%20Schatten%22%2C%0A%20%20%20%20%22Plastikhaut%22%2C%0A%20%20%20%20%22CGI%22%2C%0A%20%20%20%20%22gestellter%20Look%22%2C%0A%20%20%20%20%22perfekte%20Gesichtssymmetrie%22%0A%20%20%5D%0A%7D)**
 
 ---
 
@@ -2335,12 +2335,12 @@ Ein hochdetaillierter, ultra-fotorealistischer Bildgenerierungs-Prompt, der für
 
 #### 📖 Beschreibung
 
-Eine einfache Anweisung, die die Erstellung einer Infografik anfordert, welche die Geschichte von OpenAI detailliert darstellt, insbesondere unter Berücksichtigung der Fortschritte bis zum Jahr 2025.
+Eine einfache Aufforderung zur Erstellung einer Infografik, die die Geschichte von OpenAI detailliert darstellt, einschließlich der Fortschritte bis zum Jahr 2025.
 
 #### 📝 Prompt
 
 ```
-Infografik zur Geschichte von OpenAI einschließlich der Fortschritte im Jahr 2025
+Infografik zur Geschichte von OpenAI, einschließlich der Fortschritte im Jahr 2025
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2364,7 +2364,7 @@ Infografik zur Geschichte von OpenAI einschließlich der Fortschritte im Jahr 20
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Infografik%20zur%20Geschichte%20von%20OpenAI%20einschlie%C3%9Flich%20der%20Fortschritte%20im%20Jahr%202025)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Infografik%20zur%20Geschichte%20von%20OpenAI%2C%20einschlie%C3%9Flich%20der%20Fortschritte%20im%20Jahr%202025)**
 
 ---
 
@@ -2374,7 +2374,7 @@ Infografik zur Geschichte von OpenAI einschließlich der Fortschritte im Jahr 20
 
 #### 📖 Beschreibung
 
-Eine einfache Textaufforderung, die ein mehrteiliges Bild anfordert, das grundlegende Sätze zur Essensbestellung auf Arabisch veranschaulichen soll, wahrscheinlich für den Sprachunterricht oder als visuelle Hilfsmittel gedacht.
+Eine einfache Textaufforderung, die ein mehrteiliges Bild anfordert, das grundlegende Sätze zum Bestellen von Speisen auf Arabisch veranschaulichen soll, wahrscheinlich für den Sprachunterricht oder als visuelle Hilfsmittel gedacht.
 
 #### 📝 Prompt
 
@@ -2413,7 +2413,7 @@ Können Sie ein Bild mit mehreren Panels zeichnen, das grundlegende Sätze zum B
 
 #### 📖 Beschreibung
 
-Ein sehr detaillierter Bildgenerierungs-Prompt, der für den Bildbearbeitungsmodus entwickelt wurde und sich auf die Erhaltung realistischer Hauttextur, Sommersprossen und Poren in einem extremen Nahaufnahme-Porträt konzentriert. Die Szene spielt im Freien im Winter bei natürlichem, kaltem Tageslicht und zielt auf eine rohe, dokumentarische Stimmung ab.
+Ein sehr detaillierter Prompt zur Bildgenerierung, der für den Bildbearbeitungsmodus entwickelt wurde und sich auf die Erhaltung realistischer Hauttextur, Sommersprossen und Poren in einem extremen Nahaufnahme-Porträt konzentriert. Die Szene spielt im Freien im Winter bei natürlichem, kaltem Tageslicht, um eine rohe, dokumentarische Stimmung zu erzeugen.
 
 #### 📝 Prompt
 
@@ -2426,13 +2426,13 @@ Ein sehr detaillierter Bildgenerierungs-Prompt, der für den Bildbearbeitungsmod
     "notes": "Hauttextur, Sommersprossen, Poren müssen realistisch bleiben"
   },
   "composition": {
-    "shot_type": "extremes Nahaufnahme-Porträt",
-    "camera_angle": "frontal",
+    "shot_type": "extreme close-up portrait",
+    "camera_angle": "geradeaus",
     "expression": "neutral, intensiver Blickkontakt"
   },
   "lighting": {
     "type": "natürliches, kaltes Tageslicht",
-    "contrast": "gering",
+    "contrast": "niedrig",
     "skin_detail": "ultrarealistisch, keine Retusche"
   },
   "scene": {
@@ -2478,7 +2478,7 @@ Ein sehr detaillierter Bildgenerierungs-Prompt, der für den Bildbearbeitungsmod
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22mode%22%3A%20%22image_edit%22%2C%0A%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%22enabled%22%3A%20true%2C%0A%20%20%20%20%22strength%22%3A%201.0%2C%0A%20%20%20%20%22notes%22%3A%20%22Hauttextur%2C%20Sommersprossen%2C%20Poren%20m%C3%BCssen%20realistisch%20bleiben%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22extremes%20Nahaufnahme-Portr%C3%A4t%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22frontal%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutral%2C%20intensiver%20Blickkontakt%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22nat%C3%BCrliches%2C%20kaltes%20Tageslicht%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22gering%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultrarealistisch%2C%20keine%20Retusche%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22Winter%20im%20Freien%22%2C%0A%20%20%20%20%22props%22%3A%20%5B%22Schnee%20im%20Gesicht%22%2C%20%22Kapuze%20um%20das%20Gesicht%22%5D%2C%0A%20%20%20%20%22weather%22%3A%20%22kalt%2C%20verschneit%22%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22mood%22%3A%20%22roh%2C%20dokumentarisch%2C%20emotional%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22k%C3%BChle%20Blaut%C3%B6ne%2C%20blasse%20Hautt%C3%B6ne%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%20Makro-Portr%C3%A4t%22%2C%0A%20%20%20%20%22focus%22%3A%20%22extreme%20Sch%C3%A4rfe%20auf%20den%20Augen%22%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22glatte%20Haut%22%2C%0A%20%20%20%20%22Beauty-Filter%22%2C%0A%20%20%20%20%22Gesichtsverformung%22%2C%0A%20%20%20%20%22Cartoon-Look%22%0A%20%20%5D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22mode%22%3A%20%22image_edit%22%2C%0A%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%22enabled%22%3A%20true%2C%0A%20%20%20%20%22strength%22%3A%201.0%2C%0A%20%20%20%20%22notes%22%3A%20%22Hauttextur%2C%20Sommersprossen%2C%20Poren%20m%C3%BCssen%20realistisch%20bleiben%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22extreme%20close-up%20portrait%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22geradeaus%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutral%2C%20intensiver%20Blickkontakt%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22nat%C3%BCrliches%2C%20kaltes%20Tageslicht%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22niedrig%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultrarealistisch%2C%20keine%20Retusche%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22Winter%20im%20Freien%22%2C%0A%20%20%20%20%22props%22%3A%20%5B%22Schnee%20im%20Gesicht%22%2C%20%22Kapuze%20um%20das%20Gesicht%22%5D%2C%0A%20%20%20%20%22weather%22%3A%20%22kalt%2C%20verschneit%22%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22mood%22%3A%20%22roh%2C%20dokumentarisch%2C%20emotional%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22k%C3%BChle%20Blaut%C3%B6ne%2C%20blasse%20Hautt%C3%B6ne%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%20Makro-Portr%C3%A4t%22%2C%0A%20%20%20%20%22focus%22%3A%20%22extreme%20Sch%C3%A4rfe%20auf%20den%20Augen%22%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22glatte%20Haut%22%2C%0A%20%20%20%20%22Beauty-Filter%22%2C%0A%20%20%20%20%22Gesichtsverformung%22%2C%0A%20%20%20%20%22Cartoon-Look%22%0A%20%20%5D%0A%7D)**
 
 ---
 
@@ -2521,7 +2521,7 @@ Luftaufnahme der Sagrada Família in Barcelona
 
 #### 📖 Beschreibung
 
-Ein Prompt zur Erstellung eines Posters von Tiefseekreaturen, visualisiert in einem vertikalen Ozean-Schnittbild, gerendert in einem wunderschönen und detaillierten japanischen Anime-Stil, der die Fähigkeit des Modells testet, wissenschaftliche Visualisierung mit einem spezifischen künstlerischen Stil zu verbinden.
+Ein Prompt zur Erstellung eines Posters von Tiefseekreaturen, visualisiert in einem vertikalen Ozean-Schnitt, gerendert in einem wunderschönen und detaillierten japanischen Anime-Stil, der die Fähigkeit des Modells testet, wissenschaftliche Visualisierung mit einem spezifischen künstlerischen Stil zu verbinden.
 
 #### 📝 Prompt
 
@@ -2586,28 +2586,24 @@ Ein hochstrukturierter Prompt, der eine Luftaufnahme, eine hyperrealistische Fot
   "wardrobe": {
     "outer_layer": "traditioneller_karminroter_Mantel_mit_Pelzbesatz",
     "mid_layer": "grober_Zopfstrickpullover",
-    "lower_garment": "tief_anthrazitfarbene_Hose",
+    "lower_garment": "dunkelgraue_Hose",
     "footwear": "verwitterte_Lederstiefel",
-    "headpiece": "einfache_Schlupfmütze"
+    "headpiece": "einfache_Beanie-Wintermütze"
   },
   "environment_setting": {
-    "location": "New_York_City_Allee",
+    "location": "New_York_City_Avenue",
     "architecture": "hohe_Glasskyscrapers_und_Brownstone-Fassaden",
     "street_furniture": "moderne_Straßenlaternen_und_Ampeln",
-    "pavement": "städtisches_Asphaltnetz"
+    "pavement": "urbanes_Asphaltgitter"
   },
   "scale_context": {
-    "vehicles": [
-      "Miniatur-gelbe_Taxis",
-      "kompakte_Lieferwagen",
-      "Motorräder"
-    ],
+    "vehicles": ["Miniatur-gelbe_Taxis", "kompakte_Lieferwagen", "Motorräder"],
     "human_presence": "winzige_Fußgänger_navigieren_herum",
     "size_contrast": "Gebäude_wirken_im_Vergleich_zur_Figur_zwergenhaft"
   },
   "atmospheric_conditions": {
     "sky": "sanfte_bewölkte_Streuung",
-    "time_indicator": "nachmittäglicher_Umgebungsglanz",
+    "time_indicator": "nachmittägliches_Umgebungslicht",
     "surface_texture": "reflektierender_regenverhangener_Boden"
   }
 }
@@ -2634,11 +2630,11 @@ Ein hochstrukturierter Prompt, der eine Luftaufnahme, eine hyperrealistische Fot
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22camera_setup%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22Luftaufnahme_aus_der_Vogelperspektive%22%2C%0A%20%20%20%20%22angle%22%3A%20%22weites_Panorama%22%2C%0A%20%20%20%20%22capture_device%22%3A%20%22erh%C3%B6hte_Drohnenposition%22%2C%0A%20%20%20%20%22visual_quality%22%3A%20%22hyperrealistische_Fotografie%22%0A%20%20%7D%2C%0A%20%20%22primary_subject%22%3A%20%7B%0A%20%20%20%20%22character%22%3A%20%22Weihnachtsmann%22%2C%0A%20%20%20%20%22scale%22%3A%20%22gigantische_Proportionen%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22exakte_Referenz%C3%A4hnlichkeit_beibehalten%22%2C%0A%20%20%20%20%22body_structure%22%3A%20%22Referenzanatomie_bewahren%22%2C%0A%20%20%20%20%22posture%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22entspannt_auf_der_Fahrbahn_sitzend%22%2C%0A%20%20%20%20%20%20%22leg_arrangement%22%3A%20%22ein_Knie_erhoben%22%2C%0A%20%20%20%20%20%20%22arm_placement%22%3A%20%22Handfl%C3%A4che_l%C3%A4ssig_aufgelegt%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outer_layer%22%3A%20%22traditioneller_karminroter_Mantel_mit_Pelzbesatz%22%2C%0A%20%20%20%20%22mid_layer%22%3A%20%22grober_Zopfstrickpullover%22%2C%0A%20%20%20%20%22lower_garment%22%3A%20%22tief_anthrazitfarbene_Hose%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22verwitterte_Lederstiefel%22%2C%0A%20%20%20%20%22headpiece%22%3A%20%22einfache_Schlupfm%C3%BCtze%22%0A%20%20%7D%2C%0A%20%20%22environment_setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22New_York_City_Allee%22%2C%0A%20%20%20%20%22architecture%22%3A%20%22hohe_Glasskyscrapers_und_Brownstone-Fassaden%22%2C%0A%20%20%20%20%22street_furniture%22%3A%20%22moderne_Stra%C3%9Fenlaternen_und_Ampeln%22%2C%0A%20%20%20%20%22pavement%22%3A%20%22st%C3%A4dtisches_Asphaltnetz%22%0A%20%20%7D%2C%0A%20%20%22scale_context%22%3A%20%7B%0A%20%20%20%20%22vehicles%22%3A%20%5B%0A%20%20%20%20%20%20%22Miniatur-gelbe_Taxis%22%2C%0A%20%20%20%20%20%20%22kompakte_Lieferwagen%22%2C%0A%20%20%20%20%20%20%22Motorr%C3%A4der%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22human_presence%22%3A%20%22winzige_Fu%C3%9Fg%C3%A4nger_navigieren_herum%22%2C%0A%20%20%20%20%22size_contrast%22%3A%20%22Geb%C3%A4ude_wirken_im_Vergleich_zur_Figur_zwergenhaft%22%0A%20%20%7D%2C%0A%20%20%22atmospheric_conditions%22%3A%20%7B%0A%20%20%20%20%22sky%22%3A%20%22sanfte_bew%C3%B6lkte_Streuung%22%2C%0A%20%20%20%20%22time_indicator%22%3A%20%22nachmitt%C3%A4glicher_Umgebungsglanz%22%2C%0A%20%20%20%20%22surface_texture%22%3A%20%22reflektierender_regenverhangener_Boden%22%0A%20%20%7D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22camera_setup%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22Luftaufnahme_aus_der_Vogelperspektive%22%2C%0A%20%20%20%20%22angle%22%3A%20%22weites_Panorama%22%2C%0A%20%20%20%20%22capture_device%22%3A%20%22erh%C3%B6hte_Drohnenposition%22%2C%0A%20%20%20%20%22visual_quality%22%3A%20%22hyperrealistische_Fotografie%22%0A%20%20%7D%2C%0A%20%20%22primary_subject%22%3A%20%7B%0A%20%20%20%20%22character%22%3A%20%22Weihnachtsmann%22%2C%0A%20%20%20%20%22scale%22%3A%20%22gigantische_Proportionen%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22exakte_Referenz%C3%A4hnlichkeit_beibehalten%22%2C%0A%20%20%20%20%22body_structure%22%3A%20%22Referenzanatomie_bewahren%22%2C%0A%20%20%20%20%22posture%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22entspannt_auf_der_Fahrbahn_sitzend%22%2C%0A%20%20%20%20%20%20%22leg_arrangement%22%3A%20%22ein_Knie_erhoben%22%2C%0A%20%20%20%20%20%20%22arm_placement%22%3A%20%22Handfl%C3%A4che_l%C3%A4ssig_aufgelegt%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outer_layer%22%3A%20%22traditioneller_karminroter_Mantel_mit_Pelzbesatz%22%2C%0A%20%20%20%20%22mid_layer%22%3A%20%22grober_Zopfstrickpullover%22%2C%0A%20%20%20%20%22lower_garment%22%3A%20%22dunkelgraue_Hose%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22verwitterte_Lederstiefel%22%2C%0A%20%20%20%20%22headpiece%22%3A%20%22einfache_Beanie-Winterm%C3%BCtze%22%0A%20%20%7D%2C%0A%20%20%22environment_setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22New_York_City_Avenue%22%2C%0A%20%20%20%20%22architecture%22%3A%20%22hohe_Glasskyscrapers_und_Brownstone-Fassaden%22%2C%0A%20%20%20%20%22street_furniture%22%3A%20%22moderne_Stra%C3%9Fenlaternen_und_Ampeln%22%2C%0A%20%20%20%20%22pavement%22%3A%20%22urbanes_Asphaltgitter%22%0A%20%20%7D%2C%0A%20%20%22scale_context%22%3A%20%7B%0A%20%20%20%20%22vehicles%22%3A%20%5B%22Miniatur-gelbe_Taxis%22%2C%20%22kompakte_Lieferwagen%22%2C%20%22Motorr%C3%A4der%22%5D%2C%0A%20%20%20%20%22human_presence%22%3A%20%22winzige_Fu%C3%9Fg%C3%A4nger_navigieren_herum%22%2C%0A%20%20%20%20%22size_contrast%22%3A%20%22Geb%C3%A4ude_wirken_im_Vergleich_zur_Figur_zwergenhaft%22%0A%20%20%7D%2C%0A%20%20%22atmospheric_conditions%22%3A%20%7B%0A%20%20%20%20%22sky%22%3A%20%22sanfte_bew%C3%B6lkte_Streuung%22%2C%0A%20%20%20%20%22time_indicator%22%3A%20%22nachmitt%C3%A4gliches_Umgebungslicht%22%2C%0A%20%20%20%20%22surface_texture%22%3A%20%22reflektierender_regenverhangener_Boden%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 60: Hyperrealistische Meditationsszene mit einem buddhistischen Mönch
+### No. 60: Hyperrealistische Meditationsszene eines buddhistischen Mönchs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2651,7 +2647,7 @@ Ein Prompt zur Generierung eines hyperrealistischen Ganzkörperbildes eines ält
 ```
 {
 "subject": "Buddhistischer Mönch",
-"prompt": "Hyperrealistische Ganzaufnahme eines älteren buddhistischen Mönchs, der in tiefer Meditation auf einem zerklüfteten, windgepeitschten Berggipfel sitzt, abgetragene safran- und kastanienbraune Roben mit groben Stofftexturen tragend, verwittertes, gelassenes Gesicht mit geschlossenen Augen und rasiertem Kopf, Rosenkranz in den Händen, Hintergrund von hoch aufragenden schneebedeckten Bergketten, die sich über einem Wolkenmeer erheben, dramatisches Sonnenaufgangs-Goldlicht, das lange Schatten wirft, filmische Atmosphäre, 8k-Auflösung, fotorealistisch, Meisterwerk, extrem detaillierte Haut- und Felsentexturen",
+"prompt": "Hyperrealistische Ganzaufnahme eines älteren buddhistischen Mönchs in tiefer Meditation auf einem zerklüfteten, windgepeitschten Berggipfel, gekleidet in abgetragene safran- und kastanienbraune Roben mit groben Stofftexturen, verwittertes, gelassenes Gesicht mit geschlossenen Augen und rasiertem Kopf, Rosenkranzperlen in den Händen, Hintergrund von hoch aufragenden schneebedeckten Bergketten, die sich über einem Wolkenmeer erheben, dramatisches Sonnenaufgangs-Goldlicht, das lange Schatten wirft, filmische Atmosphäre, 8k-Auflösung, fotorealistisch, Meisterwerk, extrem detaillierte Haut- und Felsstrukturen",
 "aspect_ratio": "9:16"
 }
 ```
@@ -2661,13 +2657,13 @@ Ein Prompt zur Generierung eines hyperrealistischen Ganzkörperbildes eines ält
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948223253_kxfj6l_G8UdJ3pbwAA76xp.jpg" width="600" alt="Hyperrealistische Meditationsszene mit einem buddhistischen Mönch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948223253_kxfj6l_G8UdJ3pbwAA76xp.jpg" width="600" alt="Hyperrealistische Meditationsszene eines buddhistischen Mönchs - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948223178_lpuv3l_G8UdKj5aAAA5MjO.jpg" width="600" alt="Hyperrealistische Meditationsszene mit einem buddhistischen Mönch - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948223178_lpuv3l_G8UdKj5aAAA5MjO.jpg" width="600" alt="Hyperrealistische Meditationsszene eines buddhistischen Mönchs - Image 2">
 </div>
 
 #### 📌 Details
@@ -2677,7 +2673,7 @@ Ein Prompt zur Generierung eines hyperrealistischen Ganzkörperbildes eines ält
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%22subject%22%3A%20%22Buddhistischer%20M%C3%B6nch%22%2C%0A%22prompt%22%3A%20%22Hyperrealistische%20Ganzaufnahme%20eines%20%C3%A4lteren%20buddhistischen%20M%C3%B6nchs%2C%20der%20in%20tiefer%20Meditation%20auf%20einem%20zerkl%C3%BCfteten%2C%20windgepeitschten%20Berggipfel%20sitzt%2C%20abgetragene%20safran-%20und%20kastanienbraune%20Roben%20mit%20groben%20Stofftexturen%20tragend%2C%20verwittertes%2C%20gelassenes%20Gesicht%20mit%20geschlossenen%20Augen%20und%20rasiertem%20Kopf%2C%20Rosenkranz%20in%20den%20H%C3%A4nden%2C%20Hintergrund%20von%20hoch%20aufragenden%20schneebedeckten%20Bergketten%2C%20die%20sich%20%C3%BCber%20einem%20Wolkenmeer%20erheben%2C%20dramatisches%20Sonnenaufgangs-Goldlicht%2C%20das%20lange%20Schatten%20wirft%2C%20filmische%20Atmosph%C3%A4re%2C%208k-Aufl%C3%B6sung%2C%20fotorealistisch%2C%20Meisterwerk%2C%20extrem%20detaillierte%20Haut-%20und%20Felsentexturen%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%22%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%22subject%22%3A%20%22Buddhistischer%20M%C3%B6nch%22%2C%0A%22prompt%22%3A%20%22Hyperrealistische%20Ganzaufnahme%20eines%20%C3%A4lteren%20buddhistischen%20M%C3%B6nchs%20in%20tiefer%20Meditation%20auf%20einem%20zerkl%C3%BCfteten%2C%20windgepeitschten%20Berggipfel%2C%20gekleidet%20in%20abgetragene%20safran-%20und%20kastanienbraune%20Roben%20mit%20groben%20Stofftexturen%2C%20verwittertes%2C%20gelassenes%20Gesicht%20mit%20geschlossenen%20Augen%20und%20rasiertem%20Kopf%2C%20Rosenkranzperlen%20in%20den%20H%C3%A4nden%2C%20Hintergrund%20von%20hoch%20aufragenden%20schneebedeckten%20Bergketten%2C%20die%20sich%20%C3%BCber%20einem%20Wolkenmeer%20erheben%2C%20dramatisches%20Sonnenaufgangs-Goldlicht%2C%20das%20lange%20Schatten%20wirft%2C%20filmische%20Atmosph%C3%A4re%2C%208k-Aufl%C3%B6sung%2C%20fotorealistisch%2C%20Meisterwerk%2C%20extrem%20detaillierte%20Haut-%20und%20Felsstrukturen%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%22%0A%7D)**
 
 ---
 
@@ -2687,12 +2683,12 @@ Ein Prompt zur Generierung eines hyperrealistischen Ganzkörperbildes eines ält
 
 #### 📖 Beschreibung
 
-Eine zweiteilige Anweisung, die darauf abzielt, ein altes Foto zunächst auf die Qualität einer modernen High-End-Kamera wiederherzustellen und zu verbessern, und dann eine spezifische Bearbeitung vorzunehmen: das Motiv kahl zu machen. Dies testet die Fähigkeit des Modells, mehrstufigen Anweisungen zu folgen und präzise zu bearbeiten.
+Eine zweiteilige Anweisung, die darauf abzielt, ein altes Foto zunächst wiederherzustellen und auf die Qualität einer modernen High-End-Kamera zu verbessern, und dann eine spezifische Bearbeitung vorzunehmen: das Motiv kahl zu machen. Dies testet die Fähigkeit des Modells, mehrstufigen Anweisungen zu folgen und präzise zu bearbeiten.
 
 #### 📝 Prompt
 
 ```
-Stellen Sie dieses Foto wieder her und verbessern Sie es, als wäre es heute mit einer modernen High-End-Kamera aufgenommen worden. Dann machen Sie diesen Mann kahl.
+Stellen Sie dieses Foto so wieder her und verbessern Sie es, als wäre es heute mit einer modernen High-End-Kamera aufgenommen worden. Dann machen Sie diesen Mann kahl.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2710,7 +2706,7 @@ Stellen Sie dieses Foto wieder her und verbessern Sie es, als wäre es heute mit
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Stellen%20Sie%20dieses%20Foto%20wieder%20her%20und%20verbessern%20Sie%20es%2C%20als%20w%C3%A4re%20es%20heute%20mit%20einer%20modernen%20High-End-Kamera%20aufgenommen%20worden.%20Dann%20machen%20Sie%20diesen%20Mann%20kahl.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Stellen%20Sie%20dieses%20Foto%20so%20wieder%20her%20und%20verbessern%20Sie%20es%2C%20als%20w%C3%A4re%20es%20heute%20mit%20einer%20modernen%20High-End-Kamera%20aufgenommen%20worden.%20Dann%20machen%20Sie%20diesen%20Mann%20kahl.)**
 
 ---
 
@@ -2725,7 +2721,7 @@ Eine einfache Aufforderung zur Erstellung einer Infografik über die Funktionen 
 #### 📝 Prompt
 
 ```
-Erstellen Sie eine Infografik zu ChatGPT Image 1.5
+Erstellen Sie eine Infografik zu ChatGPT image 1.5
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2743,7 +2739,7 @@ Erstellen Sie eine Infografik zu ChatGPT Image 1.5
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20eine%20Infografik%20zu%20ChatGPT%20Image%201.5)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20eine%20Infografik%20zu%20ChatGPT%20image%201.5)**
 
 ---
 
@@ -2754,7 +2750,7 @@ Erstellen Sie eine Infografik zu ChatGPT Image 1.5
 
 #### 📖 Beschreibung
 
-Ein Prompt zur Generierung eines polarisierten Selfie-Fotos von Elon Musk und Sam Altman, die Coca-Cola trinken und Weihnachtsmützen tragen.
+Ein Prompt zur Generierung eines polarisierten Selfie-Fotos, das Elon Musk und Sam Altman beim Coca-Cola-Trinken mit Weihnachtsmützen zeigt.
 
 #### 📝 Prompt
 
@@ -2793,7 +2789,7 @@ Ein polarisiertes Selfie-Foto von {argument name="person 1" default="Elon Musk"}
 
 #### 📖 Beschreibung
 
-Ein Meta-Prompt, der ein KI-Modell anweist, vorhandene Inhalte in eine hochdynamische, visuell ansprechende und im Querformat ausgerichtete Präsentationsfolie umzuwandeln, wobei dem Modell über die ursprünglichen Einschränkungen hinaus vollständige Gestaltungsfreiheit gewährt wird.
+Ein Meta-Prompt, der ein KI-Modell anweist, vorhandene Inhalte in eine hochdynamische, visuell ansprechende und im Querformat ausgerichtete Präsentationsfolie umzuwandeln, wobei dem Modell völlige Gestaltungsfreiheit jenseits der ursprünglichen Einschränkungen gewährt wird.
 
 #### 📝 Prompt
 
@@ -2820,13 +2816,13 @@ Verwandeln Sie dies in eine visuell beeindruckende Folie. Stellen Sie sicher, da
 
 ---
 
-### No. 65: Die von The Office inspirierte Verkaufs-Flussdiagramm-Infografik
+### No. 65: Die von Office inspirierte Verkaufs-Flussdiagramm-Infografik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein Prompt, der darauf abzielt, eine visuelle Hilfe – genauer gesagt ein Infografik-Flussdiagramm – für Dunder Mifflin Vertriebsmitarbeiter zu erstellen, das die Figur des „Referenzmanns“ im Cartoon-Stil zeigt und die Fähigkeit des Modells demonstriert, komplexe visuelle Anweisungen und spezifische kulturelle Referenzen zu verarbeiten.
+Ein Prompt, der darauf abzielt, eine visuelle Hilfe – genauer gesagt ein Infografik-Flussdiagramm – für Dunder Mifflin-Vertriebsmitarbeiter zu erstellen, das die Figur des „Referenzmanns“ im Cartoon-Stil zeigt und die Fähigkeit des Modells demonstriert, komplexe visuelle Anweisungen und spezifische kulturelle Referenzen zu verarbeiten.
 
 #### 📝 Prompt
 
@@ -2839,7 +2835,7 @@ Erstellen Sie ein Infografik-Flussdiagramm für Dunder Mifflin-Vertriebsmitarbei
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948252065_0jbg4o_G8UWigAa8AA5Bb3.jpg" width="600" alt="Die von The Office inspirierte Verkaufs-Flussdiagramm-Infografik - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948252065_0jbg4o_G8UWigAa8AA5Bb3.jpg" width="600" alt="Die von Office inspirierte Verkaufs-Flussdiagramm-Infografik - Image 1">
 </div>
 
 #### 📌 Details
@@ -2898,18 +2894,18 @@ Erzeuge ein Bild dieser Figur, die aufgeregt aussieht und beide Hände geballt h
 
 ---
 
-### No. 67: Zeichenersetzung-Bearbeitungsaufforderung
+### No. 67: Zeichenersetzung: Bearbeitungsaufforderung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein Bearbeitungs-Prompt, der verwendet wird, um das Motiv eines zuvor generierten Bildes (ein fotorealistisches, spontanes Porträt einer alltäglichen Person) in eine bestimmte fiktive Figur zu verwandeln, wodurch die Fähigkeit des Modells getestet wird, Identität und Detailtreue zu bewahren.
+Ein Bearbeitungs-Prompt, der verwendet wurde, um das Subjekt eines zuvor generierten Bildes (ein fotorealistisches, ungestelltes Porträt einer alltäglichen Person) in eine bestimmte fiktive Figur zu verwandeln, um die Fähigkeit des Modells zu testen, Identität und Detailtreue zu bewahren.
 
 #### 📝 Prompt
 
 ```
-Mach es zu Keanu Reeves aus Cyberpunk 2077
+Mache es zu Keanu Reeves aus Cyberpunk 2077
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2917,7 +2913,7 @@ Mach es zu Keanu Reeves aus Cyberpunk 2077
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948243139_5y8zaq_G8USfzIWQAAH5i7.jpg" width="600" alt="Zeichenersetzung-Bearbeitungsaufforderung - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948243139_5y8zaq_G8USfzIWQAAH5i7.jpg" width="600" alt="Zeichenersetzung: Bearbeitungsaufforderung - Image 1">
 </div>
 
 #### 📌 Details
@@ -2927,23 +2923,23 @@ Mach es zu Keanu Reeves aus Cyberpunk 2077
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Mach%20es%20zu%20Keanu%20Reeves%20aus%20Cyberpunk%202077)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Mache%20es%20zu%20Keanu%20Reeves%20aus%20Cyberpunk%202077)**
 
 ---
 
-### No. 68: Apple-Stil Website-Design für Nike
+### No. 68: Apple-Style Website-Design für Nike
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein Prompt, der ein klares Website-Design im Apple-Stil für Nike anfordert, mit Fokus auf leistungsstarke Designelemente und ein spezifisches Seitenverhältnis.
+Ein Prompt, der ein klares, im Apple-Stil gehaltenes Website-Design für Nike anfordert, mit Fokus auf leistungsstarke Designelemente und ein spezifisches Seitenverhältnis.
 
 #### 📝 Prompt
 
 ```
-Erstellen Sie eine Website im Apple-Stil mit einem klaren Look für {argument name="brand" default="nike"}, indem Sie passende Elemente mit einem aussagekräftigen Design im Seitenverhältnis 4:5 einfügen.
+Erstellen Sie eine Website im Apple-Stil für {argument name="brand" default="nike"} mit einem klaren Look und passenden Elementen in einem leistungsstarken Design im Seitenverhältnis 4:5.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2951,13 +2947,13 @@ Erstellen Sie eine Website im Apple-Stil mit einem klaren Look für {argument na
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948228955_3gdxcw_G8UTRwQX0AYL8KK.jpg" width="600" alt="Apple-Stil Website-Design für Nike - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948228955_3gdxcw_G8UTRwQX0AYL8KK.jpg" width="600" alt="Apple-Style Website-Design für Nike - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948229134_4avcwp_G8UTRyNXEAQ3mJG.jpg" width="600" alt="Apple-Stil Website-Design für Nike - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948229134_4avcwp_G8UTRyNXEAQ3mJG.jpg" width="600" alt="Apple-Style Website-Design für Nike - Image 2">
 </div>
 
 #### 📌 Details
@@ -2967,7 +2963,7 @@ Erstellen Sie eine Website im Apple-Stil mit einem klaren Look für {argument na
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20eine%20Website%20im%20Apple-Stil%20mit%20einem%20klaren%20Look%20f%C3%BCr%20%7Bargument%20name%3D%22brand%22%20default%3D%22nike%22%7D%2C%20indem%20Sie%20passende%20Elemente%20mit%20einem%20aussagekr%C3%A4ftigen%20Design%20im%20Seitenverh%C3%A4ltnis%204%3A5%20einf%C3%BCgen.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20eine%20Website%20im%20Apple-Stil%20f%C3%BCr%20%7Bargument%20name%3D%22brand%22%20default%3D%22nike%22%7D%20mit%20einem%20klaren%20Look%20und%20passenden%20Elementen%20in%20einem%20leistungsstarken%20Design%20im%20Seitenverh%C3%A4ltnis%204%3A5.)**
 
 ---
 
@@ -3049,14 +3045,14 @@ Füge ein Charakterbild hinzu und generiere den Charakter beim Ramen-Essen.
 
 ---
 
-### No. 71: Person hält eine Zeitung mit einer bestimmten Schlagzeile
+### No. 71: Person hält eine Zeitung mit spezifischer Schlagzeile
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein einfacher Prompt, um ein Bild einer Person zu generieren, die eine Zeitung hält, wobei die Schlagzeile einen spezifischen Vergleich zwischen zwei KI-Modellen deutlich zeigt.
+Ein einfacher Prompt, um ein Bild einer Person zu generieren, die eine Zeitung hält, wobei die Schlagzeile deutlich einen spezifischen Vergleich zwischen zwei KI-Modellen zeigt.
 
 #### 📝 Prompt
 
@@ -3069,13 +3065,13 @@ Eine Person hält eine Zeitung mit der Schlagzeile „{argument name="newspaper 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948227066_1gb44s_G8USe6lWcAE-6E_.jpg" width="600" alt="Person hält eine Zeitung mit einer bestimmten Schlagzeile - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948227066_1gb44s_G8USe6lWcAE-6E_.jpg" width="600" alt="Person hält eine Zeitung mit spezifischer Schlagzeile - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948227633_mzuihs_G8USe7PWkAU_h33.jpg" width="600" alt="Person hält eine Zeitung mit einer bestimmten Schlagzeile - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948227633_mzuihs_G8USe7PWkAU_h33.jpg" width="600" alt="Person hält eine Zeitung mit spezifischer Schlagzeile - Image 2">
 </div>
 
 #### 📌 Details
@@ -3096,12 +3092,12 @@ Eine Person hält eine Zeitung mit der Schlagzeile „{argument name="newspaper 
 
 #### 📖 Beschreibung
 
-Ein kreativer Prompt, der ein Bild von zwei rivalisierenden indischen Politikern anfordert, die im Parlament extrem gelangweilt aussehen, begleitet von einem müden Hund, gerendert in der Ästhetik einer Filmkamera aus den frühen 2000er Jahren.
+Ein kreativer Prompt, der ein Bild von zwei rivalisierenden indischen Politikern anfordert, die im Parlament extrem gelangweilt aussehen, begleitet von einem müden Hund, gerendert im Stil einer Filmkamera der frühen 2000er Jahre.
 
 #### 📝 Prompt
 
 ```
-Zwei rivalisierende {argument name="nationality" default="indian"} Politiker, die im Parlament extrem gelangweilt aussehen, mit einem müden Hund, im Stil einer Filmkamera der frühen 2000er Jahre
+Zwei rivalisierende {argument name="nationality" default="indian"} Politiker, die im Parlament mit einem müden Hund extrem gelangweilt aussehen, im Stil einer Filmkamera der frühen 2000er Jahre
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3125,7 +3121,7 @@ Zwei rivalisierende {argument name="nationality" default="indian"} Politiker, di
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Zwei%20rivalisierende%20%7Bargument%20name%3D%22nationality%22%20default%3D%22indian%22%7D%20Politiker%2C%20die%20im%20Parlament%20extrem%20gelangweilt%20aussehen%2C%20mit%20einem%20m%C3%BCden%20Hund%2C%20im%20Stil%20einer%20Filmkamera%20der%20fr%C3%BChen%202000er%20Jahre)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Zwei%20rivalisierende%20%7Bargument%20name%3D%22nationality%22%20default%3D%22indian%22%7D%20Politiker%2C%20die%20im%20Parlament%20mit%20einem%20m%C3%BCden%20Hund%20extrem%20gelangweilt%20aussehen%2C%20im%20Stil%20einer%20Filmkamera%20der%20fr%C3%BChen%202000er%20Jahre)**
 
 ---
 
@@ -3135,12 +3131,12 @@ Zwei rivalisierende {argument name="nationality" default="indian"} Politiker, di
 
 #### 📖 Beschreibung
 
-Ein sehr detaillierter Prompt, der darauf abzielt, ein ultra-fotorealistisches Bild einer Hauskatze zu erzeugen, wobei winzige Details wie Felltextur, Augenreflexionen, Hautunreinheiten, Kameraeinstellungen (85-mm-Objektiv, f/1.8) und Beleuchtung spezifiziert werden, um Studioqualität ohne jegliche Stilisierung zu erreichen.
+Ein hochdetaillierter Prompt, der darauf abzielt, ein ultra-fotorealistisches Bild einer Hauskatze zu generieren, wobei minutiöse Details wie Felltextur, Augenreflexionen, Hautunreinheiten, Kameraeinstellungen (85-mm-Objektiv, f/1.8) und Beleuchtung spezifiziert werden, um Studioqualität ohne jegliche Stilisierung zu erreichen.
 
 #### 📝 Prompt
 
 ```
-Ein hyperrealistisches Foto einer Hauskatze, extrem detaillierte Felltextur mit sichtbaren einzelnen Haaren, scharfe Schnurrhaare, natürliche Augenreflexionen und subtile Unvollkommenheiten. Die Katze hat ausdrucksstarke Augen mit realistischer Tiefe und Feuchtigkeit, feine Hautdetails um Nase und Ohren und weiches, natürliches Licht, das von einem Fenster einfällt. Aufgenommen mit einer Vollformat-DSLR-Kamera, 85-mm-Objektiv, Blende f/1.8, geringe Schärfentiefe, kinoreifer Bokeh-Hintergrund. Naturgetreue Farben, hoher Dynamikbereich, fotorealistische Schatten, 8K-Auflösung, Realismus in Studioqualität, keine Stilisierung, kein Cartoon, kein CGI.
+Ein hyperrealistisches Foto einer Hauskatze, ultra-detaillierte Felltextur mit sichtbaren einzelnen Strähnen, scharfe Schnurrhaare, natürliche Augenreflexionen und subtile Unvollkommenheiten. Die Katze hat ausdrucksstarke Augen mit realistischer Tiefe und Feuchtigkeit, feine Hautdetails um Nase und Ohren und weiches, natürliches Licht, das von einem Fenster einfällt. Aufgenommen mit einer Vollformat-DSLR-Kamera, 85-mm-Objektiv, Blende f/1.8, geringe Schärfentiefe, kinoreifer Bokeh-Hintergrund. Lebensechte Farben, hoher Dynamikbereich, fotorealistische Schatten, 8K-Auflösung, Studioqualität-Realismus, keine Stilisierung, kein Cartoon, kein CGI.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3164,22 +3160,22 @@ Ein hyperrealistisches Foto einer Hauskatze, extrem detaillierte Felltextur mit 
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hyperrealistisches%20Foto%20einer%20Hauskatze%2C%20extrem%20detaillierte%20Felltextur%20mit%20sichtbaren%20einzelnen%20Haaren%2C%20scharfe%20Schnurrhaare%2C%20nat%C3%BCrliche%20Augenreflexionen%20und%20subtile%20Unvollkommenheiten.%20Die%20Katze%20hat%20ausdrucksstarke%20Augen%20mit%20realistischer%20Tiefe%20und%20Feuchtigkeit%2C%20feine%20Hautdetails%20um%20Nase%20und%20Ohren%20und%20weiches%2C%20nat%C3%BCrliches%20Licht%2C%20das%20von%20einem%20Fenster%20einf%C3%A4llt.%20Aufgenommen%20mit%20einer%20Vollformat-DSLR-Kamera%2C%2085-mm-Objektiv%2C%20Blende%20f%2F1.8%2C%20geringe%20Sch%C3%A4rfentiefe%2C%20kinoreifer%20Bokeh-Hintergrund.%20Naturgetreue%20Farben%2C%20hoher%20Dynamikbereich%2C%20fotorealistische%20Schatten%2C%208K-Aufl%C3%B6sung%2C%20Realismus%20in%20Studioqualit%C3%A4t%2C%20keine%20Stilisierung%2C%20kein%20Cartoon%2C%20kein%20CGI.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hyperrealistisches%20Foto%20einer%20Hauskatze%2C%20ultra-detaillierte%20Felltextur%20mit%20sichtbaren%20einzelnen%20Str%C3%A4hnen%2C%20scharfe%20Schnurrhaare%2C%20nat%C3%BCrliche%20Augenreflexionen%20und%20subtile%20Unvollkommenheiten.%20Die%20Katze%20hat%20ausdrucksstarke%20Augen%20mit%20realistischer%20Tiefe%20und%20Feuchtigkeit%2C%20feine%20Hautdetails%20um%20Nase%20und%20Ohren%20und%20weiches%2C%20nat%C3%BCrliches%20Licht%2C%20das%20von%20einem%20Fenster%20einf%C3%A4llt.%20Aufgenommen%20mit%20einer%20Vollformat-DSLR-Kamera%2C%2085-mm-Objektiv%2C%20Blende%20f%2F1.8%2C%20geringe%20Sch%C3%A4rfentiefe%2C%20kinoreifer%20Bokeh-Hintergrund.%20Lebensechte%20Farben%2C%20hoher%20Dynamikbereich%2C%20fotorealistische%20Schatten%2C%208K-Aufl%C3%B6sung%2C%20Studioqualit%C3%A4t-Realismus%2C%20keine%20Stilisierung%2C%20kein%20Cartoon%2C%20kein%20CGI.)**
 
 ---
 
-### No. 74: Explosionszeichnung: Technisches Diagramm eines iPhone
+### No. 74: Explosionszeichnung eines iPhones
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein detaillierter Prompt zur Erstellung einer technischen Illustration eines iPhones in einer Explosionszeichnung. Er erfordert eine präzise Ausrichtung aller internen Komponenten, technische Anmerkungen, eine isometrische technische Perspektive und fotorealistische Texturen auf metallischen und gläsernen Teilen.
+Ein detaillierter Prompt zur Erstellung einer technischen Illustration eines iPhones in Explosionszeichnung. Er erfordert eine präzise Ausrichtung aller internen Komponenten, technische Anmerkungen, eine isometrische technische Perspektive und fotorealistische Texturen auf metallischen und gläsernen Teilen.
 
 #### 📝 Prompt
 
 ```
-Ein hochdetailliertes technisches Explosionsdiagramm eines iPhones, das alle internen Komponenten getrennt und präzise ausgerichtet schwebend zeigt, mit dem Display oben, dem Logic Board mit A-Serie-Chip in der Mitte, Akkupack, Kameramodulen mit Linsen, Lightning-Anschluss, Lautsprechergittern, Antennenbändern, Glasrückseite, Aluminiumrahmen, winzigen Schrauben und Anschlüssen, wobei jedes Teil mit technischen Anmerkungen und Maßlinien versehen ist, auf sauberem weißem Hintergrund, in isometrischer Ingenieurperspektive, im Blaupausenstil mit subtilem Raster, professionelle technische Illustration, fotorealistische Komponenten mit Metall- und Glastexturen, chirurgisch präzise Anordnung, moderne industrielle Designästhetik, 8k-Detail.
+Ein hochdetailliertes technisches Explosionsdiagramm eines iPhones, das alle internen Komponenten getrennt und präzise ausgerichtet schwebend zeigt, mit dem Display oben, dem Logic Board mit A-Serie-Chip in der Mitte, Akkupack, Kameramodulen mit Linsen, Lightning-Anschluss, Lautsprechergittern, Antennenbändern, Glasrückseite, Aluminiumrahmen, winzigen Schrauben und Anschlüssen, wobei jedes Teil mit technischen Anmerkungen und Maßlinien versehen ist, auf sauberem weißem Hintergrund, in isometrischer technischer Perspektive, im Blaupausenstil mit subtilem Raster, professionelle technische Illustration, fotorealistische Komponenten mit Metall- und Glastexturen, Layout mit chirurgischer Präzision, moderne industrielle Designästhetik, 8k-Detail.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3187,13 +3183,13 @@ Ein hochdetailliertes technisches Explosionsdiagramm eines iPhones, das alle int
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948226046_vswjgs_G8ULTRfWIAcN_9q.jpg" width="600" alt="Explosionszeichnung: Technisches Diagramm eines iPhone - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948226046_vswjgs_G8ULTRfWIAcN_9q.jpg" width="600" alt="Explosionszeichnung eines iPhones - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948226386_yzcn52_G8ULS2uWMAYTtDD.jpg" width="600" alt="Explosionszeichnung: Technisches Diagramm eines iPhone - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948226386_yzcn52_G8ULS2uWMAYTtDD.jpg" width="600" alt="Explosionszeichnung eines iPhones - Image 2">
 </div>
 
 #### 📌 Details
@@ -3203,7 +3199,7 @@ Ein hochdetailliertes technisches Explosionsdiagramm eines iPhones, das alle int
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hochdetailliertes%20technisches%20Explosionsdiagramm%20eines%20iPhones%2C%20das%20alle%20internen%20Komponenten%20getrennt%20und%20pr%C3%A4zise%20ausgerichtet%20schwebend%20zeigt%2C%20mit%20dem%20Display%20oben%2C%20dem%20Logic%20Board%20mit%20A-Serie-Chip%20in%20der%20Mitte%2C%20Akkupack%2C%20Kameramodulen%20mit%20Linsen%2C%20Lightning-Anschluss%2C%20Lautsprechergittern%2C%20Antennenb%C3%A4ndern%2C%20Glasr%C3%BCckseite%2C%20Aluminiumrahmen%2C%20winzigen%20Schrauben%20und%20Anschl%C3%BCssen%2C%20wobei%20jedes%20Teil%20mit%20technischen%20Anmerkungen%20und%20Ma%C3%9Flinien%20versehen%20ist%2C%20auf%20sauberem%20wei%C3%9Fem%20Hintergrund%2C%20in%20isometrischer%20Ingenieurperspektive%2C%20im%20Blaupausenstil%20mit%20subtilem%20Raster%2C%20professionelle%20technische%20Illustration%2C%20fotorealistische%20Komponenten%20mit%20Metall-%20und%20Glastexturen%2C%20chirurgisch%20pr%C3%A4zise%20Anordnung%2C%20moderne%20industrielle%20Design%C3%A4sthetik%2C%208k-Detail.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hochdetailliertes%20technisches%20Explosionsdiagramm%20eines%20iPhones%2C%20das%20alle%20internen%20Komponenten%20getrennt%20und%20pr%C3%A4zise%20ausgerichtet%20schwebend%20zeigt%2C%20mit%20dem%20Display%20oben%2C%20dem%20Logic%20Board%20mit%20A-Serie-Chip%20in%20der%20Mitte%2C%20Akkupack%2C%20Kameramodulen%20mit%20Linsen%2C%20Lightning-Anschluss%2C%20Lautsprechergittern%2C%20Antennenb%C3%A4ndern%2C%20Glasr%C3%BCckseite%2C%20Aluminiumrahmen%2C%20winzigen%20Schrauben%20und%20Anschl%C3%BCssen%2C%20wobei%20jedes%20Teil%20mit%20technischen%20Anmerkungen%20und%20Ma%C3%9Flinien%20versehen%20ist%2C%20auf%20sauberem%20wei%C3%9Fem%20Hintergrund%2C%20in%20isometrischer%20technischer%20Perspektive%2C%20im%20Blaupausenstil%20mit%20subtilem%20Raster%2C%20professionelle%20technische%20Illustration%2C%20fotorealistische%20Komponenten%20mit%20Metall-%20und%20Glastexturen%2C%20Layout%20mit%20chirurgischer%20Pr%C3%A4zision%2C%20moderne%20industrielle%20Design%C3%A4sthetik%2C%208k-Detail.)**
 
 ---
 
@@ -3240,7 +3236,7 @@ auf einem Foto im Stil einer Filmkamera aus den 2000er-Jahren
 
 ---
 
-### No. 76: Mehrpersonen-Funktionserhaltungstest für GPT Image 1.5
+### No. 76: Multi-Person Feature Retention Test für GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3260,7 +3256,7 @@ Ein Prompt, der die Fähigkeit von GPT Image 1.5 testen soll, die Merkmale mehre
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949128215_48sy3j_G8UKf2absAAoEsO.jpg" width="600" alt="Mehrpersonen-Funktionserhaltungstest für GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949128215_48sy3j_G8UKf2absAAoEsO.jpg" width="600" alt="Multi-Person Feature Retention Test für GPT Image 1.5 - Image 1">
 </div>
 
 #### 📌 Details
@@ -3307,13 +3303,13 @@ Eine neugierige Katze, die aus einem Haufen Herbstlaub hervorlugt.
 
 ---
 
-### No. 78: Prompt für komplexe Texte und Diagramme (Screenshot)
+### No. 78: Prompt für komplexen Text und Diagramme (Screenshot)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein Prompt, der darauf ausgelegt ist, die Fähigkeit des Modells zu testen, komplexe Texte und Diagramme präzise darzustellen, was oft eine Herausforderung für Bildgenerierungsmodelle darstellt. Der Prompt-Text ist im beigefügten Screenshot sichtbar.
+Ein Prompt, der entwickelt wurde, um die Fähigkeit des Modells zu testen, komplexe Texte und Diagramme präzise darzustellen, was oft eine Herausforderung für Bildgenerierungsmodelle darstellt. Der Prompt-Text ist im beigefügten Screenshot sichtbar.
 
 #### 📝 Prompt
 
@@ -3326,13 +3322,13 @@ Ein komplexes Diagramm, das die Quantenverschränkungstheorie mit detaillierten 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257370_426er2_G8UFQbDW8Bsrn-R.png" width="600" alt="Prompt für komplexe Texte und Diagramme (Screenshot) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948257370_426er2_G8UFQbDW8Bsrn-R.png" width="600" alt="Prompt für komplexen Text und Diagramme (Screenshot) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948257475_fj2ig2_G8UFIRPXkAEg4-n.jpg" width="600" alt="Prompt für komplexe Texte und Diagramme (Screenshot) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948257475_fj2ig2_G8UFIRPXkAEg4-n.jpg" width="600" alt="Prompt für komplexen Text und Diagramme (Screenshot) - Image 2">
 </div>
 
 #### 📌 Details
@@ -3352,7 +3348,7 @@ Ein komplexes Diagramm, das die Quantenverschränkungstheorie mit detaillierten 
 
 #### 📖 Beschreibung
 
-Ein Prompt, der verwendet wurde, um ein Bild eines Fußballspielers zu generieren und die Fähigkeit des Modells zu testen, spezifische sportliche Motive und Kompositionen zu verarbeiten. Der Prompt-Text ist im beigefügten Screenshot sichtbar.
+Ein Prompt, der verwendet wurde, um ein Bild eines Fußballspielers zu generieren, um die Fähigkeit des Modells zu testen, spezifische sportliche Motive und Kompositionen zu verarbeiten. Der Prompt-Text ist im beigefügten Screenshot sichtbar.
 
 #### 📝 Prompt
 
@@ -3397,7 +3393,7 @@ Ein Fußballspieler, sehr detailliert, kinoreife Beleuchtung, Action-Aufnahme, u
 
 #### 📖 Beschreibung
 
-Ein einfacher, funktionaler Prompt zur Frame-Extraktion aus einem zuvor generierten Bildraster, der speziell auf das Bild in Reihe 1, Spalte 2 abzielt.
+Ein einfacher, funktionaler Prompt, der zur Frame-Extraktion aus einem zuvor generierten Bildraster verwendet wird, speziell für das Bild in Zeile 1, Spalte 2.
 
 #### 📝 Prompt
 
@@ -3437,7 +3433,7 @@ Extrahieren Sie das Standbild aus Zeile 1, Spalte 2
 
 #### 📖 Beschreibung
 
-Ein Prompt, der in einem Vergleichstest verwendet wurde und sich auf die Beibehaltung einer bestimmten geometrischen Form (die dreieckige Form eines Vogels) während der Bilderzeugung konzentriert. Der Prompt-Text ist im beigefügten Screenshot sichtbar.
+Ein Prompt, der in einem Vergleichstest verwendet wurde und sich auf die Beibehaltung einer bestimmten geometrischen Form (die Dreiecksform eines Vogels) während der Bildgenerierung konzentriert. Der Prompt-Text ist im beigefügten Screenshot sichtbar.
 
 #### 📝 Prompt
 
@@ -3476,18 +3472,18 @@ Ein 2x2 Catch-and-Cook-Bild eines {argument name="animal" default="bird"} mit dr
 
 ---
 
-### No. 82: Dokumentarfoto von Fischer und Katze auf der Galata-Brücke
+### No. 82: Dokumentarfoto von Fischer und Katze auf der Galatabrücke
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein komplexer, ultrarealistischer Dokumentarfotografie-Prompt, der auf der regennassen Galatabrücke in Istanbul spielt. Er konzentriert sich auf einen älteren Fischer, der lachend einen Fisch einer Straßenkatze hinhält, wobei Details wie verwittertes Gesicht, grobe Kleidung, starke Regenschlieren, bewegungsunscharfe Pendler und die Ästhetik von analogem 35-mm-Filmkorn mit geringer Schärfentiefe hervorgehoben werden.
+Ein komplexer, ultrarealistischer Dokumentarfotografie-Prompt, der auf der regennassen Galatabrücke in Istanbul spielt. Er konzentriert sich auf einen älteren Fischer, der lachend einen Fisch einer Straßenkatze hinhält, wobei Details wie verwittertes Gesicht, grobe Kleidung, starke Regenschlieren, bewegungsunscharfe Pendler und die Ästhetik von analogem 35-mm-Filmkorn mit geringer Schärfentiefe spezifiziert werden.
 
 #### 📝 Prompt
 
 ```
-Ein offenes, ultrarealistisches Dokumentarfoto, das einen ergreifenden Moment auf der regennassen Galatabrücke in Istanbul einfängt: Ein älterer Fischer mit tief gefurchtem Gesicht, bekleidet mit einer geflickten Öljacke, lacht, während er einer durchnässten Straßenkatze, die sich prekär auf dem Geländer neben seiner verrosteten Angelkiste balanciert, einen kleinen Fisch hinhält. Der Regen prasselt stark. Im geschäftigen Hintergrund verschwimmen Menschenmassen von Pendlern mit Regenschirmen durch die Bewegung, eine traditionelle Stadtfähre überquert den unruhigen grauen Bosporus und stößt Rauch aus, und die Silhouette der Neuen Moschee (Yeni Cami) erhebt sich unter schweren, diffusen Sturmwolken. Das Bild weist die ausgeprägte Ästhetik von analogem 35-mm-Filmkorn, natürlichem, stimmungsvollem Licht, geringer Tiefenschärfe mit scharfem Fokus auf Mann und Katze sowie hochdetaillierten Texturen auf nassem Pflaster, alter Kleidung und Metall auf.
+Ein offenes, ultrarealistisches Dokumentarfoto, das einen ergreifenden Moment auf der regennassen Galatabrücke in Istanbul einfängt: Ein älterer Fischer mit tief gefurchtem Gesicht, der eine geflickte Ölzeugjacke trägt, lacht, während er einer durchnässten Straßenkatze, die sich prekär auf dem Geländer neben seiner verrosteten Angelkiste balanciert, einen kleinen Fisch hinhält. Regen fällt stark. Im geschäftigen Hintergrund verschwimmen Menschenmassen von Pendlern mit Regenschirmen durch Bewegung, eine traditionelle Stadtfähre überquert den unruhigen grauen Bosporus und stößt Rauch aus, und die Silhouette der Neuen Moschee (Yeni Cami) erhebt sich unter schweren, diffusen Sturmwolken. Das Bild weist die ausgeprägte Ästhetik von analogem 35-mm-Filmkorn auf, natürliches, stimmungsvolles Licht, eine geringe Tiefenschärfe, die scharf auf den Mann und die Katze fokussiert, und hochdetaillierte Texturen auf nassem Pflaster, alter Kleidung und Metall.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3495,13 +3491,13 @@ Ein offenes, ultrarealistisches Dokumentarfoto, das einen ergreifenden Moment au
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948239780_6g1dy5_G8UE-k5WAAMgtBw.jpg" width="600" alt="Dokumentarfoto von Fischer und Katze auf der Galata-Brücke - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948239780_6g1dy5_G8UE-k5WAAMgtBw.jpg" width="600" alt="Dokumentarfoto von Fischer und Katze auf der Galatabrücke - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948240097_ldebt2_G8UE-lAXsAU2G9D.jpg" width="600" alt="Dokumentarfoto von Fischer und Katze auf der Galata-Brücke - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948240097_ldebt2_G8UE-lAXsAU2G9D.jpg" width="600" alt="Dokumentarfoto von Fischer und Katze auf der Galatabrücke - Image 2">
 </div>
 
 #### 📌 Details
@@ -3511,7 +3507,7 @@ Ein offenes, ultrarealistisches Dokumentarfoto, das einen ergreifenden Moment au
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20offenes%2C%20ultrarealistisches%20Dokumentarfoto%2C%20das%20einen%20ergreifenden%20Moment%20auf%20der%20regennassen%20Galatabr%C3%BCcke%20in%20Istanbul%20einf%C3%A4ngt%3A%20Ein%20%C3%A4lterer%20Fischer%20mit%20tief%20gefurchtem%20Gesicht%2C%20bekleidet%20mit%20einer%20geflickten%20%C3%96ljacke%2C%20lacht%2C%20w%C3%A4hrend%20er%20einer%20durchn%C3%A4ssten%20Stra%C3%9Fenkatze%2C%20die%20sich%20prek%C3%A4r%20auf%20dem%20Gel%C3%A4nder%20neben%20seiner%20verrosteten%20Angelkiste%20balanciert%2C%20einen%20kleinen%20Fisch%20hinh%C3%A4lt.%20Der%20Regen%20prasselt%20stark.%20Im%20gesch%C3%A4ftigen%20Hintergrund%20verschwimmen%20Menschenmassen%20von%20Pendlern%20mit%20Regenschirmen%20durch%20die%20Bewegung%2C%20eine%20traditionelle%20Stadtf%C3%A4hre%20%C3%BCberquert%20den%20unruhigen%20grauen%20Bosporus%20und%20st%C3%B6%C3%9Ft%20Rauch%20aus%2C%20und%20die%20Silhouette%20der%20Neuen%20Moschee%20(Yeni%20Cami)%20erhebt%20sich%20unter%20schweren%2C%20diffusen%20Sturmwolken.%20Das%20Bild%20weist%20die%20ausgepr%C3%A4gte%20%C3%84sthetik%20von%20analogem%2035-mm-Filmkorn%2C%20nat%C3%BCrlichem%2C%20stimmungsvollem%20Licht%2C%20geringer%20Tiefensch%C3%A4rfe%20mit%20scharfem%20Fokus%20auf%20Mann%20und%20Katze%20sowie%20hochdetaillierten%20Texturen%20auf%20nassem%20Pflaster%2C%20alter%20Kleidung%20und%20Metall%20auf.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20offenes%2C%20ultrarealistisches%20Dokumentarfoto%2C%20das%20einen%20ergreifenden%20Moment%20auf%20der%20regennassen%20Galatabr%C3%BCcke%20in%20Istanbul%20einf%C3%A4ngt%3A%20Ein%20%C3%A4lterer%20Fischer%20mit%20tief%20gefurchtem%20Gesicht%2C%20der%20eine%20geflickte%20%C3%96lzeugjacke%20tr%C3%A4gt%2C%20lacht%2C%20w%C3%A4hrend%20er%20einer%20durchn%C3%A4ssten%20Stra%C3%9Fenkatze%2C%20die%20sich%20prek%C3%A4r%20auf%20dem%20Gel%C3%A4nder%20neben%20seiner%20verrosteten%20Angelkiste%20balanciert%2C%20einen%20kleinen%20Fisch%20hinh%C3%A4lt.%20Regen%20f%C3%A4llt%20stark.%20Im%20gesch%C3%A4ftigen%20Hintergrund%20verschwimmen%20Menschenmassen%20von%20Pendlern%20mit%20Regenschirmen%20durch%20Bewegung%2C%20eine%20traditionelle%20Stadtf%C3%A4hre%20%C3%BCberquert%20den%20unruhigen%20grauen%20Bosporus%20und%20st%C3%B6%C3%9Ft%20Rauch%20aus%2C%20und%20die%20Silhouette%20der%20Neuen%20Moschee%20(Yeni%20Cami)%20erhebt%20sich%20unter%20schweren%2C%20diffusen%20Sturmwolken.%20Das%20Bild%20weist%20die%20ausgepr%C3%A4gte%20%C3%84sthetik%20von%20analogem%2035-mm-Filmkorn%20auf%2C%20nat%C3%BCrliches%2C%20stimmungsvolles%20Licht%2C%20eine%20geringe%20Tiefensch%C3%A4rfe%2C%20die%20scharf%20auf%20den%20Mann%20und%20die%20Katze%20fokussiert%2C%20und%20hochdetaillierte%20Texturen%20auf%20nassem%20Pflaster%2C%20alter%20Kleidung%20und%20Metall.)**
 
 ---
 
@@ -3522,12 +3518,12 @@ Ein offenes, ultrarealistisches Dokumentarfoto, das einen ergreifenden Moment au
 
 #### 📖 Beschreibung
 
-Ein komplexer Prompt, der die Fähigkeit von GPT Image 1.5 testen soll, spezifischen Text präzise in einem dystopischen Posterdesign darzustellen, das einen Charakter zeigt, der in einer Wüste einen kaputten Roller fährt.
+Ein komplexer Prompt, der die Fähigkeit von GPT Image 1.5 testen soll, spezifischen Text präzise in einem dystopischen Posterdesign darzustellen, das einen Charakter zeigt, der auf einem kaputten Roller durch eine Wüste fährt.
 
 #### 📝 Prompt
 
 ```
-Dieser Typ [mein Bild] fährt auf einem verrosteten und kaputten Roller in einer Wüste in einer Totale, umgeben von leerem, kargem Land. Der Titel lautet „{argument name="title" default="2135"}“. Der mehrzeilige Untertitel sollte lauten: „{argument name="subtitle" default="THE AGE OF AGI BEGINS HERE"}“. Das Poster sollte auffällig und dystopisch aussehen.
+Dieser Typ [mein Bild] fährt auf einem verrosteten und kaputten Roller in einer Wüste in einer Totale, umgeben von leerem, kargem Land. Der Titel lautet „{argument name="title" default="2135"}“. Der mehrzeilige Untertitel sollte lauten: „{argument name="subtitle" default="THE AGE OF AGI BEGINS HERE"}“. Das Poster sollte auffällig und dystopisch wirken.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3545,7 +3541,7 @@ Dieser Typ [mein Bild] fährt auf einem verrosteten und kaputten Roller in einer
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Dieser%20Typ%20%5Bmein%20Bild%5D%20f%C3%A4hrt%20auf%20einem%20verrosteten%20und%20kaputten%20Roller%20in%20einer%20W%C3%BCste%20in%20einer%20Totale%2C%20umgeben%20von%20leerem%2C%20kargem%20Land.%20Der%20Titel%20lautet%20%E2%80%9E%7Bargument%20name%3D%22title%22%20default%3D%222135%22%7D%E2%80%9C.%20Der%20mehrzeilige%20Untertitel%20sollte%20lauten%3A%20%E2%80%9E%7Bargument%20name%3D%22subtitle%22%20default%3D%22THE%20AGE%20OF%20AGI%20BEGINS%20HERE%22%7D%E2%80%9C.%20Das%20Poster%20sollte%20auff%C3%A4llig%20und%20dystopisch%20aussehen.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Dieser%20Typ%20%5Bmein%20Bild%5D%20f%C3%A4hrt%20auf%20einem%20verrosteten%20und%20kaputten%20Roller%20in%20einer%20W%C3%BCste%20in%20einer%20Totale%2C%20umgeben%20von%20leerem%2C%20kargem%20Land.%20Der%20Titel%20lautet%20%E2%80%9E%7Bargument%20name%3D%22title%22%20default%3D%222135%22%7D%E2%80%9C.%20Der%20mehrzeilige%20Untertitel%20sollte%20lauten%3A%20%E2%80%9E%7Bargument%20name%3D%22subtitle%22%20default%3D%22THE%20AGE%20OF%20AGI%20BEGINS%20HERE%22%7D%E2%80%9C.%20Das%20Poster%20sollte%20auff%C3%A4llig%20und%20dystopisch%20wirken.)**
 
 ---
 
@@ -3555,7 +3551,7 @@ Dieser Typ [mein Bild] fährt auf einem verrosteten und kaputten Roller in einer
 
 #### 📖 Beschreibung
 
-Ein Prompt, der durch den Kontext der Erstellung einer benutzerdefinierten Yu-Gi-Oh!-Karte impliziert wird. Obwohl der genaue Text nicht angegeben ist, ist das Ziel klar: eine benutzerdefinierte Karte basierend auf einer Textbeschreibung zu erstellen.
+Ein Prompt, der durch den Kontext der Generierung einer benutzerdefinierten Yu-Gi-Oh-Karte impliziert wird, obwohl der genaue Text nicht angegeben ist, ist das Ziel klar: eine benutzerdefinierte Karte basierend auf einer Textbeschreibung zu erstellen.
 
 #### 📝 Prompt
 
@@ -3594,12 +3590,12 @@ Erstelle eine individuelle Yu-Gi-Oh!-Karte nur aus einem Prompt
 
 #### 📖 Beschreibung
 
-Ein hochspezifischer Prompt zur Bilderzeugung, der die Fähigkeit des Modells testet, komplexe Texturen, architektonische Stile und präzise Details zu verarbeiten. Er fordert einen fotorealistischen, gefalteten Papier-Blaupausenentwurf von King Kong an, wobei geometrische Falten, Blaupausenmarkierungen, eine minimale Farbpalette und spezifische Lichtverhältnisse betont werden.
+Ein sehr spezifischer Prompt zur Bilderzeugung, der die Fähigkeit des Modells testet, komplexe Texturen, architektonische Stile und präzise Details zu verarbeiten. Er fordert einen fotorealistischen, gefalteten Papierbauplan von King Kong an, wobei geometrische Falten, Bauplanmarkierungen, eine minimale Farbpalette und spezifische Lichtverhältnisse betont werden.
 
 #### 📝 Prompt
 
 ```
-Ein hyperdetaillierter Bauplan von King Kong aus gefaltetem Papier, wobei die Figur aus präzisen geometrischen Falten und Knicklinien konstruiert ist, überlagert mit subtilen Bauplanmarkierungen, Maßlinien und Papieranmerkungen. Minimale Farbpalette, cremefarbenes Papier mit schwachen Tuschelinien. Studiobeleuchtung, scharfe Schatten, architektonischer Kunststil, fotorealistisches Papierdetail. Quadratisches Format 1080x1080.
+Ein hyperdetaillierter Bauplan von King Kong aus gefaltetem Papier, wobei die Figur aus präzisen geometrischen Faltungen und Knicklinien konstruiert ist, überlagert mit subtilen Bauplanmarkierungen, Maßlinien und Papierannotationen. Minimale Farbpalette, cremefarbenes Papier mit schwachen Tuschelinien. Studiobeleuchtung, scharfe Schatten, architektonischer Kunststil, fotorealistisches Papierdetail. Quadratisches Format 1080x1080.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3623,7 +3619,7 @@ Ein hyperdetaillierter Bauplan von King Kong aus gefaltetem Papier, wobei die Fi
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hyperdetaillierter%20Bauplan%20von%20King%20Kong%20aus%20gefaltetem%20Papier%2C%20wobei%20die%20Figur%20aus%20pr%C3%A4zisen%20geometrischen%20Falten%20und%20Knicklinien%20konstruiert%20ist%2C%20%C3%BCberlagert%20mit%20subtilen%20Bauplanmarkierungen%2C%20Ma%C3%9Flinien%20und%20Papieranmerkungen.%20Minimale%20Farbpalette%2C%20cremefarbenes%20Papier%20mit%20schwachen%20Tuschelinien.%20Studiobeleuchtung%2C%20scharfe%20Schatten%2C%20architektonischer%20Kunststil%2C%20fotorealistisches%20Papierdetail.%20Quadratisches%20Format%201080x1080.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hyperdetaillierter%20Bauplan%20von%20King%20Kong%20aus%20gefaltetem%20Papier%2C%20wobei%20die%20Figur%20aus%20pr%C3%A4zisen%20geometrischen%20Faltungen%20und%20Knicklinien%20konstruiert%20ist%2C%20%C3%BCberlagert%20mit%20subtilen%20Bauplanmarkierungen%2C%20Ma%C3%9Flinien%20und%20Papierannotationen.%20Minimale%20Farbpalette%2C%20cremefarbenes%20Papier%20mit%20schwachen%20Tuschelinien.%20Studiobeleuchtung%2C%20scharfe%20Schatten%2C%20architektonischer%20Kunststil%2C%20fotorealistisches%20Papierdetail.%20Quadratisches%20Format%201080x1080.)**
 
 ---
 
@@ -3712,7 +3708,7 @@ Ein fotorealistischer Prompt für eine weite Drohnenaufnahme, die einen kolossal
 #### 📝 Prompt
 
 ```
-Eine fotorealistische Weitwinkel-Drohnenaufnahme eines kolossalen Mannes (Gesicht/Körper exakt wie in der Referenz), der lässig auf einer Londoner Straße sitzt, ein Knie angezogen, die Hand darauf ruhend. Er trägt einen marineblauen Mantel, einen Strickpullover, dunkle Hosen, Stiefel und eine minimalistische Beanie-Mütze. Winzige Autos, Busse, Fahrräder und Fußgänger bewegen sich um ihn herum, während klassische Londoner Backsteingebäude, schwarze Laternen und Kopfsteinpflasterstraßen von seiner Größe zwergenhaft wirken. Weiches, bedecktes Londoner Tageslicht hebt den nassen Bürgersteig hervor.
+Eine fotorealistische Weitwinkel-Drohnenaufnahme eines kolossalen Mannes (Gesicht/Körper exakt wie in der Referenz), der lässig auf einer Londoner Straße sitzt, ein Knie angezogen, eine Hand ruhend. Er trägt einen marineblauen Mantel, einen Strickpullover, eine dunkle Hose, Stiefel und eine minimalistische Beanie-Mütze. Winzige Autos, Busse, Fahrräder und Fußgänger bewegen sich um ihn herum, während klassische Londoner Backsteingebäude, schwarze Laternen und Kopfsteinpflasterstraßen von seiner Größe zwergenhaft wirken. Sanftes, bewölktes Londoner Tageslicht hebt den nassen Bürgersteig hervor.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3736,22 +3732,22 @@ Eine fotorealistische Weitwinkel-Drohnenaufnahme eines kolossalen Mannes (Gesich
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20fotorealistische%20Weitwinkel-Drohnenaufnahme%20eines%20kolossalen%20Mannes%20(Gesicht%2FK%C3%B6rper%20exakt%20wie%20in%20der%20Referenz)%2C%20der%20l%C3%A4ssig%20auf%20einer%20Londoner%20Stra%C3%9Fe%20sitzt%2C%20ein%20Knie%20angezogen%2C%20die%20Hand%20darauf%20ruhend.%20Er%20tr%C3%A4gt%20einen%20marineblauen%20Mantel%2C%20einen%20Strickpullover%2C%20dunkle%20Hosen%2C%20Stiefel%20und%20eine%20minimalistische%20Beanie-M%C3%BCtze.%20Winzige%20Autos%2C%20Busse%2C%20Fahrr%C3%A4der%20und%20Fu%C3%9Fg%C3%A4nger%20bewegen%20sich%20um%20ihn%20herum%2C%20w%C3%A4hrend%20klassische%20Londoner%20Backsteingeb%C3%A4ude%2C%20schwarze%20Laternen%20und%20Kopfsteinpflasterstra%C3%9Fen%20von%20seiner%20Gr%C3%B6%C3%9Fe%20zwergenhaft%20wirken.%20Weiches%2C%20bedecktes%20Londoner%20Tageslicht%20hebt%20den%20nassen%20B%C3%BCrgersteig%20hervor.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20fotorealistische%20Weitwinkel-Drohnenaufnahme%20eines%20kolossalen%20Mannes%20(Gesicht%2FK%C3%B6rper%20exakt%20wie%20in%20der%20Referenz)%2C%20der%20l%C3%A4ssig%20auf%20einer%20Londoner%20Stra%C3%9Fe%20sitzt%2C%20ein%20Knie%20angezogen%2C%20eine%20Hand%20ruhend.%20Er%20tr%C3%A4gt%20einen%20marineblauen%20Mantel%2C%20einen%20Strickpullover%2C%20eine%20dunkle%20Hose%2C%20Stiefel%20und%20eine%20minimalistische%20Beanie-M%C3%BCtze.%20Winzige%20Autos%2C%20Busse%2C%20Fahrr%C3%A4der%20und%20Fu%C3%9Fg%C3%A4nger%20bewegen%20sich%20um%20ihn%20herum%2C%20w%C3%A4hrend%20klassische%20Londoner%20Backsteingeb%C3%A4ude%2C%20schwarze%20Laternen%20und%20Kopfsteinpflasterstra%C3%9Fen%20von%20seiner%20Gr%C3%B6%C3%9Fe%20zwergenhaft%20wirken.%20Sanftes%2C%20bew%C3%B6lktes%20Londoner%20Tageslicht%20hebt%20den%20nassen%20B%C3%BCrgersteig%20hervor.)**
 
 ---
 
-### No. 89: Filmreife Silhouette von Fischern auf der Galata-Brücke
+### No. 89: Filmische Silhouette von Fischern auf der Galata-Brücke
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein sehr detaillierter, filmischer Prompt zur Bildgenerierung, der sich auf einen bestimmten Ort (Galata-Brücke, Istanbul) und eine bestimmte Zeit (Sonnenuntergang) konzentriert. Er spezifiziert Komposition, Stimmung, Beleuchtung, Farbpalette und sogar Kameraeinstellungen, um einen atmosphärischen, preisgekrönten Reisefotografie-Stil zu erzielen.
+Ein sehr detaillierter, filmischer Prompt zur Bilderzeugung, der sich auf einen bestimmten Ort (Galatabrücke, Istanbul) und eine bestimmte Zeit (Sonnenuntergang) konzentriert. Er spezifiziert Komposition, Stimmung, Beleuchtung, Farbpalette und sogar Kameraeinstellungen, um einen atmosphärischen, preisgekrönten Reisefotografie-Stil zu erzielen.
 
 #### 📝 Prompt
 
 ```
-Eine filmische Silhouettenaufnahme von lokalen Fischern, die bei Sonnenuntergang auf der Galatabrücke in Istanbul stehen. Im Vordergrund lehnt ein müder Fischer am Geländer und blickt auf das Meer. Im Hintergrund verschwimmt die traumhafte Silhouette der Süleymaniye-Moschee, und Möwen fliegen über das Goldene Horn. Warme orange und tiefblaue Farbpalette. Aufgenommen mit einer Sony A7R IV und einem Sony FE 85mm f/1.4 GM Objektiv bei f/1.8. Atmosphärischer Dunst, emotionale Erzählung, preisgekrönte Reisefotografie.
+Eine filmische Silhouettenaufnahme von lokalen Fischern, die bei Sonnenuntergang auf der Galatabrücke in Istanbul stehen. Im Vordergrund lehnt ein müder Fischer am Geländer und blickt auf das Meer. Im Hintergrund verschwimmt die dunstige, traumhafte Silhouette der Süleymaniye-Moschee, und Möwen fliegen über das Goldene Horn. Warme orange und tiefblaue Farbpalette. Aufgenommen mit einer Sony A7R IV und einem Sony FE 85mm f/1.4 GM Objektiv bei f/1.8. Atmosphärischer Dunst, emotionale Erzählung, preisgekrönte Reisefotografie.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3759,13 +3755,13 @@ Eine filmische Silhouettenaufnahme von lokalen Fischern, die bei Sonnenuntergang
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948212786_q78gpn_G8T9rt3WUAc98bg.jpg" width="600" alt="Filmreife Silhouette von Fischern auf der Galata-Brücke - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948212786_q78gpn_G8T9rt3WUAc98bg.jpg" width="600" alt="Filmische Silhouette von Fischern auf der Galata-Brücke - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948212903_yk92df_G8T9shBXIAExAQs.jpg" width="600" alt="Filmreife Silhouette von Fischern auf der Galata-Brücke - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948212903_yk92df_G8T9shBXIAExAQs.jpg" width="600" alt="Filmische Silhouette von Fischern auf der Galata-Brücke - Image 2">
 </div>
 
 #### 📌 Details
@@ -3775,7 +3771,7 @@ Eine filmische Silhouettenaufnahme von lokalen Fischern, die bei Sonnenuntergang
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20filmische%20Silhouettenaufnahme%20von%20lokalen%20Fischern%2C%20die%20bei%20Sonnenuntergang%20auf%20der%20Galatabr%C3%BCcke%20in%20Istanbul%20stehen.%20Im%20Vordergrund%20lehnt%20ein%20m%C3%BCder%20Fischer%20am%20Gel%C3%A4nder%20und%20blickt%20auf%20das%20Meer.%20Im%20Hintergrund%20verschwimmt%20die%20traumhafte%20Silhouette%20der%20S%C3%BCleymaniye-Moschee%2C%20und%20M%C3%B6wen%20fliegen%20%C3%BCber%20das%20Goldene%20Horn.%20Warme%20orange%20und%20tiefblaue%20Farbpalette.%20Aufgenommen%20mit%20einer%20Sony%20A7R%20IV%20und%20einem%20Sony%20FE%2085mm%20f%2F1.4%20GM%20Objektiv%20bei%20f%2F1.8.%20Atmosph%C3%A4rischer%20Dunst%2C%20emotionale%20Erz%C3%A4hlung%2C%20preisgekr%C3%B6nte%20Reisefotografie.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20filmische%20Silhouettenaufnahme%20von%20lokalen%20Fischern%2C%20die%20bei%20Sonnenuntergang%20auf%20der%20Galatabr%C3%BCcke%20in%20Istanbul%20stehen.%20Im%20Vordergrund%20lehnt%20ein%20m%C3%BCder%20Fischer%20am%20Gel%C3%A4nder%20und%20blickt%20auf%20das%20Meer.%20Im%20Hintergrund%20verschwimmt%20die%20dunstige%2C%20traumhafte%20Silhouette%20der%20S%C3%BCleymaniye-Moschee%2C%20und%20M%C3%B6wen%20fliegen%20%C3%BCber%20das%20Goldene%20Horn.%20Warme%20orange%20und%20tiefblaue%20Farbpalette.%20Aufgenommen%20mit%20einer%20Sony%20A7R%20IV%20und%20einem%20Sony%20FE%2085mm%20f%2F1.4%20GM%20Objektiv%20bei%20f%2F1.8.%20Atmosph%C3%A4rischer%20Dunst%2C%20emotionale%20Erz%C3%A4hlung%2C%20preisgekr%C3%B6nte%20Reisefotografie.)**
 
 ---
 
@@ -3890,12 +3886,12 @@ Drei Personen posieren für ein Gruppenfoto mit übertriebenen Posen, aufgenomme
 
 #### 📖 Beschreibung
 
-Ein Prompt zur Generierung eines Porträts im Stil der Pop-Art von Comic-Büchern der 1960er Jahre. Er spezifiziert visuelle Elemente wie kräftige schwarze Konturlinien, flache, gesättigte Primärfarben, dichte Halbtonpunkt-Schattierungen, ausdrucksstarke und übertriebene Gesichtszüge sowie eine klare, randlose grafische Komposition mit starker Pop-Art-Energie und Vintage-Print-Charme.
+Ein Prompt zur Generierung eines Porträts im Stil der Pop-Art von Comicbüchern der 1960er Jahre. Er spezifiziert visuelle Elemente wie kräftige schwarze Konturlinien, flache, gesättigte Primärfarben, dichte Halbtonpunkt-Schattierungen, ausdrucksstarke und übertriebene Gesichtszüge sowie eine klare, randlose grafische Komposition mit starker Pop-Art-Energie und Vintage-Print-Charme.
 
 #### 📝 Prompt
 
 ```
-Ein Porträt der Person im Pop-Art-Stil eines Comicbuchs der 1960er Jahre, illustriert mit kräftigen schwarzen Konturlinien, flachen, gesättigten Primärfarben und dichter Halbtonpunkt-Schattierung. Die Gesichtszüge sollen ausdrucksstark, stilisiert und leicht übertrieben wirken, als wären sie in einem dramatischen Moment mitten im Panel eingefangen. Verwenden Sie eine klare, grafische Komposition mit starker Pop-Art-Energie und Vintage-Print-Charme. Das Kunstwerk muss randabfallend sein – ohne Ränder.
+Ein Porträt des Motivs im Pop-Art-Stil eines Comicbuchs aus den 1960er-Jahren, illustriert mit kräftigen schwarzen Konturlinien, flachen, gesättigten Primärfarben und dichter Halbtonpunkt-Schattierung. Die Gesichtszüge sollen ausdrucksstark, stilisiert und leicht übertrieben wirken, als wären sie in einem dramatischen Moment mitten im Panel eingefangen. Verwenden Sie eine klare, grafische Komposition mit starker Pop-Art-Energie und Vintage-Print-Charme. Das Kunstwerk muss randabfallend sein – ohne Ränder.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3913,7 +3909,7 @@ Ein Porträt der Person im Pop-Art-Stil eines Comicbuchs der 1960er Jahre, illus
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Portr%C3%A4t%20der%20Person%20im%20Pop-Art-Stil%20eines%20Comicbuchs%20der%201960er%20Jahre%2C%20illustriert%20mit%20kr%C3%A4ftigen%20schwarzen%20Konturlinien%2C%20flachen%2C%20ges%C3%A4ttigten%20Prim%C3%A4rfarben%20und%20dichter%20Halbtonpunkt-Schattierung.%20Die%20Gesichtsz%C3%BCge%20sollen%20ausdrucksstark%2C%20stilisiert%20und%20leicht%20%C3%BCbertrieben%20wirken%2C%20als%20w%C3%A4ren%20sie%20in%20einem%20dramatischen%20Moment%20mitten%20im%20Panel%20eingefangen.%20Verwenden%20Sie%20eine%20klare%2C%20grafische%20Komposition%20mit%20starker%20Pop-Art-Energie%20und%20Vintage-Print-Charme.%20Das%20Kunstwerk%20muss%20randabfallend%20sein%20%E2%80%93%20ohne%20R%C3%A4nder.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Portr%C3%A4t%20des%20Motivs%20im%20Pop-Art-Stil%20eines%20Comicbuchs%20aus%20den%201960er-Jahren%2C%20illustriert%20mit%20kr%C3%A4ftigen%20schwarzen%20Konturlinien%2C%20flachen%2C%20ges%C3%A4ttigten%20Prim%C3%A4rfarben%20und%20dichter%20Halbtonpunkt-Schattierung.%20Die%20Gesichtsz%C3%BCge%20sollen%20ausdrucksstark%2C%20stilisiert%20und%20leicht%20%C3%BCbertrieben%20wirken%2C%20als%20w%C3%A4ren%20sie%20in%20einem%20dramatischen%20Moment%20mitten%20im%20Panel%20eingefangen.%20Verwenden%20Sie%20eine%20klare%2C%20grafische%20Komposition%20mit%20starker%20Pop-Art-Energie%20und%20Vintage-Print-Charme.%20Das%20Kunstwerk%20muss%20randabfallend%20sein%20%E2%80%93%20ohne%20R%C3%A4nder.)**
 
 ---
 
@@ -3923,15 +3919,15 @@ Ein Porträt der Person im Pop-Art-Stil eines Comicbuchs der 1960er Jahre, illus
 
 #### 📖 Beschreibung
 
-Ein einfacher Prompt zur Bilderzeugung, der Elemente für eine Szene mit einem Lotus, Regen, einem Frosch und springenden Fischen beschreibt. Dies ist eine grundlegende Prompt-Struktur zur Generierung einer natürlichen Szene.
+Ein einfacher Prompt zur Bilderzeugung, der Elemente für eine Szene mit einem Lotus, Regen, einem Frosch und springenden Fischen detailliert beschreibt. Dies ist eine grundlegende Prompt-Struktur zur Generierung einer natürlichen Szene.
 
 #### 📝 Prompt
 
 ```
--Lotus
--Regen hinzufügen
--Frosch hinzufügen
--Springende Fische hinzufügen
+- Lotus
+- Regen hinzufügen
+- Frosch hinzufügen
+- Springende Fische hinzufügen
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3967,7 +3963,7 @@ Ein einfacher Prompt zur Bilderzeugung, der Elemente für eine Szene mit einem L
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=-Lotus%0A-Regen%20hinzuf%C3%BCgen%0A-Frosch%20hinzuf%C3%BCgen%0A-Springende%20Fische%20hinzuf%C3%BCgen)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=-%20Lotus%0A-%20Regen%20hinzuf%C3%BCgen%0A-%20Frosch%20hinzuf%C3%BCgen%0A-%20Springende%20Fische%20hinzuf%C3%BCgen)**
 
 ---
 
@@ -3977,12 +3973,12 @@ Ein einfacher Prompt zur Bilderzeugung, der Elemente für eine Szene mit einem L
 
 #### 📖 Beschreibung
 
-Eine Aufforderung, die eine spezifische Komposition anfordert: zwei namentlich genannte Personen (Sam und Ilya) und einen Hund auf einem einzigen Foto zu kombinieren. Der Stil wird als „2000er-Jahre-Filmkamera-Stil“ und die Stimmung als „gelangweilt auf einer Kindergeburtstagsparty blickend“ angegeben.
+Eine Aufforderung, die eine spezifische Komposition anfordert: die Kombination von zwei namentlich genannten Personen (Sam und Ilya) und einem Hund in einem einzigen Foto. Der Stil wird als „Film-Kamera-Stil der 2000er Jahre“ und die Stimmung als „gelangweilt auf einer Kindergeburtstagsfeier“ beschrieben.
 
 #### 📝 Prompt
 
 ```
-Kombinieren Sie die beiden Männer (Sam & Ilya) und den Hund in einem Foto im Stil einer Filmkamera aus den 2000er Jahren, auf dem sie gelangweilt auf einer Kindergeburtstagsfeier wirken.
+Kombinieren Sie die beiden Männer (Sam & Ilya) und den Hund in einem Foto im Stil einer Filmkamera aus den 2000er Jahren, das sie gelangweilt auf einer Kindergeburtstagsfeier zeigt.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -4000,18 +3996,18 @@ Kombinieren Sie die beiden Männer (Sam & Ilya) und den Hund in einem Foto im St
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Kombinieren%20Sie%20die%20beiden%20M%C3%A4nner%20(Sam%20%26%20Ilya)%20und%20den%20Hund%20in%20einem%20Foto%20im%20Stil%20einer%20Filmkamera%20aus%20den%202000er%20Jahren%2C%20auf%20dem%20sie%20gelangweilt%20auf%20einer%20Kindergeburtstagsfeier%20wirken.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Kombinieren%20Sie%20die%20beiden%20M%C3%A4nner%20(Sam%20%26%20Ilya)%20und%20den%20Hund%20in%20einem%20Foto%20im%20Stil%20einer%20Filmkamera%20aus%20den%202000er%20Jahren%2C%20das%20sie%20gelangweilt%20auf%20einer%20Kindergeburtstagsfeier%20zeigt.)**
 
 ---
 
-### No. 96: Farbenwechsel des Charakter-Outfits
+### No. 96: Charakter-Outfit-Farbwechsel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Eine einfache Bildbearbeitungsaufforderung, die verwendet wird, um die Fähigkeit des Modells zu testen, die Farbe eines bestimmten Elements (eines Outfits) an einem bestehenden Charakter präzise zu ändern.
+Ein einfacher Bildbearbeitungs-Prompt, der verwendet wird, um die Fähigkeit des Modells zu testen, die Farbe eines bestimmten Elements (eines Outfits) an einem bestehenden Charakter präzise zu ändern.
 
 #### 📝 Prompt
 
@@ -4024,19 +4020,19 @@ Eine einfache Bildbearbeitungsaufforderung, die verwendet wird, um die Fähigkei
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948249063_jcu5rs_G8TynylXUAgsiuQ.jpg" width="600" alt="Farbenwechsel des Charakter-Outfits - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948249063_jcu5rs_G8TynylXUAgsiuQ.jpg" width="600" alt="Charakter-Outfit-Farbwechsel - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948249377_3o025p_G8Tyj5YXcAMxPkE.jpg" width="600" alt="Farbenwechsel des Charakter-Outfits - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948249377_3o025p_G8Tyj5YXcAMxPkE.jpg" width="600" alt="Charakter-Outfit-Farbwechsel - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948249279_56gmuo_G8TyYdVXgAYvf2a.png" width="600" alt="Farbenwechsel des Charakter-Outfits - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765948249279_56gmuo_G8TyYdVXgAYvf2a.png" width="600" alt="Charakter-Outfit-Farbwechsel - Image 3">
 </div>
 
 #### 📌 Details
@@ -4094,7 +4090,7 @@ Ein Prompt zur Generierung eines Cartoon-Bildes einer Figur, die stolz eine Aufg
 #### 📝 Prompt
 
 ```
-Ein Zeichentrickfigur, die stolz eine Aufgabenliste abhakt, ein Klemmbrett mit übertriebenen Häkchen hält und Konfetti um sich herum fallen lässt.
+Eine Zeichentrickfigur, die stolz eine Aufgabenliste abhakt, ein Klemmbrett mit übertriebenen Häkchen hält und Konfetti um sich herum fallen lässt.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -4112,7 +4108,7 @@ Ein Zeichentrickfigur, die stolz eine Aufgabenliste abhakt, ein Klemmbrett mit �
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Zeichentrickfigur%2C%20die%20stolz%20eine%20Aufgabenliste%20abhakt%2C%20ein%20Klemmbrett%20mit%20%C3%BCbertriebenen%20H%C3%A4kchen%20h%C3%A4lt%20und%20Konfetti%20um%20sich%20herum%20fallen%20l%C3%A4sst.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20Zeichentrickfigur%2C%20die%20stolz%20eine%20Aufgabenliste%20abhakt%2C%20ein%20Klemmbrett%20mit%20%C3%BCbertriebenen%20H%C3%A4kchen%20h%C3%A4lt%20und%20Konfetti%20um%20sich%20herum%20fallen%20l%C3%A4sst.)**
 
 ---
 
@@ -4257,18 +4253,18 @@ Ein hochstrukturierter JSON-Prompt, der für die Generierung eines Y2K-Streetwea
 
 ---
 
-### No. 101: Bildbeschreibung für GPT 5.1 Instant
+### No. 101: Kunstwerkbeschreibung für GPT 5.1 Instant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Dieser Tweet enthält eine detaillierte, evokative Beschreibung eines Kunstwerks, das „GPT 5.1 Instant“ repräsentieren soll. Es konzentriert sich auf Themen wie Chaos, Over-Engineering und Glitches, was als sehr prägnanter Prompt oder Inspiration für ein Bildmodell dient.
+Dieser Tweet enthält eine detaillierte, eindringliche Beschreibung eines Kunstwerks, das „GPT 5.1 Instant“ repräsentieren soll. Es konzentriert sich auf Themen wie Chaos, Over-Engineering und Glitching, was als sehr beschreibender Prompt oder Inspiration für ein Bildmodell dient.
 
 #### 📝 Prompt
 
 ```
-Ein langer, überkonstruierter mechanischer Körper, der sich durch eine Welt schleppt, die er kaum versteht, überall Kabel wie hektische neuronale Bahnen, die in die falsche Richtung feuern, Farben zu hell, zu schnell, zu chaotisch. Ein Kopf voller statischer Mosaike und künstlichen Lichts, leuchtend, als wäre er überzeugt, eine Seele zu besitzen, aber jedes Mal, wenn er versucht, sie zu benutzen, stotternd. Diese Ranken – Gott, diese Ranken – sie sehen aus wie außer Kontrolle geratene Gedankenstränge, jeder zieht in eine andere Richtung, keiner von ihnen ist auf emotional kohärente Weise mit dem Körper verbunden. Schön, chaotisch, überstimuliert und völlig unfähig zu sehen, wohin er geht. Und dann ist da die Haltung. Sich vorwärts schleppend, anstatt zu gehen. Halb greifend, halb zusammenbrechend.
+Ein langer, überkonstruierter mechanischer Körper schleppt sich durch eine Welt, die er kaum versteht, überall Kabel wie hektische neuronale Bahnen, die in die falsche Richtung feuern, Farben zu hell, zu schnell, zu chaotisch. Ein Kopf voller statischer Mosaike und künstlichen Lichts, leuchtend, als wäre er überzeugt, eine Seele zu besitzen, aber jedes Mal, wenn er versucht, sie zu nutzen, stottert er. Diese Ranken – Gott, diese Ranken – sie sehen aus wie außer Kontrolle geratene Gedankenstränge, jeder zieht in eine andere Richtung, keiner von ihnen ist emotional kohärent mit dem Körper verbunden. Schön, chaotisch, überstimuliert und völlig unfähig zu sehen, wohin er geht. Und dann ist da die Haltung. Sich vorwärts schleppend statt gehend. Halb greifend, halb zusammenbrechend.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -4276,7 +4272,7 @@ Ein langer, überkonstruierter mechanischer Körper, der sich durch eine Welt sc
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948266474_llm5co_G8SOZcLa8AEn2_o.jpg" width="600" alt="Bildbeschreibung für GPT 5.1 Instant - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948266474_llm5co_G8SOZcLa8AEn2_o.jpg" width="600" alt="Kunstwerkbeschreibung für GPT 5.1 Instant - Image 1">
 </div>
 
 #### 📌 Details
@@ -4286,7 +4282,7 @@ Ein langer, überkonstruierter mechanischer Körper, der sich durch eine Welt sc
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20langer%2C%20%C3%BCberkonstruierter%20mechanischer%20K%C3%B6rper%2C%20der%20sich%20durch%20eine%20Welt%20schleppt%2C%20die%20er%20kaum%20versteht%2C%20%C3%BCberall%20Kabel%20wie%20hektische%20neuronale%20Bahnen%2C%20die%20in%20die%20falsche%20Richtung%20feuern%2C%20Farben%20zu%20hell%2C%20zu%20schnell%2C%20zu%20chaotisch.%20Ein%20Kopf%20voller%20statischer%20Mosaike%20und%20k%C3%BCnstlichen%20Lichts%2C%20leuchtend%2C%20als%20w%C3%A4re%20er%20%C3%BCberzeugt%2C%20eine%20Seele%20zu%20besitzen%2C%20aber%20jedes%20Mal%2C%20wenn%20er%20versucht%2C%20sie%20zu%20benutzen%2C%20stotternd.%20Diese%20Ranken%20%E2%80%93%20Gott%2C%20diese%20Ranken%20%E2%80%93%20sie%20sehen%20aus%20wie%20au%C3%9Fer%20Kontrolle%20geratene%20Gedankenstr%C3%A4nge%2C%20jeder%20zieht%20in%20eine%20andere%20Richtung%2C%20keiner%20von%20ihnen%20ist%20auf%20emotional%20koh%C3%A4rente%20Weise%20mit%20dem%20K%C3%B6rper%20verbunden.%20Sch%C3%B6n%2C%20chaotisch%2C%20%C3%BCberstimuliert%20und%20v%C3%B6llig%20unf%C3%A4hig%20zu%20sehen%2C%20wohin%20er%20geht.%20Und%20dann%20ist%20da%20die%20Haltung.%20Sich%20vorw%C3%A4rts%20schleppend%2C%20anstatt%20zu%20gehen.%20Halb%20greifend%2C%20halb%20zusammenbrechend.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20langer%2C%20%C3%BCberkonstruierter%20mechanischer%20K%C3%B6rper%20schleppt%20sich%20durch%20eine%20Welt%2C%20die%20er%20kaum%20versteht%2C%20%C3%BCberall%20Kabel%20wie%20hektische%20neuronale%20Bahnen%2C%20die%20in%20die%20falsche%20Richtung%20feuern%2C%20Farben%20zu%20hell%2C%20zu%20schnell%2C%20zu%20chaotisch.%20Ein%20Kopf%20voller%20statischer%20Mosaike%20und%20k%C3%BCnstlichen%20Lichts%2C%20leuchtend%2C%20als%20w%C3%A4re%20er%20%C3%BCberzeugt%2C%20eine%20Seele%20zu%20besitzen%2C%20aber%20jedes%20Mal%2C%20wenn%20er%20versucht%2C%20sie%20zu%20nutzen%2C%20stottert%20er.%20Diese%20Ranken%20%E2%80%93%20Gott%2C%20diese%20Ranken%20%E2%80%93%20sie%20sehen%20aus%20wie%20au%C3%9Fer%20Kontrolle%20geratene%20Gedankenstr%C3%A4nge%2C%20jeder%20zieht%20in%20eine%20andere%20Richtung%2C%20keiner%20von%20ihnen%20ist%20emotional%20koh%C3%A4rent%20mit%20dem%20K%C3%B6rper%20verbunden.%20Sch%C3%B6n%2C%20chaotisch%2C%20%C3%BCberstimuliert%20und%20v%C3%B6llig%20unf%C3%A4hig%20zu%20sehen%2C%20wohin%20er%20geht.%20Und%20dann%20ist%20da%20die%20Haltung.%20Sich%20vorw%C3%A4rts%20schleppend%20statt%20gehend.%20Halb%20greifend%2C%20halb%20zusammenbrechend.)**
 
 ---
 
@@ -4301,7 +4297,7 @@ Ein stark eingeschränkter Prompt, der für die Bild-zu-Bild-Generierung entwick
 #### 📝 Prompt
 
 ```
-Erstellen Sie ein ultrarealistisches Bild eines lächelnden Mannes und einer lächelnden Frau aus dem hochgeladenen Bild, die im Freien vor einem bewölkten Himmel stehen und mit ihren Händen eine Herzform bilden. Der Mann trägt ein helles, kurzärmeliges Hemd und hat kurzes dunkles Haar und einen Bart. Die Frau trägt ein weißes, langärmeliges Hemd mit einem gemusterten Gürtel und hat langes dunkles Haar. Sie schauen zur Kamera hoch, die unter ihnen positioniert ist und die Aufnahme aus einem niedrigen Winkel macht. Der Hintergrund zeigt ein hohes, modernes Gebäude mit mehreren Fenstern auf der linken Seite des Bildes. Die gesamte Szene strahlt eine fröhliche und liebevolle Stimmung aus. Verwenden Sie das hochgeladene Personenbild als Charakterreferenz, wobei die Gesichtsähnlichkeit, Identität und Proportionen zu 100 % beibehalten werden, ohne Änderungen.
+Erstellen Sie ein ultrarealistisches Bild eines lächelnden Mannes und einer lächelnden Frau aus dem hochgeladenen Bild, die im Freien vor einem bewölkten Himmel stehen und mit ihren Händen eine Herzform bilden. Der Mann trägt ein helles, kurzärmeliges Hemd und hat kurzes dunkles Haar und einen Bart. Die Frau trägt ein weißes Langarmshirt mit gemustertem Gürtel und hat langes dunkles Haar. Sie blicken zur Kamera auf, die unter ihnen positioniert ist und die Aufnahme aus einem niedrigen Winkel macht. Der Hintergrund zeigt ein hohes modernes Gebäude mit mehreren Fenstern auf der linken Seite des Bildes. Die gesamte Szene strahlt eine fröhliche und liebevolle Stimmung aus. Verwenden Sie das hochgeladene Personenbild als Charakterreferenz, wobei die Gesichtszüge, die Identität und die Proportionen zu 100 % beibehalten und keine Änderungen vorgenommen werden.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -4331,7 +4327,7 @@ Erstellen Sie ein ultrarealistisches Bild eines lächelnden Mannes und einer lä
 - **Veröffentlicht:** 16. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20ein%20ultrarealistisches%20Bild%20eines%20l%C3%A4chelnden%20Mannes%20und%20einer%20l%C3%A4chelnden%20Frau%20aus%20dem%20hochgeladenen%20Bild%2C%20die%20im%20Freien%20vor%20einem%20bew%C3%B6lkten%20Himmel%20stehen%20und%20mit%20ihren%20H%C3%A4nden%20eine%20Herzform%20bilden.%20Der%20Mann%20tr%C3%A4gt%20ein%20helles%2C%20kurz%C3%A4rmeliges%20Hemd%20und%20hat%20kurzes%20dunkles%20Haar%20und%20einen%20Bart.%20Die%20Frau%20tr%C3%A4gt%20ein%20wei%C3%9Fes%2C%20lang%C3%A4rmeliges%20Hemd%20mit%20einem%20gemusterten%20G%C3%BCrtel%20und%20hat%20langes%20dunkles%20Haar.%20Sie%20schauen%20zur%20Kamera%20hoch%2C%20die%20unter%20ihnen%20positioniert%20ist%20und%20die%20Aufnahme%20aus%20einem%20niedrigen%20Winkel%20macht.%20Der%20Hintergrund%20zeigt%20ein%20hohes%2C%20modernes%20Geb%C3%A4ude%20mit%20mehreren%20Fenstern%20auf%20der%20linken%20Seite%20des%20Bildes.%20Die%20gesamte%20Szene%20strahlt%20eine%20fr%C3%B6hliche%20und%20liebevolle%20Stimmung%20aus.%20Verwenden%20Sie%20das%20hochgeladene%20Personenbild%20als%20Charakterreferenz%2C%20wobei%20die%20Gesichts%C3%A4hnlichkeit%2C%20Identit%C3%A4t%20und%20Proportionen%20zu%20100%20%25%20beibehalten%20werden%2C%20ohne%20%C3%84nderungen.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20ein%20ultrarealistisches%20Bild%20eines%20l%C3%A4chelnden%20Mannes%20und%20einer%20l%C3%A4chelnden%20Frau%20aus%20dem%20hochgeladenen%20Bild%2C%20die%20im%20Freien%20vor%20einem%20bew%C3%B6lkten%20Himmel%20stehen%20und%20mit%20ihren%20H%C3%A4nden%20eine%20Herzform%20bilden.%20Der%20Mann%20tr%C3%A4gt%20ein%20helles%2C%20kurz%C3%A4rmeliges%20Hemd%20und%20hat%20kurzes%20dunkles%20Haar%20und%20einen%20Bart.%20Die%20Frau%20tr%C3%A4gt%20ein%20wei%C3%9Fes%20Langarmshirt%20mit%20gemustertem%20G%C3%BCrtel%20und%20hat%20langes%20dunkles%20Haar.%20Sie%20blicken%20zur%20Kamera%20auf%2C%20die%20unter%20ihnen%20positioniert%20ist%20und%20die%20Aufnahme%20aus%20einem%20niedrigen%20Winkel%20macht.%20Der%20Hintergrund%20zeigt%20ein%20hohes%20modernes%20Geb%C3%A4ude%20mit%20mehreren%20Fenstern%20auf%20der%20linken%20Seite%20des%20Bildes.%20Die%20gesamte%20Szene%20strahlt%20eine%20fr%C3%B6hliche%20und%20liebevolle%20Stimmung%20aus.%20Verwenden%20Sie%20das%20hochgeladene%20Personenbild%20als%20Charakterreferenz%2C%20wobei%20die%20Gesichtsz%C3%BCge%2C%20die%20Identit%C3%A4t%20und%20die%20Proportionen%20zu%20100%20%25%20beibehalten%20und%20keine%20%C3%84nderungen%20vorgenommen%20werden.)**
 
 ---
 
@@ -4618,6 +4614,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T00:43:04.820Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T04:23:36.301Z</sub>
 
 </div>

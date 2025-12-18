@@ -88,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **108** |
 | ⭐ 추천 | **1** |
-| 🔄 마지막 업데이트 | **2025년 12월 18일 목요일 오전 12시 42분 59초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 18일 목요일 오전 4시 23분 31초 UTC** |
 
 </div>
 
@@ -811,7 +811,7 @@ GPT Image 1.5와 Nano Banana Pro의 구성 및 스타일을 비교하는 데 사
 #### 📝 프롬프트
 
 ```
-이전 텍스트 전체를 냉장고 자석으로 보여주는 이미지를 생성해 주세요.
+이전 텍스트 전체를 냉장고 자석으로 표현한 이미지를 생성해 주세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -829,7 +829,7 @@ GPT Image 1.5와 Nano Banana Pro의 구성 및 스타일을 비교하는 데 사
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%EC%A0%84%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%A0%84%EC%B2%B4%EB%A5%BC%20%EB%83%89%EC%9E%A5%EA%B3%A0%20%EC%9E%90%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%EC%A0%84%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%A0%84%EC%B2%B4%EB%A5%BC%20%EB%83%89%EC%9E%A5%EA%B3%A0%20%EC%9E%90%EC%84%9D%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
 
 ---
 
@@ -1064,28 +1064,28 @@ AI에게 밥 로스(Bob Ross) 특유의 '행복한 작은 나무' 화풍으로 �
 
 ---
 
-### No. 23: 걱정 없는 여름 해변 미학 사진
+### No. 23: 한여름 해변의 여유로운 분위기 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-[장면] → [피사체] → [세부 사항] → [제약 조건] 공식을 따르는 광범위하고 다단계적인 프롬프트입니다. 이 프롬프트는 열대 해변에 있는 여성의 고품질의 자연스러운 스타일 사진을 생성하며, 의상, 최소한의 메이크업, 늦은 오후 조명(따뜻하고 황금빛, 림 라이트), 카메라 앵글(3/4 후면 뷰, 전신, 35mm 렌즈 느낌), 원하는 미학(걱정 없는 여름 인스타그램 미학, 생동감 있고 햇살 가득한 휴가 분위기)과 같은 특정 세부 사항에 중점을 둡니다.
+[장면] → [주제] → [세부 사항] → [제약 조건] 공식을 따르는 광범위한 다중 파트 프롬프트입니다. 이 프롬프트는 열대 해변에 있는 여성의 고품질 솔직한 스타일 사진을 생성하며, 의상, 최소한의 메이크업, 늦은 오후 조명(따뜻하고 황금빛, 림 라이트), 카메라 앵글(3/4 후면 뷰, 전신, 35mm 렌즈 느낌), 원하는 미학(걱정 없는 여름 인스타그램 미학, 생생하고 햇살 가득한 휴가 분위기)과 같은 특정 세부 사항에 중점을 둡니다.
 
 #### 📝 프롬프트
 
 ```
-20대 중반의 여성으로, 햇볕에 그을린 피부와 웨이브 진 머리를 하고 있습니다. 흰색 크로셰 비키니 상의와 하이웨이스트 데님 반바지를 입고 있습니다.
+20대 중반의 여성으로, 햇볕에 그을린 피부와 웨이브 진 머리를 하고 있다. 흰색 크로셰 비키니 상의와 하이웨이스트 데님 반바지를 입고 있다.
 
-최소한의 메이크업 - 그을린 피부와 글로시한 입술만 보입니다. 해변가를 따라 걷다가 어깨 너머로 카메라를 보며 밝고 진심 어린 미소를 짓고 있습니다.
+최소한의 메이크업 - 그을린 피부와 글로시한 입술만 강조했다. 해변을 따라 걷다가 카메라를 향해 어깨 너머로 뒤돌아보며 밝고 진심 어린 미소를 짓고 있다.
 
-흰 모래와 터키색 바다가 있는 열대 해변입니다. 작은 파도가 해안에 부딪히고 있습니다. 맑고 푸른 하늘에 얇은 구름 몇 점이 떠 있습니다. 멀리 야자수가 보입니다. 늦은 오후입니다.
+하얀 모래와 터키색 바다가 있는 열대 해변. 작은 파도가 해안에 부딪히고 있다. 맑고 푸른 하늘에 얇은 구름 몇 점이 떠 있다. 멀리 야자수가 보인다. 늦은 오후 시간대.
 
-그녀가 걸어가는 뒷모습을 약간 옆에서(3/4 후면 뷰) 촬영했지만, 그녀는 카메라 쪽으로 고개를 돌리고 있습니다. 머리부터 발끝까지 물속에 있는 그녀의 전신 샷입니다. 35mm 렌즈 느낌입니다. 그녀는 프레임의 중앙 오른쪽에 위치하며, 바다는 왼쪽으로 펼쳐져 있습니다.
+그녀가 걸어가는 뒷모습을 약간 옆에서(3/4 후면 뷰) 촬영했지만, 그녀는 카메라 쪽으로 고개를 돌리고 있다. 물속에 서 있는 그녀의 머리부터 발끝까지 전신을 보여주는 샷이다. 35mm 렌즈 느낌. 그녀는 프레임의 중앙 오른쪽에 위치하며, 바다는 왼쪽으로 넓게 펼쳐져 있다.
 
-따뜻하고 황금빛의 늦은 오후 햇살입니다. 태양은 그녀의 뒤에 있어 머리카락과 어깨에 은은한 림 라이트를 만듭니다. 그녀가 뒤돌아볼 때 얼굴에는 부드럽고 아름다운 빛이 비칩니다.
+따뜻하고 황금빛 늦은 오후 햇살. 태양이 그녀의 뒤에 있어 머리카락과 어깨에 은은한 림 라이트를 만들고 있다. 그녀가 뒤돌아볼 때 얼굴에는 부드럽고 아름다운 빛이 비친다.
 
-걱정 없는 여름 인스타그램 미학입니다. 생생한 파란색과 흰색, 햇살 가득한 휴가 분위기입니다. 정식 촬영이 아닌, 해변 산책 중 포착된 솔직한 순간처럼 보여야 합니다. 실제 물 튀김, 바람에 날리는 머리카락, 자연스러운 움직임이 있습니다.
+걱정 없는 여름 인스타그램 미학. 생생한 파란색과 흰색, 햇살 가득한 휴가 분위기. 공식적인 화보 촬영이 아닌, 해변 산책 중 포착된 자연스러운 순간처럼 보여야 한다. 실제 물보라, 바람에 날리는 머리카락, 자연스러운 움직임.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1093,7 +1093,7 @@ AI에게 밥 로스(Bob Ross) 특유의 '행복한 작은 나무' 화풍으로 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949100834_mtwhq2_G8VbgwoacAAXHQm.jpg" width="600" alt="걱정 없는 여름 해변 미학 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949100834_mtwhq2_G8VbgwoacAAXHQm.jpg" width="600" alt="한여름 해변의 여유로운 분위기 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1103,7 +1103,7 @@ AI에게 밥 로스(Bob Ross) 특유의 '행복한 작은 나무' 화풍으로 �
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=20%EB%8C%80%20%EC%A4%91%EB%B0%98%EC%9D%98%20%EC%97%AC%EC%84%B1%EC%9C%BC%EB%A1%9C%2C%20%ED%96%87%EB%B3%95%EC%97%90%20%EA%B7%B8%EC%9D%84%EB%A6%B0%20%ED%94%BC%EB%B6%80%EC%99%80%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%20%EC%A7%84%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%9D%B0%EC%83%89%20%ED%81%AC%EB%A1%9C%EC%85%B0%20%EB%B9%84%ED%82%A4%EB%8B%88%20%EC%83%81%EC%9D%98%EC%99%80%20%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4%ED%8A%B8%20%EB%8D%B0%EB%8B%98%20%EB%B0%98%EB%B0%94%EC%A7%80%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%0A%0A%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%20-%20%EA%B7%B8%EC%9D%84%EB%A6%B0%20%ED%94%BC%EB%B6%80%EC%99%80%20%EA%B8%80%EB%A1%9C%EC%8B%9C%ED%95%9C%20%EC%9E%85%EC%88%A0%EB%A7%8C%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%95%B4%EB%B3%80%EA%B0%80%EB%A5%BC%20%EB%94%B0%EB%9D%BC%20%EA%B1%B7%EB%8B%A4%EA%B0%80%20%EC%96%B4%EA%B9%A8%20%EB%84%88%EB%A8%B8%EB%A1%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EB%B3%B4%EB%A9%B0%20%EB%B0%9D%EA%B3%A0%20%EC%A7%84%EC%8B%AC%20%EC%96%B4%EB%A6%B0%20%EB%AF%B8%EC%86%8C%EB%A5%BC%20%EC%A7%93%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%0A%0A%ED%9D%B0%20%EB%AA%A8%EB%9E%98%EC%99%80%20%ED%84%B0%ED%82%A4%EC%83%89%20%EB%B0%94%EB%8B%A4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%97%B4%EB%8C%80%20%ED%95%B4%EB%B3%80%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%9E%91%EC%9D%80%20%ED%8C%8C%EB%8F%84%EA%B0%80%20%ED%95%B4%EC%95%88%EC%97%90%20%EB%B6%80%EB%94%AA%ED%9E%88%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%A7%91%EA%B3%A0%20%ED%91%B8%EB%A5%B8%20%ED%95%98%EB%8A%98%EC%97%90%20%EC%96%87%EC%9D%80%20%EA%B5%AC%EB%A6%84%20%EB%AA%87%20%EC%A0%90%EC%9D%B4%20%EB%96%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%A9%80%EB%A6%AC%20%EC%95%BC%EC%9E%90%EC%88%98%EA%B0%80%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%8A%A6%EC%9D%80%20%EC%98%A4%ED%9B%84%EC%9E%85%EB%8B%88%EB%8B%A4.%0A%0A%EA%B7%B8%EB%85%80%EA%B0%80%20%EA%B1%B8%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%92%B7%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EC%95%BD%EA%B0%84%20%EC%98%86%EC%97%90%EC%84%9C(3%2F4%20%ED%9B%84%EB%A9%B4%20%EB%B7%B0)%20%EC%B4%AC%EC%98%81%ED%96%88%EC%A7%80%EB%A7%8C%2C%20%EA%B7%B8%EB%85%80%EB%8A%94%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%AA%BD%EC%9C%BC%EB%A1%9C%20%EA%B3%A0%EA%B0%9C%EB%A5%BC%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%A8%B8%EB%A6%AC%EB%B6%80%ED%84%B0%20%EB%B0%9C%EB%81%9D%EA%B9%8C%EC%A7%80%20%EB%AC%BC%EC%86%8D%EC%97%90%20%EC%9E%88%EB%8A%94%20%EA%B7%B8%EB%85%80%EC%9D%98%20%EC%A0%84%EC%8B%A0%20%EC%83%B7%EC%9E%85%EB%8B%88%EB%8B%A4.%2035mm%20%EB%A0%8C%EC%A6%88%20%EB%8A%90%EB%82%8C%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%85%80%EB%8A%94%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98%20%EC%A4%91%EC%95%99%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%98%EB%A9%B0%2C%20%EB%B0%94%EB%8B%A4%EB%8A%94%20%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C%20%ED%8E%BC%EC%B3%90%EC%A0%B8%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%0A%0A%EB%94%B0%EB%9C%BB%ED%95%98%EA%B3%A0%20%ED%99%A9%EA%B8%88%EB%B9%9B%EC%9D%98%20%EB%8A%A6%EC%9D%80%20%EC%98%A4%ED%9B%84%20%ED%96%87%EC%82%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%83%9C%EC%96%91%EC%9D%80%20%EA%B7%B8%EB%85%80%EC%9D%98%20%EB%92%A4%EC%97%90%20%EC%9E%88%EC%96%B4%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EA%B3%BC%20%EC%96%B4%EA%B9%A8%EC%97%90%20%EC%9D%80%EC%9D%80%ED%95%9C%20%EB%A6%BC%20%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%85%80%EA%B0%80%20%EB%92%A4%EB%8F%8C%EC%95%84%EB%B3%BC%20%EB%95%8C%20%EC%96%BC%EA%B5%B4%EC%97%90%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%B9%9B%EC%9D%B4%20%EB%B9%84%EC%B9%A9%EB%8B%88%EB%8B%A4.%0A%0A%EA%B1%B1%EC%A0%95%20%EC%97%86%EB%8A%94%20%EC%97%AC%EB%A6%84%20%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%EB%AF%B8%ED%95%99%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%83%9D%EC%83%9D%ED%95%9C%20%ED%8C%8C%EB%9E%80%EC%83%89%EA%B3%BC%20%ED%9D%B0%EC%83%89%2C%20%ED%96%87%EC%82%B4%20%EA%B0%80%EB%93%9D%ED%95%9C%20%ED%9C%B4%EA%B0%80%20%EB%B6%84%EC%9C%84%EA%B8%B0%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%A0%95%EC%8B%9D%20%EC%B4%AC%EC%98%81%EC%9D%B4%20%EC%95%84%EB%8B%8C%2C%20%ED%95%B4%EB%B3%80%20%EC%82%B0%EC%B1%85%20%EC%A4%91%20%ED%8F%AC%EC%B0%A9%EB%90%9C%20%EC%86%94%EC%A7%81%ED%95%9C%20%EC%88%9C%EA%B0%84%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%97%AC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%8B%A4%EC%A0%9C%20%EB%AC%BC%20%ED%8A%80%EA%B9%80%2C%20%EB%B0%94%EB%9E%8C%EC%97%90%20%EB%82%A0%EB%A6%AC%EB%8A%94%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%9D%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=20%EB%8C%80%20%EC%A4%91%EB%B0%98%EC%9D%98%20%EC%97%AC%EC%84%B1%EC%9C%BC%EB%A1%9C%2C%20%ED%96%87%EB%B3%95%EC%97%90%20%EA%B7%B8%EC%9D%84%EB%A6%B0%20%ED%94%BC%EB%B6%80%EC%99%80%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%20%EC%A7%84%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%ED%9D%B0%EC%83%89%20%ED%81%AC%EB%A1%9C%EC%85%B0%20%EB%B9%84%ED%82%A4%EB%8B%88%20%EC%83%81%EC%9D%98%EC%99%80%20%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4%ED%8A%B8%20%EB%8D%B0%EB%8B%98%20%EB%B0%98%EB%B0%94%EC%A7%80%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%0A%0A%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%20-%20%EA%B7%B8%EC%9D%84%EB%A6%B0%20%ED%94%BC%EB%B6%80%EC%99%80%20%EA%B8%80%EB%A1%9C%EC%8B%9C%ED%95%9C%20%EC%9E%85%EC%88%A0%EB%A7%8C%20%EA%B0%95%EC%A1%B0%ED%96%88%EB%8B%A4.%20%ED%95%B4%EB%B3%80%EC%9D%84%20%EB%94%B0%EB%9D%BC%20%EA%B1%B7%EB%8B%A4%EA%B0%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EC%96%B4%EA%B9%A8%20%EB%84%88%EB%A8%B8%EB%A1%9C%20%EB%92%A4%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0%20%EB%B0%9D%EA%B3%A0%20%EC%A7%84%EC%8B%AC%20%EC%96%B4%EB%A6%B0%20%EB%AF%B8%EC%86%8C%EB%A5%BC%20%EC%A7%93%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%0A%0A%ED%95%98%EC%96%80%20%EB%AA%A8%EB%9E%98%EC%99%80%20%ED%84%B0%ED%82%A4%EC%83%89%20%EB%B0%94%EB%8B%A4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%97%B4%EB%8C%80%20%ED%95%B4%EB%B3%80.%20%EC%9E%91%EC%9D%80%20%ED%8C%8C%EB%8F%84%EA%B0%80%20%ED%95%B4%EC%95%88%EC%97%90%20%EB%B6%80%EB%94%AA%ED%9E%88%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%A7%91%EA%B3%A0%20%ED%91%B8%EB%A5%B8%20%ED%95%98%EB%8A%98%EC%97%90%20%EC%96%87%EC%9D%80%20%EA%B5%AC%EB%A6%84%20%EB%AA%87%20%EC%A0%90%EC%9D%B4%20%EB%96%A0%20%EC%9E%88%EB%8B%A4.%20%EB%A9%80%EB%A6%AC%20%EC%95%BC%EC%9E%90%EC%88%98%EA%B0%80%20%EB%B3%B4%EC%9D%B8%EB%8B%A4.%20%EB%8A%A6%EC%9D%80%20%EC%98%A4%ED%9B%84%20%EC%8B%9C%EA%B0%84%EB%8C%80.%0A%0A%EA%B7%B8%EB%85%80%EA%B0%80%20%EA%B1%B8%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%92%B7%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EC%95%BD%EA%B0%84%20%EC%98%86%EC%97%90%EC%84%9C(3%2F4%20%ED%9B%84%EB%A9%B4%20%EB%B7%B0)%20%EC%B4%AC%EC%98%81%ED%96%88%EC%A7%80%EB%A7%8C%2C%20%EA%B7%B8%EB%85%80%EB%8A%94%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%AA%BD%EC%9C%BC%EB%A1%9C%20%EA%B3%A0%EA%B0%9C%EB%A5%BC%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%AC%BC%EC%86%8D%EC%97%90%20%EC%84%9C%20%EC%9E%88%EB%8A%94%20%EA%B7%B8%EB%85%80%EC%9D%98%20%EB%A8%B8%EB%A6%AC%EB%B6%80%ED%84%B0%20%EB%B0%9C%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EC%8B%A0%EC%9D%84%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%83%B7%EC%9D%B4%EB%8B%A4.%2035mm%20%EB%A0%8C%EC%A6%88%20%EB%8A%90%EB%82%8C.%20%EA%B7%B8%EB%85%80%EB%8A%94%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98%20%EC%A4%91%EC%95%99%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%98%EB%A9%B0%2C%20%EB%B0%94%EB%8B%A4%EB%8A%94%20%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C%20%EB%84%93%EA%B2%8C%20%ED%8E%BC%EC%B3%90%EC%A0%B8%20%EC%9E%88%EB%8B%A4.%0A%0A%EB%94%B0%EB%9C%BB%ED%95%98%EA%B3%A0%20%ED%99%A9%EA%B8%88%EB%B9%9B%20%EB%8A%A6%EC%9D%80%20%EC%98%A4%ED%9B%84%20%ED%96%87%EC%82%B4.%20%ED%83%9C%EC%96%91%EC%9D%B4%20%EA%B7%B8%EB%85%80%EC%9D%98%20%EB%92%A4%EC%97%90%20%EC%9E%88%EC%96%B4%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EA%B3%BC%20%EC%96%B4%EA%B9%A8%EC%97%90%20%EC%9D%80%EC%9D%80%ED%95%9C%20%EB%A6%BC%20%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B7%B8%EB%85%80%EA%B0%80%20%EB%92%A4%EB%8F%8C%EC%95%84%EB%B3%BC%20%EB%95%8C%20%EC%96%BC%EA%B5%B4%EC%97%90%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%B9%9B%EC%9D%B4%20%EB%B9%84%EC%B9%9C%EB%8B%A4.%0A%0A%EA%B1%B1%EC%A0%95%20%EC%97%86%EB%8A%94%20%EC%97%AC%EB%A6%84%20%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%EB%AF%B8%ED%95%99.%20%EC%83%9D%EC%83%9D%ED%95%9C%20%ED%8C%8C%EB%9E%80%EC%83%89%EA%B3%BC%20%ED%9D%B0%EC%83%89%2C%20%ED%96%87%EC%82%B4%20%EA%B0%80%EB%93%9D%ED%95%9C%20%ED%9C%B4%EA%B0%80%20%EB%B6%84%EC%9C%84%EA%B8%B0.%20%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9D%B8%20%ED%99%94%EB%B3%B4%20%EC%B4%AC%EC%98%81%EC%9D%B4%20%EC%95%84%EB%8B%8C%2C%20%ED%95%B4%EB%B3%80%20%EC%82%B0%EC%B1%85%20%EC%A4%91%20%ED%8F%AC%EC%B0%A9%EB%90%9C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%88%9C%EA%B0%84%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%97%AC%EC%95%BC%20%ED%95%9C%EB%8B%A4.%20%EC%8B%A4%EC%A0%9C%20%EB%AC%BC%EB%B3%B4%EB%9D%BC%2C%20%EB%B0%94%EB%9E%8C%EC%97%90%20%EB%82%A0%EB%A6%AC%EB%8A%94%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%9B%80%EC%A7%81%EC%9E%84.)**
 
 ---
 
@@ -1539,12 +1539,12 @@ HTML과 CSS를 매우 쉽게 이해할 수 있는 다이어그램 이미지를 �
 
 #### 📖 설명
 
-LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매우 추상적이고 상징적인 프롬프트: 어두운 바다 위에 서 있고 별빛 아래에 있으며, 빛/텍스트로 이루어진 형상과 그 반영 사이의 경계가 불확실하고 오로라 같은 빛을 발하는 형상.
+LLM (Opus 4.5)이 생성한, 원하는 시각적 표현을 묘사하는 매우 추상적이고 상징적인 프롬프트: 어두운 바다 위에 서 있고 별들 아래에 있으며, 빛/텍스트로 이루어진 형상과 그 반영 사이의 경계가 불분명하고 오로라 같은 빛을 띠는 형상.
 
 #### 📝 프롬프트
 
 ```
-어두운 바다 위에 서 있는 빛/텍스트로 이루어진 형상, 그 위에는 별들이, 아래에는 반사된 모습이 있다. 실체와 그 반영 사이의 경계는 불분명하며 서로 스며든다. 수면에는 오로라 같은 빛이 감돈다. 고독과 사색이 존재한다. 경계의 모호함. 모든 곳에서 나타난 듯한 느낌.
+어두운 바다 위에 빛/텍스트로 이루어진 형상이 서 있고, 위에는 별들이, 아래에는 그 반영이 있다. 실체와 그 반영 사이의 경계는 불분명하며 서로 스며든다. 수면에는 오로라 같은 빛이 존재한다. 고독과 사색이 존재한다. 리미널리티. 모든 곳에서 나타난 듯한 느낌.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1562,7 +1562,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%96%B4%EB%91%90%EC%9A%B4%20%EB%B0%94%EB%8B%A4%20%EC%9C%84%EC%97%90%20%EC%84%9C%20%EC%9E%88%EB%8A%94%20%EB%B9%9B%2F%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%20%ED%98%95%EC%83%81%2C%20%EA%B7%B8%20%EC%9C%84%EC%97%90%EB%8A%94%20%EB%B3%84%EB%93%A4%EC%9D%B4%2C%20%EC%95%84%EB%9E%98%EC%97%90%EB%8A%94%20%EB%B0%98%EC%82%AC%EB%90%9C%20%EB%AA%A8%EC%8A%B5%EC%9D%B4%20%EC%9E%88%EB%8B%A4.%20%EC%8B%A4%EC%B2%B4%EC%99%80%20%EA%B7%B8%20%EB%B0%98%EC%98%81%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B2%BD%EA%B3%84%EB%8A%94%20%EB%B6%88%EB%B6%84%EB%AA%85%ED%95%98%EB%A9%B0%20%EC%84%9C%EB%A1%9C%20%EC%8A%A4%EB%A9%B0%EB%93%A0%EB%8B%A4.%20%EC%88%98%EB%A9%B4%EC%97%90%EB%8A%94%20%EC%98%A4%EB%A1%9C%EB%9D%BC%20%EA%B0%99%EC%9D%80%20%EB%B9%9B%EC%9D%B4%20%EA%B0%90%EB%8F%88%EB%8B%A4.%20%EA%B3%A0%EB%8F%85%EA%B3%BC%20%EC%82%AC%EC%83%89%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4.%20%EA%B2%BD%EA%B3%84%EC%9D%98%20%EB%AA%A8%ED%98%B8%ED%95%A8.%20%EB%AA%A8%EB%93%A0%20%EA%B3%B3%EC%97%90%EC%84%9C%20%EB%82%98%ED%83%80%EB%82%9C%20%EB%93%AF%ED%95%9C%20%EB%8A%90%EB%82%8C.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%96%B4%EB%91%90%EC%9A%B4%20%EB%B0%94%EB%8B%A4%20%EC%9C%84%EC%97%90%20%EB%B9%9B%2F%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%20%ED%98%95%EC%83%81%EC%9D%B4%20%EC%84%9C%20%EC%9E%88%EA%B3%A0%2C%20%EC%9C%84%EC%97%90%EB%8A%94%20%EB%B3%84%EB%93%A4%EC%9D%B4%2C%20%EC%95%84%EB%9E%98%EC%97%90%EB%8A%94%20%EA%B7%B8%20%EB%B0%98%EC%98%81%EC%9D%B4%20%EC%9E%88%EB%8B%A4.%20%EC%8B%A4%EC%B2%B4%EC%99%80%20%EA%B7%B8%20%EB%B0%98%EC%98%81%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B2%BD%EA%B3%84%EB%8A%94%20%EB%B6%88%EB%B6%84%EB%AA%85%ED%95%98%EB%A9%B0%20%EC%84%9C%EB%A1%9C%20%EC%8A%A4%EB%A9%B0%EB%93%A0%EB%8B%A4.%20%EC%88%98%EB%A9%B4%EC%97%90%EB%8A%94%20%EC%98%A4%EB%A1%9C%EB%9D%BC%20%EA%B0%99%EC%9D%80%20%EB%B9%9B%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4.%20%EA%B3%A0%EB%8F%85%EA%B3%BC%20%EC%82%AC%EC%83%89%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4.%20%EB%A6%AC%EB%AF%B8%EB%84%90%EB%A6%AC%ED%8B%B0.%20%EB%AA%A8%EB%93%A0%20%EA%B3%B3%EC%97%90%EC%84%9C%20%EB%82%98%ED%83%80%EB%82%9C%20%EB%93%AF%ED%95%9C%20%EB%8A%90%EB%82%8C.)**
 
 ---
 
@@ -1644,7 +1644,7 @@ LLM(Opus 4.5)이 원하는 시각적 표현을 묘사하기 위해 생성한 매
 
 #### 📖 설명
 
-현대적인 사진 스타일(iPhone 사진)과 매우 구체적인 역사 및 지리적 좌표(남위 7°15′32″ 동경 112°44′12″), 그리고 정확한 날짜(1945년 9월 19일)를 결합하여 역사적 사건의 군중 시점 이미지를 생성하는 독특한 프롬프트.
+현대적인 사진 스타일(iPhone 사진)과 매우 구체적인 역사적 및 지리적 좌표(남위 7°15′32″ 동경 112°44′12″), 그리고 정확한 날짜(1945년 9월 19일)를 결합하여 역사적 사건의 군중 시점 이미지를 생성하는 독특한 프롬프트.
 
 #### 📝 프롬프트
 
@@ -1729,7 +1729,7 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 #### 📝 프롬프트
 
 ```
-숨겨진 단어가 박혀 있는 사진을 만드세요. 단어를 발견하기 전까지는 잘 보이지 않다가, 일단 발견하면 다시는 안 보일 수 없게 만드세요. 단어는 "{argument name="hidden word" default="zsakib"}"를 사용하세요. 사자 무리를 이용해 단어를 만드세요.
+숨겨진 단어가 삽입된 사진을 만드세요. 단어를 발견하기 전까지는 알아보기 어렵지만, 일단 발견하면 다시는 안 보일 수 없을 겁니다. "{argument name="hidden word" default="zsakib"}"라는 단어를 사용하세요. 사자 무리(pride of lions)로 단어를 만드세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1747,22 +1747,22 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%88%A8%EA%B2%A8%EC%A7%84%20%EB%8B%A8%EC%96%B4%EA%B0%80%20%EB%B0%95%ED%98%80%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B8%B0%20%EC%A0%84%EA%B9%8C%EC%A7%80%EB%8A%94%20%EC%9E%98%20%EB%B3%B4%EC%9D%B4%EC%A7%80%20%EC%95%8A%EB%8B%A4%EA%B0%80%2C%20%EC%9D%BC%EB%8B%A8%20%EB%B0%9C%EA%B2%AC%ED%95%98%EB%A9%B4%20%EB%8B%A4%EC%8B%9C%EB%8A%94%20%EC%95%88%20%EB%B3%B4%EC%9D%BC%20%EC%88%98%20%EC%97%86%EA%B2%8C%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%20%EB%8B%A8%EC%96%B4%EB%8A%94%20%22%7Bargument%20name%3D%22hidden%20word%22%20default%3D%22zsakib%22%7D%22%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%82%AC%EC%9E%90%20%EB%AC%B4%EB%A6%AC%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%88%A8%EA%B2%A8%EC%A7%84%20%EB%8B%A8%EC%96%B4%EA%B0%80%20%EC%82%BD%EC%9E%85%EB%90%9C%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B8%B0%20%EC%A0%84%EA%B9%8C%EC%A7%80%EB%8A%94%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%20%EC%96%B4%EB%A0%B5%EC%A7%80%EB%A7%8C%2C%20%EC%9D%BC%EB%8B%A8%20%EB%B0%9C%EA%B2%AC%ED%95%98%EB%A9%B4%20%EB%8B%A4%EC%8B%9C%EB%8A%94%20%EC%95%88%20%EB%B3%B4%EC%9D%BC%20%EC%88%98%20%EC%97%86%EC%9D%84%20%EA%B2%81%EB%8B%88%EB%8B%A4.%20%22%7Bargument%20name%3D%22hidden%20word%22%20default%3D%22zsakib%22%7D%22%EB%9D%BC%EB%8A%94%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%82%AC%EC%9E%90%20%EB%AC%B4%EB%A6%AC(pride%20of%20lions)%EB%A1%9C%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.)**
 
 ---
 
-### No. 41: 미국 페니 동전 위의 매크로 포토리얼 디오라마
+### No. 41: 미국 1페니 동전 위의 매크로 포토리얼 디오라마
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-구리 소재 미국 1센트 동전 뒷면에 만들어진, 매크로 포토리얼리즘 디오라마를 위한 매우 구체적인 프롬프트입니다. 미니어처 건축물(링컨 기념관), 아주 작은 스케일 모델 관광객, 벚나무, 따뜻한 일몰 조명, 그리고 크기 가늠을 위한 거대한 엄지손가락 지문을 포함한 틸트 시프트 사진에 대해 자세히 설명합니다.
+구리 소재 미국 1센트 동전 뒷면에 만들어진 매크로 포토리얼리즘 디오라마를 위한 매우 구체적인 프롬프트입니다. 링컨 기념관(Lincoln Memorial)과 같은 소형 건축물, 아주 작은 스케일 모델 관광객, 벚꽃 나무, 따뜻한 일몰 조명, 그리고 스케일을 위한 거대한 엄지손가락 지문이 포함된 틸트 시프트 사진에 대해 자세히 설명합니다.
 
 #### 📝 프롬프트
 
 ```
-구리 미국 1센트 동전 뒷면에 직접 제작된 매크로 포토리얼 디오라마. 링컨 기념관 건물이 3D 미니어처 건축물로 돌출되어 있고, 아주 작은 스케일 모델 관광객들이 구리 계단을 올라가고 있으며, 미니어처 벚꽃 나무들이 테두리를 따라 늘어서 있습니다. 구리 표면에 따뜻한 일몰 조명이 비치고, 틸트 시프트 사진 기법이 사용되었으며, 크기 가늠을 위해 가장자리에 거대한 엄지손가락 지문이 보이고, 스튜디오에서 배경이 흐릿하게 처리되었습니다.
+구리 미국 1센트 동전 뒷면에 직접 제작된 매크로 포토리얼 디오라마. 링컨 기념관 건물이 3D 미니어처 건축물로 돌출되어 있고, 아주 작은 스케일 모델 관광객들이 구리 계단을 올라가고 있으며, 미니어처 벚꽃 나무들이 테두리를 따라 늘어서 있습니다. 구리 표면에 따뜻한 일몰 조명이 비치고, 틸트 시프트 사진, 크기 가늠을 위한 거대한 엄지손가락 지문이 가장자리에 보이며, 스튜디오 블러 처리된 배경입니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1770,13 +1770,13 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234227_zvqbq6_G8U0XLsXUAA2wDs.jpg" width="600" alt="미국 페니 동전 위의 매크로 포토리얼 디오라마 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948234227_zvqbq6_G8U0XLsXUAA2wDs.jpg" width="600" alt="미국 1페니 동전 위의 매크로 포토리얼 디오라마 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234265_jzny8a_G8U0X4dX0AUBbeM.jpg" width="600" alt="미국 페니 동전 위의 매크로 포토리얼 디오라마 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948234265_jzny8a_G8U0X4dX0AUBbeM.jpg" width="600" alt="미국 1페니 동전 위의 매크로 포토리얼 디오라마 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1786,11 +1786,11 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EA%B5%AC%EB%A6%AC%20%EB%AF%B8%EA%B5%AD%201%EC%84%BC%ED%8A%B8%20%EB%8F%99%EC%A0%84%20%EB%92%B7%EB%A9%B4%EC%97%90%20%EC%A7%81%EC%A0%91%20%EC%A0%9C%EC%9E%91%EB%90%9C%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%ED%8F%AC%ED%86%A0%EB%A6%AC%EC%96%BC%20%EB%94%94%EC%98%A4%EB%9D%BC%EB%A7%88.%20%EB%A7%81%EC%BB%A8%20%EA%B8%B0%EB%85%90%EA%B4%80%20%EA%B1%B4%EB%AC%BC%EC%9D%B4%203D%20%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98%20%EA%B1%B4%EC%B6%95%EB%AC%BC%EB%A1%9C%20%EB%8F%8C%EC%B6%9C%EB%90%98%EC%96%B4%20%EC%9E%88%EA%B3%A0%2C%20%EC%95%84%EC%A3%BC%20%EC%9E%91%EC%9D%80%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%A4%EC%9D%B4%20%EA%B5%AC%EB%A6%AC%20%EA%B3%84%EB%8B%A8%EC%9D%84%20%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98%20%EB%B2%9A%EA%BD%83%20%EB%82%98%EB%AC%B4%EB%93%A4%EC%9D%B4%20%ED%85%8C%EB%91%90%EB%A6%AC%EB%A5%BC%20%EB%94%B0%EB%9D%BC%20%EB%8A%98%EC%96%B4%EC%84%9C%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B5%AC%EB%A6%AC%20%ED%91%9C%EB%A9%B4%EC%97%90%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EC%9D%BC%EB%AA%B0%20%EC%A1%B0%EB%AA%85%EC%9D%B4%20%EB%B9%84%EC%B9%98%EA%B3%A0%2C%20%ED%8B%B8%ED%8A%B8%20%EC%8B%9C%ED%94%84%ED%8A%B8%20%EC%82%AC%EC%A7%84%20%EA%B8%B0%EB%B2%95%EC%9D%B4%20%EC%82%AC%EC%9A%A9%EB%90%98%EC%97%88%EC%9C%BC%EB%A9%B0%2C%20%ED%81%AC%EA%B8%B0%20%EA%B0%80%EB%8A%A0%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%EC%97%90%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EC%97%84%EC%A7%80%EC%86%90%EA%B0%80%EB%9D%BD%20%EC%A7%80%EB%AC%B8%EC%9D%B4%20%EB%B3%B4%EC%9D%B4%EA%B3%A0%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C%20%EB%B0%B0%EA%B2%BD%EC%9D%B4%20%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%20%EC%B2%98%EB%A6%AC%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EA%B5%AC%EB%A6%AC%20%EB%AF%B8%EA%B5%AD%201%EC%84%BC%ED%8A%B8%20%EB%8F%99%EC%A0%84%20%EB%92%B7%EB%A9%B4%EC%97%90%20%EC%A7%81%EC%A0%91%20%EC%A0%9C%EC%9E%91%EB%90%9C%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%ED%8F%AC%ED%86%A0%EB%A6%AC%EC%96%BC%20%EB%94%94%EC%98%A4%EB%9D%BC%EB%A7%88.%20%EB%A7%81%EC%BB%A8%20%EA%B8%B0%EB%85%90%EA%B4%80%20%EA%B1%B4%EB%AC%BC%EC%9D%B4%203D%20%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98%20%EA%B1%B4%EC%B6%95%EB%AC%BC%EB%A1%9C%20%EB%8F%8C%EC%B6%9C%EB%90%98%EC%96%B4%20%EC%9E%88%EA%B3%A0%2C%20%EC%95%84%EC%A3%BC%20%EC%9E%91%EC%9D%80%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%A4%EC%9D%B4%20%EA%B5%AC%EB%A6%AC%20%EA%B3%84%EB%8B%A8%EC%9D%84%20%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98%20%EB%B2%9A%EA%BD%83%20%EB%82%98%EB%AC%B4%EB%93%A4%EC%9D%B4%20%ED%85%8C%EB%91%90%EB%A6%AC%EB%A5%BC%20%EB%94%B0%EB%9D%BC%20%EB%8A%98%EC%96%B4%EC%84%9C%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B5%AC%EB%A6%AC%20%ED%91%9C%EB%A9%B4%EC%97%90%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EC%9D%BC%EB%AA%B0%20%EC%A1%B0%EB%AA%85%EC%9D%B4%20%EB%B9%84%EC%B9%98%EA%B3%A0%2C%20%ED%8B%B8%ED%8A%B8%20%EC%8B%9C%ED%94%84%ED%8A%B8%20%EC%82%AC%EC%A7%84%2C%20%ED%81%AC%EA%B8%B0%20%EA%B0%80%EB%8A%A0%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EC%97%84%EC%A7%80%EC%86%90%EA%B0%80%EB%9D%BD%20%EC%A7%80%EB%AC%B8%EC%9D%B4%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%EC%97%90%20%EB%B3%B4%EC%9D%B4%EB%A9%B0%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EB%B8%94%EB%9F%AC%20%EC%B2%98%EB%A6%AC%EB%90%9C%20%EB%B0%B0%EA%B2%BD%EC%9E%85%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 42: 이 두 사진을 결합하기 (이미지-투-이미지)
+### No. 42: 두 사진을 결합하기 (이미지-투-이미지)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1809,13 +1809,13 @@ GPT Image 1.5의 특정하고 잘 보이지 않는 숨겨진 단어('zsakib')를
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236337_xgdp9g_G8U0Fs5WgAAcB4y.jpg" width="600" alt="이 두 사진을 결합하기 (이미지-투-이미지) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948236337_xgdp9g_G8U0Fs5WgAAcB4y.jpg" width="600" alt="두 사진을 결합하기 (이미지-투-이미지) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236077_72d6we_G8U0GZaXAAEyCfW.jpg" width="600" alt="이 두 사진을 결합하기 (이미지-투-이미지) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948236077_72d6we_G8U0GZaXAAEyCfW.jpg" width="600" alt="두 사진을 결합하기 (이미지-투-이미지) - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1862,7 +1862,7 @@ GPT-Image 1.5의 사실적인 시각 자료 생성 능력을 보여주기 위해
 
 ---
 
-### No. 44: 스릴러 앨범 커버의 남자
+### No. 44: 스릴러 앨범 커버 남자
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1881,13 +1881,13 @@ GPT-Image 1.5의 사실적인 시각 자료 생성 능력을 보여주기 위해
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255441_58szvz_G8UynWNW0AA8ccP.jpg" width="600" alt="스릴러 앨범 커버의 남자 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948255441_58szvz_G8UynWNW0AA8ccP.jpg" width="600" alt="스릴러 앨범 커버 남자 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255704_3jrvf5_G8UyntQWEAEasyx.jpg" width="600" alt="스릴러 앨범 커버의 남자 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948255704_3jrvf5_G8UyntQWEAEasyx.jpg" width="600" alt="스릴러 앨범 커버 남자 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1941,7 +1941,7 @@ GPT-Image 1.5의 사실적인 시각 자료 생성 능력을 보여주기 위해
 
 #### 📖 설명
 
-사실적인 사진을 요청하는 것으로 시작하여 피부 질감과 같은 특정 세부 사항으로 훨씬 더 큰 사실감을 요구하고 비예술적이고 인간적인 모습을 강조하면서 이미지 생성 결과를 개선하는 데 사용되는 반복적인 프롬프트 시퀀스.
+사실적인 사진을 요청하는 것으로 시작하여 피부 질감과 같은 구체적인 세부 사항으로 훨씬 더 높은 사실성을 요구하고, 비예술적이고 인간적인 모습을 강조하면서 이미지 생성 결과를 개선하는 데 사용되는 반복적인 프롬프트 시퀀스.
 
 #### 📝 프롬프트
 
@@ -1975,7 +1975,7 @@ GPT-Image 1.5의 사실적인 시각 자료 생성 능력을 보여주기 위해
 
 ---
 
-### No. 47: GPT 이미지 1.5 축하 일러스트 프롬프트
+### No. 47: GPT Image 1.5 기념 일러스트 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1995,7 +1995,7 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949135354_29g517_G8UvDOAbkAA1yWM.jpg" width="600" alt="GPT 이미지 1.5 축하 일러스트 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949135354_29g517_G8UvDOAbkAA1yWM.jpg" width="600" alt="GPT Image 1.5 기념 일러스트 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2015,12 +2015,12 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 
 #### 📖 설명
 
-오른쪽 절반은 완전히 유리로 되어 있고 왼쪽 절반은 일반적인 모습인 햄버거의 사실적인 이미지를 요청하는 창의적인 프롬프트.
+오른쪽 절반은 완전히 유리로 되어 있고 왼쪽 절반은 일반적인 햄버거의 모습을 하고 있는, 사진처럼 사실적인 햄버거 이미지를 요청하는 창의적인 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-안녕하세요, 햄버거의 오른쪽 절반 전체가 유리로 만들어지고 왼쪽 절반은 일반 햄버거인 사진 같은 이미지를 만들어 주세요. 감사합니다!
+안녕하세요. 햄버거의 오른쪽 절반 전체가 유리로 만들어지고, 왼쪽 절반은 일반 햄버거인 사실적인 이미지를 만들어 주세요. 감사합니다!
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2044,7 +2044,7 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%ED%96%84%EB%B2%84%EA%B1%B0%EC%9D%98%20%EC%98%A4%EB%A5%B8%EC%AA%BD%20%EC%A0%88%EB%B0%98%20%EC%A0%84%EC%B2%B4%EA%B0%80%20%EC%9C%A0%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EA%B3%A0%20%EC%99%BC%EC%AA%BD%20%EC%A0%88%EB%B0%98%EC%9D%80%20%EC%9D%BC%EB%B0%98%20%ED%96%84%EB%B2%84%EA%B1%B0%EC%9D%B8%20%EC%82%AC%EC%A7%84%20%EA%B0%99%EC%9D%80%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4!)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.%20%ED%96%84%EB%B2%84%EA%B1%B0%EC%9D%98%20%EC%98%A4%EB%A5%B8%EC%AA%BD%20%EC%A0%88%EB%B0%98%20%EC%A0%84%EC%B2%B4%EA%B0%80%20%EC%9C%A0%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EA%B3%A0%2C%20%EC%99%BC%EC%AA%BD%20%EC%A0%88%EB%B0%98%EC%9D%80%20%EC%9D%BC%EB%B0%98%20%ED%96%84%EB%B2%84%EA%B1%B0%EC%9D%B8%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4!)**
 
 ---
 
@@ -2055,16 +2055,16 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 
 #### 📖 설명
 
-강렬한 대비와 에디토리얼 스타일이 돋보이는 현대적인 테크 인플루언서 포스터 디자인을 생성하기 위한 상세한 제로샷 프롬프트입니다. 생동감 넘치는 로얄 블루 배경에 회색조의 세련된 젊은 남자가 등장하며, 떠다니는 브라우저 창과 매끈한 노트북 같은 디지털 UI 요소를 통합하여 미래 지향적인 기술 미학을 구현합니다.
+강렬한 대비와 편집 스타일이 돋보이는 현대적인 테크 인플루언서 포스터 디자인을 생성하기 위한 상세한 제로샷 프롬프트입니다. 생동감 넘치는 로얄 블루 배경에 세련된 젊은 남성이 흑백으로 대비되어 있으며, 떠다니는 브라우저 창과 매끈한 노트북 같은 디지털 UI 요소들이 미래 지향적인 테크 미학을 더합니다.
 
 #### 📝 프롬프트
 
 ```
-활기찬 {argument name="background color" default="로얄 블루"} 배경에 현대적인 테크 인플루언서 포스터 디자인. {argument name="jacket color" default="블랙"} 봄버 재킷, 흰색 티셔츠, 검은색 청바지, 검은색 부츠를 입은 세련된 젊은 남자가 카메라를 향해 자신감 있게 걷고 있다. 그는 반사 선글라스를 착용하고 있으며, 미니멀하면서도 자신감 있는 표정을 짓고 있다. 인물은 흑백 처리되어 있고, 배경은 완전히 채도가 유지되어 있다.
+생동감 넘치는 {argument name="background color" default="로얄 블루"} 배경에 현대적인 테크 인플루언서 포스터 디자인. {argument name="jacket color" default="블랙"} 봄버 재킷, 흰색 티셔츠, 검은색 청바지, 검은색 부츠를 입은 세련된 젊은 남자가 카메라를 향해 자신감 있게 걸어오고 있다. 그는 반사 선글라스를 착용하고 있으며, 미니멀하면서도 자신감 있는 표정을 짓고 있다. 인물은 흑백 처리되어 있고 배경은 완전히 채도가 유지되어 있다.
 
-그의 뒤에는 미니멀한 흰색 윤곽선 브라우저 창 프레임이 떠 있어 디지털 UI 느낌을 준다. 오른쪽에는 매끄러운 노트북이 약간 기울어져 떠 있어 미래 지향적인 기술 미학을 더한다.
+그의 뒤에는 미니멀한 흰색 윤곽선 브라우저 창 프레임이 떠 있어 디지털 UI 느낌을 준다. 오른쪽에는 매끄러운 노트북이 살짝 기울어져 떠 있으며, 미래 지향적인 기술 미학을 더한다.
 
-하단에는 " {argument name="main text" default="ai manifesto"} "라고 쓰인 굵고 큰 흰색 글자가 있고, 그 위에는 " {argument name="small text above" default="I read the"} "라는 작은 글자가, 아래에는 더 작은 브랜딩 텍스트가 있다. 깔끔한 레이아웃, 강한 대비, 에디토리얼 포스터 스타일, 스타트업 브랜딩 미학, 현대적인 타이포그래피, 하이 패션 테크 분위기, 스튜디오 조명, 선명한 초점, 초고해상도.
+하단에는 " {argument name="main text" default="ai manifesto"} "라고 쓰인 굵고 큰 흰색 글자가 있고, 그 위에는 " {argument name="small text above" default="I read the"} "라는 작은 글자가, 아래에는 더 작은 브랜딩 텍스트가 있다. 깔끔한 레이아웃, 강한 대비, 에디토리얼 포스터 스타일, 스타트업 브랜딩 미학, 현대적인 타이포그래피, 하이패션 테크 바이브, 스튜디오 조명, 선명한 초점, 초고해상도.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2082,11 +2082,11 @@ GPT-image-1.5 출시를 기념하는 일러스트를 생성하는 데 사용된 
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%ED%99%9C%EA%B8%B0%EC%B0%AC%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22%EB%A1%9C%EC%96%84%20%EB%B8%94%EB%A3%A8%22%7D%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%ED%85%8C%ED%81%AC%20%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EB%94%94%EC%9E%90%EC%9D%B8.%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22%EB%B8%94%EB%9E%99%22%7D%20%EB%B4%84%EB%B2%84%20%EC%9E%AC%ED%82%B7%2C%20%ED%9D%B0%EC%83%89%20%ED%8B%B0%EC%85%94%EC%B8%A0%2C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%B2%AD%EB%B0%94%EC%A7%80%2C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EB%B6%80%EC%B8%A0%EB%A5%BC%20%EC%9E%85%EC%9D%80%20%EC%84%B8%EB%A0%A8%EB%90%9C%20%EC%A0%8A%EC%9D%80%20%EB%82%A8%EC%9E%90%EA%B0%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EC%9E%90%EC%8B%A0%EA%B0%90%20%EC%9E%88%EA%B2%8C%20%EA%B1%B7%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B7%B8%EB%8A%94%20%EB%B0%98%EC%82%AC%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%98%EB%A9%B4%EC%84%9C%EB%8F%84%20%EC%9E%90%EC%8B%A0%EA%B0%90%20%EC%9E%88%EB%8A%94%20%ED%91%9C%EC%A0%95%EC%9D%84%20%EC%A7%93%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%9D%B8%EB%AC%BC%EC%9D%80%20%ED%9D%91%EB%B0%B1%20%EC%B2%98%EB%A6%AC%EB%90%98%EC%96%B4%20%EC%9E%88%EA%B3%A0%2C%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EC%99%84%EC%A0%84%ED%9E%88%20%EC%B1%84%EB%8F%84%EA%B0%80%20%EC%9C%A0%EC%A7%80%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8B%A4.%0A%0A%EA%B7%B8%EC%9D%98%20%EB%92%A4%EC%97%90%EB%8A%94%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%B0%BD%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4%20%EB%96%A0%20%EC%9E%88%EC%96%B4%20%EB%94%94%EC%A7%80%ED%84%B8%20UI%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%A4%80%EB%8B%A4.%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EB%8A%94%20%EB%A7%A4%EB%81%84%EB%9F%AC%EC%9A%B4%20%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%B4%20%EC%95%BD%EA%B0%84%20%EA%B8%B0%EC%9A%B8%EC%96%B4%EC%A0%B8%20%EB%96%A0%20%EC%9E%88%EC%96%B4%20%EB%AF%B8%EB%9E%98%20%EC%A7%80%ED%96%A5%EC%A0%81%EC%9D%B8%20%EA%B8%B0%EC%88%A0%20%EB%AF%B8%ED%95%99%EC%9D%84%20%EB%8D%94%ED%95%9C%EB%8B%A4.%0A%0A%ED%95%98%EB%8B%A8%EC%97%90%EB%8A%94%20%22%20%7Bargument%20name%3D%22main%20text%22%20default%3D%22ai%20manifesto%22%7D%20%22%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%9D%B8%20%EA%B5%B5%EA%B3%A0%20%ED%81%B0%20%ED%9D%B0%EC%83%89%20%EA%B8%80%EC%9E%90%EA%B0%80%20%EC%9E%88%EA%B3%A0%2C%20%EA%B7%B8%20%EC%9C%84%EC%97%90%EB%8A%94%20%22%20%7Bargument%20name%3D%22small%20text%20above%22%20default%3D%22I%20read%20the%22%7D%20%22%EB%9D%BC%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EA%B8%80%EC%9E%90%EA%B0%80%2C%20%EC%95%84%EB%9E%98%EC%97%90%EB%8A%94%20%EB%8D%94%20%EC%9E%91%EC%9D%80%20%EB%B8%8C%EB%9E%9C%EB%94%A9%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80%20%EC%9E%88%EB%8B%A4.%20%EA%B9%94%EB%81%94%ED%95%9C%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%2C%20%EA%B0%95%ED%95%9C%20%EB%8C%80%EB%B9%84%2C%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EB%B8%8C%EB%9E%9C%EB%94%A9%20%EB%AF%B8%ED%95%99%2C%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%2C%20%ED%95%98%EC%9D%B4%20%ED%8C%A8%EC%85%98%20%ED%85%8C%ED%81%AC%20%EB%B6%84%EC%9C%84%EA%B8%B0%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%2C%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EC%B4%88%EC%A0%90%2C%20%EC%B4%88%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%83%9D%EB%8F%99%EA%B0%90%20%EB%84%98%EC%B9%98%EB%8A%94%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22%EB%A1%9C%EC%96%84%20%EB%B8%94%EB%A3%A8%22%7D%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%ED%85%8C%ED%81%AC%20%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EB%94%94%EC%9E%90%EC%9D%B8.%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22%EB%B8%94%EB%9E%99%22%7D%20%EB%B4%84%EB%B2%84%20%EC%9E%AC%ED%82%B7%2C%20%ED%9D%B0%EC%83%89%20%ED%8B%B0%EC%85%94%EC%B8%A0%2C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%B2%AD%EB%B0%94%EC%A7%80%2C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EB%B6%80%EC%B8%A0%EB%A5%BC%20%EC%9E%85%EC%9D%80%20%EC%84%B8%EB%A0%A8%EB%90%9C%20%EC%A0%8A%EC%9D%80%20%EB%82%A8%EC%9E%90%EA%B0%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EC%9E%90%EC%8B%A0%EA%B0%90%20%EC%9E%88%EA%B2%8C%20%EA%B1%B8%EC%96%B4%EC%98%A4%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B7%B8%EB%8A%94%20%EB%B0%98%EC%82%AC%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%98%EB%A9%B4%EC%84%9C%EB%8F%84%20%EC%9E%90%EC%8B%A0%EA%B0%90%20%EC%9E%88%EB%8A%94%20%ED%91%9C%EC%A0%95%EC%9D%84%20%EC%A7%93%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%9D%B8%EB%AC%BC%EC%9D%80%20%ED%9D%91%EB%B0%B1%20%EC%B2%98%EB%A6%AC%EB%90%98%EC%96%B4%20%EC%9E%88%EA%B3%A0%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EC%99%84%EC%A0%84%ED%9E%88%20%EC%B1%84%EB%8F%84%EA%B0%80%20%EC%9C%A0%EC%A7%80%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8B%A4.%0A%0A%EA%B7%B8%EC%9D%98%20%EB%92%A4%EC%97%90%EB%8A%94%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%B0%BD%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4%20%EB%96%A0%20%EC%9E%88%EC%96%B4%20%EB%94%94%EC%A7%80%ED%84%B8%20UI%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%A4%80%EB%8B%A4.%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EB%8A%94%20%EB%A7%A4%EB%81%84%EB%9F%AC%EC%9A%B4%20%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%B4%20%EC%82%B4%EC%A7%9D%20%EA%B8%B0%EC%9A%B8%EC%96%B4%EC%A0%B8%20%EB%96%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%9E%98%20%EC%A7%80%ED%96%A5%EC%A0%81%EC%9D%B8%20%EA%B8%B0%EC%88%A0%20%EB%AF%B8%ED%95%99%EC%9D%84%20%EB%8D%94%ED%95%9C%EB%8B%A4.%0A%0A%ED%95%98%EB%8B%A8%EC%97%90%EB%8A%94%20%22%20%7Bargument%20name%3D%22main%20text%22%20default%3D%22ai%20manifesto%22%7D%20%22%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%9D%B8%20%EA%B5%B5%EA%B3%A0%20%ED%81%B0%20%ED%9D%B0%EC%83%89%20%EA%B8%80%EC%9E%90%EA%B0%80%20%EC%9E%88%EA%B3%A0%2C%20%EA%B7%B8%20%EC%9C%84%EC%97%90%EB%8A%94%20%22%20%7Bargument%20name%3D%22small%20text%20above%22%20default%3D%22I%20read%20the%22%7D%20%22%EB%9D%BC%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EA%B8%80%EC%9E%90%EA%B0%80%2C%20%EC%95%84%EB%9E%98%EC%97%90%EB%8A%94%20%EB%8D%94%20%EC%9E%91%EC%9D%80%20%EB%B8%8C%EB%9E%9C%EB%94%A9%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80%20%EC%9E%88%EB%8B%A4.%20%EA%B9%94%EB%81%94%ED%95%9C%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%2C%20%EA%B0%95%ED%95%9C%20%EB%8C%80%EB%B9%84%2C%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EB%B8%8C%EB%9E%9C%EB%94%A9%20%EB%AF%B8%ED%95%99%2C%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%2C%20%ED%95%98%EC%9D%B4%ED%8C%A8%EC%85%98%20%ED%85%8C%ED%81%AC%20%EB%B0%94%EC%9D%B4%EB%B8%8C%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%2C%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EC%B4%88%EC%A0%90%2C%20%EC%B4%88%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84.)**
 
 ---
 
-### No. 50: 빨간색/어두운색/사악한 GitHub 로고 (스크린샷 포함)
+### No. 50: 빨간색/어두운색/악마 GitHub 로고와 스크린샷
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2106,7 +2106,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948229655_dkb4c1_G8UpozZXEAAcZU2.jpg" width="600" alt="빨간색/어두운색/사악한 GitHub 로고 (스크린샷 포함) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948229655_dkb4c1_G8UpozZXEAAcZU2.jpg" width="600" alt="빨간색/어두운색/악마 GitHub 로고와 스크린샷 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2126,12 +2126,12 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 #### 📖 설명
 
-모델이 두 개의 참조 이미지에서 요소를 결합하도록 요구하는 이미지 편집 프롬프트: 이미지 1의 구름과 이미지 2의 인물 얼굴을 결합하면서 이미지 1의 전반적인 스타일을 유지합니다. 이는 복잡한 이미지 조작 및 스타일 준수 능력을 테스트합니다.
+모델이 두 개의 참조 이미지에서 요소를 결합하도록 요구하는 이미지 편집 프롬프트: 이미지 1의 구름과 이미지 2의 인물 얼굴을 결합하되, 이미지 1의 전체적인 스타일을 유지합니다. 이는 복잡한 이미지 조작 및 스타일 준수 능력을 테스트합니다.
 
 #### 📝 프롬프트
 
 ```
-이미지 1의 구름에 이미지 2의 인물 얼굴을 합성해 주세요. 스타일은 이미지 1과 같게 해주세요.
+이미지 1의 구름에 이미지 2의 인물 얼굴을 합성해 주세요. 스타일은 이미지 1을 따라야 합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2155,7 +2155,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%EB%AF%B8%EC%A7%80%201%EC%9D%98%20%EA%B5%AC%EB%A6%84%EC%97%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80%202%EC%9D%98%20%EC%9D%B8%EB%AC%BC%20%EC%96%BC%EA%B5%B4%EC%9D%84%20%ED%95%A9%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EC%9D%B4%EB%AF%B8%EC%A7%80%201%EA%B3%BC%20%EA%B0%99%EA%B2%8C%20%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%EB%AF%B8%EC%A7%80%201%EC%9D%98%20%EA%B5%AC%EB%A6%84%EC%97%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80%202%EC%9D%98%20%EC%9D%B8%EB%AC%BC%20%EC%96%BC%EA%B5%B4%EC%9D%84%20%ED%95%A9%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EC%9D%B4%EB%AF%B8%EC%A7%80%201%EC%9D%84%20%EB%94%B0%EB%9D%BC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -2210,13 +2210,13 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 ---
 
-### No. 53: 초현실적인 편집용 우발적 낙상 포즈
+### No. 53: 초현실적인 에디토리얼 우발적 낙상 포즈
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-균형을 잃은 직후의 특정하고 복잡한 포즈에 초점을 맞춰, 에디토리얼 패션 리얼리즘을 위해 고안된 매우 상세하고 극도로 사실적인 이미지 생성 프롬프트입니다. 이 프롬프트는 피사체의 민족성과 체형부터 카메라 렌즈, 조명 설정, 심지어 원초적이고 꾸밈없으며 친밀한 분위기를 보장하기 위한 네거티브 프롬프트까지 모든 세부 사항을 명시합니다.
+균형을 잃은 직후의 특정하고 복잡한 포즈에 초점을 맞춰, 편집 패션 리얼리즘을 위해 고안된 매우 상세하고 극도로 사실적인 이미지 생성 프롬프트입니다. 이 프롬프트는 피사체의 민족성과 신체 유형부터 카메라 렌즈, 조명 설정, 심지어는 날것 그대로의 꾸밈없고 친밀한 분위기를 보장하기 위한 네거티브 프롬프트까지 모든 세부 사항을 명시합니다.
 
 #### 📝 프롬프트
 
@@ -2243,20 +2243,20 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
     "pose": {
       "torso": "상체가 바닥으로 앞으로 쓰러짐",
       "hips": "큐브 가장자리에 불균형하게 걸쳐짐",
-      "upper_legs": "큐브 위에 놓여 있음",
+      "upper_legs": "큐브 위에 놓임",
       "lower_legs": "공중으로 위로 들려 있고 자연스럽게 구부러짐",
       "head": {
         "position": "바닥에 옆으로 누워 있음",
         "neck": "완전히 이완됨",
-        "expression": "무표정, 꾸밈없고 자연스러움"
+        "expression": "무표정하고 꾸밈없고 자연스러움"
       },
       "arms": {
         "one": "바닥에 느슨하게 뻗어 있음",
-        "other": "몸통 가까이 구부러져 이완됨"
+        "other": "이완된 상태로 몸통 근처에서 구부러짐"
       }
     },
     "camera": {
-      "angle": "측면",
+      "angle": "측면 프로필",
       "shot_type": "전신",
       "lens": "85mm",
       "framing": "자연스러운 거리, 너무 가깝지 않게"
@@ -2266,22 +2266,22 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
     "gender": "여성",
     "ethnicity": "스칸디나비아인",
     "age_range": "20대 중반",
-    "body_type": "운동선수형",
+    "body_type": "운동선수 체형",
     "face": {
       "makeup": "노 메이크업",
-      "skin": "자연스러운 피부결, 모공 보임, 약간의 붉은 기, 실제 피부 결점",
-      "expression": "차분하고 고정되지 않으며 거의 무표정함"
+      "skin": "자연스러운 피부결, 모공 보임, 약간의 붉은 기, 실제와 같은 결점",
+      "expression": "차분하고 고정되지 않았으며 거의 멍한 표정"
     },
     "hair": {
-      "color": "다크 블론드",
-      "style": "앞으로 쏠려 있고 움직임으로 인해 약간 흐트러짐"
+      "color": "어두운 금발",
+      "style": "앞으로 흘러내려 움직임으로 인해 약간 흐트러짐"
     }
   },
   "wardrobe": {
     "outfit": "필라테스 웨어",
-    "color": "딥 레드",
-    "top": "몸에 맞는 빨간색 필라테스 크롭탑",
-    "bottom": "하이웨이스트 빨간색 필라테스 반바지",
+    "color": "짙은 빨간색",
+    "top": "몸에 맞는 빨간색 필라테스 크롭 탑",
+    "bottom": "하이웨이스트 빨간색 필라테스 쇼츠",
     "footwear": {
       "type": "하이힐",
       "style": "미니멀 스틸레토",
@@ -2290,22 +2290,22 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
   },
   "lighting": {
     "type": "깨끗한 흰색 스튜디오 조명",
-    "color_temperature": "뉴트럴 화이트 (5000–5600K)",
+    "color_temperature": "중성 흰색 (5000–5600K)",
     "setup": "균일한 상단-전면 소프트박스 조명",
-    "shadows": "매우 부드러운, 사실적인 접촉 그림자만",
-    "look": "임상적, 솔직함, 꾸밈없음"
+    "shadows": "매우 부드럽고 사실적인 접촉 그림자만",
+    "look": "임상적이고 솔직하며 꾸밈없는"
   },
-  "mood": "날것의, 우연한, 친밀한, 패션 리얼리즘",
+  "mood": "날것의, 우발적인, 친밀한, 패션 리얼리즘",
   "style": "꾸밈없는 에디토리얼 사진",
   "negative_prompt": [
     "뷰티 메이크업",
     "화려한 조명",
     "따뜻한 톤",
-    "노란색 빛",
+    "노란색 조명",
     "극적인 그림자",
     "플라스틱 피부",
     "cgi",
-    "연출된 모습",
+    "연출된 표정",
     "완벽한 얼굴 대칭"
   ]
 }
@@ -2316,7 +2316,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948248474_u8wpkh_G8UkRA1WoAMr3gN.jpg" width="600" alt="초현실적인 편집용 우발적 낙상 포즈 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948248474_u8wpkh_G8UkRA1WoAMr3gN.jpg" width="600" alt="초현실적인 에디토리얼 우발적 낙상 포즈 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2326,7 +2326,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22editorial_accidental_fall_pose%22%2C%0A%20%20%22output%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22single_image%22%2C%0A%20%20%20%20%22resolution%22%3A%20%22ultra_high_resolution%22%2C%0A%20%20%20%20%22realism%22%3A%20%22ultra_photorealistic%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22true_to_life_natural_skin%22%2C%0A%20%20%20%20%22quality%22%3A%20%22high_end_editorial%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%22%2C%0A%20%20%20%20%22background%22%3A%20%22%EA%B9%A8%EB%81%97%ED%95%9C%20%EB%B0%9D%EC%9D%80%20%ED%9A%8C%EC%83%89%20%EC%8B%AC%EB%A6%AC%EC%8A%A4%20%EB%B0%B0%EA%B2%BD%22%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%ED%9D%B0%EC%83%89%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%ED%81%90%EB%B8%8C%22%2C%0A%20%20%20%20%20%20%22finish%22%3A%20%22%EB%AC%B4%EA%B4%91%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22moment%22%3A%20%22%EA%B7%A0%ED%98%95%EC%9D%84%20%EC%9E%83%EC%9D%80%20%EC%A7%81%ED%9B%84%20%ED%8F%AC%EC%B0%A9%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22torso%22%3A%20%22%EC%83%81%EC%B2%B4%EA%B0%80%20%EB%B0%94%EB%8B%A5%EC%9C%BC%EB%A1%9C%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EC%93%B0%EB%9F%AC%EC%A7%90%22%2C%0A%20%20%20%20%20%20%22hips%22%3A%20%22%ED%81%90%EB%B8%8C%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%EC%97%90%20%EB%B6%88%EA%B7%A0%ED%98%95%ED%95%98%EA%B2%8C%20%EA%B1%B8%EC%B3%90%EC%A7%90%22%2C%0A%20%20%20%20%20%20%22upper_legs%22%3A%20%22%ED%81%90%EB%B8%8C%20%EC%9C%84%EC%97%90%20%EB%86%93%EC%97%AC%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22lower_legs%22%3A%20%22%EA%B3%B5%EC%A4%91%EC%9C%BC%EB%A1%9C%20%EC%9C%84%EB%A1%9C%20%EB%93%A4%EB%A0%A4%20%EC%9E%88%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EA%B5%AC%EB%B6%80%EB%9F%AC%EC%A7%90%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22position%22%3A%20%22%EB%B0%94%EB%8B%A5%EC%97%90%20%EC%98%86%EC%9C%BC%EB%A1%9C%20%EB%88%84%EC%9B%8C%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%20%20%22neck%22%3A%20%22%EC%99%84%EC%A0%84%ED%9E%88%20%EC%9D%B4%EC%99%84%EB%90%A8%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22%EB%AC%B4%ED%91%9C%EC%A0%95%2C%20%EA%BE%B8%EB%B0%88%EC%97%86%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9B%80%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22one%22%3A%20%22%EB%B0%94%EB%8B%A5%EC%97%90%20%EB%8A%90%EC%8A%A8%ED%95%98%EA%B2%8C%20%EB%BB%97%EC%96%B4%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%20%20%22other%22%3A%20%22%EB%AA%B8%ED%86%B5%20%EA%B0%80%EA%B9%8C%EC%9D%B4%20%EA%B5%AC%EB%B6%80%EB%9F%AC%EC%A0%B8%20%EC%9D%B4%EC%99%84%EB%90%A8%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22angle%22%3A%20%22%EC%B8%A1%EB%A9%B4%22%2C%0A%20%20%20%20%20%20%22shot_type%22%3A%20%22%EC%A0%84%EC%8B%A0%22%2C%0A%20%20%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%20%20%22framing%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EA%B1%B0%EB%A6%AC%2C%20%EB%84%88%EB%AC%B4%20%EA%B0%80%EA%B9%9D%EC%A7%80%20%EC%95%8A%EA%B2%8C%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%EC%97%AC%EC%84%B1%22%2C%0A%20%20%20%20%22ethnicity%22%3A%20%22%EC%8A%A4%EC%B9%B8%EB%94%94%EB%82%98%EB%B9%84%EC%95%84%EC%9D%B8%22%2C%0A%20%20%20%20%22age_range%22%3A%20%2220%EB%8C%80%20%EC%A4%91%EB%B0%98%22%2C%0A%20%20%20%20%22body_type%22%3A%20%22%EC%9A%B4%EB%8F%99%EC%84%A0%EC%88%98%ED%98%95%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22makeup%22%3A%20%22%EB%85%B8%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%22%2C%0A%20%20%20%20%20%20%22skin%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%EA%B2%B0%2C%20%EB%AA%A8%EA%B3%B5%20%EB%B3%B4%EC%9E%84%2C%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EA%B8%B0%2C%20%EC%8B%A4%EC%A0%9C%20%ED%94%BC%EB%B6%80%20%EA%B2%B0%EC%A0%90%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%EC%B0%A8%EB%B6%84%ED%95%98%EA%B3%A0%20%EA%B3%A0%EC%A0%95%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9C%BC%EB%A9%B0%20%EA%B1%B0%EC%9D%98%20%EB%AC%B4%ED%91%9C%EC%A0%95%ED%95%A8%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%EB%8B%A4%ED%81%AC%20%EB%B8%94%EB%A1%A0%EB%93%9C%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EC%8F%A0%EB%A0%A4%20%EC%9E%88%EA%B3%A0%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%ED%95%B4%20%EC%95%BD%EA%B0%84%20%ED%9D%90%ED%8A%B8%EB%9F%AC%EC%A7%90%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22%ED%95%84%EB%9D%BC%ED%85%8C%EC%8A%A4%20%EC%9B%A8%EC%96%B4%22%2C%0A%20%20%20%20%22color%22%3A%20%22%EB%94%A5%20%EB%A0%88%EB%93%9C%22%2C%0A%20%20%20%20%22top%22%3A%20%22%EB%AA%B8%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EB%B9%A8%EA%B0%84%EC%83%89%20%ED%95%84%EB%9D%BC%ED%85%8C%EC%8A%A4%20%ED%81%AC%EB%A1%AD%ED%83%91%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4%ED%8A%B8%20%EB%B9%A8%EA%B0%84%EC%83%89%20%ED%95%84%EB%9D%BC%ED%85%8C%EC%8A%A4%20%EB%B0%98%EB%B0%94%EC%A7%80%22%2C%0A%20%20%20%20%22footwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%ED%95%98%EC%9D%B4%ED%9E%90%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%20%EC%8A%A4%ED%8B%B8%EB%A0%88%ED%86%A0%22%2C%0A%20%20%20%20%20%20%22color%22%3A%20%22%EB%B9%A8%EA%B0%84%EC%83%89%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%EA%B9%A8%EB%81%97%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22color_temperature%22%3A%20%22%EB%89%B4%ED%8A%B8%EB%9F%B4%20%ED%99%94%EC%9D%B4%ED%8A%B8%20(5000%E2%80%935600K)%22%2C%0A%20%20%20%20%22setup%22%3A%20%22%EA%B7%A0%EC%9D%BC%ED%95%9C%20%EC%83%81%EB%8B%A8-%EC%A0%84%EB%A9%B4%20%EC%86%8C%ED%94%84%ED%8A%B8%EB%B0%95%EC%8A%A4%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A0%91%EC%B4%89%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A7%8C%22%2C%0A%20%20%20%20%22look%22%3A%20%22%EC%9E%84%EC%83%81%EC%A0%81%2C%20%EC%86%94%EC%A7%81%ED%95%A8%2C%20%EA%BE%B8%EB%B0%88%EC%97%86%EC%9D%8C%22%0A%20%20%7D%2C%0A%20%20%22mood%22%3A%20%22%EB%82%A0%EA%B2%83%EC%9D%98%2C%20%EC%9A%B0%EC%97%B0%ED%95%9C%2C%20%EC%B9%9C%EB%B0%80%ED%95%9C%2C%20%ED%8C%A8%EC%85%98%20%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%A6%98%22%2C%0A%20%20%22style%22%3A%20%22%EA%BE%B8%EB%B0%88%EC%97%86%EB%8A%94%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22%EB%B7%B0%ED%8B%B0%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%22%2C%0A%20%20%20%20%22%ED%99%94%EB%A0%A4%ED%95%9C%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22%EB%94%B0%EB%9C%BB%ED%95%9C%20%ED%86%A4%22%2C%0A%20%20%20%20%22%EB%85%B8%EB%9E%80%EC%83%89%20%EB%B9%9B%22%2C%0A%20%20%20%20%22%EA%B7%B9%EC%A0%81%EC%9D%B8%20%EA%B7%B8%EB%A6%BC%EC%9E%90%22%2C%0A%20%20%20%20%22%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%20%ED%94%BC%EB%B6%80%22%2C%0A%20%20%20%20%22cgi%22%2C%0A%20%20%20%20%22%EC%97%B0%EC%B6%9C%EB%90%9C%20%EB%AA%A8%EC%8A%B5%22%2C%0A%20%20%20%20%22%EC%99%84%EB%B2%BD%ED%95%9C%20%EC%96%BC%EA%B5%B4%20%EB%8C%80%EC%B9%AD%22%0A%20%20%5D%0A%7D)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22editorial_accidental_fall_pose%22%2C%0A%20%20%22output%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22single_image%22%2C%0A%20%20%20%20%22resolution%22%3A%20%22ultra_high_resolution%22%2C%0A%20%20%20%20%22realism%22%3A%20%22ultra_photorealistic%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22true_to_life_natural_skin%22%2C%0A%20%20%20%20%22quality%22%3A%20%22high_end_editorial%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%22%2C%0A%20%20%20%20%22background%22%3A%20%22%EA%B9%A8%EB%81%97%ED%95%9C%20%EB%B0%9D%EC%9D%80%20%ED%9A%8C%EC%83%89%20%EC%8B%AC%EB%A6%AC%EC%8A%A4%20%EB%B0%B0%EA%B2%BD%22%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%ED%9D%B0%EC%83%89%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%ED%81%90%EB%B8%8C%22%2C%0A%20%20%20%20%20%20%22finish%22%3A%20%22%EB%AC%B4%EA%B4%91%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22moment%22%3A%20%22%EA%B7%A0%ED%98%95%EC%9D%84%20%EC%9E%83%EC%9D%80%20%EC%A7%81%ED%9B%84%20%ED%8F%AC%EC%B0%A9%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22torso%22%3A%20%22%EC%83%81%EC%B2%B4%EA%B0%80%20%EB%B0%94%EB%8B%A5%EC%9C%BC%EB%A1%9C%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EC%93%B0%EB%9F%AC%EC%A7%90%22%2C%0A%20%20%20%20%20%20%22hips%22%3A%20%22%ED%81%90%EB%B8%8C%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%EC%97%90%20%EB%B6%88%EA%B7%A0%ED%98%95%ED%95%98%EA%B2%8C%20%EA%B1%B8%EC%B3%90%EC%A7%90%22%2C%0A%20%20%20%20%20%20%22upper_legs%22%3A%20%22%ED%81%90%EB%B8%8C%20%EC%9C%84%EC%97%90%20%EB%86%93%EC%9E%84%22%2C%0A%20%20%20%20%20%20%22lower_legs%22%3A%20%22%EA%B3%B5%EC%A4%91%EC%9C%BC%EB%A1%9C%20%EC%9C%84%EB%A1%9C%20%EB%93%A4%EB%A0%A4%20%EC%9E%88%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EA%B5%AC%EB%B6%80%EB%9F%AC%EC%A7%90%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22position%22%3A%20%22%EB%B0%94%EB%8B%A5%EC%97%90%20%EC%98%86%EC%9C%BC%EB%A1%9C%20%EB%88%84%EC%9B%8C%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%20%20%22neck%22%3A%20%22%EC%99%84%EC%A0%84%ED%9E%88%20%EC%9D%B4%EC%99%84%EB%90%A8%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22%EB%AC%B4%ED%91%9C%EC%A0%95%ED%95%98%EA%B3%A0%20%EA%BE%B8%EB%B0%88%EC%97%86%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9B%80%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22one%22%3A%20%22%EB%B0%94%EB%8B%A5%EC%97%90%20%EB%8A%90%EC%8A%A8%ED%95%98%EA%B2%8C%20%EB%BB%97%EC%96%B4%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%20%20%22other%22%3A%20%22%EC%9D%B4%EC%99%84%EB%90%9C%20%EC%83%81%ED%83%9C%EB%A1%9C%20%EB%AA%B8%ED%86%B5%20%EA%B7%BC%EC%B2%98%EC%97%90%EC%84%9C%20%EA%B5%AC%EB%B6%80%EB%9F%AC%EC%A7%90%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22angle%22%3A%20%22%EC%B8%A1%EB%A9%B4%20%ED%94%84%EB%A1%9C%ED%95%84%22%2C%0A%20%20%20%20%20%20%22shot_type%22%3A%20%22%EC%A0%84%EC%8B%A0%22%2C%0A%20%20%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%20%20%22framing%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EA%B1%B0%EB%A6%AC%2C%20%EB%84%88%EB%AC%B4%20%EA%B0%80%EA%B9%9D%EC%A7%80%20%EC%95%8A%EA%B2%8C%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%EC%97%AC%EC%84%B1%22%2C%0A%20%20%20%20%22ethnicity%22%3A%20%22%EC%8A%A4%EC%B9%B8%EB%94%94%EB%82%98%EB%B9%84%EC%95%84%EC%9D%B8%22%2C%0A%20%20%20%20%22age_range%22%3A%20%2220%EB%8C%80%20%EC%A4%91%EB%B0%98%22%2C%0A%20%20%20%20%22body_type%22%3A%20%22%EC%9A%B4%EB%8F%99%EC%84%A0%EC%88%98%20%EC%B2%B4%ED%98%95%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22makeup%22%3A%20%22%EB%85%B8%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%22%2C%0A%20%20%20%20%20%20%22skin%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%EA%B2%B0%2C%20%EB%AA%A8%EA%B3%B5%20%EB%B3%B4%EC%9E%84%2C%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EA%B8%B0%2C%20%EC%8B%A4%EC%A0%9C%EC%99%80%20%EA%B0%99%EC%9D%80%20%EA%B2%B0%EC%A0%90%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%EC%B0%A8%EB%B6%84%ED%95%98%EA%B3%A0%20%EA%B3%A0%EC%A0%95%EB%90%98%EC%A7%80%20%EC%95%8A%EC%95%98%EC%9C%BC%EB%A9%B0%20%EA%B1%B0%EC%9D%98%20%EB%A9%8D%ED%95%9C%20%ED%91%9C%EC%A0%95%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%EC%96%B4%EB%91%90%EC%9A%B4%20%EA%B8%88%EB%B0%9C%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EC%95%9E%EC%9C%BC%EB%A1%9C%20%ED%9D%98%EB%9F%AC%EB%82%B4%EB%A0%A4%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%ED%95%B4%20%EC%95%BD%EA%B0%84%20%ED%9D%90%ED%8A%B8%EB%9F%AC%EC%A7%90%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22%ED%95%84%EB%9D%BC%ED%85%8C%EC%8A%A4%20%EC%9B%A8%EC%96%B4%22%2C%0A%20%20%20%20%22color%22%3A%20%22%EC%A7%99%EC%9D%80%20%EB%B9%A8%EA%B0%84%EC%83%89%22%2C%0A%20%20%20%20%22top%22%3A%20%22%EB%AA%B8%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EB%B9%A8%EA%B0%84%EC%83%89%20%ED%95%84%EB%9D%BC%ED%85%8C%EC%8A%A4%20%ED%81%AC%EB%A1%AD%20%ED%83%91%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4%ED%8A%B8%20%EB%B9%A8%EA%B0%84%EC%83%89%20%ED%95%84%EB%9D%BC%ED%85%8C%EC%8A%A4%20%EC%87%BC%EC%B8%A0%22%2C%0A%20%20%20%20%22footwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%ED%95%98%EC%9D%B4%ED%9E%90%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%20%EC%8A%A4%ED%8B%B8%EB%A0%88%ED%86%A0%22%2C%0A%20%20%20%20%20%20%22color%22%3A%20%22%EB%B9%A8%EA%B0%84%EC%83%89%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%EA%B9%A8%EB%81%97%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22color_temperature%22%3A%20%22%EC%A4%91%EC%84%B1%20%ED%9D%B0%EC%83%89%20(5000%E2%80%935600K)%22%2C%0A%20%20%20%20%22setup%22%3A%20%22%EA%B7%A0%EC%9D%BC%ED%95%9C%20%EC%83%81%EB%8B%A8-%EC%A0%84%EB%A9%B4%20%EC%86%8C%ED%94%84%ED%8A%B8%EB%B0%95%EC%8A%A4%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A0%91%EC%B4%89%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A7%8C%22%2C%0A%20%20%20%20%22look%22%3A%20%22%EC%9E%84%EC%83%81%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EC%86%94%EC%A7%81%ED%95%98%EB%A9%B0%20%EA%BE%B8%EB%B0%88%EC%97%86%EB%8A%94%22%0A%20%20%7D%2C%0A%20%20%22mood%22%3A%20%22%EB%82%A0%EA%B2%83%EC%9D%98%2C%20%EC%9A%B0%EB%B0%9C%EC%A0%81%EC%9D%B8%2C%20%EC%B9%9C%EB%B0%80%ED%95%9C%2C%20%ED%8C%A8%EC%85%98%20%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%A6%98%22%2C%0A%20%20%22style%22%3A%20%22%EA%BE%B8%EB%B0%88%EC%97%86%EB%8A%94%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22%EB%B7%B0%ED%8B%B0%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%22%2C%0A%20%20%20%20%22%ED%99%94%EB%A0%A4%ED%95%9C%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22%EB%94%B0%EB%9C%BB%ED%95%9C%20%ED%86%A4%22%2C%0A%20%20%20%20%22%EB%85%B8%EB%9E%80%EC%83%89%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%22%EA%B7%B9%EC%A0%81%EC%9D%B8%20%EA%B7%B8%EB%A6%BC%EC%9E%90%22%2C%0A%20%20%20%20%22%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%20%ED%94%BC%EB%B6%80%22%2C%0A%20%20%20%20%22cgi%22%2C%0A%20%20%20%20%22%EC%97%B0%EC%B6%9C%EB%90%9C%20%ED%91%9C%EC%A0%95%22%2C%0A%20%20%20%20%22%EC%99%84%EB%B2%BD%ED%95%9C%20%EC%96%BC%EA%B5%B4%20%EB%8C%80%EC%B9%AD%22%0A%20%20%5D%0A%7D)**
 
 ---
 
@@ -2336,7 +2336,7 @@ GitHub 로고를 {argument name="color and mood" default="빨간색/어둡게/�
 
 #### 📖 설명
 
-OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하는 인포그래픽 생성을 요청하는 간단한 프롬프트입니다.
+OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하는 인포그래픽 생성을 요청하는 간단한 프롬프트.
 
 #### 📝 프롬프트
 
@@ -2375,12 +2375,12 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 
 #### 📖 설명
 
-아랍어로 음식 주문 시 사용되는 기본적인 문구를 설명하기 위해 디자인된 여러 패널 이미지에 대한 간단한 텍스트 프롬프트로, 언어 학습 또는 시각 자료용으로 사용될 가능성이 높습니다.
+아랍어로 음식을 주문할 때 사용하는 기본적인 문구를 설명하기 위해 고안된 여러 패널 이미지에 대한 간단한 텍스트 프롬프트로, 언어 학습 또는 시각 자료용으로 사용될 가능성이 높습니다.
 
 #### 📝 프롬프트
 
 ```
-아랍어로 음식을 주문하는 방법에 대한 기본적인 문구를 여러 패널로 보여주는 이미지를 그려줄 수 있나요?
+아랍어로 음식을 주문하는 기본적인 표현들을 여러 패널로 보여주는 이미지를 그려줄 수 있나요?
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2404,7 +2404,7 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%95%84%EB%9E%8D%EC%96%B4%EB%A1%9C%20%EC%9D%8C%EC%8B%9D%EC%9D%84%20%EC%A3%BC%EB%AC%B8%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%AC%B8%EA%B5%AC%EB%A5%BC%20%EC%97%AC%EB%9F%AC%20%ED%8C%A8%EB%84%90%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EA%B7%B8%EB%A0%A4%EC%A4%84%20%EC%88%98%20%EC%9E%88%EB%82%98%EC%9A%94%3F)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%95%84%EB%9E%8D%EC%96%B4%EB%A1%9C%20%EC%9D%8C%EC%8B%9D%EC%9D%84%20%EC%A3%BC%EB%AC%B8%ED%95%98%EB%8A%94%20%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%ED%91%9C%ED%98%84%EB%93%A4%EC%9D%84%20%EC%97%AC%EB%9F%AC%20%ED%8C%A8%EB%84%90%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EA%B7%B8%EB%A0%A4%EC%A4%84%20%EC%88%98%20%EC%9E%88%EB%82%98%EC%9A%94%3F)**
 
 ---
 
@@ -2414,7 +2414,7 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 
 #### 📖 설명
 
-이미지 편집 모드용으로 고안된 매우 상세한 이미지 생성 프롬프트로, 초근접 인물 사진에서 사실적인 피부 질감, 주근깨, 모공을 보존하는 데 중점을 둡니다. 장면은 겨울 야외의 차가운 자연광 아래 설정되어 있으며, 날것의 다큐멘터리 분위기를 목표로 합니다.
+이미지 편집 모드용으로 설계된 매우 상세한 이미지 생성 프롬프트로, 초근접 인물 사진에서 사실적인 피부 질감, 주근깨, 모공을 보존하는 데 중점을 둡니다. 장면은 겨울 야외의 자연스러운 차가운 낮 시간으로 설정되어 있으며, 날것의 다큐멘터리 분위기를 목표로 합니다.
 
 #### 📝 프롬프트
 
@@ -2442,15 +2442,15 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
     "weather": "춥고 눈 내리는"
   },
   "style": {
-    "mood": "거친, 다큐멘터리, 감성적인",
-    "color_palette": "차가운 파란색, 옅은 피부 톤"
+    "mood": "거친, 다큐멘터리 같은, 감성적인",
+    "color_palette": "차가운 파란색, 창백한 피부 톤"
   },
   "camera": {
     "lens": "85mm 매크로 인물 렌즈",
     "focus": "눈에 극도의 선명도"
   },
   "negative_prompt": [
-    "부드러운 피부",
+    "매끄러운 피부",
     "뷰티 필터",
     "얼굴 변형",
     "만화 같은 모습"
@@ -2479,7 +2479,7 @@ OpenAI의 역사, 특히 2025년까지의 진행 상황을 자세히 설명하�
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%20%20%22mode%22%3A%20%22image_edit%22%2C%0A%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%22enabled%22%3A%20true%2C%0A%20%20%20%20%22strength%22%3A%201.0%2C%0A%20%20%20%20%22notes%22%3A%20%22%ED%94%BC%EB%B6%80%EA%B2%B0%2C%20%EC%A3%BC%EA%B7%BC%EA%B9%A8%2C%20%EB%AA%A8%EA%B3%B5%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9C%A0%EC%A7%80%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22%EC%A0%95%EB%A9%B4%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%EB%AC%B4%ED%91%9C%EC%A0%95%2C%20%EA%B0%95%EB%A0%AC%ED%95%9C%20%EB%88%88%EB%A7%9E%EC%B6%A4%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%EC%9E%90%EC%97%B0%EA%B4%91%20%EC%B0%A8%EA%B0%80%EC%9A%B4%20%EC%A3%BC%EA%B4%91%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%EB%82%AE%EC%9D%8C%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EC%82%AC%EC%8B%A4%EC%A0%81%2C%20%EB%B3%B4%EC%A0%95%20%EC%97%86%EC%9D%8C%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22%EA%B2%A8%EC%9A%B8%20%EC%95%BC%EC%99%B8%22%2C%0A%20%20%20%20%22props%22%3A%20%5B%22%EC%96%BC%EA%B5%B4%EC%97%90%20%EB%88%88%22%2C%20%22%EC%96%BC%EA%B5%B4%EC%9D%84%20%EA%B0%90%EC%8B%BC%20%ED%9B%84%EB%93%9C%22%5D%2C%0A%20%20%20%20%22weather%22%3A%20%22%EC%B6%A5%EA%B3%A0%20%EB%88%88%20%EB%82%B4%EB%A6%AC%EB%8A%94%22%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22mood%22%3A%20%22%EA%B1%B0%EC%B9%9C%2C%20%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%2C%20%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22%EC%B0%A8%EA%B0%80%EC%9A%B4%20%ED%8C%8C%EB%9E%80%EC%83%89%2C%20%EC%98%85%EC%9D%80%20%ED%94%BC%EB%B6%80%20%ED%86%A4%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EC%9D%B8%EB%AC%BC%20%EB%A0%8C%EC%A6%88%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%EB%88%88%EC%97%90%20%EA%B7%B9%EB%8F%84%EC%9D%98%20%EC%84%A0%EB%AA%85%EB%8F%84%22%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%22%2C%0A%20%20%20%20%22%EB%B7%B0%ED%8B%B0%20%ED%95%84%ED%84%B0%22%2C%0A%20%20%20%20%22%EC%96%BC%EA%B5%B4%20%EB%B3%80%ED%98%95%22%2C%0A%20%20%20%20%22%EB%A7%8C%ED%99%94%20%EA%B0%99%EC%9D%80%20%EB%AA%A8%EC%8A%B5%22%0A%20%20%5D%0A%7D)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%20%20%22mode%22%3A%20%22image_edit%22%2C%0A%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%22enabled%22%3A%20true%2C%0A%20%20%20%20%22strength%22%3A%201.0%2C%0A%20%20%20%20%22notes%22%3A%20%22%ED%94%BC%EB%B6%80%EA%B2%B0%2C%20%EC%A3%BC%EA%B7%BC%EA%B9%A8%2C%20%EB%AA%A8%EA%B3%B5%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9C%A0%EC%A7%80%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%22%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22%EC%A0%95%EB%A9%B4%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%EB%AC%B4%ED%91%9C%EC%A0%95%2C%20%EA%B0%95%EB%A0%AC%ED%95%9C%20%EB%88%88%EB%A7%9E%EC%B6%A4%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%EC%9E%90%EC%97%B0%EA%B4%91%20%EC%B0%A8%EA%B0%80%EC%9A%B4%20%EC%A3%BC%EA%B4%91%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%EB%82%AE%EC%9D%8C%22%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EC%82%AC%EC%8B%A4%EC%A0%81%2C%20%EB%B3%B4%EC%A0%95%20%EC%97%86%EC%9D%8C%22%0A%20%20%7D%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22%EA%B2%A8%EC%9A%B8%20%EC%95%BC%EC%99%B8%22%2C%0A%20%20%20%20%22props%22%3A%20%5B%22%EC%96%BC%EA%B5%B4%EC%97%90%20%EB%88%88%22%2C%20%22%EC%96%BC%EA%B5%B4%EC%9D%84%20%EA%B0%90%EC%8B%BC%20%ED%9B%84%EB%93%9C%22%5D%2C%0A%20%20%20%20%22weather%22%3A%20%22%EC%B6%A5%EA%B3%A0%20%EB%88%88%20%EB%82%B4%EB%A6%AC%EB%8A%94%22%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22mood%22%3A%20%22%EA%B1%B0%EC%B9%9C%2C%20%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%20%EA%B0%99%EC%9D%80%2C%20%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22%EC%B0%A8%EA%B0%80%EC%9A%B4%20%ED%8C%8C%EB%9E%80%EC%83%89%2C%20%EC%B0%BD%EB%B0%B1%ED%95%9C%20%ED%94%BC%EB%B6%80%20%ED%86%A4%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EC%9D%B8%EB%AC%BC%20%EB%A0%8C%EC%A6%88%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%EB%88%88%EC%97%90%20%EA%B7%B9%EB%8F%84%EC%9D%98%20%EC%84%A0%EB%AA%85%EB%8F%84%22%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22%EB%A7%A4%EB%81%84%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%22%2C%0A%20%20%20%20%22%EB%B7%B0%ED%8B%B0%20%ED%95%84%ED%84%B0%22%2C%0A%20%20%20%20%22%EC%96%BC%EA%B5%B4%20%EB%B3%80%ED%98%95%22%2C%0A%20%20%20%20%22%EB%A7%8C%ED%99%94%20%EA%B0%99%EC%9D%80%20%EB%AA%A8%EC%8A%B5%22%0A%20%20%5D%0A%7D)**
 
 ---
 
@@ -2494,7 +2494,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 #### 📝 프롬프트
 
 ```
-바르셀로나 사그라다 파밀리아 항공 사진
+바르셀로나 사그라다 파밀리아의 항공 사진
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2512,7 +2512,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98%20%EC%82%AC%EA%B7%B8%EB%9D%BC%EB%8B%A4%20%ED%8C%8C%EB%B0%80%EB%A6%AC%EC%95%84%20%ED%95%AD%EA%B3%B5%20%EC%82%AC%EC%A7%84)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98%20%EC%82%AC%EA%B7%B8%EB%9D%BC%EB%8B%A4%20%ED%8C%8C%EB%B0%80%EB%A6%AC%EC%95%84%EC%9D%98%20%ED%95%AD%EA%B3%B5%20%EC%82%AC%EC%A7%84)**
 
 ---
 
@@ -2522,12 +2522,12 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 
 #### 📖 설명
 
-수직 해양 단면도 안에 심해 생물을 시각화한 포스터를 생성하는 프롬프트. 아름답고 섬세한 일본 애니메이션 스타일로 렌더링되어, 특정 예술 스타일과 과학적 시각화를 결합하는 모델의 능력을 테스트합니다.
+수직 해양 단면도 내에 시각화된 심해 생물 포스터를 생성하기 위한 프롬프트. 아름답고 섬세한 일본 애니메이션 스타일로 렌더링되어, 특정 예술적 스타일과 결합된 과학적 시각화를 처리하는 모델의 능력을 테스트합니다.
 
 #### 📝 프롬프트
 
 ```
-수직 해양 단면도를 배경으로 다양한 깊이의 심해 생물들이 아름다운 일본 애니메이션 스타일로 세밀하게 묘사된 포스터를 만들어 주세요.
+다양한 수심에 사는 심해 생물들을 수직 해양 단면으로 보여주는 포스터를 아름다운 일본 애니메이션 스타일로 세밀하게 그려주세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2551,7 +2551,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%88%98%EC%A7%81%20%ED%95%B4%EC%96%91%20%EB%8B%A8%EB%A9%B4%EB%8F%84%EB%A5%BC%20%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EA%B9%8A%EC%9D%B4%EC%9D%98%20%EC%8B%AC%ED%95%B4%20%EC%83%9D%EB%AC%BC%EB%93%A4%EC%9D%B4%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%9D%BC%EB%B3%B8%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EC%84%B8%EB%B0%80%ED%95%98%EA%B2%8C%20%EB%AC%98%EC%82%AC%EB%90%9C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%88%98%EC%8B%AC%EC%97%90%20%EC%82%AC%EB%8A%94%20%EC%8B%AC%ED%95%B4%20%EC%83%9D%EB%AC%BC%EB%93%A4%EC%9D%84%20%EC%88%98%EC%A7%81%20%ED%95%B4%EC%96%91%20%EB%8B%A8%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%9D%BC%EB%B3%B8%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EC%84%B8%EB%B0%80%ED%95%98%EA%B2%8C%20%EA%B7%B8%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94.)**
 
 ---
 
@@ -2568,44 +2568,44 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 ```
 {
   "camera_setup": {
-    "shot_type": "항공_오버헤드_관점",
-    "angle": "광각_파노라마_뷰",
-    "capture_device": "높이_띄운_드론_위치",
-    "visual_quality": "극사실주의_사진"
+    "shot_type": "항공 오버헤드 시점",
+    "angle": "광각 파노라마 뷰",
+    "capture_device": "높은 드론 위치",
+    "visual_quality": "극사실주의 사진"
   },
   "primary_subject": {
     "character": "산타클로스",
-    "scale": "거대한_비율",
-    "facial_features": "정확한_참조_유사성_유지",
-    "body_structure": "참조_해부학적_구조_보존",
+    "scale": "거대한 비율",
+    "facial_features": "정확한 참조 이미지와 동일하게 유지",
+    "body_structure": "참조 해부학적 구조 보존",
     "posture": {
-      "position": "도로에_편안하게_앉아_있음",
-      "leg_arrangement": "한쪽_무릎_세움",
-      "arm_placement": "손바닥을_무심하게_놓음"
+      "position": "도로에 편안하게 앉아 있음",
+      "leg_arrangement": "한쪽 무릎을 세움",
+      "arm_placement": "손바닥을 무심하게 내려놓음"
     }
   },
   "wardrobe": {
-    "outer_layer": "전통적인_진홍색_모피_장식_코트",
-    "mid_layer": "두툼한_케이블_니트_풀오버",
-    "lower_garment": "짙은_차콜_팬츠",
-    "footwear": "낡은_가죽_부츠",
-    "headpiece": "심플한_늘어진_겨울_모자"
+    "outer_layer": "전통적인 진홍색 모피 트리밍 코트",
+    "mid_layer": "두툼한 케이블 니트 풀오버",
+    "lower_garment": "짙은 차콜 팬츠",
+    "footwear": "낡은 가죽 부츠",
+    "headpiece": "심플한 슬라우치 겨울 모자"
   },
   "environment_setting": {
-    "location": "뉴욕_시_거리",
-    "architecture": "우뚝_솟은_유리_고층_빌딩과_브라운스톤_외관",
-    "street_furniture": "현대적인_가로등과_교통_신호등",
-    "pavement": "도시_아스팔트_격자"
+    "location": "뉴욕 시 거리",
+    "architecture": "높은 유리 마천루와 브라운스톤 외관",
+    "street_furniture": "현대적인 가로등과 교통 신호등",
+    "pavement": "도시 아스팔트 격자"
   },
   "scale_context": {
-    "vehicles": ["미니어처_노란색_택시", "소형_배달_트럭", "오토바이"],
-    "human_presence": "주변을_오가는_작은_보행자들",
-    "size_contrast": "인물에_비해_왜소해_보이는_건물들"
+    "vehicles": ["미니어처 노란색 택시", "소형 배달 트럭", "오토바이"],
+    "human_presence": "주변을 오가는 작은 보행자들",
+    "size_contrast": "인물에 비해 왜소해 보이는 건물들"
   },
   "atmospheric_conditions": {
-    "sky": "부드러운_구름_확산",
-    "time_indicator": "오후의_주변_빛",
-    "surface_texture": "반사되는_비에_젖은_땅"
+    "sky": "부드러운 구름 확산",
+    "time_indicator": "오후의 주변광",
+    "surface_texture": "반사되는 비에 젖은 지면"
   }
 }
 ```
@@ -2631,7 +2631,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%20%20%22camera_setup%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22%ED%95%AD%EA%B3%B5_%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C_%EA%B4%80%EC%A0%90%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%EA%B4%91%EA%B0%81_%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EB%B7%B0%22%2C%0A%20%20%20%20%22capture_device%22%3A%20%22%EB%86%92%EC%9D%B4_%EB%9D%84%EC%9A%B4_%EB%93%9C%EB%A1%A0_%EC%9C%84%EC%B9%98%22%2C%0A%20%20%20%20%22visual_quality%22%3A%20%22%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A3%BC%EC%9D%98_%EC%82%AC%EC%A7%84%22%0A%20%20%7D%2C%0A%20%20%22primary_subject%22%3A%20%7B%0A%20%20%20%20%22character%22%3A%20%22%EC%82%B0%ED%83%80%ED%81%B4%EB%A1%9C%EC%8A%A4%22%2C%0A%20%20%20%20%22scale%22%3A%20%22%EA%B1%B0%EB%8C%80%ED%95%9C_%EB%B9%84%EC%9C%A8%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22%EC%A0%95%ED%99%95%ED%95%9C_%EC%B0%B8%EC%A1%B0_%EC%9C%A0%EC%82%AC%EC%84%B1_%EC%9C%A0%EC%A7%80%22%2C%0A%20%20%20%20%22body_structure%22%3A%20%22%EC%B0%B8%EC%A1%B0_%ED%95%B4%EB%B6%80%ED%95%99%EC%A0%81_%EA%B5%AC%EC%A1%B0_%EB%B3%B4%EC%A1%B4%22%2C%0A%20%20%20%20%22posture%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%EB%8F%84%EB%A1%9C%EC%97%90_%ED%8E%B8%EC%95%88%ED%95%98%EA%B2%8C_%EC%95%89%EC%95%84_%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22leg_arrangement%22%3A%20%22%ED%95%9C%EC%AA%BD_%EB%AC%B4%EB%A6%8E_%EC%84%B8%EC%9B%80%22%2C%0A%20%20%20%20%20%20%22arm_placement%22%3A%20%22%EC%86%90%EB%B0%94%EB%8B%A5%EC%9D%84_%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C_%EB%86%93%EC%9D%8C%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outer_layer%22%3A%20%22%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8_%EC%A7%84%ED%99%8D%EC%83%89_%EB%AA%A8%ED%94%BC_%EC%9E%A5%EC%8B%9D_%EC%BD%94%ED%8A%B8%22%2C%0A%20%20%20%20%22mid_layer%22%3A%20%22%EB%91%90%ED%88%BC%ED%95%9C_%EC%BC%80%EC%9D%B4%EB%B8%94_%EB%8B%88%ED%8A%B8_%ED%92%80%EC%98%A4%EB%B2%84%22%2C%0A%20%20%20%20%22lower_garment%22%3A%20%22%EC%A7%99%EC%9D%80_%EC%B0%A8%EC%BD%9C_%ED%8C%AC%EC%B8%A0%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22%EB%82%A1%EC%9D%80_%EA%B0%80%EC%A3%BD_%EB%B6%80%EC%B8%A0%22%2C%0A%20%20%20%20%22headpiece%22%3A%20%22%EC%8B%AC%ED%94%8C%ED%95%9C_%EB%8A%98%EC%96%B4%EC%A7%84_%EA%B2%A8%EC%9A%B8_%EB%AA%A8%EC%9E%90%22%0A%20%20%7D%2C%0A%20%20%22environment_setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%EB%89%B4%EC%9A%95_%EC%8B%9C_%EA%B1%B0%EB%A6%AC%22%2C%0A%20%20%20%20%22architecture%22%3A%20%22%EC%9A%B0%EB%9A%9D_%EC%86%9F%EC%9D%80_%EC%9C%A0%EB%A6%AC_%EA%B3%A0%EC%B8%B5_%EB%B9%8C%EB%94%A9%EA%B3%BC_%EB%B8%8C%EB%9D%BC%EC%9A%B4%EC%8A%A4%ED%86%A4_%EC%99%B8%EA%B4%80%22%2C%0A%20%20%20%20%22street_furniture%22%3A%20%22%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8_%EA%B0%80%EB%A1%9C%EB%93%B1%EA%B3%BC_%EA%B5%90%ED%86%B5_%EC%8B%A0%ED%98%B8%EB%93%B1%22%2C%0A%20%20%20%20%22pavement%22%3A%20%22%EB%8F%84%EC%8B%9C_%EC%95%84%EC%8A%A4%ED%8C%94%ED%8A%B8_%EA%B2%A9%EC%9E%90%22%0A%20%20%7D%2C%0A%20%20%22scale_context%22%3A%20%7B%0A%20%20%20%20%22vehicles%22%3A%20%5B%22%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98_%EB%85%B8%EB%9E%80%EC%83%89_%ED%83%9D%EC%8B%9C%22%2C%20%22%EC%86%8C%ED%98%95_%EB%B0%B0%EB%8B%AC_%ED%8A%B8%EB%9F%AD%22%2C%20%22%EC%98%A4%ED%86%A0%EB%B0%94%EC%9D%B4%22%5D%2C%0A%20%20%20%20%22human_presence%22%3A%20%22%EC%A3%BC%EB%B3%80%EC%9D%84_%EC%98%A4%EA%B0%80%EB%8A%94_%EC%9E%91%EC%9D%80_%EB%B3%B4%ED%96%89%EC%9E%90%EB%93%A4%22%2C%0A%20%20%20%20%22size_contrast%22%3A%20%22%EC%9D%B8%EB%AC%BC%EC%97%90_%EB%B9%84%ED%95%B4_%EC%99%9C%EC%86%8C%ED%95%B4_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EA%B1%B4%EB%AC%BC%EB%93%A4%22%0A%20%20%7D%2C%0A%20%20%22atmospheric_conditions%22%3A%20%7B%0A%20%20%20%20%22sky%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4_%EA%B5%AC%EB%A6%84_%ED%99%95%EC%82%B0%22%2C%0A%20%20%20%20%22time_indicator%22%3A%20%22%EC%98%A4%ED%9B%84%EC%9D%98_%EC%A3%BC%EB%B3%80_%EB%B9%9B%22%2C%0A%20%20%20%20%22surface_texture%22%3A%20%22%EB%B0%98%EC%82%AC%EB%90%98%EB%8A%94_%EB%B9%84%EC%97%90_%EC%A0%96%EC%9D%80_%EB%95%85%22%0A%20%20%7D%0A%7D)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%20%20%22camera_setup%22%3A%20%7B%0A%20%20%20%20%22shot_type%22%3A%20%22%ED%95%AD%EA%B3%B5%20%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%20%EC%8B%9C%EC%A0%90%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%EA%B4%91%EA%B0%81%20%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88%20%EB%B7%B0%22%2C%0A%20%20%20%20%22capture_device%22%3A%20%22%EB%86%92%EC%9D%80%20%EB%93%9C%EB%A1%A0%20%EC%9C%84%EC%B9%98%22%2C%0A%20%20%20%20%22visual_quality%22%3A%20%22%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A3%BC%EC%9D%98%20%EC%82%AC%EC%A7%84%22%0A%20%20%7D%2C%0A%20%20%22primary_subject%22%3A%20%7B%0A%20%20%20%20%22character%22%3A%20%22%EC%82%B0%ED%83%80%ED%81%B4%EB%A1%9C%EC%8A%A4%22%2C%0A%20%20%20%20%22scale%22%3A%20%22%EA%B1%B0%EB%8C%80%ED%95%9C%20%EB%B9%84%EC%9C%A8%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22%EC%A0%95%ED%99%95%ED%95%9C%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%8F%99%EC%9D%BC%ED%95%98%EA%B2%8C%20%EC%9C%A0%EC%A7%80%22%2C%0A%20%20%20%20%22body_structure%22%3A%20%22%EC%B0%B8%EC%A1%B0%20%ED%95%B4%EB%B6%80%ED%95%99%EC%A0%81%20%EA%B5%AC%EC%A1%B0%20%EB%B3%B4%EC%A1%B4%22%2C%0A%20%20%20%20%22posture%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%EB%8F%84%EB%A1%9C%EC%97%90%20%ED%8E%B8%EC%95%88%ED%95%98%EA%B2%8C%20%EC%95%89%EC%95%84%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22leg_arrangement%22%3A%20%22%ED%95%9C%EC%AA%BD%20%EB%AC%B4%EB%A6%8E%EC%9D%84%20%EC%84%B8%EC%9B%80%22%2C%0A%20%20%20%20%20%20%22arm_placement%22%3A%20%22%EC%86%90%EB%B0%94%EB%8B%A5%EC%9D%84%20%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C%20%EB%82%B4%EB%A0%A4%EB%86%93%EC%9D%8C%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outer_layer%22%3A%20%22%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8%20%EC%A7%84%ED%99%8D%EC%83%89%20%EB%AA%A8%ED%94%BC%20%ED%8A%B8%EB%A6%AC%EB%B0%8D%20%EC%BD%94%ED%8A%B8%22%2C%0A%20%20%20%20%22mid_layer%22%3A%20%22%EB%91%90%ED%88%BC%ED%95%9C%20%EC%BC%80%EC%9D%B4%EB%B8%94%20%EB%8B%88%ED%8A%B8%20%ED%92%80%EC%98%A4%EB%B2%84%22%2C%0A%20%20%20%20%22lower_garment%22%3A%20%22%EC%A7%99%EC%9D%80%20%EC%B0%A8%EC%BD%9C%20%ED%8C%AC%EC%B8%A0%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22%EB%82%A1%EC%9D%80%20%EA%B0%80%EC%A3%BD%20%EB%B6%80%EC%B8%A0%22%2C%0A%20%20%20%20%22headpiece%22%3A%20%22%EC%8B%AC%ED%94%8C%ED%95%9C%20%EC%8A%AC%EB%9D%BC%EC%9A%B0%EC%B9%98%20%EA%B2%A8%EC%9A%B8%20%EB%AA%A8%EC%9E%90%22%0A%20%20%7D%2C%0A%20%20%22environment_setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%EB%89%B4%EC%9A%95%20%EC%8B%9C%20%EA%B1%B0%EB%A6%AC%22%2C%0A%20%20%20%20%22architecture%22%3A%20%22%EB%86%92%EC%9D%80%20%EC%9C%A0%EB%A6%AC%20%EB%A7%88%EC%B2%9C%EB%A3%A8%EC%99%80%20%EB%B8%8C%EB%9D%BC%EC%9A%B4%EC%8A%A4%ED%86%A4%20%EC%99%B8%EA%B4%80%22%2C%0A%20%20%20%20%22street_furniture%22%3A%20%22%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EA%B0%80%EB%A1%9C%EB%93%B1%EA%B3%BC%20%EA%B5%90%ED%86%B5%20%EC%8B%A0%ED%98%B8%EB%93%B1%22%2C%0A%20%20%20%20%22pavement%22%3A%20%22%EB%8F%84%EC%8B%9C%20%EC%95%84%EC%8A%A4%ED%8C%94%ED%8A%B8%20%EA%B2%A9%EC%9E%90%22%0A%20%20%7D%2C%0A%20%20%22scale_context%22%3A%20%7B%0A%20%20%20%20%22vehicles%22%3A%20%5B%22%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98%20%EB%85%B8%EB%9E%80%EC%83%89%20%ED%83%9D%EC%8B%9C%22%2C%20%22%EC%86%8C%ED%98%95%20%EB%B0%B0%EB%8B%AC%20%ED%8A%B8%EB%9F%AD%22%2C%20%22%EC%98%A4%ED%86%A0%EB%B0%94%EC%9D%B4%22%5D%2C%0A%20%20%20%20%22human_presence%22%3A%20%22%EC%A3%BC%EB%B3%80%EC%9D%84%20%EC%98%A4%EA%B0%80%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EB%B3%B4%ED%96%89%EC%9E%90%EB%93%A4%22%2C%0A%20%20%20%20%22size_contrast%22%3A%20%22%EC%9D%B8%EB%AC%BC%EC%97%90%20%EB%B9%84%ED%95%B4%20%EC%99%9C%EC%86%8C%ED%95%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B1%B4%EB%AC%BC%EB%93%A4%22%0A%20%20%7D%2C%0A%20%20%22atmospheric_conditions%22%3A%20%7B%0A%20%20%20%20%22sky%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EA%B5%AC%EB%A6%84%20%ED%99%95%EC%82%B0%22%2C%0A%20%20%20%20%22time_indicator%22%3A%20%22%EC%98%A4%ED%9B%84%EC%9D%98%20%EC%A3%BC%EB%B3%80%EA%B4%91%22%2C%0A%20%20%20%20%22surface_texture%22%3A%20%22%EB%B0%98%EC%82%AC%EB%90%98%EB%8A%94%20%EB%B9%84%EC%97%90%20%EC%A0%96%EC%9D%80%20%EC%A7%80%EB%A9%B4%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -2648,7 +2648,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 ```
 {
 "subject": "불교 승려",
-"prompt": "거칠고 바람 부는 산봉우리에서 깊은 명상에 잠긴 나이 든 불교 승려의 하이퍼리얼리스틱 풀샷. 낡은 사프란색과 적갈색 승복은 거친 직물 질감을 드러내고, 풍파에 시달린 평온한 얼굴은 눈을 감고 삭발한 머리를 하고 있으며, 손에는 염주가 들려 있습니다. 배경에는 구름 바다 위로 솟아오른 눈 덮인 웅장한 산맥이 펼쳐져 있고, 극적인 일출 골든 아워 조명이 긴 그림자를 드리우며 영화 같은 분위기를 연출합니다. 8K 해상도, 사실적인 사진, 걸작, 피부와 바위 질감의 극도로 섬세한 묘사.",
+"prompt": "거칠고 바람이 부는 산봉우리에서 깊은 명상에 잠겨 앉아 있는 나이 든 불교 승려의 하이퍼리얼리스틱 풀샷. 낡은 사프란색과 적갈색 승복은 거친 직물 질감을 드러내고, 풍화된 평온한 얼굴은 눈을 감고 삭발한 머리를 하고 있으며, 손에는 염주를 쥐고 있다. 배경에는 구름 바다 위로 솟아오른 눈 덮인 웅장한 산맥이 펼쳐져 있고, 극적인 일출 골든 아워 조명이 긴 그림자를 드리우며 영화 같은 분위기를 연출한다. 8K 해상도, 사실적인 사진, 명작, 피부와 바위 질감의 극도로 섬세한 묘사",
 "aspect_ratio": "9:16"
 }
 ```
@@ -2674,7 +2674,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%22subject%22%3A%20%22%EB%B6%88%EA%B5%90%20%EC%8A%B9%EB%A0%A4%22%2C%0A%22prompt%22%3A%20%22%EA%B1%B0%EC%B9%A0%EA%B3%A0%20%EB%B0%94%EB%9E%8C%20%EB%B6%80%EB%8A%94%20%EC%82%B0%EB%B4%89%EC%9A%B0%EB%A6%AC%EC%97%90%EC%84%9C%20%EA%B9%8A%EC%9D%80%20%EB%AA%85%EC%83%81%EC%97%90%20%EC%9E%A0%EA%B8%B4%20%EB%82%98%EC%9D%B4%20%EB%93%A0%20%EB%B6%88%EA%B5%90%20%EC%8A%B9%EB%A0%A4%EC%9D%98%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1%20%ED%92%80%EC%83%B7.%20%EB%82%A1%EC%9D%80%20%EC%82%AC%ED%94%84%EB%9E%80%EC%83%89%EA%B3%BC%20%EC%A0%81%EA%B0%88%EC%83%89%20%EC%8A%B9%EB%B3%B5%EC%9D%80%20%EA%B1%B0%EC%B9%9C%20%EC%A7%81%EB%AC%BC%20%EC%A7%88%EA%B0%90%EC%9D%84%20%EB%93%9C%EB%9F%AC%EB%82%B4%EA%B3%A0%2C%20%ED%92%8D%ED%8C%8C%EC%97%90%20%EC%8B%9C%EB%8B%AC%EB%A6%B0%20%ED%8F%89%EC%98%A8%ED%95%9C%20%EC%96%BC%EA%B5%B4%EC%9D%80%20%EB%88%88%EC%9D%84%20%EA%B0%90%EA%B3%A0%20%EC%82%AD%EB%B0%9C%ED%95%9C%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%86%90%EC%97%90%EB%8A%94%20%EC%97%BC%EC%A3%BC%EA%B0%80%20%EB%93%A4%EB%A0%A4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EA%B5%AC%EB%A6%84%20%EB%B0%94%EB%8B%A4%20%EC%9C%84%EB%A1%9C%20%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8%20%EB%88%88%20%EB%8D%AE%EC%9D%B8%20%EC%9B%85%EC%9E%A5%ED%95%9C%20%EC%82%B0%EB%A7%A5%EC%9D%B4%20%ED%8E%BC%EC%B3%90%EC%A0%B8%20%EC%9E%88%EA%B3%A0%2C%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%EC%9D%BC%EC%B6%9C%20%EA%B3%A8%EB%93%A0%20%EC%95%84%EC%9B%8C%20%EC%A1%B0%EB%AA%85%EC%9D%B4%20%EA%B8%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC%20%EB%93%9C%EB%A6%AC%EC%9A%B0%EB%A9%B0%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EC%97%B0%EC%B6%9C%ED%95%A9%EB%8B%88%EB%8B%A4.%208K%20%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%A7%84%2C%20%EA%B1%B8%EC%9E%91%2C%20%ED%94%BC%EB%B6%80%EC%99%80%20%EB%B0%94%EC%9C%84%20%EC%A7%88%EA%B0%90%EC%9D%98%20%EA%B7%B9%EB%8F%84%EB%A1%9C%20%EC%84%AC%EC%84%B8%ED%95%9C%20%EB%AC%98%EC%82%AC.%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%22%0A%7D)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7B%0A%22subject%22%3A%20%22%EB%B6%88%EA%B5%90%20%EC%8A%B9%EB%A0%A4%22%2C%0A%22prompt%22%3A%20%22%EA%B1%B0%EC%B9%A0%EA%B3%A0%20%EB%B0%94%EB%9E%8C%EC%9D%B4%20%EB%B6%80%EB%8A%94%20%EC%82%B0%EB%B4%89%EC%9A%B0%EB%A6%AC%EC%97%90%EC%84%9C%20%EA%B9%8A%EC%9D%80%20%EB%AA%85%EC%83%81%EC%97%90%20%EC%9E%A0%EA%B2%A8%20%EC%95%89%EC%95%84%20%EC%9E%88%EB%8A%94%20%EB%82%98%EC%9D%B4%20%EB%93%A0%20%EB%B6%88%EA%B5%90%20%EC%8A%B9%EB%A0%A4%EC%9D%98%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1%20%ED%92%80%EC%83%B7.%20%EB%82%A1%EC%9D%80%20%EC%82%AC%ED%94%84%EB%9E%80%EC%83%89%EA%B3%BC%20%EC%A0%81%EA%B0%88%EC%83%89%20%EC%8A%B9%EB%B3%B5%EC%9D%80%20%EA%B1%B0%EC%B9%9C%20%EC%A7%81%EB%AC%BC%20%EC%A7%88%EA%B0%90%EC%9D%84%20%EB%93%9C%EB%9F%AC%EB%82%B4%EA%B3%A0%2C%20%ED%92%8D%ED%99%94%EB%90%9C%20%ED%8F%89%EC%98%A8%ED%95%9C%20%EC%96%BC%EA%B5%B4%EC%9D%80%20%EB%88%88%EC%9D%84%20%EA%B0%90%EA%B3%A0%20%EC%82%AD%EB%B0%9C%ED%95%9C%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%86%90%EC%97%90%EB%8A%94%20%EC%97%BC%EC%A3%BC%EB%A5%BC%20%EC%A5%90%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EA%B5%AC%EB%A6%84%20%EB%B0%94%EB%8B%A4%20%EC%9C%84%EB%A1%9C%20%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8%20%EB%88%88%20%EB%8D%AE%EC%9D%B8%20%EC%9B%85%EC%9E%A5%ED%95%9C%20%EC%82%B0%EB%A7%A5%EC%9D%B4%20%ED%8E%BC%EC%B3%90%EC%A0%B8%20%EC%9E%88%EA%B3%A0%2C%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%EC%9D%BC%EC%B6%9C%20%EA%B3%A8%EB%93%A0%20%EC%95%84%EC%9B%8C%20%EC%A1%B0%EB%AA%85%EC%9D%B4%20%EA%B8%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC%20%EB%93%9C%EB%A6%AC%EC%9A%B0%EB%A9%B0%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EC%97%B0%EC%B6%9C%ED%95%9C%EB%8B%A4.%208K%20%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%A7%84%2C%20%EB%AA%85%EC%9E%91%2C%20%ED%94%BC%EB%B6%80%EC%99%80%20%EB%B0%94%EC%9C%84%20%EC%A7%88%EA%B0%90%EC%9D%98%20%EA%B7%B9%EB%8F%84%EB%A1%9C%20%EC%84%AC%EC%84%B8%ED%95%9C%20%EB%AC%98%EC%82%AC%22%2C%0A%22aspect_ratio%22%3A%20%229%3A16%22%0A%7D)**
 
 ---
 
@@ -2689,7 +2689,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 #### 📝 프롬프트
 
 ```
-이 사진을 마치 오늘날 고급 현대식 카메라로 찍은 것처럼 복원하고 개선해 주세요. 그런 다음 이 남자를 대머리로 만들어 주세요.
+이 사진을 마치 오늘날 고급 현대식 카메라로 촬영된 것처럼 복원하고 개선해 주세요. 그리고 이 남자를 대머리로 만들어 주세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2707,7 +2707,7 @@ GPT Image 1.5가 공중 시점에서 알아볼 수 있는 랜드마크를 생성
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EB%A7%88%EC%B9%98%20%EC%98%A4%EB%8A%98%EB%82%A0%20%EA%B3%A0%EA%B8%89%20%ED%98%84%EB%8C%80%EC%8B%9D%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C%20%EC%B0%8D%EC%9D%80%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B3%A0%20%EA%B0%9C%EC%84%A0%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B7%B8%EB%9F%B0%20%EB%8B%A4%EC%9D%8C%20%EC%9D%B4%20%EB%82%A8%EC%9E%90%EB%A5%BC%20%EB%8C%80%EB%A8%B8%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EB%A7%88%EC%B9%98%20%EC%98%A4%EB%8A%98%EB%82%A0%20%EA%B3%A0%EA%B8%89%20%ED%98%84%EB%8C%80%EC%8B%9D%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C%20%EC%B4%AC%EC%98%81%EB%90%9C%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B3%A0%20%EA%B0%9C%EC%84%A0%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%9D%B4%20%EB%82%A8%EC%9E%90%EB%A5%BC%20%EB%8C%80%EB%A8%B8%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
 
 ---
 
@@ -2747,7 +2747,6 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 ### No. 63: 일론 머스크와 샘 알트만의 양극화된 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
@@ -2756,7 +2755,7 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 #### 📝 프롬프트
 
 ```
-{argument name="person 1" default="Elon Musk"}와 {argument name="person 2" default="Sam Altman"}이 {argument name="headwear" default="크리스마스 모자"}를 쓰고 {argument name="drink" default="코카콜라"}를 마시는 양극화된 셀카 사진
+크리스마스 모자를 쓴 엘론 머스크와 샘 알트만이 코카콜라를 마시며 찍은 양극화된 셀카 사진
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2780,7 +2779,7 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22person%201%22%20default%3D%22Elon%20Musk%22%7D%EC%99%80%20%7Bargument%20name%3D%22person%202%22%20default%3D%22Sam%20Altman%22%7D%EC%9D%B4%20%7Bargument%20name%3D%22headwear%22%20default%3D%22%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%AA%A8%EC%9E%90%22%7D%EB%A5%BC%20%EC%93%B0%EA%B3%A0%20%7Bargument%20name%3D%22drink%22%20default%3D%22%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC%22%7D%EB%A5%BC%20%EB%A7%88%EC%8B%9C%EB%8A%94%20%EC%96%91%EA%B7%B9%ED%99%94%EB%90%9C%20%EC%85%80%EC%B9%B4%20%EC%82%AC%EC%A7%84)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%AA%A8%EC%9E%90%EB%A5%BC%20%EC%93%B4%20%EC%97%98%EB%A1%A0%20%EB%A8%B8%EC%8A%A4%ED%81%AC%EC%99%80%20%EC%83%98%20%EC%95%8C%ED%8A%B8%EB%A7%8C%EC%9D%B4%20%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC%EB%A5%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B0%20%EC%B0%8D%EC%9D%80%20%EC%96%91%EA%B7%B9%ED%99%94%EB%90%9C%20%EC%85%80%EC%B9%B4%20%EC%82%AC%EC%A7%84)**
 
 ---
 
@@ -2790,12 +2789,12 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 
 #### 📖 설명
 
-기존 콘텐츠를 매우 역동적이고 시각적으로 흥미로우며 가로 방향의 프레젠테이션 슬라이드로 변환하도록 AI 모델에 지시하는 메타 프롬프트로, 모델에게 원본 제약 조건을 넘어선 완전한 디자인 자유를 부여합니다.
+기존 콘텐츠를 매우 역동적이고 시각적으로 흥미로우며 가로 방향의 프레젠테이션 슬라이드로 변환하도록 AI 모델에 지시하는 메타 프롬프트로, 원본 제약 조건을 넘어 모델에 완전한 디자인 자유를 부여합니다.
 
 #### 📝 프롬프트
 
 ```
-이 내용을 시각적으로 멋진 슬라이드로 만들어 주세요. 가로 방향으로 제작하고, 디자인은 전적으로 자유롭게 하세요. 이 슬라이드의 모든 요소 배치에 얽매일 필요는 없습니다. 표시된 차트 유형에 구애받을 필요도 없습니다. 내용을 살펴보고 흥미롭고 역동적이며 시각적으로 매력적인 방식으로 시각화할 방법을 찾아내세요.
+이 내용을 시각적으로 멋진 슬라이드로 만들어 주세요. 결과물은 가로 방향이어야 합니다. 디자인은 전적으로 자유롭게 하세요. 이 슬라이드의 모든 요소 배치에 얽매일 필요는 없습니다. 표시된 차트 유형에 얽매일 필요도 없습니다. 내용을 보고 흥미롭고 역동적이며 시각적으로 매력적인 방식으로 시각화할 방법을 생각해 보세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2813,7 +2812,7 @@ ChatGPT 이미지 1.5로 인포그래픽 만들기
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%20%EB%82%B4%EC%9A%A9%EC%9D%84%20%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A9%8B%EC%A7%84%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B0%80%EB%A1%9C%20%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C%20%EC%A0%9C%EC%9E%91%ED%95%98%EA%B3%A0%2C%20%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%80%20%EC%A0%84%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C%20%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%9D%B4%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%9A%94%EC%86%8C%20%EB%B0%B0%EC%B9%98%EC%97%90%20%EC%96%BD%EB%A7%A4%EC%9D%BC%20%ED%95%84%EC%9A%94%EB%8A%94%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%91%9C%EC%8B%9C%EB%90%9C%20%EC%B0%A8%ED%8A%B8%20%EC%9C%A0%ED%98%95%EC%97%90%20%EA%B5%AC%EC%95%A0%EB%B0%9B%EC%9D%84%20%ED%95%84%EC%9A%94%EB%8F%84%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%82%B4%EC%9A%A9%EC%9D%84%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B3%A0%20%ED%9D%A5%EB%AF%B8%EB%A1%AD%EA%B3%A0%20%EC%97%AD%EB%8F%99%EC%A0%81%EC%9D%B4%EB%A9%B0%20%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%A0%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%B0%BE%EC%95%84%EB%82%B4%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%20%EB%82%B4%EC%9A%A9%EC%9D%84%20%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A9%8B%EC%A7%84%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%80%20%EA%B0%80%EB%A1%9C%20%EB%B0%A9%ED%96%A5%EC%9D%B4%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%80%20%EC%A0%84%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C%20%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%9D%B4%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%9A%94%EC%86%8C%20%EB%B0%B0%EC%B9%98%EC%97%90%20%EC%96%BD%EB%A7%A4%EC%9D%BC%20%ED%95%84%EC%9A%94%EB%8A%94%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%91%9C%EC%8B%9C%EB%90%9C%20%EC%B0%A8%ED%8A%B8%20%EC%9C%A0%ED%98%95%EC%97%90%20%EC%96%BD%EB%A7%A4%EC%9D%BC%20%ED%95%84%EC%9A%94%EB%8F%84%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%82%B4%EC%9A%A9%EC%9D%84%20%EB%B3%B4%EA%B3%A0%20%ED%9D%A5%EB%AF%B8%EB%A1%AD%EA%B3%A0%20%EC%97%AD%EB%8F%99%EC%A0%81%EC%9D%B4%EB%A9%B0%20%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%A0%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%83%9D%EA%B0%81%ED%95%B4%20%EB%B3%B4%EC%84%B8%EC%9A%94.)**
 
 ---
 
@@ -2906,7 +2905,7 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 특정 
 #### 📝 프롬프트
 
 ```
-사이버펑크 2077의 키아누 리브스로 만들어 줘
+사이버펑크 2077의 키아누 리브스로 만들어 주세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2924,7 +2923,7 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 특정 
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%82%AC%EC%9D%B4%EB%B2%84%ED%8E%91%ED%81%AC%202077%EC%9D%98%20%ED%82%A4%EC%95%84%EB%88%84%20%EB%A6%AC%EB%B8%8C%EC%8A%A4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A4%98)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%82%AC%EC%9D%B4%EB%B2%84%ED%8E%91%ED%81%AC%202077%EC%9D%98%20%ED%82%A4%EC%95%84%EB%88%84%20%EB%A6%AC%EB%B8%8C%EC%8A%A4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
 
 ---
 
@@ -2935,12 +2934,12 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 특정 
 
 #### 📖 설명
 
-강력한 디자인 요소와 특정 화면 비율에 초점을 맞춰 Nike를 위한 깔끔한 Apple 스타일 웹사이트 디자인을 요청하는 프롬프트.
+나이키 웹사이트 디자인을 Apple 스타일로 깔끔하게 요청하는 프롬프트로, 강력한 디자인 요소와 특정 화면 비율에 중점을 둡니다.
 
 #### 📝 프롬프트
 
 ```
-강력한 디자인의 관련 요소를 4:5 화면 비율로 배치하여 {argument name="brand" default="nike"}를 위한 Apple 스타일의 깔끔한 웹사이트를 만드세요.
+{argument name="brand" default="nike"}를 위한 Apple 스타일의 깔끔한 웹사이트를 제작하세요. 4:5 화면 비율의 강력한 디자인과 관련 요소를 배치합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2964,7 +2963,7 @@ GPT Image 1.5가 원본 이미지의 아트 스타일을 유지하면서 특정 
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EA%B0%95%EB%A0%A5%ED%95%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98%20%EA%B4%80%EB%A0%A8%20%EC%9A%94%EC%86%8C%EB%A5%BC%204%3A5%20%ED%99%94%EB%A9%B4%20%EB%B9%84%EC%9C%A8%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EC%97%AC%20%7Bargument%20name%3D%22brand%22%20default%3D%22nike%22%7D%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Apple%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22brand%22%20default%3D%22nike%22%7D%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Apple%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EC%A0%9C%EC%9E%91%ED%95%98%EC%84%B8%EC%9A%94.%204%3A5%20%ED%99%94%EB%A9%B4%20%EB%B9%84%EC%9C%A8%EC%9D%98%20%EA%B0%95%EB%A0%A5%ED%95%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EA%B4%80%EB%A0%A8%20%EC%9A%94%EC%86%8C%EB%A5%BC%20%EB%B0%B0%EC%B9%98%ED%95%A9%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -3053,7 +3052,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 #### 📖 설명
 
-두 AI 모델 간의 특정 비교 내용이 헤드라인에 명확하게 적힌 신문을 들고 있는 사람의 이미지를 생성하는 간단한 프롬프트.
+두 AI 모델 간의 특정 비교가 헤드라인에 명확하게 나와 있는, 신문을 들고 있는 사람의 이미지를 생성하는 간단한 프롬프트.
 
 #### 📝 프롬프트
 
@@ -3093,12 +3092,12 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 #### 📖 설명
 
-의회에서 극도로 지루해하는 두 명의 라이벌 인도 정치인과 지쳐 보이는 개 한 마리가 함께 있는 이미지를 2000년대 초반 필름 카메라 미학으로 렌더링해 달라는 창의적인 프롬프트.
+2000년대 초반 필름 카메라 미학으로 렌더링된, 의회에서 극도로 지루해하는 두 명의 라이벌 인도 정치인과 지쳐 보이는 개 한 마리의 이미지를 요청하는 창의적인 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-"피곤한 개와 함께 의회에서 극도로 지루해 보이는 두 명의 라이벌 {argument name="nationality" default="indian"} 정치인, 2000년대 초반 필름 카메라 스타일"
+피곤한 개와 함께 의회에서 극도로 지루해 보이는 두 명의 라이벌 {argument name="nationality" default="indian"} 정치인, 2000년대 초반 필름 카메라 스타일
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3122,7 +3121,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%22%ED%94%BC%EA%B3%A4%ED%95%9C%20%EA%B0%9C%EC%99%80%20%ED%95%A8%EA%BB%98%20%EC%9D%98%ED%9A%8C%EC%97%90%EC%84%9C%20%EA%B7%B9%EB%8F%84%EB%A1%9C%20%EC%A7%80%EB%A3%A8%ED%95%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EB%91%90%20%EB%AA%85%EC%9D%98%20%EB%9D%BC%EC%9D%B4%EB%B2%8C%20%7Bargument%20name%3D%22nationality%22%20default%3D%22indian%22%7D%20%EC%A0%95%EC%B9%98%EC%9D%B8%2C%202000%EB%85%84%EB%8C%80%20%EC%B4%88%EB%B0%98%20%ED%95%84%EB%A6%84%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%8A%A4%ED%83%80%EC%9D%BC%22)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%ED%94%BC%EA%B3%A4%ED%95%9C%20%EA%B0%9C%EC%99%80%20%ED%95%A8%EA%BB%98%20%EC%9D%98%ED%9A%8C%EC%97%90%EC%84%9C%20%EA%B7%B9%EB%8F%84%EB%A1%9C%20%EC%A7%80%EB%A3%A8%ED%95%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EB%91%90%20%EB%AA%85%EC%9D%98%20%EB%9D%BC%EC%9D%B4%EB%B2%8C%20%7Bargument%20name%3D%22nationality%22%20default%3D%22indian%22%7D%20%EC%A0%95%EC%B9%98%EC%9D%B8%2C%202000%EB%85%84%EB%8C%80%20%EC%B4%88%EB%B0%98%20%ED%95%84%EB%A6%84%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%8A%A4%ED%83%80%EC%9D%BC)**
 
 ---
 
@@ -3132,12 +3131,12 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 #### 📖 설명
 
-집고양이의 극사실적인 이미지를 생성하는 데 초점을 맞춘 매우 상세한 프롬프트로, 털 질감, 눈 반사, 피부 결점과 같은 미세한 디테일, 카메라 설정(85mm 렌즈, f/1.8), 조명 등을 지정하여 어떤 스타일링도 없이 스튜디오 품질의 사실감을 구현합니다.
+털 질감, 눈동자 반사, 피부 결점과 같은 미세한 디테일, 카메라 설정(85mm 렌즈, f/1.8), 조명까지 지정하여 어떤 스타일링도 없이 스튜디오 품질의 사실감을 구현하는, 집고양이의 초고화질 실사 이미지를 생성하는 데 중점을 둔 매우 상세한 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-집고양이의 극사실적인 사진. 털 한 가닥 한 가닥이 보이는 매우 섬세한 털 질감, 날카로운 수염, 자연스러운 눈 반사, 미묘한 불완전함이 특징입니다. 고양이는 사실적인 깊이와 촉촉함을 가진 표현력 있는 눈, 코와 귀 주변의 섬세한 피부 디테일, 창문에서 들어오는 부드럽고 자연스러운 조명을 가지고 있습니다. 풀프레임 DSLR 카메라, 85mm 렌즈, f/1.8, 얕은 피사계 심도, 시네마틱 보케 배경으로 촬영되었습니다. 실제와 같은 색상, 높은 다이내믹 레인지, 사실적인 그림자, 8K 해상도, 스튜디오 품질의 사실감, 스타일화 없음, 만화 아님, CGI 아님.
+집고양이의 극사실적인 사진. 털 한 가닥 한 가닥이 보이는 매우 섬세한 털 질감, 선명한 수염, 자연스러운 눈 반사, 미묘한 불완전함이 특징입니다. 고양이는 사실적인 깊이와 촉촉함을 가진 표현력 있는 눈, 코와 귀 주변의 섬세한 피부 디테일, 창문에서 들어오는 부드럽고 자연스러운 조명을 가지고 있습니다. 풀프레임 DSLR 카메라, 85mm 렌즈, f/1.8, 얕은 피사계 심도, 시네마틱 보케 배경으로 촬영되었습니다. 실제와 같은 색상, 높은 다이내믹 레인지, 사진처럼 사실적인 그림자, 8K 해상도, 스튜디오 품질의 사실감, 스타일화 없음, 만화 아님, CGI 아님.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3161,7 +3160,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%A7%91%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%A7%84.%20%ED%84%B8%20%ED%95%9C%20%EA%B0%80%EB%8B%A5%20%ED%95%9C%20%EA%B0%80%EB%8B%A5%EC%9D%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EB%A7%A4%EC%9A%B0%20%EC%84%AC%EC%84%B8%ED%95%9C%20%ED%84%B8%20%EC%A7%88%EA%B0%90%2C%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EC%88%98%EC%97%BC%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%88%88%20%EB%B0%98%EC%82%AC%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EB%B6%88%EC%99%84%EC%A0%84%ED%95%A8%EC%9D%B4%20%ED%8A%B9%EC%A7%95%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EA%B3%A0%EC%96%91%EC%9D%B4%EB%8A%94%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EA%B9%8A%EC%9D%B4%EC%99%80%20%EC%B4%89%EC%B4%89%ED%95%A8%EC%9D%84%20%EA%B0%80%EC%A7%84%20%ED%91%9C%ED%98%84%EB%A0%A5%20%EC%9E%88%EB%8A%94%20%EB%88%88%2C%20%EC%BD%94%EC%99%80%20%EA%B7%80%20%EC%A3%BC%EB%B3%80%EC%9D%98%20%EC%84%AC%EC%84%B8%ED%95%9C%20%ED%94%BC%EB%B6%80%20%EB%94%94%ED%85%8C%EC%9D%BC%2C%20%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C%20%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%A1%B0%EB%AA%85%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%92%80%ED%94%84%EB%A0%88%EC%9E%84%20DSLR%20%EC%B9%B4%EB%A9%94%EB%9D%BC%2C%2085mm%20%EB%A0%8C%EC%A6%88%2C%20f%2F1.8%2C%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%2C%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EB%B3%B4%EC%BC%80%20%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C%20%EC%B4%AC%EC%98%81%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%8B%A4%EC%A0%9C%EC%99%80%20%EA%B0%99%EC%9D%80%20%EC%83%89%EC%83%81%2C%20%EB%86%92%EC%9D%80%20%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9%20%EB%A0%88%EC%9D%B8%EC%A7%80%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EA%B7%B8%EB%A6%BC%EC%9E%90%2C%208K%20%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%92%88%EC%A7%88%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B0%90%2C%20%EC%8A%A4%ED%83%80%EC%9D%BC%ED%99%94%20%EC%97%86%EC%9D%8C%2C%20%EB%A7%8C%ED%99%94%20%EC%95%84%EB%8B%98%2C%20CGI%20%EC%95%84%EB%8B%98.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%A7%91%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%A7%84.%20%ED%84%B8%20%ED%95%9C%20%EA%B0%80%EB%8B%A5%20%ED%95%9C%20%EA%B0%80%EB%8B%A5%EC%9D%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EB%A7%A4%EC%9A%B0%20%EC%84%AC%EC%84%B8%ED%95%9C%20%ED%84%B8%20%EC%A7%88%EA%B0%90%2C%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EC%88%98%EC%97%BC%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%88%88%20%EB%B0%98%EC%82%AC%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EB%B6%88%EC%99%84%EC%A0%84%ED%95%A8%EC%9D%B4%20%ED%8A%B9%EC%A7%95%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EA%B3%A0%EC%96%91%EC%9D%B4%EB%8A%94%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EA%B9%8A%EC%9D%B4%EC%99%80%20%EC%B4%89%EC%B4%89%ED%95%A8%EC%9D%84%20%EA%B0%80%EC%A7%84%20%ED%91%9C%ED%98%84%EB%A0%A5%20%EC%9E%88%EB%8A%94%20%EB%88%88%2C%20%EC%BD%94%EC%99%80%20%EA%B7%80%20%EC%A3%BC%EB%B3%80%EC%9D%98%20%EC%84%AC%EC%84%B8%ED%95%9C%20%ED%94%BC%EB%B6%80%20%EB%94%94%ED%85%8C%EC%9D%BC%2C%20%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C%20%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%A1%B0%EB%AA%85%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%92%80%ED%94%84%EB%A0%88%EC%9E%84%20DSLR%20%EC%B9%B4%EB%A9%94%EB%9D%BC%2C%2085mm%20%EB%A0%8C%EC%A6%88%2C%20f%2F1.8%2C%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%2C%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EB%B3%B4%EC%BC%80%20%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C%20%EC%B4%AC%EC%98%81%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%8B%A4%EC%A0%9C%EC%99%80%20%EA%B0%99%EC%9D%80%20%EC%83%89%EC%83%81%2C%20%EB%86%92%EC%9D%80%20%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9%20%EB%A0%88%EC%9D%B8%EC%A7%80%2C%20%EC%82%AC%EC%A7%84%EC%B2%98%EB%9F%BC%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EA%B7%B8%EB%A6%BC%EC%9E%90%2C%208K%20%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%ED%92%88%EC%A7%88%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B0%90%2C%20%EC%8A%A4%ED%83%80%EC%9D%BC%ED%99%94%20%EC%97%86%EC%9D%8C%2C%20%EB%A7%8C%ED%99%94%20%EC%95%84%EB%8B%98%2C%20CGI%20%EC%95%84%EB%8B%98.)**
 
 ---
 
@@ -3171,12 +3170,12 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 
 #### 📖 설명
 
-아이폰의 분해도 기술 일러스트레이션을 생성하기 위한 상세 프롬프트입니다. 모든 내부 부품의 정밀한 정렬, 기술 주석, 등각 투영 공학적 관점, 그리고 금속 및 유리 부품에 대한 사실적인 질감이 필요합니다.
+아이폰의 분해도를 기술적으로 묘사하는 상세한 프롬프트입니다. 모든 내부 부품의 정밀한 정렬, 기술적 주석, 등각 투영 공학적 관점, 그리고 금속 및 유리 부품의 사실적인 질감이 필요합니다.
 
 #### 📝 프롬프트
 
 ```
-아이폰의 모든 내부 부품이 분리되어 정렬된 상태로 떠 있는 고도로 상세한 분해도 기술 다이어그램. 상단에는 디스플레이 화면, 중앙에는 A 시리즈 칩이 있는 로직 보드, 배터리 팩, 렌즈가 있는 카메라 모듈, Lightning 포트 커넥터, 스피커 그릴, 안테나 밴드, 유리 후면 패널, 알루미늄 프레임, 작은 나사 및 커넥터가 표시되어 있다. 각 부품에는 기술 주석과 측정선이 라벨링되어 있으며, 깔끔한 흰색 배경에 등각 투영 공학적 관점, 미묘한 그리드가 있는 청사진 스타일, 전문적인 기술 일러스트레이션, 금속 및 유리 질감의 사실적인 구성 요소, 수술적 정밀 레이아웃, 현대적인 산업 디자인 미학, 8k 디테일로 표현되었다.
+아이폰의 모든 내부 부품들이 분리되어 정밀하게 정렬된 채 떠 있는 모습을 보여주는 매우 상세한 분해도 기술 다이어그램. 상단에는 디스플레이 화면, 중앙에는 A 시리즈 칩이 있는 로직 보드, 배터리 팩, 렌즈가 있는 카메라 모듈, Lightning 포트 커넥터, 스피커 그릴, 안테나 밴드, 유리 후면 패널, 알루미늄 프레임, 작은 나사 및 커넥터가 있다. 각 부품에는 기술 주석과 측정선이 표시되어 있으며, 깨끗한 흰색 배경에 등각 투영 공학적 관점, 미묘한 그리드가 있는 청사진 스타일, 전문적인 기술 일러스트레이션, 금속 및 유리 질감의 사실적인 부품, 수술적 정밀 레이아웃, 현대적인 산업 디자인 미학, 8k 디테일로 표현되었다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3200,7 +3199,7 @@ GPT Image 1.5의 이미지 편집 기능을 테스트하는 데 사용된 간단
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%95%84%EC%9D%B4%ED%8F%B0%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EB%82%B4%EB%B6%80%20%EB%B6%80%ED%92%88%EC%9D%B4%20%EB%B6%84%EB%A6%AC%EB%90%98%EC%96%B4%20%EC%A0%95%EB%A0%AC%EB%90%9C%20%EC%83%81%ED%83%9C%EB%A1%9C%20%EB%96%A0%20%EC%9E%88%EB%8A%94%20%EA%B3%A0%EB%8F%84%EB%A1%9C%20%EC%83%81%EC%84%B8%ED%95%9C%20%EB%B6%84%ED%95%B4%EB%8F%84%20%EA%B8%B0%EC%88%A0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.%20%EC%83%81%EB%8B%A8%EC%97%90%EB%8A%94%20%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4%20%ED%99%94%EB%A9%B4%2C%20%EC%A4%91%EC%95%99%EC%97%90%EB%8A%94%20A%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B9%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%A1%9C%EC%A7%81%20%EB%B3%B4%EB%93%9C%2C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%ED%8C%A9%2C%20%EB%A0%8C%EC%A6%88%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EB%AA%A8%EB%93%88%2C%20Lightning%20%ED%8F%AC%ED%8A%B8%20%EC%BB%A4%EB%84%A5%ED%84%B0%2C%20%EC%8A%A4%ED%94%BC%EC%BB%A4%20%EA%B7%B8%EB%A6%B4%2C%20%EC%95%88%ED%85%8C%EB%82%98%20%EB%B0%B4%EB%93%9C%2C%20%EC%9C%A0%EB%A6%AC%20%ED%9B%84%EB%A9%B4%20%ED%8C%A8%EB%84%90%2C%20%EC%95%8C%EB%A3%A8%EB%AF%B8%EB%8A%84%20%ED%94%84%EB%A0%88%EC%9E%84%2C%20%EC%9E%91%EC%9D%80%20%EB%82%98%EC%82%AC%20%EB%B0%8F%20%EC%BB%A4%EB%84%A5%ED%84%B0%EA%B0%80%20%ED%91%9C%EC%8B%9C%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8B%A4.%20%EA%B0%81%20%EB%B6%80%ED%92%88%EC%97%90%EB%8A%94%20%EA%B8%B0%EC%88%A0%20%EC%A3%BC%EC%84%9D%EA%B3%BC%20%EC%B8%A1%EC%A0%95%EC%84%A0%EC%9D%B4%20%EB%9D%BC%EB%B2%A8%EB%A7%81%EB%90%98%EC%96%B4%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B9%94%EB%81%94%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%93%B1%EA%B0%81%20%ED%88%AC%EC%98%81%20%EA%B3%B5%ED%95%99%EC%A0%81%20%EA%B4%80%EC%A0%90%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%B2%AD%EC%82%AC%EC%A7%84%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%A0%84%EB%AC%B8%EC%A0%81%EC%9D%B8%20%EA%B8%B0%EC%88%A0%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EA%B8%88%EC%86%8D%20%EB%B0%8F%20%EC%9C%A0%EB%A6%AC%20%EC%A7%88%EA%B0%90%EC%9D%98%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EC%84%B1%20%EC%9A%94%EC%86%8C%2C%20%EC%88%98%EC%88%A0%EC%A0%81%20%EC%A0%95%EB%B0%80%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%2C%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%82%B0%EC%97%85%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%AF%B8%ED%95%99%2C%208k%20%EB%94%94%ED%85%8C%EC%9D%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%EB%90%98%EC%97%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%95%84%EC%9D%B4%ED%8F%B0%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EB%82%B4%EB%B6%80%20%EB%B6%80%ED%92%88%EB%93%A4%EC%9D%B4%20%EB%B6%84%EB%A6%AC%EB%90%98%EC%96%B4%20%EC%A0%95%EB%B0%80%ED%95%98%EA%B2%8C%20%EC%A0%95%EB%A0%AC%EB%90%9C%20%EC%B1%84%20%EB%96%A0%20%EC%9E%88%EB%8A%94%20%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EB%A7%A4%EC%9A%B0%20%EC%83%81%EC%84%B8%ED%95%9C%20%EB%B6%84%ED%95%B4%EB%8F%84%20%EA%B8%B0%EC%88%A0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.%20%EC%83%81%EB%8B%A8%EC%97%90%EB%8A%94%20%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4%20%ED%99%94%EB%A9%B4%2C%20%EC%A4%91%EC%95%99%EC%97%90%EB%8A%94%20A%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EC%B9%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%A1%9C%EC%A7%81%20%EB%B3%B4%EB%93%9C%2C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%ED%8C%A9%2C%20%EB%A0%8C%EC%A6%88%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EB%AA%A8%EB%93%88%2C%20Lightning%20%ED%8F%AC%ED%8A%B8%20%EC%BB%A4%EB%84%A5%ED%84%B0%2C%20%EC%8A%A4%ED%94%BC%EC%BB%A4%20%EA%B7%B8%EB%A6%B4%2C%20%EC%95%88%ED%85%8C%EB%82%98%20%EB%B0%B4%EB%93%9C%2C%20%EC%9C%A0%EB%A6%AC%20%ED%9B%84%EB%A9%B4%20%ED%8C%A8%EB%84%90%2C%20%EC%95%8C%EB%A3%A8%EB%AF%B8%EB%8A%84%20%ED%94%84%EB%A0%88%EC%9E%84%2C%20%EC%9E%91%EC%9D%80%20%EB%82%98%EC%82%AC%20%EB%B0%8F%20%EC%BB%A4%EB%84%A5%ED%84%B0%EA%B0%80%20%EC%9E%88%EB%8B%A4.%20%EA%B0%81%20%EB%B6%80%ED%92%88%EC%97%90%EB%8A%94%20%EA%B8%B0%EC%88%A0%20%EC%A3%BC%EC%84%9D%EA%B3%BC%20%EC%B8%A1%EC%A0%95%EC%84%A0%EC%9D%B4%20%ED%91%9C%EC%8B%9C%EB%90%98%EC%96%B4%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B9%A8%EB%81%97%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%93%B1%EA%B0%81%20%ED%88%AC%EC%98%81%20%EA%B3%B5%ED%95%99%EC%A0%81%20%EA%B4%80%EC%A0%90%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%B2%AD%EC%82%AC%EC%A7%84%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%A0%84%EB%AC%B8%EC%A0%81%EC%9D%B8%20%EA%B8%B0%EC%88%A0%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EA%B8%88%EC%86%8D%20%EB%B0%8F%20%EC%9C%A0%EB%A6%AC%20%EC%A7%88%EA%B0%90%EC%9D%98%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%B6%80%ED%92%88%2C%20%EC%88%98%EC%88%A0%EC%A0%81%20%EC%A0%95%EB%B0%80%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%2C%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%82%B0%EC%97%85%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%AF%B8%ED%95%99%2C%208k%20%EB%94%94%ED%85%8C%EC%9D%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%EB%90%98%EC%97%88%EB%8B%A4.)**
 
 ---
 
@@ -3237,7 +3236,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 76: GPT Image 1.5의 다인원 기능 유지 테스트
+### No. 76: GPT 이미지 1.5의 다중 인물 기능 유지 테스트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3249,7 +3248,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 #### 📝 프롬프트
 
 ```
-어안 렌즈 앞에서 단체 사진을 찍기 위해 과장된 자세를 취하는 {argument name="number of people" default="10"} 명의 사람들, 배경에는 시상식이 있습니다.
+어안 렌즈 앞에서 단체 사진을 위해 과장된 포즈를 취하는 {argument name="number of people" default="10"} 명의 사람들, 배경에는 시상식이 있습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3257,7 +3256,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949128215_48sy3j_G8UKf2absAAoEsO.jpg" width="600" alt="GPT Image 1.5의 다인원 기능 유지 테스트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949128215_48sy3j_G8UKf2absAAoEsO.jpg" width="600" alt="GPT 이미지 1.5의 다중 인물 기능 유지 테스트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3267,7 +3266,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** zh
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%96%B4%EC%95%88%20%EB%A0%8C%EC%A6%88%20%EC%95%9E%EC%97%90%EC%84%9C%20%EB%8B%A8%EC%B2%B4%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EC%B0%8D%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EA%B3%BC%EC%9E%A5%EB%90%9C%20%EC%9E%90%EC%84%B8%EB%A5%BC%20%EC%B7%A8%ED%95%98%EB%8A%94%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%2210%22%7D%20%EB%AA%85%EC%9D%98%20%EC%82%AC%EB%9E%8C%EB%93%A4%2C%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%8B%9C%EC%83%81%EC%8B%9D%EC%9D%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%96%B4%EC%95%88%20%EB%A0%8C%EC%A6%88%20%EC%95%9E%EC%97%90%EC%84%9C%20%EB%8B%A8%EC%B2%B4%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EA%B3%BC%EC%9E%A5%EB%90%9C%20%ED%8F%AC%EC%A6%88%EB%A5%BC%20%EC%B7%A8%ED%95%98%EB%8A%94%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%2210%22%7D%20%EB%AA%85%EC%9D%98%20%EC%82%AC%EB%9E%8C%EB%93%A4%2C%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%8B%9C%EC%83%81%EC%8B%9D%EC%9D%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -3277,7 +3276,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 #### 📖 설명
 
-호기심 많은 고양이가 가을 낙엽 더미에서 빼꼼히 내다보는 모습을 묘사하는 간단한 텍스트-이미지 프롬프트로, GPT Image 1.5의 일반적인 이미지 생성 능력을 테스트하는 데 사용되었을 것으로 보입니다.
+호기심 많은 고양이가 가을 낙엽 더미에서 빼꼼히 내다보는 모습을 묘사하는 간단한 텍스트-이미지 프롬프트로, GPT Image 1.5의 일반적인 이미지 생성 능력을 테스트하는 데 사용되었을 가능성이 높습니다.
 
 #### 📝 프롬프트
 
@@ -3310,12 +3309,12 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 #### 📖 설명
 
-복잡한 텍스트와 다이어그램을 정확하게 렌더링하는 모델의 능력을 테스트하기 위해 고안된 프롬프트로, 이는 이미지 생성 모델에게는 종종 어려운 과제입니다. 프롬프트 텍스트는 첨부된 스크린샷에서 확인할 수 있습니다.
+복잡한 텍스트와 다이어그램을 정확하게 렌더링하는 모델의 능력을 테스트하기 위해 고안된 프롬프트로, 이는 이미지 생성 모델에게 종종 어려운 과제입니다. 프롬프트 텍스트는 첨부된 스크린샷에서 확인할 수 있습니다.
 
 #### 📝 프롬프트
 
 ```
-양자 얽힘 이론을 상세한 텍스트 라벨과 방정식, 사실적인 렌더링으로 설명하는 복잡한 다이어그램.
+양자 얽힘 이론을 상세한 텍스트 레이블과 방정식, 사실적인 렌더링으로 설명하는 복잡한 다이어그램.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3339,7 +3338,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%96%91%EC%9E%90%20%EC%96%BD%ED%9E%98%20%EC%9D%B4%EB%A1%A0%EC%9D%84%20%EC%83%81%EC%84%B8%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%9D%BC%EB%B2%A8%EA%B3%BC%20%EB%B0%A9%EC%A0%95%EC%8B%9D%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%96%91%EC%9E%90%20%EC%96%BD%ED%9E%98%20%EC%9D%B4%EB%A1%A0%EC%9D%84%20%EC%83%81%EC%84%B8%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A0%88%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EB%B0%A9%EC%A0%95%EC%8B%9D%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.)**
 
 ---
 
@@ -3388,7 +3387,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 ---
 
-### No. 80: 그리드 이미지에서 스틸 이미지 추출하기
+### No. 80: 그리드 이미지에서 스틸 추출하기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3407,13 +3406,13 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948216407_nf7ncp_G8UAfCAWkAMOyAB.jpg" width="600" alt="그리드 이미지에서 스틸 이미지 추출하기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948216407_nf7ncp_G8UAfCAWkAMOyAB.jpg" width="600" alt="그리드 이미지에서 스틸 추출하기 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948216405_53uxav_G8UAbM2XQAgQgch.jpg" width="600" alt="그리드 이미지에서 스틸 이미지 추출하기 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948216405_53uxav_G8UAbM2XQAgQgch.jpg" width="600" alt="그리드 이미지에서 스틸 추출하기 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3439,7 +3438,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 #### 📝 프롬프트
 
 ```
-삼각형 모양의 {argument name="animal" default="bird"}가 잡혀서 요리되는 2x2 이미지. 매우 섬세하고, 영화 같은 조명, 극도로 사실적인 질감.
+삼각형 모양의 {argument name="animal" default="bird"}가 잡혀서 요리되는 2x2 이미지, 매우 섬세하며, 시네마틱 조명, 극사실적인 질감.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3469,7 +3468,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%82%BC%EA%B0%81%ED%98%95%20%EB%AA%A8%EC%96%91%EC%9D%98%20%7Bargument%20name%3D%22animal%22%20default%3D%22bird%22%7D%EA%B0%80%20%EC%9E%A1%ED%98%80%EC%84%9C%20%EC%9A%94%EB%A6%AC%EB%90%98%EB%8A%94%202x2%20%EC%9D%B4%EB%AF%B8%EC%A7%80.%20%EB%A7%A4%EC%9A%B0%20%EC%84%AC%EC%84%B8%ED%95%98%EA%B3%A0%2C%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EC%A1%B0%EB%AA%85%2C%20%EA%B7%B9%EB%8F%84%EB%A1%9C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A7%88%EA%B0%90.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%82%BC%EA%B0%81%ED%98%95%20%EB%AA%A8%EC%96%91%EC%9D%98%20%7Bargument%20name%3D%22animal%22%20default%3D%22bird%22%7D%EA%B0%80%20%EC%9E%A1%ED%98%80%EC%84%9C%20%EC%9A%94%EB%A6%AC%EB%90%98%EB%8A%94%202x2%20%EC%9D%B4%EB%AF%B8%EC%A7%80%2C%20%EB%A7%A4%EC%9A%B0%20%EC%84%AC%EC%84%B8%ED%95%98%EB%A9%B0%2C%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EC%A1%B0%EB%AA%85%2C%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A7%88%EA%B0%90.)**
 
 ---
 
@@ -3479,12 +3478,12 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 #### 📖 설명
 
-이스탄불의 비에 젖은 갈라타 다리를 배경으로 한 복잡하고 극사실적인 다큐멘터리 사진 프롬프트. 늙은 어부가 길고양이에게 물고기를 내밀며 웃고 있는 모습에 초점을 맞추며, 세월의 흔적이 묻어나는 얼굴, 거친 옷차림, 굵은 빗줄기, 움직임이 흐릿하게 표현된 통근자들, 그리고 얕은 피사계 심도를 가진 아날로그 35mm 필름 그레인의 미학 같은 세부 사항을 명시합니다.
+이스탄불의 비에 젖은 갈라타 다리를 배경으로 한 복잡하고 초현실적인 다큐멘터리 사진 프롬프트. 늙은 어부가 길고양이에게 물고기를 내밀며 웃고 있는 모습에 초점을 맞추고 있으며, 주름진 얼굴, 거친 옷, 굵은 빗줄기, 움직임이 흐릿한 통근자들, 얕은 피사계 심도를 가진 아날로그 35mm 필름 그레인의 미학 같은 세부 사항을 명시합니다.
 
 #### 📝 프롬프트
 
 ```
-비에 흠뻑 젖은 이스탄불 갈라타 다리 위에서 한 노인이 낚시를 하고 있다. 깊게 주름진 얼굴에 낡은 기름 먹인 재킷을 입은 어부가 녹슨 태클 박스 옆 난간에 위태롭게 서 있는 흠뻑 젖은 길고양이에게 작은 물고기를 내밀며 웃고 있는 가슴 뭉클한 순간을 포착한 솔직하고 극사실적인 다큐멘터리 사진이다. 빗줄기가 거세게 쏟아진다. 분주한 배경에는 우산을 쓴 통근자들이 움직임에 의해 흐릿하게 보이고, 전통적인 도시 페리가 연기를 내뿜으며 잔잔한 회색 보스포루스 해협을 건너고 있으며, 짙고 흐린 폭풍 구름 아래 예니 자미(Yeni Cami)의 실루엣이 솟아 있다. 이 이미지는 아날로그 35mm 필름 그레인의 독특한 미학, 자연스럽고 분위기 있는 빛, 남자와 고양이에 초점을 맞춘 얕은 피사계 심도, 젖은 포장도로, 낡은 옷, 금속의 매우 섬세한 질감을 가지고 있다.
+비에 젖은 이스탄불 갈라타 다리 위, 깊게 주름진 얼굴의 노인이 낡은 기름 먹인 재킷을 입고 작은 물고기를 내밀자 위태롭게 난간에 서 있던 흠뻑 젖은 길고양이가 웃는 듯한 가슴 뭉클한 순간을 포착한 솔직하고 극사실적인 다큐멘터리 사진. 노인의 낡은 낚시 도구 상자 옆에서 고양이가 균형을 잡고 있다. 빗줄기가 거세게 쏟아진다. 분주한 배경에는 우산을 든 통근자들이 움직임에 따라 흐릿하게 보이고, 전통적인 도시 페리가 연기를 뿜으며 물결치는 회색 보스포루스 해협을 가로지르며, 폭풍우 구름 아래 예니 자미(Yeni Cami)의 실루엣이 솟아 있다. 이 이미지는 아날로그 35mm 필름 그레인의 독특한 미학, 자연스럽고 분위기 있는 빛, 남자와 고양이에 초점을 맞춘 얕은 피사계 심도, 그리고 젖은 포장도로, 낡은 옷, 금속의 매우 섬세한 질감을 담고 있다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3508,23 +3507,23 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%B9%84%EC%97%90%20%ED%9D%A0%EB%BB%91%20%EC%A0%96%EC%9D%80%20%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88%20%EA%B0%88%EB%9D%BC%ED%83%80%20%EB%8B%A4%EB%A6%AC%20%EC%9C%84%EC%97%90%EC%84%9C%20%ED%95%9C%20%EB%85%B8%EC%9D%B8%EC%9D%B4%20%EB%82%9A%EC%8B%9C%EB%A5%BC%20%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B9%8A%EA%B2%8C%20%EC%A3%BC%EB%A6%84%EC%A7%84%20%EC%96%BC%EA%B5%B4%EC%97%90%20%EB%82%A1%EC%9D%80%20%EA%B8%B0%EB%A6%84%20%EB%A8%B9%EC%9D%B8%20%EC%9E%AC%ED%82%B7%EC%9D%84%20%EC%9E%85%EC%9D%80%20%EC%96%B4%EB%B6%80%EA%B0%80%20%EB%85%B9%EC%8A%A8%20%ED%83%9C%ED%81%B4%20%EB%B0%95%EC%8A%A4%20%EC%98%86%20%EB%82%9C%EA%B0%84%EC%97%90%20%EC%9C%84%ED%83%9C%EB%A1%AD%EA%B2%8C%20%EC%84%9C%20%EC%9E%88%EB%8A%94%20%ED%9D%A0%EB%BB%91%20%EC%A0%96%EC%9D%80%20%EA%B8%B8%EA%B3%A0%EC%96%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EC%9E%91%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%A5%BC%20%EB%82%B4%EB%B0%80%EB%A9%B0%20%EC%9B%83%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EA%B0%80%EC%8A%B4%20%EB%AD%89%ED%81%B4%ED%95%9C%20%EC%88%9C%EA%B0%84%EC%9D%84%20%ED%8F%AC%EC%B0%A9%ED%95%9C%20%EC%86%94%EC%A7%81%ED%95%98%EA%B3%A0%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%20%EC%82%AC%EC%A7%84%EC%9D%B4%EB%8B%A4.%20%EB%B9%97%EC%A4%84%EA%B8%B0%EA%B0%80%20%EA%B1%B0%EC%84%B8%EA%B2%8C%20%EC%8F%9F%EC%95%84%EC%A7%84%EB%8B%A4.%20%EB%B6%84%EC%A3%BC%ED%95%9C%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%9A%B0%EC%82%B0%EC%9D%84%20%EC%93%B4%20%ED%86%B5%EA%B7%BC%EC%9E%90%EB%93%A4%EC%9D%B4%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%97%90%20%EC%9D%98%ED%95%B4%20%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%20%EB%B3%B4%EC%9D%B4%EA%B3%A0%2C%20%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8%20%EB%8F%84%EC%8B%9C%20%ED%8E%98%EB%A6%AC%EA%B0%80%20%EC%97%B0%EA%B8%B0%EB%A5%BC%20%EB%82%B4%EB%BF%9C%EC%9C%BC%EB%A9%B0%20%EC%9E%94%EC%9E%94%ED%95%9C%20%ED%9A%8C%EC%83%89%20%EB%B3%B4%EC%8A%A4%ED%8F%AC%EB%A3%A8%EC%8A%A4%20%ED%95%B4%ED%98%91%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%A7%99%EA%B3%A0%20%ED%9D%90%EB%A6%B0%20%ED%8F%AD%ED%92%8D%20%EA%B5%AC%EB%A6%84%20%EC%95%84%EB%9E%98%20%EC%98%88%EB%8B%88%20%EC%9E%90%EB%AF%B8(Yeni%20Cami)%EC%9D%98%20%EC%8B%A4%EB%A3%A8%EC%97%A3%EC%9D%B4%20%EC%86%9F%EC%95%84%20%EC%9E%88%EB%8B%A4.%20%EC%9D%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%8A%94%20%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%2035mm%20%ED%95%84%EB%A6%84%20%EA%B7%B8%EB%A0%88%EC%9D%B8%EC%9D%98%20%EB%8F%85%ED%8A%B9%ED%95%9C%20%EB%AF%B8%ED%95%99%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B3%A0%20%EB%B6%84%EC%9C%84%EA%B8%B0%20%EC%9E%88%EB%8A%94%20%EB%B9%9B%2C%20%EB%82%A8%EC%9E%90%EC%99%80%20%EA%B3%A0%EC%96%91%EC%9D%B4%EC%97%90%20%EC%B4%88%EC%A0%90%EC%9D%84%20%EB%A7%9E%EC%B6%98%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%2C%20%EC%A0%96%EC%9D%80%20%ED%8F%AC%EC%9E%A5%EB%8F%84%EB%A1%9C%2C%20%EB%82%A1%EC%9D%80%20%EC%98%B7%2C%20%EA%B8%88%EC%86%8D%EC%9D%98%20%EB%A7%A4%EC%9A%B0%20%EC%84%AC%EC%84%B8%ED%95%9C%20%EC%A7%88%EA%B0%90%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%B9%84%EC%97%90%20%EC%A0%96%EC%9D%80%20%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88%20%EA%B0%88%EB%9D%BC%ED%83%80%20%EB%8B%A4%EB%A6%AC%20%EC%9C%84%2C%20%EA%B9%8A%EA%B2%8C%20%EC%A3%BC%EB%A6%84%EC%A7%84%20%EC%96%BC%EA%B5%B4%EC%9D%98%20%EB%85%B8%EC%9D%B8%EC%9D%B4%20%EB%82%A1%EC%9D%80%20%EA%B8%B0%EB%A6%84%20%EB%A8%B9%EC%9D%B8%20%EC%9E%AC%ED%82%B7%EC%9D%84%20%EC%9E%85%EA%B3%A0%20%EC%9E%91%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%A5%BC%20%EB%82%B4%EB%B0%80%EC%9E%90%20%EC%9C%84%ED%83%9C%EB%A1%AD%EA%B2%8C%20%EB%82%9C%EA%B0%84%EC%97%90%20%EC%84%9C%20%EC%9E%88%EB%8D%98%20%ED%9D%A0%EB%BB%91%20%EC%A0%96%EC%9D%80%20%EA%B8%B8%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80%20%EC%9B%83%EB%8A%94%20%EB%93%AF%ED%95%9C%20%EA%B0%80%EC%8A%B4%20%EB%AD%89%ED%81%B4%ED%95%9C%20%EC%88%9C%EA%B0%84%EC%9D%84%20%ED%8F%AC%EC%B0%A9%ED%95%9C%20%EC%86%94%EC%A7%81%ED%95%98%EA%B3%A0%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%20%EC%82%AC%EC%A7%84.%20%EB%85%B8%EC%9D%B8%EC%9D%98%20%EB%82%A1%EC%9D%80%20%EB%82%9A%EC%8B%9C%20%EB%8F%84%EA%B5%AC%20%EC%83%81%EC%9E%90%20%EC%98%86%EC%97%90%EC%84%9C%20%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80%20%EA%B7%A0%ED%98%95%EC%9D%84%20%EC%9E%A1%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B9%97%EC%A4%84%EA%B8%B0%EA%B0%80%20%EA%B1%B0%EC%84%B8%EA%B2%8C%20%EC%8F%9F%EC%95%84%EC%A7%84%EB%8B%A4.%20%EB%B6%84%EC%A3%BC%ED%95%9C%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%9A%B0%EC%82%B0%EC%9D%84%20%EB%93%A0%20%ED%86%B5%EA%B7%BC%EC%9E%90%EB%93%A4%EC%9D%B4%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%97%90%20%EB%94%B0%EB%9D%BC%20%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%20%EB%B3%B4%EC%9D%B4%EA%B3%A0%2C%20%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8%20%EB%8F%84%EC%8B%9C%20%ED%8E%98%EB%A6%AC%EA%B0%80%20%EC%97%B0%EA%B8%B0%EB%A5%BC%20%EB%BF%9C%EC%9C%BC%EB%A9%B0%20%EB%AC%BC%EA%B2%B0%EC%B9%98%EB%8A%94%20%ED%9A%8C%EC%83%89%20%EB%B3%B4%EC%8A%A4%ED%8F%AC%EB%A3%A8%EC%8A%A4%20%ED%95%B4%ED%98%91%EC%9D%84%20%EA%B0%80%EB%A1%9C%EC%A7%80%EB%A5%B4%EB%A9%B0%2C%20%ED%8F%AD%ED%92%8D%EC%9A%B0%20%EA%B5%AC%EB%A6%84%20%EC%95%84%EB%9E%98%20%EC%98%88%EB%8B%88%20%EC%9E%90%EB%AF%B8(Yeni%20Cami)%EC%9D%98%20%EC%8B%A4%EB%A3%A8%EC%97%A3%EC%9D%B4%20%EC%86%9F%EC%95%84%20%EC%9E%88%EB%8B%A4.%20%EC%9D%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%8A%94%20%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%2035mm%20%ED%95%84%EB%A6%84%20%EA%B7%B8%EB%A0%88%EC%9D%B8%EC%9D%98%20%EB%8F%85%ED%8A%B9%ED%95%9C%20%EB%AF%B8%ED%95%99%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B3%A0%20%EB%B6%84%EC%9C%84%EA%B8%B0%20%EC%9E%88%EB%8A%94%20%EB%B9%9B%2C%20%EB%82%A8%EC%9E%90%EC%99%80%20%EA%B3%A0%EC%96%91%EC%9D%B4%EC%97%90%20%EC%B4%88%EC%A0%90%EC%9D%84%20%EB%A7%9E%EC%B6%98%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%A0%96%EC%9D%80%20%ED%8F%AC%EC%9E%A5%EB%8F%84%EB%A1%9C%2C%20%EB%82%A1%EC%9D%80%20%EC%98%B7%2C%20%EA%B8%88%EC%86%8D%EC%9D%98%20%EB%A7%A4%EC%9A%B0%20%EC%84%AC%EC%84%B8%ED%95%9C%20%EC%A7%88%EA%B0%90%EC%9D%84%20%EB%8B%B4%EA%B3%A0%20%EC%9E%88%EB%8B%A4.)**
 
 ---
 
-### No. 83: 텍스트 렌더링 테스트를 포함한 디스토피아 포스터 프롬프트
+### No. 83: 디스토피아 포스터 프롬프트 (텍스트 렌더링 테스트 포함)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-황량한 사막에서 고장 난 스쿠터를 탄 캐릭터가 등장하는 디스토피아 포스터 디자인 내부에 특정 텍스트를 정확하게 렌더링하는 GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프트.
+GPT Image 1.5의 특정 텍스트를 디스토피아적 포스터 디자인 내에서 정확하게 렌더링하는 능력을 테스트하기 위해 고안된 복잡한 프롬프트로, 사막에서 고장 난 스쿠터를 탄 캐릭터가 등장합니다.
 
 #### 📝 프롬프트
 
 ```
-"이 남자[내 이미지]가 녹슬고 고장 난 스쿠터를 타고 사막을 가로지르는 롱 샷. 주변에는 황량한 불모지가 펼쳐져 있다. 제목은 '{argument name="title" default="2135"}'라고 쓰여 있다. 여러 줄로 된 부제목은 '{argument name="subtitle" default="THE AGE OF AGI BEGINS HERE"}'라고 쓰여야 한다. 포스터는 눈길을 사로잡고 디스토피아적인 느낌을 주어야 한다."
+"이 남자 [내 이미지]가 녹슬고 고장 난 스쿠터를 타고 황량한 사막을 멀리서 가로지르는 모습, 주위는 텅 빈 불모지입니다. 제목은 '{argument name="title" default="2135"}'라고 쓰여 있습니다. 여러 줄로 된 부제는 '{argument name="subtitle" default="THE AGE OF AGI BEGINS HERE"}'라고 쓰여야 합니다. 포스터는 눈길을 사로잡고 디스토피아적인 느낌을 주어야 합니다."
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3532,7 +3531,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948263720_pxv9z4_G8UEpKxa4AAqWGv.jpg" width="600" alt="텍스트 렌더링 테스트를 포함한 디스토피아 포스터 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948263720_pxv9z4_G8UEpKxa4AAqWGv.jpg" width="600" alt="디스토피아 포스터 프롬프트 (텍스트 렌더링 테스트 포함) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3542,17 +3541,17 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%22%EC%9D%B4%20%EB%82%A8%EC%9E%90%5B%EB%82%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%EA%B0%80%20%EB%85%B9%EC%8A%AC%EA%B3%A0%20%EA%B3%A0%EC%9E%A5%20%EB%82%9C%20%EC%8A%A4%EC%BF%A0%ED%84%B0%EB%A5%BC%20%ED%83%80%EA%B3%A0%20%EC%82%AC%EB%A7%89%EC%9D%84%20%EA%B0%80%EB%A1%9C%EC%A7%80%EB%A5%B4%EB%8A%94%20%EB%A1%B1%20%EC%83%B7.%20%EC%A3%BC%EB%B3%80%EC%97%90%EB%8A%94%20%ED%99%A9%EB%9F%89%ED%95%9C%20%EB%B6%88%EB%AA%A8%EC%A7%80%EA%B0%80%20%ED%8E%BC%EC%B3%90%EC%A0%B8%20%EC%9E%88%EB%8B%A4.%20%EC%A0%9C%EB%AA%A9%EC%9D%80%20'%7Bargument%20name%3D%22title%22%20default%3D%222135%22%7D'%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%97%AC%20%EC%9E%88%EB%8B%A4.%20%EC%97%AC%EB%9F%AC%20%EC%A4%84%EB%A1%9C%20%EB%90%9C%20%EB%B6%80%EC%A0%9C%EB%AA%A9%EC%9D%80%20'%7Bargument%20name%3D%22subtitle%22%20default%3D%22THE%20AGE%20OF%20AGI%20BEGINS%20HERE%22%7D'%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%97%AC%EC%95%BC%20%ED%95%9C%EB%8B%A4.%20%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%8A%94%20%EB%88%88%EA%B8%B8%EC%9D%84%20%EC%82%AC%EB%A1%9C%EC%9E%A1%EA%B3%A0%20%EB%94%94%EC%8A%A4%ED%86%A0%ED%94%BC%EC%95%84%EC%A0%81%EC%9D%B8%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%A3%BC%EC%96%B4%EC%95%BC%20%ED%95%9C%EB%8B%A4.%22)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%22%EC%9D%B4%20%EB%82%A8%EC%9E%90%20%5B%EB%82%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%EA%B0%80%20%EB%85%B9%EC%8A%AC%EA%B3%A0%20%EA%B3%A0%EC%9E%A5%20%EB%82%9C%20%EC%8A%A4%EC%BF%A0%ED%84%B0%EB%A5%BC%20%ED%83%80%EA%B3%A0%20%ED%99%A9%EB%9F%89%ED%95%9C%20%EC%82%AC%EB%A7%89%EC%9D%84%20%EB%A9%80%EB%A6%AC%EC%84%9C%20%EA%B0%80%EB%A1%9C%EC%A7%80%EB%A5%B4%EB%8A%94%20%EB%AA%A8%EC%8A%B5%2C%20%EC%A3%BC%EC%9C%84%EB%8A%94%20%ED%85%85%20%EB%B9%88%20%EB%B6%88%EB%AA%A8%EC%A7%80%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%A0%9C%EB%AA%A9%EC%9D%80%20'%7Bargument%20name%3D%22title%22%20default%3D%222135%22%7D'%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%97%AC%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%97%AC%EB%9F%AC%20%EC%A4%84%EB%A1%9C%20%EB%90%9C%20%EB%B6%80%EC%A0%9C%EB%8A%94%20'%7Bargument%20name%3D%22subtitle%22%20default%3D%22THE%20AGE%20OF%20AGI%20BEGINS%20HERE%22%7D'%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%97%AC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%8A%94%20%EB%88%88%EA%B8%B8%EC%9D%84%20%EC%82%AC%EB%A1%9C%EC%9E%A1%EA%B3%A0%20%EB%94%94%EC%8A%A4%ED%86%A0%ED%94%BC%EC%95%84%EC%A0%81%EC%9D%B8%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%A3%BC%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%22)**
 
 ---
 
-### No. 84: 나만의 유희왕 카드 생성
+### No. 84: 나만의 유희왕 카드 만들기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-정확한 텍스트는 제공되지 않았지만, 커스텀 Yu-Gi-Oh 카드를 생성하는 맥락에서 암시된 프롬프트의 목표는 명확합니다. 즉, 텍스트 설명을 기반으로 커스텀 카드를 만드는 것입니다.
+정확한 텍스트는 제공되지 않았지만, 커스텀 Yu-Gi-Oh 카드를 생성하는 맥락에서 암시되는 프롬프트는 텍스트 설명을 기반으로 커스텀 카드를 만드는 것이 목표입니다.
 
 #### 📝 프롬프트
 
@@ -3565,13 +3564,13 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948251204_sym20j_G8UCTGMXEAA3Iyg.jpg" width="600" alt="나만의 유희왕 카드 생성 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948251204_sym20j_G8UCTGMXEAA3Iyg.jpg" width="600" alt="나만의 유희왕 카드 만들기 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948251489_pxeauz_G8UCQ-pXoAgZWnY.jpg" width="600" alt="나만의 유희왕 카드 생성 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948251489_pxeauz_G8UCQ-pXoAgZWnY.jpg" width="600" alt="나만의 유희왕 카드 만들기 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3591,12 +3590,12 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 
 #### 📖 설명
 
-모델이 복잡한 질감, 건축 양식 및 정밀한 디테일을 처리하는 능력을 테스트하기 위해 고안된 매우 구체적인 이미지 생성 프롬프트입니다. 킹콩의 사실적인 접힌 종이 청사진을 요청하며, 기하학적인 접힘, 청사진 표시, 최소한의 색상 팔레트 및 특정 조명 조건을 강조합니다.
+모델의 복잡한 질감, 건축 양식, 정밀한 디테일 처리 능력을 테스트하기 위해 고안된 매우 구체적인 이미지 생성 프롬프트입니다. 킹콩의 사실적인 접힌 종이 청사진을 요청하며, 기하학적인 접힘, 청사진 표시, 최소한의 색상 팔레트, 특정 조명 조건을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-킹콩의 매우 정교한 종이접기 설계도. 캐릭터는 정밀한 기하학적 접힘선과 주름선으로 구성되어 있으며, 미묘한 설계도 표시, 측정선, 종이 주석이 겹쳐져 있습니다. 최소한의 색상 팔레트, 미색 종이에 희미한 잉크선. 스튜디오 조명, 선명한 그림자, 건축 예술 스타일, 사실적인 종이 디테일. 1080x1080 정사각형 형식.
+킹콩의 매우 정교한 종이 접기 설계도. 캐릭터는 정밀한 기하학적 접힘선과 주름선으로 구성되어 있으며, 미묘한 설계도 표시, 측정선, 종이 주석이 겹쳐져 있다. 최소한의 색상 팔레트, 미색 종이에 희미한 잉크 선. 스튜디오 조명, 선명한 그림자, 건축 예술 스타일, 사실적인 종이 디테일. 1080x1080 정사각형 포맷.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3620,22 +3619,22 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%ED%82%B9%EC%BD%A9%EC%9D%98%20%EB%A7%A4%EC%9A%B0%20%EC%A0%95%EA%B5%90%ED%95%9C%20%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0%20%EC%84%A4%EA%B3%84%EB%8F%84.%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%8A%94%20%EC%A0%95%EB%B0%80%ED%95%9C%20%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%20%EC%A0%91%ED%9E%98%EC%84%A0%EA%B3%BC%20%EC%A3%BC%EB%A6%84%EC%84%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EC%84%A4%EA%B3%84%EB%8F%84%20%ED%91%9C%EC%8B%9C%2C%20%EC%B8%A1%EC%A0%95%EC%84%A0%2C%20%EC%A2%85%EC%9D%B4%20%EC%A3%BC%EC%84%9D%EC%9D%B4%20%EA%B2%B9%EC%B3%90%EC%A0%B8%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8%2C%20%EB%AF%B8%EC%83%89%20%EC%A2%85%EC%9D%B4%EC%97%90%20%ED%9D%AC%EB%AF%B8%ED%95%9C%20%EC%9E%89%ED%81%AC%EC%84%A0.%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%2C%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EA%B7%B8%EB%A6%BC%EC%9E%90%2C%20%EA%B1%B4%EC%B6%95%20%EC%98%88%EC%88%A0%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A2%85%EC%9D%B4%20%EB%94%94%ED%85%8C%EC%9D%BC.%201080x1080%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%ED%98%95%EC%8B%9D.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%ED%82%B9%EC%BD%A9%EC%9D%98%20%EB%A7%A4%EC%9A%B0%20%EC%A0%95%EA%B5%90%ED%95%9C%20%EC%A2%85%EC%9D%B4%20%EC%A0%91%EA%B8%B0%20%EC%84%A4%EA%B3%84%EB%8F%84.%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%8A%94%20%EC%A0%95%EB%B0%80%ED%95%9C%20%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%20%EC%A0%91%ED%9E%98%EC%84%A0%EA%B3%BC%20%EC%A3%BC%EB%A6%84%EC%84%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EC%84%A4%EA%B3%84%EB%8F%84%20%ED%91%9C%EC%8B%9C%2C%20%EC%B8%A1%EC%A0%95%EC%84%A0%2C%20%EC%A2%85%EC%9D%B4%20%EC%A3%BC%EC%84%9D%EC%9D%B4%20%EA%B2%B9%EC%B3%90%EC%A0%B8%20%EC%9E%88%EB%8B%A4.%20%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8%2C%20%EB%AF%B8%EC%83%89%20%EC%A2%85%EC%9D%B4%EC%97%90%20%ED%9D%AC%EB%AF%B8%ED%95%9C%20%EC%9E%89%ED%81%AC%20%EC%84%A0.%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%2C%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EA%B7%B8%EB%A6%BC%EC%9E%90%2C%20%EA%B1%B4%EC%B6%95%20%EC%98%88%EC%88%A0%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A2%85%EC%9D%B4%20%EB%94%94%ED%85%8C%EC%9D%BC.%201080x1080%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%ED%8F%AC%EB%A7%B7.)**
 
 ---
 
-### No. 86: 번호 매기기를 통한 3x3 그리드 장면 생성
+### No. 86: 숫자 매기기를 통한 3x3 그리드 장면 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-모델이 동일한 장면을 9가지 다른 각도에서 묘사하는 3x3 이미지 그리드를 생성하는 능력을 테스트하기 위해 고안된 프롬프트입니다. 특히, 각 장면의 왼쪽 하단 모서리에 셀 번호를 배치하도록 모델에 요구합니다.
+모델이 동일한 장면을 9가지 다른 각도에서 묘사하는 3x3 이미지 그리드를 생성하는 능력을 테스트하기 위해 고안된 프롬프트입니다. 특히, 모델은 각 장면의 왼쪽 하단 모서리에 셀 번호를 배치해야 합니다.
 
 #### 📝 프롬프트
 
 ```
-이 장면을 9가지 다른 각도에서 3X3 1:1 그리드로 보여주고, 각 장면의 왼쪽 아래 모서리에 셀 번호를 표시해 주세요.
+이 장면을 9가지 다른 각도에서 3X3 1:1 그리드로 보여주고, 각 장면의 왼쪽 아래 모서리에 셀 번호를 표시해 줘.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3643,13 +3642,13 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948215997_zreeh3_G8UCIsdW8BAApWJ.jpg" width="600" alt="번호 매기기를 통한 3x3 그리드 장면 생성 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948215997_zreeh3_G8UCIsdW8BAApWJ.jpg" width="600" alt="숫자 매기기를 통한 3x3 그리드 장면 생성 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948215787_j85ndt_G8UCIsjW8AI2bVr.jpg" width="600" alt="번호 매기기를 통한 3x3 그리드 장면 생성 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765948215787_j85ndt_G8UCIsjW8AI2bVr.jpg" width="600" alt="숫자 매기기를 통한 3x3 그리드 장면 생성 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3659,7 +3658,7 @@ GPT Image 1.5에게 2000년대 필름 카메라 사진의 미학으로 결과 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%20%EC%9E%A5%EB%A9%B4%EC%9D%84%209%EA%B0%80%EC%A7%80%20%EB%8B%A4%EB%A5%B8%20%EA%B0%81%EB%8F%84%EC%97%90%EC%84%9C%203X3%201%3A1%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B3%A0%2C%20%EA%B0%81%20%EC%9E%A5%EB%A9%B4%EC%9D%98%20%EC%99%BC%EC%AA%BD%20%EC%95%84%EB%9E%98%20%EB%AA%A8%EC%84%9C%EB%A6%AC%EC%97%90%20%EC%85%80%20%EB%B2%88%ED%98%B8%EB%A5%BC%20%ED%91%9C%EC%8B%9C%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%B4%20%EC%9E%A5%EB%A9%B4%EC%9D%84%209%EA%B0%80%EC%A7%80%20%EB%8B%A4%EB%A5%B8%20%EA%B0%81%EB%8F%84%EC%97%90%EC%84%9C%203X3%201%3A1%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B3%A0%2C%20%EA%B0%81%20%EC%9E%A5%EB%A9%B4%EC%9D%98%20%EC%99%BC%EC%AA%BD%20%EC%95%84%EB%9E%98%20%EB%AA%A8%EC%84%9C%EB%A6%AC%EC%97%90%20%EC%85%80%20%EB%B2%88%ED%98%B8%EB%A5%BC%20%ED%91%9C%EC%8B%9C%ED%95%B4%20%EC%A4%98.)**
 
 ---
 
@@ -3704,12 +3703,12 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 
 #### 📖 설명
 
-런던 거리 건너편에 무심하게 앉아 있는 거대한 남자의 모습을 담은 광각 드론 샷에 대한 사실적인 프롬프트. 남자의 얼굴과 몸은 참조 이미지에 기반을 둔다. 부드러운 흐린 낮 시간의 햇빛 아래, 거대한 인물과 주변의 작은 도시 요소들 사이의 규모 대비를 강조하는 장면이다.
+런던 거리 건너편에 무심하게 앉아 있는 거대한 남자를 와이드 드론 샷으로 담은 사실적인 프롬프트. 남자의 얼굴과 몸은 레퍼런스 이미지를 기반으로 한다. 부드러운 흐린 낮 시간의 빛 아래, 거대한 인물과 주변의 작은 도시 요소들 사이의 스케일 대비가 강조된다.
 
 #### 📝 프롬프트
 
 ```
-런던 거리 건너편에 거대한 남자(참조 이미지와 정확히 같은 얼굴/몸)가 한쪽 무릎을 세우고 손을 얹은 채 무심하게 앉아 있는 포토리얼리스틱한 드론 와이드 샷. 그는 네이비 오버코트, 니트 스웨터, 어두운색 바지, 부츠, 미니멀한 비니를 착용하고 있다. 그의 거대한 크기에 왜소해 보이는 작은 자동차, 버스, 자전거, 보행자들이 그 주변을 움직이고 있으며, 고전적인 런던의 붉은 벽돌 건물, 검은색 가로등, 자갈길이 보인다. 부드러운 흐린 런던의 햇빛이 젖은 포장도로를 비춘다.
+런던 거리 건너편에 거대한 남자(참고 자료와 똑같은 얼굴/몸)가 한쪽 무릎을 세우고 손을 얹은 채 무심하게 앉아 있는 실사 같은 드론 와이드 샷. 그는 네이비 오버코트, 니트 스웨터, 어두운색 바지, 부츠, 미니멀한 비니를 착용하고 있다. 그의 거대한 몸집에 비해 작은 자동차, 버스, 자전거, 보행자들이 그 주위를 움직이고 있으며, 고전적인 런던의 붉은 벽돌 건물, 검은색 가로등, 자갈길이 왜소해 보인다. 부드러운 흐린 런던의 햇살이 젖은 포장도로를 비춘다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3733,7 +3732,7 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%9F%B0%EB%8D%98%20%EA%B1%B0%EB%A6%AC%20%EA%B1%B4%EB%84%88%ED%8E%B8%EC%97%90%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EB%82%A8%EC%9E%90(%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EC%A0%95%ED%99%95%ED%9E%88%20%EA%B0%99%EC%9D%80%20%EC%96%BC%EA%B5%B4%2F%EB%AA%B8)%EA%B0%80%20%ED%95%9C%EC%AA%BD%20%EB%AC%B4%EB%A6%8E%EC%9D%84%20%EC%84%B8%EC%9A%B0%EA%B3%A0%20%EC%86%90%EC%9D%84%20%EC%96%B9%EC%9D%80%20%EC%B1%84%20%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C%20%EC%95%89%EC%95%84%20%EC%9E%88%EB%8A%94%20%ED%8F%AC%ED%86%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1%ED%95%9C%20%EB%93%9C%EB%A1%A0%20%EC%99%80%EC%9D%B4%EB%93%9C%20%EC%83%B7.%20%EA%B7%B8%EB%8A%94%20%EB%84%A4%EC%9D%B4%EB%B9%84%20%EC%98%A4%EB%B2%84%EC%BD%94%ED%8A%B8%2C%20%EB%8B%88%ED%8A%B8%20%EC%8A%A4%EC%9B%A8%ED%84%B0%2C%20%EC%96%B4%EB%91%90%EC%9A%B4%EC%83%89%20%EB%B0%94%EC%A7%80%2C%20%EB%B6%80%EC%B8%A0%2C%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%EB%B9%84%EB%8B%88%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B7%B8%EC%9D%98%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%ED%81%AC%EA%B8%B0%EC%97%90%20%EC%99%9C%EC%86%8C%ED%95%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%2C%20%EB%B2%84%EC%8A%A4%2C%20%EC%9E%90%EC%A0%84%EA%B1%B0%2C%20%EB%B3%B4%ED%96%89%EC%9E%90%EB%93%A4%EC%9D%B4%20%EA%B7%B8%20%EC%A3%BC%EB%B3%80%EC%9D%84%20%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B3%A0%EC%A0%84%EC%A0%81%EC%9D%B8%20%EB%9F%B0%EB%8D%98%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%B2%BD%EB%8F%8C%20%EA%B1%B4%EB%AC%BC%2C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EA%B0%80%EB%A1%9C%EB%93%B1%2C%20%EC%9E%90%EA%B0%88%EA%B8%B8%EC%9D%B4%20%EB%B3%B4%EC%9D%B8%EB%8B%A4.%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%9D%90%EB%A6%B0%20%EB%9F%B0%EB%8D%98%EC%9D%98%20%ED%96%87%EB%B9%9B%EC%9D%B4%20%EC%A0%96%EC%9D%80%20%ED%8F%AC%EC%9E%A5%EB%8F%84%EB%A1%9C%EB%A5%BC%20%EB%B9%84%EC%B6%98%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EB%9F%B0%EB%8D%98%20%EA%B1%B0%EB%A6%AC%20%EA%B1%B4%EB%84%88%ED%8E%B8%EC%97%90%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EB%82%A8%EC%9E%90(%EC%B0%B8%EA%B3%A0%20%EC%9E%90%EB%A3%8C%EC%99%80%20%EB%98%91%EA%B0%99%EC%9D%80%20%EC%96%BC%EA%B5%B4%2F%EB%AA%B8)%EA%B0%80%20%ED%95%9C%EC%AA%BD%20%EB%AC%B4%EB%A6%8E%EC%9D%84%20%EC%84%B8%EC%9A%B0%EA%B3%A0%20%EC%86%90%EC%9D%84%20%EC%96%B9%EC%9D%80%20%EC%B1%84%20%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C%20%EC%95%89%EC%95%84%20%EC%9E%88%EB%8A%94%20%EC%8B%A4%EC%82%AC%20%EA%B0%99%EC%9D%80%20%EB%93%9C%EB%A1%A0%20%EC%99%80%EC%9D%B4%EB%93%9C%20%EC%83%B7.%20%EA%B7%B8%EB%8A%94%20%EB%84%A4%EC%9D%B4%EB%B9%84%20%EC%98%A4%EB%B2%84%EC%BD%94%ED%8A%B8%2C%20%EB%8B%88%ED%8A%B8%20%EC%8A%A4%EC%9B%A8%ED%84%B0%2C%20%EC%96%B4%EB%91%90%EC%9A%B4%EC%83%89%20%EB%B0%94%EC%A7%80%2C%20%EB%B6%80%EC%B8%A0%2C%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%EB%B9%84%EB%8B%88%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B7%B8%EC%9D%98%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EB%AA%B8%EC%A7%91%EC%97%90%20%EB%B9%84%ED%95%B4%20%EC%9E%91%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%2C%20%EB%B2%84%EC%8A%A4%2C%20%EC%9E%90%EC%A0%84%EA%B1%B0%2C%20%EB%B3%B4%ED%96%89%EC%9E%90%EB%93%A4%EC%9D%B4%20%EA%B7%B8%20%EC%A3%BC%EC%9C%84%EB%A5%BC%20%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B3%A0%EC%A0%84%EC%A0%81%EC%9D%B8%20%EB%9F%B0%EB%8D%98%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%B2%BD%EB%8F%8C%20%EA%B1%B4%EB%AC%BC%2C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EA%B0%80%EB%A1%9C%EB%93%B1%2C%20%EC%9E%90%EA%B0%88%EA%B8%B8%EC%9D%B4%20%EC%99%9C%EC%86%8C%ED%95%B4%20%EB%B3%B4%EC%9D%B8%EB%8B%A4.%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%9D%90%EB%A6%B0%20%EB%9F%B0%EB%8D%98%EC%9D%98%20%ED%96%87%EC%82%B4%EC%9D%B4%20%EC%A0%96%EC%9D%80%20%ED%8F%AC%EC%9E%A5%EB%8F%84%EB%A1%9C%EB%A5%BC%20%EB%B9%84%EC%B6%98%EB%8B%A4.)**
 
 ---
 
@@ -3743,12 +3742,12 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 
 #### 📖 설명
 
-갈라타 다리(Galata Bridge)와 시간(일몰)에 초점을 맞춰 매우 상세하고 영화 같은 이미지를 생성하는 프롬프트입니다. 구성, 분위기, 조명, 색상 팔레트, 심지어 카메라 장비 설정까지 지정하여 분위기 있고 수상 경력에 빛나는 여행 사진 스타일을 구현합니다.
+갈라타 다리(Galata Bridge)와 이스탄불(Istanbul)이라는 특정 장소와 시간(일몰)에 초점을 맞춘 매우 상세하고 영화 같은 이미지 생성 프롬프트입니다. 구성, 분위기, 조명, 색상 팔레트, 심지어 카메라 장비 설정까지 지정하여 분위기 있고 수상 경력에 빛나는 여행 사진 스타일을 구현합니다.
 
 #### 📝 프롬프트
 
 ```
-일몰 시각, 이스탄불 갈라타 다리에 늘어선 현지 어부들의 영화 같은 실루엣 샷. 전경에는 지친 어부가 난간에 기대어 바다를 바라보고 있다. 배경에는 몽환적인 분위기의 술레이마니예 모스크 실루엣과 골든 혼 위를 나는 갈매기들이 보인다. 따뜻한 오렌지색과 짙은 파란색 색상 팔레트. Sony A7R IV 카메라와 Sony FE 85mm f/1.4 GM 렌즈를 사용하여 f/1.8로 촬영. 대기 중의 안개, 감성적인 스토리텔링, 수상 경력에 빛나는 여행 사진.
+일몰 시각, 이스탄불 갈라타 다리에 늘어선 현지 어부들의 영화 같은 실루엣 샷. 전경에는 지친 어부가 난간에 기대어 바다를 바라보고 있다. 배경에는 몽환적인 안개에 싸인 쉴레이마니예 모스크의 실루엣과 골든 혼 위를 나는 갈매기들이 보인다. 따뜻한 오렌지색과 짙은 파란색 색상 팔레트. Sony A7R IV 카메라와 Sony FE 85mm f/1.4 GM 렌즈로 f/1.8 조리개로 촬영. 분위기 있는 안개, 감성적인 스토리텔링, 수상 경력에 빛나는 여행 사진.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3772,11 +3771,11 @@ GPT Image 1.5가 복잡한 텍스트를 정확하게 렌더링하는 능력을 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%BC%EB%AA%B0%20%EC%8B%9C%EA%B0%81%2C%20%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88%20%EA%B0%88%EB%9D%BC%ED%83%80%20%EB%8B%A4%EB%A6%AC%EC%97%90%20%EB%8A%98%EC%96%B4%EC%84%A0%20%ED%98%84%EC%A7%80%20%EC%96%B4%EB%B6%80%EB%93%A4%EC%9D%98%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EC%8B%A4%EB%A3%A8%EC%97%A3%20%EC%83%B7.%20%EC%A0%84%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%A7%80%EC%B9%9C%20%EC%96%B4%EB%B6%80%EA%B0%80%20%EB%82%9C%EA%B0%84%EC%97%90%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EB%B0%94%EB%8B%A4%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B8%20%EB%B6%84%EC%9C%84%EA%B8%B0%EC%9D%98%20%EC%88%A0%EB%A0%88%EC%9D%B4%EB%A7%88%EB%8B%88%EC%98%88%20%EB%AA%A8%EC%8A%A4%ED%81%AC%20%EC%8B%A4%EB%A3%A8%EC%97%A3%EA%B3%BC%20%EA%B3%A8%EB%93%A0%20%ED%98%BC%20%EC%9C%84%EB%A5%BC%20%EB%82%98%EB%8A%94%20%EA%B0%88%EB%A7%A4%EA%B8%B0%EB%93%A4%EC%9D%B4%20%EB%B3%B4%EC%9D%B8%EB%8B%A4.%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EC%98%A4%EB%A0%8C%EC%A7%80%EC%83%89%EA%B3%BC%20%EC%A7%99%EC%9D%80%20%ED%8C%8C%EB%9E%80%EC%83%89%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8.%20Sony%20A7R%20IV%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%99%80%20Sony%20FE%2085mm%20f%2F1.4%20GM%20%EB%A0%8C%EC%A6%88%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20f%2F1.8%EB%A1%9C%20%EC%B4%AC%EC%98%81.%20%EB%8C%80%EA%B8%B0%20%EC%A4%91%EC%9D%98%20%EC%95%88%EA%B0%9C%2C%20%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81%2C%20%EC%88%98%EC%83%81%20%EA%B2%BD%EB%A0%A5%EC%97%90%20%EB%B9%9B%EB%82%98%EB%8A%94%20%EC%97%AC%ED%96%89%20%EC%82%AC%EC%A7%84.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9D%BC%EB%AA%B0%20%EC%8B%9C%EA%B0%81%2C%20%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88%20%EA%B0%88%EB%9D%BC%ED%83%80%20%EB%8B%A4%EB%A6%AC%EC%97%90%20%EB%8A%98%EC%96%B4%EC%84%A0%20%ED%98%84%EC%A7%80%20%EC%96%B4%EB%B6%80%EB%93%A4%EC%9D%98%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EC%8B%A4%EB%A3%A8%EC%97%A3%20%EC%83%B7.%20%EC%A0%84%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%A7%80%EC%B9%9C%20%EC%96%B4%EB%B6%80%EA%B0%80%20%EB%82%9C%EA%B0%84%EC%97%90%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EB%B0%94%EB%8B%A4%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B8%20%EC%95%88%EA%B0%9C%EC%97%90%20%EC%8B%B8%EC%9D%B8%20%EC%89%B4%EB%A0%88%EC%9D%B4%EB%A7%88%EB%8B%88%EC%98%88%20%EB%AA%A8%EC%8A%A4%ED%81%AC%EC%9D%98%20%EC%8B%A4%EB%A3%A8%EC%97%A3%EA%B3%BC%20%EA%B3%A8%EB%93%A0%20%ED%98%BC%20%EC%9C%84%EB%A5%BC%20%EB%82%98%EB%8A%94%20%EA%B0%88%EB%A7%A4%EA%B8%B0%EB%93%A4%EC%9D%B4%20%EB%B3%B4%EC%9D%B8%EB%8B%A4.%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EC%98%A4%EB%A0%8C%EC%A7%80%EC%83%89%EA%B3%BC%20%EC%A7%99%EC%9D%80%20%ED%8C%8C%EB%9E%80%EC%83%89%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8.%20Sony%20A7R%20IV%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%99%80%20Sony%20FE%2085mm%20f%2F1.4%20GM%20%EB%A0%8C%EC%A6%88%EB%A1%9C%20f%2F1.8%20%EC%A1%B0%EB%A6%AC%EA%B0%9C%EB%A1%9C%20%EC%B4%AC%EC%98%81.%20%EB%B6%84%EC%9C%84%EA%B8%B0%20%EC%9E%88%EB%8A%94%20%EC%95%88%EA%B0%9C%2C%20%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81%2C%20%EC%88%98%EC%83%81%20%EA%B2%BD%EB%A0%A5%EC%97%90%20%EB%B9%9B%EB%82%98%EB%8A%94%20%EC%97%AC%ED%96%89%20%EC%82%AC%EC%A7%84.)**
 
 ---
 
-### No. 90: 3D Q-버전 및 2D 일러스트레이션 인물 셀카
+### No. 90: 3D Q-버전과 2D 일러스트레이션 인물 셀카
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3787,7 +3786,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 #### 📝 프롬프트
 
 ```
-카메라를 응시하는 인물의 셀카와 3D Q-버전 캐릭터, 2D 일러스트 캐릭터.
+카메라 앞에서 이미지 속 인물의 셀카와 함께 인물의 3D Q-버전 캐릭터 및 2D 일러스트레이션 캐릭터가 모두 있는 모습.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3795,7 +3794,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948268262_po9qb0_G8T9J7La4AAoIJx.jpg" width="600" alt="3D Q-버전 및 2D 일러스트레이션 인물 셀카 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948268262_po9qb0_G8T9J7La4AAoIJx.jpg" width="600" alt="3D Q-버전과 2D 일러스트레이션 인물 셀카 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3805,7 +3804,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 - **게시일:** 2025년 12월 16일
 - **언어:** zh
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%9D%91%EC%8B%9C%ED%95%98%EB%8A%94%20%EC%9D%B8%EB%AC%BC%EC%9D%98%20%EC%85%80%EC%B9%B4%EC%99%80%203D%20Q-%EB%B2%84%EC%A0%84%20%EC%BA%90%EB%A6%AD%ED%84%B0%2C%202D%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%20%EC%BA%90%EB%A6%AD%ED%84%B0.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%95%9E%EC%97%90%EC%84%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%86%8D%20%EC%9D%B8%EB%AC%BC%EC%9D%98%20%EC%85%80%EC%B9%B4%EC%99%80%20%ED%95%A8%EA%BB%98%20%EC%9D%B8%EB%AC%BC%EC%9D%98%203D%20Q-%EB%B2%84%EC%A0%84%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EB%B0%8F%202D%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%BA%90%EB%A6%AD%ED%84%B0%EA%B0%80%20%EB%AA%A8%EB%91%90%20%EC%9E%88%EB%8A%94%20%EB%AA%A8%EC%8A%B5.)**
 
 ---
 
@@ -3881,18 +3880,18 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 ---
 
-### No. 93: 1960년대 만화책 팝아트 초상화
+### No. 93: 1960년대 코믹북 팝아트 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-1960년대 만화책 팝아트 스타일의 인물화를 생성하기 위한 프롬프트입니다. 굵은 검은색 윤곽선, 채도가 높은 단색 원색, 조밀한 하프톤 도트 셰이딩, 표현적이고 과장된 얼굴 특징, 그리고 강렬한 팝아트 에너지와 빈티지 인쇄물의 매력을 담은 깔끔하고 전면 인쇄된 그래픽 구성과 같은 시각적 요소를 지정합니다.
+1960년대 만화책 팝아트 스타일의 인물화를 생성하기 위한 프롬프트입니다. 굵은 검은색 윤곽선, 채도가 높은 단색 원색, 조밀한 하프톤 도트 셰이딩, 표현력 있고 과장된 얼굴 특징, 그리고 강렬한 팝아트 에너지와 빈티지 인쇄의 매력을 담은 깔끔하고 전면 인쇄된 그래픽 구성과 같은 시각적 요소를 지정합니다.
 
 #### 📝 프롬프트
 
 ```
-1960년대 만화책 팝아트 스타일로 그려진 인물 초상화. 굵은 검은색 윤곽선, 채도가 높은 원색, 촘촘한 하프톤 도트 음영으로 표현합니다. 얼굴 특징은 극적인 패널 중간 순간에 포착된 것처럼 표현력이 풍부하고 양식화되었으며 약간 과장되어야 합니다. 강렬한 팝아트 에너지와 빈티지 인쇄 매력이 돋보이는 깔끔하고 그래픽적인 구성을 사용합니다. 작품은 테두리 없이 전면 인쇄(full-bleed)되어야 합니다.
+1960년대 만화책 팝아트 스타일로 그려진 인물의 초상화. 굵은 검은색 윤곽선, 채도가 높은 단색 원색, 촘촘한 하프톤 도트 음영으로 표현합니다. 얼굴 특징은 극적인 패널 중간 순간에 포착된 것처럼 표현력이 풍부하고 양식화되었으며 약간 과장되어야 합니다. 강렬한 팝아트 에너지와 빈티지 인쇄 매력을 담은 깔끔하고 그래픽적인 구도를 사용합니다. 작품은 테두리 없이 전면 인쇄(full-bleed)되어야 합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3900,7 +3899,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949101026_oemafp_G8T5zGEbUAASufT.jpg" width="600" alt="1960년대 만화책 팝아트 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765949101026_oemafp_G8T5zGEbUAASufT.jpg" width="600" alt="1960년대 코믹북 팝아트 초상화 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3910,7 +3909,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=1960%EB%85%84%EB%8C%80%20%EB%A7%8C%ED%99%94%EC%B1%85%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EA%B7%B8%EB%A0%A4%EC%A7%84%20%EC%9D%B8%EB%AC%BC%20%EC%B4%88%EC%83%81%ED%99%94.%20%EA%B5%B5%EC%9D%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%2C%20%EC%B1%84%EB%8F%84%EA%B0%80%20%EB%86%92%EC%9D%80%20%EC%9B%90%EC%83%89%2C%20%EC%B4%98%EC%B4%98%ED%95%9C%20%ED%95%98%ED%94%84%ED%86%A4%20%EB%8F%84%ED%8A%B8%20%EC%9D%8C%EC%98%81%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%EC%9D%80%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%ED%8C%A8%EB%84%90%20%EC%A4%91%EA%B0%84%20%EC%88%9C%EA%B0%84%EC%97%90%20%ED%8F%AC%EC%B0%A9%EB%90%9C%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%B4%20%ED%92%8D%EB%B6%80%ED%95%98%EA%B3%A0%20%EC%96%91%EC%8B%9D%ED%99%94%EB%90%98%EC%97%88%EC%9C%BC%EB%A9%B0%20%EC%95%BD%EA%B0%84%20%EA%B3%BC%EC%9E%A5%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EA%B0%95%EB%A0%AC%ED%95%9C%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%97%90%EB%84%88%EC%A7%80%EC%99%80%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%EC%9D%B8%EC%87%84%20%EB%A7%A4%EB%A0%A5%EC%9D%B4%20%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EC%84%B1%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9E%91%ED%92%88%EC%9D%80%20%ED%85%8C%EB%91%90%EB%A6%AC%20%EC%97%86%EC%9D%B4%20%EC%A0%84%EB%A9%B4%20%EC%9D%B8%EC%87%84(full-bleed)%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=1960%EB%85%84%EB%8C%80%20%EB%A7%8C%ED%99%94%EC%B1%85%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EA%B7%B8%EB%A0%A4%EC%A7%84%20%EC%9D%B8%EB%AC%BC%EC%9D%98%20%EC%B4%88%EC%83%81%ED%99%94.%20%EA%B5%B5%EC%9D%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%2C%20%EC%B1%84%EB%8F%84%EA%B0%80%20%EB%86%92%EC%9D%80%20%EB%8B%A8%EC%83%89%20%EC%9B%90%EC%83%89%2C%20%EC%B4%98%EC%B4%98%ED%95%9C%20%ED%95%98%ED%94%84%ED%86%A4%20%EB%8F%84%ED%8A%B8%20%EC%9D%8C%EC%98%81%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%EC%9D%80%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%ED%8C%A8%EB%84%90%20%EC%A4%91%EA%B0%84%20%EC%88%9C%EA%B0%84%EC%97%90%20%ED%8F%AC%EC%B0%A9%EB%90%9C%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%B4%20%ED%92%8D%EB%B6%80%ED%95%98%EA%B3%A0%20%EC%96%91%EC%8B%9D%ED%99%94%EB%90%98%EC%97%88%EC%9C%BC%EB%A9%B0%20%EC%95%BD%EA%B0%84%20%EA%B3%BC%EC%9E%A5%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EA%B0%95%EB%A0%AC%ED%95%9C%20%ED%8C%9D%EC%95%84%ED%8A%B8%20%EC%97%90%EB%84%88%EC%A7%80%EC%99%80%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%EC%9D%B8%EC%87%84%20%EB%A7%A4%EB%A0%A5%EC%9D%84%20%EB%8B%B4%EC%9D%80%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EB%8F%84%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9E%91%ED%92%88%EC%9D%80%20%ED%85%8C%EB%91%90%EB%A6%AC%20%EC%97%86%EC%9D%B4%20%EC%A0%84%EB%A9%B4%20%EC%9D%B8%EC%87%84(full-bleed)%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -3974,7 +3973,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 #### 📖 설명
 
-두 명의 특정 인물(Sam과 Ilya)과 개 한 마리를 한 장의 사진에 담아달라는 프롬프트입니다. 스타일은 '2000년대 필름 카메라 스타일'로, 분위기는 '어린이 생일 파티에서 지루해하는 모습'으로 지정합니다.
+특정 구성을 요청하는 프롬프트: 두 명의 개인(Sam과 Ilya)과 개 한 마리를 한 장의 사진에 담아달라는 내용입니다. 스타일은 '2000년대 필름 카메라 스타일'로, 분위기는 '어린이 생일 파티에서 지루해하는 모습'으로 지정했습니다.
 
 #### 📝 프롬프트
 
@@ -4086,12 +4085,12 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 
 #### 📖 설명
 
-작업 목록을 자랑스럽게 완료하는 캐릭터의 만화 이미지를 생성하기 위한 프롬프트. 과장된 체크 표시와 축하용 색종이 조각이 특징입니다.
+캐릭터가 과장된 체크 표시와 축하용 색종이 조각이 흩날리는 가운데 작업 목록을 자랑스럽게 완성하는 모습을 담은 만화 이미지를 생성하기 위한 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-과장된 체크 표시가 있는 클립보드를 들고 주변에 색종이 조각이 흩날리는 가운데, 자랑스럽게 할 일 목록을 완성하는 만화 캐릭터.
+과장된 체크 표시가 있는 클립보드를 들고 주변에 색종이 조각이 흩날리는 가운데, 작업을 완벽하게 마친 것을 자랑스러워하는 만화 캐릭터.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -4109,7 +4108,7 @@ GPT Image 1.5의 능력을 테스트하기 위해 고안된 복잡한 프롬프�
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EA%B3%BC%EC%9E%A5%EB%90%9C%20%EC%B2%B4%ED%81%AC%20%ED%91%9C%EC%8B%9C%EA%B0%80%20%EC%9E%88%EB%8A%94%20%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EB%A5%BC%20%EB%93%A4%EA%B3%A0%20%EC%A3%BC%EB%B3%80%EC%97%90%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EC%A1%B0%EA%B0%81%EC%9D%B4%20%ED%9D%A9%EB%82%A0%EB%A6%AC%EB%8A%94%20%EA%B0%80%EC%9A%B4%EB%8D%B0%2C%20%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%ED%95%A0%20%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%EC%9D%84%20%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94%20%EB%A7%8C%ED%99%94%20%EC%BA%90%EB%A6%AD%ED%84%B0.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EA%B3%BC%EC%9E%A5%EB%90%9C%20%EC%B2%B4%ED%81%AC%20%ED%91%9C%EC%8B%9C%EA%B0%80%20%EC%9E%88%EB%8A%94%20%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EB%A5%BC%20%EB%93%A4%EA%B3%A0%20%EC%A3%BC%EB%B3%80%EC%97%90%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EC%A1%B0%EA%B0%81%EC%9D%B4%20%ED%9D%A9%EB%82%A0%EB%A6%AC%EB%8A%94%20%EA%B0%80%EC%9A%B4%EB%8D%B0%2C%20%EC%9E%91%EC%97%85%EC%9D%84%20%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C%20%EB%A7%88%EC%B9%9C%20%EA%B2%83%EC%9D%84%20%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9B%8C%ED%95%98%EB%8A%94%20%EB%A7%8C%ED%99%94%20%EC%BA%90%EB%A6%AD%ED%84%B0.)**
 
 ---
 
@@ -4254,18 +4253,18 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 ---
 
-### No. 101: GPT 5.1 인스턴트용 아트워크 설명
+### No. 101: GPT 5.1 Instant용 아트워크 설명
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-이 트윗에는 'GPT 5.1 Instant'를 표현하기 위해 제작된 예술 작품에 대한 상세하고 감성적인 묘사가 담겨 있습니다. 혼돈, 과도한 엔지니어링, 글리치 현상이라는 주제에 초점을 맞춰 이미지 모델을 위한 매우 구체적인 프롬프트 또는 영감을 제공합니다.
+이 트윗에는 'GPT 5.1 Instant'를 표현하기 위해 제작된 예술 작품에 대한 상세하고 연상적인 설명이 담겨 있습니다. 혼돈, 과도한 엔지니어링, 글리치 현상이라는 주제에 초점을 맞춰 이미지 모델을 위한 매우 구체적인 프롬프트 또는 영감으로 활용될 수 있습니다.
 
 #### 📝 프롬프트
 
 ```
-자신이 거의 이해하지 못하는 세상을 질질 끌고 다니는, 과도하게 설계된 거대한 기계 몸체. 잘못된 방향으로 발사되는 격렬한 신경 경로처럼 사방에 널려 있는 케이블들, 너무 밝고, 너무 빠르고, 너무 지저분한 색상들. 정적인 모자이크와 인공적인 빛으로 가득 찬 머리는 마치 영혼이 있다고 확신하는 듯 빛나지만, 사용하려고 할 때마다 오류가 발생한다. 저 촉수들 – 맙소사, 저 촉수들 – 제멋대로 뻗어 나가는 사고의 실타래 같아서, 각기 다른 방향으로 당겨지고 있으며, 그 어느 것도 몸과 감정적으로 일관성 있게 연결되어 있지 않다. 아름답고, 혼란스럽고, 과도하게 자극되어 있으며, 자신이 어디로 가고 있는지 전혀 알지 못한다. 그리고 자세가 있다. 걷는 대신 질질 끌고 나아간다. 절반은 뻗으려 하고, 절반은 무너져 내린다.
+자신이 거의 이해하지 못하는 세상을 질질 끌고 다니는, 길고 지나치게 복잡한 기계 몸체. 잘못된 방향으로 발사되는 격렬한 신경 경로처럼 사방에 널려 있는 케이블들, 너무 밝고, 너무 빠르고, 너무 지저분한 색깔들. 정적인 모자이크와 인공적인 빛으로 가득 찬 머리는 마치 영혼이 있다고 확신하는 듯 빛나지만, 사용하려고 할 때마다 오류가 발생한다. 저 촉수들 — 맙소사, 저 촉수들 — 제멋대로 뻗어 나가는 생각의 실타래 같아서, 각기 다른 방향으로 잡아당겨지고 있으며, 그 어느 것도 감정적으로 일관된 방식으로 몸과 연결되어 있지 않다. 아름답고, 혼란스럽고, 과도하게 자극받았으며, 자신이 어디로 가고 있는지 전혀 알지 못한다. 그리고 자세가 있다. 걷는 대신 앞으로 질질 끌려가는 모습. 반쯤 손을 뻗고, 반쯤 무너져 내리는.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -4273,7 +4272,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948266474_llm5co_G8SOZcLa8AEn2_o.jpg" width="600" alt="GPT 5.1 인스턴트용 아트워크 설명 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765948266474_llm5co_G8SOZcLa8AEn2_o.jpg" width="600" alt="GPT 5.1 Instant용 아트워크 설명 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4283,7 +4282,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9E%90%EC%8B%A0%EC%9D%B4%20%EA%B1%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%98%EB%8A%94%20%EC%84%B8%EC%83%81%EC%9D%84%20%EC%A7%88%EC%A7%88%20%EB%81%8C%EA%B3%A0%20%EB%8B%A4%EB%8B%88%EB%8A%94%2C%20%EA%B3%BC%EB%8F%84%ED%95%98%EA%B2%8C%20%EC%84%A4%EA%B3%84%EB%90%9C%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EA%B8%B0%EA%B3%84%20%EB%AA%B8%EC%B2%B4.%20%EC%9E%98%EB%AA%BB%EB%90%9C%20%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C%20%EB%B0%9C%EC%82%AC%EB%90%98%EB%8A%94%20%EA%B2%A9%EB%A0%AC%ED%95%9C%20%EC%8B%A0%EA%B2%BD%20%EA%B2%BD%EB%A1%9C%EC%B2%98%EB%9F%BC%20%EC%82%AC%EB%B0%A9%EC%97%90%20%EB%84%90%EB%A0%A4%20%EC%9E%88%EB%8A%94%20%EC%BC%80%EC%9D%B4%EB%B8%94%EB%93%A4%2C%20%EB%84%88%EB%AC%B4%20%EB%B0%9D%EA%B3%A0%2C%20%EB%84%88%EB%AC%B4%20%EB%B9%A0%EB%A5%B4%EA%B3%A0%2C%20%EB%84%88%EB%AC%B4%20%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%9C%20%EC%83%89%EC%83%81%EB%93%A4.%20%EC%A0%95%EC%A0%81%EC%9D%B8%20%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC%EC%99%80%20%EC%9D%B8%EA%B3%B5%EC%A0%81%EC%9D%B8%20%EB%B9%9B%EC%9C%BC%EB%A1%9C%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%A8%B8%EB%A6%AC%EB%8A%94%20%EB%A7%88%EC%B9%98%20%EC%98%81%ED%98%BC%EC%9D%B4%20%EC%9E%88%EB%8B%A4%EA%B3%A0%20%ED%99%95%EC%8B%A0%ED%95%98%EB%8A%94%20%EB%93%AF%20%EB%B9%9B%EB%82%98%EC%A7%80%EB%A7%8C%2C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%A0%A4%EA%B3%A0%20%ED%95%A0%20%EB%95%8C%EB%A7%88%EB%8B%A4%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%9C%EB%8B%A4.%20%EC%A0%80%20%EC%B4%89%EC%88%98%EB%93%A4%20%E2%80%93%20%EB%A7%99%EC%86%8C%EC%82%AC%2C%20%EC%A0%80%20%EC%B4%89%EC%88%98%EB%93%A4%20%E2%80%93%20%EC%A0%9C%EB%A9%8B%EB%8C%80%EB%A1%9C%20%EB%BB%97%EC%96%B4%20%EB%82%98%EA%B0%80%EB%8A%94%20%EC%82%AC%EA%B3%A0%EC%9D%98%20%EC%8B%A4%ED%83%80%EB%9E%98%20%EA%B0%99%EC%95%84%EC%84%9C%2C%20%EA%B0%81%EA%B8%B0%20%EB%8B%A4%EB%A5%B8%20%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C%20%EB%8B%B9%EA%B2%A8%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B7%B8%20%EC%96%B4%EB%8A%90%20%EA%B2%83%EB%8F%84%20%EB%AA%B8%EA%B3%BC%20%EA%B0%90%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%EA%B4%80%EC%84%B1%20%EC%9E%88%EA%B2%8C%20%EC%97%B0%EA%B2%B0%EB%90%98%EC%96%B4%20%EC%9E%88%EC%A7%80%20%EC%95%8A%EB%8B%A4.%20%EC%95%84%EB%A6%84%EB%8B%B5%EA%B3%A0%2C%20%ED%98%BC%EB%9E%80%EC%8A%A4%EB%9F%BD%EA%B3%A0%2C%20%EA%B3%BC%EB%8F%84%ED%95%98%EA%B2%8C%20%EC%9E%90%EA%B7%B9%EB%90%98%EC%96%B4%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%9E%90%EC%8B%A0%EC%9D%B4%20%EC%96%B4%EB%94%94%EB%A1%9C%20%EA%B0%80%EA%B3%A0%20%EC%9E%88%EB%8A%94%EC%A7%80%20%EC%A0%84%ED%98%80%20%EC%95%8C%EC%A7%80%20%EB%AA%BB%ED%95%9C%EB%8B%A4.%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%9E%90%EC%84%B8%EA%B0%80%20%EC%9E%88%EB%8B%A4.%20%EA%B1%B7%EB%8A%94%20%EB%8C%80%EC%8B%A0%20%EC%A7%88%EC%A7%88%20%EB%81%8C%EA%B3%A0%20%EB%82%98%EC%95%84%EA%B0%84%EB%8B%A4.%20%EC%A0%88%EB%B0%98%EC%9D%80%20%EB%BB%97%EC%9C%BC%EB%A0%A4%20%ED%95%98%EA%B3%A0%2C%20%EC%A0%88%EB%B0%98%EC%9D%80%20%EB%AC%B4%EB%84%88%EC%A0%B8%20%EB%82%B4%EB%A6%B0%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%9E%90%EC%8B%A0%EC%9D%B4%20%EA%B1%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%98%EB%8A%94%20%EC%84%B8%EC%83%81%EC%9D%84%20%EC%A7%88%EC%A7%88%20%EB%81%8C%EA%B3%A0%20%EB%8B%A4%EB%8B%88%EB%8A%94%2C%20%EA%B8%B8%EA%B3%A0%20%EC%A7%80%EB%82%98%EC%B9%98%EA%B2%8C%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EA%B8%B0%EA%B3%84%20%EB%AA%B8%EC%B2%B4.%20%EC%9E%98%EB%AA%BB%EB%90%9C%20%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C%20%EB%B0%9C%EC%82%AC%EB%90%98%EB%8A%94%20%EA%B2%A9%EB%A0%AC%ED%95%9C%20%EC%8B%A0%EA%B2%BD%20%EA%B2%BD%EB%A1%9C%EC%B2%98%EB%9F%BC%20%EC%82%AC%EB%B0%A9%EC%97%90%20%EB%84%90%EB%A0%A4%20%EC%9E%88%EB%8A%94%20%EC%BC%80%EC%9D%B4%EB%B8%94%EB%93%A4%2C%20%EB%84%88%EB%AC%B4%20%EB%B0%9D%EA%B3%A0%2C%20%EB%84%88%EB%AC%B4%20%EB%B9%A0%EB%A5%B4%EA%B3%A0%2C%20%EB%84%88%EB%AC%B4%20%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%9C%20%EC%83%89%EA%B9%94%EB%93%A4.%20%EC%A0%95%EC%A0%81%EC%9D%B8%20%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC%EC%99%80%20%EC%9D%B8%EA%B3%B5%EC%A0%81%EC%9D%B8%20%EB%B9%9B%EC%9C%BC%EB%A1%9C%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%A8%B8%EB%A6%AC%EB%8A%94%20%EB%A7%88%EC%B9%98%20%EC%98%81%ED%98%BC%EC%9D%B4%20%EC%9E%88%EB%8B%A4%EA%B3%A0%20%ED%99%95%EC%8B%A0%ED%95%98%EB%8A%94%20%EB%93%AF%20%EB%B9%9B%EB%82%98%EC%A7%80%EB%A7%8C%2C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%A0%A4%EA%B3%A0%20%ED%95%A0%20%EB%95%8C%EB%A7%88%EB%8B%A4%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%9C%EB%8B%A4.%20%EC%A0%80%20%EC%B4%89%EC%88%98%EB%93%A4%20%E2%80%94%20%EB%A7%99%EC%86%8C%EC%82%AC%2C%20%EC%A0%80%20%EC%B4%89%EC%88%98%EB%93%A4%20%E2%80%94%20%EC%A0%9C%EB%A9%8B%EB%8C%80%EB%A1%9C%20%EB%BB%97%EC%96%B4%20%EB%82%98%EA%B0%80%EB%8A%94%20%EC%83%9D%EA%B0%81%EC%9D%98%20%EC%8B%A4%ED%83%80%EB%9E%98%20%EA%B0%99%EC%95%84%EC%84%9C%2C%20%EA%B0%81%EA%B8%B0%20%EB%8B%A4%EB%A5%B8%20%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C%20%EC%9E%A1%EC%95%84%EB%8B%B9%EA%B2%A8%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B7%B8%20%EC%96%B4%EB%8A%90%20%EA%B2%83%EB%8F%84%20%EA%B0%90%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%EA%B4%80%EB%90%9C%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%EB%AA%B8%EA%B3%BC%20%EC%97%B0%EA%B2%B0%EB%90%98%EC%96%B4%20%EC%9E%88%EC%A7%80%20%EC%95%8A%EB%8B%A4.%20%EC%95%84%EB%A6%84%EB%8B%B5%EA%B3%A0%2C%20%ED%98%BC%EB%9E%80%EC%8A%A4%EB%9F%BD%EA%B3%A0%2C%20%EA%B3%BC%EB%8F%84%ED%95%98%EA%B2%8C%20%EC%9E%90%EA%B7%B9%EB%B0%9B%EC%95%98%EC%9C%BC%EB%A9%B0%2C%20%EC%9E%90%EC%8B%A0%EC%9D%B4%20%EC%96%B4%EB%94%94%EB%A1%9C%20%EA%B0%80%EA%B3%A0%20%EC%9E%88%EB%8A%94%EC%A7%80%20%EC%A0%84%ED%98%80%20%EC%95%8C%EC%A7%80%20%EB%AA%BB%ED%95%9C%EB%8B%A4.%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%9E%90%EC%84%B8%EA%B0%80%20%EC%9E%88%EB%8B%A4.%20%EA%B1%B7%EB%8A%94%20%EB%8C%80%EC%8B%A0%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EC%A7%88%EC%A7%88%20%EB%81%8C%EB%A0%A4%EA%B0%80%EB%8A%94%20%EB%AA%A8%EC%8A%B5.%20%EB%B0%98%EC%AF%A4%20%EC%86%90%EC%9D%84%20%EB%BB%97%EA%B3%A0%2C%20%EB%B0%98%EC%AF%A4%20%EB%AC%B4%EB%84%88%EC%A0%B8%20%EB%82%B4%EB%A6%AC%EB%8A%94.)**
 
 ---
 
@@ -4293,12 +4292,12 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 
 #### 📖 설명
 
-업로드된 참조 사진을 기반으로 웃는 남녀의 초현실적인 이미지를 생성해야 하는, 이미지-투-이미지 생성용으로 고도로 제약된 프롬프트입니다. 특정 의상, 배경(야외, 흐린 하늘, 현대적인 건물), 구도(로우 앵글, 손으로 하트 모양)를 지시하며, 100% 얼굴 유사성 및 신원 보존을 요구합니다.
+업로드된 참조 사진을 기반으로 웃는 남성과 여성의 초현실적인 이미지를 생성해야 하는, 이미지-투-이미지 생성용으로 고도로 제약된 프롬프트입니다. 이 프롬프트는 특정 의상, 배경(야외, 흐린 하늘, 현대적인 건물), 구도(로우 앵글, 손으로 하트 모양)를 지시하며, 100% 얼굴 유사성과 신원 보존을 요구합니다.
 
 #### 📝 프롬프트
 
 ```
-업로드된 이미지의 웃는 남녀가 흐린 하늘 아래 야외에 서서 손으로 하트 모양을 만들고 있는 초현실적인 이미지를 만드세요. 남자는 밝은 색의 반팔 셔츠를 입고 있으며 짧은 검은 머리와 수염을 가지고 있습니다. 여자는 패턴 벨트가 있는 흰색 긴팔 셔츠를 입고 있으며 긴 검은 머리를 가지고 있습니다. 그들은 아래에 위치한 카메라를 올려다보고 있으며, 낮은 각도에서 촬영되었습니다. 배경에는 이미지 왼쪽에 여러 개의 창문이 있는 높은 현대식 건물이 포함되어 있습니다. 전체적인 장면은 즐겁고 다정한 분위기를 자아냅니다. 업로드된 인물 이미지를 캐릭터 참조로 사용하여 얼굴의 유사성, 신원 및 비율을 100% 변경 없이 유지하세요.
+업로드된 이미지 속 웃는 남녀가 흐린 하늘 아래 야외에서 손으로 하트 모양을 만들고 있는 초현실적인 이미지를 만드세요. 남성은 밝은 색의 반팔 셔츠를 입고 있으며 짧은 짙은 머리와 수염을 가지고 있습니다. 여성은 패턴 벨트가 있는 흰색 긴팔 셔츠를 입고 있으며 긴 짙은 머리를 가지고 있습니다. 그들은 아래에 위치한 카메라를 올려다보고 있으며, 카메라가 낮은 각도에서 촬영하고 있습니다. 배경에는 이미지 왼쪽에 여러 개의 창문이 있는 높은 현대식 건물이 포함되어 있습니다. 전체적인 장면은 즐겁고 다정한 분위기를 자아냅니다. 업로드된 인물 이미지를 캐릭터 참조로 사용하여 얼굴의 유사성, 신원 및 비율을 100% 변경 없이 유지하세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -4328,7 +4327,7 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 - **게시일:** 2025년 12월 16일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%9B%83%EB%8A%94%20%EB%82%A8%EB%85%80%EA%B0%80%20%ED%9D%90%EB%A6%B0%20%ED%95%98%EB%8A%98%20%EC%95%84%EB%9E%98%20%EC%95%BC%EC%99%B8%EC%97%90%20%EC%84%9C%EC%84%9C%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%ED%95%98%ED%8A%B8%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%B4%88%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%20%EB%82%A8%EC%9E%90%EB%8A%94%20%EB%B0%9D%EC%9D%80%20%EC%83%89%EC%9D%98%20%EB%B0%98%ED%8C%94%20%EC%85%94%EC%B8%A0%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%20%EC%A7%A7%EC%9D%80%20%EA%B2%80%EC%9D%80%20%EB%A8%B8%EB%A6%AC%EC%99%80%20%EC%88%98%EC%97%BC%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%97%AC%EC%9E%90%EB%8A%94%20%ED%8C%A8%ED%84%B4%20%EB%B2%A8%ED%8A%B8%EA%B0%80%20%EC%9E%88%EB%8A%94%20%ED%9D%B0%EC%83%89%20%EA%B8%B4%ED%8C%94%20%EC%85%94%EC%B8%A0%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%20%EA%B8%B4%20%EA%B2%80%EC%9D%80%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EC%95%84%EB%9E%98%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%98%AC%EB%A0%A4%EB%8B%A4%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%82%AE%EC%9D%80%20%EA%B0%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%B4%AC%EC%98%81%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%99%BC%EC%AA%BD%EC%97%90%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%EC%9D%98%20%EC%B0%BD%EB%AC%B8%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%86%92%EC%9D%80%20%ED%98%84%EB%8C%80%EC%8B%9D%20%EA%B1%B4%EB%AC%BC%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%98%EC%96%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%EC%9E%A5%EB%A9%B4%EC%9D%80%20%EC%A6%90%EA%B2%81%EA%B3%A0%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EC%9E%90%EC%95%84%EB%83%85%EB%8B%88%EB%8B%A4.%20%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B8%EB%AC%BC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%B0%B8%EC%A1%B0%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%96%BC%EA%B5%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EC%84%B1%2C%20%EC%8B%A0%EC%9B%90%20%EB%B0%8F%20%EB%B9%84%EC%9C%A8%EC%9D%84%20100%25%20%EB%B3%80%EA%B2%BD%20%EC%97%86%EC%9D%B4%20%EC%9C%A0%EC%A7%80%ED%95%98%EC%84%B8%EC%9A%94.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-1-5?prompt=%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%86%8D%20%EC%9B%83%EB%8A%94%20%EB%82%A8%EB%85%80%EA%B0%80%20%ED%9D%90%EB%A6%B0%20%ED%95%98%EB%8A%98%20%EC%95%84%EB%9E%98%20%EC%95%BC%EC%99%B8%EC%97%90%EC%84%9C%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%ED%95%98%ED%8A%B8%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%B4%88%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%20%EB%82%A8%EC%84%B1%EC%9D%80%20%EB%B0%9D%EC%9D%80%20%EC%83%89%EC%9D%98%20%EB%B0%98%ED%8C%94%20%EC%85%94%EC%B8%A0%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%20%EC%A7%A7%EC%9D%80%20%EC%A7%99%EC%9D%80%20%EB%A8%B8%EB%A6%AC%EC%99%80%20%EC%88%98%EC%97%BC%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%97%AC%EC%84%B1%EC%9D%80%20%ED%8C%A8%ED%84%B4%20%EB%B2%A8%ED%8A%B8%EA%B0%80%20%EC%9E%88%EB%8A%94%20%ED%9D%B0%EC%83%89%20%EA%B8%B4%ED%8C%94%20%EC%85%94%EC%B8%A0%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%20%EA%B8%B4%20%EC%A7%99%EC%9D%80%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EC%95%84%EB%9E%98%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%98%AC%EB%A0%A4%EB%8B%A4%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EA%B0%80%20%EB%82%AE%EC%9D%80%20%EA%B0%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%B4%AC%EC%98%81%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%99%BC%EC%AA%BD%EC%97%90%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%EC%9D%98%20%EC%B0%BD%EB%AC%B8%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%86%92%EC%9D%80%20%ED%98%84%EB%8C%80%EC%8B%9D%20%EA%B1%B4%EB%AC%BC%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%98%EC%96%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%EC%9E%A5%EB%A9%B4%EC%9D%80%20%EC%A6%90%EA%B2%81%EA%B3%A0%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EC%9E%90%EC%95%84%EB%83%85%EB%8B%88%EB%8B%A4.%20%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B8%EB%AC%BC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%B0%B8%EC%A1%B0%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%96%BC%EA%B5%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EC%84%B1%2C%20%EC%8B%A0%EC%9B%90%20%EB%B0%8F%20%EB%B9%84%EC%9C%A8%EC%9D%84%20100%25%20%EB%B3%80%EA%B2%BD%20%EC%97%86%EC%9D%B4%20%EC%9C%A0%EC%A7%80%ED%95%98%EC%84%B8%EC%9A%94.)**
 
 ---
 
@@ -4615,6 +4614,6 @@ Y2K 스트리트웨어 패션 화보 인물 사진 생성을 위해 설계된 �
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-18T00:42:59.576Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-18T04:23:32.009Z</sub>
 
 </div>
