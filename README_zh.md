@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **108** |
 | ⭐ 精选 | **1** |
-| 🔄 最后更新 | **2025年12月17日星期三 UTC 20:11:36** |
+| 🔄 最后更新 | **2025年12月18日星期四 UTC 00:42:57** |
 
 </div>
 
@@ -4619,6 +4619,6 @@ OpenAI 历史信息图，包括其在 2025 年的进展
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-17T20:11:36.507Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-18T00:42:57.098Z</sub>
 
 </div>
