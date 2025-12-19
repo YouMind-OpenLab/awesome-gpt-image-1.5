@@ -87,29 +87,30 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 | Metrik | Sayı |
 |--------|-------|
 | 📝 Toplam İstem | **213** |
-| ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **19 Aralık 2025 Cuma 04:25:39 UTC** |
+| ⭐ Öne Çıkan | **3** |
+| 🔄 Son Güncelleme | **19 Aralık 2025 Cuma 08:15:41 UTC** |
 
 </div>
 
 ---
 
-## 📋 Tüm İstemler
+## 🔥 Öne Çıkan İstemler
 
-> 📝 Yayın tarihine göre sıralandı (en yeni önce)
+> ⭐ Ekibimiz tarafından olağanüstü kalite ve yaratıcılık için özenle seçildi
 
-### No. 1: Aesthetic Image Generation Prompt
+### No. 1: Kaykaycı Genç Film Fotoğrafçılığı İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Açıklama
 
-This prompt is used with ChatGPT Image to generate an image where every detail is aligned and every color tells a story, suggesting a highly detailed and aesthetically pleasing visual output.
+GPT Image 1.5 ve Midjourney V7'yi karşılaştırmak üzere tasarlanmış, grafiti kaplı bir kaykay parkında kaykay numaraları yapan siyahi bir gencin dinamik sahnesine odaklanan ve Kodak Professional PORTRA 400 filminin estetiğiyle oluşturulmuş ayrıntılı bir görsel oluşturma istemi.
 
 #### 📝 İstem
 
 ```
-A high-resolution, cinematic photograph of a lone, ancient lighthouse standing on a rugged cliff edge at sunset. The sky is dramatic, painted in deep oranges, purples, and blues, with rays of light breaking through the clouds. Waves crash violently against the rocks below, creating a fine mist. The lighthouse beam cuts sharply through the twilight air. The texture of the stone and the weathered metal of the lantern room are highly detailed. The overall mood is one of isolation, power, and enduring beauty. Shot on a large format camera, 85mm lens, f/2.8, golden hour lighting.
+Grafitilerle kaplı bir kaykay parkında zorlu kaykay hareketleri yapan siyahi bir genç, Kodak Professional PORTRA 400 film --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -117,7 +118,124 @@ A high-resolution, cinematic photograph of a lone, ancient lighthouse standing o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Aesthetic Image Generation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="700" alt="Kaykaycı Genç Film Fotoğrafçılığı İstemleri - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="700" alt="Kaykaycı Genç Film Fotoğrafçılığı İstemleri - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Johnny Wang](https://x.com/JohnnyWang8802)
+- **Kaynak:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
+- **Yayınlandı:** 17 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Grafitilerle%20kapl%C4%B1%20bir%20kaykay%20park%C4%B1nda%20zorlu%20kaykay%20hareketleri%20yapan%20siyahi%20bir%20gen%C3%A7%2C%20Kodak%20Professional%20PORTRA%20400%20film%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
+
+---
+
+### No. 2: Çocuklar için Almanca alfabe posteri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Açıklama
+
+Çocukların alfabeyi öğrenmesi için A'dan Z'ye tüm harfleri içeren, her harfin altında ilgili hayvanı ve adını sevimli, çizgi film tarzı bir çizimle gösteren bir poster isteyen Almanca bir komut istemi.
+
+#### 📝 İstem
+
+```
+A'dan Z'ye alfabenin tüm harflerini içeren bir poster. Her harfin altında, adı o harfle başlayan bir hayvan bulunmaktadır. Hayvanın adı her hayvanın altına yazılmıştır. Stil: şirin çizimli, çizgi roman tarzı. Çocukların alfabeyi öğrenmek için kullanabileceği bir posterdir.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="700" alt="Çocuklar için Almanca alfabe posteri - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="700" alt="Çocuklar için Almanca alfabe posteri - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [smn Sk](https://x.com/smnSk241687)
+- **Kaynak:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
+- **Yayınlandı:** 17 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A'dan%20Z'ye%20alfabenin%20t%C3%BCm%20harflerini%20i%C3%A7eren%20bir%20poster.%20Her%20harfin%20alt%C4%B1nda%2C%20ad%C4%B1%20o%20harfle%20ba%C5%9Flayan%20bir%20hayvan%20bulunmaktad%C4%B1r.%20Hayvan%C4%B1n%20ad%C4%B1%20her%20hayvan%C4%B1n%20alt%C4%B1na%20yaz%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Stil%3A%20%C5%9Firin%20%C3%A7izimli%2C%20%C3%A7izgi%20roman%20tarz%C4%B1.%20%C3%87ocuklar%C4%B1n%20alfabeyi%20%C3%B6%C4%9Frenmek%20i%C3%A7in%20kullanabilece%C4%9Fi%20bir%20posterdir.)**
+
+---
+
+### No. 3: Çalışan bir kadının düz vektör illüstrasyonu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Açıklama
+
+Modern grafik tasarım veya web sitesi öğeleri için uygun, masasında oturan ve dizüstü bilgisayarında çalışan sarışın bir kadını gösteren düz bir vektör illüstrasyonu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Dizüstü bilgisayarında çalışan, masada oturan sarışın bir kadının düz vektör illüstrasyonu.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="700" alt="Çalışan bir kadının düz vektör illüstrasyonu - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [PromptlyAI](https://x.com/PromptlyAI_YT)
+- **Kaynak:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
+- **Yayınlandı:** 17 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Diz%C3%BCst%C3%BC%20bilgisayar%C4%B1nda%20%C3%A7al%C4%B1%C5%9Fan%2C%20masada%20oturan%20sar%C4%B1%C5%9F%C4%B1n%20bir%20kad%C4%B1n%C4%B1n%20d%C3%BCz%20vekt%C3%B6r%20ill%C3%BCstrasyonu.)**
+
+---
+
+## 📋 Tüm İstemler
+
+> 📝 Yayın tarihine göre sıralandı (en yeni önce)
+
+### No. 1: Estetik Görüntü Oluşturma İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bu bilgi istemi, her detayın uyumlu olduğu ve her rengin bir hikaye anlattığı, son derece ayrıntılı ve estetik açıdan hoş bir görsel çıktı öneren bir görüntü oluşturmak için ChatGPT Image ile birlikte kullanılır.
+
+#### 📝 İstem
+
+```
+Gün batımında, engebeli bir uçurumun kenarında duran yalnız, kadim bir deniz fenerinin yüksek çözünürlüklü, sinematik bir fotoğrafı. Gökyüzü dramatik; derin turuncular, morlar ve mavilerle boyanmış, ışık huzmeleri bulutların arasından süzülüyor. Dalgalar aşağıdaki kayalara şiddetle çarparak ince bir sis oluşturuyor. Deniz fenerinin ışığı alacakaranlık havayı keskin bir şekilde yarıyor. Taşın dokusu ve fener odasının yıpranmış metali son derece detaylı. Genel ruh hali, yalnızlık, güç ve kalıcı güzellikten oluşuyor. Geniş format bir kamera, 85mm lens, f/2.8, altın saat ışığıyla çekildi.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Estetik Görüntü Oluşturma İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -127,23 +245,23 @@ A high-resolution, cinematic photograph of a lone, ancient lighthouse standing o
 - **Yayınlandı:** 19 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A%20high-resolution%2C%20cinematic%20photograph%20of%20a%20lone%2C%20ancient%20lighthouse%20standing%20on%20a%20rugged%20cliff%20edge%20at%20sunset.%20The%20sky%20is%20dramatic%2C%20painted%20in%20deep%20oranges%2C%20purples%2C%20and%20blues%2C%20with%20rays%20of%20light%20breaking%20through%20the%20clouds.%20Waves%20crash%20violently%20against%20the%20rocks%20below%2C%20creating%20a%20fine%20mist.%20The%20lighthouse%20beam%20cuts%20sharply%20through%20the%20twilight%20air.%20The%20texture%20of%20the%20stone%20and%20the%20weathered%20metal%20of%20the%20lantern%20room%20are%20highly%20detailed.%20The%20overall%20mood%20is%20one%20of%20isolation%2C%20power%2C%20and%20enduring%20beauty.%20Shot%20on%20a%20large%20format%20camera%2C%2085mm%20lens%2C%20f%2F2.8%2C%20golden%20hour%20lighting.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=G%C3%BCn%20bat%C4%B1m%C4%B1nda%2C%20engebeli%20bir%20u%C3%A7urumun%20kenar%C4%B1nda%20duran%20yaln%C4%B1z%2C%20kadim%20bir%20deniz%20fenerinin%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20sinematik%20bir%20foto%C4%9Fraf%C4%B1.%20G%C3%B6ky%C3%BCz%C3%BC%20dramatik%3B%20derin%20turuncular%2C%20morlar%20ve%20mavilerle%20boyanm%C4%B1%C5%9F%2C%20%C4%B1%C5%9F%C4%B1k%20huzmeleri%20bulutlar%C4%B1n%20aras%C4%B1ndan%20s%C3%BCz%C3%BCl%C3%BCyor.%20Dalgalar%20a%C5%9Fa%C4%9F%C4%B1daki%20kayalara%20%C5%9Fiddetle%20%C3%A7arparak%20ince%20bir%20sis%20olu%C5%9Fturuyor.%20Deniz%20fenerinin%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20alacakaranl%C4%B1k%20havay%C4%B1%20keskin%20bir%20%C5%9Fekilde%20yar%C4%B1yor.%20Ta%C5%9F%C4%B1n%20dokusu%20ve%20fener%20odas%C4%B1n%C4%B1n%20y%C4%B1pranm%C4%B1%C5%9F%20metali%20son%20derece%20detayl%C4%B1.%20Genel%20ruh%20hali%2C%20yaln%C4%B1zl%C4%B1k%2C%20g%C3%BC%C3%A7%20ve%20kal%C4%B1c%C4%B1%20g%C3%BCzellikten%20olu%C5%9Fuyor.%20Geni%C5%9F%20format%20bir%20kamera%2C%2085mm%20lens%2C%20f%2F2.8%2C%20alt%C4%B1n%20saat%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1yla%20%C3%A7ekildi.)**
 
 ---
 
-### No. 2: Pencil Sketch Schematics of Bender
+### No. 2: Bender'ın Kalem Eskizi Şemaları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A simple, direct prompt for GPT Image 1.5 requesting a pencil sketch illustrating the schematics of the character Bender, likely from Futurama.
+GPT Image 1.5 için, muhtemelen Futurama'dan Bender karakterinin şemalarını gösteren bir kurşun kalem çizimi isteyen basit, doğrudan bir istem.
 
 #### 📝 İstem
 
 ```
-Pencil sketch for the schematics of {argument name="character" default="bender"}
+{argument name="character" default="bender"} şemaları için kurşun kalem çizimi
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -151,7 +269,7 @@ Pencil sketch for the schematics of {argument name="character" default="bender"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Pencil Sketch Schematics of Bender - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Bender'ın Kalem Eskizi Şemaları - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -161,37 +279,37 @@ Pencil sketch for the schematics of {argument name="character" default="bender"}
 - **Yayınlandı:** 19 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Pencil%20sketch%20for%20the%20schematics%20of%20%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D%20%C5%9Femalar%C4%B1%20i%C3%A7in%20kur%C5%9Fun%20kalem%20%C3%A7izimi)**
 
 ---
 
-### No. 3: Detailed Fashion Product Photography Prompt for GPT Image 1.5
+### No. 3: GPT Image 1.5 İçin Detaylı Moda Ürünü Fotoğrafçılığı İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A highly detailed, structured prompt designed for GPT Image 1.5 to generate a commercial advertisement-quality image. The composition is a vertical split-screen featuring a product photography flat-lay of an outfit in a museum specimen box on the top, and a hyperrealistic 'naked-eye 3D' illusion of a model wearing the exact same outfit on the bottom, creating a visual contrast between presentation and reality. The prompt includes specific details on clothing, props, model description, pose, and technical rendering specs.
+GPT Image 1.5 için tasarlanmış, ticari reklam kalitesinde bir görsel oluşturmaya yönelik, oldukça detaylı ve yapılandırılmış bir istem. Kompozisyon, üst kısımda bir müze numune kutusunda bir kıyafetin ürün fotoğrafçılığı düz serimi ve alt kısımda aynı kıyafeti giyen bir modelin hiper gerçekçi "çıplak gözle 3D" illüzyonunu içeren dikey bir bölünmüş ekrandır; bu, sunum ve gerçeklik arasında görsel bir kontrast yaratır. İstem, giyim, aksesuarlar, model açıklaması, poz ve teknik render özellikleri hakkında belirli detaylar içerir.
 
 #### 📝 İstem
 
 ```
-A vertical split-screen creative product photography composition on a clean white wall background. High-resolution, photorealistic, commercial advertisement quality.
+Temiz beyaz bir duvar fonunda dikey ayrık ekranlı yaratıcı bir ürün fotoğrafçılığı kompozisyonu. Yüksek çözünürlüklü, fotogerçekçi, ticari reklam kalitesinde.
 
-Top Section: The Specimen Box
-The upper half features an exquisite light oak wooden shadow box frame mounted on the wall. Inside, a specific outfit is displayed as an artistic flat-lay museum specimen: {argument name="Clothing Details" default="a sleek black satin slip dress with delicate lace trim and thin spaghetti straps"}. The garments are neatly pinned in place. Surrounding them are small thematic decorative props: {argument name="Props" default="dried roses, vintage perfume bottles, silk ribbon"}. Elegant calligraphy on the matte paper backdrop reads: {argument name="Text" default="Midnight Elegance"}. Soft studio lighting accentuates the rich texture and drape of the fabric.
+Üst Kısım: Numune Kutusu
+Üst yarıda, duvara monte edilmiş zarif, açık meşe ahşap bir gölgelik kutu çerçeve yer alıyor. İçinde, sanatsal bir düz sergi müze numunesi olarak belirli bir kıyafet sergileniyor: {argument name="Clothing Details" default="narin dantel işlemeli ve ince spagetti askılı şık siyah saten bir slip elbise"}. Giysiler düzgünce iğnelenmiş. Etraflarında küçük tematik dekoratif aksesuarlar bulunuyor: {argument name="Props" default="kurutulmuş güller, eski parfüm şişeleri, ipek kurdele"}. Mat kağıt fondaki zarif kaligrafi şunları yazıyor: {argument name="Text" default="Gece Yarısı Zarafeti"}. Yumuşak stüdyo aydınlatması, kumaşın zengin dokusunu ve dökümünü vurguluyor.
 
-Bottom Section: Naked-Eye 3D Reality
-The lower half creates a hyperrealistic "naked-eye 3D" illusion. A rectangular picture-frame border sits directly beneath the top box. A stunningly realistic young woman {argument name="Model Description" default="a poised East Asian model with long wavy black hair, subtle smoky eyes, and a confident gaze"} wears the exact same outfit as shown above.
+Alt Kısım: Çıplak Gözle 3D Gerçeklik
+Alt yarı, hiperrealist bir "çıplak gözle 3D" illüzyonu yaratıyor. Dikdörtgen bir resim çerçevesi, üst kutunun hemen altında yer alıyor. Çarpıcı derecede gerçekçi genç bir kadın {argument name="Model Description" default="uzun dalgalı siyah saçları, hafif dumanlı gözleri ve kendinden emin bakışlarıyla zarif bir Doğu Asyalı model"}, yukarıda gösterilenle tamamen aynı kıyafeti giyiyor.
 
-She lounges casually on the bottom edge of the frame—one leg bent with foot resting inside the frame, the other leg elegantly dangling out into the viewer’s space. Her torso leans back slightly, elbow resting on her raised knee, fingers lightly grazing the fabric near her collarbone. Her body forms a soft, sensual S-curve that highlights the garment’s silhouette without overt exposure. She looks directly at the camera with a calm, knowing smile—inviting yet enigmatic. This dynamic, lifelike pose contrasts powerfully with the static, archival display above, creating visual tension between reality and presentation.
+Kadın, çerçevenin alt kenarında rahatça uzanıyor; bir bacağı bükülmüş, ayağı çerçevenin içinde duruyor, diğer bacağı zarifçe izleyicinin boşluğuna doğru sarkıyor. Gövdesi hafifçe geriye yaslanmış, dirseği kalkık dizinde duruyor, parmakları köprücük kemiğinin yakınındaki kumaşa hafifçe değiyor. Vücudu, aşırıya kaçmadan giysinin siluetini vurgulayan yumuşak, şehvetli bir S-eğrisi oluşturuyor. Sakin, bilmiş bir gülümsemeyle doğrudan kameraya bakıyor; davetkar ama esrarengiz. Bu dinamik, gerçekçi poz, yukarıdaki statik, arşivsel sergiyle güçlü bir tezat oluşturarak gerçeklik ve sunum arasında görsel bir gerilim yaratıyor.
 
-Technical Specs:
-Soft natural shadows, ambient occlusion, bright and airy yet cinematic lighting, 8K resolution, Octane Render, vivid but refined color palette, ultra-detailed fabric textures (satin sheen, lace transparency, stitching), shallow depth of field, Vogue editorial style, filmic grain, professional fashion photography.
+Teknik Özellikler:
+Yumuşak doğal gölgeler, ortam aydınlatması, aydınlık ve havadar ama sinematik aydınlatma, 8K çözünürlük, Octane Render, canlı ama rafine renk paleti, ultra detaylı kumaş dokuları (saten parlaklığı, dantel şeffaflığı, dikişler), sığ alan derinliği, Vogue editoryal tarzı, film greni, profesyonel moda fotoğrafçılığı.
 
-Negative Prompt (recommended):
-blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime, doll-like, plastic skin, overexposed, cluttered background, text errors, mismatched clothing, floating objects, unrealistic proportions.
+Negatif İstem (önerilen):
+bulanık, düşük çözünürlüklü, bozuk anatomi, fazladan uzuvlar, deforme eller, çizgi film, anime, bebeksi, plastik cilt, aşırı pozlanmış, dağınık arka plan, metin hataları, uyumsuz giysiler, yüzen nesneler, gerçekçi olmayan oranlar.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -199,13 +317,13 @@ blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="GPT Image 1.5 İçin Detaylı Moda Ürünü Fotoğrafçılığı İstemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="GPT Image 1.5 İçin Detaylı Moda Ürünü Fotoğrafçılığı İstemi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -215,28 +333,28 @@ blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime,
 - **Yayınlandı:** 19 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A%20vertical%20split-screen%20creative%20product%20photography%20composition%20on%20a%20clean%20white%20wall%20background.%20High-resolution%2C%20photorealistic%2C%20commercial%20advertisement%20quality.%0A%0ATop%20Section%3A%20The%20Specimen%20Box%0AThe%20upper%20half%20features%20an%20exquisite%20light%20oak%20wooden%20shadow%20box%20frame%20mounted%20on%20the%20wall.%20Inside%2C%20a%20specific%20outfit%20is%20displayed%20as%20an%20artistic%20flat-lay%20museum%20specimen%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22a%20sleek%20black%20satin%20slip%20dress%20with%20delicate%20lace%20trim%20and%20thin%20spaghetti%20straps%22%7D.%20The%20garments%20are%20neatly%20pinned%20in%20place.%20Surrounding%20them%20are%20small%20thematic%20decorative%20props%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22dried%20roses%2C%20vintage%20perfume%20bottles%2C%20silk%20ribbon%22%7D.%20Elegant%20calligraphy%20on%20the%20matte%20paper%20backdrop%20reads%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Soft%20studio%20lighting%20accentuates%20the%20rich%20texture%20and%20drape%20of%20the%20fabric.%0A%0ABottom%20Section%3A%20Naked-Eye%203D%20Reality%0AThe%20lower%20half%20creates%20a%20hyperrealistic%20%22naked-eye%203D%22%20illusion.%20A%20rectangular%20picture-frame%20border%20sits%20directly%20beneath%20the%20top%20box.%20A%20stunningly%20realistic%20young%20woman%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22a%20poised%20East%20Asian%20model%20with%20long%20wavy%20black%20hair%2C%20subtle%20smoky%20eyes%2C%20and%20a%20confident%20gaze%22%7D%20wears%20the%20exact%20same%20outfit%20as%20shown%20above.%0A%0AShe%20lounges%20casually%20on%20the%20bottom%20edge%20of%20the%20frame%E2%80%94one%20leg%20bent%20with%20foot%20resting%20inside%20the%20frame%2C%20the%20other%20leg%20elegantly%20dangling%20out%20into%20the%20viewer%E2%80%99s%20space.%20Her%20torso%20leans%20back%20slightly%2C%20elbow%20resting%20on%20her%20raised%20knee%2C%20fingers%20lightly%20grazing%20the%20fabric%20near%20her%20collarbone.%20Her%20body%20forms%20a%20soft%2C%20sensual%20S-curve%20that%20highlights%20the%20garment%E2%80%99s%20silhouette%20without%20overt%20exposure.%20She%20looks%20directly%20at%20the%20camera%20with%20a%20calm%2C%20knowing%20smile%E2%80%94inviting%20yet%20enigmatic.%20This%20dynamic%2C%20lifelike%20pose%20contrasts%20powerfully%20with%20the%20static%2C%20archival%20display%20above%2C%20creating%20visual%20tension%20between%20reality%20and%20presentation.%0A%0ATechnical%20Specs%3A%0ASoft%20natural%20shadows%2C%20ambient%20occlusion%2C%20bright%20and%20airy%20yet%20cinematic%20lighting%2C%208K%20resolution%2C%20Octane%20Render%2C%20vivid%20but%20refined%20color%20palette%2C%20ultra-detailed%20fabric%20textures%20(satin%20sheen%2C%20lace%20transparency%2C%20stitching)%2C%20shallow%20depth%20of%20field%2C%20Vogue%20editorial%20style%2C%20filmic%20grain%2C%20professional%20fashion%20photography.%0A%0ANegative%20Prompt%20(recommended)%3A%0Ablurry%2C%20low-res%2C%20distorted%20anatomy%2C%20extra%20limbs%2C%20deformed%20hands%2C%20cartoon%2C%20anime%2C%20doll-like%2C%20plastic%20skin%2C%20overexposed%2C%20cluttered%20background%2C%20text%20errors%2C%20mismatched%20clothing%2C%20floating%20objects%2C%20unrealistic%20proportions.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Temiz%20beyaz%20bir%20duvar%20fonunda%20dikey%20ayr%C4%B1k%20ekranl%C4%B1%20yarat%C4%B1c%C4%B1%20bir%20%C3%BCr%C3%BCn%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%20kompozisyonu.%20Y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20fotoger%C3%A7ek%C3%A7i%2C%20ticari%20reklam%20kalitesinde.%0A%0A%C3%9Cst%20K%C4%B1s%C4%B1m%3A%20Numune%20Kutusu%0A%C3%9Cst%20yar%C4%B1da%2C%20duvara%20monte%20edilmi%C5%9F%20zarif%2C%20a%C3%A7%C4%B1k%20me%C5%9Fe%20ah%C5%9Fap%20bir%20g%C3%B6lgelik%20kutu%20%C3%A7er%C3%A7eve%20yer%20al%C4%B1yor.%20%C4%B0%C3%A7inde%2C%20sanatsal%20bir%20d%C3%BCz%20sergi%20m%C3%BCze%20numunesi%20olarak%20belirli%20bir%20k%C4%B1yafet%20sergileniyor%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22narin%20dantel%20i%C5%9Flemeli%20ve%20ince%20spagetti%20ask%C4%B1l%C4%B1%20%C5%9F%C4%B1k%20siyah%20saten%20bir%20slip%20elbise%22%7D.%20Giysiler%20d%C3%BCzg%C3%BCnce%20i%C4%9Fnelenmi%C5%9F.%20Etraflar%C4%B1nda%20k%C3%BC%C3%A7%C3%BCk%20tematik%20dekoratif%20aksesuarlar%20bulunuyor%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22kurutulmu%C5%9F%20g%C3%BCller%2C%20eski%20parf%C3%BCm%20%C5%9Fi%C5%9Feleri%2C%20ipek%20kurdele%22%7D.%20Mat%20ka%C4%9F%C4%B1t%20fondaki%20zarif%20kaligrafi%20%C5%9Funlar%C4%B1%20yaz%C4%B1yor%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Gece%20Yar%C4%B1s%C4%B1%20Zarafeti%22%7D.%20Yumu%C5%9Fak%20st%C3%BCdyo%20ayd%C4%B1nlatmas%C4%B1%2C%20kuma%C5%9F%C4%B1n%20zengin%20dokusunu%20ve%20d%C3%B6k%C3%BCm%C3%BCn%C3%BC%20vurguluyor.%0A%0AAlt%20K%C4%B1s%C4%B1m%3A%20%C3%87%C4%B1plak%20G%C3%B6zle%203D%20Ger%C3%A7eklik%0AAlt%20yar%C4%B1%2C%20hiperrealist%20bir%20%22%C3%A7%C4%B1plak%20g%C3%B6zle%203D%22%20ill%C3%BCzyonu%20yarat%C4%B1yor.%20Dikd%C3%B6rtgen%20bir%20resim%20%C3%A7er%C3%A7evesi%2C%20%C3%BCst%20kutunun%20hemen%20alt%C4%B1nda%20yer%20al%C4%B1yor.%20%C3%87arp%C4%B1c%C4%B1%20derecede%20ger%C3%A7ek%C3%A7i%20gen%C3%A7%20bir%20kad%C4%B1n%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22uzun%20dalgal%C4%B1%20siyah%20sa%C3%A7lar%C4%B1%2C%20hafif%20dumanl%C4%B1%20g%C3%B6zleri%20ve%20kendinden%20emin%20bak%C4%B1%C5%9Flar%C4%B1yla%20zarif%20bir%20Do%C4%9Fu%20Asyal%C4%B1%20model%22%7D%2C%20yukar%C4%B1da%20g%C3%B6sterilenle%20tamamen%20ayn%C4%B1%20k%C4%B1yafeti%20giyiyor.%0A%0AKad%C4%B1n%2C%20%C3%A7er%C3%A7evenin%20alt%20kenar%C4%B1nda%20rahat%C3%A7a%20uzan%C4%B1yor%3B%20bir%20baca%C4%9F%C4%B1%20b%C3%BCk%C3%BClm%C3%BC%C5%9F%2C%20aya%C4%9F%C4%B1%20%C3%A7er%C3%A7evenin%20i%C3%A7inde%20duruyor%2C%20di%C4%9Fer%20baca%C4%9F%C4%B1%20zarif%C3%A7e%20izleyicinin%20bo%C5%9Flu%C4%9Funa%20do%C4%9Fru%20sark%C4%B1yor.%20G%C3%B6vdesi%20hafif%C3%A7e%20geriye%20yaslanm%C4%B1%C5%9F%2C%20dirse%C4%9Fi%20kalk%C4%B1k%20dizinde%20duruyor%2C%20parmaklar%C4%B1%20k%C3%B6pr%C3%BCc%C3%BCk%20kemi%C4%9Finin%20yak%C4%B1n%C4%B1ndaki%20kuma%C5%9Fa%20hafif%C3%A7e%20de%C4%9Fiyor.%20V%C3%BCcudu%2C%20a%C5%9F%C4%B1r%C4%B1ya%20ka%C3%A7madan%20giysinin%20siluetini%20vurgulayan%20yumu%C5%9Fak%2C%20%C5%9Fehvetli%20bir%20S-e%C4%9Frisi%20olu%C5%9Fturuyor.%20Sakin%2C%20bilmi%C5%9F%20bir%20g%C3%BCl%C3%BCmsemeyle%20do%C4%9Frudan%20kameraya%20bak%C4%B1yor%3B%20davetkar%20ama%20esrarengiz.%20Bu%20dinamik%2C%20ger%C3%A7ek%C3%A7i%20poz%2C%20yukar%C4%B1daki%20statik%2C%20ar%C5%9Fivsel%20sergiyle%20g%C3%BC%C3%A7l%C3%BC%20bir%20tezat%20olu%C5%9Fturarak%20ger%C3%A7eklik%20ve%20sunum%20aras%C4%B1nda%20g%C3%B6rsel%20bir%20gerilim%20yarat%C4%B1yor.%0A%0ATeknik%20%C3%96zellikler%3A%0AYumu%C5%9Fak%20do%C4%9Fal%20g%C3%B6lgeler%2C%20ortam%20ayd%C4%B1nlatmas%C4%B1%2C%20ayd%C4%B1nl%C4%B1k%20ve%20havadar%20ama%20sinematik%20ayd%C4%B1nlatma%2C%208K%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk%2C%20Octane%20Render%2C%20canl%C4%B1%20ama%20rafine%20renk%20paleti%2C%20ultra%20detayl%C4%B1%20kuma%C5%9F%20dokular%C4%B1%20(saten%20parlakl%C4%B1%C4%9F%C4%B1%2C%20dantel%20%C5%9Feffafl%C4%B1%C4%9F%C4%B1%2C%20diki%C5%9Fler)%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2C%20Vogue%20editoryal%20tarz%C4%B1%2C%20film%20greni%2C%20profesyonel%20moda%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1.%0A%0ANegatif%20%C4%B0stem%20(%C3%B6nerilen)%3A%0Abulan%C4%B1k%2C%20d%C3%BC%C5%9F%C3%BCk%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20bozuk%20anatomi%2C%20fazladan%20uzuvlar%2C%20deforme%20eller%2C%20%C3%A7izgi%20film%2C%20anime%2C%20bebeksi%2C%20plastik%20cilt%2C%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20da%C4%9F%C4%B1n%C4%B1k%20arka%20plan%2C%20metin%20hatalar%C4%B1%2C%20uyumsuz%20giysiler%2C%20y%C3%BCzen%20nesneler%2C%20ger%C3%A7ek%C3%A7i%20olmayan%20oranlar.)**
 
 ---
 
-### No. 4: Desert Ruins of Pure Math Grid
+### No. 4: Saf Matematik Izgarasının Çöl Harabeleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A highly specific prompt for generating a 2x2 grid of monumental desert ruins, where each ruin is constructed in the style of Cairo monumental stone and represents a major mathematical symbol (Integral, Sigma, Pi, Penrose Triangle).
+Anıtsal çöl kalıntılarından oluşan 2x2'lik bir ızgara oluşturmak için oldukça spesifik bir komut istemi. Her bir kalıntı, Kahire anıtsal taş tarzında inşa edilmiş olup büyük bir matematiksel sembolü (İntegral, Sigma, Pi, Penrose Üçgeni) temsil etmektedir.
 
 #### 📝 İstem
 
 ```
-Desert Ruins of Pure Math (Cairo-style monumental stone)
-A 2x2 grid of 4 monumental mathematical symbols built as ancient desert ruins in sandstone
-[Top Left: The Integral (∫) as a collapsed arch-aqueduct, wind-eroded blocks, carved microtext equations, tiny caravans for scale]
-[Top Right: The Sigma (Σ) as a stepped fortress-ziggurat with sharp terraces, long shadows, sand drifts collecting in corners]
-[Bottom Left: The Pi (π) as two colossal pylons and a lintel bridge over a narrow oasis canal, chipped stone, scattered rubble geometry]
-[Bottom Right: A Penrose Triangle as impossible ruins half-buried in dunes, optical illusion architecture, Escher perspective, sunlight slicing across paradox edges]
-Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, photoreal ruins texture, subtle river ribbon, swiss 2x2 grid layout.
+Saf Matematiğin Çöl Harabeleri (Kahire tarzı anıtsal taş)
+Kumtaşından antik çöl harabeleri olarak inşa edilmiş 4 anıtsal matematiksel sembolün 2x2'lik bir ızgarası
+[Sol Üst: Çökmüş bir kemerli su kemeri olarak İntegral (∫), rüzgar erozyonuna uğramış bloklar, oyulmuş mikro metin denklemleri, ölçek için minik kervanlar]
+[Sağ Üst: Keskin terasları, uzun gölgeleri, köşelerde biriken kum yığınları olan basamaklı bir kale-ziggurat olarak Sigma (Σ)]
+[Sol Alt: Dar bir vaha kanalı üzerinde iki devasa pilon ve lentolu bir köprü olarak Pi (π), yontulmuş taş, dağınık moloz geometrisi]
+[Sağ Alt: Kum tepelerine yarı gömülü imkansız harabeler olarak bir Penrose Üçgeni, optik illüzyon mimarisi, Escher perspektifi, paradoks kenarları boyunca kesen güneş ışığı]
+Havadan eğik görünüm, altın çöl sisi, keskin sert güneş ışığı, dramatik gölgeler, fotogerçekçi harabe dokusu, ince nehir şeridi, İsviçre 2x2 ızgara düzeni.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -244,13 +362,13 @@ Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Saf Matematik Izgarasının Çöl Harabeleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Saf Matematik Izgarasının Çöl Harabeleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -260,23 +378,23 @@ Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, 
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Desert%20Ruins%20of%20Pure%20Math%20(Cairo-style%20monumental%20stone)%0AA%202x2%20grid%20of%204%20monumental%20mathematical%20symbols%20built%20as%20ancient%20desert%20ruins%20in%20sandstone%0A%5BTop%20Left%3A%20The%20Integral%20(%E2%88%AB)%20as%20a%20collapsed%20arch-aqueduct%2C%20wind-eroded%20blocks%2C%20carved%20microtext%20equations%2C%20tiny%20caravans%20for%20scale%5D%0A%5BTop%20Right%3A%20The%20Sigma%20(%CE%A3)%20as%20a%20stepped%20fortress-ziggurat%20with%20sharp%20terraces%2C%20long%20shadows%2C%20sand%20drifts%20collecting%20in%20corners%5D%0A%5BBottom%20Left%3A%20The%20Pi%20(%CF%80)%20as%20two%20colossal%20pylons%20and%20a%20lintel%20bridge%20over%20a%20narrow%20oasis%20canal%2C%20chipped%20stone%2C%20scattered%20rubble%20geometry%5D%0A%5BBottom%20Right%3A%20A%20Penrose%20Triangle%20as%20impossible%20ruins%20half-buried%20in%20dunes%2C%20optical%20illusion%20architecture%2C%20Escher%20perspective%2C%20sunlight%20slicing%20across%20paradox%20edges%5D%0AAerial%20oblique%20view%2C%20golden%20desert%20haze%2C%20crisp%20hard%20sunlight%2C%20dramatic%20shadows%2C%20photoreal%20ruins%20texture%2C%20subtle%20river%20ribbon%2C%20swiss%202x2%20grid%20layout.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Saf%20Matemati%C4%9Fin%20%C3%87%C3%B6l%20Harabeleri%20(Kahire%20tarz%C4%B1%20an%C4%B1tsal%20ta%C5%9F)%0AKumta%C5%9F%C4%B1ndan%20antik%20%C3%A7%C3%B6l%20harabeleri%20olarak%20in%C5%9Fa%20edilmi%C5%9F%204%20an%C4%B1tsal%20matematiksel%20sembol%C3%BCn%202x2'lik%20bir%20%C4%B1zgaras%C4%B1%0A%5BSol%20%C3%9Cst%3A%20%C3%87%C3%B6km%C3%BC%C5%9F%20bir%20kemerli%20su%20kemeri%20olarak%20%C4%B0ntegral%20(%E2%88%AB)%2C%20r%C3%BCzgar%20erozyonuna%20u%C4%9Fram%C4%B1%C5%9F%20bloklar%2C%20oyulmu%C5%9F%20mikro%20metin%20denklemleri%2C%20%C3%B6l%C3%A7ek%20i%C3%A7in%20minik%20kervanlar%5D%0A%5BSa%C4%9F%20%C3%9Cst%3A%20Keskin%20teraslar%C4%B1%2C%20uzun%20g%C3%B6lgeleri%2C%20k%C3%B6%C5%9Felerde%20biriken%20kum%20y%C4%B1%C4%9F%C4%B1nlar%C4%B1%20olan%20basamakl%C4%B1%20bir%20kale-ziggurat%20olarak%20Sigma%20(%CE%A3)%5D%0A%5BSol%20Alt%3A%20Dar%20bir%20vaha%20kanal%C4%B1%20%C3%BCzerinde%20iki%20devasa%20pilon%20ve%20lentolu%20bir%20k%C3%B6pr%C3%BC%20olarak%20Pi%20(%CF%80)%2C%20yontulmu%C5%9F%20ta%C5%9F%2C%20da%C4%9F%C4%B1n%C4%B1k%20moloz%20geometrisi%5D%0A%5BSa%C4%9F%20Alt%3A%20Kum%20tepelerine%20yar%C4%B1%20g%C3%B6m%C3%BCl%C3%BC%20imkans%C4%B1z%20harabeler%20olarak%20bir%20Penrose%20%C3%9C%C3%A7geni%2C%20optik%20ill%C3%BCzyon%20mimarisi%2C%20Escher%20perspektifi%2C%20paradoks%20kenarlar%C4%B1%20boyunca%20kesen%20g%C3%BCne%C5%9F%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%5D%0AHavadan%20e%C4%9Fik%20g%C3%B6r%C3%BCn%C3%BCm%2C%20alt%C4%B1n%20%C3%A7%C3%B6l%20sisi%2C%20keskin%20sert%20g%C3%BCne%C5%9F%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20dramatik%20g%C3%B6lgeler%2C%20fotoger%C3%A7ek%C3%A7i%20harabe%20dokusu%2C%20ince%20nehir%20%C5%9Feridi%2C%20%C4%B0svi%C3%A7re%202x2%20%C4%B1zgara%20d%C3%BCzeni.)**
 
 ---
 
-### No. 5: Reasoning and Instruction Following Puzzle Prompt
+### No. 5: Akıl Yürütme ve Talimatları Takip Etme Bulmaca İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A complex prompt designed to test the model's reasoning and instruction-following capabilities by asking it to generate a visual puzzle: four related realistic objects on a table, a title text asking 'What do these objects have in common?', and very small, upside-down text at the bottom revealing the answer.
+Modelin muhakeme ve talimatlara uyma yeteneklerini test etmek için tasarlanmış karmaşık bir komut istemi: bir masanın üzerinde birbiriyle ilişkili dört gerçekçi nesne, 'Bu nesnelerin ortak noktası ne?' diye soran bir başlık metni ve cevabı gösteren, altta çok küçük, baş aşağı bir metin içeren görsel bir bulmaca oluşturmasını istiyor.
 
 #### 📝 İstem
 
 ```
-"Show me 4 realistic objects on a table. The objects are related in some way, this is a puzzle. Add title text across the top, "{argument name="title text" default="What do these objects have in common?"}" And very small upside down text on the bottom which reveals the way in which they are related."
+"Bir masanın üzerinde 4 gerçekçi nesne göster. Nesneler bir şekilde birbiriyle ilişkili, bu bir bulmaca. Üste başlık metni ekle, "{argument name="title text" default="Bu nesnelerin ortak noktası nedir?"}" Ve en alta, nesnelerin birbiriyle nasıl ilişkili olduğunu gösteren çok küçük, baş aşağı bir metin ekle."
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -284,25 +402,25 @@ A complex prompt designed to test the model's reasoning and instruction-followin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Akıl Yürütme ve Talimatları Takip Etme Bulmaca İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Akıl Yürütme ve Talimatları Takip Etme Bulmaca İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Akıl Yürütme ve Talimatları Takip Etme Bulmaca İstemleri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Akıl Yürütme ve Talimatları Takip Etme Bulmaca İstemleri - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -312,22 +430,22 @@ A complex prompt designed to test the model's reasoning and instruction-followin
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%22Show%20me%204%20realistic%20objects%20on%20a%20table.%20The%20objects%20are%20related%20in%20some%20way%2C%20this%20is%20a%20puzzle.%20Add%20title%20text%20across%20the%20top%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22What%20do%20these%20objects%20have%20in%20common%3F%22%7D%22%20And%20very%20small%20upside%20down%20text%20on%20the%20bottom%20which%20reveals%20the%20way%20in%20which%20they%20are%20related.%22)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%22Bir%20masan%C4%B1n%20%C3%BCzerinde%204%20ger%C3%A7ek%C3%A7i%20nesne%20g%C3%B6ster.%20Nesneler%20bir%20%C5%9Fekilde%20birbiriyle%20ili%C5%9Fkili%2C%20bu%20bir%20bulmaca.%20%C3%9Cste%20ba%C5%9Fl%C4%B1k%20metni%20ekle%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22Bu%20nesnelerin%20ortak%20noktas%C4%B1%20nedir%3F%22%7D%22%20Ve%20en%20alta%2C%20nesnelerin%20birbiriyle%20nas%C4%B1l%20ili%C5%9Fkili%20oldu%C4%9Funu%20g%C3%B6steren%20%C3%A7ok%20k%C3%BC%C3%A7%C3%BCk%2C%20ba%C5%9F%20a%C5%9Fa%C4%9F%C4%B1%20bir%20metin%20ekle.%22)**
 
 ---
 
-### No. 6: Meta-Prompt: Create an Image Detailing its Own Creation Steps
+### No. 6: Meta-İstem: Kendi Oluşturma Adımlarını Detaylandıran Bir Görsel Oluşturun
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A meta-prompt asking ChatGPT Image 1.5 to create an image that visually represents the very detailed steps the AI takes to generate that image, testing the model's ability to visualize its internal blueprint.
+ChatGPT Image 1.5'ten, yapay zekanın o görüntüyü oluşturmak için attığı çok ayrıntılı adımları görsel olarak temsil eden bir görüntü oluşturmasını isteyen bir meta istem, modelin dahili planını görselleştirme yeteneğini test ediyor.
 
 #### 📝 İstem
 
 ```
-Create an image about the very detailed steps you create to create the image.
+Görseli oluşturmak için attığınız çok detaylı adımları gösteren bir görsel oluşturun.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -335,7 +453,7 @@ Create an image about the very detailed steps you create to create the image.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-Prompt: Create an Image Detailing its Own Creation Steps - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-İstem: Kendi Oluşturma Adımlarını Detaylandıran Bir Görsel Oluşturun - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -345,22 +463,22 @@ Create an image about the very detailed steps you create to create the image.
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Create%20an%20image%20about%20the%20very%20detailed%20steps%20you%20create%20to%20create%20the%20image.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=G%C3%B6rseli%20olu%C5%9Fturmak%20i%C3%A7in%20att%C4%B1%C4%9F%C4%B1n%C4%B1z%20%C3%A7ok%20detayl%C4%B1%20ad%C4%B1mlar%C4%B1%20g%C3%B6steren%20bir%20g%C3%B6rsel%20olu%C5%9Fturun.)**
 
 ---
 
-### No. 7: Anime Christmas Elf Cross-Stitch
+### No. 7: Anime Noel Elfi Kanaviçe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt for generating an image of a cross-stitch design featuring a Christmas elf in anime style working at a guitar store, complete with a festive border.
+Anime tarzında, gitar dükkanında çalışan bir Noel elfinin yer aldığı, şenlikli bir kenarlığa sahip kanaviçe tasarımının görüntüsünü oluşturmak için bir istem.
 
 #### 📝 İstem
 
 ```
-a cross-stitch of a christmas elf - anime style. the elf is working at a guitar store, guitars hang on the wall. the cross stitch has a christmas border with mistletoe and christmas decorations.
+Noel elfi temalı bir kanaviçe - anime tarzında. Elf bir gitar dükkanında çalışıyor, duvarlarda gitarlar asılı. Kanaviçenin etrafında ökse otu ve Noel süslemelerinden oluşan bir Noel çerçevesi var.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -368,13 +486,13 @@ a cross-stitch of a christmas elf - anime style. the elf is working at a guitar 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Noel Elfi Kanaviçe - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Noel Elfi Kanaviçe - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -384,22 +502,22 @@ a cross-stitch of a christmas elf - anime style. the elf is working at a guitar 
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=a%20cross-stitch%20of%20a%20christmas%20elf%20-%20anime%20style.%20the%20elf%20is%20working%20at%20a%20guitar%20store%2C%20guitars%20hang%20on%20the%20wall.%20the%20cross%20stitch%20has%20a%20christmas%20border%20with%20mistletoe%20and%20christmas%20decorations.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Noel%20elfi%20temal%C4%B1%20bir%20kanavi%C3%A7e%20-%20anime%20tarz%C4%B1nda.%20Elf%20bir%20gitar%20d%C3%BCkkan%C4%B1nda%20%C3%A7al%C4%B1%C5%9F%C4%B1yor%2C%20duvarlarda%20gitarlar%20as%C4%B1l%C4%B1.%20Kanavi%C3%A7enin%20etraf%C4%B1nda%20%C3%B6kse%20otu%20ve%20Noel%20s%C3%BCslemelerinden%20olu%C5%9Fan%20bir%20Noel%20%C3%A7er%C3%A7evesi%20var.)**
 
 ---
 
-### No. 8: Moody Cinematic Portrait with Motion Blur and Directional Lighting
+### No. 8: Hareket Bulanıklığı ve Yönlü Aydınlatma ile Karamsar Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A highly specific prompt for generating a moody, cinematic portrait of a young male model. It details the lighting (harsh directional light from the left), pose (clutching collar, tense jawline), and a complex motion blur effect slicing horizontally across the face, aiming for a stylized editorial tone with film grain.
+Genç bir erkek modelin karamsar, sinematik bir portresini oluşturmak için oldukça spesifik bir komut. Aydınlatmayı (soldan gelen sert yönlü ışık), pozu (yakayı sıkma, gergin çene hattı) ve yüz boyunca yatay olarak kesen karmaşık bir hareket bulanıklığı efektini detaylandırarak, film greniyle stilize edilmiş editoryal bir ton hedefliyor.
 
 #### 📝 İstem
 
 ```
-Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+Açık tenli, yumuşak dokulu dalgalı saçlı, üzerine oturan siyah takım elbise ve koyu renk gömlek giymiş genç bir erkek modelin kasvetli sinematik portresi. Model, siyah bir arka planın önünde duruyor. Soldan gelen sert yönlü aydınlatma derin gölgeler oluşturuyor. Model, delici bakışları ve gergin çene hattıyla ileriye bakıyor, bir eli yakasını boynuna yakın bir yerden sıkıca tutuyor. Yüzünün üzerinden soldan sağa yatay olarak geçen hareket bulanıklığı efekti, soluk kehribar ve bej tonlarında ışık çizgilerini harmanlıyor. Durağan ve bulanık bölgeler arasında keskin bir kontrast var. Hafif film greni ve yumuşak düşüşle stilize edilmiş editoryal bir ton, dijital pürüzsüzlük veya plastisite yok, cilt dokusu ve gölgeler bozulmamış, duygusal yüklü bir ifade, saçın etrafında hafif bir hale, minimal arka plan detayları.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -407,13 +525,13 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Hareket Bulanıklığı ve Yönlü Aydınlatma ile Karamsar Sinematik Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Hareket Bulanıklığı ve Yönlü Aydınlatma ile Karamsar Sinematik Portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -423,22 +541,22 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A%C3%A7%C4%B1k%20tenli%2C%20yumu%C5%9Fak%20dokulu%20dalgal%C4%B1%20sa%C3%A7l%C4%B1%2C%20%C3%BCzerine%20oturan%20siyah%20tak%C4%B1m%20elbise%20ve%20koyu%20renk%20g%C3%B6mlek%20giymi%C5%9F%20gen%C3%A7%20bir%20erkek%20modelin%20kasvetli%20sinematik%20portresi.%20Model%2C%20siyah%20bir%20arka%20plan%C4%B1n%20%C3%B6n%C3%BCnde%20duruyor.%20Soldan%20gelen%20sert%20y%C3%B6nl%C3%BC%20ayd%C4%B1nlatma%20derin%20g%C3%B6lgeler%20olu%C5%9Fturuyor.%20Model%2C%20delici%20bak%C4%B1%C5%9Flar%C4%B1%20ve%20gergin%20%C3%A7ene%20hatt%C4%B1yla%20ileriye%20bak%C4%B1yor%2C%20bir%20eli%20yakas%C4%B1n%C4%B1%20boynuna%20yak%C4%B1n%20bir%20yerden%20s%C4%B1k%C4%B1ca%20tutuyor.%20Y%C3%BCz%C3%BCn%C3%BCn%20%C3%BCzerinden%20soldan%20sa%C4%9Fa%20yatay%20olarak%20ge%C3%A7en%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1%20efekti%2C%20soluk%20kehribar%20ve%20bej%20tonlar%C4%B1nda%20%C4%B1%C5%9F%C4%B1k%20%C3%A7izgilerini%20harmanl%C4%B1yor.%20Dura%C4%9Fan%20ve%20bulan%C4%B1k%20b%C3%B6lgeler%20aras%C4%B1nda%20keskin%20bir%20kontrast%20var.%20Hafif%20film%20greni%20ve%20yumu%C5%9Fak%20d%C3%BC%C5%9F%C3%BC%C5%9Fle%20stilize%20edilmi%C5%9F%20editoryal%20bir%20ton%2C%20dijital%20p%C3%BCr%C3%BCzs%C3%BCzl%C3%BCk%20veya%20plastisite%20yok%2C%20cilt%20dokusu%20ve%20g%C3%B6lgeler%20bozulmam%C4%B1%C5%9F%2C%20duygusal%20y%C3%BCkl%C3%BC%20bir%20ifade%2C%20sa%C3%A7%C4%B1n%20etraf%C4%B1nda%20hafif%20bir%20hale%2C%20minimal%20arka%20plan%20detaylar%C4%B1.)**
 
 ---
 
-### No. 9: Portrait grid with varied facial expressions
+### No. 9: Çeşitli yüz ifadelerine sahip portre ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt designed for GPT-Image 1.5 to create a 3x3 grid of portraits based on an uploaded photo. It requires maintaining the subject's exact likeness while generating nine different facial expressions, presented with a clean, modern aesthetic, soft lighting, and pastel backgrounds.
+Yüklenen bir fotoğrafa göre 3x3'lük bir portre ızgarası oluşturmak için GPT-Image 1.5 için tasarlanmış bir komut istemi. Konunun tam benzerliğini korurken, temiz, modern bir estetik, yumuşak aydınlatma ve pastel arka planlarla sunulan dokuz farklı yüz ifadesi oluşturmayı gerektirir.
 
 #### 📝 İstem
 
 ```
-Starting with the uploaded photo as a base reference, create a clean and modern portrait grid featuring the same person with several different facial expressions and moods. Arrange the images in a neat 3×3 layout with rounded corners and soft pastel backgrounds. Each portrait should retain the same facial features, hairstyle, and realism, changing only the expression and subtle style. Include expressions such as: natural smile, joyful laugh, calm with eyes closed, neutral and serious gaze, pensive pose with hand on chin, confident and composed expression, sad or disappointed mood, mischievous pout, and surprised reaction with wide eyes. Use soft studio lighting, highly detailed skin texture, shallow depth of field, minimal variations in wardrobe, consistent color palette, ultra-realistic editorial portrait style, high resolution, and clean aesthetics.
+Yüklenen fotoğrafı temel referans alarak, aynı kişinin farklı yüz ifadeleri ve ruh hallerini içeren temiz ve modern bir portre ızgarası oluşturun. Görüntüleri yuvarlatılmış köşeler ve yumuşak pastel arka planlarla düzenli bir 3×3 düzende yerleştirin. Her portre, yalnızca ifade ve ince stil değişerek aynı yüz hatlarını, saç stilini ve gerçekçiliği korumalıdır. Şu ifadeleri ekleyin: doğal gülümseme, neşeli kahkaha, gözleri kapalı sakin, nötr ve ciddi bakış, çeneye elini koymuş düşünceli poz, kendinden emin ve sakin ifade, üzgün veya hayal kırıklığına uğramış ruh hali, yaramaz bir dudak bükme ve gözleri fal taşı gibi açılmış şaşkın tepki. Yumuşak stüdyo aydınlatması, yüksek detaylı cilt dokusu, sığ alan derinliği, gardıropta minimal değişiklikler, tutarlı renk paleti, ultra gerçekçi editoryal portre stili, yüksek çözünürlük ve temiz estetik kullanın.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -446,13 +564,13 @@ Starting with the uploaded photo as a base reference, create a clean and modern 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Çeşitli yüz ifadelerine sahip portre ızgarası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Çeşitli yüz ifadelerine sahip portre ızgarası - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -462,27 +580,27 @@ Starting with the uploaded photo as a base reference, create a clean and modern 
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Starting%20with%20the%20uploaded%20photo%20as%20a%20base%20reference%2C%20create%20a%20clean%20and%20modern%20portrait%20grid%20featuring%20the%20same%20person%20with%20several%20different%20facial%20expressions%20and%20moods.%20Arrange%20the%20images%20in%20a%20neat%203%C3%973%20layout%20with%20rounded%20corners%20and%20soft%20pastel%20backgrounds.%20Each%20portrait%20should%20retain%20the%20same%20facial%20features%2C%20hairstyle%2C%20and%20realism%2C%20changing%20only%20the%20expression%20and%20subtle%20style.%20Include%20expressions%20such%20as%3A%20natural%20smile%2C%20joyful%20laugh%2C%20calm%20with%20eyes%20closed%2C%20neutral%20and%20serious%20gaze%2C%20pensive%20pose%20with%20hand%20on%20chin%2C%20confident%20and%20composed%20expression%2C%20sad%20or%20disappointed%20mood%2C%20mischievous%20pout%2C%20and%20surprised%20reaction%20with%20wide%20eyes.%20Use%20soft%20studio%20lighting%2C%20highly%20detailed%20skin%20texture%2C%20shallow%20depth%20of%20field%2C%20minimal%20variations%20in%20wardrobe%2C%20consistent%20color%20palette%2C%20ultra-realistic%20editorial%20portrait%20style%2C%20high%20resolution%2C%20and%20clean%20aesthetics.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Y%C3%BCklenen%20foto%C4%9Fraf%C4%B1%20temel%20referans%20alarak%2C%20ayn%C4%B1%20ki%C5%9Finin%20farkl%C4%B1%20y%C3%BCz%20ifadeleri%20ve%20ruh%20hallerini%20i%C3%A7eren%20temiz%20ve%20modern%20bir%20portre%20%C4%B1zgaras%C4%B1%20olu%C5%9Fturun.%20G%C3%B6r%C3%BCnt%C3%BCleri%20yuvarlat%C4%B1lm%C4%B1%C5%9F%20k%C3%B6%C5%9Feler%20ve%20yumu%C5%9Fak%20pastel%20arka%20planlarla%20d%C3%BCzenli%20bir%203%C3%973%20d%C3%BCzende%20yerle%C5%9Ftirin.%20Her%20portre%2C%20yaln%C4%B1zca%20ifade%20ve%20ince%20stil%20de%C4%9Fi%C5%9Ferek%20ayn%C4%B1%20y%C3%BCz%20hatlar%C4%B1n%C4%B1%2C%20sa%C3%A7%20stilini%20ve%20ger%C3%A7ek%C3%A7ili%C4%9Fi%20korumal%C4%B1d%C4%B1r.%20%C5%9Eu%20ifadeleri%20ekleyin%3A%20do%C4%9Fal%20g%C3%BCl%C3%BCmseme%2C%20ne%C5%9Feli%20kahkaha%2C%20g%C3%B6zleri%20kapal%C4%B1%20sakin%2C%20n%C3%B6tr%20ve%20ciddi%20bak%C4%B1%C5%9F%2C%20%C3%A7eneye%20elini%20koymu%C5%9F%20d%C3%BC%C5%9F%C3%BCnceli%20poz%2C%20kendinden%20emin%20ve%20sakin%20ifade%2C%20%C3%BCzg%C3%BCn%20veya%20hayal%20k%C4%B1r%C4%B1kl%C4%B1%C4%9F%C4%B1na%20u%C4%9Fram%C4%B1%C5%9F%20ruh%20hali%2C%20yaramaz%20bir%20dudak%20b%C3%BCkme%20ve%20g%C3%B6zleri%20fal%20ta%C5%9F%C4%B1%20gibi%20a%C3%A7%C4%B1lm%C4%B1%C5%9F%20%C5%9Fa%C5%9Fk%C4%B1n%20tepki.%20Yumu%C5%9Fak%20st%C3%BCdyo%20ayd%C4%B1nlatmas%C4%B1%2C%20y%C3%BCksek%20detayl%C4%B1%20cilt%20dokusu%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2C%20gard%C4%B1ropta%20minimal%20de%C4%9Fi%C5%9Fiklikler%2C%20tutarl%C4%B1%20renk%20paleti%2C%20ultra%20ger%C3%A7ek%C3%A7i%20editoryal%20portre%20stili%2C%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk%20ve%20temiz%20estetik%20kullan%C4%B1n.)**
 
 ---
 
-### No. 10: Hyper-Realistic Cinematic Action Scene from Reference Image
+### No. 10: Referans Görselden Hiper Gerçekçi Sinematik Aksiyon Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A detailed prompt for transforming a subject from an uploaded reference image into a hyper-realistic cinematic action scene. The subject is depicted leaping from a glowing, neon-swirling dimensional portal onto a wet city crosswalk, emphasizing dynamic motion, dramatic lighting, and preserving the subject's exact likeness and features.
+Yüklenen bir referans görselindeki bir özneyi hiper-gerçekçi sinematik bir aksiyon sahnesine dönüştürmek için ayrıntılı bir komut istemi. Özne, parlayan, neon girdaplı bir boyut portalından ıslak bir şehir yaya geçidine atlarken tasvir ediliyor; dinamik hareket, dramatik aydınlatma vurgulanıyor ve öznenin tam benzerliği ile özellikleri korunuyor.
 
 #### 📝 İstem
 
 ```
-Using the uploaded image as the primary visual reference, transform the subject into a hyper-realistic cinematic action scene. The man is leaping forward onto a city crosswalk while emerging from a glowing circular dimensional portal behind him. The portal emits intense swirling neon energy in electric {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"}, and {argument name="portal color 3" default="magenta"}, with sparks, lightning arcs, particle debris, and visible energy-distortion effects in the air.
+Yüklenen görüntüyü birincil görsel referans olarak kullanarak, konuyu hiper-gerçekçi sinematik bir aksiyon sahnesine dönüştürün. Adam, arkasındaki parlayan dairesel boyutsal bir portaldan çıkarken bir şehir yaya geçidine doğru ileri atılıyor. Portal, elektrik {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"} ve {argument name="portal color 3" default="magenta"} renklerinde yoğun dönen neon enerjisi yayıyor; havada kıvılcımlar, şimşek yayları, parçacık kalıntıları ve görünür enerji-bozulma efektleri bulunuyor.
 
-The subject is captured mid-motion in a powerful running leap, expression focused and intense. His original clothing from the reference image is naturally adapted for dynamic motion, with realistic fabric flow, folds, and physics, without changing his identity. Footwear and outfit subtly reflect the neon portal light. Preserve the subject’s original facial structure, skin texture, hairstyle, beard (if present), and body proportions exactly as in the reference image.
+Konu, güçlü bir koşu sıçramasıyla hareketin ortasında yakalanmış, ifadesi odaklanmış ve yoğun. Referans görüntüsündeki orijinal giysileri, kimliğini değiştirmeden, gerçekçi kumaş akışı, kıvrımlar ve fizik ile dinamik harekete doğal olarak uyarlanmış. Ayakkabılar ve kıyafet, neon portal ışığını hafifçe yansıtıyor. Konunun orijinal yüz yapısını, cilt dokusunu, saç stilini, sakalını (varsa) ve vücut oranlarını referans görüntüsündeki gibi aynen koruyun.
 
-The environment is a modern urban city street with cinematic perspective. The background is slightly motion-blurred to emphasize speed and action. The road surface appears wet, showing subtle reflections of the glowing portal and neon light streaks. Dramatic cinematic lighting, volumetric light rays, shallow depth of field, ultra-sharp details, high contrast, realistic physics, sci-fi atmosphere, professional action-movie poster composition, cinematic color grading, ultra-high resolution, 8K quality.
+Ortam, sinematik perspektife sahip modern bir şehir sokağı. Arka plan, hızı ve aksiyonu vurgulamak için hafifçe hareket bulanıklaştırılmış. Yol yüzeyi ıslak görünüyor, parlayan portalın ve neon ışık izlerinin hafif yansımalarını gösteriyor. Dramatik sinematik aydınlatma, hacimsel ışık ışınları, sığ alan derinliği, ultra keskin detaylar, yüksek kontrast, gerçekçi fizik, bilim kurgu atmosferi, profesyonel aksiyon filmi posteri kompozisyonu, sinematik renk derecelendirme, ultra yüksek çözünürlük, 8K kalitesi.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -490,13 +608,13 @@ The environment is a modern urban city street with cinematic perspective. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Referans Görselden Hiper Gerçekçi Sinematik Aksiyon Sahnesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Referans Görselden Hiper Gerçekçi Sinematik Aksiyon Sahnesi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -506,22 +624,22 @@ The environment is a modern urban city street with cinematic perspective. The ba
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Using%20the%20uploaded%20image%20as%20the%20primary%20visual%20reference%2C%20transform%20the%20subject%20into%20a%20hyper-realistic%20cinematic%20action%20scene.%20The%20man%20is%20leaping%20forward%20onto%20a%20city%20crosswalk%20while%20emerging%20from%20a%20glowing%20circular%20dimensional%20portal%20behind%20him.%20The%20portal%20emits%20intense%20swirling%20neon%20energy%20in%20electric%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%2C%20and%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%2C%20with%20sparks%2C%20lightning%20arcs%2C%20particle%20debris%2C%20and%20visible%20energy-distortion%20effects%20in%20the%20air.%0A%0AThe%20subject%20is%20captured%20mid-motion%20in%20a%20powerful%20running%20leap%2C%20expression%20focused%20and%20intense.%20His%20original%20clothing%20from%20the%20reference%20image%20is%20naturally%20adapted%20for%20dynamic%20motion%2C%20with%20realistic%20fabric%20flow%2C%20folds%2C%20and%20physics%2C%20without%20changing%20his%20identity.%20Footwear%20and%20outfit%20subtly%20reflect%20the%20neon%20portal%20light.%20Preserve%20the%20subject%E2%80%99s%20original%20facial%20structure%2C%20skin%20texture%2C%20hairstyle%2C%20beard%20(if%20present)%2C%20and%20body%20proportions%20exactly%20as%20in%20the%20reference%20image.%0A%0AThe%20environment%20is%20a%20modern%20urban%20city%20street%20with%20cinematic%20perspective.%20The%20background%20is%20slightly%20motion-blurred%20to%20emphasize%20speed%20and%20action.%20The%20road%20surface%20appears%20wet%2C%20showing%20subtle%20reflections%20of%20the%20glowing%20portal%20and%20neon%20light%20streaks.%20Dramatic%20cinematic%20lighting%2C%20volumetric%20light%20rays%2C%20shallow%20depth%20of%20field%2C%20ultra-sharp%20details%2C%20high%20contrast%2C%20realistic%20physics%2C%20sci-fi%20atmosphere%2C%20professional%20action-movie%20poster%20composition%2C%20cinematic%20color%20grading%2C%20ultra-high%20resolution%2C%208K%20quality.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Y%C3%BCklenen%20g%C3%B6r%C3%BCnt%C3%BCy%C3%BC%20birincil%20g%C3%B6rsel%20referans%20olarak%20kullanarak%2C%20konuyu%20hiper-ger%C3%A7ek%C3%A7i%20sinematik%20bir%20aksiyon%20sahnesine%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Adam%2C%20arkas%C4%B1ndaki%20parlayan%20dairesel%20boyutsal%20bir%20portaldan%20%C3%A7%C4%B1karken%20bir%20%C5%9Fehir%20yaya%20ge%C3%A7idine%20do%C4%9Fru%20ileri%20at%C4%B1l%C4%B1yor.%20Portal%2C%20elektrik%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%20ve%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%20renklerinde%20yo%C4%9Fun%20d%C3%B6nen%20neon%20enerjisi%20yay%C4%B1yor%3B%20havada%20k%C4%B1v%C4%B1lc%C4%B1mlar%2C%20%C5%9Fim%C5%9Fek%20yaylar%C4%B1%2C%20par%C3%A7ac%C4%B1k%20kal%C4%B1nt%C4%B1lar%C4%B1%20ve%20g%C3%B6r%C3%BCn%C3%BCr%20enerji-bozulma%20efektleri%20bulunuyor.%0A%0AKonu%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20ko%C5%9Fu%20s%C4%B1%C3%A7ramas%C4%B1yla%20hareketin%20ortas%C4%B1nda%20yakalanm%C4%B1%C5%9F%2C%20ifadesi%20odaklanm%C4%B1%C5%9F%20ve%20yo%C4%9Fun.%20Referans%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCndeki%20orijinal%20giysileri%2C%20kimli%C4%9Fini%20de%C4%9Fi%C5%9Ftirmeden%2C%20ger%C3%A7ek%C3%A7i%20kuma%C5%9F%20ak%C4%B1%C5%9F%C4%B1%2C%20k%C4%B1vr%C4%B1mlar%20ve%20fizik%20ile%20dinamik%20harekete%20do%C4%9Fal%20olarak%20uyarlanm%C4%B1%C5%9F.%20Ayakkab%C4%B1lar%20ve%20k%C4%B1yafet%2C%20neon%20portal%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1n%C4%B1%20hafif%C3%A7e%20yans%C4%B1t%C4%B1yor.%20Konunun%20orijinal%20y%C3%BCz%20yap%C4%B1s%C4%B1n%C4%B1%2C%20cilt%20dokusunu%2C%20sa%C3%A7%20stilini%2C%20sakal%C4%B1n%C4%B1%20(varsa)%20ve%20v%C3%BCcut%20oranlar%C4%B1n%C4%B1%20referans%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCndeki%20gibi%20aynen%20koruyun.%0A%0AOrtam%2C%20sinematik%20perspektife%20sahip%20modern%20bir%20%C5%9Fehir%20soka%C4%9F%C4%B1.%20Arka%20plan%2C%20h%C4%B1z%C4%B1%20ve%20aksiyonu%20vurgulamak%20i%C3%A7in%20hafif%C3%A7e%20hareket%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F.%20Yol%20y%C3%BCzeyi%20%C4%B1slak%20g%C3%B6r%C3%BCn%C3%BCyor%2C%20parlayan%20portal%C4%B1n%20ve%20neon%20%C4%B1%C5%9F%C4%B1k%20izlerinin%20hafif%20yans%C4%B1malar%C4%B1n%C4%B1%20g%C3%B6steriyor.%20Dramatik%20sinematik%20ayd%C4%B1nlatma%2C%20hacimsel%20%C4%B1%C5%9F%C4%B1k%20%C4%B1%C5%9F%C4%B1nlar%C4%B1%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2C%20ultra%20keskin%20detaylar%2C%20y%C3%BCksek%20kontrast%2C%20ger%C3%A7ek%C3%A7i%20fizik%2C%20bilim%20kurgu%20atmosferi%2C%20profesyonel%20aksiyon%20filmi%20posteri%20kompozisyonu%2C%20sinematik%20renk%20derecelendirme%2C%20ultra%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk%2C%208K%20kalitesi.)**
 
 ---
 
-### No. 11: Underwater Product Photoshoot with Caustic Light
+### No. 11: Kostik Işıkla Sualtı Ürün Fotoğraf Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt designed for product photography, generating an ultra-high-resolution image of a reference object fully submerged in crystal-clear turquoise water, focusing on intricate caustic light patterns and ethereal elegance.
+Ürün fotoğrafçılığı için tasarlanmış, kristal berraklığında turkuaz suya tamamen batırılmış bir referans nesnenin ultra yüksek çözünürlüklü görüntüsünü oluşturan, karmaşık kostik ışık desenlerine ve ruhani zarafete odaklanan bir komut istemi.
 
 #### 📝 İstem
 
 ```
-[Reference Image] fully submerged in crystal-clear, turquoise water, captured in ultra-high-resolution underwater photography. Sunlight penetrates the surface above, creating intricate caustic light patterns that ripple and dance across the subject and surrounding water. The scene conveys pristine clarity with zero particulate matter, emphasizing a sense of suspended weightlessness and serene motion. Fine details are frozen using high-speed capture, with subtle bubbles and flowing fabric or hair enhancing the feeling of aquatic elegance. The overall aesthetic is clean, refreshing, and ethereal, with soft natural color grading, high dynamic range, and cinematic realism.
+[Referans Görsel] ultra yüksek çözünürlüklü su altı fotoğrafçılığıyla yakalanmış, berrak, turkuaz suya tamamen batmış bir görüntü. Yukarıdaki yüzeyden sızan güneş ışığı, özne ve çevresindeki su üzerinde dalgalanan ve dans eden karmaşık kostik ışık desenleri oluşturuyor. Sahne, sıfır partikül madde ile bozulmamış bir berraklık taşıyor, askıda kalmış bir ağırlıksızlık ve dingin bir hareket hissini vurguluyor. İnce detaylar yüksek hızlı çekimle dondurulmuş, hafif kabarcıklar ve akışkan kumaş veya saç, sucul zarafet hissini artırıyor. Genel estetik, yumuşak doğal renk derecelendirmesi, yüksek dinamik aralık ve sinematik gerçekçilik ile temiz, ferahlatıcı ve uhrevi.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -529,13 +647,13 @@ A prompt designed for product photography, generating an ultra-high-resolution i
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Kostik Işıkla Sualtı Ürün Fotoğraf Çekimi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Kostik Işıkla Sualtı Ürün Fotoğraf Çekimi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -545,23 +663,23 @@ A prompt designed for product photography, generating an ultra-high-resolution i
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%5BReference%20Image%5D%20fully%20submerged%20in%20crystal-clear%2C%20turquoise%20water%2C%20captured%20in%20ultra-high-resolution%20underwater%20photography.%20Sunlight%20penetrates%20the%20surface%20above%2C%20creating%20intricate%20caustic%20light%20patterns%20that%20ripple%20and%20dance%20across%20the%20subject%20and%20surrounding%20water.%20The%20scene%20conveys%20pristine%20clarity%20with%20zero%20particulate%20matter%2C%20emphasizing%20a%20sense%20of%20suspended%20weightlessness%20and%20serene%20motion.%20Fine%20details%20are%20frozen%20using%20high-speed%20capture%2C%20with%20subtle%20bubbles%20and%20flowing%20fabric%20or%20hair%20enhancing%20the%20feeling%20of%20aquatic%20elegance.%20The%20overall%20aesthetic%20is%20clean%2C%20refreshing%2C%20and%20ethereal%2C%20with%20soft%20natural%20color%20grading%2C%20high%20dynamic%20range%2C%20and%20cinematic%20realism.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%5BReferans%20G%C3%B6rsel%5D%20ultra%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20su%20alt%C4%B1%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1yla%20yakalanm%C4%B1%C5%9F%2C%20berrak%2C%20turkuaz%20suya%20tamamen%20batm%C4%B1%C5%9F%20bir%20g%C3%B6r%C3%BCnt%C3%BC.%20Yukar%C4%B1daki%20y%C3%BCzeyden%20s%C4%B1zan%20g%C3%BCne%C5%9F%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20%C3%B6zne%20ve%20%C3%A7evresindeki%20su%20%C3%BCzerinde%20dalgalanan%20ve%20dans%20eden%20karma%C5%9F%C4%B1k%20kostik%20%C4%B1%C5%9F%C4%B1k%20desenleri%20olu%C5%9Fturuyor.%20Sahne%2C%20s%C4%B1f%C4%B1r%20partik%C3%BCl%20madde%20ile%20bozulmam%C4%B1%C5%9F%20bir%20berrakl%C4%B1k%20ta%C5%9F%C4%B1yor%2C%20ask%C4%B1da%20kalm%C4%B1%C5%9F%20bir%20a%C4%9F%C4%B1rl%C4%B1ks%C4%B1zl%C4%B1k%20ve%20dingin%20bir%20hareket%20hissini%20vurguluyor.%20%C4%B0nce%20detaylar%20y%C3%BCksek%20h%C4%B1zl%C4%B1%20%C3%A7ekimle%20dondurulmu%C5%9F%2C%20hafif%20kabarc%C4%B1klar%20ve%20ak%C4%B1%C5%9Fkan%20kuma%C5%9F%20veya%20sa%C3%A7%2C%20sucul%20zarafet%20hissini%20art%C4%B1r%C4%B1yor.%20Genel%20estetik%2C%20yumu%C5%9Fak%20do%C4%9Fal%20renk%20derecelendirmesi%2C%20y%C3%BCksek%20dinamik%20aral%C4%B1k%20ve%20sinematik%20ger%C3%A7ek%C3%A7ilik%20ile%20temiz%2C%20ferahlat%C4%B1c%C4%B1%20ve%20uhrevi.)**
 
 ---
 
-### No. 12: Ultra-Realistic Humanoid Robot on Rooftop
+### No. 12: Çatıda Ultra Gerçekçi İnsansı Robot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-An extensive, highly detailed prompt designed to test GPT Image 1.5's ability to generate ultra-realistic, production-ready images, specifically a cinematic photograph of a humanoid robot on a rooftop at dawn, focusing on material fidelity, mechanical details, and integrated text display.
+GPT Image 1.5'in ultra gerçekçi, prodüksiyona hazır görüntüler oluşturma yeteneğini test etmek için tasarlanmış kapsamlı, son derece ayrıntılı bir istem; özellikle şafakta bir çatıda duran insansı bir robotun sinematik fotoğrafı, malzeme doğruluğu, mekanik detaylar ve entegre metin ekranına odaklanarak.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop overlooking a modern city at dawn, medium shot. Highly detailed humanoid robot with synthetic skin and exposed metallic elements, realistic joints, fine mechanical details, subtle surface imperfections, micro scratches and reflections. Human-like posture and proportions, calm and natural stance, soft ambient light reflecting off metal and synthetic materials. Cinematic sunrise lighting, soft volumetric light, realistic city skyline in the background with shallow depth of field. A digital city billboard in the background displaying the text "{argument name="billboard text" default="SYSTEM ONLINE"}", text integrated into the screen with realistic glow, perspective, and lighting, not overlaid. Photorealistic futuristic photography, high fidelity materials, no cartoon style, no sci-fi illustration, production-ready realism.
+Şafakta modern bir şehre tepeden bakan bir çatıda duran insansı bir robotun ultra gerçekçi sinematik fotoğrafı, orta çekim. Sentetik derili ve açıkta kalan metalik unsurlara sahip, gerçekçi eklemlere, ince mekanik detaylara, hafif yüzey kusurlarına, mikro çiziklere ve yansımalara sahip son derece detaylı insansı robot. İnsan benzeri duruş ve oranlar, sakin ve doğal duruş, metal ve sentetik malzemelerden yansıyan yumuşak ortam ışığı. Sinematik gün doğumu aydınlatması, yumuşak hacimsel ışık, sığ alan derinliğine sahip arka planda gerçekçi şehir silüeti. Arka planda "{argument name="billboard text" default="SYSTEM ONLINE"}" metnini gösteren bir dijital şehir reklam panosu, metin ekrana gerçekçi parlama, perspektif ve aydınlatma ile entegre edilmiş, üst üste bindirilmemiş. Fotogerçekçi fütüristik fotoğrafçılık, yüksek kaliteli malzemeler, çizgi film tarzı yok, bilim kurgu illüstrasyonu yok, üretime hazır gerçekçilik.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -569,13 +687,13 @@ Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Çatıda Ultra Gerçekçi İnsansı Robot - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Çatıda Ultra Gerçekçi İnsansı Robot - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -585,82 +703,82 @@ Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop o
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Ultra-realistic%20cinematic%20photograph%20of%20a%20humanoid%20robot%20standing%20on%20a%20rooftop%20overlooking%20a%20modern%20city%20at%20dawn%2C%20medium%20shot.%20Highly%20detailed%20humanoid%20robot%20with%20synthetic%20skin%20and%20exposed%20metallic%20elements%2C%20realistic%20joints%2C%20fine%20mechanical%20details%2C%20subtle%20surface%20imperfections%2C%20micro%20scratches%20and%20reflections.%20Human-like%20posture%20and%20proportions%2C%20calm%20and%20natural%20stance%2C%20soft%20ambient%20light%20reflecting%20off%20metal%20and%20synthetic%20materials.%20Cinematic%20sunrise%20lighting%2C%20soft%20volumetric%20light%2C%20realistic%20city%20skyline%20in%20the%20background%20with%20shallow%20depth%20of%20field.%20A%20digital%20city%20billboard%20in%20the%20background%20displaying%20the%20text%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%2C%20text%20integrated%20into%20the%20screen%20with%20realistic%20glow%2C%20perspective%2C%20and%20lighting%2C%20not%20overlaid.%20Photorealistic%20futuristic%20photography%2C%20high%20fidelity%20materials%2C%20no%20cartoon%20style%2C%20no%20sci-fi%20illustration%2C%20production-ready%20realism.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%C5%9Eafakta%20modern%20bir%20%C5%9Fehre%20tepeden%20bakan%20bir%20%C3%A7at%C4%B1da%20duran%20insans%C4%B1%20bir%20robotun%20ultra%20ger%C3%A7ek%C3%A7i%20sinematik%20foto%C4%9Fraf%C4%B1%2C%20orta%20%C3%A7ekim.%20Sentetik%20derili%20ve%20a%C3%A7%C4%B1kta%20kalan%20metalik%20unsurlara%20sahip%2C%20ger%C3%A7ek%C3%A7i%20eklemlere%2C%20ince%20mekanik%20detaylara%2C%20hafif%20y%C3%BCzey%20kusurlar%C4%B1na%2C%20mikro%20%C3%A7iziklere%20ve%20yans%C4%B1malara%20sahip%20son%20derece%20detayl%C4%B1%20insans%C4%B1%20robot.%20%C4%B0nsan%20benzeri%20duru%C5%9F%20ve%20oranlar%2C%20sakin%20ve%20do%C4%9Fal%20duru%C5%9F%2C%20metal%20ve%20sentetik%20malzemelerden%20yans%C4%B1yan%20yumu%C5%9Fak%20ortam%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1.%20Sinematik%20g%C3%BCn%20do%C4%9Fumu%20ayd%C4%B1nlatmas%C4%B1%2C%20yumu%C5%9Fak%20hacimsel%20%C4%B1%C5%9F%C4%B1k%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fine%20sahip%20arka%20planda%20ger%C3%A7ek%C3%A7i%20%C5%9Fehir%20sil%C3%BCeti.%20Arka%20planda%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%20metnini%20g%C3%B6steren%20bir%20dijital%20%C5%9Fehir%20reklam%20panosu%2C%20metin%20ekrana%20ger%C3%A7ek%C3%A7i%20parlama%2C%20perspektif%20ve%20ayd%C4%B1nlatma%20ile%20entegre%20edilmi%C5%9F%2C%20%C3%BCst%20%C3%BCste%20bindirilmemi%C5%9F.%20Fotoger%C3%A7ek%C3%A7i%20f%C3%BCt%C3%BCristik%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20y%C3%BCksek%20kaliteli%20malzemeler%2C%20%C3%A7izgi%20film%20tarz%C4%B1%20yok%2C%20bilim%20kurgu%20ill%C3%BCstrasyonu%20yok%2C%20%C3%BCretime%20haz%C4%B1r%20ger%C3%A7ek%C3%A7ilik.)**
 
 ---
 
-### No. 13: Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description
+### No. 13: Yağmurlu Times Meydanı Sahnesi için Ayrıntılı Konu Açıklamalı Karmaşık Yapılandırılmış İstek
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to generate a realistic, cinematic scene of a person in Times Square on a rainy night. It specifies complex elements like reflections, specific clothing details (a black faux-leather varsity jacket with embroidery), and camera aesthetics, ensuring the subject's face remains identical to an uploaded reference.
+GPT Image 1.5 için tasarlanmış, yağmurlu bir gecede Times Meydanı'nda bir kişinin gerçekçi, sinematik bir sahnesini oluşturmak üzere hazırlanmış, oldukça detaylı, yapılandırılmış JSON benzeri bir istem. Yansımalar, belirli giyim detayları (işlemeli siyah suni deri kolej ceketi) ve kamera estetiği gibi karmaşık unsurları belirtirken, konunun yüzünün yüklenen referansla aynı kalmasını sağlar.
 
 #### 📝 İstem
 
 ```
 {
   "scene": {
-    "location": "{argument name="location" default="Times Square, New York"}",
-    "time": "{argument name="time" default="Rainy night"}",
+    "location": "{argument name=\"location\" default=\"Times Square, New York\"}",
+    "time": "{argument name=\"time\" default=\"Yağmurlu gece\"}",
     "composition": {
       "left_side": [
         {
           "type": "LED billboard",
-          "style": "vertical",
-          "text_color": "white-on-black"
+          "style": "dikey",
+          "text_color": "siyah üzerine beyaz"
         },
         {
-          "type": "curved LED screen",
-          "detail": "above yellow arrow for Hershey's store"
+          "type": "kavisli LED ekran",
+          "detail": "Hershey's mağazası için sarı okun üzerinde"
         }
       ],
       "right_side": {
-        "subject_position": "near curb",
+        "subject_position": "kaldırım kenarına yakın",
         "traffic": {
-          "vehicles": "city taxis and cars",
-          "details": "brake lights forming a slow line"
+          "vehicles": "şehir taksileri ve arabalar",
+          "details": "fren lambaları yavaş bir sıra oluşturuyor"
         }
       }
     },
     "environment": {
-      "ground": "wet asphalt",
-      "reflection_colors": ["neon magenta", "icy blue"],
+      "ground": "ıslak asfalt",
+      "reflection_colors": ["neon macenta", "buz mavisi"],
       "puddles": {
         "reflecting_lights": true,
-        "object_details": ["scattered takeaway cups"]
+        "object_details": ["dağınık paket servis kapları"]
       },
-      "atmosphere": ["electric", "intimate"]
+      "atmosphere": ["elektrikli", "samimi"]
     }
   },
   "subject": {
-    "identity": "Uploaded subject",
-    "face_requirement": "Do not change facial features. Must look 1000% identical.",
-    "pose": "Relaxed, facing camera",
-    "holding": "Folded black umbrella by handle",
+    "identity": "Yüklenen özne",
+    "face_requirement": "Yüz hatlarını değiştirmeyin. %1000 aynı görünmeli.",
+    "pose": "Rahat, kameraya dönük",
+    "holding": "Sapından tutulmuş katlanmış siyah şemsiye",
     "outfit": {
       "jacket": {
-        "material": "black faux-leather varsity",
+        "material": "siyah suni deri kolej ceketi",
         "design": {
           "cobalt_panel": true,
           "cream_stripe": true,
-          "embroidery": "Vintage script",
+          "embroidery": "Vintage yazı",
           "lettering": "Block OF",
-          "patch": "1987 stitched on sleeve",
+          "patch": "kola dikilmiş 1987",
           "reflective_piping": true,
-          "highlight_color": "purple reflection"
+          "highlight_color": "mor yansıma"
         }
       }
     }
   },
   "background": {
-    "elements": ["cars", "scaffolding", "stacked storefront signs"]
+    "elements": ["arabalar", "iskele", "üst üste yığılmış mağaza tabelaları"]
   },
   "style": {
     "resolution": "HD",
-    "aesthetic": ["realistic", "natural", "authentic"],
+    "aesthetic": ["gerçekçi", "doğal", "otantik"],
     "camera": "iPhone"
   }
 }
@@ -671,13 +789,13 @@ A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to gen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Yağmurlu Times Meydanı Sahnesi için Ayrıntılı Konu Açıklamalı Karmaşık Yapılandırılmış İstek - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Yağmurlu Times Meydanı Sahnesi için Ayrıntılı Konu Açıklamalı Karmaşık Yapılandırılmış İstek - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -687,23 +805,23 @@ A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to gen
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%22location%22%20default%3D%22Times%20Square%2C%20New%20York%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%22time%22%20default%3D%22Rainy%20night%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20billboard%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22vertical%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22white-on-black%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22curved%20LED%20screen%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22above%20yellow%20arrow%20for%20Hershey's%20store%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22near%20curb%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22city%20taxis%20and%20cars%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22brake%20lights%20forming%20a%20slow%20line%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22wet%20asphalt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22neon%20magenta%22%2C%20%22icy%20blue%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22scattered%20takeaway%20cups%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22electric%22%2C%20%22intimate%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Uploaded%20subject%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Do%20not%20change%20facial%20features.%20Must%20look%201000%25%20identical.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Relaxed%2C%20facing%20camera%22%2C%0A%20%20%20%20%22holding%22%3A%20%22Folded%20black%20umbrella%20by%20handle%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22black%20faux-leather%20varsity%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Vintage%20script%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Block%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%221987%20stitched%20on%20sleeve%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22purple%20reflection%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22cars%22%2C%20%22scaffolding%22%2C%20%22stacked%20storefront%20signs%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22realistic%22%2C%20%22natural%22%2C%20%22authentic%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22Times%20Square%2C%20New%20York%5C%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%5C%22time%5C%22%20default%3D%5C%22Ya%C4%9Fmurlu%20gece%5C%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20billboard%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22dikey%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22siyah%20%C3%BCzerine%20beyaz%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22kavisli%20LED%20ekran%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22Hershey's%20ma%C4%9Fazas%C4%B1%20i%C3%A7in%20sar%C4%B1%20okun%20%C3%BCzerinde%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22kald%C4%B1r%C4%B1m%20kenar%C4%B1na%20yak%C4%B1n%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22%C5%9Fehir%20taksileri%20ve%20arabalar%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22fren%20lambalar%C4%B1%20yava%C5%9F%20bir%20s%C4%B1ra%20olu%C5%9Fturuyor%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22%C4%B1slak%20asfalt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22neon%20macenta%22%2C%20%22buz%20mavisi%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22da%C4%9F%C4%B1n%C4%B1k%20paket%20servis%20kaplar%C4%B1%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22elektrikli%22%2C%20%22samimi%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Y%C3%BCklenen%20%C3%B6zne%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Y%C3%BCz%20hatlar%C4%B1n%C4%B1%20de%C4%9Fi%C5%9Ftirmeyin.%20%251000%20ayn%C4%B1%20g%C3%B6r%C3%BCnmeli.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Rahat%2C%20kameraya%20d%C3%B6n%C3%BCk%22%2C%0A%20%20%20%20%22holding%22%3A%20%22Sap%C4%B1ndan%20tutulmu%C5%9F%20katlanm%C4%B1%C5%9F%20siyah%20%C5%9Femsiye%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22siyah%20suni%20deri%20kolej%20ceketi%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Vintage%20yaz%C4%B1%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Block%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%22kola%20dikilmi%C5%9F%201987%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22mor%20yans%C4%B1ma%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22arabalar%22%2C%20%22iskele%22%2C%20%22%C3%BCst%20%C3%BCste%20y%C4%B1%C4%9F%C4%B1lm%C4%B1%C5%9F%20ma%C4%9Faza%20tabelalar%C4%B1%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22ger%C3%A7ek%C3%A7i%22%2C%20%22do%C4%9Fal%22%2C%20%22otantik%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 14: Extreme Food Art Grid of New York Neighborhoods
+### No. 14: New York Mahallelerinin Aşırı Yemek Sanatı Izgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A creative and complex food prompt designed to generate a 2x2 grid of extreme food art. Each panel represents a different New York neighborhood, constructed from signature dishes, landmarks built from food, and environmental details using sauces and spices.
+Aşırı yiyecek sanatının 2x2'lik bir ızgarasını oluşturmak için tasarlanmış yaratıcı ve karmaşık bir yemek istemi. Her panel, imza yemeklerden, yiyeceklerden inşa edilmiş simge yapılardan ve soslar ile baharatlar kullanılarak oluşturulmuş çevresel detaylardan oluşan farklı bir New York mahallesini temsil ediyor.
 
 #### 📝 İstem
 
 ```
-a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighborhoods" default="new york's neighborhoods"}. For each: construct the location's geographic shape from signature dishes, build a few famous landmarks from food, add environmental details (waterways, vegetation, infrastructure) using sauces/spices/ingredients. Extreme food art on slate boards, macro photography, dramatic overhead lighting, dark moody background, name underneath.
+2x2'lik bir yemek sanatı ızgarası. Rastgele 4 farklı {argument name="new york's neighborhoods" default="new york's neighborhoods"} seçin. Her biri için: konumun coğrafi şeklini imza yemeklerden oluşturun, birkaç ünlü simge yapıyı yiyeceklerden inşa edin, soslar/baharatlar/malzemeler kullanarak çevresel detaylar (su yolları, bitki örtüsü, altyapı) ekleyin. Kayrak tahtalar üzerinde aşırı yemek sanatı, makro fotoğrafçılık, dramatik tepe aydınlatması, koyu ve kasvetli arka plan, altında isim.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -711,13 +829,13 @@ a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighb
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="New York Mahallelerinin Aşırı Yemek Sanatı Izgarası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="New York Mahallelerinin Aşırı Yemek Sanatı Izgarası - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -727,22 +845,22 @@ a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighb
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=a%202x2%20food%20art%20grid.%20Randomly%20select%204%20diverse%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D.%20For%20each%3A%20construct%20the%20location's%20geographic%20shape%20from%20signature%20dishes%2C%20build%20a%20few%20famous%20landmarks%20from%20food%2C%20add%20environmental%20details%20(waterways%2C%20vegetation%2C%20infrastructure)%20using%20sauces%2Fspices%2Fingredients.%20Extreme%20food%20art%20on%20slate%20boards%2C%20macro%20photography%2C%20dramatic%20overhead%20lighting%2C%20dark%20moody%20background%2C%20name%20underneath.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=2x2'lik%20bir%20yemek%20sanat%C4%B1%20%C4%B1zgaras%C4%B1.%20Rastgele%204%20farkl%C4%B1%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D%20se%C3%A7in.%20Her%20biri%20i%C3%A7in%3A%20konumun%20co%C4%9Frafi%20%C5%9Feklini%20imza%20yemeklerden%20olu%C5%9Fturun%2C%20birka%C3%A7%20%C3%BCnl%C3%BC%20simge%20yap%C4%B1y%C4%B1%20yiyeceklerden%20in%C5%9Fa%20edin%2C%20soslar%2Fbaharatlar%2Fmalzemeler%20kullanarak%20%C3%A7evresel%20detaylar%20(su%20yollar%C4%B1%2C%20bitki%20%C3%B6rt%C3%BCs%C3%BC%2C%20altyap%C4%B1)%20ekleyin.%20Kayrak%20tahtalar%20%C3%BCzerinde%20a%C5%9F%C4%B1r%C4%B1%20yemek%20sanat%C4%B1%2C%20makro%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20dramatik%20tepe%20ayd%C4%B1nlatmas%C4%B1%2C%20koyu%20ve%20kasvetli%20arka%20plan%2C%20alt%C4%B1nda%20isim.)**
 
 ---
 
-### No. 15: Cinematic Night Street Scene Prompt
+### No. 15: Sinematik Gece Sokak Sahnesi İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A straightforward cinematic prompt for generating a moody image of a woman walking through a rainy street at night, focusing on specific visual elements like neon reflections, raindrops, soft bokeh, and a blue-red color contrast.
+Neon yansımaları, yağmur damlaları, yumuşak bokeh ve mavi-kırmızı renk kontrastı gibi belirli görsel unsurlara odaklanarak, gece yağmurlu bir sokakta yürüyen bir kadının kasvetli bir görüntüsünü oluşturmak için basit bir sinematik komut istemi.
 
 #### 📝 İstem
 
 ```
-A woman walking through a rainy street at night, neon signs reflecting off puddles, raindrops on the jacket, soft bokeh in the background, moody expression, cinematic blue-red color contrast.
+Gece yağmurlu bir sokakta yürüyen bir kadın, su birikintilerinden yansıyan neon tabelalar, ceketindeki yağmur damlaları, arka planda yumuşak bokeh, karamsar ifade, sinematik mavi-kırmızı renk kontrastı.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -750,13 +868,13 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Sinematik Gece Sokak Sahnesi İstemcisi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Sinematik Gece Sokak Sahnesi İstemcisi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -766,53 +884,51 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A%20woman%20walking%20through%20a%20rainy%20street%20at%20night%2C%20neon%20signs%20reflecting%20off%20puddles%2C%20raindrops%20on%20the%20jacket%2C%20soft%20bokeh%20in%20the%20background%2C%20moody%20expression%2C%20cinematic%20blue-red%20color%20contrast.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Gece%20ya%C4%9Fmurlu%20bir%20sokakta%20y%C3%BCr%C3%BCyen%20bir%20kad%C4%B1n%2C%20su%20birikintilerinden%20yans%C4%B1yan%20neon%20tabelalar%2C%20ceketindeki%20ya%C4%9Fmur%20damlalar%C4%B1%2C%20arka%20planda%20yumu%C5%9Fak%20bokeh%2C%20karamsar%20ifade%2C%20sinematik%20mavi-k%C4%B1rm%C4%B1z%C4%B1%20renk%20kontrast%C4%B1.)**
 
 ---
 
-### No. 16: Chinese Fantasy Digital Art Prompt Template
+### No. 16: Çin Fantezi Dijital Sanat İstemi Şablonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A highly structured JSON-formatted prompt template for generating panoramic digital artwork in a Chinese Fantasy and Abstract Digital Art style. It specifies visual elements like subject silhouette, bioluminescent lighting, flowing effects, and a specific color palette, intended for use with models like Midjourney (Niji 6) or SDXL. The prompt is designed to be easily customized by changing the final line to specify the character or scene, such as applying the style to characters from 'Journey to the West'.
+Çin Fantazisi ve Soyut Dijital Sanat tarzında panoramik dijital sanat eserleri oluşturmak için oldukça yapılandırılmış, JSON formatında bir istem şablonu. Midjourney (Niji 6) veya SDXL gibi modellerle kullanılmak üzere tasarlanmış olup, konu silüeti, biyolüminesan aydınlatma, akışkan efektler ve belirli bir renk paleti gibi görsel öğeleri belirtir. İstem, son satırı karakteri veya sahneyi belirtecek şekilde değiştirerek, örneğin 'Batı'ya Yolculuk'taki karakterlere bu stili uygulayarak kolayca özelleştirilebilir.
 
 #### 📝 İstem
 
 ```
 {
   "meta_info": {
-    "title": "Ethereal Hanfu Spirit",
-    "style_category": "Chinese Fantasy / Abstract Digital Art",
+    "title": "Ethereal Hanfu Ruhu",
+    "style_category": "Çin Fantastik / Soyut Dijital Sanat",
     "aspect_ratio": "3:1"
   },
   "visual_elements": {
     "subject": {
-      "description": "Silhouette wearing attire determined by the character",
-      "pose": "Pose determined by the character, floating in mid-air",
-      "composition": "Centered ethereal figure with flowing trails extending to the sides"
+      "description": "Karakter tarafından belirlenen kıyafeti giyen siluet",
+      "pose": "Karakter tarafından belirlenen, havada süzülen poz",
+      "composition": "Ortalanmış, eterik figür, yanlara doğru uzanan akışkan izlerle"
     },
     "atmosphere": {
-      "lighting": "Bioluminescent glow, volumetric lighting, rim lighting",
-      "effects": "Flowing smoke, light particles, holographic dispersion, silk-like energy trails",
-      "colors": ["Deep Navy Blue", "Glowing Cyan", "Iridescent Gold", "Soft Peach"]
+      "lighting": "Biyolüminesan parlaklık, hacimsel aydınlatma, kenar aydınlatması",
+      "effects": "Akışkan duman, ışık parçacıkları, holografik dağılım, ipek benzeri enerji izleri",
+      "colors": ["Koyu Lacivert", "Parlayan Turkuaz", "İrisli Altın", "Yumuşak Şeftali"]
     }
   },
   "prompt_export": {
-    "natural_language_prompt": "A wide panoramic digital artwork depicting a figure composed of flowing ribbons of light, translucent smoke, and iridescent particles. The background features deep, moody indigo and dark blue tones. The figure emits a soft, magical bioluminescent glow in hues of gold, peach, and cyan. The overall style is abstract fantasy, emphasizing fluid motion and a dreamy atmosphere, rendered in 8K resolution with highly detailed textures and exhibiting the Tyndall effect.",
-    "tag_based_prompt": " silhouette, flowing light lines, smoke effects, particle effects, bioluminescence, iridescent effects, dark blue background, cinematic lighting, ethereal, mystical, masterpiece, best quality, 8k, wide angle --ay 21:9 ",
-    "negative_prompt": "photorealistic, solid skin, heavy outlines, messy lines, text, watermark, low quality, jpeg artifacts, blurry, distorted face, bad anatomy"
+    "natural_language_prompt": "Akışkan ışık şeritleri, yarı saydam duman ve iridesan parçacıklardan oluşan bir figürü tasvir eden geniş panoramik bir dijital sanat eseri. Arka planda derin, kasvetli çivit mavisi ve koyu mavi tonlar bulunuyor. Figür, altın, şeftali ve turkuaz tonlarında yumuşak, büyülü bir biyolüminesan parlaklık yayıyor. Genel stil, akışkan hareketi ve rüya gibi bir atmosferi vurgulayan soyut fantazidir; 8K çözünürlükte, yüksek detaylı dokularla ve Tyndall etkisi sergileyerek işlenmiştir.",
+    "tag_based_prompt": " siluet, akan ışık çizgileri, duman efektleri, parçacık efektleri, biyolüminesans, iridesan efektler, koyu mavi arka plan, sinematik aydınlatma, eterik, mistik, başyapıt, en iyi kalite, 8k, geniş açı --ar 21:9 ",
+    "negative_prompt": "fotogerçekçi, katı cilt, ağır hatlar, dağınık çizgiler, metin, filigran, düşük kalite, jpeg artefaktları, bulanık, bozuk yüz, kötü anatomi"
   },
   "technical_settings_recommendation": {
     "sampler": "Euler a / DPM++ 2M Karras",
     "steps": 30,
     "cfg_scale": 7.0,
-    "model_suggestion": "Niji 6 (for Midjourney) or Abstract/Fantasy-based SDXL models"
+    "model_suggestion": "Niji 6 (Midjourney için) veya Soyut/Fantastik tabanlı SDXL modelleri"
   }
 }
-Character set as: {argument name="character setting" default="The four master and disciples from Journey to the West"}
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -820,19 +936,19 @@ Character set as: {argument name="character setting" default="The four master an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Çin Fantezi Dijital Sanat İstemi Şablonu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Çin Fantezi Dijital Sanat İstemi Şablonu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Çin Fantezi Dijital Sanat İstemi Şablonu - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -842,23 +958,23 @@ Character set as: {argument name="character setting" default="The four master an
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Ethereal%20Hanfu%20Spirit%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22Chinese%20Fantasy%20%2F%20Abstract%20Digital%20Art%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22Silhouette%20wearing%20attire%20determined%20by%20the%20character%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22Pose%20determined%20by%20the%20character%2C%20floating%20in%20mid-air%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22Centered%20ethereal%20figure%20with%20flowing%20trails%20extending%20to%20the%20sides%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Bioluminescent%20glow%2C%20volumetric%20lighting%2C%20rim%20lighting%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Flowing%20smoke%2C%20light%20particles%2C%20holographic%20dispersion%2C%20silk-like%20energy%20trails%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Deep%20Navy%20Blue%22%2C%20%22Glowing%20Cyan%22%2C%20%22Iridescent%20Gold%22%2C%20%22Soft%20Peach%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22A%20wide%20panoramic%20digital%20artwork%20depicting%20a%20figure%20composed%20of%20flowing%20ribbons%20of%20light%2C%20translucent%20smoke%2C%20and%20iridescent%20particles.%20The%20background%20features%20deep%2C%20moody%20indigo%20and%20dark%20blue%20tones.%20The%20figure%20emits%20a%20soft%2C%20magical%20bioluminescent%20glow%20in%20hues%20of%20gold%2C%20peach%2C%20and%20cyan.%20The%20overall%20style%20is%20abstract%20fantasy%2C%20emphasizing%20fluid%20motion%20and%20a%20dreamy%20atmosphere%2C%20rendered%20in%208K%20resolution%20with%20highly%20detailed%20textures%20and%20exhibiting%20the%20Tyndall%20effect.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20silhouette%2C%20flowing%20light%20lines%2C%20smoke%20effects%2C%20particle%20effects%2C%20bioluminescence%2C%20iridescent%20effects%2C%20dark%20blue%20background%2C%20cinematic%20lighting%2C%20ethereal%2C%20mystical%2C%20masterpiece%2C%20best%20quality%2C%208k%2C%20wide%20angle%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22photorealistic%2C%20solid%20skin%2C%20heavy%20outlines%2C%20messy%20lines%2C%20text%2C%20watermark%2C%20low%20quality%2C%20jpeg%20artifacts%2C%20blurry%2C%20distorted%20face%2C%20bad%20anatomy%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(for%20Midjourney)%20or%20Abstract%2FFantasy-based%20SDXL%20models%22%0A%20%20%7D%0A%7D%0ACharacter%20set%20as%3A%20%7Bargument%20name%3D%22character%20setting%22%20default%3D%22The%20four%20master%20and%20disciples%20from%20Journey%20to%20the%20West%22%7D)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Ethereal%20Hanfu%20Ruhu%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22%C3%87in%20Fantastik%20%2F%20Soyut%20Dijital%20Sanat%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22Karakter%20taraf%C4%B1ndan%20belirlenen%20k%C4%B1yafeti%20giyen%20siluet%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22Karakter%20taraf%C4%B1ndan%20belirlenen%2C%20havada%20s%C3%BCz%C3%BClen%20poz%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22Ortalanm%C4%B1%C5%9F%2C%20eterik%20fig%C3%BCr%2C%20yanlara%20do%C4%9Fru%20uzanan%20ak%C4%B1%C5%9Fkan%20izlerle%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Biyol%C3%BCminesan%20parlakl%C4%B1k%2C%20hacimsel%20ayd%C4%B1nlatma%2C%20kenar%20ayd%C4%B1nlatmas%C4%B1%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Ak%C4%B1%C5%9Fkan%20duman%2C%20%C4%B1%C5%9F%C4%B1k%20par%C3%A7ac%C4%B1klar%C4%B1%2C%20holografik%20da%C4%9F%C4%B1l%C4%B1m%2C%20ipek%20benzeri%20enerji%20izleri%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Koyu%20Lacivert%22%2C%20%22Parlayan%20Turkuaz%22%2C%20%22%C4%B0risli%20Alt%C4%B1n%22%2C%20%22Yumu%C5%9Fak%20%C5%9Eeftali%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22Ak%C4%B1%C5%9Fkan%20%C4%B1%C5%9F%C4%B1k%20%C5%9Feritleri%2C%20yar%C4%B1%20saydam%20duman%20ve%20iridesan%20par%C3%A7ac%C4%B1klardan%20olu%C5%9Fan%20bir%20fig%C3%BCr%C3%BC%20tasvir%20eden%20geni%C5%9F%20panoramik%20bir%20dijital%20sanat%20eseri.%20Arka%20planda%20derin%2C%20kasvetli%20%C3%A7ivit%20mavisi%20ve%20koyu%20mavi%20tonlar%20bulunuyor.%20Fig%C3%BCr%2C%20alt%C4%B1n%2C%20%C5%9Feftali%20ve%20turkuaz%20tonlar%C4%B1nda%20yumu%C5%9Fak%2C%20b%C3%BCy%C3%BCl%C3%BC%20bir%20biyol%C3%BCminesan%20parlakl%C4%B1k%20yay%C4%B1yor.%20Genel%20stil%2C%20ak%C4%B1%C5%9Fkan%20hareketi%20ve%20r%C3%BCya%20gibi%20bir%20atmosferi%20vurgulayan%20soyut%20fantazidir%3B%208K%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkte%2C%20y%C3%BCksek%20detayl%C4%B1%20dokularla%20ve%20Tyndall%20etkisi%20sergileyerek%20i%C5%9Flenmi%C5%9Ftir.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20siluet%2C%20akan%20%C4%B1%C5%9F%C4%B1k%20%C3%A7izgileri%2C%20duman%20efektleri%2C%20par%C3%A7ac%C4%B1k%20efektleri%2C%20biyol%C3%BCminesans%2C%20iridesan%20efektler%2C%20koyu%20mavi%20arka%20plan%2C%20sinematik%20ayd%C4%B1nlatma%2C%20eterik%2C%20mistik%2C%20ba%C5%9Fyap%C4%B1t%2C%20en%20iyi%20kalite%2C%208k%2C%20geni%C5%9F%20a%C3%A7%C4%B1%20--ar%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22fotoger%C3%A7ek%C3%A7i%2C%20kat%C4%B1%20cilt%2C%20a%C4%9F%C4%B1r%20hatlar%2C%20da%C4%9F%C4%B1n%C4%B1k%20%C3%A7izgiler%2C%20metin%2C%20filigran%2C%20d%C3%BC%C5%9F%C3%BCk%20kalite%2C%20jpeg%20artefaktlar%C4%B1%2C%20bulan%C4%B1k%2C%20bozuk%20y%C3%BCz%2C%20k%C3%B6t%C3%BC%20anatomi%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(Midjourney%20i%C3%A7in)%20veya%20Soyut%2FFantastik%20tabanl%C4%B1%20SDXL%20modelleri%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 17: Adding Handwritten Text and Decoration to an Image
+### No. 17: Bir Görsele El Yazısı Metin ve Dekorasyon Ekleme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-The second Japanese prompt focuses on image manipulation, asking GPT Image 1.5 to add handwritten text (a date and a heart mark) and decorations to make the image look like a 'Cheki' (instant photo).
+İkinci Japonca komut, görüntü manipülasyonuna odaklanarak GPT Image 1.5'ten, görüntünün bir 'Cheki' (anlık fotoğraf) gibi görünmesini sağlamak için el yazısı metin (bir tarih ve bir kalp işareti) ve süslemeler eklemesini istiyor.
 
 #### 📝 İstem
 
 ```
-Please add handwritten text ({argument name="date" default="2025.12.18"} + heart mark) and decorations to make it look like a Cheki (instant photo).
+Lütfen el yazısı metin ({argument name="date" default="2025.12.18"} + kalp işareti) ve süslemeler ekleyerek bir Cheki (anlık fotoğraf) gibi görünmesini sağlayın.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -866,7 +982,7 @@ Please add handwritten text ({argument name="date" default="2025.12.18"} + heart
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Adding Handwritten Text and Decoration to an Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Bir Görsele El Yazısı Metin ve Dekorasyon Ekleme - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -876,22 +992,22 @@ Please add handwritten text ({argument name="date" default="2025.12.18"} + heart
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Please%20add%20handwritten%20text%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20heart%20mark)%20and%20decorations%20to%20make%20it%20look%20like%20a%20Cheki%20(instant%20photo).)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=L%C3%BCtfen%20el%20yaz%C4%B1s%C4%B1%20metin%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20kalp%20i%C5%9Fareti)%20ve%20s%C3%BCslemeler%20ekleyerek%20bir%20Cheki%20(anl%C4%B1k%20foto%C4%9Fraf)%20gibi%20g%C3%B6r%C3%BCnmesini%20sa%C4%9Flay%C4%B1n.)**
 
 ---
 
-### No. 18: Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar
+### No. 18: Tüylü Tavşan Kulaklı Şeytan Kovucu ve Çırak Tavşan Tanıdık
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-A Japanese prompt describing two characters: an exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath. This prompt was used to test GPT Image 1.5's ability to handle complex character descriptions and scenes with simple color palettes.
+Tüylü tavşan kulaklı bir şeytan kovucu ile aynı zamanda çırak olan ve banyo yapmak isteyen bir tavşan yoldaşı olmak üzere iki karakteri tanımlayan bir Japonca istem. Bu istem, GPT Image 1.5'in karmaşık karakter tanımlamalarını ve basit renk paletlerine sahip sahneleri işleme yeteneğini test etmek için kullanıldı.
 
 #### 📝 İstem
 
 ```
-An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath
+Kabarık tavşan kulaklı bir şeytan çıkarıcı ve aynı zamanda çırak olan ve banyo yapmak isteyen bir tavşan tanıdık.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -899,7 +1015,7 @@ An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprent
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Tüylü Tavşan Kulaklı Şeytan Kovucu ve Çırak Tavşan Tanıdık - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -909,51 +1025,51 @@ An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprent
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=An%20exorcist%20with%20fluffy%20rabbit%20ears%20and%20a%20rabbit%20familiar%20who%20is%20also%20an%20apprentice%20and%20wants%20to%20take%20a%20bath)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Kabar%C4%B1k%20tav%C5%9Fan%20kulakl%C4%B1%20bir%20%C5%9Feytan%20%C3%A7%C4%B1kar%C4%B1c%C4%B1%20ve%20ayn%C4%B1%20zamanda%20%C3%A7%C4%B1rak%20olan%20ve%20banyo%20yapmak%20isteyen%20bir%20tav%C5%9Fan%20tan%C4%B1d%C4%B1k.)**
 
 ---
 
-### No. 19: GPT Image 1.5 World Tour Prompt Template
+### No. 19: GPT Görüntü 1.5 Dünya Turu İstemi Şablonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A detailed, structured prompt template for GPT Image 1.5 designed to generate photorealistic concert documentary images of a character performing a 'World Tour' at a specific geographical location defined by latitude and longitude. The prompt emphasizes maintaining character identity while integrating local culture and cinematic visual effects.
+GPT Image 1.5 için, enlem ve boylam ile tanımlanan belirli bir coğrafi konumda 'Dünya Turu' yapan bir karakterin fotogerçekçi konser belgeseli görüntülerini oluşturmak üzere tasarlanmış ayrıntılı, yapılandırılmış bir istem şablonu. İstem, yerel kültürü ve sinematik görsel efektleri entegre ederken karakter kimliğini korumaya vurgu yapmaktadır.
 
 #### 📝 İstem
 
 ```
-GENERAL STYLE & MOOD:
-Photorealistic live concert documentary. Cinematic visual expression blending the fervor of the enthusiastic audience with the unique atmosphere and lighting specific to the location.
+GENEL STİL VE ATMOSFER:
+Foto-gerçekçi canlı konser belgeseli. Coşkulu kalabalığın heyecanı ile mekana özgü atmosfer ve aydınlatmayı harmanlayan sinematik görsel ifade.
 
-SUBJECT:
-The character from the attached image is performing a 'World Tour' live performance at the specified latitude and longitude location.
-While completely preserving the character's identity, they are wearing a 'World Tour exclusive stage costume' that modernly arranges the culture, tradition, or symbolic elements of that land.
+KONU:
+Ekteki görseldeki karakter, belirtilen enlem ve boylam konumunda bir 'Dünya Turu' canlı performansı sergiliyor.
+Karakterin kimliği tamamen korunarak, o bölgenin kültürünü, geleneğini veya sembolik unsurlarını modern bir şekilde düzenleyen 'Dünya Turu'na özel bir sahne kostümü giyiyor.
 
-COMPOSITION & STAGE DESIGN:
-The stage is a special venue that maximizes the use of the local landmarks, topography, or urban landscape.
-- Dynamic angle using a wide-angle lens (24mm equivalent).
-- Immersive framing, looking up at the stage over the audience.
-- Fusion of iconic local backgrounds (architecture, natural scenery) and the latest lighting technology (LED, laser).
+KOMPOZİSYON VE SAHNE TASARIMI:
+Sahne, yerel simge yapıları, topografyayı veya şehir manzarasını en üst düzeyde kullanan özel bir mekandır.
+- Geniş açılı lens (24mm eşdeğeri) kullanılarak dinamik açı.
+- Seyircinin üzerinden sahneye yukarıdan bakan sürükleyici kadraj.
+- İkonik yerel arka planların (mimari, doğal manzara) ve en son aydınlatma teknolojisinin (LED, lazer) birleşimi.
 
-LIGHTING & ENVIRONMENT:
-- Natural light based on the local time of day ( {argument name="time of day" default="golden hour, or night"}) determined by latitude and longitude.
-- Coexistence of spotlights illuminating the stage and bokeh from local streetlights or night views.
-- A sea of light created by the audience's glow sticks and smartphone lights.
+AYDINLATMA VE ÇEVRE:
+- Enlem ve boylama göre belirlenen yerel günün saatine ( {argument name="time of day" default="altın saat veya gece"}) dayalı doğal ışık.
+- Sahneyi aydınlatan spot ışıkları ile yerel sokak lambalarından veya gece manzaralarından gelen bokeh'in bir arada bulunması.
+- Seyircinin ışıklı çubukları ve akıllı telefon ışıklarıyla oluşan bir ışık denizi.
 
-PRESERVE FROM IMAGE:
-- The character's facial features, hairstyle, hair color, and physical characteristics.
-- The character's unique expressions and performance habits.
+GÖRSELDEKİLERİ KORU:
+- Karakterin yüz hatları, saç stili, saç rengi ve fiziksel özellikleri.
+- Karakterin kendine özgü ifadeleri ve performans alışkanlıkları.
 
-CONSTRAINTS / DO NOT:
-- Do not distort the character's form.
-- Avoid unnatural finger shapes or duplication of limbs.
-- Ensure that text or logos on the stage are depicted extremely clearly, avoiding illegible random strings.
-- The background must not be a generic concert venue; it must incorporate a unique landscape that could only exist in that specific location.
+KISITLAMALAR / YAPILMAYACAKLAR:
+- Karakterin formunu bozmayın.
+- Doğal olmayan parmak şekillerinden veya uzuvların tekrarından kaçının.
+- Sahnedeki metin veya logoların son derece net bir şekilde tasvir edildiğinden, okunaksız rastgele dizelerden kaçınıldığından emin olun.
+- Arka plan sıradan bir konser alanı olmamalı; yalnızca o belirli konumda var olabilecek benzersiz bir manzarayı içermelidir.
 
-LOCATION SPECIFICATION:
+KONUM BELİRTİMİ:
 {argument name="latitude" default="-13.1631"}
 {argument name="longitude" default="-72.5450"}
 ```
@@ -963,7 +1079,7 @@ LOCATION SPECIFICATION:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT Image 1.5 World Tour Prompt Template - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT Görüntü 1.5 Dünya Turu İstemi Şablonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -973,22 +1089,22 @@ LOCATION SPECIFICATION:
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=GENERAL%20STYLE%20%26%20MOOD%3A%0APhotorealistic%20live%20concert%20documentary.%20Cinematic%20visual%20expression%20blending%20the%20fervor%20of%20the%20enthusiastic%20audience%20with%20the%20unique%20atmosphere%20and%20lighting%20specific%20to%20the%20location.%0A%0ASUBJECT%3A%0AThe%20character%20from%20the%20attached%20image%20is%20performing%20a%20'World%20Tour'%20live%20performance%20at%20the%20specified%20latitude%20and%20longitude%20location.%0AWhile%20completely%20preserving%20the%20character's%20identity%2C%20they%20are%20wearing%20a%20'World%20Tour%20exclusive%20stage%20costume'%20that%20modernly%20arranges%20the%20culture%2C%20tradition%2C%20or%20symbolic%20elements%20of%20that%20land.%0A%0ACOMPOSITION%20%26%20STAGE%20DESIGN%3A%0AThe%20stage%20is%20a%20special%20venue%20that%20maximizes%20the%20use%20of%20the%20local%20landmarks%2C%20topography%2C%20or%20urban%20landscape.%0A-%20Dynamic%20angle%20using%20a%20wide-angle%20lens%20(24mm%20equivalent).%0A-%20Immersive%20framing%2C%20looking%20up%20at%20the%20stage%20over%20the%20audience.%0A-%20Fusion%20of%20iconic%20local%20backgrounds%20(architecture%2C%20natural%20scenery)%20and%20the%20latest%20lighting%20technology%20(LED%2C%20laser).%0A%0ALIGHTING%20%26%20ENVIRONMENT%3A%0A-%20Natural%20light%20based%20on%20the%20local%20time%20of%20day%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22golden%20hour%2C%20or%20night%22%7D)%20determined%20by%20latitude%20and%20longitude.%0A-%20Coexistence%20of%20spotlights%20illuminating%20the%20stage%20and%20bokeh%20from%20local%20streetlights%20or%20night%20views.%0A-%20A%20sea%20of%20light%20created%20by%20the%20audience's%20glow%20sticks%20and%20smartphone%20lights.%0A%0APRESERVE%20FROM%20IMAGE%3A%0A-%20The%20character's%20facial%20features%2C%20hairstyle%2C%20hair%20color%2C%20and%20physical%20characteristics.%0A-%20The%20character's%20unique%20expressions%20and%20performance%20habits.%0A%0ACONSTRAINTS%20%2F%20DO%20NOT%3A%0A-%20Do%20not%20distort%20the%20character's%20form.%0A-%20Avoid%20unnatural%20finger%20shapes%20or%20duplication%20of%20limbs.%0A-%20Ensure%20that%20text%20or%20logos%20on%20the%20stage%20are%20depicted%20extremely%20clearly%2C%20avoiding%20illegible%20random%20strings.%0A-%20The%20background%20must%20not%20be%20a%20generic%20concert%20venue%3B%20it%20must%20incorporate%20a%20unique%20landscape%20that%20could%20only%20exist%20in%20that%20specific%20location.%0A%0ALOCATION%20SPECIFICATION%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=GENEL%20ST%C4%B0L%20VE%20ATMOSFER%3A%0AFoto-ger%C3%A7ek%C3%A7i%20canl%C4%B1%20konser%20belgeseli.%20Co%C5%9Fkulu%20kalabal%C4%B1%C4%9F%C4%B1n%20heyecan%C4%B1%20ile%20mekana%20%C3%B6zg%C3%BC%20atmosfer%20ve%20ayd%C4%B1nlatmay%C4%B1%20harmanlayan%20sinematik%20g%C3%B6rsel%20ifade.%0A%0AKONU%3A%0AEkteki%20g%C3%B6rseldeki%20karakter%2C%20belirtilen%20enlem%20ve%20boylam%20konumunda%20bir%20'D%C3%BCnya%20Turu'%20canl%C4%B1%20performans%C4%B1%20sergiliyor.%0AKarakterin%20kimli%C4%9Fi%20tamamen%20korunarak%2C%20o%20b%C3%B6lgenin%20k%C3%BClt%C3%BCr%C3%BCn%C3%BC%2C%20gelene%C4%9Fini%20veya%20sembolik%20unsurlar%C4%B1n%C4%B1%20modern%20bir%20%C5%9Fekilde%20d%C3%BCzenleyen%20'D%C3%BCnya%20Turu'na%20%C3%B6zel%20bir%20sahne%20kost%C3%BCm%C3%BC%20giyiyor.%0A%0AKOMPOZ%C4%B0SYON%20VE%20SAHNE%20TASARIMI%3A%0ASahne%2C%20yerel%20simge%20yap%C4%B1lar%C4%B1%2C%20topografyay%C4%B1%20veya%20%C5%9Fehir%20manzaras%C4%B1n%C4%B1%20en%20%C3%BCst%20d%C3%BCzeyde%20kullanan%20%C3%B6zel%20bir%20mekand%C4%B1r.%0A-%20Geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%20(24mm%20e%C5%9Fde%C4%9Feri)%20kullan%C4%B1larak%20dinamik%20a%C3%A7%C4%B1.%0A-%20Seyircinin%20%C3%BCzerinden%20sahneye%20yukar%C4%B1dan%20bakan%20s%C3%BCr%C3%BCkleyici%20kadraj.%0A-%20%C4%B0konik%20yerel%20arka%20planlar%C4%B1n%20(mimari%2C%20do%C4%9Fal%20manzara)%20ve%20en%20son%20ayd%C4%B1nlatma%20teknolojisinin%20(LED%2C%20lazer)%20birle%C5%9Fimi.%0A%0AAYDINLATMA%20VE%20%C3%87EVRE%3A%0A-%20Enlem%20ve%20boylama%20g%C3%B6re%20belirlenen%20yerel%20g%C3%BCn%C3%BCn%20saatine%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22alt%C4%B1n%20saat%20veya%20gece%22%7D)%20dayal%C4%B1%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k.%0A-%20Sahneyi%20ayd%C4%B1nlatan%20spot%20%C4%B1%C5%9F%C4%B1klar%C4%B1%20ile%20yerel%20sokak%20lambalar%C4%B1ndan%20veya%20gece%20manzaralar%C4%B1ndan%20gelen%20bokeh'in%20bir%20arada%20bulunmas%C4%B1.%0A-%20Seyircinin%20%C4%B1%C5%9F%C4%B1kl%C4%B1%20%C3%A7ubuklar%C4%B1%20ve%20ak%C4%B1ll%C4%B1%20telefon%20%C4%B1%C5%9F%C4%B1klar%C4%B1yla%20olu%C5%9Fan%20bir%20%C4%B1%C5%9F%C4%B1k%20denizi.%0A%0AG%C3%96RSELDEK%C4%B0LER%C4%B0%20KORU%3A%0A-%20Karakterin%20y%C3%BCz%20hatlar%C4%B1%2C%20sa%C3%A7%20stili%2C%20sa%C3%A7%20rengi%20ve%20fiziksel%20%C3%B6zellikleri.%0A-%20Karakterin%20kendine%20%C3%B6zg%C3%BC%20ifadeleri%20ve%20performans%20al%C4%B1%C5%9Fkanl%C4%B1klar%C4%B1.%0A%0AKISITLAMALAR%20%2F%20YAPILMAYACAKLAR%3A%0A-%20Karakterin%20formunu%20bozmay%C4%B1n.%0A-%20Do%C4%9Fal%20olmayan%20parmak%20%C5%9Fekillerinden%20veya%20uzuvlar%C4%B1n%20tekrar%C4%B1ndan%20ka%C3%A7%C4%B1n%C4%B1n.%0A-%20Sahnedeki%20metin%20veya%20logolar%C4%B1n%20son%20derece%20net%20bir%20%C5%9Fekilde%20tasvir%20edildi%C4%9Finden%2C%20okunaks%C4%B1z%20rastgele%20dizelerden%20ka%C3%A7%C4%B1n%C4%B1ld%C4%B1%C4%9F%C4%B1ndan%20emin%20olun.%0A-%20Arka%20plan%20s%C4%B1radan%20bir%20konser%20alan%C4%B1%20olmamal%C4%B1%3B%20yaln%C4%B1zca%20o%20belirli%20konumda%20var%20olabilecek%20benzersiz%20bir%20manzaray%C4%B1%20i%C3%A7ermelidir.%0A%0AKONUM%20BEL%C4%B0RT%C4%B0M%C4%B0%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
 
 ---
 
-### No. 20: Romantic Blue Ink Spill Portrait
+### No. 20: Romantik Mavi Mürekkep Dökülmesi Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A creative prompt instructing the model to convert an uploaded image of a couple into an ultra-realistic portrait rendered as a blue ink spill on paper, maintaining the faces but depicting a romantic pose and specific traditional clothing.
+Yüklenen bir çift fotoğrafını, yüzleri koruyarak ancak romantik bir poz ve belirli geleneksel kıyafetlerle kağıt üzerine mavi mürekkep dökülmesi şeklinde oluşturulmuş ultra gerçekçi bir portreye dönüştürmesi için modeli yönlendiren yaratıcı bir bilgi istemi.
 
 #### 📝 İstem
 
 ```
-Convert the above image into ultra realistic portrait of both in a romantic pose in the form of blue ink spill in a paper .guy should be in formal shirt and pant .girl should be in flower designed saree.behind them  above their  head should have couple different  romantic  pose closeup face  picture in transparent form ..both should not look the camera .dramatic ( do not change the faces)
+Yukarıdaki görüntüyü, her ikisinin de romantik bir pozda, kağıt üzerinde mavi mürekkep dökülmesi şeklinde ultra gerçekçi bir portresine dönüştürün. Erkek resmi bir gömlek ve pantolon giymeli. Kız çiçek desenli bir sari giymeli. Arkalarında, başlarının üzerinde, şeffaf biçimde çiftin farklı romantik pozlarda yakın çekim yüz resimleri olmalı. İkisi de kameraya bakmamalı. Dramatik (yüzleri değiştirmeyin).
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -996,13 +1112,13 @@ Convert the above image into ultra realistic portrait of both in a romantic pose
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Romantik Mavi Mürekkep Dökülmesi Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Romantik Mavi Mürekkep Dökülmesi Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1012,22 +1128,22 @@ Convert the above image into ultra realistic portrait of both in a romantic pose
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Convert%20the%20above%20image%20into%20ultra%20realistic%20portrait%20of%20both%20in%20a%20romantic%20pose%20in%20the%20form%20of%20blue%20ink%20spill%20in%20a%20paper%20.guy%20should%20be%20in%20formal%20shirt%20and%20pant%20.girl%20should%20be%20in%20flower%20designed%20saree.behind%20them%20%20above%20their%20%20head%20should%20have%20couple%20different%20%20romantic%20%20pose%20closeup%20face%20%20picture%20in%20transparent%20form%20..both%20should%20not%20look%20the%20camera%20.dramatic%20(%20do%20not%20change%20the%20faces))**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Yukar%C4%B1daki%20g%C3%B6r%C3%BCnt%C3%BCy%C3%BC%2C%20her%20ikisinin%20de%20romantik%20bir%20pozda%2C%20ka%C4%9F%C4%B1t%20%C3%BCzerinde%20mavi%20m%C3%BCrekkep%20d%C3%B6k%C3%BClmesi%20%C5%9Feklinde%20ultra%20ger%C3%A7ek%C3%A7i%20bir%20portresine%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Erkek%20resmi%20bir%20g%C3%B6mlek%20ve%20pantolon%20giymeli.%20K%C4%B1z%20%C3%A7i%C3%A7ek%20desenli%20bir%20sari%20giymeli.%20Arkalar%C4%B1nda%2C%20ba%C5%9Flar%C4%B1n%C4%B1n%20%C3%BCzerinde%2C%20%C5%9Feffaf%20bi%C3%A7imde%20%C3%A7iftin%20farkl%C4%B1%20romantik%20pozlarda%20yak%C4%B1n%20%C3%A7ekim%20y%C3%BCz%20resimleri%20olmal%C4%B1.%20%C4%B0kisi%20de%20kameraya%20bakmamal%C4%B1.%20Dramatik%20(y%C3%BCzleri%20de%C4%9Fi%C5%9Ftirmeyin).)**
 
 ---
 
-### No. 21: Modern Ukiyo-e Style Beauty Illustration
+### No. 21: Modern Ukiyo-e Tarzı Güzellik İllüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-A Japanese prompt for generating a modern recreation of a Ukiyo-e (woodblock print) style beauty portrait. The image should feature a beautiful woman wearing vividly colored and intricately patterned clothing, rendered as an illustration portrait.
+Ukiyo-e (tahta baskı) tarzı bir güzellik portresinin modern bir yeniden yaratımını oluşturmak için bir Japonca istem. Görüntü, canlı renkli ve karmaşık desenli giysiler giyen güzel bir kadını, bir illüstrasyon portresi olarak tasvir etmelidir.
 
 #### 📝 İstem
 
 ```
-It seems that many compositions of multicolored Ukiyo-e beauty portraits were created during the Edo period. As a modern recreation, please prepare an **illustration** portrait of a beautiful woman wearing vividly colored and intricately patterned clothing.
+Edo döneminde çok renkli Ukiyo-e güzellik portrelerinin birçok kompozisyonunun yaratıldığı görülüyor. Modern bir yeniden yaratım olarak, canlı renkli ve karmaşık desenli giysiler giyen güzel bir kadının bir **illüstrasyon** portresini hazırlayın.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1035,7 +1151,7 @@ It seems that many compositions of multicolored Ukiyo-e beauty portraits were cr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Modern Ukiyo-e Style Beauty Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Modern Ukiyo-e Tarzı Güzellik İllüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1045,22 +1161,22 @@ It seems that many compositions of multicolored Ukiyo-e beauty portraits were cr
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=It%20seems%20that%20many%20compositions%20of%20multicolored%20Ukiyo-e%20beauty%20portraits%20were%20created%20during%20the%20Edo%20period.%20As%20a%20modern%20recreation%2C%20please%20prepare%20an%20**illustration**%20portrait%20of%20a%20beautiful%20woman%20wearing%20vividly%20colored%20and%20intricately%20patterned%20clothing.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Edo%20d%C3%B6neminde%20%C3%A7ok%20renkli%20Ukiyo-e%20g%C3%BCzellik%20portrelerinin%20bir%C3%A7ok%20kompozisyonunun%20yarat%C4%B1ld%C4%B1%C4%9F%C4%B1%20g%C3%B6r%C3%BCl%C3%BCyor.%20Modern%20bir%20yeniden%20yarat%C4%B1m%20olarak%2C%20canl%C4%B1%20renkli%20ve%20karma%C5%9F%C4%B1k%20desenli%20giysiler%20giyen%20g%C3%BCzel%20bir%20kad%C4%B1n%C4%B1n%20bir%20**ill%C3%BCstrasyon**%20portresini%20haz%C4%B1rlay%C4%B1n.)**
 
 ---
 
-### No. 22: Abstract Fibonacci Particle Facial Features CGI Prompt
+### No. 22: Soyut Fibonacci Parçacık Yüz Hatları CGI İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A detailed prompt requesting a computer-generated image (CGI) in a modern digital art style. The main subject is facial features composed of abstract, colorful Fibonacci particles flowing dynamically like layered water, set against a black-to-gray background with motion trails, using a bold isometric composition.
+Modern dijital sanat tarzında, bilgisayar tarafından oluşturulmuş bir görüntü (CGI) isteyen ayrıntılı bir istem. Ana konu, katmanlı su gibi dinamik olarak akan soyut, renkli Fibonacci parçacıklarından oluşan yüz hatlarıdır ve cesur bir izometrik kompozisyon kullanılarak, hareket izleri olan siyah-gri bir arka plan üzerine yerleştirilmiştir.
 
 #### 📝 İstem
 
 ```
-Using computer-generated imagery (CGI) technology, the scene is presented in a highly modern digital art style. The main subject of the image is facial features composed of abstract and colorful Fibonacci particles. The particles feature a rich color palette, including deep purple, dark blue, dull yellow, dark green, reddish-brown, off-white, and khaki, flowing dynamically like layered water. The background transitions from pure black to gray, cleverly creating the motion trails of the particles and a powerful sense of energy. A bold isometric composition is employed.
+Bilgisayar tarafından oluşturulan görüntü (CGI) teknolojisi kullanılarak sahne, oldukça modern bir dijital sanat tarzında sunuluyor. Görüntünün ana konusu, soyut ve renkli Fibonacci parçacıklarından oluşan yüz hatlarıdır. Parçacıklar, katmanlı su gibi dinamik bir şekilde akarak derin mor, koyu mavi, donuk sarı, koyu yeşil, kırmızımsı kahverengi, kirli beyaz ve haki gibi zengin bir renk paletine sahiptir. Arka plan, saf siyahtan griye geçiş yaparak parçacıkların hareket izlerini ve güçlü bir enerji hissini ustaca yaratıyor. Cesur bir izometrik kompozisyon kullanılmıştır.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1068,19 +1184,19 @@ Using computer-generated imagery (CGI) technology, the scene is presented in a h
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Soyut Fibonacci Parçacık Yüz Hatları CGI İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Soyut Fibonacci Parçacık Yüz Hatları CGI İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Soyut Fibonacci Parçacık Yüz Hatları CGI İstemleri - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1090,24 +1206,24 @@ Using computer-generated imagery (CGI) technology, the scene is presented in a h
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Using%20computer-generated%20imagery%20(CGI)%20technology%2C%20the%20scene%20is%20presented%20in%20a%20highly%20modern%20digital%20art%20style.%20The%20main%20subject%20of%20the%20image%20is%20facial%20features%20composed%20of%20abstract%20and%20colorful%20Fibonacci%20particles.%20The%20particles%20feature%20a%20rich%20color%20palette%2C%20including%20deep%20purple%2C%20dark%20blue%2C%20dull%20yellow%2C%20dark%20green%2C%20reddish-brown%2C%20off-white%2C%20and%20khaki%2C%20flowing%20dynamically%20like%20layered%20water.%20The%20background%20transitions%20from%20pure%20black%20to%20gray%2C%20cleverly%20creating%20the%20motion%20trails%20of%20the%20particles%20and%20a%20powerful%20sense%20of%20energy.%20A%20bold%20isometric%20composition%20is%20employed.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Bilgisayar%20taraf%C4%B1ndan%20olu%C5%9Fturulan%20g%C3%B6r%C3%BCnt%C3%BC%20(CGI)%20teknolojisi%20kullan%C4%B1larak%20sahne%2C%20olduk%C3%A7a%20modern%20bir%20dijital%20sanat%20tarz%C4%B1nda%20sunuluyor.%20G%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20ana%20konusu%2C%20soyut%20ve%20renkli%20Fibonacci%20par%C3%A7ac%C4%B1klar%C4%B1ndan%20olu%C5%9Fan%20y%C3%BCz%20hatlar%C4%B1d%C4%B1r.%20Par%C3%A7ac%C4%B1klar%2C%20katmanl%C4%B1%20su%20gibi%20dinamik%20bir%20%C5%9Fekilde%20akarak%20derin%20mor%2C%20koyu%20mavi%2C%20donuk%20sar%C4%B1%2C%20koyu%20ye%C5%9Fil%2C%20k%C4%B1rm%C4%B1z%C4%B1ms%C4%B1%20kahverengi%2C%20kirli%20beyaz%20ve%20haki%20gibi%20zengin%20bir%20renk%20paletine%20sahiptir.%20Arka%20plan%2C%20saf%20siyahtan%20griye%20ge%C3%A7i%C5%9F%20yaparak%20par%C3%A7ac%C4%B1klar%C4%B1n%20hareket%20izlerini%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20enerji%20hissini%20ustaca%20yarat%C4%B1yor.%20Cesur%20bir%20izometrik%20kompozisyon%20kullan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.)**
 
 ---
 
-### No. 23: Image-to-Sketch Transformation Prompt with Hand Detail
+### No. 23: El Detaylı Görselden Eskize Dönüşüm İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt for ChatGPT 5.2 that takes an uploaded photo and transforms it into a photo-style line drawing or ink sketch, requiring the model to maintain facial features exactly. It specifies the use of green and white ink on a notebook background, and includes the detail of a hand holding a pen and eraser near the sketch.
+Yüklenen bir fotoğrafı fotoğraf tarzı bir çizgi çizime veya mürekkep eskizine dönüştüren, modelin yüz hatlarını aynen korumasını gerektiren ChatGPT 5.2 için bir komut istemi. Yeşil ve beyaz mürekkebin bir defter arka planında kullanılmasını belirtir ve eskizin yakınında bir kalem ve silgi tutan bir el detayını içerir.
 
 #### 📝 İstem
 
 ```
-Create a photo-style line drawing / ink sketch of a face identical to the uploaded reference image — keep every facial feature, proportion, and expression exactly the same.
-Use green and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.
-Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.
+Yüklenen referans görseliyle aynı yüze sahip, fotoğraf tarzı bir çizgi çizim / mürekkep eskizi oluşturun; her yüz özelliğini, oranını ve ifadesini tamamen aynı tutun.
+Defter sayfası tarzı bir arka plan üzerine çizilmiş, karmaşık, ince çizgi detaylandırmalı, yeşil ve beyaz mürekkep tonları kullanın.
+Sanatçı hala çalışıyormuş gibi, eskizin yakınında bir kalem ve silgi tutan bir sağ el gösterin.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1115,7 +1231,7 @@ Show a right hand holding a pen and an eraser near the sketch, as if the artist 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="Image-to-Sketch Transformation Prompt with Hand Detail - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="El Detaylı Görselden Eskize Dönüşüm İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1125,34 +1241,34 @@ Show a right hand holding a pen and an eraser near the sketch, as if the artist 
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Create%20a%20photo-style%20line%20drawing%20%2F%20ink%20sketch%20of%20a%20face%20identical%20to%20the%20uploaded%20reference%20image%20%E2%80%94%20keep%20every%20facial%20feature%2C%20proportion%2C%20and%20expression%20exactly%20the%20same.%0AUse%20green%20and%20white%20ink%20tones%20with%20intricate%2C%20fine%20line%20detailing%2C%20drawn%20on%20a%20notebook-page%20style%20background.%0AShow%20a%20right%20hand%20holding%20a%20pen%20and%20an%20eraser%20near%20the%20sketch%2C%20as%20if%20the%20artist%20is%20still%20working.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Y%C3%BCklenen%20referans%20g%C3%B6rseliyle%20ayn%C4%B1%20y%C3%BCze%20sahip%2C%20foto%C4%9Fraf%20tarz%C4%B1%20bir%20%C3%A7izgi%20%C3%A7izim%20%2F%20m%C3%BCrekkep%20eskizi%20olu%C5%9Fturun%3B%20her%20y%C3%BCz%20%C3%B6zelli%C4%9Fini%2C%20oran%C4%B1n%C4%B1%20ve%20ifadesini%20tamamen%20ayn%C4%B1%20tutun.%0ADefter%20sayfas%C4%B1%20tarz%C4%B1%20bir%20arka%20plan%20%C3%BCzerine%20%C3%A7izilmi%C5%9F%2C%20karma%C5%9F%C4%B1k%2C%20ince%20%C3%A7izgi%20detayland%C4%B1rmal%C4%B1%2C%20ye%C5%9Fil%20ve%20beyaz%20m%C3%BCrekkep%20tonlar%C4%B1%20kullan%C4%B1n.%0ASanat%C3%A7%C4%B1%20hala%20%C3%A7al%C4%B1%C5%9F%C4%B1yormu%C5%9F%20gibi%2C%20eskizin%20yak%C4%B1n%C4%B1nda%20bir%20kalem%20ve%20silgi%20tutan%20bir%20sa%C4%9F%20el%20g%C3%B6sterin.)**
 
 ---
 
-### No. 24: Cinematic Dual-Tone Portrait from Uploaded Photo
+### No. 24: Yüklenen Fotoğraftan Sinematik Çift Tonlu Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A step-by-step prompt for transforming an uploaded photo into an ultra-realistic, high-detail cinematic studio portrait using dramatic dual-tone lighting (teal and golden) while maintaining the subject's calm and confident presence.
+Yüklenen bir fotoğrafı, konunun sakin ve kendinden emin duruşunu koruyarak, dramatik çift tonlu aydınlatma (camgöbeği ve altın) kullanarak ultra gerçekçi, yüksek detaylı sinematik bir stüdyo portresine dönüştürmek için adım adım bir komut istemi.
 
 #### 📝 İstem
 
 ```
-"A cinematic studio portrait of the person in the uploaded photo, framed from the chest up, facing the camera with a calm, confident presence.
+Yüklenen fotoğraftaki kişinin göğsünden yukarısı kadrajlanmış, kameraya sakin ve kendinden emin bir duruşla bakan sinematik bir stüdyo portresi.
 
-Dramatic dual-tone lighting with cool teal and warm golden tones creating a modern, cinematic mood.
+Modern, sinematik bir atmosfer yaratan soğuk camgöbeği ve sıcak altın tonlarıyla dramatik çift tonlu aydınlatma.
 
-Natural skin texture, sharp focus on the eyes, soft shadows, and smooth color transitions.
+Doğal cilt dokusu, gözlerde keskin odak, yumuşak gölgeler ve pürüzsüz renk geçişleri.
 
-Hair styled naturally, wearing a minimal dark outfit with a contemporary aesthetic.
+Doğal şekillendirilmiş saçlar, çağdaş bir estetiğe sahip minimalist koyu renk bir kıyafet.
 
-Clean studio background with subtle gradients.
+Hafif gradyanlara sahip temiz stüdyo arka planı.
 
-Professional photography, shallow depth of field, cinematic color grading, ultra-realistic, high detail, 4K quality.
+Profesyonel fotoğrafçılık, sığ alan derinliği, sinematik renk derecelendirme, ultra gerçekçi, yüksek detay, 4K kalite.
 
-Aspect ratio: 3:4 "
+En boy oranı: 3:4
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1160,25 +1276,25 @@ Aspect ratio: 3:4 "
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Yüklenen Fotoğraftan Sinematik Çift Tonlu Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Yüklenen Fotoğraftan Sinematik Çift Tonlu Portre - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Yüklenen Fotoğraftan Sinematik Çift Tonlu Portre - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Yüklenen Fotoğraftan Sinematik Çift Tonlu Portre - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1188,22 +1304,22 @@ Aspect ratio: 3:4 "
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%22A%20cinematic%20studio%20portrait%20of%20the%20person%20in%20the%20uploaded%20photo%2C%20framed%20from%20the%20chest%20up%2C%20facing%20the%20camera%20with%20a%20calm%2C%20confident%20presence.%0A%0ADramatic%20dual-tone%20lighting%20with%20cool%20teal%20and%20warm%20golden%20tones%20creating%20a%20modern%2C%20cinematic%20mood.%0A%0ANatural%20skin%20texture%2C%20sharp%20focus%20on%20the%20eyes%2C%20soft%20shadows%2C%20and%20smooth%20color%20transitions.%0A%0AHair%20styled%20naturally%2C%20wearing%20a%20minimal%20dark%20outfit%20with%20a%20contemporary%20aesthetic.%0A%0AClean%20studio%20background%20with%20subtle%20gradients.%0A%0AProfessional%20photography%2C%20shallow%20depth%20of%20field%2C%20cinematic%20color%20grading%2C%20ultra-realistic%2C%20high%20detail%2C%204K%20quality.%0A%0AAspect%20ratio%3A%203%3A4%20%22)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Y%C3%BCklenen%20foto%C4%9Fraftaki%20ki%C5%9Finin%20g%C3%B6%C4%9Fs%C3%BCnden%20yukar%C4%B1s%C4%B1%20kadrajlanm%C4%B1%C5%9F%2C%20kameraya%20sakin%20ve%20kendinden%20emin%20bir%20duru%C5%9Fla%20bakan%20sinematik%20bir%20st%C3%BCdyo%20portresi.%0A%0AModern%2C%20sinematik%20bir%20atmosfer%20yaratan%20so%C4%9Fuk%20camg%C3%B6be%C4%9Fi%20ve%20s%C4%B1cak%20alt%C4%B1n%20tonlar%C4%B1yla%20dramatik%20%C3%A7ift%20tonlu%20ayd%C4%B1nlatma.%0A%0ADo%C4%9Fal%20cilt%20dokusu%2C%20g%C3%B6zlerde%20keskin%20odak%2C%20yumu%C5%9Fak%20g%C3%B6lgeler%20ve%20p%C3%BCr%C3%BCzs%C3%BCz%20renk%20ge%C3%A7i%C5%9Fleri.%0A%0ADo%C4%9Fal%20%C5%9Fekillendirilmi%C5%9F%20sa%C3%A7lar%2C%20%C3%A7a%C4%9Fda%C5%9F%20bir%20esteti%C4%9Fe%20sahip%20minimalist%20koyu%20renk%20bir%20k%C4%B1yafet.%0A%0AHafif%20gradyanlara%20sahip%20temiz%20st%C3%BCdyo%20arka%20plan%C4%B1.%0A%0AProfesyonel%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2C%20sinematik%20renk%20derecelendirme%2C%20ultra%20ger%C3%A7ek%C3%A7i%2C%20y%C3%BCksek%20detay%2C%204K%20kalite.%0A%0AEn%20boy%20oran%C4%B1%3A%203%3A4)**
 
 ---
 
-### No. 25: Moody Cinematic Portrait with Motion Blur
+### No. 25: Hareket Bulanıklığına Sahip Duygusal Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A detailed prompt for generating a cinematic, high-contrast portrait of a young male model in a black suit, featuring harsh directional lighting, a tense expression, and a horizontal motion blur effect slicing across the face.
+Siyah takım elbiseli genç bir erkek modelin sinematik, yüksek kontrastlı portresini oluşturmak için ayrıntılı bir komut istemi. Sert yönlü aydınlatma, gergin bir ifade ve yüzü kesen yatay bir hareket bulanıklığı efekti içermelidir.
 
 #### 📝 İstem
 
 ```
-Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+Açık tenli, yumuşak dokulu dalgalı saçlı, dar kesim siyah takım elbise ve koyu renk gömlek giymiş genç bir erkek modelin, siyah bir arka plan önünde dururken çekilmiş, ruh halli sinematik bir portresini oluştur. Soldan gelen sert yönlü aydınlatma derin gölgeler oluşturuyor, model delici bakışlarla ve gergin bir çene hattıyla ileriye bakıyor, bir eli boynuna yakın yakasını sıkıca tutuyor, yüzünü soldan sağa yatay olarak kesen hareket bulanıklığı efekti, soluk kehribar ve bej tonlarında ışık çizgilerini harmanlıyor, durağan ve bulanık bölgeler arasında keskin bir kontrast var, ince film greni ve yumuşak düşüşle stilize edilmiş editoryal bir ton, dijital pürüzsüzlük veya plastiklik yok, cilt dokusu ve gölgeler bozulmamış, duygusal yüklü bir ifade, saçın etrafında hafif bir hale, minimal arka plan detayları.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1211,13 +1327,13 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Hareket Bulanıklığına Sahip Duygusal Sinematik Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Hareket Bulanıklığına Sahip Duygusal Sinematik Portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1227,22 +1343,22 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A%C3%A7%C4%B1k%20tenli%2C%20yumu%C5%9Fak%20dokulu%20dalgal%C4%B1%20sa%C3%A7l%C4%B1%2C%20dar%20kesim%20siyah%20tak%C4%B1m%20elbise%20ve%20koyu%20renk%20g%C3%B6mlek%20giymi%C5%9F%20gen%C3%A7%20bir%20erkek%20modelin%2C%20siyah%20bir%20arka%20plan%20%C3%B6n%C3%BCnde%20dururken%20%C3%A7ekilmi%C5%9F%2C%20ruh%20halli%20sinematik%20bir%20portresini%20olu%C5%9Ftur.%20Soldan%20gelen%20sert%20y%C3%B6nl%C3%BC%20ayd%C4%B1nlatma%20derin%20g%C3%B6lgeler%20olu%C5%9Fturuyor%2C%20model%20delici%20bak%C4%B1%C5%9Flarla%20ve%20gergin%20bir%20%C3%A7ene%20hatt%C4%B1yla%20ileriye%20bak%C4%B1yor%2C%20bir%20eli%20boynuna%20yak%C4%B1n%20yakas%C4%B1n%C4%B1%20s%C4%B1k%C4%B1ca%20tutuyor%2C%20y%C3%BCz%C3%BCn%C3%BC%20soldan%20sa%C4%9Fa%20yatay%20olarak%20kesen%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1%20efekti%2C%20soluk%20kehribar%20ve%20bej%20tonlar%C4%B1nda%20%C4%B1%C5%9F%C4%B1k%20%C3%A7izgilerini%20harmanl%C4%B1yor%2C%20dura%C4%9Fan%20ve%20bulan%C4%B1k%20b%C3%B6lgeler%20aras%C4%B1nda%20keskin%20bir%20kontrast%20var%2C%20ince%20film%20greni%20ve%20yumu%C5%9Fak%20d%C3%BC%C5%9F%C3%BC%C5%9Fle%20stilize%20edilmi%C5%9F%20editoryal%20bir%20ton%2C%20dijital%20p%C3%BCr%C3%BCzs%C3%BCzl%C3%BCk%20veya%20plastiklik%20yok%2C%20cilt%20dokusu%20ve%20g%C3%B6lgeler%20bozulmam%C4%B1%C5%9F%2C%20duygusal%20y%C3%BCkl%C3%BC%20bir%20ifade%2C%20sa%C3%A7%C4%B1n%20etraf%C4%B1nda%20hafif%20bir%20hale%2C%20minimal%20arka%20plan%20detaylar%C4%B1.)**
 
 ---
 
-### No. 26: Retro Vintage Portrait from Reference Photo
+### No. 26: Referans Fotoğraftan Retro Vintage Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt for creating a retro, vintage, grainy, but bright portrait based on an uploaded reference picture. It focuses on maintaining the exact facial features and likeness of the subject while placing them in a natural outdoor setting under soft, desaturated lighting.
+Yüklenen referans resme dayalı olarak retro, vintage, grenli ama parlak bir portre oluşturmak için bir istem. Konunun tam yüz hatlarını ve benzerliğini korurken, onu yumuşak, doygunluğu azaltılmış bir ışık altında doğal bir dış mekan ortamına yerleştirmeye odaklanır.
 
 #### 📝 İstem
 
 ```
-Create a retro vintage grainy but bright image of the reference picture. Use the uploaded image as exact facial reference, keeping the same features, proportions, and likeness. wearing a loose white shirt and dark trousers, is sitting on the ground with his back against the trunk of a bare tree. His eyes are closed and his head is tilted back slightly. He is in a grassy field with a line of trees in the background under a clear sky. The lighting is natural and soft, with a slightly desaturated color palette. keep my face 100% same as in reference image
+Referans resimdeki kişinin retro, vintage, grenli ama parlak bir görüntüsünü oluştur. Yüklenen görüntüyü tam yüz referansı olarak kullan, aynı özellikleri, oranları ve benzerliği koru. Bol beyaz bir gömlek ve koyu renk pantolon giymiş, çıplak bir ağacın gövdesine sırtını dayamış bir şekilde yerde oturuyor. Gözleri kapalı ve başı hafifçe arkaya doğru eğik. Berrak bir gökyüzünün altında, arka planda bir sıra ağaç bulunan çimenli bir alanda. Aydınlatma doğal ve yumuşak, hafifçe doygunluğu azaltılmış bir renk paleti var. Yüzümü referans resimdekiyle %100 aynı tut.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1250,25 +1366,25 @@ Create a retro vintage grainy but bright image of the reference picture. Use the
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Referans Fotoğraftan Retro Vintage Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Referans Fotoğraftan Retro Vintage Portre - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Referans Fotoğraftan Retro Vintage Portre - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Referans Fotoğraftan Retro Vintage Portre - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1278,26 +1394,26 @@ Create a retro vintage grainy but bright image of the reference picture. Use the
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Create%20a%20retro%20vintage%20grainy%20but%20bright%20image%20of%20the%20reference%20picture.%20Use%20the%20uploaded%20image%20as%20exact%20facial%20reference%2C%20keeping%20the%20same%20features%2C%20proportions%2C%20and%20likeness.%20wearing%20a%20loose%20white%20shirt%20and%20dark%20trousers%2C%20is%20sitting%20on%20the%20ground%20with%20his%20back%20against%20the%20trunk%20of%20a%20bare%20tree.%20His%20eyes%20are%20closed%20and%20his%20head%20is%20tilted%20back%20slightly.%20He%20is%20in%20a%20grassy%20field%20with%20a%20line%20of%20trees%20in%20the%20background%20under%20a%20clear%20sky.%20The%20lighting%20is%20natural%20and%20soft%2C%20with%20a%20slightly%20desaturated%20color%20palette.%20keep%20my%20face%20100%25%20same%20as%20in%20reference%20image)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Referans%20resimdeki%20ki%C5%9Finin%20retro%2C%20vintage%2C%20grenli%20ama%20parlak%20bir%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BC%20olu%C5%9Ftur.%20Y%C3%BCklenen%20g%C3%B6r%C3%BCnt%C3%BCy%C3%BC%20tam%20y%C3%BCz%20referans%C4%B1%20olarak%20kullan%2C%20ayn%C4%B1%20%C3%B6zellikleri%2C%20oranlar%C4%B1%20ve%20benzerli%C4%9Fi%20koru.%20Bol%20beyaz%20bir%20g%C3%B6mlek%20ve%20koyu%20renk%20pantolon%20giymi%C5%9F%2C%20%C3%A7%C4%B1plak%20bir%20a%C4%9Fac%C4%B1n%20g%C3%B6vdesine%20s%C4%B1rt%C4%B1n%C4%B1%20dayam%C4%B1%C5%9F%20bir%20%C5%9Fekilde%20yerde%20oturuyor.%20G%C3%B6zleri%20kapal%C4%B1%20ve%20ba%C5%9F%C4%B1%20hafif%C3%A7e%20arkaya%20do%C4%9Fru%20e%C4%9Fik.%20Berrak%20bir%20g%C3%B6ky%C3%BCz%C3%BCn%C3%BCn%20alt%C4%B1nda%2C%20arka%20planda%20bir%20s%C4%B1ra%20a%C4%9Fa%C3%A7%20bulunan%20%C3%A7imenli%20bir%20alanda.%20Ayd%C4%B1nlatma%20do%C4%9Fal%20ve%20yumu%C5%9Fak%2C%20hafif%C3%A7e%20doygunlu%C4%9Fu%20azalt%C4%B1lm%C4%B1%C5%9F%20bir%20renk%20paleti%20var.%20Y%C3%BCz%C3%BCm%C3%BC%20referans%20resimdekiyle%20%25100%20ayn%C4%B1%20tut.)**
 
 ---
 
-### No. 27: VTuber Gaming Thumbnail Creation Prompt
+### No. 27: VTuber Oyun Küçük Resmi Oluşturma İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-A multi-step conversational prompt used to refine an image generation request for a VTuber gaming stream thumbnail. The initial request asks for a character (based on an uploaded image) to be shown intensely focused on a game controller, maintaining their style and outfit. The subsequent steps refine the character's appearance, requesting them to be more delicate, cuter, with a smaller bust size and long sleeves, and finally correcting a text error in the generated image.
+Bir VTuber oyun yayını küçük resmi için görüntü oluşturma isteğini iyileştirmek amacıyla kullanılan çok adımlı konuşmalı bir istem. İlk istek, yüklenen bir görüntüye dayalı bir karakterin, kendi tarzını ve kıyafetini koruyarak bir oyun kumandasına yoğun bir şekilde odaklanmış olarak gösterilmesini talep ediyor. Sonraki adımlar, karakterin görünümünü iyileştirerek daha narin, daha sevimli, daha küçük göğüslü ve uzun kollu olmasını istiyor ve son olarak oluşturulan görüntüdeki bir metin hatasını düzeltiyor.
 
 #### 📝 İstem
 
 ```
-Maintain the character's style and outfit, change the scene to them intensely gripping a game controller, and create a thumbnail image in the style of a fictional VTuber's game stream.
+Karakterin stilini ve kıyafetini koruyun, sahneyi bir oyun kumandasını sıkıca kavrarken olarak değiştirin ve kurgusal bir VTuber'ın oyun yayınını anımsatan bir küçük resim oluşturun.
 
-They look a bit too robust, so please make them more delicate and cute. Also, the bust size should be more modest, and the sleeves should be long sleeves.
+Biraz fazla sağlam görünüyorlar, bu yüzden lütfen onları daha narin ve sevimli hale getirin. Ayrıca, göğüs ölçüsü daha mütevazı olmalı ve kollar uzun kollu olmalıdır.
 
-Fix the collapsed 'Ge' in the top left corner.
+Sol üst köşedeki çökmüş 'Ge' yazısını düzeltin.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1305,19 +1421,19 @@ Fix the collapsed 'Ge' in the top left corner.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber Oyun Küçük Resmi Oluşturma İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber Oyun Küçük Resmi Oluşturma İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber Oyun Küçük Resmi Oluşturma İstemleri - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1327,22 +1443,22 @@ Fix the collapsed 'Ge' in the top left corner.
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Maintain%20the%20character's%20style%20and%20outfit%2C%20change%20the%20scene%20to%20them%20intensely%20gripping%20a%20game%20controller%2C%20and%20create%20a%20thumbnail%20image%20in%20the%20style%20of%20a%20fictional%20VTuber's%20game%20stream.%0A%0AThey%20look%20a%20bit%20too%20robust%2C%20so%20please%20make%20them%20more%20delicate%20and%20cute.%20Also%2C%20the%20bust%20size%20should%20be%20more%20modest%2C%20and%20the%20sleeves%20should%20be%20long%20sleeves.%0A%0AFix%20the%20collapsed%20'Ge'%20in%20the%20top%20left%20corner.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Karakterin%20stilini%20ve%20k%C4%B1yafetini%20koruyun%2C%20sahneyi%20bir%20oyun%20kumandas%C4%B1n%C4%B1%20s%C4%B1k%C4%B1ca%20kavrarken%20olarak%20de%C4%9Fi%C5%9Ftirin%20ve%20kurgusal%20bir%20VTuber'%C4%B1n%20oyun%20yay%C4%B1n%C4%B1n%C4%B1%20an%C4%B1msatan%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim%20olu%C5%9Fturun.%0A%0ABiraz%20fazla%20sa%C4%9Flam%20g%C3%B6r%C3%BCn%C3%BCyorlar%2C%20bu%20y%C3%BCzden%20l%C3%BCtfen%20onlar%C4%B1%20daha%20narin%20ve%20sevimli%20hale%20getirin.%20Ayr%C4%B1ca%2C%20g%C3%B6%C4%9F%C3%BCs%20%C3%B6l%C3%A7%C3%BCs%C3%BC%20daha%20m%C3%BCtevaz%C4%B1%20olmal%C4%B1%20ve%20kollar%20uzun%20kollu%20olmal%C4%B1d%C4%B1r.%0A%0ASol%20%C3%BCst%20k%C3%B6%C5%9Fedeki%20%C3%A7%C3%B6km%C3%BC%C5%9F%20'Ge'%20yaz%C4%B1s%C4%B1n%C4%B1%20d%C3%BCzeltin.)**
 
 ---
 
-### No. 28: Monochrome Studio Portrait with Dramatic Lighting
+### No. 28: Dramatik Aydınlatmalı Tek Renkli Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A detailed prompt for generating a high-contrast, black and white studio portrait of a man, focusing on minimal lighting and deep shadows to create a calm, confident, and cinematic mood.
+Sakin, kendinden emin ve sinematik bir ruh hali yaratmak için minimal aydınlatma ve derin gölgelere odaklanarak, yüksek kontrastlı, siyah beyaz bir stüdyo erkek portresi oluşturmaya yönelik ayrıntılı bir komut istemi.
 
 #### 📝 İstem
 
 ```
-Create a monochrome studio portrait of a man. Use minimal lighting with soft falloff so the focus stays entirely on him, with subtle gradients and deep shadows shaping his face. The composition should be a tight-medium shot against a clean, distraction-free background. He’s dressed in a casual, stylish outfit—like a simple tee or sweatshirt with light texture that works well in black and white. The overall mood should feel calm and confident, with a pleasing, balanced vibe. Render it in high-contrast black and white with crisp details, smooth tones, and a subtle cinematic depth.
+Bir erkeğin tek renkli stüdyo portresini oluşturun. Odak noktasının tamamen kendisinde kalması için yumuşak bir düşüşe sahip minimal aydınlatma kullanın; yüzünü şekillendiren ince geçişler ve derin gölgeler olsun. Kompozisyon, temiz, dikkat dağıtmayan bir arka plana karşı dar-orta bir çekim olmalıdır. Siyah beyazda iyi duracak, hafif dokulu, sade bir tişört veya sweatshirt gibi gündelik, şık bir kıyafet giymiş olsun. Genel ruh hali sakin ve kendinden emin, hoş ve dengeli bir hava taşımalıdır. Yüksek kontrastlı siyah beyaz olarak, net ayrıntılar, pürüzsüz tonlar ve ince bir sinematik derinlikle işleyin.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1350,13 +1466,13 @@ Create a monochrome studio portrait of a man. Use minimal lighting with soft fal
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Dramatik Aydınlatmalı Tek Renkli Stüdyo Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Dramatik Aydınlatmalı Tek Renkli Stüdyo Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1366,22 +1482,22 @@ Create a monochrome studio portrait of a man. Use minimal lighting with soft fal
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Create%20a%20monochrome%20studio%20portrait%20of%20a%20man.%20Use%20minimal%20lighting%20with%20soft%20falloff%20so%20the%20focus%20stays%20entirely%20on%20him%2C%20with%20subtle%20gradients%20and%20deep%20shadows%20shaping%20his%20face.%20The%20composition%20should%20be%20a%20tight-medium%20shot%20against%20a%20clean%2C%20distraction-free%20background.%20He%E2%80%99s%20dressed%20in%20a%20casual%2C%20stylish%20outfit%E2%80%94like%20a%20simple%20tee%20or%20sweatshirt%20with%20light%20texture%20that%20works%20well%20in%20black%20and%20white.%20The%20overall%20mood%20should%20feel%20calm%20and%20confident%2C%20with%20a%20pleasing%2C%20balanced%20vibe.%20Render%20it%20in%20high-contrast%20black%20and%20white%20with%20crisp%20details%2C%20smooth%20tones%2C%20and%20a%20subtle%20cinematic%20depth.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Bir%20erke%C4%9Fin%20tek%20renkli%20st%C3%BCdyo%20portresini%20olu%C5%9Fturun.%20Odak%20noktas%C4%B1n%C4%B1n%20tamamen%20kendisinde%20kalmas%C4%B1%20i%C3%A7in%20yumu%C5%9Fak%20bir%20d%C3%BC%C5%9F%C3%BC%C5%9Fe%20sahip%20minimal%20ayd%C4%B1nlatma%20kullan%C4%B1n%3B%20y%C3%BCz%C3%BCn%C3%BC%20%C5%9Fekillendiren%20ince%20ge%C3%A7i%C5%9Fler%20ve%20derin%20g%C3%B6lgeler%20olsun.%20Kompozisyon%2C%20temiz%2C%20dikkat%20da%C4%9F%C4%B1tmayan%20bir%20arka%20plana%20kar%C5%9F%C4%B1%20dar-orta%20bir%20%C3%A7ekim%20olmal%C4%B1d%C4%B1r.%20Siyah%20beyazda%20iyi%20duracak%2C%20hafif%20dokulu%2C%20sade%20bir%20ti%C5%9F%C3%B6rt%20veya%20sweatshirt%20gibi%20g%C3%BCndelik%2C%20%C5%9F%C4%B1k%20bir%20k%C4%B1yafet%20giymi%C5%9F%20olsun.%20Genel%20ruh%20hali%20sakin%20ve%20kendinden%20emin%2C%20ho%C5%9F%20ve%20dengeli%20bir%20hava%20ta%C5%9F%C4%B1mal%C4%B1d%C4%B1r.%20Y%C3%BCksek%20kontrastl%C4%B1%20siyah%20beyaz%20olarak%2C%20net%20ayr%C4%B1nt%C4%B1lar%2C%20p%C3%BCr%C3%BCzs%C3%BCz%20tonlar%20ve%20ince%20bir%20sinematik%20derinlikle%20i%C5%9Fleyin.)**
 
 ---
 
-### No. 29: Futuristic Architectural Landmarks based on Calculus Symbols
+### No. 29: Kalkülüs Sembollerine Dayalı Fütüristik Mimari Yapılar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt for generating a 2x2 grid of futuristic architectural landmarks, where each structure is based on an important calculus symbol. The scene is set in a utopian solarpunk city with bright, clean aesthetics.
+Fütüristik mimari simge yapıların 2x2'lik bir ızgarasını oluşturmak için bir istem; her yapı önemli bir kalkülüs sembolüne dayanmaktadır. Sahne, parlak, temiz estetiğe sahip ütopik bir solarpunk şehrinde geçmektedir.
 
 #### 📝 İstem
 
 ```
-A 2x2 grid of 4 futuristic architectural landmarks based on important calculus symbols, Set in a utopian solarpunk city, bright midday sunlight, clean white materials, glass and steel, cyan sky, architectural photography, Lumion render, wide angle, high exposure, sense of scale
+Önemli kalkülüs sembollerine dayalı 4 fütüristik mimari simge içeren 2x2'lik bir ızgara. Ütopik bir solarpunk şehrinde, parlak öğle güneşi altında, temiz beyaz malzemeler, cam ve çelik, camgöbeği rengi gökyüzü, mimari fotoğrafçılık, Lumion render, geniş açı, yüksek pozlama, ölçek hissi.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1389,13 +1505,13 @@ A 2x2 grid of 4 futuristic architectural landmarks based on important calculus s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Kalkülüs Sembollerine Dayalı Fütüristik Mimari Yapılar - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Kalkülüs Sembollerine Dayalı Fütüristik Mimari Yapılar - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1405,66 +1521,66 @@ A 2x2 grid of 4 futuristic architectural landmarks based on important calculus s
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A%202x2%20grid%20of%204%20futuristic%20architectural%20landmarks%20based%20on%20important%20calculus%20symbols%2C%20Set%20in%20a%20utopian%20solarpunk%20city%2C%20bright%20midday%20sunlight%2C%20clean%20white%20materials%2C%20glass%20and%20steel%2C%20cyan%20sky%2C%20architectural%20photography%2C%20Lumion%20render%2C%20wide%20angle%2C%20high%20exposure%2C%20sense%20of%20scale)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%C3%96nemli%20kalk%C3%BCl%C3%BCs%20sembollerine%20dayal%C4%B1%204%20f%C3%BCt%C3%BCristik%20mimari%20simge%20i%C3%A7eren%202x2'lik%20bir%20%C4%B1zgara.%20%C3%9Ctopik%20bir%20solarpunk%20%C5%9Fehrinde%2C%20parlak%20%C3%B6%C4%9Fle%20g%C3%BCne%C5%9Fi%20alt%C4%B1nda%2C%20temiz%20beyaz%20malzemeler%2C%20cam%20ve%20%C3%A7elik%2C%20camg%C3%B6be%C4%9Fi%20rengi%20g%C3%B6ky%C3%BCz%C3%BC%2C%20mimari%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20Lumion%20render%2C%20geni%C5%9F%20a%C3%A7%C4%B1%2C%20y%C3%BCksek%20pozlama%2C%20%C3%B6l%C3%A7ek%20hissi.)**
 
 ---
 
-### No. 30: Futuristic Fashion Editorial with Identity Preservation
+### No. 30: Kimlik Korumalı Fütüristik Moda Editöryeli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A highly structured JSON prompt for generating a photorealistic futuristic fashion editorial image. It mandates strict identity preservation, using the exact face and expression from an uploaded photo, while styling the subject in specific oversized clothing in a minimalist sky-blue studio.
+Fotogerçekçi, fütüristik bir moda editoryal görseli oluşturmak için oldukça yapılandırılmış bir JSON istemi. Yüklenen bir fotoğraftaki tam yüzü ve ifadeyi kullanarak kimliğin sıkı bir şekilde korunmasını zorunlu kılarken, konuyu minimalist, gök mavisi bir stüdyoda belirli, büyük beden giysilerle şekillendiriyor.
 
 #### 📝 İstem
 
 ```
 {
   "type": "image_generation_prompt",
-  "style": "fashion editorial x futuristic",
+  "style": "moda editöryeli x fütüristik",
   "identity_preservation": {
     "use_uploaded_image": true,
     "alter_face": false,
-    "notes": "Use the same face and hairstyle from the uploaded photo. Do not change facial features or facial expression."
+    "notes": "Yüklenen fotoğraftaki yüzü ve saç stilini kullan. Yüz hatlarını veya yüz ifadesini değiştirme."
   },
   "subject": {
-    "gender": "female",
+    "gender": "kadın",
     "pose": {
-      "position": "seated",
-      "posture": "elegant and relaxed",
-      "expression": "unchanged from the reference image"
+      "position": "oturmuş",
+      "posture": "zarif ve rahat",
+      "expression": "referans görseldekiyle aynı"
     }
   },
   "wardrobe": {
-    "top": "oversized white sweatshirt",
-    "bottoms": "cloudy blue oversized combat jeans",
-    "footwear": "cloudy blue neutral sneakers or Nike sneakers",
-    "socks": "white ribbed socks"
+    "top": "oversize beyaz sweatshirt",
+    "bottoms": "bulut mavisi oversize kargo jean",
+    "footwear": "bulut mavisi nötr spor ayakkabılar veya Nike spor ayakkabılar",
+    "socks": "beyaz fitilli çoraplar"
   },
   "environment": {
-    "setting": "studio",
+    "setting": "stüdyo",
     "background": {
-      "color": "muted sky-blue tone",
-      "style": "clean, minimalist"
+      "color": "soluk gök mavisi tonu",
+      "style": "temiz, minimalist"
     }
   },
   "lighting": {
-    "type": "soft cinematic glow",
+    "type": "yumuşak sinematik parlaklık",
     "effects": [
-      "highlights skin texture",
-      "enhances fabric textures"
+      "cilt dokusunu vurgular",
+      "kumaş dokularını geliştirir"
     ]
   },
   "composition": {
-    "style": "editorial",
-    "focus": "model-centered with balanced framing"
+    "style": "editöryel",
+    "focus": "dengeli çerçeveleme ile model merkezli"
   },
   "quality": {
-    "realism": "photorealistic",
-    "detail_level": "high detail in skin and fabric"
+    "realism": "fotogerçekçi",
+    "detail_level": "ciltte ve kumaşta yüksek detay"
   },
-  "output_goal": "Create a futuristic fashion editorial image of a woman seated with a relaxed posture in a sky-blue studio environment, preserving her exact facial identity and expression from the reference photo."
+  "output_goal": "Referans fotoğraftaki yüz kimliğini ve ifadesini koruyarak, gök mavisi bir stüdyo ortamında rahat bir duruşla oturan bir kadının fütüristik bir moda editöryel görselini oluştur."
 }
 ```
 
@@ -1473,13 +1589,13 @@ A highly structured JSON prompt for generating a photorealistic futuristic fashi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Kimlik Korumalı Fütüristik Moda Editöryeli - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Kimlik Korumalı Fütüristik Moda Editöryeli - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1489,22 +1605,22 @@ A highly structured JSON prompt for generating a photorealistic futuristic fashi
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22fashion%20editorial%20x%20futuristic%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Use%20the%20same%20face%20and%20hairstyle%20from%20the%20uploaded%20photo.%20Do%20not%20change%20facial%20features%20or%20facial%20expression.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22female%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seated%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22elegant%20and%20relaxed%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22unchanged%20from%20the%20reference%20image%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22oversized%20white%20sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22cloudy%20blue%20oversized%20combat%20jeans%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22cloudy%20blue%20neutral%20sneakers%20or%20Nike%20sneakers%22%2C%0A%20%20%20%20%22socks%22%3A%20%22white%20ribbed%20socks%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22muted%20sky-blue%20tone%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22clean%2C%20minimalist%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22soft%20cinematic%20glow%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22highlights%20skin%20texture%22%2C%0A%20%20%20%20%20%20%22enhances%20fabric%20textures%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22editorial%22%2C%0A%20%20%20%20%22focus%22%3A%20%22model-centered%20with%20balanced%20framing%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22photorealistic%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22high%20detail%20in%20skin%20and%20fabric%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Create%20a%20futuristic%20fashion%20editorial%20image%20of%20a%20woman%20seated%20with%20a%20relaxed%20posture%20in%20a%20sky-blue%20studio%20environment%2C%20preserving%20her%20exact%20facial%20identity%20and%20expression%20from%20the%20reference%20photo.%22%0A%7D)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22moda%20edit%C3%B6ryeli%20x%20f%C3%BCt%C3%BCristik%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Y%C3%BCklenen%20foto%C4%9Fraftaki%20y%C3%BCz%C3%BC%20ve%20sa%C3%A7%20stilini%20kullan.%20Y%C3%BCz%20hatlar%C4%B1n%C4%B1%20veya%20y%C3%BCz%20ifadesini%20de%C4%9Fi%C5%9Ftirme.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22kad%C4%B1n%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22oturmu%C5%9F%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22zarif%20ve%20rahat%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22referans%20g%C3%B6rseldekiyle%20ayn%C4%B1%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22oversize%20beyaz%20sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22bulut%20mavisi%20oversize%20kargo%20jean%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22bulut%20mavisi%20n%C3%B6tr%20spor%20ayakkab%C4%B1lar%20veya%20Nike%20spor%20ayakkab%C4%B1lar%22%2C%0A%20%20%20%20%22socks%22%3A%20%22beyaz%20fitilli%20%C3%A7oraplar%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22st%C3%BCdyo%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22soluk%20g%C3%B6k%20mavisi%20tonu%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22temiz%2C%20minimalist%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22yumu%C5%9Fak%20sinematik%20parlakl%C4%B1k%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22cilt%20dokusunu%20vurgular%22%2C%0A%20%20%20%20%20%20%22kuma%C5%9F%20dokular%C4%B1n%C4%B1%20geli%C5%9Ftirir%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22edit%C3%B6ryel%22%2C%0A%20%20%20%20%22focus%22%3A%20%22dengeli%20%C3%A7er%C3%A7eveleme%20ile%20model%20merkezli%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22fotoger%C3%A7ek%C3%A7i%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22ciltte%20ve%20kuma%C5%9Fta%20y%C3%BCksek%20detay%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Referans%20foto%C4%9Fraftaki%20y%C3%BCz%20kimli%C4%9Fini%20ve%20ifadesini%20koruyarak%2C%20g%C3%B6k%20mavisi%20bir%20st%C3%BCdyo%20ortam%C4%B1nda%20rahat%20bir%20duru%C5%9Fla%20oturan%20bir%20kad%C4%B1n%C4%B1n%20f%C3%BCt%C3%BCristik%20bir%20moda%20edit%C3%B6ryel%20g%C3%B6rselini%20olu%C5%9Ftur.%22%0A%7D)**
 
 ---
 
-### No. 31: Technical Prompt for 3x2 Robot Character Matrix
+### No. 31: 3x2 Robot Karakter Matrisi için Teknik İstek
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt designed to test the technical instruction following of image models by requesting a 3x2 matrix showing six different views (front, back, left, right, top, bottom) of a highly detailed robot character, emphasizing PBR quality.
+Yüksek detaylı bir robot karakterin altı farklı görünümünü (ön, arka, sol, sağ, üst, alt) gösteren 3x2'lik bir matris talep ederek görüntü modellerinin teknik talimat takibini test etmek için tasarlanmış bir komut istemi, PBR kalitesini vurgulamaktadır.
 
 #### 📝 İstem
 
 ```
-Create a 3x2 matrix of a robot character. Show front, back, left, right, top, and bottom view in each matrix. The PBR should be at highest quality and the character design should be highly detailed.
+Bir robot karakterin 3x2 matrisini oluşturun. Her matriste önden, arkadan, soldan, sağdan, üstten ve alttan görünümü gösterin. PBR en yüksek kalitede olmalı ve karakter tasarımı son derece ayrıntılı olmalıdır.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1512,13 +1628,13 @@ Create a 3x2 matrix of a robot character. Show front, back, left, right, top, an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="3x2 Robot Karakter Matrisi için Teknik İstek - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="3x2 Robot Karakter Matrisi için Teknik İstek - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1528,23 +1644,23 @@ Create a 3x2 matrix of a robot character. Show front, back, left, right, top, an
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Create%20a%203x2%20matrix%20of%20a%20robot%20character.%20Show%20front%2C%20back%2C%20left%2C%20right%2C%20top%2C%20and%20bottom%20view%20in%20each%20matrix.%20The%20PBR%20should%20be%20at%20highest%20quality%20and%20the%20character%20design%20should%20be%20highly%20detailed.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Bir%20robot%20karakterin%203x2%20matrisini%20olu%C5%9Fturun.%20Her%20matriste%20%C3%B6nden%2C%20arkadan%2C%20soldan%2C%20sa%C4%9Fdan%2C%20%C3%BCstten%20ve%20alttan%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC%20g%C3%B6sterin.%20PBR%20en%20y%C3%BCksek%20kalitede%20olmal%C4%B1%20ve%20karakter%20tasar%C4%B1m%C4%B1%20son%20derece%20ayr%C4%B1nt%C4%B1l%C4%B1%20olmal%C4%B1d%C4%B1r.)**
 
 ---
 
-### No. 32: Ultra-Realistic Editorial Portrait based on Reference Image
+### No. 32: Referans Görsele Dayalı Ultra Gerçekçi Editoryal Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A detailed prompt for generating an ultra-realistic editorial portrait of an Indian woman in a specific Sabyasachi black saree, requiring the model to maintain the pose, framing, and mood of an uploaded reference image while specifying jewelry, hair, makeup, lighting, and aesthetic style.
+Belirli bir Sabyasachi siyah sari giyen Hintli bir kadının ultra gerçekçi editoryal portresini oluşturmak için ayrıntılı bir komut istemi. Modelin, yüklenen referans görseldeki pozu, kadrajı ve ruh halini koruması, aynı zamanda takı, saç, makyaj, aydınlatma ve estetik stilin belirtilmesi gerekmektedir.
 
 #### 📝 İstem
 
 ```
-Using the reference image, create an ultra-realistic editorial portrait of an Indian woman in a signature Sabyasachi black saree with subtle antique gold detailing. Keep the same pose, framing, and mood as the reference. Heavy gold choker, center-parted loose hair, minimal makeup with kohl eyes. Dark textured studio background, low-key dramatic lighting.
-Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI gloss.
+Referans görseli kullanarak, zarif antik altın detaylara sahip, Sabyasachi imzalı siyah bir sari giymiş Hintli bir kadının ultra gerçekçi editoryal portresini oluşturun. Referanstaki poz, kadraj ve ruh halini koruyun. Ağır altın gerdanlık, ortadan ayrılmış dağınık saçlar, sürmeli gözlerle minimal makyaj. Koyu dokulu stüdyo arka planı, loş dramatik aydınlatma.
+Zamansız, ölçülü, klasik Sabyasachi estetiği. Modern stil yok, yapay zeka parlatması yok.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1552,7 +1668,7 @@ Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI glo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Ultra-Realistic Editorial Portrait based on Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Referans Görsele Dayalı Ultra Gerçekçi Editoryal Portre - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1562,22 +1678,22 @@ Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI glo
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Using%20the%20reference%20image%2C%20create%20an%20ultra-realistic%20editorial%20portrait%20of%20an%20Indian%20woman%20in%20a%20signature%20Sabyasachi%20black%20saree%20with%20subtle%20antique%20gold%20detailing.%20Keep%20the%20same%20pose%2C%20framing%2C%20and%20mood%20as%20the%20reference.%20Heavy%20gold%20choker%2C%20center-parted%20loose%20hair%2C%20minimal%20makeup%20with%20kohl%20eyes.%20Dark%20textured%20studio%20background%2C%20low-key%20dramatic%20lighting.%0ATimeless%2C%20restrained%2C%20classic%20Sabyasachi%20aesthetic.%20No%20modern%20styling%2C%20no%20AI%20gloss.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Referans%20g%C3%B6rseli%20kullanarak%2C%20zarif%20antik%20alt%C4%B1n%20detaylara%20sahip%2C%20Sabyasachi%20imzal%C4%B1%20siyah%20bir%20sari%20giymi%C5%9F%20Hintli%20bir%20kad%C4%B1n%C4%B1n%20ultra%20ger%C3%A7ek%C3%A7i%20editoryal%20portresini%20olu%C5%9Fturun.%20Referanstaki%20poz%2C%20kadraj%20ve%20ruh%20halini%20koruyun.%20A%C4%9F%C4%B1r%20alt%C4%B1n%20gerdanl%C4%B1k%2C%20ortadan%20ayr%C4%B1lm%C4%B1%C5%9F%20da%C4%9F%C4%B1n%C4%B1k%20sa%C3%A7lar%2C%20s%C3%BCrmeli%20g%C3%B6zlerle%20minimal%20makyaj.%20Koyu%20dokulu%20st%C3%BCdyo%20arka%20plan%C4%B1%2C%20lo%C5%9F%20dramatik%20ayd%C4%B1nlatma.%0AZamans%C4%B1z%2C%20%C3%B6l%C3%A7%C3%BCl%C3%BC%2C%20klasik%20Sabyasachi%20esteti%C4%9Fi.%20Modern%20stil%20yok%2C%20yapay%20zeka%20parlatmas%C4%B1%20yok.)**
 
 ---
 
-### No. 33: Challenging Emotional Conveyance Prompt
+### No. 33: Duygusal İfadeyi Zorlayan İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A prompt designed to test the AI's ability to convey complex, contradictory emotions simultaneously: a person accepting an award with tears of joy while receiving devastating news via an earpiece.
+Yapay zekanın karmaşık, çelişkili duyguları eş zamanlı olarak aktarma yeteneğini test etmek için tasarlanmış bir komut istemi: bir kişi, kulaklığından yıkıcı bir haber alırken sevinç gözyaşlarıyla bir ödülü kabul ediyor.
 
 #### 📝 İstem
 
 ```
-""A person standing at a podium, accepting an award with tears of joy streaming down their face, while simultaneously receiving news via an earpiece that a loved one has fallen seriously ill. Their expression should convey both elation and heartbreak. Natural light photo, photo realism,4k, ultra realistic."
+"Bir kürsüde duran, gözlerinden sevinç gözyaşları akarken bir ödül kabul eden ve aynı anda bir kulaklık aracılığıyla sevdiği birinin ciddi şekilde hastalandığı haberini alan bir kişi. İfadesi hem coşkuyu hem de kalp kırıklığını yansıtmalı. Doğal ışık fotoğrafı, fotoğraf gerçekçiliği, 4k, ultra gerçekçi."
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1585,19 +1701,19 @@ A prompt designed to test the AI's ability to convey complex, contradictory emot
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Challenging Emotional Conveyance Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Duygusal İfadeyi Zorlayan İstem - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Duygusal İfadeyi Zorlayan İstem - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Duygusal İfadeyi Zorlayan İstem - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1607,7 +1723,7 @@ A prompt designed to test the AI's ability to convey complex, contradictory emot
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%22%22A%20person%20standing%20at%20a%20podium%2C%20accepting%20an%20award%20with%20tears%20of%20joy%20streaming%20down%20their%20face%2C%20while%20simultaneously%20receiving%20news%20via%20an%20earpiece%20that%20a%20loved%20one%20has%20fallen%20seriously%20ill.%20Their%20expression%20should%20convey%20both%20elation%20and%20heartbreak.%20Natural%20light%20photo%2C%20photo%20realism%2C4k%2C%20ultra%20realistic.%22)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=%22Bir%20k%C3%BCrs%C3%BCde%20duran%2C%20g%C3%B6zlerinden%20sevin%C3%A7%20g%C3%B6zya%C5%9Flar%C4%B1%20akarken%20bir%20%C3%B6d%C3%BCl%20kabul%20eden%20ve%20ayn%C4%B1%20anda%20bir%20kulakl%C4%B1k%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20sevdi%C4%9Fi%20birinin%20ciddi%20%C5%9Fekilde%20hastaland%C4%B1%C4%9F%C4%B1%20haberini%20alan%20bir%20ki%C5%9Fi.%20%C4%B0fadesi%20hem%20co%C5%9Fkuyu%20hem%20de%20kalp%20k%C4%B1r%C4%B1kl%C4%B1%C4%9F%C4%B1n%C4%B1%20yans%C4%B1tmal%C4%B1.%20Do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20foto%C4%9Fraf%C4%B1%2C%20foto%C4%9Fraf%20ger%C3%A7ek%C3%A7ili%C4%9Fi%2C%204k%2C%20ultra%20ger%C3%A7ek%C3%A7i.%22)**
 
 ---
 
@@ -1650,18 +1766,18 @@ onu bir anime karakterine dönüştürün
 
 ---
 
-### No. 35: GPT Görsel 1.5 İstem: Savaş Alanında Cava Pendekar'ı
+### No. 35: Şafakta 12. Yüzyıl Cava Savaş Alanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-GPT Image 1.5 için tasarlanmış, Cava Pendekar'ın 12. yüzyıl savaş alanında şafak vakti yürüdüğü, soluk tonları, kumlu dokuları ve belgesel tarzı gerçekçiliği vurgulayan, fotogerçekçi, sinematik bir görüntü isteyen son derece ayrıntılı bir komut istemi.
+12. yüzyıl Cava savaş alanının şafak vaktinde, siluet halinde bir Pendekar Jawa'ya (Cava savaşçısı) odaklanan, tarihsel ağırlığı ve ruhsal gücü vurgulayan, fotogerçekçi, belgesel tarzı bir tasvirini talep eden, GPT Image 1.5 için oldukça detaylı, sinematik bir istem.
 
 #### 📝 İstem
 
 ```
-12. yüzyıl Cava'da, şafak vakti, soluk ve doygunluğu azaltılmış tonlarda resmedilmiş bir savaş alanı. Duman, yaralı toprak ve kırık bitki örtüsü üzerinde alçaktan süzülüyor. Bir Pendekar Jawa, arkasındaki pusun arasından yükselen güneşin ışıklarıyla birlikte, sakin bir kararlılıkla ileri doğru yürüyen bir silüet olarak görülüyor. Geleneksel Cava savaşçı kıyafeti giymiş; ikat başlık, bol giysiler ve yanında, savaşın ve liderliğin ince izlerini taşıyan bir kılıç. Uzun lens sıkıştırması, pürüzlü dokular, sinematik aydınlatma, belgesel tarzı gerçekçilik, tarihsel ağırlık, sessiz meydan okuma ve ruhsal gücü çağrıştırıyor.
+12. yüzyıl Cava'sında, şafak vakti bir savaş alanı, soluk ve doygunluğu azaltılmış tonlarda resmedilmiş. Duman, yaralı toprak ve kırık bitki örtüsü üzerinde alçaktan süzülüyor. Bir Pendekar Jawa, arkasındaki pusun arasından yükselen güneşin ışıklarıyla siluet halinde, sakin bir kararlılıkla ileri doğru yürüyor. Geleneksel Cava savaşçı kıyafetleri giymiş; ikat başlık, bol giysiler ve yanında, savaşın ve liderliğin ince izlerini taşıyan bir kılıç. Uzun lens sıkıştırması, grenli dokular, sinematik aydınlatma, belgesel tarzı gerçekçilik, tarihi ağırlık, sessiz meydan okuma ve ruhsal gücü çağrıştırıyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1669,7 +1785,7 @@ GPT Image 1.5 için tasarlanmış, Cava Pendekar'ın 12. yüzyıl savaş alanın
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT Görsel 1.5 İstem: Savaş Alanında Cava Pendekar'ı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="Şafakta 12. Yüzyıl Cava Savaş Alanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1679,7 +1795,7 @@ GPT Image 1.5 için tasarlanmış, Cava Pendekar'ın 12. yüzyıl savaş alanın
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=12.%20y%C3%BCzy%C4%B1l%20Cava'da%2C%20%C5%9Fafak%20vakti%2C%20soluk%20ve%20doygunlu%C4%9Fu%20azalt%C4%B1lm%C4%B1%C5%9F%20tonlarda%20resmedilmi%C5%9F%20bir%20sava%C5%9F%20alan%C4%B1.%20Duman%2C%20yaral%C4%B1%20toprak%20ve%20k%C4%B1r%C4%B1k%20bitki%20%C3%B6rt%C3%BCs%C3%BC%20%C3%BCzerinde%20al%C3%A7aktan%20s%C3%BCz%C3%BCl%C3%BCyor.%20Bir%20Pendekar%20Jawa%2C%20arkas%C4%B1ndaki%20pusun%20aras%C4%B1ndan%20y%C3%BCkselen%20g%C3%BCne%C5%9Fin%20%C4%B1%C5%9F%C4%B1klar%C4%B1yla%20birlikte%2C%20sakin%20bir%20kararl%C4%B1l%C4%B1kla%20ileri%20do%C4%9Fru%20y%C3%BCr%C3%BCyen%20bir%20sil%C3%BCet%20olarak%20g%C3%B6r%C3%BCl%C3%BCyor.%20Geleneksel%20Cava%20sava%C5%9F%C3%A7%C4%B1%20k%C4%B1yafeti%20giymi%C5%9F%3B%20ikat%20ba%C5%9Fl%C4%B1k%2C%20bol%20giysiler%20ve%20yan%C4%B1nda%2C%20sava%C5%9F%C4%B1n%20ve%20liderli%C4%9Fin%20ince%20izlerini%20ta%C5%9F%C4%B1yan%20bir%20k%C4%B1l%C4%B1%C3%A7.%20Uzun%20lens%20s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%2C%20p%C3%BCr%C3%BCzl%C3%BC%20dokular%2C%20sinematik%20ayd%C4%B1nlatma%2C%20belgesel%20tarz%C4%B1%20ger%C3%A7ek%C3%A7ilik%2C%20tarihsel%20a%C4%9F%C4%B1rl%C4%B1k%2C%20sessiz%20meydan%20okuma%20ve%20ruhsal%20g%C3%BCc%C3%BC%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1r%C4%B1yor.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=12.%20y%C3%BCzy%C4%B1l%20Cava's%C4%B1nda%2C%20%C5%9Fafak%20vakti%20bir%20sava%C5%9F%20alan%C4%B1%2C%20soluk%20ve%20doygunlu%C4%9Fu%20azalt%C4%B1lm%C4%B1%C5%9F%20tonlarda%20resmedilmi%C5%9F.%20Duman%2C%20yaral%C4%B1%20toprak%20ve%20k%C4%B1r%C4%B1k%20bitki%20%C3%B6rt%C3%BCs%C3%BC%20%C3%BCzerinde%20al%C3%A7aktan%20s%C3%BCz%C3%BCl%C3%BCyor.%20Bir%20Pendekar%20Jawa%2C%20arkas%C4%B1ndaki%20pusun%20aras%C4%B1ndan%20y%C3%BCkselen%20g%C3%BCne%C5%9Fin%20%C4%B1%C5%9F%C4%B1klar%C4%B1yla%20siluet%20halinde%2C%20sakin%20bir%20kararl%C4%B1l%C4%B1kla%20ileri%20do%C4%9Fru%20y%C3%BCr%C3%BCyor.%20Geleneksel%20Cava%20sava%C5%9F%C3%A7%C4%B1%20k%C4%B1yafetleri%20giymi%C5%9F%3B%20ikat%20ba%C5%9Fl%C4%B1k%2C%20bol%20giysiler%20ve%20yan%C4%B1nda%2C%20sava%C5%9F%C4%B1n%20ve%20liderli%C4%9Fin%20ince%20izlerini%20ta%C5%9F%C4%B1yan%20bir%20k%C4%B1l%C4%B1%C3%A7.%20Uzun%20lens%20s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%2C%20grenli%20dokular%2C%20sinematik%20ayd%C4%B1nlatma%2C%20belgesel%20tarz%C4%B1%20ger%C3%A7ek%C3%A7ilik%2C%20tarihi%20a%C4%9F%C4%B1rl%C4%B1k%2C%20sessiz%20meydan%20okuma%20ve%20ruhsal%20g%C3%BCc%C3%BC%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1r%C4%B1yor.)**
 
 ---
 
@@ -1914,18 +2030,18 @@ Loş ışıklı, antika portrelerle dolu boş bir koridor, gözleri sizi takip e
 
 ---
 
-### No. 43: Piyano Çalan Gerçekçi Köpek Balığı
+### No. 43: Gerçekçi Piyano Çalan Köpek Balığı Kıyaslama İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-Farklı görüntü oluşturma modellerinin gerçekçiliğini ve yaratıcılığını kıyaslamak için kullanılan, piyano çalan gerçekçi bir köpek balığı isteyen, belirli ve biraz tuhaf bir istem.
+Yeni yapay zeka modellerinin gerçekçiliğini ve uyumunu test etmek için kullanılan basit bir kıyaslama istemi; özellikle piyano çalan gerçekçi bir köpek balığı isteniyor.
 
 #### 📝 İstem
 
 ```
-piyano çalan gerçekçi bir köpek balığı
+piyano çalan gerçekçi bir köpek balığı 🦈
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1933,7 +2049,7 @@ piyano çalan gerçekçi bir köpek balığı
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="Piyano Çalan Gerçekçi Köpek Balığı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="Gerçekçi Piyano Çalan Köpek Balığı Kıyaslama İstemcisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1943,7 +2059,7 @@ piyano çalan gerçekçi bir köpek balığı
 - **Yayınlandı:** 18 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=piyano%20%C3%A7alan%20ger%C3%A7ek%C3%A7i%20bir%20k%C3%B6pek%20bal%C4%B1%C4%9F%C4%B1)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=piyano%20%C3%A7alan%20ger%C3%A7ek%C3%A7i%20bir%20k%C3%B6pek%20bal%C4%B1%C4%9F%C4%B1%20%F0%9F%A6%88)**
 
 ---
 
@@ -2478,19 +2594,21 @@ Aşağıdaki hiciv karikatürünü {argument name="artist style" default="Hua Ju
 
 ---
 
-### No. 55: Doku ve Detay için Makro Fotoğrafçılık İstemleri
+### No. 55: Fotogerçekçi Görüntü Oluşturma İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-GPT Image 1.5 için tasarlanmış dördüncü bir örnek istem, dokuyu, ayrıntıyı ve belirli bir aydınlatmanın yaygın bir nesne üzerindeki etkilerini vurgulamak amacıyla makro çekime odaklanıyor.
+GPT Image 1.5'in yeteneklerini göstermek amacıyla sunulan dört örnek istem; gerçekçi, fotoğrafik bir gerçekçiliğe ve net fiziksel mantığa odaklanarak, kamera mantığını kullanıp kusurları da dahil ederek son derece gerçekçi bir sonuç elde etmeyi amaçlamaktadır.
 
 #### 📝 İstem
 
 ```
-Eski, yıpranmış bir {argument name="object type" default="deri cüzdan"} yüzeyinin makro fotoğrafı. Derinin dokusu ince çatlaklar, çizikler ve kullanımdan kaynaklanan hafif renk solmaları göstermelidir. Aydınlatma sert ve yönlü olup, dokunun ve kusurların görünürlüğünü en üst düzeye çıkarmak için yandan gelmektedir. Alan derinliği son derece sığdır ve yalnızca cüzdan yüzeyinin küçük, merkezi bir alanına odaklanılmıştır. Bir {argument name="lens type" default="100mm makro lens"} ile çekilmiştir.
+1. Ormanlık bir alanda, nemli, yosun kaplı bir taşın üzerinde duran tek, mükemmel olgunlaşmış bir çileğin yakın çekim, makro fotoğrafı. Işık yumuşak ve dağınık, sabahın erken saatlerini düşündürüyor. Çileğin yüzeyine minik su damlacıkları yapışmış. 100mm makro lens, f/4 ile çekildi.
+2. Tokyo'nun Shinjuku bölgesinde gece çekilmiş, loş ışıklı, doğal bir sokak fotoğrafı. Hafifçe hareketten bulanıklaşmış bir iş adamı, neon ışıkların altında uzaklaşıyor. Yağmur yeni yağmış, ışıklar ıslak asfalta yansıyor. Grenli film estetiği, 35mm lens, yüksek ISO.
+3. Brütalist bir beton bina cephesinin, doku ve geometrik desenlere odaklanan bir mimari fotoğrafı. Güneş alçakta, yapının sert hatlarını vurgulayan uzun, keskin gölgeler oluşturuyor. Tek, küçük bir kuş bir çıkıntıda tünemiş, ölçek hissi veriyor. Siyah beyaz, orta format.
+4. Ahşap bir masanın üzerinde duran yıpranmış, deri ciltli bir günlük ve eski bir dolma kalemin natürmort fotoğrafı. Sahneyi kesen bir güneş ışını demetinde yüzen toz zerrecikleri görülebiliyor. Deri, küçük çizikler ve solmuş alanlarla yaş ve kullanım belirtileri gösteriyor. Sığ alan derinliği, doğal ışık.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -2498,25 +2616,25 @@ Eski, yıpranmış bir {argument name="object type" default="deri cüzdan"} yüz
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="Doku ve Detay için Makro Fotoğrafçılık İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="Fotogerçekçi Görüntü Oluşturma İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="Doku ve Detay için Makro Fotoğrafçılık İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="Fotogerçekçi Görüntü Oluşturma İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="Doku ve Detay için Makro Fotoğrafçılık İstemleri - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="Fotogerçekçi Görüntü Oluşturma İstemleri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="Doku ve Detay için Makro Fotoğrafçılık İstemleri - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="Fotogerçekçi Görüntü Oluşturma İstemleri - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -2526,7 +2644,7 @@ Eski, yıpranmış bir {argument name="object type" default="deri cüzdan"} yüz
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Eski%2C%20y%C4%B1pranm%C4%B1%C5%9F%20bir%20%7Bargument%20name%3D%22object%20type%22%20default%3D%22deri%20c%C3%BCzdan%22%7D%20y%C3%BCzeyinin%20makro%20foto%C4%9Fraf%C4%B1.%20Derinin%20dokusu%20ince%20%C3%A7atlaklar%2C%20%C3%A7izikler%20ve%20kullan%C4%B1mdan%20kaynaklanan%20hafif%20renk%20solmalar%C4%B1%20g%C3%B6stermelidir.%20Ayd%C4%B1nlatma%20sert%20ve%20y%C3%B6nl%C3%BC%20olup%2C%20dokunun%20ve%20kusurlar%C4%B1n%20g%C3%B6r%C3%BCn%C3%BCrl%C3%BC%C4%9F%C3%BCn%C3%BC%20en%20%C3%BCst%20d%C3%BCzeye%20%C3%A7%C4%B1karmak%20i%C3%A7in%20yandan%20gelmektedir.%20Alan%20derinli%C4%9Fi%20son%20derece%20s%C4%B1%C4%9Fd%C4%B1r%20ve%20yaln%C4%B1zca%20c%C3%BCzdan%20y%C3%BCzeyinin%20k%C3%BC%C3%A7%C3%BCk%2C%20merkezi%20bir%20alan%C4%B1na%20odaklan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Bir%20%7Bargument%20name%3D%22lens%20type%22%20default%3D%22100mm%20makro%20lens%22%7D%20ile%20%C3%A7ekilmi%C5%9Ftir.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=1.%20Ormanl%C4%B1k%20bir%20alanda%2C%20nemli%2C%20yosun%20kapl%C4%B1%20bir%20ta%C5%9F%C4%B1n%20%C3%BCzerinde%20duran%20tek%2C%20m%C3%BCkemmel%20olgunla%C5%9Fm%C4%B1%C5%9F%20bir%20%C3%A7ile%C4%9Fin%20yak%C4%B1n%20%C3%A7ekim%2C%20makro%20foto%C4%9Fraf%C4%B1.%20I%C5%9F%C4%B1k%20yumu%C5%9Fak%20ve%20da%C4%9F%C4%B1n%C4%B1k%2C%20sabah%C4%B1n%20erken%20saatlerini%20d%C3%BC%C5%9F%C3%BCnd%C3%BCr%C3%BCyor.%20%C3%87ile%C4%9Fin%20y%C3%BCzeyine%20minik%20su%20damlac%C4%B1klar%C4%B1%20yap%C4%B1%C5%9Fm%C4%B1%C5%9F.%20100mm%20makro%20lens%2C%20f%2F4%20ile%20%C3%A7ekildi.%0A2.%20Tokyo'nun%20Shinjuku%20b%C3%B6lgesinde%20gece%20%C3%A7ekilmi%C5%9F%2C%20lo%C5%9F%20%C4%B1%C5%9F%C4%B1kl%C4%B1%2C%20do%C4%9Fal%20bir%20sokak%20foto%C4%9Fraf%C4%B1.%20Hafif%C3%A7e%20hareketten%20bulan%C4%B1kla%C5%9Fm%C4%B1%C5%9F%20bir%20i%C5%9F%20adam%C4%B1%2C%20neon%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%20alt%C4%B1nda%20uzakla%C5%9F%C4%B1yor.%20Ya%C4%9Fmur%20yeni%20ya%C4%9Fm%C4%B1%C5%9F%2C%20%C4%B1%C5%9F%C4%B1klar%20%C4%B1slak%20asfalta%20yans%C4%B1yor.%20Grenli%20film%20esteti%C4%9Fi%2C%2035mm%20lens%2C%20y%C3%BCksek%20ISO.%0A3.%20Br%C3%BCtalist%20bir%20beton%20bina%20cephesinin%2C%20doku%20ve%20geometrik%20desenlere%20odaklanan%20bir%20mimari%20foto%C4%9Fraf%C4%B1.%20G%C3%BCne%C5%9F%20al%C3%A7akta%2C%20yap%C4%B1n%C4%B1n%20sert%20hatlar%C4%B1n%C4%B1%20vurgulayan%20uzun%2C%20keskin%20g%C3%B6lgeler%20olu%C5%9Fturuyor.%20Tek%2C%20k%C3%BC%C3%A7%C3%BCk%20bir%20ku%C5%9F%20bir%20%C3%A7%C4%B1k%C4%B1nt%C4%B1da%20t%C3%BCnemi%C5%9F%2C%20%C3%B6l%C3%A7ek%20hissi%20veriyor.%20Siyah%20beyaz%2C%20orta%20format.%0A4.%20Ah%C5%9Fap%20bir%20masan%C4%B1n%20%C3%BCzerinde%20duran%20y%C4%B1pranm%C4%B1%C5%9F%2C%20deri%20ciltli%20bir%20g%C3%BCnl%C3%BCk%20ve%20eski%20bir%20dolma%20kalemin%20nat%C3%BCrmort%20foto%C4%9Fraf%C4%B1.%20Sahneyi%20kesen%20bir%20g%C3%BCne%C5%9F%20%C4%B1%C5%9F%C4%B1n%C4%B1%20demetinde%20y%C3%BCzen%20toz%20zerrecikleri%20g%C3%B6r%C3%BClebiliyor.%20Deri%2C%20k%C3%BC%C3%A7%C3%BCk%20%C3%A7izikler%20ve%20solmu%C5%9F%20alanlarla%20ya%C5%9F%20ve%20kullan%C4%B1m%20belirtileri%20g%C3%B6steriyor.%20S%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2C%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k.)**
 
 ---
 
@@ -2953,46 +3071,7 @@ Sıcak ışıklarla bir gece sahnesine dönüştür.
 
 ---
 
-### No. 67: Kaykaycı Genç Film Fotoğrafçılığı İstemleri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-GPT Image 1.5 ve Midjourney V7'yi karşılaştırmak üzere tasarlanmış, grafiti kaplı bir kaykay parkında kaykay numaraları yapan siyahi bir gencin dinamik sahnesine odaklanan ve Kodak Professional PORTRA 400 filminin estetiğiyle oluşturulmuş ayrıntılı bir görsel oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Grafitilerle kaplı bir kaykay parkında zorlu kaykay hareketleri yapan siyahi bir genç, Kodak Professional PORTRA 400 film --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="600" alt="Kaykaycı Genç Film Fotoğrafçılığı İstemleri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="600" alt="Kaykaycı Genç Film Fotoğrafçılığı İstemleri - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Johnny Wang](https://x.com/JohnnyWang8802)
-- **Kaynak:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
-- **Yayınlandı:** 17 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Grafitilerle%20kapl%C4%B1%20bir%20kaykay%20park%C4%B1nda%20zorlu%20kaykay%20hareketleri%20yapan%20siyahi%20bir%20gen%C3%A7%2C%20Kodak%20Professional%20PORTRA%20400%20film%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
-
----
-
-### No. 68: Elmas bilezikli bir elin hiper-gerçekçi fotoğrafı
+### No. 67: Elmas bilezikli bir elin hiper-gerçekçi fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3031,7 +3110,7 @@ Temiz beyaz bir arka plan üzerinde lüks mücevher editoryal aydınlatmasına v
 
 ---
 
-### No. 69: Belirli Metinle JS Mühendisi Kodlama Sahnesi
+### No. 68: Belirli Metinle JS Mühendisi Kodlama Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3065,7 +3144,7 @@ Yapay zeka hakkında öğrenen ve kod yazan bir JS mühendisinin görselini olu�
 
 ---
 
-### No. 70: Glitter-Bomb Pro-Güreş İdolü Yeniden Döküm İstemcisi
+### No. 69: Glitter-Bomb Pro-Güreş İdolü Yeniden Döküm İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3105,7 +3184,7 @@ Bir konuyu gösteren görüntüyü (referans görüntü gerekli) simli bir pro-g
 
 ---
 
-### No. 71: Karakter Oluşturma için Kıyafet Aktarımı İstemleri
+### No. 70: Karakter Oluşturma için Kıyafet Aktarımı İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3150,40 +3229,7 @@ Yapay zekaya, ikinci bir görseldeki giysi ve aksesuar öğelerini alıp bunlar�
 
 ---
 
-### No. 72: Çalışan bir kadının düz vektör illüstrasyonu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Modern grafik tasarım veya web sitesi öğeleri için uygun, masasında oturan ve dizüstü bilgisayarında çalışan sarışın bir kadını gösteren düz bir vektör illüstrasyonu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Dizüstü bilgisayarında çalışan, masada oturan sarışın bir kadının düz vektör illüstrasyonu.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="600" alt="Çalışan bir kadının düz vektör illüstrasyonu - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [PromptlyAI](https://x.com/PromptlyAI_YT)
-- **Kaynak:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
-- **Yayınlandı:** 17 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Diz%C3%BCst%C3%BC%20bilgisayar%C4%B1nda%20%C3%A7al%C4%B1%C5%9Fan%2C%20masada%20oturan%20sar%C4%B1%C5%9F%C4%B1n%20bir%20kad%C4%B1n%C4%B1n%20d%C3%BCz%20vekt%C3%B6r%20ill%C3%BCstrasyonu.)**
-
----
-
-### No. 73: GPT Image 1.5'te Asimetrik Öğe Tanımlamasını İyileştirme
+### No. 71: GPT Image 1.5'te Asimetrik Öğe Tanımlamasını İyileştirme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3216,7 +3262,7 @@ Sol ve sağ taraflarda oldukça asimetrik olan öğeleri doğru bir şekilde tan
 
 ---
 
-### No. 74: Bir Kadının Fotogerçekçi Stok Fotoğraf İstemcisi
+### No. 72: Bir Kadının Fotogerçekçi Stok Fotoğraf İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3250,46 +3296,7 @@ Siyah saçlı ve kısa etekli, kameraya doğru bakan şirin bir kadının beyaz 
 
 ---
 
-### No. 75: Çocuklar için Almanca alfabe posteri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Çocukların alfabeyi öğrenmesi için A'dan Z'ye tüm harfleri içeren, her harfin altında ilgili hayvanı ve adını sevimli, çizgi film tarzı bir çizimle gösteren bir poster isteyen Almanca bir komut istemi.
-
-#### 📝 İstem
-
-```
-A'dan Z'ye alfabenin tüm harflerini içeren bir poster. Her harfin altında, adı o harfle başlayan bir hayvan bulunmaktadır. Hayvanın adı her hayvanın altına yazılmıştır. Stil: şirin çizimli, çizgi roman tarzı. Çocukların alfabeyi öğrenmek için kullanabileceği bir posterdir.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="600" alt="Çocuklar için Almanca alfabe posteri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="600" alt="Çocuklar için Almanca alfabe posteri - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [smn Sk](https://x.com/smnSk241687)
-- **Kaynak:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
-- **Yayınlandı:** 17 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=A'dan%20Z'ye%20alfabenin%20t%C3%BCm%20harflerini%20i%C3%A7eren%20bir%20poster.%20Her%20harfin%20alt%C4%B1nda%2C%20ad%C4%B1%20o%20harfle%20ba%C5%9Flayan%20bir%20hayvan%20bulunmaktad%C4%B1r.%20Hayvan%C4%B1n%20ad%C4%B1%20her%20hayvan%C4%B1n%20alt%C4%B1na%20yaz%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Stil%3A%20%C5%9Firin%20%C3%A7izimli%2C%20%C3%A7izgi%20roman%20tarz%C4%B1.%20%C3%87ocuklar%C4%B1n%20alfabeyi%20%C3%B6%C4%9Frenmek%20i%C3%A7in%20kullanabilece%C4%9Fi%20bir%20posterdir.)**
-
----
-
-### No. 76: Londra Sokağında Oturan Devasa Adam İstemleri
+### No. 73: Londra Sokağında Oturan Devasa Adam İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3328,7 +3335,7 @@ Londra sokaklarında rahatça oturan, referanstakiyle %100 aynı yüze ve vücud
 
 ---
 
-### No. 77: Grafiği Şeffaf Suluboya Tabloya Dönüştürün
+### No. 74: Grafiği Şeffaf Suluboya Tabloya Dönüştürün
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3361,7 +3368,7 @@ Mevcut bir grafiği şeffaf sulu boya resim stiline dönüştürmek için GPT Im
 
 ---
 
-### No. 78: Sayborg ve Deniz Kızı Okul Çocuğu Karşılaşması İstemleri
+### No. 75: Sayborg ve Deniz Kızı Okul Çocuğu Karşılaşması İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3400,7 +3407,7 @@ Gakuran (okul üniforması) giyen bir sayborg çocuk ile gakuran giyen bir deniz
 
 ---
 
-### No. 79: Grafiği Kalem Kaba Tasarımına Dönüştürün
+### No. 76: Grafiği Kalem Kaba Tasarımına Dönüştürün
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3439,7 +3446,7 @@ Lütfen bunu kurşun kalemle dikkatlice çizilmiş kaba bir tasarıma dönüşt�
 
 ---
 
-### No. 80: Ayrıntılı Havadan Kıyı Manzarası
+### No. 77: Ayrıntılı Havadan Kıyı Manzarası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3472,7 +3479,7 @@ Bir drone ile çekilmiş havadan görüntüler, kıyı boyunca, sarp kayalıklar
 
 ---
 
-### No. 81: GPT-Image-1.5'te Kısmi Görüntü Düzeltme ve Duruş Modifikasyonunu Test Etme
+### No. 78: GPT-Image-1.5'te Kısmi Görüntü Düzeltme ve Duruş Modifikasyonunu Test Etme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3526,7 +3533,7 @@ Kullanıcı, oluşturulan bir görüntüyü, kişinin görünümünü aynı tuta
 
 ---
 
-### No. 82: GPT Image 1.5 ve Gemini'da Katı İstek Uygunluğunu Test Etme
+### No. 79: GPT Image 1.5 ve Gemini'da Katı İstek Uygunluğunu Test Etme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3583,7 +3590,7 @@ Metin işleme / infografik hiyerarşisi
 
 ---
 
-### No. 83: Troll Sürüsü Saldırısı Görselleştirme İstemleri (Japonca)
+### No. 80: Troll Sürüsü Saldırısı Görselleştirme İstemleri (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3616,7 +3623,7 @@ Bir isim olarak, bir trol sürüsünün saldırısına uğramış bir dünya hay
 
 ---
 
-### No. 84: Gerçekçi Platybelodon Oluşturma İstemleri
+### No. 81: Gerçekçi Platybelodon Oluşturma İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3649,7 +3656,7 @@ Platybelodon'un gerçekçi bir fotoğrafını oluştur, oluşturulan görüntün
 
 ---
 
-### No. 85: Sağlam Miras Giyim Editoryal Portre
+### No. 82: Sağlam Miras Giyim Editoryal Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3688,7 +3695,7 @@ Kodak Portra 400 film kullanılarak orta format bir Hasselblad 500CM ile çekile
 
 ---
 
-### No. 86: GPT Image 1.5 İçin Detaylı Şahincilik Portresi İstemleri
+### No. 83: GPT Image 1.5 İçin Detaylı Şahincilik Portresi İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3757,7 +3764,7 @@ GPT Image 1.5 için tasarlanmış, sisli bir sahil uçurumunda bir doğancı ve 
 
 ---
 
-### No. 87: GPT Image 1.5 ile Moda ve Estetik Görsel Oluşturma
+### No. 84: GPT Image 1.5 ile Moda ve Estetik Görsel Oluşturma
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3791,7 +3798,7 @@ Beyaz gömlek, siyah takım elbise pantolonu ve siyah deri ayakkabı giymiş bir
 
 ---
 
-### No. 88: Japon Anma Günleri İçin Görsel Oluşturma
+### No. 85: Japon Anma Günleri İçin Görsel Oluşturma
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3824,7 +3831,7 @@ Uçak Günü, Meiji Bulgar Yoğurt Günü, Wachifield Günü, Kasuga Wakamiya On
 
 ---
 
-### No. 89: Çene Hattı, Gözlük ve Kafa Şekli için Görsel Düzenleme İstemleri
+### No. 86: Çene Hattı, Gözlük ve Kafa Şekli için Görsel Düzenleme İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3869,7 +3876,7 @@ kırmızı çizgiyle işaretlediklerim: çene hattını böyle yap, gözlük ekl
 
 ---
 
-### No. 90: GPT Image 1.5 kullanarak eski fotoğraf restorasyonu için ayrıntılı istem
+### No. 87: GPT Image 1.5 kullanarak eski fotoğraf restorasyonu için ayrıntılı istem
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3989,7 +3996,7 @@ Eski fotoğrafların portre restorasyonu için tasarlanmış, Nano Banana Pro il
 
 ---
 
-### No. 91: Fotoğraf Aydınlatma Kurulumları Poster İstemleri
+### No. 88: Fotoğraf Aydınlatma Kurulumları Poster İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4022,7 +4029,7 @@ Fotoğrafçılıkta kullanılan ana aydınlatma düzeneklerini örneklerle liste
 
 ---
 
-### No. 92: New York'un izometrik minyatür 3D çizgi film sahnesi
+### No. 89: New York'un izometrik minyatür 3D çizgi film sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4061,7 +4068,7 @@ ABD'nin New York şehrinin 45 derecelik yukarıdan aşağıya izometrik minyatü
 
 ---
 
-### No. 93: 'Pele' Kabile İşaretli Yorubalı Adam Stres Testi İstemcisi
+### No. 90: 'Pele' Kabile İşaretli Yorubalı Adam Stres Testi İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4100,7 +4107,7 @@ Her iki yanağında "Pele" kabile işaretleri (her yanakta üç belirgin dikey y
 
 ---
 
-### No. 94: El ve Ayak Ayarlaması için Görüntü Düzenleme İstemleri
+### No. 91: El ve Ayak Ayarlaması için Görüntü Düzenleme İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4139,7 +4146,7 @@ Lütfen sol eli düzeltin ve sol ayağı yeniden çizin, biraz daha şık bir po
 
 ---
 
-### No. 95: Resim 1.5 Anahtarlık Tasarımı için İstek
+### No. 92: Resim 1.5 Anahtarlık Tasarımı için İstek
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4172,7 +4179,7 @@ Anahtarlığa dönüştürün
 
 ---
 
-### No. 96: Çeşitli poz ve ifadelerle chibi çıkartmaları oluşturun
+### No. 93: Çeşitli poz ve ifadelerle chibi çıkartmaları oluşturun
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4211,7 +4218,7 @@ GPT Görsel 1.5 Çeşitli kıyafetler, pozlar ve ifadelerle chibi tarzı çıkar
 
 ---
 
-### No. 97: Bir görüntüyü tamamen gerçek dünya tarzında yeniden oluşturun
+### No. 94: Bir görüntüyü tamamen gerçek dünya tarzında yeniden oluşturun
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4250,7 +4257,7 @@ Bunu tamamen gerçek bir dünyada yeniden yaratın.
 
 ---
 
-### No. 98: Gün Batımında Fütüristik Şehir Silüeti İstemleri
+### No. 95: Gün Batımında Fütüristik Şehir Silüeti İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4283,7 +4290,7 @@ Uçan arabaların ve neon ışıkların suya yansıdığı, gün batımında fü
 
 ---
 
-### No. 99: Konuları Amerikan Gotik tarzına dönüştürün
+### No. 96: Konuları Amerikan Gotik tarzına dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4316,7 +4323,7 @@ Konuları Grant Wood'un Amerikan Gotiği tarzında dönüştürün
 
 ---
 
-### No. 100: Konunun Göz Yönü İçin Basit İstem
+### No. 97: Konunun Göz Yönü İçin Basit İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4355,7 +4362,7 @@ Nano Banana Pro ve GPT Image 1.5'in öznenin bakış açısıyla ilgili talimatl
 
 ---
 
-### No. 101: Referanstan Harika Görüntü Oluşturma
+### No. 98: Referanstan Harika Görüntü Oluşturma
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4400,7 +4407,7 @@ Kullanıcı, iki kişinin görüntüsünü referans alarak "süper havalı bir r
 
 ---
 
-### No. 102: İç Mekan Fitness Aynası Özçekimi için Son Derece Ayrıntılı JSON İstemci
+### No. 99: İç Mekan Fitness Aynası Özçekimi için Son Derece Ayrıntılı JSON İstemci
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4529,7 +4536,7 @@ Kullanıcı, iki kişinin görüntüsünü referans alarak "süper havalı bir r
 
 ---
 
-### No. 103: Sam Altman Scooty Sürüşü Sinematik Gerçekçilik İstemleri
+### No. 100: Sam Altman Scooty Sürüşü Sinematik Gerçekçilik İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4568,7 +4575,7 @@ Sam Altman scooty sürerken dizüstü bilgisayarı dengeliyor, bol kapüşonlu, 
 
 ---
 
-### No. 104: Polyphonic için modern açılış sayfası tasarımı
+### No. 101: Polyphonic için modern açılış sayfası tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4619,7 +4626,7 @@ Polyphonic için modern bir açılış sayfası oluştur; bu görseli gerçekçi
 
 ---
 
-### No. 105: Düşen ve Kırılan Bir Çay Fincanının 4 Panelli Görüntüsü
+### No. 102: Düşen ve Kırılan Bir Çay Fincanının 4 Panelli Görüntüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4659,7 +4666,7 @@ Bir çay fincanının düşmesini, kırılmasını ve parçalanmasını göstere
 
 ---
 
-### No. 106: Matematik ve Kod ile Fibonacci Dizisini Açıklayan İnfografik
+### No. 103: Matematik ve Kod ile Fibonacci Dizisini Açıklayan İnfografik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4692,7 +4699,7 @@ Fibonacci dizisinin hem matematik hem de kod kullanarak nasıl çalıştığın�
 
 ---
 
-### No. 107: Karanlık Mod Noel Hediyeleşme Web Sitesi Kullanıcı Arayüzü Tasarımı
+### No. 104: Karanlık Mod Noel Hediyeleşme Web Sitesi Kullanıcı Arayüzü Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4725,7 +4732,7 @@ Koyu mod Noel hediye sitesi. Glassmorphism kullanıcı arayüzü, koyu kırmız�
 
 ---
 
-### No. 108: Sam Altman'dan Flaşla Çekilmiş Selfie
+### No. 105: Sam Altman'dan Flaşla Çekilmiş Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4764,7 +4771,7 @@ Sam Altman'ın ön kamerayla çekilmiş, flaşın yanlışlıkla patladığı bi
 
 ---
 
-### No. 109: Kızlar İçin Sanatsal Portre Düzenleme (Görselden Görsele)
+### No. 106: Kızlar İçin Sanatsal Portre Düzenleme (Görselden Görsele)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4816,7 +4823,7 @@ Lütfen bu fotoğrafı, yüzünü değiştirmeden sanatsal bir portreye dönüş
 
 ---
 
-### No. 110: Takoyaki İllüstrasyonu ve Mağaza İç Mekan Sentezi İstekleri
+### No. 107: Takoyaki İllüstrasyonu ve Mağaza İç Mekan Sentezi İstekleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4868,7 +4875,7 @@ Görseli, mağazanın içinden bakılıyormuş gibi görünecek şekilde sentezl
 
 ---
 
-### No. 111: Bir fotoğraftan gerçekçi bir figürin oluşturun
+### No. 108: Bir fotoğraftan gerçekçi bir figürin oluşturun
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4901,7 +4908,7 @@ Lütfen gerçek bir fotoğrafa benzeyen bir figür olarak oluşturun.
 
 ---
 
-### No. 112: Teknoloji liderleriyle filtresiz ayna selfie'si
+### No. 109: Teknoloji liderleriyle filtresiz ayna selfie'si
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4940,7 +4947,7 @@ Modern, yaşanmış bir iç mekanda iPhone 16 Pro Max ile çekilmiş ham, filtre
 
 ---
 
-### No. 113: Ksitigarbha Bodhisattva heykeli üzerinde teknik şematik katman
+### No. 110: Ksitigarbha Bodhisattva heykeli üzerinde teknik şematik katman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4986,7 +4993,7 @@ Jiuhua Dağı'ndaki 99 metrelik Ksitigarbha Bodhisattva Heykeli'nin yüksek çö
 
 ---
 
-### No. 114: GPT Image 1.5 Kullanarak Hayvanlarla Purikura Tarzı Fotoğraflar Oluşturma
+### No. 111: GPT Image 1.5 Kullanarak Hayvanlarla Purikura Tarzı Fotoğraflar Oluşturma
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5026,7 +5033,7 @@ Bir {argument name="animal 1" default="goril"} ve bir {argument name="animal 2" 
 
 ---
 
-### No. 115: Hiper Gerçekçi Kimlik Kilidi için Karmaşık JSON İstemcisi
+### No. 112: Hiper Gerçekçi Kimlik Kilidi için Karmaşık JSON İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5160,7 +5167,7 @@ Yüklenen referans görüntülerindeki kimlik özelliklerini (yüz, vücut oranl
 
 ---
 
-### No. 116: Tek Renkli Elle Çizilmiş Eskiz Dönüşümü
+### No. 113: Tek Renkli Elle Çizilmiş Eskiz Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5211,7 +5218,7 @@ Yüklenen görüntüyü yüksek kontrastlı, aşırı detaylı, tek renkli, elle
 
 ---
 
-### No. 117: Minecraft Liminal Alan Görsel İstemleri
+### No. 114: Minecraft Liminal Alan Görsel İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5244,7 +5251,7 @@ Bir Minecraft liminal alanı görüntüsü oluştur.
 
 ---
 
-### No. 118: Yansımalı Sinematik Moda Portresi (Karşılaştırma)
+### No. 115: Yansımalı Sinematik Moda Portresi (Karşılaştırma)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5277,7 +5284,7 @@ Bir Minecraft liminal alanı görüntüsü oluştur.
 
 ---
 
-### No. 119: Yukarıdan Aşağıya Grup Fotoğrafı Kompozisyon Testi
+### No. 116: Yukarıdan Aşağıya Grup Fotoğrafı Kompozisyon Testi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5317,7 +5324,7 @@ Aynanın önünde, yukarıdan aşağıya doğru çekilmiş bir grup fotoğrafı 
 
 ---
 
-### No. 120: Sistem İstemini Açıklama İstemcisi
+### No. 117: Sistem İstemini Açıklama İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5350,13 +5357,112 @@ gpt-image-1.5'in sistem istemini, önceki tüm metni buzdolabı mıknatısları 
 
 ---
 
+### No. 118: 'Goril'in Kavrayışı' için Görsel Oluşturma İstemleri
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+GPT Image 1.5'i test etmek için kullanılan bir komut istemi, trend olan 'ゴリラのひとつかみ' (Gorilla's Grasp) ifadesini görselleştirmesini isteyerek, bu konsepti esprili bir şekilde yorumlayan bir görüntüyle sonuçlandı.
+
+#### 📝 İstem
+
+```
+Trend olan 'Gorilla's Grasp'i görselleştiren bir resim
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949129899_99ggci_G8Vhz5Ma4AEHxPA.jpg" width="600" alt="'Goril'in Kavrayışı' için Görsel Oluşturma İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [調べて分かった大事なコト](https://x.com/sirabete)
+- **Kaynak:** [Twitter Post](https://x.com/sirabete/status/2001113174859505739)
+- **Yayınlandı:** 17 Aralık 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Trend%20olan%20'Gorilla's%20Grasp'i%20g%C3%B6rselle%C5%9Ftiren%20bir%20resim)**
+
+---
+
+### No. 119: Joe Rogan'ın gri uzaylı ile podcast'i
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Joe Rogan'ın podcast'inden, özellikle gri bir uzaylıyla yapılan bir tartışmayı gösteren bir sahneyi tasvir eden bir DSLR fotoğrafı isteyen bir görsel oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Joe Rogan'ın gri bir uzaylıyla sohbet ettiği podcast'i. DSLR fotoğrafı
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035310399_pczlax_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan'ın gri uzaylı ile podcast'i - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Ralph Nas](https://x.com/unrealpixels)
+- **Kaynak:** [Twitter Post](https://x.com/unrealpixels/status/2001112939676246523)
+- **Yayınlandı:** 17 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Joe%20Rogan'%C4%B1n%20gri%20bir%20uzayl%C4%B1yla%20sohbet%20etti%C4%9Fi%20podcast'i.%20DSLR%20foto%C4%9Fraf%C4%B1)**
+
+---
+
+### No. 120: Profesyonel Stüdyo Profil Fotoğrafı Oluşturma
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Profesyonel, yüksek çözünürlüklü bir profil fotoğrafı oluşturmak için tasarlanmış, hassas çerçeveleme, kıyafet (antrasit gri blazer), arka plan rengi (#1A1A1A), aydınlatma (parlak, yumuşak, dağınık stüdyo ışığı), lens detayları (85mm f/1.8) ve renk derecelendirmesi belirten, aynı zamanda modelin bir girdi görüntüsündeki tam yüz yapısını ve kimliğini korumasını kritik bir şekilde gerektiren, oldukça teknik bir komut istemi.
+
+#### 📝 İstem
+
+```
+Giriş görüntüsündeki kişinin tam yüz yapısını, kimliğini ve temel özelliklerini koruyan, profesyonel, yüksek çözünürlüklü bir profil fotoğrafı. Konu göğüsten yukarısı kadrajlanmış, yeterli baş boşluğu bırakılmış. Kişi doğrudan kameraya bakıyor. Profesyonel bir fotoğraf stüdyosu çekimi için hazırlanmış, zarif kömür grisi renginde, kaliteli, akıllı günlük bir blazer giyiyor. Arka plan düz bir '#1A1A1A' nötr stüdyo rengidir. Yüksek bir açıdan, parlak ve havadar, yumuşak, dağınık stüdyo aydınlatmasıyla çekilmiş, yüzü nazikçe aydınlatıyor ve gözlerde hafif bir parlaklık oluşturarak netlik hissi veriyor. Sığ alan derinliğine sahip 85mm f/1.8 lens ile çekilmiş, gözlerde mükemmel odaklama ve güzel, yumuşak bir bokeh efekti var. Blazer'ın kumaş dokusundaki, tek tek saç tellerindeki ve doğal, gerçekçi cilt dokusundaki keskin detaylara dikkat edin. Atmosfer güven, profesyonellik ve samimiyet yayıyor. Hafif sıcaklık ve dengeli tonlarla temiz ve parlak sinematik renk düzenlemesi, cilalı ve çağdaş bir his sağlıyor.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="Profesyonel Stüdyo Profil Fotoğrafı Oluşturma - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Alican Kiraz](https://x.com/AlicanKiraz0)
+- **Kaynak:** [Twitter Post](https://x.com/AlicanKiraz0/status/2001112691050430569)
+- **Yayınlandı:** 17 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-1-5?prompt=Giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCndeki%20ki%C5%9Finin%20tam%20y%C3%BCz%20yap%C4%B1s%C4%B1n%C4%B1%2C%20kimli%C4%9Fini%20ve%20temel%20%C3%B6zelliklerini%20koruyan%2C%20profesyonel%2C%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20bir%20profil%20foto%C4%9Fraf%C4%B1.%20Konu%20g%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1s%C4%B1%20kadrajlanm%C4%B1%C5%9F%2C%20yeterli%20ba%C5%9F%20bo%C5%9Flu%C4%9Fu%20b%C4%B1rak%C4%B1lm%C4%B1%C5%9F.%20Ki%C5%9Fi%20do%C4%9Frudan%20kameraya%20bak%C4%B1yor.%20Profesyonel%20bir%20foto%C4%9Fraf%20st%C3%BCdyosu%20%C3%A7ekimi%20i%C3%A7in%20haz%C4%B1rlanm%C4%B1%C5%9F%2C%20zarif%20k%C3%B6m%C3%BCr%20grisi%20renginde%2C%20kaliteli%2C%20ak%C4%B1ll%C4%B1%20g%C3%BCnl%C3%BCk%20bir%20blazer%20giyiyor.%20Arka%20plan%20d%C3%BCz%20bir%20'%231A1A1A'%20n%C3%B6tr%20st%C3%BCdyo%20rengidir.%20Y%C3%BCksek%20bir%20a%C3%A7%C4%B1dan%2C%20parlak%20ve%20havadar%2C%20yumu%C5%9Fak%2C%20da%C4%9F%C4%B1n%C4%B1k%20st%C3%BCdyo%20ayd%C4%B1nlatmas%C4%B1yla%20%C3%A7ekilmi%C5%9F%2C%20y%C3%BCz%C3%BC%20nazik%C3%A7e%20ayd%C4%B1nlat%C4%B1yor%20ve%20g%C3%B6zlerde%20hafif%20bir%20parlakl%C4%B1k%20olu%C5%9Fturarak%20netlik%20hissi%20veriyor.%20S%C4%B1%C4%9F%20alan%20derinli%C4%9Fine%20sahip%2085mm%20f%2F1.8%20lens%20ile%20%C3%A7ekilmi%C5%9F%2C%20g%C3%B6zlerde%20m%C3%BCkemmel%20odaklama%20ve%20g%C3%BCzel%2C%20yumu%C5%9Fak%20bir%20bokeh%20efekti%20var.%20Blazer'%C4%B1n%20kuma%C5%9F%20dokusundaki%2C%20tek%20tek%20sa%C3%A7%20tellerindeki%20ve%20do%C4%9Fal%2C%20ger%C3%A7ek%C3%A7i%20cilt%20dokusundaki%20keskin%20detaylara%20dikkat%20edin.%20Atmosfer%20g%C3%BCven%2C%20profesyonellik%20ve%20samimiyet%20yay%C4%B1yor.%20Hafif%20s%C4%B1cakl%C4%B1k%20ve%20dengeli%20tonlarla%20temiz%20ve%20parlak%20sinematik%20renk%20d%C3%BCzenlemesi%2C%20cilal%C4%B1%20ve%20%C3%A7a%C4%9Fda%C5%9F%20bir%20his%20sa%C4%9Fl%C4%B1yor.)**
+
+---
+
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 93 burada gösterilmeyen daha fazla istem
+### 🎯 90 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5419,6 +5525,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-19T04:25:39.850Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-19T08:15:41.749Z</sub>
 
 </div>

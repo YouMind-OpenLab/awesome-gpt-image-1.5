@@ -87,29 +87,30 @@ by {argument name="author" default="Steve Jobs"}
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **213** |
-| ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年12月19日星期五 UTC 04:25:11** |
+| ⭐ 精选 | **3** |
+| 🔄 最后更新 | **2025年12月19日星期五 UTC 08:14:58** |
 
 </div>
 
 ---
 
-## 📋 所有提示词
+## 🔥 精选提示词
 
-> 📝 按发布日期排序（最新优先）
+> ⭐ 由我们的团队精心挑选，具有卓越的质量和创造力
 
-### No. 1: Aesthetic Image Generation Prompt
+### No. 1: 滑板少年胶片摄影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 描述
 
-This prompt is used with ChatGPT Image to generate an image where every detail is aligned and every color tells a story, suggesting a highly detailed and aesthetically pleasing visual output.
+一个详细的图像生成提示，旨在比较 GPT Image 1.5 和 Midjourney V7，重点描绘一个充满活力的场景：一名黑人青少年在涂鸦遍布的滑板公园里表演滑板特技，以柯达专业 PORTRA 400 胶片的审美风格呈现。
 
 #### 📝 提示词
 
 ```
-A high-resolution, cinematic photograph of a lone, ancient lighthouse standing on a rugged cliff edge at sunset. The sky is dramatic, painted in deep oranges, purples, and blues, with rays of light breaking through the clouds. Waves crash violently against the rocks below, creating a fine mist. The lighthouse beam cuts sharply through the twilight air. The texture of the stone and the weathered metal of the lantern room are highly detailed. The overall mood is one of isolation, power, and enduring beauty. Shot on a large format camera, 85mm lens, f/2.8, golden hour lighting.
+一名黑人青少年在涂鸦遍布的滑板公园里表演高难度滑板特技，柯达专业 PORTRA 400 胶片 --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
 ```
 
 #### 🖼️ 生成图片
@@ -117,7 +118,124 @@ A high-resolution, cinematic photograph of a lone, ancient lighthouse standing o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Aesthetic Image Generation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="700" alt="滑板少年胶片摄影提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="700" alt="滑板少年胶片摄影提示 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Johnny Wang](https://x.com/JohnnyWang8802)
+- **来源:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
+- **发布时间:** 2025年12月17日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%90%8D%E9%BB%91%E4%BA%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E5%9C%A8%E6%B6%82%E9%B8%A6%E9%81%8D%E5%B8%83%E7%9A%84%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9B%AD%E9%87%8C%E8%A1%A8%E6%BC%94%E9%AB%98%E9%9A%BE%E5%BA%A6%E6%BB%91%E6%9D%BF%E7%89%B9%E6%8A%80%EF%BC%8C%E6%9F%AF%E8%BE%BE%E4%B8%93%E4%B8%9A%20PORTRA%20400%20%E8%83%B6%E7%89%87%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
+
+---
+
+### No. 2: 儿童德语字母海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一个德语提示，要求为儿童制作一张学习字母表的招贴画，招贴画上包含从 A 到 Z 的所有字母，每个字母下方都有一个对应的动物及其名称，并以可爱的卡通风格绘制。
+
+#### 📝 提示词
+
+```
+一张海报，上面有从 A 到 Z 的所有字母。每个字母下方都有一种以该字母开头的动物，动物名称写在动物下方。风格：可爱手绘，漫画风格。这是一张孩子们可以用来学习字母表的海报。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="700" alt="儿童德语字母海报 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="700" alt="儿童德语字母海报 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [smn Sk](https://x.com/smnSk241687)
+- **来源:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
+- **发布时间:** 2025年12月17日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E6%B5%B7%E6%8A%A5%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E4%BB%8E%20A%20%E5%88%B0%20Z%20%E7%9A%84%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E3%80%82%E6%AF%8F%E4%B8%AA%E5%AD%97%E6%AF%8D%E4%B8%8B%E6%96%B9%E9%83%BD%E6%9C%89%E4%B8%80%E7%A7%8D%E4%BB%A5%E8%AF%A5%E5%AD%97%E6%AF%8D%E5%BC%80%E5%A4%B4%E7%9A%84%E5%8A%A8%E7%89%A9%EF%BC%8C%E5%8A%A8%E7%89%A9%E5%90%8D%E7%A7%B0%E5%86%99%E5%9C%A8%E5%8A%A8%E7%89%A9%E4%B8%8B%E6%96%B9%E3%80%82%E9%A3%8E%E6%A0%BC%EF%BC%9A%E5%8F%AF%E7%88%B1%E6%89%8B%E7%BB%98%EF%BC%8C%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E3%80%82%E8%BF%99%E6%98%AF%E4%B8%80%E5%BC%A0%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E5%AD%A6%E4%B9%A0%E5%AD%97%E6%AF%8D%E8%A1%A8%E7%9A%84%E6%B5%B7%E6%8A%A5%E3%80%82)**
+
+---
+
+### No. 3: 一位女士工作的扁平矢量插画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一个用于生成扁平矢量插画的提示，描绘了一位金发女性坐在办公桌前使用笔记本电脑工作的场景，适用于现代平面设计或网站素材。
+
+#### 📝 提示词
+
+```
+一位金发女士坐在办公桌前使用笔记本电脑工作的扁平矢量插画。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="700" alt="一位女士工作的扁平矢量插画 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [PromptlyAI](https://x.com/PromptlyAI_YT)
+- **来源:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
+- **发布时间:** 2025年12月17日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E9%87%91%E5%8F%91%E5%A5%B3%E5%A3%AB%E5%9D%90%E5%9C%A8%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%89%8D%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%89%81%E5%B9%B3%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E3%80%82)**
+
+---
+
+## 📋 所有提示词
+
+> 📝 按发布日期排序（最新优先）
+
+### No. 1: 美学图像生成提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示与 ChatGPT Image 结合使用，可生成一幅图像，其中每个细节都精确对齐，每种颜色都讲述一个故事，暗示着高度精细且美观的视觉输出。
+
+#### 📝 提示词
+
+```
+一张高分辨率的电影感照片，描绘了一座古老的灯塔在日落时分独自矗立在崎岖的悬崖边缘。天空充满戏剧性，被深橙色、紫色和蓝色所渲染，光线穿透云层。海浪猛烈地拍打着下面的岩石，激起细密的薄雾。灯塔的光束划破暮色中的空气。石头的纹理和灯笼室风化的金属细节清晰可见。整体氛围是孤寂、力量和永恒之美。使用大画幅相机，85mm 镜头，f/2.8 光圈，黄金时段光线拍摄。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="美学图像生成提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -127,23 +245,23 @@ A high-resolution, cinematic photograph of a lone, ancient lighthouse standing o
 - **发布时间:** 2025年12月19日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=A%20high-resolution%2C%20cinematic%20photograph%20of%20a%20lone%2C%20ancient%20lighthouse%20standing%20on%20a%20rugged%20cliff%20edge%20at%20sunset.%20The%20sky%20is%20dramatic%2C%20painted%20in%20deep%20oranges%2C%20purples%2C%20and%20blues%2C%20with%20rays%20of%20light%20breaking%20through%20the%20clouds.%20Waves%20crash%20violently%20against%20the%20rocks%20below%2C%20creating%20a%20fine%20mist.%20The%20lighthouse%20beam%20cuts%20sharply%20through%20the%20twilight%20air.%20The%20texture%20of%20the%20stone%20and%20the%20weathered%20metal%20of%20the%20lantern%20room%20are%20highly%20detailed.%20The%20overall%20mood%20is%20one%20of%20isolation%2C%20power%2C%20and%20enduring%20beauty.%20Shot%20on%20a%20large%20format%20camera%2C%2085mm%20lens%2C%20f%2F2.8%2C%20golden%20hour%20lighting.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E7%9A%84%E7%94%B5%E5%BD%B1%E6%84%9F%E7%85%A7%E7%89%87%EF%BC%8C%E6%8F%8F%E7%BB%98%E4%BA%86%E4%B8%80%E5%BA%A7%E5%8F%A4%E8%80%81%E7%9A%84%E7%81%AF%E5%A1%94%E5%9C%A8%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E7%8B%AC%E8%87%AA%E7%9F%97%E7%AB%8B%E5%9C%A8%E5%B4%8E%E5%B2%96%E7%9A%84%E6%82%AC%E5%B4%96%E8%BE%B9%E7%BC%98%E3%80%82%E5%A4%A9%E7%A9%BA%E5%85%85%E6%BB%A1%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%8C%E8%A2%AB%E6%B7%B1%E6%A9%99%E8%89%B2%E3%80%81%E7%B4%AB%E8%89%B2%E5%92%8C%E8%93%9D%E8%89%B2%E6%89%80%E6%B8%B2%E6%9F%93%EF%BC%8C%E5%85%89%E7%BA%BF%E7%A9%BF%E9%80%8F%E4%BA%91%E5%B1%82%E3%80%82%E6%B5%B7%E6%B5%AA%E7%8C%9B%E7%83%88%E5%9C%B0%E6%8B%8D%E6%89%93%E7%9D%80%E4%B8%8B%E9%9D%A2%E7%9A%84%E5%B2%A9%E7%9F%B3%EF%BC%8C%E6%BF%80%E8%B5%B7%E7%BB%86%E5%AF%86%E7%9A%84%E8%96%84%E9%9B%BE%E3%80%82%E7%81%AF%E5%A1%94%E7%9A%84%E5%85%89%E6%9D%9F%E5%88%92%E7%A0%B4%E6%9A%AE%E8%89%B2%E4%B8%AD%E7%9A%84%E7%A9%BA%E6%B0%94%E3%80%82%E7%9F%B3%E5%A4%B4%E7%9A%84%E7%BA%B9%E7%90%86%E5%92%8C%E7%81%AF%E7%AC%BC%E5%AE%A4%E9%A3%8E%E5%8C%96%E7%9A%84%E9%87%91%E5%B1%9E%E7%BB%86%E8%8A%82%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E6%98%AF%E5%AD%A4%E5%AF%82%E3%80%81%E5%8A%9B%E9%87%8F%E5%92%8C%E6%B0%B8%E6%81%92%E4%B9%8B%E7%BE%8E%E3%80%82%E4%BD%BF%E7%94%A8%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%EF%BC%8C85mm%20%E9%95%9C%E5%A4%B4%EF%BC%8Cf%2F2.8%20%E5%85%89%E5%9C%88%EF%BC%8C%E9%BB%84%E9%87%91%E6%97%B6%E6%AE%B5%E5%85%89%E7%BA%BF%E6%8B%8D%E6%91%84%E3%80%82)**
 
 ---
 
-### No. 2: Pencil Sketch Schematics of Bender
+### No. 2: Bender 的铅笔素描原理图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A simple, direct prompt for GPT Image 1.5 requesting a pencil sketch illustrating the schematics of the character Bender, likely from Futurama.
+一个给 GPT Image 1.5 的简单直接的提示，要求绘制一张铅笔素描，描绘角色 Bender（很可能来自《飞出个未来》）的原理图。
 
 #### 📝 提示词
 
 ```
-Pencil sketch for the schematics of {argument name="character" default="bender"}
+{argument name="character" default="bender"} 的原理图铅笔草图
 ```
 
 #### 🖼️ 生成图片
@@ -151,7 +269,7 @@ Pencil sketch for the schematics of {argument name="character" default="bender"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Pencil Sketch Schematics of Bender - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Bender 的铅笔素描原理图 - Image 1">
 </div>
 
 #### 📌 详情
@@ -161,37 +279,37 @@ Pencil sketch for the schematics of {argument name="character" default="bender"}
 - **发布时间:** 2025年12月19日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Pencil%20sketch%20for%20the%20schematics%20of%20%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D%20%E7%9A%84%E5%8E%9F%E7%90%86%E5%9B%BE%E9%93%85%E7%AC%94%E8%8D%89%E5%9B%BE)**
 
 ---
 
-### No. 3: Detailed Fashion Product Photography Prompt for GPT Image 1.5
+### No. 3: GPT Image 1.5 的详细时尚产品摄影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly detailed, structured prompt designed for GPT Image 1.5 to generate a commercial advertisement-quality image. The composition is a vertical split-screen featuring a product photography flat-lay of an outfit in a museum specimen box on the top, and a hyperrealistic 'naked-eye 3D' illusion of a model wearing the exact same outfit on the bottom, creating a visual contrast between presentation and reality. The prompt includes specific details on clothing, props, model description, pose, and technical rendering specs.
+一个高度详细、结构化的提示，专为 GPT Image 1.5 设计，用于生成商业广告质量的图像。构图是一个垂直分屏，上方是博物馆标本盒中服装的产品摄影平铺图，下方是模特穿着完全相同服装的超现实“裸眼 3D”错觉图，在展示与现实之间形成视觉对比。该提示包含服装、道具、模特描述、姿势和技术渲染规格的具体细节。
 
 #### 📝 提示词
 
 ```
-A vertical split-screen creative product photography composition on a clean white wall background. High-resolution, photorealistic, commercial advertisement quality.
+一个垂直分屏的创意产品摄影构图，背景是干净的白墙。高分辨率、逼真的商业广告品质。
 
-Top Section: The Specimen Box
-The upper half features an exquisite light oak wooden shadow box frame mounted on the wall. Inside, a specific outfit is displayed as an artistic flat-lay museum specimen: {argument name="Clothing Details" default="a sleek black satin slip dress with delicate lace trim and thin spaghetti straps"}. The garments are neatly pinned in place. Surrounding them are small thematic decorative props: {argument name="Props" default="dried roses, vintage perfume bottles, silk ribbon"}. Elegant calligraphy on the matte paper backdrop reads: {argument name="Text" default="Midnight Elegance"}. Soft studio lighting accentuates the rich texture and drape of the fabric.
+上半部分：标本盒
+上半部分展示了一个精致的浅橡木阴影盒框架，安装在墙上。盒内，一套特定的服装以艺术平铺的博物馆标本形式展示：{argument name="Clothing Details" default="一件光滑的黑色缎面吊带裙，配有精致的蕾丝边和细吊带"}。服装整齐地固定在原位。周围环绕着小巧的主题装饰道具：{argument name="Props" default="干玫瑰、复古香水瓶、丝带"}。哑光纸背景上优雅的书法写着：{argument name="Text" default="午夜优雅"}。柔和的摄影棚灯光突出了面料丰富的质感和垂坠感。
 
-Bottom Section: Naked-Eye 3D Reality
-The lower half creates a hyperrealistic "naked-eye 3D" illusion. A rectangular picture-frame border sits directly beneath the top box. A stunningly realistic young woman {argument name="Model Description" default="a poised East Asian model with long wavy black hair, subtle smoky eyes, and a confident gaze"} wears the exact same outfit as shown above.
+下半部分：裸眼 3D 现实
+下半部分营造出超逼真的“裸眼 3D”幻觉。一个矩形画框边框直接位于上方盒子下方。一位令人惊艳的逼真年轻女性 {argument name="Model Description" default="一位沉着冷静的东亚模特，留着长长的波浪黑发，略带烟熏妆的眼睛，眼神自信"} 穿着与上方展示的完全相同的服装。
 
-She lounges casually on the bottom edge of the frame—one leg bent with foot resting inside the frame, the other leg elegantly dangling out into the viewer’s space. Her torso leans back slightly, elbow resting on her raised knee, fingers lightly grazing the fabric near her collarbone. Her body forms a soft, sensual S-curve that highlights the garment’s silhouette without overt exposure. She looks directly at the camera with a calm, knowing smile—inviting yet enigmatic. This dynamic, lifelike pose contrasts powerfully with the static, archival display above, creating visual tension between reality and presentation.
+她随意地斜倚在画框的下边缘——一条腿弯曲，脚放在画框内，另一条腿优雅地悬垂在观众的空间中。她的躯干微微向后倾斜，手肘靠在抬起的膝盖上，手指轻轻拂过锁骨附近的面料。她的身体形成柔和、性感的 S 形曲线，突出了服装的轮廓，而没有过度暴露。她直视镜头，带着平静、了然的微笑——既诱人又神秘。这种充满活力、栩栩如生的姿势与上方静态的档案展示形成强烈对比，在现实与呈现之间创造了视觉张力。
 
-Technical Specs:
-Soft natural shadows, ambient occlusion, bright and airy yet cinematic lighting, 8K resolution, Octane Render, vivid but refined color palette, ultra-detailed fabric textures (satin sheen, lace transparency, stitching), shallow depth of field, Vogue editorial style, filmic grain, professional fashion photography.
+技术规格：
+柔和的自然阴影，环境光遮蔽，明亮通透而富有电影感的灯光，8K 分辨率，Octane Render，鲜明而精致的调色板，超详细的面料纹理（缎面光泽、蕾丝透明度、缝线），浅景深，Vogue 编辑风格，电影颗粒感，专业时尚摄影。
 
-Negative Prompt (recommended):
-blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime, doll-like, plastic skin, overexposed, cluttered background, text errors, mismatched clothing, floating objects, unrealistic proportions.
+负面提示（推荐）：
+模糊，低分辨率，解剖结构扭曲，多余肢体，手部畸形，卡通，动漫，玩偶般，塑料皮肤，过度曝光，杂乱的背景，文字错误，服装不匹配，漂浮物体，不真实的比例。
 ```
 
 #### 🖼️ 生成图片
@@ -199,13 +317,13 @@ blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="GPT Image 1.5 的详细时尚产品摄影提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="GPT Image 1.5 的详细时尚产品摄影提示 - Image 2">
 </div>
 
 #### 📌 详情
@@ -215,28 +333,28 @@ blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime,
 - **发布时间:** 2025年12月19日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=A%20vertical%20split-screen%20creative%20product%20photography%20composition%20on%20a%20clean%20white%20wall%20background.%20High-resolution%2C%20photorealistic%2C%20commercial%20advertisement%20quality.%0A%0ATop%20Section%3A%20The%20Specimen%20Box%0AThe%20upper%20half%20features%20an%20exquisite%20light%20oak%20wooden%20shadow%20box%20frame%20mounted%20on%20the%20wall.%20Inside%2C%20a%20specific%20outfit%20is%20displayed%20as%20an%20artistic%20flat-lay%20museum%20specimen%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22a%20sleek%20black%20satin%20slip%20dress%20with%20delicate%20lace%20trim%20and%20thin%20spaghetti%20straps%22%7D.%20The%20garments%20are%20neatly%20pinned%20in%20place.%20Surrounding%20them%20are%20small%20thematic%20decorative%20props%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22dried%20roses%2C%20vintage%20perfume%20bottles%2C%20silk%20ribbon%22%7D.%20Elegant%20calligraphy%20on%20the%20matte%20paper%20backdrop%20reads%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Soft%20studio%20lighting%20accentuates%20the%20rich%20texture%20and%20drape%20of%20the%20fabric.%0A%0ABottom%20Section%3A%20Naked-Eye%203D%20Reality%0AThe%20lower%20half%20creates%20a%20hyperrealistic%20%22naked-eye%203D%22%20illusion.%20A%20rectangular%20picture-frame%20border%20sits%20directly%20beneath%20the%20top%20box.%20A%20stunningly%20realistic%20young%20woman%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22a%20poised%20East%20Asian%20model%20with%20long%20wavy%20black%20hair%2C%20subtle%20smoky%20eyes%2C%20and%20a%20confident%20gaze%22%7D%20wears%20the%20exact%20same%20outfit%20as%20shown%20above.%0A%0AShe%20lounges%20casually%20on%20the%20bottom%20edge%20of%20the%20frame%E2%80%94one%20leg%20bent%20with%20foot%20resting%20inside%20the%20frame%2C%20the%20other%20leg%20elegantly%20dangling%20out%20into%20the%20viewer%E2%80%99s%20space.%20Her%20torso%20leans%20back%20slightly%2C%20elbow%20resting%20on%20her%20raised%20knee%2C%20fingers%20lightly%20grazing%20the%20fabric%20near%20her%20collarbone.%20Her%20body%20forms%20a%20soft%2C%20sensual%20S-curve%20that%20highlights%20the%20garment%E2%80%99s%20silhouette%20without%20overt%20exposure.%20She%20looks%20directly%20at%20the%20camera%20with%20a%20calm%2C%20knowing%20smile%E2%80%94inviting%20yet%20enigmatic.%20This%20dynamic%2C%20lifelike%20pose%20contrasts%20powerfully%20with%20the%20static%2C%20archival%20display%20above%2C%20creating%20visual%20tension%20between%20reality%20and%20presentation.%0A%0ATechnical%20Specs%3A%0ASoft%20natural%20shadows%2C%20ambient%20occlusion%2C%20bright%20and%20airy%20yet%20cinematic%20lighting%2C%208K%20resolution%2C%20Octane%20Render%2C%20vivid%20but%20refined%20color%20palette%2C%20ultra-detailed%20fabric%20textures%20(satin%20sheen%2C%20lace%20transparency%2C%20stitching)%2C%20shallow%20depth%20of%20field%2C%20Vogue%20editorial%20style%2C%20filmic%20grain%2C%20professional%20fashion%20photography.%0A%0ANegative%20Prompt%20(recommended)%3A%0Ablurry%2C%20low-res%2C%20distorted%20anatomy%2C%20extra%20limbs%2C%20deformed%20hands%2C%20cartoon%2C%20anime%2C%20doll-like%2C%20plastic%20skin%2C%20overexposed%2C%20cluttered%20background%2C%20text%20errors%2C%20mismatched%20clothing%2C%20floating%20objects%2C%20unrealistic%20proportions.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%B8%AA%E5%9E%82%E7%9B%B4%E5%88%86%E5%B1%8F%E7%9A%84%E5%88%9B%E6%84%8F%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1%E6%9E%84%E5%9B%BE%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%E7%99%BD%E5%A2%99%E3%80%82%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%81%E9%80%BC%E7%9C%9F%E7%9A%84%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E5%93%81%E8%B4%A8%E3%80%82%0A%0A%E4%B8%8A%E5%8D%8A%E9%83%A8%E5%88%86%EF%BC%9A%E6%A0%87%E6%9C%AC%E7%9B%92%0A%E4%B8%8A%E5%8D%8A%E9%83%A8%E5%88%86%E5%B1%95%E7%A4%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%B2%BE%E8%87%B4%E7%9A%84%E6%B5%85%E6%A9%A1%E6%9C%A8%E9%98%B4%E5%BD%B1%E7%9B%92%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%AE%89%E8%A3%85%E5%9C%A8%E5%A2%99%E4%B8%8A%E3%80%82%E7%9B%92%E5%86%85%EF%BC%8C%E4%B8%80%E5%A5%97%E7%89%B9%E5%AE%9A%E7%9A%84%E6%9C%8D%E8%A3%85%E4%BB%A5%E8%89%BA%E6%9C%AF%E5%B9%B3%E9%93%BA%E7%9A%84%E5%8D%9A%E7%89%A9%E9%A6%86%E6%A0%87%E6%9C%AC%E5%BD%A2%E5%BC%8F%E5%B1%95%E7%A4%BA%EF%BC%9A%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22%E4%B8%80%E4%BB%B6%E5%85%89%E6%BB%91%E7%9A%84%E9%BB%91%E8%89%B2%E7%BC%8E%E9%9D%A2%E5%90%8A%E5%B8%A6%E8%A3%99%EF%BC%8C%E9%85%8D%E6%9C%89%E7%B2%BE%E8%87%B4%E7%9A%84%E8%95%BE%E4%B8%9D%E8%BE%B9%E5%92%8C%E7%BB%86%E5%90%8A%E5%B8%A6%22%7D%E3%80%82%E6%9C%8D%E8%A3%85%E6%95%B4%E9%BD%90%E5%9C%B0%E5%9B%BA%E5%AE%9A%E5%9C%A8%E5%8E%9F%E4%BD%8D%E3%80%82%E5%91%A8%E5%9B%B4%E7%8E%AF%E7%BB%95%E7%9D%80%E5%B0%8F%E5%B7%A7%E7%9A%84%E4%B8%BB%E9%A2%98%E8%A3%85%E9%A5%B0%E9%81%93%E5%85%B7%EF%BC%9A%7Bargument%20name%3D%22Props%22%20default%3D%22%E5%B9%B2%E7%8E%AB%E7%91%B0%E3%80%81%E5%A4%8D%E5%8F%A4%E9%A6%99%E6%B0%B4%E7%93%B6%E3%80%81%E4%B8%9D%E5%B8%A6%22%7D%E3%80%82%E5%93%91%E5%85%89%E7%BA%B8%E8%83%8C%E6%99%AF%E4%B8%8A%E4%BC%98%E9%9B%85%E7%9A%84%E4%B9%A6%E6%B3%95%E5%86%99%E7%9D%80%EF%BC%9A%7Bargument%20name%3D%22Text%22%20default%3D%22%E5%8D%88%E5%A4%9C%E4%BC%98%E9%9B%85%22%7D%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%91%84%E5%BD%B1%E6%A3%9A%E7%81%AF%E5%85%89%E7%AA%81%E5%87%BA%E4%BA%86%E9%9D%A2%E6%96%99%E4%B8%B0%E5%AF%8C%E7%9A%84%E8%B4%A8%E6%84%9F%E5%92%8C%E5%9E%82%E5%9D%A0%E6%84%9F%E3%80%82%0A%0A%E4%B8%8B%E5%8D%8A%E9%83%A8%E5%88%86%EF%BC%9A%E8%A3%B8%E7%9C%BC%203D%20%E7%8E%B0%E5%AE%9E%0A%E4%B8%8B%E5%8D%8A%E9%83%A8%E5%88%86%E8%90%A5%E9%80%A0%E5%87%BA%E8%B6%85%E9%80%BC%E7%9C%9F%E7%9A%84%E2%80%9C%E8%A3%B8%E7%9C%BC%203D%E2%80%9D%E5%B9%BB%E8%A7%89%E3%80%82%E4%B8%80%E4%B8%AA%E7%9F%A9%E5%BD%A2%E7%94%BB%E6%A1%86%E8%BE%B9%E6%A1%86%E7%9B%B4%E6%8E%A5%E4%BD%8D%E4%BA%8E%E4%B8%8A%E6%96%B9%E7%9B%92%E5%AD%90%E4%B8%8B%E6%96%B9%E3%80%82%E4%B8%80%E4%BD%8D%E4%BB%A4%E4%BA%BA%E6%83%8A%E8%89%B3%E7%9A%84%E9%80%BC%E7%9C%9F%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22%E4%B8%80%E4%BD%8D%E6%B2%89%E7%9D%80%E5%86%B7%E9%9D%99%E7%9A%84%E4%B8%9C%E4%BA%9A%E6%A8%A1%E7%89%B9%EF%BC%8C%E7%95%99%E7%9D%80%E9%95%BF%E9%95%BF%E7%9A%84%E6%B3%A2%E6%B5%AA%E9%BB%91%E5%8F%91%EF%BC%8C%E7%95%A5%E5%B8%A6%E7%83%9F%E7%86%8F%E5%A6%86%E7%9A%84%E7%9C%BC%E7%9D%9B%EF%BC%8C%E7%9C%BC%E7%A5%9E%E8%87%AA%E4%BF%A1%22%7D%20%E7%A9%BF%E7%9D%80%E4%B8%8E%E4%B8%8A%E6%96%B9%E5%B1%95%E7%A4%BA%E7%9A%84%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E6%9C%8D%E8%A3%85%E3%80%82%0A%0A%E5%A5%B9%E9%9A%8F%E6%84%8F%E5%9C%B0%E6%96%9C%E5%80%9A%E5%9C%A8%E7%94%BB%E6%A1%86%E7%9A%84%E4%B8%8B%E8%BE%B9%E7%BC%98%E2%80%94%E2%80%94%E4%B8%80%E6%9D%A1%E8%85%BF%E5%BC%AF%E6%9B%B2%EF%BC%8C%E8%84%9A%E6%94%BE%E5%9C%A8%E7%94%BB%E6%A1%86%E5%86%85%EF%BC%8C%E5%8F%A6%E4%B8%80%E6%9D%A1%E8%85%BF%E4%BC%98%E9%9B%85%E5%9C%B0%E6%82%AC%E5%9E%82%E5%9C%A8%E8%A7%82%E4%BC%97%E7%9A%84%E7%A9%BA%E9%97%B4%E4%B8%AD%E3%80%82%E5%A5%B9%E7%9A%84%E8%BA%AF%E5%B9%B2%E5%BE%AE%E5%BE%AE%E5%90%91%E5%90%8E%E5%80%BE%E6%96%9C%EF%BC%8C%E6%89%8B%E8%82%98%E9%9D%A0%E5%9C%A8%E6%8A%AC%E8%B5%B7%E7%9A%84%E8%86%9D%E7%9B%96%E4%B8%8A%EF%BC%8C%E6%89%8B%E6%8C%87%E8%BD%BB%E8%BD%BB%E6%8B%82%E8%BF%87%E9%94%81%E9%AA%A8%E9%99%84%E8%BF%91%E7%9A%84%E9%9D%A2%E6%96%99%E3%80%82%E5%A5%B9%E7%9A%84%E8%BA%AB%E4%BD%93%E5%BD%A2%E6%88%90%E6%9F%94%E5%92%8C%E3%80%81%E6%80%A7%E6%84%9F%E7%9A%84%20S%20%E5%BD%A2%E6%9B%B2%E7%BA%BF%EF%BC%8C%E7%AA%81%E5%87%BA%E4%BA%86%E6%9C%8D%E8%A3%85%E7%9A%84%E8%BD%AE%E5%BB%93%EF%BC%8C%E8%80%8C%E6%B2%A1%E6%9C%89%E8%BF%87%E5%BA%A6%E6%9A%B4%E9%9C%B2%E3%80%82%E5%A5%B9%E7%9B%B4%E8%A7%86%E9%95%9C%E5%A4%B4%EF%BC%8C%E5%B8%A6%E7%9D%80%E5%B9%B3%E9%9D%99%E3%80%81%E4%BA%86%E7%84%B6%E7%9A%84%E5%BE%AE%E7%AC%91%E2%80%94%E2%80%94%E6%97%A2%E8%AF%B1%E4%BA%BA%E5%8F%88%E7%A5%9E%E7%A7%98%E3%80%82%E8%BF%99%E7%A7%8D%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E3%80%81%E6%A0%A9%E6%A0%A9%E5%A6%82%E7%94%9F%E7%9A%84%E5%A7%BF%E5%8A%BF%E4%B8%8E%E4%B8%8A%E6%96%B9%E9%9D%99%E6%80%81%E7%9A%84%E6%A1%A3%E6%A1%88%E5%B1%95%E7%A4%BA%E5%BD%A2%E6%88%90%E5%BC%BA%E7%83%88%E5%AF%B9%E6%AF%94%EF%BC%8C%E5%9C%A8%E7%8E%B0%E5%AE%9E%E4%B8%8E%E5%91%88%E7%8E%B0%E4%B9%8B%E9%97%B4%E5%88%9B%E9%80%A0%E4%BA%86%E8%A7%86%E8%A7%89%E5%BC%A0%E5%8A%9B%E3%80%82%0A%0A%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC%EF%BC%9A%0A%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E9%98%B4%E5%BD%B1%EF%BC%8C%E7%8E%AF%E5%A2%83%E5%85%89%E9%81%AE%E8%94%BD%EF%BC%8C%E6%98%8E%E4%BA%AE%E9%80%9A%E9%80%8F%E8%80%8C%E5%AF%8C%E6%9C%89%E7%94%B5%E5%BD%B1%E6%84%9F%E7%9A%84%E7%81%AF%E5%85%89%EF%BC%8C8K%20%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%8COctane%20Render%EF%BC%8C%E9%B2%9C%E6%98%8E%E8%80%8C%E7%B2%BE%E8%87%B4%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF%EF%BC%8C%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E9%9D%A2%E6%96%99%E7%BA%B9%E7%90%86%EF%BC%88%E7%BC%8E%E9%9D%A2%E5%85%89%E6%B3%BD%E3%80%81%E8%95%BE%E4%B8%9D%E9%80%8F%E6%98%8E%E5%BA%A6%E3%80%81%E7%BC%9D%E7%BA%BF%EF%BC%89%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%EF%BC%8CVogue%20%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%94%B5%E5%BD%B1%E9%A2%97%E7%B2%92%E6%84%9F%EF%BC%8C%E4%B8%93%E4%B8%9A%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1%E3%80%82%0A%0A%E8%B4%9F%E9%9D%A2%E6%8F%90%E7%A4%BA%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89%EF%BC%9A%0A%E6%A8%A1%E7%B3%8A%EF%BC%8C%E4%BD%8E%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%8C%E8%A7%A3%E5%89%96%E7%BB%93%E6%9E%84%E6%89%AD%E6%9B%B2%EF%BC%8C%E5%A4%9A%E4%BD%99%E8%82%A2%E4%BD%93%EF%BC%8C%E6%89%8B%E9%83%A8%E7%95%B8%E5%BD%A2%EF%BC%8C%E5%8D%A1%E9%80%9A%EF%BC%8C%E5%8A%A8%E6%BC%AB%EF%BC%8C%E7%8E%A9%E5%81%B6%E8%88%AC%EF%BC%8C%E5%A1%91%E6%96%99%E7%9A%AE%E8%82%A4%EF%BC%8C%E8%BF%87%E5%BA%A6%E6%9B%9D%E5%85%89%EF%BC%8C%E6%9D%82%E4%B9%B1%E7%9A%84%E8%83%8C%E6%99%AF%EF%BC%8C%E6%96%87%E5%AD%97%E9%94%99%E8%AF%AF%EF%BC%8C%E6%9C%8D%E8%A3%85%E4%B8%8D%E5%8C%B9%E9%85%8D%EF%BC%8C%E6%BC%82%E6%B5%AE%E7%89%A9%E4%BD%93%EF%BC%8C%E4%B8%8D%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%AF%94%E4%BE%8B%E3%80%82)**
 
 ---
 
-### No. 4: Desert Ruins of Pure Math Grid
+### No. 4: 纯数学网格的沙漠遗迹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly specific prompt for generating a 2x2 grid of monumental desert ruins, where each ruin is constructed in the style of Cairo monumental stone and represents a major mathematical symbol (Integral, Sigma, Pi, Penrose Triangle).
+一个高度具体的提示，用于生成一个 2x2 网格的宏伟沙漠遗迹，其中每个遗迹都以开罗巨石风格建造，并代表一个主要的数学符号（积分符号、求和符号、圆周率符号、彭罗斯三角）。
 
 #### 📝 提示词
 
 ```
-Desert Ruins of Pure Math (Cairo-style monumental stone)
-A 2x2 grid of 4 monumental mathematical symbols built as ancient desert ruins in sandstone
-[Top Left: The Integral (∫) as a collapsed arch-aqueduct, wind-eroded blocks, carved microtext equations, tiny caravans for scale]
-[Top Right: The Sigma (Σ) as a stepped fortress-ziggurat with sharp terraces, long shadows, sand drifts collecting in corners]
-[Bottom Left: The Pi (π) as two colossal pylons and a lintel bridge over a narrow oasis canal, chipped stone, scattered rubble geometry]
-[Bottom Right: A Penrose Triangle as impossible ruins half-buried in dunes, optical illusion architecture, Escher perspective, sunlight slicing across paradox edges]
-Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, photoreal ruins texture, subtle river ribbon, swiss 2x2 grid layout.
+纯粹数学的沙漠遗迹（开罗风格的巨石）
+一个 2x2 的网格，由 4 个巨大的数学符号组成，以古老的沙漠遗迹形式用砂岩建造。
+[左上：积分符号（∫）呈坍塌的拱形渡槽状，风蚀的石块，雕刻的微型方程，小商队作为比例参照]
+[右上：西格玛符号（Σ）呈阶梯式堡垒金字形神塔状，带有锋利的梯田，长长的阴影，沙丘堆积在角落里]
+[左下：圆周率符号（π）呈两座巨大的塔门和一座横跨狭窄绿洲运河的门楣桥，石块残缺，散落的碎石几何形状]
+[右下：一个彭罗斯三角，作为不可能的遗迹，半埋在沙丘中，视错觉建筑，埃舍尔透视，阳光斜切过悖论边缘]
+鸟瞰斜视图，金色沙漠薄雾，清晰强烈的阳光，戏剧性的阴影，逼真的遗迹纹理，微妙的河流蜿蜒，瑞士 2x2 网格布局。
 ```
 
 #### 🖼️ 生成图片
@@ -244,13 +362,13 @@ Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="纯数学网格的沙漠遗迹 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="纯数学网格的沙漠遗迹 - Image 2">
 </div>
 
 #### 📌 详情
@@ -260,23 +378,23 @@ Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, 
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Desert%20Ruins%20of%20Pure%20Math%20(Cairo-style%20monumental%20stone)%0AA%202x2%20grid%20of%204%20monumental%20mathematical%20symbols%20built%20as%20ancient%20desert%20ruins%20in%20sandstone%0A%5BTop%20Left%3A%20The%20Integral%20(%E2%88%AB)%20as%20a%20collapsed%20arch-aqueduct%2C%20wind-eroded%20blocks%2C%20carved%20microtext%20equations%2C%20tiny%20caravans%20for%20scale%5D%0A%5BTop%20Right%3A%20The%20Sigma%20(%CE%A3)%20as%20a%20stepped%20fortress-ziggurat%20with%20sharp%20terraces%2C%20long%20shadows%2C%20sand%20drifts%20collecting%20in%20corners%5D%0A%5BBottom%20Left%3A%20The%20Pi%20(%CF%80)%20as%20two%20colossal%20pylons%20and%20a%20lintel%20bridge%20over%20a%20narrow%20oasis%20canal%2C%20chipped%20stone%2C%20scattered%20rubble%20geometry%5D%0A%5BBottom%20Right%3A%20A%20Penrose%20Triangle%20as%20impossible%20ruins%20half-buried%20in%20dunes%2C%20optical%20illusion%20architecture%2C%20Escher%20perspective%2C%20sunlight%20slicing%20across%20paradox%20edges%5D%0AAerial%20oblique%20view%2C%20golden%20desert%20haze%2C%20crisp%20hard%20sunlight%2C%20dramatic%20shadows%2C%20photoreal%20ruins%20texture%2C%20subtle%20river%20ribbon%2C%20swiss%202x2%20grid%20layout.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%BA%AF%E7%B2%B9%E6%95%B0%E5%AD%A6%E7%9A%84%E6%B2%99%E6%BC%A0%E9%81%97%E8%BF%B9%EF%BC%88%E5%BC%80%E7%BD%97%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%B7%A8%E7%9F%B3%EF%BC%89%0A%E4%B8%80%E4%B8%AA%202x2%20%E7%9A%84%E7%BD%91%E6%A0%BC%EF%BC%8C%E7%94%B1%204%20%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E7%BB%84%E6%88%90%EF%BC%8C%E4%BB%A5%E5%8F%A4%E8%80%81%E7%9A%84%E6%B2%99%E6%BC%A0%E9%81%97%E8%BF%B9%E5%BD%A2%E5%BC%8F%E7%94%A8%E7%A0%82%E5%B2%A9%E5%BB%BA%E9%80%A0%E3%80%82%0A%5B%E5%B7%A6%E4%B8%8A%EF%BC%9A%E7%A7%AF%E5%88%86%E7%AC%A6%E5%8F%B7%EF%BC%88%E2%88%AB%EF%BC%89%E5%91%88%E5%9D%8D%E5%A1%8C%E7%9A%84%E6%8B%B1%E5%BD%A2%E6%B8%A1%E6%A7%BD%E7%8A%B6%EF%BC%8C%E9%A3%8E%E8%9A%80%E7%9A%84%E7%9F%B3%E5%9D%97%EF%BC%8C%E9%9B%95%E5%88%BB%E7%9A%84%E5%BE%AE%E5%9E%8B%E6%96%B9%E7%A8%8B%EF%BC%8C%E5%B0%8F%E5%95%86%E9%98%9F%E4%BD%9C%E4%B8%BA%E6%AF%94%E4%BE%8B%E5%8F%82%E7%85%A7%5D%0A%5B%E5%8F%B3%E4%B8%8A%EF%BC%9A%E8%A5%BF%E6%A0%BC%E7%8E%9B%E7%AC%A6%E5%8F%B7%EF%BC%88%CE%A3%EF%BC%89%E5%91%88%E9%98%B6%E6%A2%AF%E5%BC%8F%E5%A0%A1%E5%9E%92%E9%87%91%E5%AD%97%E5%BD%A2%E7%A5%9E%E5%A1%94%E7%8A%B6%EF%BC%8C%E5%B8%A6%E6%9C%89%E9%94%8B%E5%88%A9%E7%9A%84%E6%A2%AF%E7%94%B0%EF%BC%8C%E9%95%BF%E9%95%BF%E7%9A%84%E9%98%B4%E5%BD%B1%EF%BC%8C%E6%B2%99%E4%B8%98%E5%A0%86%E7%A7%AF%E5%9C%A8%E8%A7%92%E8%90%BD%E9%87%8C%5D%0A%5B%E5%B7%A6%E4%B8%8B%EF%BC%9A%E5%9C%86%E5%91%A8%E7%8E%87%E7%AC%A6%E5%8F%B7%EF%BC%88%CF%80%EF%BC%89%E5%91%88%E4%B8%A4%E5%BA%A7%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%A1%94%E9%97%A8%E5%92%8C%E4%B8%80%E5%BA%A7%E6%A8%AA%E8%B7%A8%E7%8B%AD%E7%AA%84%E7%BB%BF%E6%B4%B2%E8%BF%90%E6%B2%B3%E7%9A%84%E9%97%A8%E6%A5%A3%E6%A1%A5%EF%BC%8C%E7%9F%B3%E5%9D%97%E6%AE%8B%E7%BC%BA%EF%BC%8C%E6%95%A3%E8%90%BD%E7%9A%84%E7%A2%8E%E7%9F%B3%E5%87%A0%E4%BD%95%E5%BD%A2%E7%8A%B6%5D%0A%5B%E5%8F%B3%E4%B8%8B%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%BD%AD%E7%BD%97%E6%96%AF%E4%B8%89%E8%A7%92%EF%BC%8C%E4%BD%9C%E4%B8%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E9%81%97%E8%BF%B9%EF%BC%8C%E5%8D%8A%E5%9F%8B%E5%9C%A8%E6%B2%99%E4%B8%98%E4%B8%AD%EF%BC%8C%E8%A7%86%E9%94%99%E8%A7%89%E5%BB%BA%E7%AD%91%EF%BC%8C%E5%9F%83%E8%88%8D%E5%B0%94%E9%80%8F%E8%A7%86%EF%BC%8C%E9%98%B3%E5%85%89%E6%96%9C%E5%88%87%E8%BF%87%E6%82%96%E8%AE%BA%E8%BE%B9%E7%BC%98%5D%0A%E9%B8%9F%E7%9E%B0%E6%96%9C%E8%A7%86%E5%9B%BE%EF%BC%8C%E9%87%91%E8%89%B2%E6%B2%99%E6%BC%A0%E8%96%84%E9%9B%BE%EF%BC%8C%E6%B8%85%E6%99%B0%E5%BC%BA%E7%83%88%E7%9A%84%E9%98%B3%E5%85%89%EF%BC%8C%E6%88%8F%E5%89%A7%E6%80%A7%E7%9A%84%E9%98%B4%E5%BD%B1%EF%BC%8C%E9%80%BC%E7%9C%9F%E7%9A%84%E9%81%97%E8%BF%B9%E7%BA%B9%E7%90%86%EF%BC%8C%E5%BE%AE%E5%A6%99%E7%9A%84%E6%B2%B3%E6%B5%81%E8%9C%BF%E8%9C%92%EF%BC%8C%E7%91%9E%E5%A3%AB%202x2%20%E7%BD%91%E6%A0%BC%E5%B8%83%E5%B1%80%E3%80%82)**
 
 ---
 
-### No. 5: Reasoning and Instruction Following Puzzle Prompt
+### No. 5: 推理与指令遵循谜题提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A complex prompt designed to test the model's reasoning and instruction-following capabilities by asking it to generate a visual puzzle: four related realistic objects on a table, a title text asking 'What do these objects have in common?', and very small, upside-down text at the bottom revealing the answer.
+一个复杂的提示，旨在通过要求模型生成一个视觉谜题来测试其推理和指令遵循能力：桌上有四个相关的逼真物体，一个标题文本写着“这些物体有什么共同点？”，以及底部非常小的倒置文本揭示答案。
 
 #### 📝 提示词
 
 ```
-"Show me 4 realistic objects on a table. The objects are related in some way, this is a puzzle. Add title text across the top, "{argument name="title text" default="What do these objects have in common?"}" And very small upside down text on the bottom which reveals the way in which they are related."
+在桌子上展示 4 个逼真的物体。这些物体以某种方式相关，这是一个谜题。在顶部添加标题文字，"{argument name="title text" default="这些物体有什么共同点？"}"。在底部添加非常小的倒置文字，揭示它们之间的关联方式。
 ```
 
 #### 🖼️ 生成图片
@@ -284,25 +402,25 @@ A complex prompt designed to test the model's reasoning and instruction-followin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="推理与指令遵循谜题提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="推理与指令遵循谜题提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="推理与指令遵循谜题提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="推理与指令遵循谜题提示 - Image 4">
 </div>
 
 #### 📌 详情
@@ -312,22 +430,22 @@ A complex prompt designed to test the model's reasoning and instruction-followin
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%22Show%20me%204%20realistic%20objects%20on%20a%20table.%20The%20objects%20are%20related%20in%20some%20way%2C%20this%20is%20a%20puzzle.%20Add%20title%20text%20across%20the%20top%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22What%20do%20these%20objects%20have%20in%20common%3F%22%7D%22%20And%20very%20small%20upside%20down%20text%20on%20the%20bottom%20which%20reveals%20the%20way%20in%20which%20they%20are%20related.%22)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%9C%A8%E6%A1%8C%E5%AD%90%E4%B8%8A%E5%B1%95%E7%A4%BA%204%20%E4%B8%AA%E9%80%BC%E7%9C%9F%E7%9A%84%E7%89%A9%E4%BD%93%E3%80%82%E8%BF%99%E4%BA%9B%E7%89%A9%E4%BD%93%E4%BB%A5%E6%9F%90%E7%A7%8D%E6%96%B9%E5%BC%8F%E7%9B%B8%E5%85%B3%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E8%B0%9C%E9%A2%98%E3%80%82%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%B7%BB%E5%8A%A0%E6%A0%87%E9%A2%98%E6%96%87%E5%AD%97%EF%BC%8C%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22%E8%BF%99%E4%BA%9B%E7%89%A9%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B1%E5%90%8C%E7%82%B9%EF%BC%9F%22%7D%22%E3%80%82%E5%9C%A8%E5%BA%95%E9%83%A8%E6%B7%BB%E5%8A%A0%E9%9D%9E%E5%B8%B8%E5%B0%8F%E7%9A%84%E5%80%92%E7%BD%AE%E6%96%87%E5%AD%97%EF%BC%8C%E6%8F%AD%E7%A4%BA%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E8%81%94%E6%96%B9%E5%BC%8F%E3%80%82)**
 
 ---
 
-### No. 6: Meta-Prompt: Create an Image Detailing its Own Creation Steps
+### No. 6: 元提示：创建一张详细描述其自身创建步骤的图像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A meta-prompt asking ChatGPT Image 1.5 to create an image that visually represents the very detailed steps the AI takes to generate that image, testing the model's ability to visualize its internal blueprint.
+一个元提示，要求 ChatGPT Image 1.5 创建一幅图像，该图像以视觉方式呈现 AI 生成该图像所采取的非常详细的步骤，以此测试模型可视化其内部蓝图的能力。
 
 #### 📝 提示词
 
 ```
-Create an image about the very detailed steps you create to create the image.
+创作一张关于你如何创作这张图片的详细步骤的图片。
 ```
 
 #### 🖼️ 生成图片
@@ -335,7 +453,7 @@ Create an image about the very detailed steps you create to create the image.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-Prompt: Create an Image Detailing its Own Creation Steps - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="元提示：创建一张详细描述其自身创建步骤的图像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -345,22 +463,22 @@ Create an image about the very detailed steps you create to create the image.
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Create%20an%20image%20about%20the%20very%20detailed%20steps%20you%20create%20to%20create%20the%20image.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E5%85%B3%E4%BA%8E%E4%BD%A0%E5%A6%82%E4%BD%95%E5%88%9B%E4%BD%9C%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%89%87%E7%9A%84%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4%E7%9A%84%E5%9B%BE%E7%89%87%E3%80%82)**
 
 ---
 
-### No. 7: Anime Christmas Elf Cross-Stitch
+### No. 7: 动漫圣诞精灵十字绣
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating an image of a cross-stitch design featuring a Christmas elf in anime style working at a guitar store, complete with a festive border.
+生成一张动漫风格的十字绣设计图的提示词，图中描绘了一个圣诞小精灵在吉他店工作，并配有节日边框。
 
 #### 📝 提示词
 
 ```
-a cross-stitch of a christmas elf - anime style. the elf is working at a guitar store, guitars hang on the wall. the cross stitch has a christmas border with mistletoe and christmas decorations.
+一幅圣诞精灵的十字绣画作，动漫风格。精灵在一家吉他店工作，墙上挂着吉他。十字绣的边框是圣诞主题的，有槲寄生和圣诞装饰。
 ```
 
 #### 🖼️ 生成图片
@@ -368,13 +486,13 @@ a cross-stitch of a christmas elf - anime style. the elf is working at a guitar 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="动漫圣诞精灵十字绣 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="动漫圣诞精灵十字绣 - Image 2">
 </div>
 
 #### 📌 详情
@@ -384,22 +502,22 @@ a cross-stitch of a christmas elf - anime style. the elf is working at a guitar 
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=a%20cross-stitch%20of%20a%20christmas%20elf%20-%20anime%20style.%20the%20elf%20is%20working%20at%20a%20guitar%20store%2C%20guitars%20hang%20on%20the%20wall.%20the%20cross%20stitch%20has%20a%20christmas%20border%20with%20mistletoe%20and%20christmas%20decorations.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%B9%85%E5%9C%A3%E8%AF%9E%E7%B2%BE%E7%81%B5%E7%9A%84%E5%8D%81%E5%AD%97%E7%BB%A3%E7%94%BB%E4%BD%9C%EF%BC%8C%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E3%80%82%E7%B2%BE%E7%81%B5%E5%9C%A8%E4%B8%80%E5%AE%B6%E5%90%89%E4%BB%96%E5%BA%97%E5%B7%A5%E4%BD%9C%EF%BC%8C%E5%A2%99%E4%B8%8A%E6%8C%82%E7%9D%80%E5%90%89%E4%BB%96%E3%80%82%E5%8D%81%E5%AD%97%E7%BB%A3%E7%9A%84%E8%BE%B9%E6%A1%86%E6%98%AF%E5%9C%A3%E8%AF%9E%E4%B8%BB%E9%A2%98%E7%9A%84%EF%BC%8C%E6%9C%89%E6%A7%B2%E5%AF%84%E7%94%9F%E5%92%8C%E5%9C%A3%E8%AF%9E%E8%A3%85%E9%A5%B0%E3%80%82)**
 
 ---
 
-### No. 8: Moody Cinematic Portrait with Motion Blur and Directional Lighting
+### No. 8: 电影感人像：动态模糊与定向照明
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly specific prompt for generating a moody, cinematic portrait of a young male model. It details the lighting (harsh directional light from the left), pose (clutching collar, tense jawline), and a complex motion blur effect slicing horizontally across the face, aiming for a stylized editorial tone with film grain.
+这是一个高度具体的提示，用于生成一张情绪化、电影感的年轻男性模特肖像。它详细描述了光线（左侧刺眼的定向光）、姿势（紧抓衣领，下颌线条紧绷），以及一种复杂的、水平穿过脸部的运动模糊效果，旨在营造一种带有胶片颗粒的风格化杂志社论基调。
 
 #### 📝 提示词
 
 ```
-Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+生成一张情绪化电影风格的肖像照：一位年轻的男模特，皮肤白皙，头发柔软卷曲，身着修身黑色西装，内搭深色衬衫，站在黑色背景前。左侧有强烈定向光线，投射出深邃的阴影。模特直视前方，眼神锐利，下颌紧绷，一只手抓住衣领靠近脖颈处。画面中，一道运动模糊效果从左到右水平划过脸部，融合了柔和的琥珀色和米色光线。静止区域与模糊区域形成鲜明对比，整体呈现风格化的编辑调性，带有细微的胶片颗粒和柔和的衰减效果，没有数字化的平滑或塑料感，皮肤纹理和阴影保持完整，表情充满情感张力，头发周围有光晕，背景细节极少。
 ```
 
 #### 🖼️ 生成图片
@@ -407,13 +525,13 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="电影感人像：动态模糊与定向照明 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="电影感人像：动态模糊与定向照明 - Image 2">
 </div>
 
 #### 📌 详情
@@ -423,22 +541,22 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E6%83%85%E7%BB%AA%E5%8C%96%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%82%96%E5%83%8F%E7%85%A7%EF%BC%9A%E4%B8%80%E4%BD%8D%E5%B9%B4%E8%BD%BB%E7%9A%84%E7%94%B7%E6%A8%A1%E7%89%B9%EF%BC%8C%E7%9A%AE%E8%82%A4%E7%99%BD%E7%9A%99%EF%BC%8C%E5%A4%B4%E5%8F%91%E6%9F%94%E8%BD%AF%E5%8D%B7%E6%9B%B2%EF%BC%8C%E8%BA%AB%E7%9D%80%E4%BF%AE%E8%BA%AB%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%EF%BC%8C%E5%86%85%E6%90%AD%E6%B7%B1%E8%89%B2%E8%A1%AC%E8%A1%AB%EF%BC%8C%E7%AB%99%E5%9C%A8%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF%E5%89%8D%E3%80%82%E5%B7%A6%E4%BE%A7%E6%9C%89%E5%BC%BA%E7%83%88%E5%AE%9A%E5%90%91%E5%85%89%E7%BA%BF%EF%BC%8C%E6%8A%95%E5%B0%84%E5%87%BA%E6%B7%B1%E9%82%83%E7%9A%84%E9%98%B4%E5%BD%B1%E3%80%82%E6%A8%A1%E7%89%B9%E7%9B%B4%E8%A7%86%E5%89%8D%E6%96%B9%EF%BC%8C%E7%9C%BC%E7%A5%9E%E9%94%90%E5%88%A9%EF%BC%8C%E4%B8%8B%E9%A2%8C%E7%B4%A7%E7%BB%B7%EF%BC%8C%E4%B8%80%E5%8F%AA%E6%89%8B%E6%8A%93%E4%BD%8F%E8%A1%A3%E9%A2%86%E9%9D%A0%E8%BF%91%E8%84%96%E9%A2%88%E5%A4%84%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%EF%BC%8C%E4%B8%80%E9%81%93%E8%BF%90%E5%8A%A8%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C%E4%BB%8E%E5%B7%A6%E5%88%B0%E5%8F%B3%E6%B0%B4%E5%B9%B3%E5%88%92%E8%BF%87%E8%84%B8%E9%83%A8%EF%BC%8C%E8%9E%8D%E5%90%88%E4%BA%86%E6%9F%94%E5%92%8C%E7%9A%84%E7%90%A5%E7%8F%80%E8%89%B2%E5%92%8C%E7%B1%B3%E8%89%B2%E5%85%89%E7%BA%BF%E3%80%82%E9%9D%99%E6%AD%A2%E5%8C%BA%E5%9F%9F%E4%B8%8E%E6%A8%A1%E7%B3%8A%E5%8C%BA%E5%9F%9F%E5%BD%A2%E6%88%90%E9%B2%9C%E6%98%8E%E5%AF%B9%E6%AF%94%EF%BC%8C%E6%95%B4%E4%BD%93%E5%91%88%E7%8E%B0%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E7%BC%96%E8%BE%91%E8%B0%83%E6%80%A7%EF%BC%8C%E5%B8%A6%E6%9C%89%E7%BB%86%E5%BE%AE%E7%9A%84%E8%83%B6%E7%89%87%E9%A2%97%E7%B2%92%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%A1%B0%E5%87%8F%E6%95%88%E6%9E%9C%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%95%B0%E5%AD%97%E5%8C%96%E7%9A%84%E5%B9%B3%E6%BB%91%E6%88%96%E5%A1%91%E6%96%99%E6%84%9F%EF%BC%8C%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E5%92%8C%E9%98%B4%E5%BD%B1%E4%BF%9D%E6%8C%81%E5%AE%8C%E6%95%B4%EF%BC%8C%E8%A1%A8%E6%83%85%E5%85%85%E6%BB%A1%E6%83%85%E6%84%9F%E5%BC%A0%E5%8A%9B%EF%BC%8C%E5%A4%B4%E5%8F%91%E5%91%A8%E5%9B%B4%E6%9C%89%E5%85%89%E6%99%95%EF%BC%8C%E8%83%8C%E6%99%AF%E7%BB%86%E8%8A%82%E6%9E%81%E5%B0%91%E3%80%82)**
 
 ---
 
-### No. 9: Portrait grid with varied facial expressions
+### No. 9: 带有不同面部表情的肖像网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt designed for GPT-Image 1.5 to create a 3x3 grid of portraits based on an uploaded photo. It requires maintaining the subject's exact likeness while generating nine different facial expressions, presented with a clean, modern aesthetic, soft lighting, and pastel backgrounds.
+这是一个为 GPT-Image 1.5 设计的提示词，用于根据上传的照片创建 3x3 的肖像网格。它要求在生成九种不同面部表情的同时，保持主体形象的精确相似度，并以简洁、现代的美学、柔和的灯光和柔和的背景呈现。
 
 #### 📝 提示词
 
 ```
-Starting with the uploaded photo as a base reference, create a clean and modern portrait grid featuring the same person with several different facial expressions and moods. Arrange the images in a neat 3×3 layout with rounded corners and soft pastel backgrounds. Each portrait should retain the same facial features, hairstyle, and realism, changing only the expression and subtle style. Include expressions such as: natural smile, joyful laugh, calm with eyes closed, neutral and serious gaze, pensive pose with hand on chin, confident and composed expression, sad or disappointed mood, mischievous pout, and surprised reaction with wide eyes. Use soft studio lighting, highly detailed skin texture, shallow depth of field, minimal variations in wardrobe, consistent color palette, ultra-realistic editorial portrait style, high resolution, and clean aesthetics.
+以上传的照片为基础参考，创建一个干净、现代的肖像网格，其中包含同一个人不同面部表情和情绪的肖像。将图像以整齐的 3×3 布局排列，并带有圆角和柔和的蜡笔色背景。每张肖像都应保留相同的面部特征、发型和真实感，只改变表情和细微的风格。表情包括：自然微笑、开心的笑、闭眼平静、中性严肃的凝视、手托下巴沉思的姿势、自信沉着的表情、悲伤或失望的情绪、顽皮的撅嘴，以及睁大眼睛的惊讶反应。使用柔和的影棚灯光、高度细致的皮肤纹理、浅景深、服装变化最小化、一致的调色板、超现实的编辑肖像风格、高分辨率和简洁的美学。
 ```
 
 #### 🖼️ 生成图片
@@ -446,13 +564,13 @@ Starting with the uploaded photo as a base reference, create a clean and modern 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="带有不同面部表情的肖像网格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="带有不同面部表情的肖像网格 - Image 2">
 </div>
 
 #### 📌 详情
@@ -462,27 +580,26 @@ Starting with the uploaded photo as a base reference, create a clean and modern 
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Starting%20with%20the%20uploaded%20photo%20as%20a%20base%20reference%2C%20create%20a%20clean%20and%20modern%20portrait%20grid%20featuring%20the%20same%20person%20with%20several%20different%20facial%20expressions%20and%20moods.%20Arrange%20the%20images%20in%20a%20neat%203%C3%973%20layout%20with%20rounded%20corners%20and%20soft%20pastel%20backgrounds.%20Each%20portrait%20should%20retain%20the%20same%20facial%20features%2C%20hairstyle%2C%20and%20realism%2C%20changing%20only%20the%20expression%20and%20subtle%20style.%20Include%20expressions%20such%20as%3A%20natural%20smile%2C%20joyful%20laugh%2C%20calm%20with%20eyes%20closed%2C%20neutral%20and%20serious%20gaze%2C%20pensive%20pose%20with%20hand%20on%20chin%2C%20confident%20and%20composed%20expression%2C%20sad%20or%20disappointed%20mood%2C%20mischievous%20pout%2C%20and%20surprised%20reaction%20with%20wide%20eyes.%20Use%20soft%20studio%20lighting%2C%20highly%20detailed%20skin%20texture%2C%20shallow%20depth%20of%20field%2C%20minimal%20variations%20in%20wardrobe%2C%20consistent%20color%20palette%2C%20ultra-realistic%20editorial%20portrait%20style%2C%20high%20resolution%2C%20and%20clean%20aesthetics.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%BB%A5%E4%B8%8A%E4%BC%A0%E7%9A%84%E7%85%A7%E7%89%87%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8F%82%E8%80%83%EF%BC%8C%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%B9%B2%E5%87%80%E3%80%81%E7%8E%B0%E4%BB%A3%E7%9A%84%E8%82%96%E5%83%8F%E7%BD%91%E6%A0%BC%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E5%90%AB%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E5%90%8C%E9%9D%A2%E9%83%A8%E8%A1%A8%E6%83%85%E5%92%8C%E6%83%85%E7%BB%AA%E7%9A%84%E8%82%96%E5%83%8F%E3%80%82%E5%B0%86%E5%9B%BE%E5%83%8F%E4%BB%A5%E6%95%B4%E9%BD%90%E7%9A%84%203%C3%973%20%E5%B8%83%E5%B1%80%E6%8E%92%E5%88%97%EF%BC%8C%E5%B9%B6%E5%B8%A6%E6%9C%89%E5%9C%86%E8%A7%92%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%9C%A1%E7%AC%94%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E6%AF%8F%E5%BC%A0%E8%82%96%E5%83%8F%E9%83%BD%E5%BA%94%E4%BF%9D%E7%95%99%E7%9B%B8%E5%90%8C%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%81%E5%8F%91%E5%9E%8B%E5%92%8C%E7%9C%9F%E5%AE%9E%E6%84%9F%EF%BC%8C%E5%8F%AA%E6%94%B9%E5%8F%98%E8%A1%A8%E6%83%85%E5%92%8C%E7%BB%86%E5%BE%AE%E7%9A%84%E9%A3%8E%E6%A0%BC%E3%80%82%E8%A1%A8%E6%83%85%E5%8C%85%E6%8B%AC%EF%BC%9A%E8%87%AA%E7%84%B6%E5%BE%AE%E7%AC%91%E3%80%81%E5%BC%80%E5%BF%83%E7%9A%84%E7%AC%91%E3%80%81%E9%97%AD%E7%9C%BC%E5%B9%B3%E9%9D%99%E3%80%81%E4%B8%AD%E6%80%A7%E4%B8%A5%E8%82%83%E7%9A%84%E5%87%9D%E8%A7%86%E3%80%81%E6%89%8B%E6%89%98%E4%B8%8B%E5%B7%B4%E6%B2%89%E6%80%9D%E7%9A%84%E5%A7%BF%E5%8A%BF%E3%80%81%E8%87%AA%E4%BF%A1%E6%B2%89%E7%9D%80%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%81%E6%82%B2%E4%BC%A4%E6%88%96%E5%A4%B1%E6%9C%9B%E7%9A%84%E6%83%85%E7%BB%AA%E3%80%81%E9%A1%BD%E7%9A%AE%E7%9A%84%E6%92%85%E5%98%B4%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%9D%81%E5%A4%A7%E7%9C%BC%E7%9D%9B%E7%9A%84%E6%83%8A%E8%AE%B6%E5%8F%8D%E5%BA%94%E3%80%82%E4%BD%BF%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E5%BD%B1%E6%A3%9A%E7%81%AF%E5%85%89%E3%80%81%E9%AB%98%E5%BA%A6%E7%BB%86%E8%87%B4%E7%9A%84%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E3%80%81%E6%B5%85%E6%99%AF%E6%B7%B1%E3%80%81%E6%9C%8D%E8%A3%85%E5%8F%98%E5%8C%96%E6%9C%80%E5%B0%8F%E5%8C%96%E3%80%81%E4%B8%80%E8%87%B4%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF%E3%80%81%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%9A%84%E7%BC%96%E8%BE%91%E8%82%96%E5%83%8F%E9%A3%8E%E6%A0%BC%E3%80%81%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%92%8C%E7%AE%80%E6%B4%81%E7%9A%84%E7%BE%8E%E5%AD%A6%E3%80%82)**
 
 ---
 
-### No. 10: Hyper-Realistic Cinematic Action Scene from Reference Image
+### No. 10: 根据参考图像创作超逼真电影动作场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for transforming a subject from an uploaded reference image into a hyper-realistic cinematic action scene. The subject is depicted leaping from a glowing, neon-swirling dimensional portal onto a wet city crosswalk, emphasizing dynamic motion, dramatic lighting, and preserving the subject's exact likeness and features.
+一个详细的提示，用于将上传参考图像中的主体转换为超现实的电影级动作场景。主体从一个发光的、霓虹灯漩涡般的维度传送门跃出，落到潮湿的城市人行横道上，强调动态运动、戏剧性照明，并保留主体的精确肖像和特征。
 
 #### 📝 提示词
 
 ```
-Using the uploaded image as the primary visual reference, transform the subject into a hyper-realistic cinematic action scene. The man is leaping forward onto a city crosswalk while emerging from a glowing circular dimensional portal behind him. The portal emits intense swirling neon energy in electric {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"}, and {argument name="portal color 3" default="magenta"}, with sparks, lightning arcs, particle debris, and visible energy-distortion effects in the air.
+以上传的图片作为主要视觉参考，将主体转换为超现实的电影动作场景。该男子从身后发光的圆形维度传送门中跃出，跳向城市人行横道。传送门发出强烈的、旋转的霓虹能量，颜色为电光蓝、紫罗兰和洋红色，伴随着火花、电弧、粒子碎片以及空气中可见的能量扭曲效果。
 
-The subject is captured mid-motion in a powerful running leap, expression focused and intense. His original clothing from the reference image is naturally adapted for dynamic motion, with realistic fabric flow, folds, and physics, without changing his identity. Footwear and outfit subtly reflect the neon portal light. Preserve the subject’s original facial structure, skin texture, hairstyle, beard (if present), and body proportions exactly as in the reference image.
+主体被捕捉在强大的奔跑跳跃的半空中，表情专注而紧张。他参考图片中的原始服装自然地适应了动态运动，具有逼真的织物流动、褶皱和物理效果，同时不改变他的身份。鞋子和服装微妙地反射出霓虹传送门的光芒。精确保留主体的原始面部结构、皮肤纹理、发型、胡须（如果存在）和身体比例，与参考图片中一致。
 
-The environment is a modern urban city street with cinematic perspective. The background is slightly motion-blurred to emphasize speed and action. The road surface appears wet, showing subtle reflections of the glowing portal and neon light streaks. Dramatic cinematic lighting, volumetric light rays, shallow depth of field, ultra-sharp details, high contrast, realistic physics, sci-fi atmosphere, professional action-movie poster composition, cinematic color grading, ultra-high resolution, 8K quality.
+环境是现代都市街道，具有电影般的透视感。背景略微运动模糊，以强调速度和动作。路面看起来湿润，显示出对发光传送门和霓虹光条的微妙反射。戏剧性的电影照明、体积光线、浅景深、超清晰细节、高对比度、逼真的物理效果、科幻氛围、专业的动作电影海报构图、电影色彩分级、超高分辨率、8K 画质。
 ```
 
 #### 🖼️ 生成图片
@@ -490,13 +607,13 @@ The environment is a modern urban city street with cinematic perspective. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="根据参考图像创作超逼真电影动作场景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="根据参考图像创作超逼真电影动作场景 - Image 2">
 </div>
 
 #### 📌 详情
@@ -506,22 +623,22 @@ The environment is a modern urban city street with cinematic perspective. The ba
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Using%20the%20uploaded%20image%20as%20the%20primary%20visual%20reference%2C%20transform%20the%20subject%20into%20a%20hyper-realistic%20cinematic%20action%20scene.%20The%20man%20is%20leaping%20forward%20onto%20a%20city%20crosswalk%20while%20emerging%20from%20a%20glowing%20circular%20dimensional%20portal%20behind%20him.%20The%20portal%20emits%20intense%20swirling%20neon%20energy%20in%20electric%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%2C%20and%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%2C%20with%20sparks%2C%20lightning%20arcs%2C%20particle%20debris%2C%20and%20visible%20energy-distortion%20effects%20in%20the%20air.%0A%0AThe%20subject%20is%20captured%20mid-motion%20in%20a%20powerful%20running%20leap%2C%20expression%20focused%20and%20intense.%20His%20original%20clothing%20from%20the%20reference%20image%20is%20naturally%20adapted%20for%20dynamic%20motion%2C%20with%20realistic%20fabric%20flow%2C%20folds%2C%20and%20physics%2C%20without%20changing%20his%20identity.%20Footwear%20and%20outfit%20subtly%20reflect%20the%20neon%20portal%20light.%20Preserve%20the%20subject%E2%80%99s%20original%20facial%20structure%2C%20skin%20texture%2C%20hairstyle%2C%20beard%20(if%20present)%2C%20and%20body%20proportions%20exactly%20as%20in%20the%20reference%20image.%0A%0AThe%20environment%20is%20a%20modern%20urban%20city%20street%20with%20cinematic%20perspective.%20The%20background%20is%20slightly%20motion-blurred%20to%20emphasize%20speed%20and%20action.%20The%20road%20surface%20appears%20wet%2C%20showing%20subtle%20reflections%20of%20the%20glowing%20portal%20and%20neon%20light%20streaks.%20Dramatic%20cinematic%20lighting%2C%20volumetric%20light%20rays%2C%20shallow%20depth%20of%20field%2C%20ultra-sharp%20details%2C%20high%20contrast%2C%20realistic%20physics%2C%20sci-fi%20atmosphere%2C%20professional%20action-movie%20poster%20composition%2C%20cinematic%20color%20grading%2C%20ultra-high%20resolution%2C%208K%20quality.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%BB%A5%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E8%A6%81%E8%A7%86%E8%A7%89%E5%8F%82%E8%80%83%EF%BC%8C%E5%B0%86%E4%B8%BB%E4%BD%93%E8%BD%AC%E6%8D%A2%E4%B8%BA%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%9A%84%E7%94%B5%E5%BD%B1%E5%8A%A8%E4%BD%9C%E5%9C%BA%E6%99%AF%E3%80%82%E8%AF%A5%E7%94%B7%E5%AD%90%E4%BB%8E%E8%BA%AB%E5%90%8E%E5%8F%91%E5%85%89%E7%9A%84%E5%9C%86%E5%BD%A2%E7%BB%B4%E5%BA%A6%E4%BC%A0%E9%80%81%E9%97%A8%E4%B8%AD%E8%B7%83%E5%87%BA%EF%BC%8C%E8%B7%B3%E5%90%91%E5%9F%8E%E5%B8%82%E4%BA%BA%E8%A1%8C%E6%A8%AA%E9%81%93%E3%80%82%E4%BC%A0%E9%80%81%E9%97%A8%E5%8F%91%E5%87%BA%E5%BC%BA%E7%83%88%E7%9A%84%E3%80%81%E6%97%8B%E8%BD%AC%E7%9A%84%E9%9C%93%E8%99%B9%E8%83%BD%E9%87%8F%EF%BC%8C%E9%A2%9C%E8%89%B2%E4%B8%BA%E7%94%B5%E5%85%89%E8%93%9D%E3%80%81%E7%B4%AB%E7%BD%97%E5%85%B0%E5%92%8C%E6%B4%8B%E7%BA%A2%E8%89%B2%EF%BC%8C%E4%BC%B4%E9%9A%8F%E7%9D%80%E7%81%AB%E8%8A%B1%E3%80%81%E7%94%B5%E5%BC%A7%E3%80%81%E7%B2%92%E5%AD%90%E7%A2%8E%E7%89%87%E4%BB%A5%E5%8F%8A%E7%A9%BA%E6%B0%94%E4%B8%AD%E5%8F%AF%E8%A7%81%E7%9A%84%E8%83%BD%E9%87%8F%E6%89%AD%E6%9B%B2%E6%95%88%E6%9E%9C%E3%80%82%0A%0A%E4%B8%BB%E4%BD%93%E8%A2%AB%E6%8D%95%E6%8D%89%E5%9C%A8%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A5%94%E8%B7%91%E8%B7%B3%E8%B7%83%E7%9A%84%E5%8D%8A%E7%A9%BA%E4%B8%AD%EF%BC%8C%E8%A1%A8%E6%83%85%E4%B8%93%E6%B3%A8%E8%80%8C%E7%B4%A7%E5%BC%A0%E3%80%82%E4%BB%96%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%9C%8D%E8%A3%85%E8%87%AA%E7%84%B6%E5%9C%B0%E9%80%82%E5%BA%94%E4%BA%86%E5%8A%A8%E6%80%81%E8%BF%90%E5%8A%A8%EF%BC%8C%E5%85%B7%E6%9C%89%E9%80%BC%E7%9C%9F%E7%9A%84%E7%BB%87%E7%89%A9%E6%B5%81%E5%8A%A8%E3%80%81%E8%A4%B6%E7%9A%B1%E5%92%8C%E7%89%A9%E7%90%86%E6%95%88%E6%9E%9C%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B8%8D%E6%94%B9%E5%8F%98%E4%BB%96%E7%9A%84%E8%BA%AB%E4%BB%BD%E3%80%82%E9%9E%8B%E5%AD%90%E5%92%8C%E6%9C%8D%E8%A3%85%E5%BE%AE%E5%A6%99%E5%9C%B0%E5%8F%8D%E5%B0%84%E5%87%BA%E9%9C%93%E8%99%B9%E4%BC%A0%E9%80%81%E9%97%A8%E7%9A%84%E5%85%89%E8%8A%92%E3%80%82%E7%B2%BE%E7%A1%AE%E4%BF%9D%E7%95%99%E4%B8%BB%E4%BD%93%E7%9A%84%E5%8E%9F%E5%A7%8B%E9%9D%A2%E9%83%A8%E7%BB%93%E6%9E%84%E3%80%81%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E3%80%81%E5%8F%91%E5%9E%8B%E3%80%81%E8%83%A1%E9%A1%BB%EF%BC%88%E5%A6%82%E6%9E%9C%E5%AD%98%E5%9C%A8%EF%BC%89%E5%92%8C%E8%BA%AB%E4%BD%93%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%B8%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E4%B8%80%E8%87%B4%E3%80%82%0A%0A%E7%8E%AF%E5%A2%83%E6%98%AF%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82%E8%A1%97%E9%81%93%EF%BC%8C%E5%85%B7%E6%9C%89%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E9%80%8F%E8%A7%86%E6%84%9F%E3%80%82%E8%83%8C%E6%99%AF%E7%95%A5%E5%BE%AE%E8%BF%90%E5%8A%A8%E6%A8%A1%E7%B3%8A%EF%BC%8C%E4%BB%A5%E5%BC%BA%E8%B0%83%E9%80%9F%E5%BA%A6%E5%92%8C%E5%8A%A8%E4%BD%9C%E3%80%82%E8%B7%AF%E9%9D%A2%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%B9%BF%E6%B6%A6%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%87%BA%E5%AF%B9%E5%8F%91%E5%85%89%E4%BC%A0%E9%80%81%E9%97%A8%E5%92%8C%E9%9C%93%E8%99%B9%E5%85%89%E6%9D%A1%E7%9A%84%E5%BE%AE%E5%A6%99%E5%8F%8D%E5%B0%84%E3%80%82%E6%88%8F%E5%89%A7%E6%80%A7%E7%9A%84%E7%94%B5%E5%BD%B1%E7%85%A7%E6%98%8E%E3%80%81%E4%BD%93%E7%A7%AF%E5%85%89%E7%BA%BF%E3%80%81%E6%B5%85%E6%99%AF%E6%B7%B1%E3%80%81%E8%B6%85%E6%B8%85%E6%99%B0%E7%BB%86%E8%8A%82%E3%80%81%E9%AB%98%E5%AF%B9%E6%AF%94%E5%BA%A6%E3%80%81%E9%80%BC%E7%9C%9F%E7%9A%84%E7%89%A9%E7%90%86%E6%95%88%E6%9E%9C%E3%80%81%E7%A7%91%E5%B9%BB%E6%B0%9B%E5%9B%B4%E3%80%81%E4%B8%93%E4%B8%9A%E7%9A%84%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E6%9E%84%E5%9B%BE%E3%80%81%E7%94%B5%E5%BD%B1%E8%89%B2%E5%BD%A9%E5%88%86%E7%BA%A7%E3%80%81%E8%B6%85%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%818K%20%E7%94%BB%E8%B4%A8%E3%80%82)**
 
 ---
 
-### No. 11: Underwater Product Photoshoot with Caustic Light
+### No. 11: 水下产品拍摄与焦散光效
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt designed for product photography, generating an ultra-high-resolution image of a reference object fully submerged in crystal-clear turquoise water, focusing on intricate caustic light patterns and ethereal elegance.
+一个专为产品摄影设计的提示，用于生成参考物体完全浸没在清澈碧绿水中的超高分辨率图像，重点突出精细的焦散光图案和空灵的优雅感。
 
 #### 📝 提示词
 
 ```
-[Reference Image] fully submerged in crystal-clear, turquoise water, captured in ultra-high-resolution underwater photography. Sunlight penetrates the surface above, creating intricate caustic light patterns that ripple and dance across the subject and surrounding water. The scene conveys pristine clarity with zero particulate matter, emphasizing a sense of suspended weightlessness and serene motion. Fine details are frozen using high-speed capture, with subtle bubbles and flowing fabric or hair enhancing the feeling of aquatic elegance. The overall aesthetic is clean, refreshing, and ethereal, with soft natural color grading, high dynamic range, and cinematic realism.
+[参考图片] 完全浸没在晶莹剔透的碧绿水中，通过超高分辨率水下摄影捕捉。阳光穿透水面，在主体和周围水域上形成复杂的光线焦散图案，波光粼粼，舞动不已。场景展现出原始的清晰度，没有丝毫颗粒物，强调了一种悬浮失重和宁静的动态感。高速捕捉技术凝固了精微的细节，细小的气泡和飘逸的织物或头发增强了水下优雅的感觉。整体美学是纯净、清爽和空灵的，具有柔和的自然色彩分级、高动态范围和电影般的真实感。
 ```
 
 #### 🖼️ 生成图片
@@ -529,13 +646,13 @@ A prompt designed for product photography, generating an ultra-high-resolution i
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="水下产品拍摄与焦散光效 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="水下产品拍摄与焦散光效 - Image 2">
 </div>
 
 #### 📌 详情
@@ -545,23 +662,23 @@ A prompt designed for product photography, generating an ultra-high-resolution i
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%5BReference%20Image%5D%20fully%20submerged%20in%20crystal-clear%2C%20turquoise%20water%2C%20captured%20in%20ultra-high-resolution%20underwater%20photography.%20Sunlight%20penetrates%20the%20surface%20above%2C%20creating%20intricate%20caustic%20light%20patterns%20that%20ripple%20and%20dance%20across%20the%20subject%20and%20surrounding%20water.%20The%20scene%20conveys%20pristine%20clarity%20with%20zero%20particulate%20matter%2C%20emphasizing%20a%20sense%20of%20suspended%20weightlessness%20and%20serene%20motion.%20Fine%20details%20are%20frozen%20using%20high-speed%20capture%2C%20with%20subtle%20bubbles%20and%20flowing%20fabric%20or%20hair%20enhancing%20the%20feeling%20of%20aquatic%20elegance.%20The%20overall%20aesthetic%20is%20clean%2C%20refreshing%2C%20and%20ethereal%2C%20with%20soft%20natural%20color%20grading%2C%20high%20dynamic%20range%2C%20and%20cinematic%20realism.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%5B%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%5D%20%E5%AE%8C%E5%85%A8%E6%B5%B8%E6%B2%A1%E5%9C%A8%E6%99%B6%E8%8E%B9%E5%89%94%E9%80%8F%E7%9A%84%E7%A2%A7%E7%BB%BF%E6%B0%B4%E4%B8%AD%EF%BC%8C%E9%80%9A%E8%BF%87%E8%B6%85%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E6%B0%B4%E4%B8%8B%E6%91%84%E5%BD%B1%E6%8D%95%E6%8D%89%E3%80%82%E9%98%B3%E5%85%89%E7%A9%BF%E9%80%8F%E6%B0%B4%E9%9D%A2%EF%BC%8C%E5%9C%A8%E4%B8%BB%E4%BD%93%E5%92%8C%E5%91%A8%E5%9B%B4%E6%B0%B4%E5%9F%9F%E4%B8%8A%E5%BD%A2%E6%88%90%E5%A4%8D%E6%9D%82%E7%9A%84%E5%85%89%E7%BA%BF%E7%84%A6%E6%95%A3%E5%9B%BE%E6%A1%88%EF%BC%8C%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC%EF%BC%8C%E8%88%9E%E5%8A%A8%E4%B8%8D%E5%B7%B2%E3%80%82%E5%9C%BA%E6%99%AF%E5%B1%95%E7%8E%B0%E5%87%BA%E5%8E%9F%E5%A7%8B%E7%9A%84%E6%B8%85%E6%99%B0%E5%BA%A6%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%B8%9D%E6%AF%AB%E9%A2%97%E7%B2%92%E7%89%A9%EF%BC%8C%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%80%E7%A7%8D%E6%82%AC%E6%B5%AE%E5%A4%B1%E9%87%8D%E5%92%8C%E5%AE%81%E9%9D%99%E7%9A%84%E5%8A%A8%E6%80%81%E6%84%9F%E3%80%82%E9%AB%98%E9%80%9F%E6%8D%95%E6%8D%89%E6%8A%80%E6%9C%AF%E5%87%9D%E5%9B%BA%E4%BA%86%E7%B2%BE%E5%BE%AE%E7%9A%84%E7%BB%86%E8%8A%82%EF%BC%8C%E7%BB%86%E5%B0%8F%E7%9A%84%E6%B0%94%E6%B3%A1%E5%92%8C%E9%A3%98%E9%80%B8%E7%9A%84%E7%BB%87%E7%89%A9%E6%88%96%E5%A4%B4%E5%8F%91%E5%A2%9E%E5%BC%BA%E4%BA%86%E6%B0%B4%E4%B8%8B%E4%BC%98%E9%9B%85%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82%E6%95%B4%E4%BD%93%E7%BE%8E%E5%AD%A6%E6%98%AF%E7%BA%AF%E5%87%80%E3%80%81%E6%B8%85%E7%88%BD%E5%92%8C%E7%A9%BA%E7%81%B5%E7%9A%84%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E8%89%B2%E5%BD%A9%E5%88%86%E7%BA%A7%E3%80%81%E9%AB%98%E5%8A%A8%E6%80%81%E8%8C%83%E5%9B%B4%E5%92%8C%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E3%80%82)**
 
 ---
 
-### No. 12: Ultra-Realistic Humanoid Robot on Rooftop
+### No. 12: 屋顶上的超逼真人形机器人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-An extensive, highly detailed prompt designed to test GPT Image 1.5's ability to generate ultra-realistic, production-ready images, specifically a cinematic photograph of a humanoid robot on a rooftop at dawn, focusing on material fidelity, mechanical details, and integrated text display.
+一个内容广泛、高度详细的提示，旨在测试 GPT Image 1.5 生成超现实、可用于生产的图像的能力，特别是一张在黎明时分，人形机器人在屋顶上的电影级照片，重点关注材质保真度、机械细节和集成文本显示。
 
 #### 📝 提示词
 
 ```
-Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop overlooking a modern city at dawn, medium shot. Highly detailed humanoid robot with synthetic skin and exposed metallic elements, realistic joints, fine mechanical details, subtle surface imperfections, micro scratches and reflections. Human-like posture and proportions, calm and natural stance, soft ambient light reflecting off metal and synthetic materials. Cinematic sunrise lighting, soft volumetric light, realistic city skyline in the background with shallow depth of field. A digital city billboard in the background displaying the text "{argument name="billboard text" default="SYSTEM ONLINE"}", text integrated into the screen with realistic glow, perspective, and lighting, not overlaid. Photorealistic futuristic photography, high fidelity materials, no cartoon style, no sci-fi illustration, production-ready realism.
+一张超逼真的电影级照片，描绘了一个仿人机器人站在屋顶上，俯瞰着黎明时分的现代化城市，中景。机器人细节高度精细，拥有合成皮肤和裸露的金属部件，关节逼真，机械细节精致，表面有细微的瑕疵、微小的划痕和反光。它姿态和比例都像人类，站姿平静自然，柔和的环境光反射在金属和合成材料上。电影般的日出光线，柔和的体积光，背景是逼真的城市天际线，景深较浅。背景中有一个数字城市广告牌，显示着文字“{argument name="billboard text" default="SYSTEM ONLINE"}”，文字与屏幕融为一体，具有逼真的发光效果、透视和光照，而非叠加。照片级未来主义摄影，高保真材质，无卡通风格，无科幻插画，制作级写实。
 ```
 
 #### 🖼️ 生成图片
@@ -569,13 +686,13 @@ Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="屋顶上的超逼真人形机器人 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="屋顶上的超逼真人形机器人 - Image 2">
 </div>
 
 #### 📌 详情
@@ -585,82 +702,82 @@ Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop o
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Ultra-realistic%20cinematic%20photograph%20of%20a%20humanoid%20robot%20standing%20on%20a%20rooftop%20overlooking%20a%20modern%20city%20at%20dawn%2C%20medium%20shot.%20Highly%20detailed%20humanoid%20robot%20with%20synthetic%20skin%20and%20exposed%20metallic%20elements%2C%20realistic%20joints%2C%20fine%20mechanical%20details%2C%20subtle%20surface%20imperfections%2C%20micro%20scratches%20and%20reflections.%20Human-like%20posture%20and%20proportions%2C%20calm%20and%20natural%20stance%2C%20soft%20ambient%20light%20reflecting%20off%20metal%20and%20synthetic%20materials.%20Cinematic%20sunrise%20lighting%2C%20soft%20volumetric%20light%2C%20realistic%20city%20skyline%20in%20the%20background%20with%20shallow%20depth%20of%20field.%20A%20digital%20city%20billboard%20in%20the%20background%20displaying%20the%20text%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%2C%20text%20integrated%20into%20the%20screen%20with%20realistic%20glow%2C%20perspective%2C%20and%20lighting%2C%20not%20overlaid.%20Photorealistic%20futuristic%20photography%2C%20high%20fidelity%20materials%2C%20no%20cartoon%20style%2C%20no%20sci-fi%20illustration%2C%20production-ready%20realism.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E8%B6%85%E9%80%BC%E7%9C%9F%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%85%A7%E7%89%87%EF%BC%8C%E6%8F%8F%E7%BB%98%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BB%BF%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%99%E5%9C%A8%E5%B1%8B%E9%A1%B6%E4%B8%8A%EF%BC%8C%E4%BF%AF%E7%9E%B0%E7%9D%80%E9%BB%8E%E6%98%8E%E6%97%B6%E5%88%86%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9F%8E%E5%B8%82%EF%BC%8C%E4%B8%AD%E6%99%AF%E3%80%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%86%E8%8A%82%E9%AB%98%E5%BA%A6%E7%B2%BE%E7%BB%86%EF%BC%8C%E6%8B%A5%E6%9C%89%E5%90%88%E6%88%90%E7%9A%AE%E8%82%A4%E5%92%8C%E8%A3%B8%E9%9C%B2%E7%9A%84%E9%87%91%E5%B1%9E%E9%83%A8%E4%BB%B6%EF%BC%8C%E5%85%B3%E8%8A%82%E9%80%BC%E7%9C%9F%EF%BC%8C%E6%9C%BA%E6%A2%B0%E7%BB%86%E8%8A%82%E7%B2%BE%E8%87%B4%EF%BC%8C%E8%A1%A8%E9%9D%A2%E6%9C%89%E7%BB%86%E5%BE%AE%E7%9A%84%E7%91%95%E7%96%B5%E3%80%81%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%88%92%E7%97%95%E5%92%8C%E5%8F%8D%E5%85%89%E3%80%82%E5%AE%83%E5%A7%BF%E6%80%81%E5%92%8C%E6%AF%94%E4%BE%8B%E9%83%BD%E5%83%8F%E4%BA%BA%E7%B1%BB%EF%BC%8C%E7%AB%99%E5%A7%BF%E5%B9%B3%E9%9D%99%E8%87%AA%E7%84%B6%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%8E%AF%E5%A2%83%E5%85%89%E5%8F%8D%E5%B0%84%E5%9C%A8%E9%87%91%E5%B1%9E%E5%92%8C%E5%90%88%E6%88%90%E6%9D%90%E6%96%99%E4%B8%8A%E3%80%82%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E6%97%A5%E5%87%BA%E5%85%89%E7%BA%BF%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E4%BD%93%E7%A7%AF%E5%85%89%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E9%80%BC%E7%9C%9F%E7%9A%84%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BE%83%E6%B5%85%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%AD%E6%9C%89%E4%B8%80%E4%B8%AA%E6%95%B0%E5%AD%97%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%91%8A%E7%89%8C%EF%BC%8C%E6%98%BE%E7%A4%BA%E7%9D%80%E6%96%87%E5%AD%97%E2%80%9C%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%E2%80%9D%EF%BC%8C%E6%96%87%E5%AD%97%E4%B8%8E%E5%B1%8F%E5%B9%95%E8%9E%8D%E4%B8%BA%E4%B8%80%E4%BD%93%EF%BC%8C%E5%85%B7%E6%9C%89%E9%80%BC%E7%9C%9F%E7%9A%84%E5%8F%91%E5%85%89%E6%95%88%E6%9E%9C%E3%80%81%E9%80%8F%E8%A7%86%E5%92%8C%E5%85%89%E7%85%A7%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%8F%A0%E5%8A%A0%E3%80%82%E7%85%A7%E7%89%87%E7%BA%A7%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E6%91%84%E5%BD%B1%EF%BC%8C%E9%AB%98%E4%BF%9D%E7%9C%9F%E6%9D%90%E8%B4%A8%EF%BC%8C%E6%97%A0%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%EF%BC%8C%E6%97%A0%E7%A7%91%E5%B9%BB%E6%8F%92%E7%94%BB%EF%BC%8C%E5%88%B6%E4%BD%9C%E7%BA%A7%E5%86%99%E5%AE%9E%E3%80%82)**
 
 ---
 
-### No. 13: Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description
+### No. 13: 雨中时代广场场景的复杂结构化提示，包含详细的主题描述
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to generate a realistic, cinematic scene of a person in Times Square on a rainy night. It specifies complex elements like reflections, specific clothing details (a black faux-leather varsity jacket with embroidery), and camera aesthetics, ensuring the subject's face remains identical to an uploaded reference.
+一个高度详细、结构化的类 JSON 提示，专为 GPT Image 1.5 设计，用于生成一个在雨夜时代广场的逼真电影场景。它指定了复杂的元素，如倒影、具体的服装细节（一件带有刺绣的黑色仿皮棒球夹克）和相机美学，确保主体的面部与上传的参考图保持一致。
 
 #### 📝 提示词
 
 ```
 {
   "scene": {
-    "location": "{argument name="location" default="Times Square, New York"}",
-    "time": "{argument name="time" default="Rainy night"}",
+    "location": "{argument name=\"location\" default=\"纽约时代广场\"}",
+    "time": "{argument name=\"time\" default=\"雨夜\"}",
     "composition": {
       "left_side": [
         {
-          "type": "LED billboard",
-          "style": "vertical",
-          "text_color": "white-on-black"
+          "type": "LED 广告牌",
+          "style": "垂直",
+          "text_color": "黑底白字"
         },
         {
-          "type": "curved LED screen",
-          "detail": "above yellow arrow for Hershey's store"
+          "type": "弧形 LED 屏幕",
+          "detail": "在好时（Hershey's）商店的黄色箭头上方"
         }
       ],
       "right_side": {
-        "subject_position": "near curb",
+        "subject_position": "靠近路边",
         "traffic": {
-          "vehicles": "city taxis and cars",
-          "details": "brake lights forming a slow line"
+          "vehicles": "城市出租车和轿车",
+          "details": "刹车灯形成缓慢的车流"
         }
       }
     },
     "environment": {
-      "ground": "wet asphalt",
-      "reflection_colors": ["neon magenta", "icy blue"],
+      "ground": "湿沥青路面",
+      "reflection_colors": ["霓虹洋红", "冰蓝色"],
       "puddles": {
         "reflecting_lights": true,
-        "object_details": ["scattered takeaway cups"]
+        "object_details": ["散落的一次性餐盒"]
       },
-      "atmosphere": ["electric", "intimate"]
+      "atmosphere": ["电光闪烁", "私密"]
     }
   },
   "subject": {
-    "identity": "Uploaded subject",
-    "face_requirement": "Do not change facial features. Must look 1000% identical.",
-    "pose": "Relaxed, facing camera",
-    "holding": "Folded black umbrella by handle",
+    "identity": "上传的主体",
+    "face_requirement": "不要改变面部特征。必须 1000% 保持一致。",
+    "pose": "放松，面向镜头",
+    "holding": "手持折叠的黑色雨伞",
     "outfit": {
       "jacket": {
-        "material": "black faux-leather varsity",
+        "material": "黑色仿皮棒球夹克",
         "design": {
           "cobalt_panel": true,
           "cream_stripe": true,
-          "embroidery": "Vintage script",
-          "lettering": "Block OF",
-          "patch": "1987 stitched on sleeve",
+          "embroidery": "复古字体",
+          "lettering": "块状 OF",
+          "patch": "袖子上缝有 1987 字样",
           "reflective_piping": true,
-          "highlight_color": "purple reflection"
+          "highlight_color": "紫色反光"
         }
       }
     }
   },
   "background": {
-    "elements": ["cars", "scaffolding", "stacked storefront signs"]
+    "elements": ["汽车", "脚手架", "堆叠的店面招牌"]
   },
   "style": {
-    "resolution": "HD",
-    "aesthetic": ["realistic", "natural", "authentic"],
+    "resolution": "高清",
+    "aesthetic": ["写实", "自然", "真实"],
     "camera": "iPhone"
   }
 }
@@ -671,13 +788,13 @@ A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to gen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="雨中时代广场场景的复杂结构化提示，包含详细的主题描述 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="雨中时代广场场景的复杂结构化提示，包含详细的主题描述 - Image 2">
 </div>
 
 #### 📌 详情
@@ -687,23 +804,23 @@ A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to gen
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%22location%22%20default%3D%22Times%20Square%2C%20New%20York%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%22time%22%20default%3D%22Rainy%20night%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20billboard%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22vertical%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22white-on-black%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22curved%20LED%20screen%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22above%20yellow%20arrow%20for%20Hershey's%20store%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22near%20curb%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22city%20taxis%20and%20cars%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22brake%20lights%20forming%20a%20slow%20line%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22wet%20asphalt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22neon%20magenta%22%2C%20%22icy%20blue%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22scattered%20takeaway%20cups%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22electric%22%2C%20%22intimate%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Uploaded%20subject%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Do%20not%20change%20facial%20features.%20Must%20look%201000%25%20identical.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Relaxed%2C%20facing%20camera%22%2C%0A%20%20%20%20%22holding%22%3A%20%22Folded%20black%20umbrella%20by%20handle%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22black%20faux-leather%20varsity%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Vintage%20script%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Block%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%221987%20stitched%20on%20sleeve%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22purple%20reflection%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22cars%22%2C%20%22scaffolding%22%2C%20%22stacked%20storefront%20signs%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22realistic%22%2C%20%22natural%22%2C%20%22authentic%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22%E7%BA%BD%E7%BA%A6%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%5C%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%5C%22time%5C%22%20default%3D%5C%22%E9%9B%A8%E5%A4%9C%5C%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20%E5%B9%BF%E5%91%8A%E7%89%8C%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22%E5%9E%82%E7%9B%B4%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22%E9%BB%91%E5%BA%95%E7%99%BD%E5%AD%97%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22%E5%BC%A7%E5%BD%A2%20LED%20%E5%B1%8F%E5%B9%95%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22%E5%9C%A8%E5%A5%BD%E6%97%B6%EF%BC%88Hershey's%EF%BC%89%E5%95%86%E5%BA%97%E7%9A%84%E9%BB%84%E8%89%B2%E7%AE%AD%E5%A4%B4%E4%B8%8A%E6%96%B9%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22%E9%9D%A0%E8%BF%91%E8%B7%AF%E8%BE%B9%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22%E5%9F%8E%E5%B8%82%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%92%8C%E8%BD%BF%E8%BD%A6%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22%E5%88%B9%E8%BD%A6%E7%81%AF%E5%BD%A2%E6%88%90%E7%BC%93%E6%85%A2%E7%9A%84%E8%BD%A6%E6%B5%81%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22%E6%B9%BF%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22%E9%9C%93%E8%99%B9%E6%B4%8B%E7%BA%A2%22%2C%20%22%E5%86%B0%E8%93%9D%E8%89%B2%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22%E6%95%A3%E8%90%BD%E7%9A%84%E4%B8%80%E6%AC%A1%E6%80%A7%E9%A4%90%E7%9B%92%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22%E7%94%B5%E5%85%89%E9%97%AA%E7%83%81%22%2C%20%22%E7%A7%81%E5%AF%86%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22%E4%B8%8A%E4%BC%A0%E7%9A%84%E4%B8%BB%E4%BD%93%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22%E4%B8%8D%E8%A6%81%E6%94%B9%E5%8F%98%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%82%E5%BF%85%E9%A1%BB%201000%25%20%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E3%80%82%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%E6%94%BE%E6%9D%BE%EF%BC%8C%E9%9D%A2%E5%90%91%E9%95%9C%E5%A4%B4%22%2C%0A%20%20%20%20%22holding%22%3A%20%22%E6%89%8B%E6%8C%81%E6%8A%98%E5%8F%A0%E7%9A%84%E9%BB%91%E8%89%B2%E9%9B%A8%E4%BC%9E%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22%E9%BB%91%E8%89%B2%E4%BB%BF%E7%9A%AE%E6%A3%92%E7%90%83%E5%A4%B9%E5%85%8B%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22%E5%A4%8D%E5%8F%A4%E5%AD%97%E4%BD%93%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22%E5%9D%97%E7%8A%B6%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%22%E8%A2%96%E5%AD%90%E4%B8%8A%E7%BC%9D%E6%9C%89%201987%20%E5%AD%97%E6%A0%B7%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22%E7%B4%AB%E8%89%B2%E5%8F%8D%E5%85%89%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22%E6%B1%BD%E8%BD%A6%22%2C%20%22%E8%84%9A%E6%89%8B%E6%9E%B6%22%2C%20%22%E5%A0%86%E5%8F%A0%E7%9A%84%E5%BA%97%E9%9D%A2%E6%8B%9B%E7%89%8C%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22%E9%AB%98%E6%B8%85%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22%E5%86%99%E5%AE%9E%22%2C%20%22%E8%87%AA%E7%84%B6%22%2C%20%22%E7%9C%9F%E5%AE%9E%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 14: Extreme Food Art Grid of New York Neighborhoods
+### No. 14: 纽约街区美食艺术网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A creative and complex food prompt designed to generate a 2x2 grid of extreme food art. Each panel represents a different New York neighborhood, constructed from signature dishes, landmarks built from food, and environmental details using sauces and spices.
+一个富有创意且复杂的食物提示，旨在生成一个 2x2 的极端美食艺术网格。每个面板代表一个不同的纽约街区，由标志性菜肴、用食物搭建的地标以及用酱汁和香料制作的环境细节构成。
 
 #### 📝 提示词
 
 ```
-a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighborhoods" default="new york's neighborhoods"}. For each: construct the location's geographic shape from signature dishes, build a few famous landmarks from food, add environmental details (waterways, vegetation, infrastructure) using sauces/spices/ingredients. Extreme food art on slate boards, macro photography, dramatic overhead lighting, dark moody background, name underneath.
+一个 2x2 的美食艺术网格。随机选择 4 个不同的 {argument name="new york's neighborhoods" default="new york's neighborhoods"}。对于每个区域：用特色菜肴构建该地点的地理形状，用食物建造一些著名地标，使用酱汁/香料/食材添加环境细节（水道、植被、基础设施）。在石板上呈现极致的美食艺术，宏观摄影，戏剧性的顶灯，深色 moody 背景，下方附上名称。
 ```
 
 #### 🖼️ 生成图片
@@ -711,13 +828,13 @@ a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighb
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="纽约街区美食艺术网格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="纽约街区美食艺术网格 - Image 2">
 </div>
 
 #### 📌 详情
@@ -727,22 +844,22 @@ a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighb
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=a%202x2%20food%20art%20grid.%20Randomly%20select%204%20diverse%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D.%20For%20each%3A%20construct%20the%20location's%20geographic%20shape%20from%20signature%20dishes%2C%20build%20a%20few%20famous%20landmarks%20from%20food%2C%20add%20environmental%20details%20(waterways%2C%20vegetation%2C%20infrastructure)%20using%20sauces%2Fspices%2Fingredients.%20Extreme%20food%20art%20on%20slate%20boards%2C%20macro%20photography%2C%20dramatic%20overhead%20lighting%2C%20dark%20moody%20background%2C%20name%20underneath.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%B8%AA%202x2%20%E7%9A%84%E7%BE%8E%E9%A3%9F%E8%89%BA%E6%9C%AF%E7%BD%91%E6%A0%BC%E3%80%82%E9%9A%8F%E6%9C%BA%E9%80%89%E6%8B%A9%204%20%E4%B8%AA%E4%B8%8D%E5%90%8C%E7%9A%84%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D%E3%80%82%E5%AF%B9%E4%BA%8E%E6%AF%8F%E4%B8%AA%E5%8C%BA%E5%9F%9F%EF%BC%9A%E7%94%A8%E7%89%B9%E8%89%B2%E8%8F%9C%E8%82%B4%E6%9E%84%E5%BB%BA%E8%AF%A5%E5%9C%B0%E7%82%B9%E7%9A%84%E5%9C%B0%E7%90%86%E5%BD%A2%E7%8A%B6%EF%BC%8C%E7%94%A8%E9%A3%9F%E7%89%A9%E5%BB%BA%E9%80%A0%E4%B8%80%E4%BA%9B%E8%91%97%E5%90%8D%E5%9C%B0%E6%A0%87%EF%BC%8C%E4%BD%BF%E7%94%A8%E9%85%B1%E6%B1%81%2F%E9%A6%99%E6%96%99%2F%E9%A3%9F%E6%9D%90%E6%B7%BB%E5%8A%A0%E7%8E%AF%E5%A2%83%E7%BB%86%E8%8A%82%EF%BC%88%E6%B0%B4%E9%81%93%E3%80%81%E6%A4%8D%E8%A2%AB%E3%80%81%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%EF%BC%89%E3%80%82%E5%9C%A8%E7%9F%B3%E6%9D%BF%E4%B8%8A%E5%91%88%E7%8E%B0%E6%9E%81%E8%87%B4%E7%9A%84%E7%BE%8E%E9%A3%9F%E8%89%BA%E6%9C%AF%EF%BC%8C%E5%AE%8F%E8%A7%82%E6%91%84%E5%BD%B1%EF%BC%8C%E6%88%8F%E5%89%A7%E6%80%A7%E7%9A%84%E9%A1%B6%E7%81%AF%EF%BC%8C%E6%B7%B1%E8%89%B2%20moody%20%E8%83%8C%E6%99%AF%EF%BC%8C%E4%B8%8B%E6%96%B9%E9%99%84%E4%B8%8A%E5%90%8D%E7%A7%B0%E3%80%82)**
 
 ---
 
-### No. 15: Cinematic Night Street Scene Prompt
+### No. 15: 电影感夜间街景提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A straightforward cinematic prompt for generating a moody image of a woman walking through a rainy street at night, focusing on specific visual elements like neon reflections, raindrops, soft bokeh, and a blue-red color contrast.
+一个直接的电影式提示，用于生成一张情绪化的图像：一名女子在雨夜中穿过街道，重点突出霓虹灯倒影、雨滴、柔和的焦外虚化以及蓝红色对比等特定视觉元素。
 
 #### 📝 提示词
 
 ```
-A woman walking through a rainy street at night, neon signs reflecting off puddles, raindrops on the jacket, soft bokeh in the background, moody expression, cinematic blue-red color contrast.
+一位女士在夜晚的雨中街道上行走，霓虹灯倒映在水坑中，雨滴落在夹克上，背景是柔和的散景，情绪化的表情，电影般的蓝红色对比。
 ```
 
 #### 🖼️ 生成图片
@@ -750,13 +867,13 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="电影感夜间街景提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="电影感夜间街景提示词 - Image 2">
 </div>
 
 #### 📌 详情
@@ -766,53 +883,51 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=A%20woman%20walking%20through%20a%20rainy%20street%20at%20night%2C%20neon%20signs%20reflecting%20off%20puddles%2C%20raindrops%20on%20the%20jacket%2C%20soft%20bokeh%20in%20the%20background%2C%20moody%20expression%2C%20cinematic%20blue-red%20color%20contrast.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%A3%AB%E5%9C%A8%E5%A4%9C%E6%99%9A%E7%9A%84%E9%9B%A8%E4%B8%AD%E8%A1%97%E9%81%93%E4%B8%8A%E8%A1%8C%E8%B5%B0%EF%BC%8C%E9%9C%93%E8%99%B9%E7%81%AF%E5%80%92%E6%98%A0%E5%9C%A8%E6%B0%B4%E5%9D%91%E4%B8%AD%EF%BC%8C%E9%9B%A8%E6%BB%B4%E8%90%BD%E5%9C%A8%E5%A4%B9%E5%85%8B%E4%B8%8A%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E6%9F%94%E5%92%8C%E7%9A%84%E6%95%A3%E6%99%AF%EF%BC%8C%E6%83%85%E7%BB%AA%E5%8C%96%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E8%93%9D%E7%BA%A2%E8%89%B2%E5%AF%B9%E6%AF%94%E3%80%82)**
 
 ---
 
-### No. 16: Chinese Fantasy Digital Art Prompt Template
+### No. 16: 中国风奇幻数字艺术提示词模板
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly structured JSON-formatted prompt template for generating panoramic digital artwork in a Chinese Fantasy and Abstract Digital Art style. It specifies visual elements like subject silhouette, bioluminescent lighting, flowing effects, and a specific color palette, intended for use with models like Midjourney (Niji 6) or SDXL. The prompt is designed to be easily customized by changing the final line to specify the character or scene, such as applying the style to characters from 'Journey to the West'.
+一个高度结构化的 JSON 格式提示模板，用于生成中国奇幻和抽象数字艺术风格的全景数字艺术作品。它指定了视觉元素，如主体剪影、生物发光照明、流动效果和特定的调色板，旨在与 Midjourney (Niji 6) 或 SDXL 等模型配合使用。该提示旨在通过更改最后一行来轻松自定义，以指定角色或场景，例如将此风格应用于《西游记》中的角色。
 
 #### 📝 提示词
 
 ```
 {
   "meta_info": {
-    "title": "Ethereal Hanfu Spirit",
-    "style_category": "Chinese Fantasy / Abstract Digital Art",
+    "title": "缥缈汉服之灵",
+    "style_category": "中国奇幻 / 抽象数字艺术",
     "aspect_ratio": "3:1"
   },
   "visual_elements": {
     "subject": {
-      "description": "Silhouette wearing attire determined by the character",
-      "pose": "Pose determined by the character, floating in mid-air",
-      "composition": "Centered ethereal figure with flowing trails extending to the sides"
+      "description": "由角色决定的服饰剪影",
+      "pose": "由角色决定的姿势，在半空中漂浮",
+      "composition": "居中缥缈的人物，流动的轨迹向两侧延伸"
     },
     "atmosphere": {
-      "lighting": "Bioluminescent glow, volumetric lighting, rim lighting",
-      "effects": "Flowing smoke, light particles, holographic dispersion, silk-like energy trails",
-      "colors": ["Deep Navy Blue", "Glowing Cyan", "Iridescent Gold", "Soft Peach"]
+      "lighting": "生物发光、体积光、轮廓光",
+      "effects": "流动的烟雾、光粒子、全息分散、丝绸般的能量轨迹",
+      "colors": ["深海军蓝", "发光青色", "虹彩金色", "柔和桃色"]
     }
   },
   "prompt_export": {
-    "natural_language_prompt": "A wide panoramic digital artwork depicting a figure composed of flowing ribbons of light, translucent smoke, and iridescent particles. The background features deep, moody indigo and dark blue tones. The figure emits a soft, magical bioluminescent glow in hues of gold, peach, and cyan. The overall style is abstract fantasy, emphasizing fluid motion and a dreamy atmosphere, rendered in 8K resolution with highly detailed textures and exhibiting the Tyndall effect.",
-    "tag_based_prompt": " silhouette, flowing light lines, smoke effects, particle effects, bioluminescence, iridescent effects, dark blue background, cinematic lighting, ethereal, mystical, masterpiece, best quality, 8k, wide angle --ay 21:9 ",
-    "negative_prompt": "photorealistic, solid skin, heavy outlines, messy lines, text, watermark, low quality, jpeg artifacts, blurry, distorted face, bad anatomy"
+    "natural_language_prompt": "一幅宽幅全景数字艺术作品，描绘了一个由流动的光带、半透明的烟雾和虹彩粒子构成的人物。背景是深沉、忧郁的靛蓝色和深蓝色调。人物散发出柔和、神奇的生物发光，色调为金色、桃色和青色。整体风格是抽象奇幻，强调流畅的动态和梦幻般的氛围，以 8K 分辨率渲染，具有高度详细的纹理并展现丁达尔效应。",
+    "tag_based_prompt": " 剪影, 流动的光线, 烟雾效果, 粒子效果, 生物发光, 虹彩效果, 深蓝色背景, 电影级灯光, 缥缈, 神秘, 杰作, 最佳品质, 8k, 广角 --ay 21:9 ",
+    "negative_prompt": "写实, 实心皮肤, 厚重轮廓, 凌乱线条, 文字, 水印, 低质量, jpeg 伪影, 模糊, 扭曲的脸, 糟糕的解剖结构"
   },
   "technical_settings_recommendation": {
     "sampler": "Euler a / DPM++ 2M Karras",
     "steps": 30,
     "cfg_scale": 7.0,
-    "model_suggestion": "Niji 6 (for Midjourney) or Abstract/Fantasy-based SDXL models"
+    "model_suggestion": "Niji 6 (适用于 Midjourney) 或基于抽象/奇幻的 SDXL 模型"
   }
 }
-Character set as: {argument name="character setting" default="The four master and disciples from Journey to the West"}
 ```
 
 #### 🖼️ 生成图片
@@ -820,19 +935,19 @@ Character set as: {argument name="character setting" default="The four master an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="中国风奇幻数字艺术提示词模板 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="中国风奇幻数字艺术提示词模板 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="中国风奇幻数字艺术提示词模板 - Image 3">
 </div>
 
 #### 📌 详情
@@ -842,23 +957,23 @@ Character set as: {argument name="character setting" default="The four master an
 - **发布时间:** 2025年12月18日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Ethereal%20Hanfu%20Spirit%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22Chinese%20Fantasy%20%2F%20Abstract%20Digital%20Art%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22Silhouette%20wearing%20attire%20determined%20by%20the%20character%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22Pose%20determined%20by%20the%20character%2C%20floating%20in%20mid-air%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22Centered%20ethereal%20figure%20with%20flowing%20trails%20extending%20to%20the%20sides%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Bioluminescent%20glow%2C%20volumetric%20lighting%2C%20rim%20lighting%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Flowing%20smoke%2C%20light%20particles%2C%20holographic%20dispersion%2C%20silk-like%20energy%20trails%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Deep%20Navy%20Blue%22%2C%20%22Glowing%20Cyan%22%2C%20%22Iridescent%20Gold%22%2C%20%22Soft%20Peach%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22A%20wide%20panoramic%20digital%20artwork%20depicting%20a%20figure%20composed%20of%20flowing%20ribbons%20of%20light%2C%20translucent%20smoke%2C%20and%20iridescent%20particles.%20The%20background%20features%20deep%2C%20moody%20indigo%20and%20dark%20blue%20tones.%20The%20figure%20emits%20a%20soft%2C%20magical%20bioluminescent%20glow%20in%20hues%20of%20gold%2C%20peach%2C%20and%20cyan.%20The%20overall%20style%20is%20abstract%20fantasy%2C%20emphasizing%20fluid%20motion%20and%20a%20dreamy%20atmosphere%2C%20rendered%20in%208K%20resolution%20with%20highly%20detailed%20textures%20and%20exhibiting%20the%20Tyndall%20effect.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20silhouette%2C%20flowing%20light%20lines%2C%20smoke%20effects%2C%20particle%20effects%2C%20bioluminescence%2C%20iridescent%20effects%2C%20dark%20blue%20background%2C%20cinematic%20lighting%2C%20ethereal%2C%20mystical%2C%20masterpiece%2C%20best%20quality%2C%208k%2C%20wide%20angle%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22photorealistic%2C%20solid%20skin%2C%20heavy%20outlines%2C%20messy%20lines%2C%20text%2C%20watermark%2C%20low%20quality%2C%20jpeg%20artifacts%2C%20blurry%2C%20distorted%20face%2C%20bad%20anatomy%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(for%20Midjourney)%20or%20Abstract%2FFantasy-based%20SDXL%20models%22%0A%20%20%7D%0A%7D%0ACharacter%20set%20as%3A%20%7Bargument%20name%3D%22character%20setting%22%20default%3D%22The%20four%20master%20and%20disciples%20from%20Journey%20to%20the%20West%22%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22%E7%BC%A5%E7%BC%88%E6%B1%89%E6%9C%8D%E4%B9%8B%E7%81%B5%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22%E4%B8%AD%E5%9B%BD%E5%A5%87%E5%B9%BB%20%2F%20%E6%8A%BD%E8%B1%A1%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22%E7%94%B1%E8%A7%92%E8%89%B2%E5%86%B3%E5%AE%9A%E7%9A%84%E6%9C%8D%E9%A5%B0%E5%89%AA%E5%BD%B1%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22%E7%94%B1%E8%A7%92%E8%89%B2%E5%86%B3%E5%AE%9A%E7%9A%84%E5%A7%BF%E5%8A%BF%EF%BC%8C%E5%9C%A8%E5%8D%8A%E7%A9%BA%E4%B8%AD%E6%BC%82%E6%B5%AE%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22%E5%B1%85%E4%B8%AD%E7%BC%A5%E7%BC%88%E7%9A%84%E4%BA%BA%E7%89%A9%EF%BC%8C%E6%B5%81%E5%8A%A8%E7%9A%84%E8%BD%A8%E8%BF%B9%E5%90%91%E4%B8%A4%E4%BE%A7%E5%BB%B6%E4%BC%B8%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E3%80%81%E4%BD%93%E7%A7%AF%E5%85%89%E3%80%81%E8%BD%AE%E5%BB%93%E5%85%89%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22%E6%B5%81%E5%8A%A8%E7%9A%84%E7%83%9F%E9%9B%BE%E3%80%81%E5%85%89%E7%B2%92%E5%AD%90%E3%80%81%E5%85%A8%E6%81%AF%E5%88%86%E6%95%A3%E3%80%81%E4%B8%9D%E7%BB%B8%E8%88%AC%E7%9A%84%E8%83%BD%E9%87%8F%E8%BD%A8%E8%BF%B9%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22%E6%B7%B1%E6%B5%B7%E5%86%9B%E8%93%9D%22%2C%20%22%E5%8F%91%E5%85%89%E9%9D%92%E8%89%B2%22%2C%20%22%E8%99%B9%E5%BD%A9%E9%87%91%E8%89%B2%22%2C%20%22%E6%9F%94%E5%92%8C%E6%A1%83%E8%89%B2%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22%E4%B8%80%E5%B9%85%E5%AE%BD%E5%B9%85%E5%85%A8%E6%99%AF%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81%EF%BC%8C%E6%8F%8F%E7%BB%98%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%B1%E6%B5%81%E5%8A%A8%E7%9A%84%E5%85%89%E5%B8%A6%E3%80%81%E5%8D%8A%E9%80%8F%E6%98%8E%E7%9A%84%E7%83%9F%E9%9B%BE%E5%92%8C%E8%99%B9%E5%BD%A9%E7%B2%92%E5%AD%90%E6%9E%84%E6%88%90%E7%9A%84%E4%BA%BA%E7%89%A9%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%B7%B1%E6%B2%89%E3%80%81%E5%BF%A7%E9%83%81%E7%9A%84%E9%9D%9B%E8%93%9D%E8%89%B2%E5%92%8C%E6%B7%B1%E8%93%9D%E8%89%B2%E8%B0%83%E3%80%82%E4%BA%BA%E7%89%A9%E6%95%A3%E5%8F%91%E5%87%BA%E6%9F%94%E5%92%8C%E3%80%81%E7%A5%9E%E5%A5%87%E7%9A%84%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%EF%BC%8C%E8%89%B2%E8%B0%83%E4%B8%BA%E9%87%91%E8%89%B2%E3%80%81%E6%A1%83%E8%89%B2%E5%92%8C%E9%9D%92%E8%89%B2%E3%80%82%E6%95%B4%E4%BD%93%E9%A3%8E%E6%A0%BC%E6%98%AF%E6%8A%BD%E8%B1%A1%E5%A5%87%E5%B9%BB%EF%BC%8C%E5%BC%BA%E8%B0%83%E6%B5%81%E7%95%85%E7%9A%84%E5%8A%A8%E6%80%81%E5%92%8C%E6%A2%A6%E5%B9%BB%E8%88%AC%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E4%BB%A5%208K%20%E5%88%86%E8%BE%A8%E7%8E%87%E6%B8%B2%E6%9F%93%EF%BC%8C%E5%85%B7%E6%9C%89%E9%AB%98%E5%BA%A6%E8%AF%A6%E7%BB%86%E7%9A%84%E7%BA%B9%E7%90%86%E5%B9%B6%E5%B1%95%E7%8E%B0%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94%E3%80%82%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20%E5%89%AA%E5%BD%B1%2C%20%E6%B5%81%E5%8A%A8%E7%9A%84%E5%85%89%E7%BA%BF%2C%20%E7%83%9F%E9%9B%BE%E6%95%88%E6%9E%9C%2C%20%E7%B2%92%E5%AD%90%E6%95%88%E6%9E%9C%2C%20%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%2C%20%E8%99%B9%E5%BD%A9%E6%95%88%E6%9E%9C%2C%20%E6%B7%B1%E8%93%9D%E8%89%B2%E8%83%8C%E6%99%AF%2C%20%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%81%AF%E5%85%89%2C%20%E7%BC%A5%E7%BC%88%2C%20%E7%A5%9E%E7%A7%98%2C%20%E6%9D%B0%E4%BD%9C%2C%20%E6%9C%80%E4%BD%B3%E5%93%81%E8%B4%A8%2C%208k%2C%20%E5%B9%BF%E8%A7%92%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22%E5%86%99%E5%AE%9E%2C%20%E5%AE%9E%E5%BF%83%E7%9A%AE%E8%82%A4%2C%20%E5%8E%9A%E9%87%8D%E8%BD%AE%E5%BB%93%2C%20%E5%87%8C%E4%B9%B1%E7%BA%BF%E6%9D%A1%2C%20%E6%96%87%E5%AD%97%2C%20%E6%B0%B4%E5%8D%B0%2C%20%E4%BD%8E%E8%B4%A8%E9%87%8F%2C%20jpeg%20%E4%BC%AA%E5%BD%B1%2C%20%E6%A8%A1%E7%B3%8A%2C%20%E6%89%AD%E6%9B%B2%E7%9A%84%E8%84%B8%2C%20%E7%B3%9F%E7%B3%95%E7%9A%84%E8%A7%A3%E5%89%96%E7%BB%93%E6%9E%84%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(%E9%80%82%E7%94%A8%E4%BA%8E%20Midjourney)%20%E6%88%96%E5%9F%BA%E4%BA%8E%E6%8A%BD%E8%B1%A1%2F%E5%A5%87%E5%B9%BB%E7%9A%84%20SDXL%20%E6%A8%A1%E5%9E%8B%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 17: Adding Handwritten Text and Decoration to an Image
+### No. 17: 向图像添加手写文本和装饰
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-The second Japanese prompt focuses on image manipulation, asking GPT Image 1.5 to add handwritten text (a date and a heart mark) and decorations to make the image look like a 'Cheki' (instant photo).
+第二个日语提示侧重于图像处理，要求 GPT Image 1.5 添加手写文字（日期和心形标记）和装饰，使图像看起来像一张“Cheki”（拍立得照片）。
 
 #### 📝 提示词
 
 ```
-Please add handwritten text ({argument name="date" default="2025.12.18"} + heart mark) and decorations to make it look like a Cheki (instant photo).
+请添加手写文字（{argument name="date" default="2025.12.18"} + 爱心标记）和装饰，使其看起来像一张拍立得照片。
 ```
 
 #### 🖼️ 生成图片
@@ -866,7 +981,7 @@ Please add handwritten text ({argument name="date" default="2025.12.18"} + heart
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Adding Handwritten Text and Decoration to an Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="向图像添加手写文本和装饰 - Image 1">
 </div>
 
 #### 📌 详情
@@ -876,22 +991,22 @@ Please add handwritten text ({argument name="date" default="2025.12.18"} + heart
 - **发布时间:** 2025年12月18日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Please%20add%20handwritten%20text%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20heart%20mark)%20and%20decorations%20to%20make%20it%20look%20like%20a%20Cheki%20(instant%20photo).)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%B7%E6%B7%BB%E5%8A%A0%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%EF%BC%88%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20%E7%88%B1%E5%BF%83%E6%A0%87%E8%AE%B0%EF%BC%89%E5%92%8C%E8%A3%85%E9%A5%B0%EF%BC%8C%E4%BD%BF%E5%85%B6%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%83%8F%E4%B8%80%E5%BC%A0%E6%8B%8D%E7%AB%8B%E5%BE%97%E7%85%A7%E7%89%87%E3%80%82)**
 
 ---
 
-### No. 18: Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar
+### No. 18: 长着毛茸茸兔耳的驱魔师和她的兔子学徒伙伴
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A Japanese prompt describing two characters: an exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath. This prompt was used to test GPT Image 1.5's ability to handle complex character descriptions and scenes with simple color palettes.
+一个描述两个角色的日文提示：一个长着毛茸茸兔耳朵的驱魔师，以及一只既是使魔又是学徒、想洗澡的兔子。这个提示用于测试 GPT Image 1.5 处理复杂角色描述和简单调色场景的能力。
 
 #### 📝 提示词
 
 ```
-An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath
+一位长着毛茸茸兔耳朵的驱魔师，以及一只同样是学徒并想洗澡的兔子使魔。
 ```
 
 #### 🖼️ 生成图片
@@ -899,7 +1014,7 @@ An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprent
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="长着毛茸茸兔耳的驱魔师和她的兔子学徒伙伴 - Image 1">
 </div>
 
 #### 📌 详情
@@ -909,51 +1024,51 @@ An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprent
 - **发布时间:** 2025年12月18日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=An%20exorcist%20with%20fluffy%20rabbit%20ears%20and%20a%20rabbit%20familiar%20who%20is%20also%20an%20apprentice%20and%20wants%20to%20take%20a%20bath)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E9%95%BF%E7%9D%80%E6%AF%9B%E8%8C%B8%E8%8C%B8%E5%85%94%E8%80%B3%E6%9C%B5%E7%9A%84%E9%A9%B1%E9%AD%94%E5%B8%88%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E5%8F%AA%E5%90%8C%E6%A0%B7%E6%98%AF%E5%AD%A6%E5%BE%92%E5%B9%B6%E6%83%B3%E6%B4%97%E6%BE%A1%E7%9A%84%E5%85%94%E5%AD%90%E4%BD%BF%E9%AD%94%E3%80%82)**
 
 ---
 
-### No. 19: GPT Image 1.5 World Tour Prompt Template
+### No. 19: GPT 图像 1.5 世界巡演提示模板
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed, structured prompt template for GPT Image 1.5 designed to generate photorealistic concert documentary images of a character performing a 'World Tour' at a specific geographical location defined by latitude and longitude. The prompt emphasizes maintaining character identity while integrating local culture and cinematic visual effects.
+一个为 GPT Image 1.5 设计的详细、结构化的提示模板，旨在生成角色在由经纬度定义的特定地理位置进行“世界巡演”的超逼真演唱会纪录片图像。该提示强调在融入当地文化和电影视觉效果的同时，保持角色身份。
 
 #### 📝 提示词
 
 ```
-GENERAL STYLE & MOOD:
-Photorealistic live concert documentary. Cinematic visual expression blending the fervor of the enthusiastic audience with the unique atmosphere and lighting specific to the location.
+整体风格与氛围：
+写实风格的现场演唱会纪录片。电影般的视觉表现，将热情观众的狂热与该地点特有的氛围和灯光融为一体。
 
-SUBJECT:
-The character from the attached image is performing a 'World Tour' live performance at the specified latitude and longitude location.
-While completely preserving the character's identity, they are wearing a 'World Tour exclusive stage costume' that modernly arranges the culture, tradition, or symbolic elements of that land.
+主题：
+附图中人物正在指定经纬度位置进行“世界巡演”现场表演。
+在完全保留人物身份的同时，他们身着“世界巡演专属舞台服装”，该服装以现代方式融合了当地的文化、传统或象征性元素。
 
-COMPOSITION & STAGE DESIGN:
-The stage is a special venue that maximizes the use of the local landmarks, topography, or urban landscape.
-- Dynamic angle using a wide-angle lens (24mm equivalent).
-- Immersive framing, looking up at the stage over the audience.
-- Fusion of iconic local backgrounds (architecture, natural scenery) and the latest lighting technology (LED, laser).
+构图与舞台设计：
+舞台是一个特殊的场地，最大限度地利用了当地的地标、地形或城市景观。
+- 使用广角镜头（等效 24mm）的动态角度。
+- 沉浸式构图，从观众上方仰视舞台。
+- 标志性当地背景（建筑、自然风光）与最新照明技术（LED、激光）的融合。
 
-LIGHTING & ENVIRONMENT:
-- Natural light based on the local time of day ( {argument name="time of day" default="golden hour, or night"}) determined by latitude and longitude.
-- Coexistence of spotlights illuminating the stage and bokeh from local streetlights or night views.
-- A sea of light created by the audience's glow sticks and smartphone lights.
+灯光与环境：
+- 基于当地时间（{argument name="time of day" default="黄金时段或夜晚"}）的自然光，由经纬度决定。
+- 舞台聚光灯与当地路灯或夜景散景并存。
+- 观众荧光棒和手机灯光汇聚成的光海。
 
-PRESERVE FROM IMAGE:
-- The character's facial features, hairstyle, hair color, and physical characteristics.
-- The character's unique expressions and performance habits.
+保留图像元素：
+- 人物的面部特征、发型、发色和身体特征。
+- 人物独特的表情和表演习惯。
 
-CONSTRAINTS / DO NOT:
-- Do not distort the character's form.
-- Avoid unnatural finger shapes or duplication of limbs.
-- Ensure that text or logos on the stage are depicted extremely clearly, avoiding illegible random strings.
-- The background must not be a generic concert venue; it must incorporate a unique landscape that could only exist in that specific location.
+限制/禁止：
+- 不要扭曲人物形态。
+- 避免不自然的手指形状或肢体重复。
+- 确保舞台上的文字或标志清晰可见，避免出现难以辨认的随机字符串。
+- 背景不得是普通的演唱会场地；它必须融入只有在该特定地点才可能存在的独特景观。
 
-LOCATION SPECIFICATION:
+地点规格：
 {argument name="latitude" default="-13.1631"}
 {argument name="longitude" default="-72.5450"}
 ```
@@ -963,7 +1078,7 @@ LOCATION SPECIFICATION:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT Image 1.5 World Tour Prompt Template - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT 图像 1.5 世界巡演提示模板 - Image 1">
 </div>
 
 #### 📌 详情
@@ -973,22 +1088,22 @@ LOCATION SPECIFICATION:
 - **发布时间:** 2025年12月18日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=GENERAL%20STYLE%20%26%20MOOD%3A%0APhotorealistic%20live%20concert%20documentary.%20Cinematic%20visual%20expression%20blending%20the%20fervor%20of%20the%20enthusiastic%20audience%20with%20the%20unique%20atmosphere%20and%20lighting%20specific%20to%20the%20location.%0A%0ASUBJECT%3A%0AThe%20character%20from%20the%20attached%20image%20is%20performing%20a%20'World%20Tour'%20live%20performance%20at%20the%20specified%20latitude%20and%20longitude%20location.%0AWhile%20completely%20preserving%20the%20character's%20identity%2C%20they%20are%20wearing%20a%20'World%20Tour%20exclusive%20stage%20costume'%20that%20modernly%20arranges%20the%20culture%2C%20tradition%2C%20or%20symbolic%20elements%20of%20that%20land.%0A%0ACOMPOSITION%20%26%20STAGE%20DESIGN%3A%0AThe%20stage%20is%20a%20special%20venue%20that%20maximizes%20the%20use%20of%20the%20local%20landmarks%2C%20topography%2C%20or%20urban%20landscape.%0A-%20Dynamic%20angle%20using%20a%20wide-angle%20lens%20(24mm%20equivalent).%0A-%20Immersive%20framing%2C%20looking%20up%20at%20the%20stage%20over%20the%20audience.%0A-%20Fusion%20of%20iconic%20local%20backgrounds%20(architecture%2C%20natural%20scenery)%20and%20the%20latest%20lighting%20technology%20(LED%2C%20laser).%0A%0ALIGHTING%20%26%20ENVIRONMENT%3A%0A-%20Natural%20light%20based%20on%20the%20local%20time%20of%20day%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22golden%20hour%2C%20or%20night%22%7D)%20determined%20by%20latitude%20and%20longitude.%0A-%20Coexistence%20of%20spotlights%20illuminating%20the%20stage%20and%20bokeh%20from%20local%20streetlights%20or%20night%20views.%0A-%20A%20sea%20of%20light%20created%20by%20the%20audience's%20glow%20sticks%20and%20smartphone%20lights.%0A%0APRESERVE%20FROM%20IMAGE%3A%0A-%20The%20character's%20facial%20features%2C%20hairstyle%2C%20hair%20color%2C%20and%20physical%20characteristics.%0A-%20The%20character's%20unique%20expressions%20and%20performance%20habits.%0A%0ACONSTRAINTS%20%2F%20DO%20NOT%3A%0A-%20Do%20not%20distort%20the%20character's%20form.%0A-%20Avoid%20unnatural%20finger%20shapes%20or%20duplication%20of%20limbs.%0A-%20Ensure%20that%20text%20or%20logos%20on%20the%20stage%20are%20depicted%20extremely%20clearly%2C%20avoiding%20illegible%20random%20strings.%0A-%20The%20background%20must%20not%20be%20a%20generic%20concert%20venue%3B%20it%20must%20incorporate%20a%20unique%20landscape%20that%20could%20only%20exist%20in%20that%20specific%20location.%0A%0ALOCATION%20SPECIFICATION%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%95%B4%E4%BD%93%E9%A3%8E%E6%A0%BC%E4%B8%8E%E6%B0%9B%E5%9B%B4%EF%BC%9A%0A%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%82%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E8%A7%86%E8%A7%89%E8%A1%A8%E7%8E%B0%EF%BC%8C%E5%B0%86%E7%83%AD%E6%83%85%E8%A7%82%E4%BC%97%E7%9A%84%E7%8B%82%E7%83%AD%E4%B8%8E%E8%AF%A5%E5%9C%B0%E7%82%B9%E7%89%B9%E6%9C%89%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%92%8C%E7%81%AF%E5%85%89%E8%9E%8D%E4%B8%BA%E4%B8%80%E4%BD%93%E3%80%82%0A%0A%E4%B8%BB%E9%A2%98%EF%BC%9A%0A%E9%99%84%E5%9B%BE%E4%B8%AD%E4%BA%BA%E7%89%A9%E6%AD%A3%E5%9C%A8%E6%8C%87%E5%AE%9A%E7%BB%8F%E7%BA%AC%E5%BA%A6%E4%BD%8D%E7%BD%AE%E8%BF%9B%E8%A1%8C%E2%80%9C%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E2%80%9D%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E3%80%82%0A%E5%9C%A8%E5%AE%8C%E5%85%A8%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E8%BA%AB%E4%BB%BD%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E4%BB%96%E4%BB%AC%E8%BA%AB%E7%9D%80%E2%80%9C%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E4%B8%93%E5%B1%9E%E8%88%9E%E5%8F%B0%E6%9C%8D%E8%A3%85%E2%80%9D%EF%BC%8C%E8%AF%A5%E6%9C%8D%E8%A3%85%E4%BB%A5%E7%8E%B0%E4%BB%A3%E6%96%B9%E5%BC%8F%E8%9E%8D%E5%90%88%E4%BA%86%E5%BD%93%E5%9C%B0%E7%9A%84%E6%96%87%E5%8C%96%E3%80%81%E4%BC%A0%E7%BB%9F%E6%88%96%E8%B1%A1%E5%BE%81%E6%80%A7%E5%85%83%E7%B4%A0%E3%80%82%0A%0A%E6%9E%84%E5%9B%BE%E4%B8%8E%E8%88%9E%E5%8F%B0%E8%AE%BE%E8%AE%A1%EF%BC%9A%0A%E8%88%9E%E5%8F%B0%E6%98%AF%E4%B8%80%E4%B8%AA%E7%89%B9%E6%AE%8A%E7%9A%84%E5%9C%BA%E5%9C%B0%EF%BC%8C%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E5%9C%B0%E5%88%A9%E7%94%A8%E4%BA%86%E5%BD%93%E5%9C%B0%E7%9A%84%E5%9C%B0%E6%A0%87%E3%80%81%E5%9C%B0%E5%BD%A2%E6%88%96%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%82%E3%80%82%0A-%20%E4%BD%BF%E7%94%A8%E5%B9%BF%E8%A7%92%E9%95%9C%E5%A4%B4%EF%BC%88%E7%AD%89%E6%95%88%2024mm%EF%BC%89%E7%9A%84%E5%8A%A8%E6%80%81%E8%A7%92%E5%BA%A6%E3%80%82%0A-%20%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%9E%84%E5%9B%BE%EF%BC%8C%E4%BB%8E%E8%A7%82%E4%BC%97%E4%B8%8A%E6%96%B9%E4%BB%B0%E8%A7%86%E8%88%9E%E5%8F%B0%E3%80%82%0A-%20%E6%A0%87%E5%BF%97%E6%80%A7%E5%BD%93%E5%9C%B0%E8%83%8C%E6%99%AF%EF%BC%88%E5%BB%BA%E7%AD%91%E3%80%81%E8%87%AA%E7%84%B6%E9%A3%8E%E5%85%89%EF%BC%89%E4%B8%8E%E6%9C%80%E6%96%B0%E7%85%A7%E6%98%8E%E6%8A%80%E6%9C%AF%EF%BC%88LED%E3%80%81%E6%BF%80%E5%85%89%EF%BC%89%E7%9A%84%E8%9E%8D%E5%90%88%E3%80%82%0A%0A%E7%81%AF%E5%85%89%E4%B8%8E%E7%8E%AF%E5%A2%83%EF%BC%9A%0A-%20%E5%9F%BA%E4%BA%8E%E5%BD%93%E5%9C%B0%E6%97%B6%E9%97%B4%EF%BC%88%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22%E9%BB%84%E9%87%91%E6%97%B6%E6%AE%B5%E6%88%96%E5%A4%9C%E6%99%9A%22%7D%EF%BC%89%E7%9A%84%E8%87%AA%E7%84%B6%E5%85%89%EF%BC%8C%E7%94%B1%E7%BB%8F%E7%BA%AC%E5%BA%A6%E5%86%B3%E5%AE%9A%E3%80%82%0A-%20%E8%88%9E%E5%8F%B0%E8%81%9A%E5%85%89%E7%81%AF%E4%B8%8E%E5%BD%93%E5%9C%B0%E8%B7%AF%E7%81%AF%E6%88%96%E5%A4%9C%E6%99%AF%E6%95%A3%E6%99%AF%E5%B9%B6%E5%AD%98%E3%80%82%0A-%20%E8%A7%82%E4%BC%97%E8%8D%A7%E5%85%89%E6%A3%92%E5%92%8C%E6%89%8B%E6%9C%BA%E7%81%AF%E5%85%89%E6%B1%87%E8%81%9A%E6%88%90%E7%9A%84%E5%85%89%E6%B5%B7%E3%80%82%0A%0A%E4%BF%9D%E7%95%99%E5%9B%BE%E5%83%8F%E5%85%83%E7%B4%A0%EF%BC%9A%0A-%20%E4%BA%BA%E7%89%A9%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%81%E5%8F%91%E5%9E%8B%E3%80%81%E5%8F%91%E8%89%B2%E5%92%8C%E8%BA%AB%E4%BD%93%E7%89%B9%E5%BE%81%E3%80%82%0A-%20%E4%BA%BA%E7%89%A9%E7%8B%AC%E7%89%B9%E7%9A%84%E8%A1%A8%E6%83%85%E5%92%8C%E8%A1%A8%E6%BC%94%E4%B9%A0%E6%83%AF%E3%80%82%0A%0A%E9%99%90%E5%88%B6%2F%E7%A6%81%E6%AD%A2%EF%BC%9A%0A-%20%E4%B8%8D%E8%A6%81%E6%89%AD%E6%9B%B2%E4%BA%BA%E7%89%A9%E5%BD%A2%E6%80%81%E3%80%82%0A-%20%E9%81%BF%E5%85%8D%E4%B8%8D%E8%87%AA%E7%84%B6%E7%9A%84%E6%89%8B%E6%8C%87%E5%BD%A2%E7%8A%B6%E6%88%96%E8%82%A2%E4%BD%93%E9%87%8D%E5%A4%8D%E3%80%82%0A-%20%E7%A1%AE%E4%BF%9D%E8%88%9E%E5%8F%B0%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97%E6%88%96%E6%A0%87%E5%BF%97%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%EF%BC%8C%E9%81%BF%E5%85%8D%E5%87%BA%E7%8E%B0%E9%9A%BE%E4%BB%A5%E8%BE%A8%E8%AE%A4%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%82%0A-%20%E8%83%8C%E6%99%AF%E4%B8%8D%E5%BE%97%E6%98%AF%E6%99%AE%E9%80%9A%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%EF%BC%9B%E5%AE%83%E5%BF%85%E9%A1%BB%E8%9E%8D%E5%85%A5%E5%8F%AA%E6%9C%89%E5%9C%A8%E8%AF%A5%E7%89%B9%E5%AE%9A%E5%9C%B0%E7%82%B9%E6%89%8D%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E7%9A%84%E7%8B%AC%E7%89%B9%E6%99%AF%E8%A7%82%E3%80%82%0A%0A%E5%9C%B0%E7%82%B9%E8%A7%84%E6%A0%BC%EF%BC%9A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
 
 ---
 
-### No. 20: Romantic Blue Ink Spill Portrait
+### No. 20: 浪漫蓝色墨水泼溅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A creative prompt instructing the model to convert an uploaded image of a couple into an ultra-realistic portrait rendered as a blue ink spill on paper, maintaining the faces but depicting a romantic pose and specific traditional clothing.
+一个创意提示，指示模型将上传的一对夫妇的图像转换为超现实的肖像，以蓝色墨水泼洒在纸上的形式呈现，同时保留面部特征，但描绘出浪漫的姿势和特定的传统服饰。
 
 #### 📝 提示词
 
 ```
-Convert the above image into ultra realistic portrait of both in a romantic pose in the form of blue ink spill in a paper .guy should be in formal shirt and pant .girl should be in flower designed saree.behind them  above their  head should have couple different  romantic  pose closeup face  picture in transparent form ..both should not look the camera .dramatic ( do not change the faces)
+将上方图片转换为超逼真的肖像画，画中两人以浪漫姿势呈现，形式为纸上的蓝色墨迹泼洒。男士应穿着正装衬衫和裤子。女士应穿着花卉图案的纱丽。在他们身后、头部上方，应有几张不同的浪漫姿势特写面部照片，呈透明状。两人都不应看向镜头。富有戏剧性（不要改变面部）。
 ```
 
 #### 🖼️ 生成图片
@@ -996,13 +1111,13 @@ Convert the above image into ultra realistic portrait of both in a romantic pose
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="浪漫蓝色墨水泼溅肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="浪漫蓝色墨水泼溅肖像 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1012,22 +1127,22 @@ Convert the above image into ultra realistic portrait of both in a romantic pose
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Convert%20the%20above%20image%20into%20ultra%20realistic%20portrait%20of%20both%20in%20a%20romantic%20pose%20in%20the%20form%20of%20blue%20ink%20spill%20in%20a%20paper%20.guy%20should%20be%20in%20formal%20shirt%20and%20pant%20.girl%20should%20be%20in%20flower%20designed%20saree.behind%20them%20%20above%20their%20%20head%20should%20have%20couple%20different%20%20romantic%20%20pose%20closeup%20face%20%20picture%20in%20transparent%20form%20..both%20should%20not%20look%20the%20camera%20.dramatic%20(%20do%20not%20change%20the%20faces))**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%B0%86%E4%B8%8A%E6%96%B9%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E8%B6%85%E9%80%BC%E7%9C%9F%E7%9A%84%E8%82%96%E5%83%8F%E7%94%BB%EF%BC%8C%E7%94%BB%E4%B8%AD%E4%B8%A4%E4%BA%BA%E4%BB%A5%E6%B5%AA%E6%BC%AB%E5%A7%BF%E5%8A%BF%E5%91%88%E7%8E%B0%EF%BC%8C%E5%BD%A2%E5%BC%8F%E4%B8%BA%E7%BA%B8%E4%B8%8A%E7%9A%84%E8%93%9D%E8%89%B2%E5%A2%A8%E8%BF%B9%E6%B3%BC%E6%B4%92%E3%80%82%E7%94%B7%E5%A3%AB%E5%BA%94%E7%A9%BF%E7%9D%80%E6%AD%A3%E8%A3%85%E8%A1%AC%E8%A1%AB%E5%92%8C%E8%A3%A4%E5%AD%90%E3%80%82%E5%A5%B3%E5%A3%AB%E5%BA%94%E7%A9%BF%E7%9D%80%E8%8A%B1%E5%8D%89%E5%9B%BE%E6%A1%88%E7%9A%84%E7%BA%B1%E4%B8%BD%E3%80%82%E5%9C%A8%E4%BB%96%E4%BB%AC%E8%BA%AB%E5%90%8E%E3%80%81%E5%A4%B4%E9%83%A8%E4%B8%8A%E6%96%B9%EF%BC%8C%E5%BA%94%E6%9C%89%E5%87%A0%E5%BC%A0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%A7%BF%E5%8A%BF%E7%89%B9%E5%86%99%E9%9D%A2%E9%83%A8%E7%85%A7%E7%89%87%EF%BC%8C%E5%91%88%E9%80%8F%E6%98%8E%E7%8A%B6%E3%80%82%E4%B8%A4%E4%BA%BA%E9%83%BD%E4%B8%8D%E5%BA%94%E7%9C%8B%E5%90%91%E9%95%9C%E5%A4%B4%E3%80%82%E5%AF%8C%E6%9C%89%E6%88%8F%E5%89%A7%E6%80%A7%EF%BC%88%E4%B8%8D%E8%A6%81%E6%94%B9%E5%8F%98%E9%9D%A2%E9%83%A8%EF%BC%89%E3%80%82)**
 
 ---
 
-### No. 21: Modern Ukiyo-e Style Beauty Illustration
+### No. 21: 现代浮世绘风格美人插画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A Japanese prompt for generating a modern recreation of a Ukiyo-e (woodblock print) style beauty portrait. The image should feature a beautiful woman wearing vividly colored and intricately patterned clothing, rendered as an illustration portrait.
+一个用于生成浮世绘（木版画）风格美人肖像现代再创作的日语提示。图像应描绘一位身着色彩鲜艳、图案精致服装的美丽女性，以插画肖像的形式呈现。
 
 #### 📝 提示词
 
 ```
-It seems that many compositions of multicolored Ukiyo-e beauty portraits were created during the Edo period. As a modern recreation, please prepare an **illustration** portrait of a beautiful woman wearing vividly colored and intricately patterned clothing.
+在江户时代，似乎创作了许多色彩斑斓的浮世绘美人图。作为现代的再创作，请准备一幅身着色彩鲜艳、图案精致的服装的美女**插画**肖像。
 ```
 
 #### 🖼️ 生成图片
@@ -1035,7 +1150,7 @@ It seems that many compositions of multicolored Ukiyo-e beauty portraits were cr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Modern Ukiyo-e Style Beauty Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="现代浮世绘风格美人插画 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1045,22 +1160,22 @@ It seems that many compositions of multicolored Ukiyo-e beauty portraits were cr
 - **发布时间:** 2025年12月18日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=It%20seems%20that%20many%20compositions%20of%20multicolored%20Ukiyo-e%20beauty%20portraits%20were%20created%20during%20the%20Edo%20period.%20As%20a%20modern%20recreation%2C%20please%20prepare%20an%20**illustration**%20portrait%20of%20a%20beautiful%20woman%20wearing%20vividly%20colored%20and%20intricately%20patterned%20clothing.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%9C%A8%E6%B1%9F%E6%88%B7%E6%97%B6%E4%BB%A3%EF%BC%8C%E4%BC%BC%E4%B9%8E%E5%88%9B%E4%BD%9C%E4%BA%86%E8%AE%B8%E5%A4%9A%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E6%B5%AE%E4%B8%96%E7%BB%98%E7%BE%8E%E4%BA%BA%E5%9B%BE%E3%80%82%E4%BD%9C%E4%B8%BA%E7%8E%B0%E4%BB%A3%E7%9A%84%E5%86%8D%E5%88%9B%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%87%86%E5%A4%87%E4%B8%80%E5%B9%85%E8%BA%AB%E7%9D%80%E8%89%B2%E5%BD%A9%E9%B2%9C%E8%89%B3%E3%80%81%E5%9B%BE%E6%A1%88%E7%B2%BE%E8%87%B4%E7%9A%84%E6%9C%8D%E8%A3%85%E7%9A%84%E7%BE%8E%E5%A5%B3**%E6%8F%92%E7%94%BB**%E8%82%96%E5%83%8F%E3%80%82)**
 
 ---
 
-### No. 22: Abstract Fibonacci Particle Facial Features CGI Prompt
+### No. 22: 抽象斐波那契粒子面部特征 CGI 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt requesting a computer-generated image (CGI) in a modern digital art style. The main subject is facial features composed of abstract, colorful Fibonacci particles flowing dynamically like layered water, set against a black-to-gray background with motion trails, using a bold isometric composition.
+一个详细的提示，要求生成一张现代数字艺术风格的计算机生成图像（CGI）。主体是面部特征，由抽象、色彩斑斓的斐波那契粒子构成，这些粒子像分层的水一样动态流动，背景为从黑到灰的渐变，带有运动轨迹，整体采用大胆的等距构图。
 
 #### 📝 提示词
 
 ```
-Using computer-generated imagery (CGI) technology, the scene is presented in a highly modern digital art style. The main subject of the image is facial features composed of abstract and colorful Fibonacci particles. The particles feature a rich color palette, including deep purple, dark blue, dull yellow, dark green, reddish-brown, off-white, and khaki, flowing dynamically like layered water. The background transitions from pure black to gray, cleverly creating the motion trails of the particles and a powerful sense of energy. A bold isometric composition is employed.
+该场景采用计算机生成图像（CGI）技术，以高度现代的数字艺术风格呈现。图像的主体是由抽象且色彩斑斓的斐波那契粒子构成的面部特征。这些粒子拥有丰富的调色板，包括深紫色、深蓝色、暗黄色、深绿色、红棕色、米白色和卡其色，它们像分层的水流一样动态流动。背景从纯黑色过渡到灰色，巧妙地营造出粒子的运动轨迹和强大的能量感。图像采用了大胆的等距构图。
 ```
 
 #### 🖼️ 生成图片
@@ -1068,19 +1183,19 @@ Using computer-generated imagery (CGI) technology, the scene is presented in a h
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="抽象斐波那契粒子面部特征 CGI 提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="抽象斐波那契粒子面部特征 CGI 提示词 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="抽象斐波那契粒子面部特征 CGI 提示词 - Image 3">
 </div>
 
 #### 📌 详情
@@ -1090,24 +1205,24 @@ Using computer-generated imagery (CGI) technology, the scene is presented in a h
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Using%20computer-generated%20imagery%20(CGI)%20technology%2C%20the%20scene%20is%20presented%20in%20a%20highly%20modern%20digital%20art%20style.%20The%20main%20subject%20of%20the%20image%20is%20facial%20features%20composed%20of%20abstract%20and%20colorful%20Fibonacci%20particles.%20The%20particles%20feature%20a%20rich%20color%20palette%2C%20including%20deep%20purple%2C%20dark%20blue%2C%20dull%20yellow%2C%20dark%20green%2C%20reddish-brown%2C%20off-white%2C%20and%20khaki%2C%20flowing%20dynamically%20like%20layered%20water.%20The%20background%20transitions%20from%20pure%20black%20to%20gray%2C%20cleverly%20creating%20the%20motion%20trails%20of%20the%20particles%20and%20a%20powerful%20sense%20of%20energy.%20A%20bold%20isometric%20composition%20is%20employed.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E8%AF%A5%E5%9C%BA%E6%99%AF%E9%87%87%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%94%9F%E6%88%90%E5%9B%BE%E5%83%8F%EF%BC%88CGI%EF%BC%89%E6%8A%80%E6%9C%AF%EF%BC%8C%E4%BB%A5%E9%AB%98%E5%BA%A6%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E5%91%88%E7%8E%B0%E3%80%82%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%BB%E4%BD%93%E6%98%AF%E7%94%B1%E6%8A%BD%E8%B1%A1%E4%B8%94%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E7%B2%92%E5%AD%90%E6%9E%84%E6%88%90%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%82%E8%BF%99%E4%BA%9B%E7%B2%92%E5%AD%90%E6%8B%A5%E6%9C%89%E4%B8%B0%E5%AF%8C%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B7%B1%E7%B4%AB%E8%89%B2%E3%80%81%E6%B7%B1%E8%93%9D%E8%89%B2%E3%80%81%E6%9A%97%E9%BB%84%E8%89%B2%E3%80%81%E6%B7%B1%E7%BB%BF%E8%89%B2%E3%80%81%E7%BA%A2%E6%A3%95%E8%89%B2%E3%80%81%E7%B1%B3%E7%99%BD%E8%89%B2%E5%92%8C%E5%8D%A1%E5%85%B6%E8%89%B2%EF%BC%8C%E5%AE%83%E4%BB%AC%E5%83%8F%E5%88%86%E5%B1%82%E7%9A%84%E6%B0%B4%E6%B5%81%E4%B8%80%E6%A0%B7%E5%8A%A8%E6%80%81%E6%B5%81%E5%8A%A8%E3%80%82%E8%83%8C%E6%99%AF%E4%BB%8E%E7%BA%AF%E9%BB%91%E8%89%B2%E8%BF%87%E6%B8%A1%E5%88%B0%E7%81%B0%E8%89%B2%EF%BC%8C%E5%B7%A7%E5%A6%99%E5%9C%B0%E8%90%A5%E9%80%A0%E5%87%BA%E7%B2%92%E5%AD%90%E7%9A%84%E8%BF%90%E5%8A%A8%E8%BD%A8%E8%BF%B9%E5%92%8C%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%83%BD%E9%87%8F%E6%84%9F%E3%80%82%E5%9B%BE%E5%83%8F%E9%87%87%E7%94%A8%E4%BA%86%E5%A4%A7%E8%83%86%E7%9A%84%E7%AD%89%E8%B7%9D%E6%9E%84%E5%9B%BE%E3%80%82)**
 
 ---
 
-### No. 23: Image-to-Sketch Transformation Prompt with Hand Detail
+### No. 23: 带手部细节的图像转草图转换提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for ChatGPT 5.2 that takes an uploaded photo and transforms it into a photo-style line drawing or ink sketch, requiring the model to maintain facial features exactly. It specifies the use of green and white ink on a notebook background, and includes the detail of a hand holding a pen and eraser near the sketch.
+一个用于 ChatGPT 5.2 的提示，它能将上传的照片转换成照片风格的线条画或水墨素描，要求模型精确保留面部特征。它指定使用绿色和白色墨水在笔记本背景上绘制，并包含一个细节：一只手在素描附近握着笔和橡皮擦。
 
 #### 📝 提示词
 
 ```
-Create a photo-style line drawing / ink sketch of a face identical to the uploaded reference image — keep every facial feature, proportion, and expression exactly the same.
-Use green and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.
-Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.
+创作一张与上传的参考图像完全相同的照片风格线条画/水墨素描脸部——保持所有面部特征、比例和表情完全一致。
+使用绿色和白色墨水色调，以精细的线条细节绘制，背景为笔记本页面风格。
+在素描旁边展示一只右手拿着钢笔和橡皮擦，仿佛艺术家仍在创作中。
 ```
 
 #### 🖼️ 生成图片
@@ -1115,7 +1230,7 @@ Show a right hand holding a pen and an eraser near the sketch, as if the artist 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="Image-to-Sketch Transformation Prompt with Hand Detail - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="带手部细节的图像转草图转换提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1125,34 +1240,34 @@ Show a right hand holding a pen and an eraser near the sketch, as if the artist 
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Create%20a%20photo-style%20line%20drawing%20%2F%20ink%20sketch%20of%20a%20face%20identical%20to%20the%20uploaded%20reference%20image%20%E2%80%94%20keep%20every%20facial%20feature%2C%20proportion%2C%20and%20expression%20exactly%20the%20same.%0AUse%20green%20and%20white%20ink%20tones%20with%20intricate%2C%20fine%20line%20detailing%2C%20drawn%20on%20a%20notebook-page%20style%20background.%0AShow%20a%20right%20hand%20holding%20a%20pen%20and%20an%20eraser%20near%20the%20sketch%2C%20as%20if%20the%20artist%20is%20still%20working.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E4%B8%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%8F%82%E8%80%83%E5%9B%BE%E5%83%8F%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E7%85%A7%E7%89%87%E9%A3%8E%E6%A0%BC%E7%BA%BF%E6%9D%A1%E7%94%BB%2F%E6%B0%B4%E5%A2%A8%E7%B4%A0%E6%8F%8F%E8%84%B8%E9%83%A8%E2%80%94%E2%80%94%E4%BF%9D%E6%8C%81%E6%89%80%E6%9C%89%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E3%80%81%E6%AF%94%E4%BE%8B%E5%92%8C%E8%A1%A8%E6%83%85%E5%AE%8C%E5%85%A8%E4%B8%80%E8%87%B4%E3%80%82%0A%E4%BD%BF%E7%94%A8%E7%BB%BF%E8%89%B2%E5%92%8C%E7%99%BD%E8%89%B2%E5%A2%A8%E6%B0%B4%E8%89%B2%E8%B0%83%EF%BC%8C%E4%BB%A5%E7%B2%BE%E7%BB%86%E7%9A%84%E7%BA%BF%E6%9D%A1%E7%BB%86%E8%8A%82%E7%BB%98%E5%88%B6%EF%BC%8C%E8%83%8C%E6%99%AF%E4%B8%BA%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%A1%B5%E9%9D%A2%E9%A3%8E%E6%A0%BC%E3%80%82%0A%E5%9C%A8%E7%B4%A0%E6%8F%8F%E6%97%81%E8%BE%B9%E5%B1%95%E7%A4%BA%E4%B8%80%E5%8F%AA%E5%8F%B3%E6%89%8B%E6%8B%BF%E7%9D%80%E9%92%A2%E7%AC%94%E5%92%8C%E6%A9%A1%E7%9A%AE%E6%93%A6%EF%BC%8C%E4%BB%BF%E4%BD%9B%E8%89%BA%E6%9C%AF%E5%AE%B6%E4%BB%8D%E5%9C%A8%E5%88%9B%E4%BD%9C%E4%B8%AD%E3%80%82)**
 
 ---
 
-### No. 24: Cinematic Dual-Tone Portrait from Uploaded Photo
+### No. 24: 上传照片，打造电影级双色调人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A step-by-step prompt for transforming an uploaded photo into an ultra-realistic, high-detail cinematic studio portrait using dramatic dual-tone lighting (teal and golden) while maintaining the subject's calm and confident presence.
+一个分步提示，用于将上传的照片转换为超现实、高细节的电影级工作室肖像，采用戏剧性的双色调照明（青色和金色），同时保持拍摄对象沉着自信的姿态。
 
 #### 📝 提示词
 
 ```
-"A cinematic studio portrait of the person in the uploaded photo, framed from the chest up, facing the camera with a calm, confident presence.
+上传照片中人物的电影级影棚肖像，从胸部以上取景，面朝镜头，展现沉着自信的气质。
 
-Dramatic dual-tone lighting with cool teal and warm golden tones creating a modern, cinematic mood.
+戏剧性的双色调灯光，冷青色与暖金色调营造出现代电影般的氛围。
 
-Natural skin texture, sharp focus on the eyes, soft shadows, and smooth color transitions.
+自然的皮肤纹理，眼睛对焦锐利，阴影柔和，色彩过渡平滑。
 
-Hair styled naturally, wearing a minimal dark outfit with a contemporary aesthetic.
+发型自然，身着极简的深色服装，具有现代美感。
 
-Clean studio background with subtle gradients.
+简洁的影棚背景，带有微妙的渐变。
 
-Professional photography, shallow depth of field, cinematic color grading, ultra-realistic, high detail, 4K quality.
+专业摄影，浅景深，电影级调色，超现实，高细节，4K 画质。
 
-Aspect ratio: 3:4 "
+宽高比：3:4
 ```
 
 #### 🖼️ 生成图片
@@ -1160,25 +1275,25 @@ Aspect ratio: 3:4 "
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="上传照片，打造电影级双色调人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="上传照片，打造电影级双色调人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="上传照片，打造电影级双色调人像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="上传照片，打造电影级双色调人像 - Image 4">
 </div>
 
 #### 📌 详情
@@ -1188,22 +1303,22 @@ Aspect ratio: 3:4 "
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%22A%20cinematic%20studio%20portrait%20of%20the%20person%20in%20the%20uploaded%20photo%2C%20framed%20from%20the%20chest%20up%2C%20facing%20the%20camera%20with%20a%20calm%2C%20confident%20presence.%0A%0ADramatic%20dual-tone%20lighting%20with%20cool%20teal%20and%20warm%20golden%20tones%20creating%20a%20modern%2C%20cinematic%20mood.%0A%0ANatural%20skin%20texture%2C%20sharp%20focus%20on%20the%20eyes%2C%20soft%20shadows%2C%20and%20smooth%20color%20transitions.%0A%0AHair%20styled%20naturally%2C%20wearing%20a%20minimal%20dark%20outfit%20with%20a%20contemporary%20aesthetic.%0A%0AClean%20studio%20background%20with%20subtle%20gradients.%0A%0AProfessional%20photography%2C%20shallow%20depth%20of%20field%2C%20cinematic%20color%20grading%2C%20ultra-realistic%2C%20high%20detail%2C%204K%20quality.%0A%0AAspect%20ratio%3A%203%3A4%20%22)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%8A%E4%BC%A0%E7%85%A7%E7%89%87%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%BD%B1%E6%A3%9A%E8%82%96%E5%83%8F%EF%BC%8C%E4%BB%8E%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E5%8F%96%E6%99%AF%EF%BC%8C%E9%9D%A2%E6%9C%9D%E9%95%9C%E5%A4%B4%EF%BC%8C%E5%B1%95%E7%8E%B0%E6%B2%89%E7%9D%80%E8%87%AA%E4%BF%A1%E7%9A%84%E6%B0%94%E8%B4%A8%E3%80%82%0A%0A%E6%88%8F%E5%89%A7%E6%80%A7%E7%9A%84%E5%8F%8C%E8%89%B2%E8%B0%83%E7%81%AF%E5%85%89%EF%BC%8C%E5%86%B7%E9%9D%92%E8%89%B2%E4%B8%8E%E6%9A%96%E9%87%91%E8%89%B2%E8%B0%83%E8%90%A5%E9%80%A0%E5%87%BA%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E6%B0%9B%E5%9B%B4%E3%80%82%0A%0A%E8%87%AA%E7%84%B6%E7%9A%84%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%AF%B9%E7%84%A6%E9%94%90%E5%88%A9%EF%BC%8C%E9%98%B4%E5%BD%B1%E6%9F%94%E5%92%8C%EF%BC%8C%E8%89%B2%E5%BD%A9%E8%BF%87%E6%B8%A1%E5%B9%B3%E6%BB%91%E3%80%82%0A%0A%E5%8F%91%E5%9E%8B%E8%87%AA%E7%84%B6%EF%BC%8C%E8%BA%AB%E7%9D%80%E6%9E%81%E7%AE%80%E7%9A%84%E6%B7%B1%E8%89%B2%E6%9C%8D%E8%A3%85%EF%BC%8C%E5%85%B7%E6%9C%89%E7%8E%B0%E4%BB%A3%E7%BE%8E%E6%84%9F%E3%80%82%0A%0A%E7%AE%80%E6%B4%81%E7%9A%84%E5%BD%B1%E6%A3%9A%E8%83%8C%E6%99%AF%EF%BC%8C%E5%B8%A6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%B8%90%E5%8F%98%E3%80%82%0A%0A%E4%B8%93%E4%B8%9A%E6%91%84%E5%BD%B1%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%EF%BC%8C%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B0%83%E8%89%B2%EF%BC%8C%E8%B6%85%E7%8E%B0%E5%AE%9E%EF%BC%8C%E9%AB%98%E7%BB%86%E8%8A%82%EF%BC%8C4K%20%E7%94%BB%E8%B4%A8%E3%80%82%0A%0A%E5%AE%BD%E9%AB%98%E6%AF%94%EF%BC%9A3%3A4)**
 
 ---
 
-### No. 25: Moody Cinematic Portrait with Motion Blur
+### No. 25: 电影感动态模糊人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for generating a cinematic, high-contrast portrait of a young male model in a black suit, featuring harsh directional lighting, a tense expression, and a horizontal motion blur effect slicing across the face.
+一个详细的提示，用于生成一张电影风格、高对比度的年轻男模肖像，他身穿黑色西装，面部有强烈定向照明、紧张的表情，以及一道横向的运动模糊效果划过脸部。
 
 #### 📝 提示词
 
 ```
-Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+生成一张情绪化的电影风格肖像，描绘一位皮肤白皙、发质柔软卷曲的年轻男模。他身着合身的黑色西装，内搭深色衬衫，站在黑色背景前。左侧射来强烈定向光，投下深邃的阴影。模特直视前方，眼神锐利，下颌紧绷，一只手抓着衣领靠近颈部。一道水平的运动模糊效果从左到右划过脸部，融合了柔和的琥珀色和米色光线。静止区域与模糊区域形成鲜明对比，整体呈现风格化的编辑调性，带有细微的胶片颗粒和柔和的衰减效果，没有数字化的平滑或塑料感，皮肤纹理和阴影保持完整，表情充满情感，头发周围有光晕，背景细节极少。
 ```
 
 #### 🖼️ 生成图片
@@ -1211,13 +1326,13 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="电影感动态模糊人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="电影感动态模糊人像 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1227,22 +1342,22 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E6%83%85%E7%BB%AA%E5%8C%96%E7%9A%84%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F%EF%BC%8C%E6%8F%8F%E7%BB%98%E4%B8%80%E4%BD%8D%E7%9A%AE%E8%82%A4%E7%99%BD%E7%9A%99%E3%80%81%E5%8F%91%E8%B4%A8%E6%9F%94%E8%BD%AF%E5%8D%B7%E6%9B%B2%E7%9A%84%E5%B9%B4%E8%BD%BB%E7%94%B7%E6%A8%A1%E3%80%82%E4%BB%96%E8%BA%AB%E7%9D%80%E5%90%88%E8%BA%AB%E7%9A%84%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%EF%BC%8C%E5%86%85%E6%90%AD%E6%B7%B1%E8%89%B2%E8%A1%AC%E8%A1%AB%EF%BC%8C%E7%AB%99%E5%9C%A8%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF%E5%89%8D%E3%80%82%E5%B7%A6%E4%BE%A7%E5%B0%84%E6%9D%A5%E5%BC%BA%E7%83%88%E5%AE%9A%E5%90%91%E5%85%89%EF%BC%8C%E6%8A%95%E4%B8%8B%E6%B7%B1%E9%82%83%E7%9A%84%E9%98%B4%E5%BD%B1%E3%80%82%E6%A8%A1%E7%89%B9%E7%9B%B4%E8%A7%86%E5%89%8D%E6%96%B9%EF%BC%8C%E7%9C%BC%E7%A5%9E%E9%94%90%E5%88%A9%EF%BC%8C%E4%B8%8B%E9%A2%8C%E7%B4%A7%E7%BB%B7%EF%BC%8C%E4%B8%80%E5%8F%AA%E6%89%8B%E6%8A%93%E7%9D%80%E8%A1%A3%E9%A2%86%E9%9D%A0%E8%BF%91%E9%A2%88%E9%83%A8%E3%80%82%E4%B8%80%E9%81%93%E6%B0%B4%E5%B9%B3%E7%9A%84%E8%BF%90%E5%8A%A8%E6%A8%A1%E7%B3%8A%E6%95%88%E6%9E%9C%E4%BB%8E%E5%B7%A6%E5%88%B0%E5%8F%B3%E5%88%92%E8%BF%87%E8%84%B8%E9%83%A8%EF%BC%8C%E8%9E%8D%E5%90%88%E4%BA%86%E6%9F%94%E5%92%8C%E7%9A%84%E7%90%A5%E7%8F%80%E8%89%B2%E5%92%8C%E7%B1%B3%E8%89%B2%E5%85%89%E7%BA%BF%E3%80%82%E9%9D%99%E6%AD%A2%E5%8C%BA%E5%9F%9F%E4%B8%8E%E6%A8%A1%E7%B3%8A%E5%8C%BA%E5%9F%9F%E5%BD%A2%E6%88%90%E9%B2%9C%E6%98%8E%E5%AF%B9%E6%AF%94%EF%BC%8C%E6%95%B4%E4%BD%93%E5%91%88%E7%8E%B0%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E7%BC%96%E8%BE%91%E8%B0%83%E6%80%A7%EF%BC%8C%E5%B8%A6%E6%9C%89%E7%BB%86%E5%BE%AE%E7%9A%84%E8%83%B6%E7%89%87%E9%A2%97%E7%B2%92%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E8%A1%B0%E5%87%8F%E6%95%88%E6%9E%9C%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%95%B0%E5%AD%97%E5%8C%96%E7%9A%84%E5%B9%B3%E6%BB%91%E6%88%96%E5%A1%91%E6%96%99%E6%84%9F%EF%BC%8C%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E5%92%8C%E9%98%B4%E5%BD%B1%E4%BF%9D%E6%8C%81%E5%AE%8C%E6%95%B4%EF%BC%8C%E8%A1%A8%E6%83%85%E5%85%85%E6%BB%A1%E6%83%85%E6%84%9F%EF%BC%8C%E5%A4%B4%E5%8F%91%E5%91%A8%E5%9B%B4%E6%9C%89%E5%85%89%E6%99%95%EF%BC%8C%E8%83%8C%E6%99%AF%E7%BB%86%E8%8A%82%E6%9E%81%E5%B0%91%E3%80%82)**
 
 ---
 
-### No. 26: Retro Vintage Portrait from Reference Photo
+### No. 26: 复古肖像画：基于参考照片绘制
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for creating a retro, vintage, grainy, but bright portrait based on an uploaded reference picture. It focuses on maintaining the exact facial features and likeness of the subject while placing them in a natural outdoor setting under soft, desaturated lighting.
+一个用于根据上传的参考图片创建复古、老式、颗粒感但明亮肖像的提示。它着重于保持人物面部的精确特征和相似度，同时将其置于柔和、去饱和光照下的自然户外环境中。
 
 #### 📝 提示词
 
 ```
-Create a retro vintage grainy but bright image of the reference picture. Use the uploaded image as exact facial reference, keeping the same features, proportions, and likeness. wearing a loose white shirt and dark trousers, is sitting on the ground with his back against the trunk of a bare tree. His eyes are closed and his head is tilted back slightly. He is in a grassy field with a line of trees in the background under a clear sky. The lighting is natural and soft, with a slightly desaturated color palette. keep my face 100% same as in reference image
+根据参考图片，创建一张复古、颗粒感强但明亮的图像。请以上传的图片作为精确的面部参考，保持相同的特征、比例和相似度。他身穿宽松的白衬衫和深色长裤，背靠着一棵光秃秃的树干坐在地上。他双眼紧闭，头微微向后仰。他置身于一片草地中，背景是一排树木，天空晴朗。光线自然柔和，色彩略微去饱和。请确保我的脸与参考图片中的脸 100% 相同。
 ```
 
 #### 🖼️ 生成图片
@@ -1250,25 +1365,25 @@ Create a retro vintage grainy but bright image of the reference picture. Use the
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="复古肖像画：基于参考照片绘制 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="复古肖像画：基于参考照片绘制 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="复古肖像画：基于参考照片绘制 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="复古肖像画：基于参考照片绘制 - Image 4">
 </div>
 
 #### 📌 详情
@@ -1278,26 +1393,26 @@ Create a retro vintage grainy but bright image of the reference picture. Use the
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Create%20a%20retro%20vintage%20grainy%20but%20bright%20image%20of%20the%20reference%20picture.%20Use%20the%20uploaded%20image%20as%20exact%20facial%20reference%2C%20keeping%20the%20same%20features%2C%20proportions%2C%20and%20likeness.%20wearing%20a%20loose%20white%20shirt%20and%20dark%20trousers%2C%20is%20sitting%20on%20the%20ground%20with%20his%20back%20against%20the%20trunk%20of%20a%20bare%20tree.%20His%20eyes%20are%20closed%20and%20his%20head%20is%20tilted%20back%20slightly.%20He%20is%20in%20a%20grassy%20field%20with%20a%20line%20of%20trees%20in%20the%20background%20under%20a%20clear%20sky.%20The%20lighting%20is%20natural%20and%20soft%2C%20with%20a%20slightly%20desaturated%20color%20palette.%20keep%20my%20face%20100%25%20same%20as%20in%20reference%20image)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%A0%B9%E6%8D%AE%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%EF%BC%8C%E5%88%9B%E5%BB%BA%E4%B8%80%E5%BC%A0%E5%A4%8D%E5%8F%A4%E3%80%81%E9%A2%97%E7%B2%92%E6%84%9F%E5%BC%BA%E4%BD%86%E6%98%8E%E4%BA%AE%E7%9A%84%E5%9B%BE%E5%83%8F%E3%80%82%E8%AF%B7%E4%BB%A5%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87%E4%BD%9C%E4%B8%BA%E7%B2%BE%E7%A1%AE%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%9B%B8%E5%90%8C%E7%9A%84%E7%89%B9%E5%BE%81%E3%80%81%E6%AF%94%E4%BE%8B%E5%92%8C%E7%9B%B8%E4%BC%BC%E5%BA%A6%E3%80%82%E4%BB%96%E8%BA%AB%E7%A9%BF%E5%AE%BD%E6%9D%BE%E7%9A%84%E7%99%BD%E8%A1%AC%E8%A1%AB%E5%92%8C%E6%B7%B1%E8%89%B2%E9%95%BF%E8%A3%A4%EF%BC%8C%E8%83%8C%E9%9D%A0%E7%9D%80%E4%B8%80%E6%A3%B5%E5%85%89%E7%A7%83%E7%A7%83%E7%9A%84%E6%A0%91%E5%B9%B2%E5%9D%90%E5%9C%A8%E5%9C%B0%E4%B8%8A%E3%80%82%E4%BB%96%E5%8F%8C%E7%9C%BC%E7%B4%A7%E9%97%AD%EF%BC%8C%E5%A4%B4%E5%BE%AE%E5%BE%AE%E5%90%91%E5%90%8E%E4%BB%B0%E3%80%82%E4%BB%96%E7%BD%AE%E8%BA%AB%E4%BA%8E%E4%B8%80%E7%89%87%E8%8D%89%E5%9C%B0%E4%B8%AD%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E4%B8%80%E6%8E%92%E6%A0%91%E6%9C%A8%EF%BC%8C%E5%A4%A9%E7%A9%BA%E6%99%B4%E6%9C%97%E3%80%82%E5%85%89%E7%BA%BF%E8%87%AA%E7%84%B6%E6%9F%94%E5%92%8C%EF%BC%8C%E8%89%B2%E5%BD%A9%E7%95%A5%E5%BE%AE%E5%8E%BB%E9%A5%B1%E5%92%8C%E3%80%82%E8%AF%B7%E7%A1%AE%E4%BF%9D%E6%88%91%E7%9A%84%E8%84%B8%E4%B8%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E7%9A%84%E8%84%B8%20100%25%20%E7%9B%B8%E5%90%8C%E3%80%82)**
 
 ---
 
-### No. 27: VTuber Gaming Thumbnail Creation Prompt
+### No. 27: VTuber 游戏缩略图创建提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A multi-step conversational prompt used to refine an image generation request for a VTuber gaming stream thumbnail. The initial request asks for a character (based on an uploaded image) to be shown intensely focused on a game controller, maintaining their style and outfit. The subsequent steps refine the character's appearance, requesting them to be more delicate, cuter, with a smaller bust size and long sleeves, and finally correcting a text error in the generated image.
+一个多步骤的对话式提示，用于优化 VTuber 游戏直播缩略图的图像生成请求。最初的请求是让一个角色（基于上传的图片）专注地看着游戏手柄，同时保持其风格和服装。后续步骤优化了角色的外观，要求其更精致、更可爱，胸部尺寸更小，并穿着长袖，最后修正了生成图像中的文本错误。
 
 #### 📝 提示词
 
 ```
-Maintain the character's style and outfit, change the scene to them intensely gripping a game controller, and create a thumbnail image in the style of a fictional VTuber's game stream.
+保持角色的风格和服装，将场景改为他们正全神贯注地握着游戏手柄，并以虚构的 VTuber 游戏直播风格创建一张缩略图。
 
-They look a bit too robust, so please make them more delicate and cute. Also, the bust size should be more modest, and the sleeves should be long sleeves.
+他们看起来有点过于强壮，请让他们更纤细可爱一些。另外，胸部尺寸应更适中，袖子应改为长袖。
 
-Fix the collapsed 'Ge' in the top left corner.
+修复左上角折叠的“Ge”字样。
 ```
 
 #### 🖼️ 生成图片
@@ -1305,19 +1420,19 @@ Fix the collapsed 'Ge' in the top left corner.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber 游戏缩略图创建提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber 游戏缩略图创建提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber 游戏缩略图创建提示 - Image 3">
 </div>
 
 #### 📌 详情
@@ -1327,22 +1442,22 @@ Fix the collapsed 'Ge' in the top left corner.
 - **发布时间:** 2025年12月18日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Maintain%20the%20character's%20style%20and%20outfit%2C%20change%20the%20scene%20to%20them%20intensely%20gripping%20a%20game%20controller%2C%20and%20create%20a%20thumbnail%20image%20in%20the%20style%20of%20a%20fictional%20VTuber's%20game%20stream.%0A%0AThey%20look%20a%20bit%20too%20robust%2C%20so%20please%20make%20them%20more%20delicate%20and%20cute.%20Also%2C%20the%20bust%20size%20should%20be%20more%20modest%2C%20and%20the%20sleeves%20should%20be%20long%20sleeves.%0A%0AFix%20the%20collapsed%20'Ge'%20in%20the%20top%20left%20corner.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%BF%9D%E6%8C%81%E8%A7%92%E8%89%B2%E7%9A%84%E9%A3%8E%E6%A0%BC%E5%92%8C%E6%9C%8D%E8%A3%85%EF%BC%8C%E5%B0%86%E5%9C%BA%E6%99%AF%E6%94%B9%E4%B8%BA%E4%BB%96%E4%BB%AC%E6%AD%A3%E5%85%A8%E7%A5%9E%E8%B4%AF%E6%B3%A8%E5%9C%B0%E6%8F%A1%E7%9D%80%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9F%84%EF%BC%8C%E5%B9%B6%E4%BB%A5%E8%99%9A%E6%9E%84%E7%9A%84%20VTuber%20%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD%E9%A3%8E%E6%A0%BC%E5%88%9B%E5%BB%BA%E4%B8%80%E5%BC%A0%E7%BC%A9%E7%95%A5%E5%9B%BE%E3%80%82%0A%0A%E4%BB%96%E4%BB%AC%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9C%89%E7%82%B9%E8%BF%87%E4%BA%8E%E5%BC%BA%E5%A3%AE%EF%BC%8C%E8%AF%B7%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%9B%B4%E7%BA%A4%E7%BB%86%E5%8F%AF%E7%88%B1%E4%B8%80%E4%BA%9B%E3%80%82%E5%8F%A6%E5%A4%96%EF%BC%8C%E8%83%B8%E9%83%A8%E5%B0%BA%E5%AF%B8%E5%BA%94%E6%9B%B4%E9%80%82%E4%B8%AD%EF%BC%8C%E8%A2%96%E5%AD%90%E5%BA%94%E6%94%B9%E4%B8%BA%E9%95%BF%E8%A2%96%E3%80%82%0A%0A%E4%BF%AE%E5%A4%8D%E5%B7%A6%E4%B8%8A%E8%A7%92%E6%8A%98%E5%8F%A0%E7%9A%84%E2%80%9CGe%E2%80%9D%E5%AD%97%E6%A0%B7%E3%80%82)**
 
 ---
 
-### No. 28: Monochrome Studio Portrait with Dramatic Lighting
+### No. 28: 单色工作室肖像，光线富有戏剧性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for generating a high-contrast, black and white studio portrait of a man, focusing on minimal lighting and deep shadows to create a calm, confident, and cinematic mood.
+一个详细的提示，用于生成一张高对比度的黑白男士工作室肖像，重点在于极简照明和深邃阴影，以营造一种平静、自信和电影般的氛围。
 
 #### 📝 提示词
 
 ```
-Create a monochrome studio portrait of a man. Use minimal lighting with soft falloff so the focus stays entirely on him, with subtle gradients and deep shadows shaping his face. The composition should be a tight-medium shot against a clean, distraction-free background. He’s dressed in a casual, stylish outfit—like a simple tee or sweatshirt with light texture that works well in black and white. The overall mood should feel calm and confident, with a pleasing, balanced vibe. Render it in high-contrast black and white with crisp details, smooth tones, and a subtle cinematic depth.
+创作一张男士的单色影棚肖像。使用极简照明，光线柔和衰减，使焦点完全集中在他身上，通过微妙的渐变和深邃的阴影塑造他的脸部轮廓。构图应为紧凑的中景镜头，背景干净，无干扰。他穿着休闲时尚的服装——例如一件简单的 T 恤或运动衫，带有适合黑白摄影的轻微纹理。整体氛围应平静而自信，营造出一种令人愉悦、平衡的感觉。以高对比度的黑白效果呈现，细节清晰，色调平滑，并带有一丝电影般的深度。
 ```
 
 #### 🖼️ 生成图片
@@ -1350,13 +1465,13 @@ Create a monochrome studio portrait of a man. Use minimal lighting with soft fal
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="单色工作室肖像，光线富有戏剧性 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="单色工作室肖像，光线富有戏剧性 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1366,22 +1481,22 @@ Create a monochrome studio portrait of a man. Use minimal lighting with soft fal
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Create%20a%20monochrome%20studio%20portrait%20of%20a%20man.%20Use%20minimal%20lighting%20with%20soft%20falloff%20so%20the%20focus%20stays%20entirely%20on%20him%2C%20with%20subtle%20gradients%20and%20deep%20shadows%20shaping%20his%20face.%20The%20composition%20should%20be%20a%20tight-medium%20shot%20against%20a%20clean%2C%20distraction-free%20background.%20He%E2%80%99s%20dressed%20in%20a%20casual%2C%20stylish%20outfit%E2%80%94like%20a%20simple%20tee%20or%20sweatshirt%20with%20light%20texture%20that%20works%20well%20in%20black%20and%20white.%20The%20overall%20mood%20should%20feel%20calm%20and%20confident%2C%20with%20a%20pleasing%2C%20balanced%20vibe.%20Render%20it%20in%20high-contrast%20black%20and%20white%20with%20crisp%20details%2C%20smooth%20tones%2C%20and%20a%20subtle%20cinematic%20depth.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E7%94%B7%E5%A3%AB%E7%9A%84%E5%8D%95%E8%89%B2%E5%BD%B1%E6%A3%9A%E8%82%96%E5%83%8F%E3%80%82%E4%BD%BF%E7%94%A8%E6%9E%81%E7%AE%80%E7%85%A7%E6%98%8E%EF%BC%8C%E5%85%89%E7%BA%BF%E6%9F%94%E5%92%8C%E8%A1%B0%E5%87%8F%EF%BC%8C%E4%BD%BF%E7%84%A6%E7%82%B9%E5%AE%8C%E5%85%A8%E9%9B%86%E4%B8%AD%E5%9C%A8%E4%BB%96%E8%BA%AB%E4%B8%8A%EF%BC%8C%E9%80%9A%E8%BF%87%E5%BE%AE%E5%A6%99%E7%9A%84%E6%B8%90%E5%8F%98%E5%92%8C%E6%B7%B1%E9%82%83%E7%9A%84%E9%98%B4%E5%BD%B1%E5%A1%91%E9%80%A0%E4%BB%96%E7%9A%84%E8%84%B8%E9%83%A8%E8%BD%AE%E5%BB%93%E3%80%82%E6%9E%84%E5%9B%BE%E5%BA%94%E4%B8%BA%E7%B4%A7%E5%87%91%E7%9A%84%E4%B8%AD%E6%99%AF%E9%95%9C%E5%A4%B4%EF%BC%8C%E8%83%8C%E6%99%AF%E5%B9%B2%E5%87%80%EF%BC%8C%E6%97%A0%E5%B9%B2%E6%89%B0%E3%80%82%E4%BB%96%E7%A9%BF%E7%9D%80%E4%BC%91%E9%97%B2%E6%97%B6%E5%B0%9A%E7%9A%84%E6%9C%8D%E8%A3%85%E2%80%94%E2%80%94%E4%BE%8B%E5%A6%82%E4%B8%80%E4%BB%B6%E7%AE%80%E5%8D%95%E7%9A%84%20T%20%E6%81%A4%E6%88%96%E8%BF%90%E5%8A%A8%E8%A1%AB%EF%BC%8C%E5%B8%A6%E6%9C%89%E9%80%82%E5%90%88%E9%BB%91%E7%99%BD%E6%91%84%E5%BD%B1%E7%9A%84%E8%BD%BB%E5%BE%AE%E7%BA%B9%E7%90%86%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E5%BA%94%E5%B9%B3%E9%9D%99%E8%80%8C%E8%87%AA%E4%BF%A1%EF%BC%8C%E8%90%A5%E9%80%A0%E5%87%BA%E4%B8%80%E7%A7%8D%E4%BB%A4%E4%BA%BA%E6%84%89%E6%82%A6%E3%80%81%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82%E4%BB%A5%E9%AB%98%E5%AF%B9%E6%AF%94%E5%BA%A6%E7%9A%84%E9%BB%91%E7%99%BD%E6%95%88%E6%9E%9C%E5%91%88%E7%8E%B0%EF%BC%8C%E7%BB%86%E8%8A%82%E6%B8%85%E6%99%B0%EF%BC%8C%E8%89%B2%E8%B0%83%E5%B9%B3%E6%BB%91%EF%BC%8C%E5%B9%B6%E5%B8%A6%E6%9C%89%E4%B8%80%E4%B8%9D%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E6%B7%B1%E5%BA%A6%E3%80%82)**
 
 ---
 
-### No. 29: Futuristic Architectural Landmarks based on Calculus Symbols
+### No. 29: 基于微积分符号的未来主义建筑地标
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating a 2x2 grid of futuristic architectural landmarks, where each structure is based on an important calculus symbol. The scene is set in a utopian solarpunk city with bright, clean aesthetics.
+生成一个 2x2 网格的未来主义建筑地标的提示，其中每个结构都基于一个重要的微积分符号。场景设定在一个拥有明亮、整洁美学的乌托邦式太阳朋克城市中。
 
 #### 📝 提示词
 
 ```
-A 2x2 grid of 4 futuristic architectural landmarks based on important calculus symbols, Set in a utopian solarpunk city, bright midday sunlight, clean white materials, glass and steel, cyan sky, architectural photography, Lumion render, wide angle, high exposure, sense of scale
+一个 2x2 的网格，包含 4 个基于重要微积分符号的未来主义建筑地标，置身于一个乌托邦式的太阳朋克城市，明亮的午间阳光，干净的白色材料，玻璃和钢材，青色天空，建筑摄影，Lumion 渲染，广角，高曝光，具有尺度感
 ```
 
 #### 🖼️ 生成图片
@@ -1389,13 +1504,13 @@ A 2x2 grid of 4 futuristic architectural landmarks based on important calculus s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="基于微积分符号的未来主义建筑地标 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="基于微积分符号的未来主义建筑地标 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1405,66 +1520,66 @@ A 2x2 grid of 4 futuristic architectural landmarks based on important calculus s
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=A%202x2%20grid%20of%204%20futuristic%20architectural%20landmarks%20based%20on%20important%20calculus%20symbols%2C%20Set%20in%20a%20utopian%20solarpunk%20city%2C%20bright%20midday%20sunlight%2C%20clean%20white%20materials%2C%20glass%20and%20steel%2C%20cyan%20sky%2C%20architectural%20photography%2C%20Lumion%20render%2C%20wide%20angle%2C%20high%20exposure%2C%20sense%20of%20scale)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%B8%AA%202x2%20%E7%9A%84%E7%BD%91%E6%A0%BC%EF%BC%8C%E5%8C%85%E5%90%AB%204%20%E4%B8%AA%E5%9F%BA%E4%BA%8E%E9%87%8D%E8%A6%81%E5%BE%AE%E7%A7%AF%E5%88%86%E7%AC%A6%E5%8F%B7%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E5%BB%BA%E7%AD%91%E5%9C%B0%E6%A0%87%EF%BC%8C%E7%BD%AE%E8%BA%AB%E4%BA%8E%E4%B8%80%E4%B8%AA%E4%B9%8C%E6%89%98%E9%82%A6%E5%BC%8F%E7%9A%84%E5%A4%AA%E9%98%B3%E6%9C%8B%E5%85%8B%E5%9F%8E%E5%B8%82%EF%BC%8C%E6%98%8E%E4%BA%AE%E7%9A%84%E5%8D%88%E9%97%B4%E9%98%B3%E5%85%89%EF%BC%8C%E5%B9%B2%E5%87%80%E7%9A%84%E7%99%BD%E8%89%B2%E6%9D%90%E6%96%99%EF%BC%8C%E7%8E%BB%E7%92%83%E5%92%8C%E9%92%A2%E6%9D%90%EF%BC%8C%E9%9D%92%E8%89%B2%E5%A4%A9%E7%A9%BA%EF%BC%8C%E5%BB%BA%E7%AD%91%E6%91%84%E5%BD%B1%EF%BC%8CLumion%20%E6%B8%B2%E6%9F%93%EF%BC%8C%E5%B9%BF%E8%A7%92%EF%BC%8C%E9%AB%98%E6%9B%9D%E5%85%89%EF%BC%8C%E5%85%B7%E6%9C%89%E5%B0%BA%E5%BA%A6%E6%84%9F)**
 
 ---
 
-### No. 30: Futuristic Fashion Editorial with Identity Preservation
+### No. 30: 未来时尚社论：身份的保留
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly structured JSON prompt for generating a photorealistic futuristic fashion editorial image. It mandates strict identity preservation, using the exact face and expression from an uploaded photo, while styling the subject in specific oversized clothing in a minimalist sky-blue studio.
+一个高度结构化的 JSON 提示，用于生成一张超逼真的未来主义时尚编辑图片。它要求严格保留身份，使用上传照片中完全相同的面部和表情，同时在极简的天蓝色工作室中为拍摄对象设计特定款式的超大号服装。
 
 #### 📝 提示词
 
 ```
 {
   "type": "image_generation_prompt",
-  "style": "fashion editorial x futuristic",
+  "style": "时尚杂志风 x 未来主义",
   "identity_preservation": {
     "use_uploaded_image": true,
     "alter_face": false,
-    "notes": "Use the same face and hairstyle from the uploaded photo. Do not change facial features or facial expression."
+    "notes": "使用上传照片中的相同面部和发型。不要改变面部特征或面部表情。"
   },
   "subject": {
-    "gender": "female",
+    "gender": "女性",
     "pose": {
-      "position": "seated",
-      "posture": "elegant and relaxed",
-      "expression": "unchanged from the reference image"
+      "position": "坐姿",
+      "posture": "优雅而放松",
+      "expression": "与参考图片保持一致"
     }
   },
   "wardrobe": {
-    "top": "oversized white sweatshirt",
-    "bottoms": "cloudy blue oversized combat jeans",
-    "footwear": "cloudy blue neutral sneakers or Nike sneakers",
-    "socks": "white ribbed socks"
+    "top": "超大白色卫衣",
+    "bottoms": "云雾蓝超大工装牛仔裤",
+    "footwear": "云雾蓝中性运动鞋或 Nike 运动鞋",
+    "socks": "白色罗纹袜"
   },
   "environment": {
-    "setting": "studio",
+    "setting": "影棚",
     "background": {
-      "color": "muted sky-blue tone",
-      "style": "clean, minimalist"
+      "color": "柔和的天蓝色调",
+      "style": "干净、极简"
     }
   },
   "lighting": {
-    "type": "soft cinematic glow",
+    "type": "柔和的电影感光泽",
     "effects": [
-      "highlights skin texture",
-      "enhances fabric textures"
+      "突出皮肤纹理",
+      "增强织物纹理"
     ]
   },
   "composition": {
-    "style": "editorial",
-    "focus": "model-centered with balanced framing"
+    "style": "杂志风",
+    "focus": "模特居中，构图平衡"
   },
   "quality": {
-    "realism": "photorealistic",
-    "detail_level": "high detail in skin and fabric"
+    "realism": "照片级真实感",
+    "detail_level": "皮肤和织物细节丰富"
   },
-  "output_goal": "Create a futuristic fashion editorial image of a woman seated with a relaxed posture in a sky-blue studio environment, preserving her exact facial identity and expression from the reference photo."
+  "output_goal": "创作一张未来主义时尚杂志风格的图片，描绘一位女性在天蓝色影棚环境中以放松的姿态坐着，同时保留参考照片中她精确的面部特征和表情。"
 }
 ```
 
@@ -1473,13 +1588,13 @@ A highly structured JSON prompt for generating a photorealistic futuristic fashi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="未来时尚社论：身份的保留 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="未来时尚社论：身份的保留 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1489,22 +1604,22 @@ A highly structured JSON prompt for generating a photorealistic futuristic fashi
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22fashion%20editorial%20x%20futuristic%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Use%20the%20same%20face%20and%20hairstyle%20from%20the%20uploaded%20photo.%20Do%20not%20change%20facial%20features%20or%20facial%20expression.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22female%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seated%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22elegant%20and%20relaxed%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22unchanged%20from%20the%20reference%20image%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22oversized%20white%20sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22cloudy%20blue%20oversized%20combat%20jeans%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22cloudy%20blue%20neutral%20sneakers%20or%20Nike%20sneakers%22%2C%0A%20%20%20%20%22socks%22%3A%20%22white%20ribbed%20socks%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22muted%20sky-blue%20tone%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22clean%2C%20minimalist%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22soft%20cinematic%20glow%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22highlights%20skin%20texture%22%2C%0A%20%20%20%20%20%20%22enhances%20fabric%20textures%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22editorial%22%2C%0A%20%20%20%20%22focus%22%3A%20%22model-centered%20with%20balanced%20framing%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22photorealistic%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22high%20detail%20in%20skin%20and%20fabric%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Create%20a%20futuristic%20fashion%20editorial%20image%20of%20a%20woman%20seated%20with%20a%20relaxed%20posture%20in%20a%20sky-blue%20studio%20environment%2C%20preserving%20her%20exact%20facial%20identity%20and%20expression%20from%20the%20reference%20photo.%22%0A%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E9%A3%8E%20x%20%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E7%9B%B8%E5%90%8C%E9%9D%A2%E9%83%A8%E5%92%8C%E5%8F%91%E5%9E%8B%E3%80%82%E4%B8%8D%E8%A6%81%E6%94%B9%E5%8F%98%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E6%88%96%E9%9D%A2%E9%83%A8%E8%A1%A8%E6%83%85%E3%80%82%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%E5%A5%B3%E6%80%A7%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E5%9D%90%E5%A7%BF%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22%E4%BC%98%E9%9B%85%E8%80%8C%E6%94%BE%E6%9D%BE%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E4%B8%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22%E8%B6%85%E5%A4%A7%E7%99%BD%E8%89%B2%E5%8D%AB%E8%A1%A3%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22%E4%BA%91%E9%9B%BE%E8%93%9D%E8%B6%85%E5%A4%A7%E5%B7%A5%E8%A3%85%E7%89%9B%E4%BB%94%E8%A3%A4%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22%E4%BA%91%E9%9B%BE%E8%93%9D%E4%B8%AD%E6%80%A7%E8%BF%90%E5%8A%A8%E9%9E%8B%E6%88%96%20Nike%20%E8%BF%90%E5%8A%A8%E9%9E%8B%22%2C%0A%20%20%20%20%22socks%22%3A%20%22%E7%99%BD%E8%89%B2%E7%BD%97%E7%BA%B9%E8%A2%9C%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22%E5%BD%B1%E6%A3%9A%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%E6%9F%94%E5%92%8C%E7%9A%84%E5%A4%A9%E8%93%9D%E8%89%B2%E8%B0%83%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%E5%B9%B2%E5%87%80%E3%80%81%E6%9E%81%E7%AE%80%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%E6%9F%94%E5%92%8C%E7%9A%84%E7%94%B5%E5%BD%B1%E6%84%9F%E5%85%89%E6%B3%BD%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22%E7%AA%81%E5%87%BA%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%22%2C%0A%20%20%20%20%20%20%22%E5%A2%9E%E5%BC%BA%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%E6%9D%82%E5%BF%97%E9%A3%8E%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E6%A8%A1%E7%89%B9%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%9E%84%E5%9B%BE%E5%B9%B3%E8%A1%A1%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22%E7%85%A7%E7%89%87%E7%BA%A7%E7%9C%9F%E5%AE%9E%E6%84%9F%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22%E7%9A%AE%E8%82%A4%E5%92%8C%E7%BB%87%E7%89%A9%E7%BB%86%E8%8A%82%E4%B8%B0%E5%AF%8C%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%9B%BE%E7%89%87%EF%BC%8C%E6%8F%8F%E7%BB%98%E4%B8%80%E4%BD%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%A4%A9%E8%93%9D%E8%89%B2%E5%BD%B1%E6%A3%9A%E7%8E%AF%E5%A2%83%E4%B8%AD%E4%BB%A5%E6%94%BE%E6%9D%BE%E7%9A%84%E5%A7%BF%E6%80%81%E5%9D%90%E7%9D%80%EF%BC%8C%E5%90%8C%E6%97%B6%E4%BF%9D%E7%95%99%E5%8F%82%E8%80%83%E7%85%A7%E7%89%87%E4%B8%AD%E5%A5%B9%E7%B2%BE%E7%A1%AE%E7%9A%84%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E5%92%8C%E8%A1%A8%E6%83%85%E3%80%82%22%0A%7D)**
 
 ---
 
-### No. 31: Technical Prompt for 3x2 Robot Character Matrix
+### No. 31: 3x2 机器人角色矩阵的技术提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt designed to test the technical instruction following of image models by requesting a 3x2 matrix showing six different views (front, back, left, right, top, bottom) of a highly detailed robot character, emphasizing PBR quality.
+一个旨在测试图像模型技术指令遵循能力的提示，通过请求一个 3x2 矩阵来展示一个高度精细的机器人角色的六个不同视图（正面、背面、左侧、右侧、顶部、底部），并强调 PBR 质量。
 
 #### 📝 提示词
 
 ```
-Create a 3x2 matrix of a robot character. Show front, back, left, right, top, and bottom view in each matrix. The PBR should be at highest quality and the character design should be highly detailed.
+创建一个机器人角色的 3x2 矩阵。在每个矩阵中显示正面、背面、左侧、右侧、顶部和底部视图。PBR 应该达到最高质量，角色设计应该高度精细。
 ```
 
 #### 🖼️ 生成图片
@@ -1512,13 +1627,13 @@ Create a 3x2 matrix of a robot character. Show front, back, left, right, top, an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="3x2 机器人角色矩阵的技术提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="3x2 机器人角色矩阵的技术提示 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1528,23 +1643,23 @@ Create a 3x2 matrix of a robot character. Show front, back, left, right, top, an
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Create%20a%203x2%20matrix%20of%20a%20robot%20character.%20Show%20front%2C%20back%2C%20left%2C%20right%2C%20top%2C%20and%20bottom%20view%20in%20each%20matrix.%20The%20PBR%20should%20be%20at%20highest%20quality%20and%20the%20character%20design%20should%20be%20highly%20detailed.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A7%92%E8%89%B2%E7%9A%84%203x2%20%E7%9F%A9%E9%98%B5%E3%80%82%E5%9C%A8%E6%AF%8F%E4%B8%AA%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%98%BE%E7%A4%BA%E6%AD%A3%E9%9D%A2%E3%80%81%E8%83%8C%E9%9D%A2%E3%80%81%E5%B7%A6%E4%BE%A7%E3%80%81%E5%8F%B3%E4%BE%A7%E3%80%81%E9%A1%B6%E9%83%A8%E5%92%8C%E5%BA%95%E9%83%A8%E8%A7%86%E5%9B%BE%E3%80%82PBR%20%E5%BA%94%E8%AF%A5%E8%BE%BE%E5%88%B0%E6%9C%80%E9%AB%98%E8%B4%A8%E9%87%8F%EF%BC%8C%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%BA%94%E8%AF%A5%E9%AB%98%E5%BA%A6%E7%B2%BE%E7%BB%86%E3%80%82)**
 
 ---
 
-### No. 32: Ultra-Realistic Editorial Portrait based on Reference Image
+### No. 32: 基于参考图像的超写实编辑肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for generating an ultra-realistic editorial portrait of an Indian woman in a specific Sabyasachi black saree, requiring the model to maintain the pose, framing, and mood of an uploaded reference image while specifying jewelry, hair, makeup, lighting, and aesthetic style.
+一个详细的提示，用于生成一张超逼真的印度女性编辑肖像，她身穿特定的 Sabyasachi 黑色纱丽。提示要求模特保持上传参考图像中的姿势、构图和情绪，同时详细说明珠宝、发型、妆容、灯光和美学风格。
 
 #### 📝 提示词
 
 ```
-Using the reference image, create an ultra-realistic editorial portrait of an Indian woman in a signature Sabyasachi black saree with subtle antique gold detailing. Keep the same pose, framing, and mood as the reference. Heavy gold choker, center-parted loose hair, minimal makeup with kohl eyes. Dark textured studio background, low-key dramatic lighting.
-Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI gloss.
+根据参考图片，创作一张超写实的印度女性编辑肖像，身着标志性的 Sabyasachi 黑色纱丽，配有精致的古董金色细节。保持与参考图片相同的姿势、构图和氛围。佩戴厚重的金色项圈，中分披肩发，淡妆，眼线浓重。深色纹理工作室背景，低调戏剧性灯光。
+永恒、内敛、经典的 Sabyasachi 美学。无现代造型，无 AI 光泽。
 ```
 
 #### 🖼️ 生成图片
@@ -1552,7 +1667,7 @@ Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI glo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Ultra-Realistic Editorial Portrait based on Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="基于参考图像的超写实编辑肖像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1562,22 +1677,22 @@ Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI glo
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=Using%20the%20reference%20image%2C%20create%20an%20ultra-realistic%20editorial%20portrait%20of%20an%20Indian%20woman%20in%20a%20signature%20Sabyasachi%20black%20saree%20with%20subtle%20antique%20gold%20detailing.%20Keep%20the%20same%20pose%2C%20framing%2C%20and%20mood%20as%20the%20reference.%20Heavy%20gold%20choker%2C%20center-parted%20loose%20hair%2C%20minimal%20makeup%20with%20kohl%20eyes.%20Dark%20textured%20studio%20background%2C%20low-key%20dramatic%20lighting.%0ATimeless%2C%20restrained%2C%20classic%20Sabyasachi%20aesthetic.%20No%20modern%20styling%2C%20no%20AI%20gloss.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E6%A0%B9%E6%8D%AE%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%EF%BC%8C%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E8%B6%85%E5%86%99%E5%AE%9E%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%80%A7%E7%BC%96%E8%BE%91%E8%82%96%E5%83%8F%EF%BC%8C%E8%BA%AB%E7%9D%80%E6%A0%87%E5%BF%97%E6%80%A7%E7%9A%84%20Sabyasachi%20%E9%BB%91%E8%89%B2%E7%BA%B1%E4%B8%BD%EF%BC%8C%E9%85%8D%E6%9C%89%E7%B2%BE%E8%87%B4%E7%9A%84%E5%8F%A4%E8%91%A3%E9%87%91%E8%89%B2%E7%BB%86%E8%8A%82%E3%80%82%E4%BF%9D%E6%8C%81%E4%B8%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E7%9B%B8%E5%90%8C%E7%9A%84%E5%A7%BF%E5%8A%BF%E3%80%81%E6%9E%84%E5%9B%BE%E5%92%8C%E6%B0%9B%E5%9B%B4%E3%80%82%E4%BD%A9%E6%88%B4%E5%8E%9A%E9%87%8D%E7%9A%84%E9%87%91%E8%89%B2%E9%A1%B9%E5%9C%88%EF%BC%8C%E4%B8%AD%E5%88%86%E6%8A%AB%E8%82%A9%E5%8F%91%EF%BC%8C%E6%B7%A1%E5%A6%86%EF%BC%8C%E7%9C%BC%E7%BA%BF%E6%B5%93%E9%87%8D%E3%80%82%E6%B7%B1%E8%89%B2%E7%BA%B9%E7%90%86%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%83%8C%E6%99%AF%EF%BC%8C%E4%BD%8E%E8%B0%83%E6%88%8F%E5%89%A7%E6%80%A7%E7%81%AF%E5%85%89%E3%80%82%0A%E6%B0%B8%E6%81%92%E3%80%81%E5%86%85%E6%95%9B%E3%80%81%E7%BB%8F%E5%85%B8%E7%9A%84%20Sabyasachi%20%E7%BE%8E%E5%AD%A6%E3%80%82%E6%97%A0%E7%8E%B0%E4%BB%A3%E9%80%A0%E5%9E%8B%EF%BC%8C%E6%97%A0%20AI%20%E5%85%89%E6%B3%BD%E3%80%82)**
 
 ---
 
-### No. 33: Challenging Emotional Conveyance Prompt
+### No. 33: 挑战情感表达提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt designed to test the AI's ability to convey complex, contradictory emotions simultaneously: a person accepting an award with tears of joy while receiving devastating news via an earpiece.
+一个旨在测试 AI 同时传达复杂、矛盾情感能力的提示：一个人在接受奖项时喜极而泣，同时通过耳机收到毁灭性消息。
 
 #### 📝 提示词
 
 ```
-""A person standing at a podium, accepting an award with tears of joy streaming down their face, while simultaneously receiving news via an earpiece that a loved one has fallen seriously ill. Their expression should convey both elation and heartbreak. Natural light photo, photo realism,4k, ultra realistic."
+“一个人站在讲台上，喜极而泣地接受奖项，同时通过耳麦得知挚爱病危的消息。他们的表情应同时传达出狂喜和心碎。自然光照片，照片写实主义，4k，超现实。”
 ```
 
 #### 🖼️ 生成图片
@@ -1585,19 +1700,19 @@ A prompt designed to test the AI's ability to convey complex, contradictory emot
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Challenging Emotional Conveyance Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="挑战情感表达提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="挑战情感表达提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="挑战情感表达提示 - Image 3">
 </div>
 
 #### 📌 详情
@@ -1607,7 +1722,7 @@ A prompt designed to test the AI's ability to convey complex, contradictory emot
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%22%22A%20person%20standing%20at%20a%20podium%2C%20accepting%20an%20award%20with%20tears%20of%20joy%20streaming%20down%20their%20face%2C%20while%20simultaneously%20receiving%20news%20via%20an%20earpiece%20that%20a%20loved%20one%20has%20fallen%20seriously%20ill.%20Their%20expression%20should%20convey%20both%20elation%20and%20heartbreak.%20Natural%20light%20photo%2C%20photo%20realism%2C4k%2C%20ultra%20realistic.%22)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E2%80%9C%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%AB%99%E5%9C%A8%E8%AE%B2%E5%8F%B0%E4%B8%8A%EF%BC%8C%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%E5%9C%B0%E6%8E%A5%E5%8F%97%E5%A5%96%E9%A1%B9%EF%BC%8C%E5%90%8C%E6%97%B6%E9%80%9A%E8%BF%87%E8%80%B3%E9%BA%A6%E5%BE%97%E7%9F%A5%E6%8C%9A%E7%88%B1%E7%97%85%E5%8D%B1%E7%9A%84%E6%B6%88%E6%81%AF%E3%80%82%E4%BB%96%E4%BB%AC%E7%9A%84%E8%A1%A8%E6%83%85%E5%BA%94%E5%90%8C%E6%97%B6%E4%BC%A0%E8%BE%BE%E5%87%BA%E7%8B%82%E5%96%9C%E5%92%8C%E5%BF%83%E7%A2%8E%E3%80%82%E8%87%AA%E7%84%B6%E5%85%89%E7%85%A7%E7%89%87%EF%BC%8C%E7%85%A7%E7%89%87%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%EF%BC%8C4k%EF%BC%8C%E8%B6%85%E7%8E%B0%E5%AE%9E%E3%80%82%E2%80%9D)**
 
 ---
 
@@ -1650,18 +1765,18 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 35: GPT 图像 1.5 提示：战场上的爪哇武士
+### No. 35: 12 世纪爪哇战场黎明时分
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个为 GPT Image 1.5 设计的高度详细的提示，要求生成一张爪哇武士 (Javanese Pendekar) 在黎明时分穿过 12 世纪战场的光影逼真、电影感十足的图像，强调柔和的色调、粗犷的纹理和纪录片式的真实感。
+一个为 GPT Image 1.5 设计的高度详细、电影般的提示，要求以照片般逼真的纪录片风格渲染 12 世纪爪哇战场黎明时的景象，重点聚焦于一位爪哇武士（Pendekar Jawa）的剪影，强调历史的厚重感和精神力量。
 
 #### 📝 提示词
 
 ```
-12 世纪爪哇黎明时分的战场，以柔和、去饱和的色调呈现。硝烟低低地弥漫在伤痕累累的大地和残破的植被上。一位爪哇武士（Pendekar Jawa）以剪影的形式出现，他迈着沉着坚定的步伐向前走去，身后初升的太阳穿透薄雾。他身着传统的爪哇武士服饰：伊卡特头巾、宽松的衣物，腰间佩剑，佩剑上带有战斗和领导的细微痕迹。长焦压缩，粗犷的纹理，电影般的灯光，纪录片式的写实主义，唤起历史的庄重感、沉静的反抗和精神力量。
+12 世纪爪哇黎明时分的战场，以柔和、去饱和的色调呈现。硝烟低低地飘过伤痕累累的大地和折断的植被。一名爪哇武士（Pendekar Jawa）以剪影的形式出现，他带着平静的决心向前走去，初升的太阳从他身后的薄雾中穿透而出。他身着传统的爪哇战士服饰——伊卡头巾、宽松的衣物，腰间佩剑，上面带有淡淡的战斗和领导痕迹。长焦压缩，粗犷的纹理，电影般的灯光，纪录片式的写实主义，唤起历史的厚重感、沉静的反抗和精神力量。
 ```
 
 #### 🖼️ 生成图片
@@ -1669,7 +1784,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT 图像 1.5 提示：战场上的爪哇武士 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="12 世纪爪哇战场黎明时分 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1679,7 +1794,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=12%20%E4%B8%96%E7%BA%AA%E7%88%AA%E5%93%87%E9%BB%8E%E6%98%8E%E6%97%B6%E5%88%86%E7%9A%84%E6%88%98%E5%9C%BA%EF%BC%8C%E4%BB%A5%E6%9F%94%E5%92%8C%E3%80%81%E5%8E%BB%E9%A5%B1%E5%92%8C%E7%9A%84%E8%89%B2%E8%B0%83%E5%91%88%E7%8E%B0%E3%80%82%E7%A1%9D%E7%83%9F%E4%BD%8E%E4%BD%8E%E5%9C%B0%E5%BC%A5%E6%BC%AB%E5%9C%A8%E4%BC%A4%E7%97%95%E7%B4%AF%E7%B4%AF%E7%9A%84%E5%A4%A7%E5%9C%B0%E5%92%8C%E6%AE%8B%E7%A0%B4%E7%9A%84%E6%A4%8D%E8%A2%AB%E4%B8%8A%E3%80%82%E4%B8%80%E4%BD%8D%E7%88%AA%E5%93%87%E6%AD%A6%E5%A3%AB%EF%BC%88Pendekar%20Jawa%EF%BC%89%E4%BB%A5%E5%89%AA%E5%BD%B1%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%87%BA%E7%8E%B0%EF%BC%8C%E4%BB%96%E8%BF%88%E7%9D%80%E6%B2%89%E7%9D%80%E5%9D%9A%E5%AE%9A%E7%9A%84%E6%AD%A5%E4%BC%90%E5%90%91%E5%89%8D%E8%B5%B0%E5%8E%BB%EF%BC%8C%E8%BA%AB%E5%90%8E%E5%88%9D%E5%8D%87%E7%9A%84%E5%A4%AA%E9%98%B3%E7%A9%BF%E9%80%8F%E8%96%84%E9%9B%BE%E3%80%82%E4%BB%96%E8%BA%AB%E7%9D%80%E4%BC%A0%E7%BB%9F%E7%9A%84%E7%88%AA%E5%93%87%E6%AD%A6%E5%A3%AB%E6%9C%8D%E9%A5%B0%EF%BC%9A%E4%BC%8A%E5%8D%A1%E7%89%B9%E5%A4%B4%E5%B7%BE%E3%80%81%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%A1%A3%E7%89%A9%EF%BC%8C%E8%85%B0%E9%97%B4%E4%BD%A9%E5%89%91%EF%BC%8C%E4%BD%A9%E5%89%91%E4%B8%8A%E5%B8%A6%E6%9C%89%E6%88%98%E6%96%97%E5%92%8C%E9%A2%86%E5%AF%BC%E7%9A%84%E7%BB%86%E5%BE%AE%E7%97%95%E8%BF%B9%E3%80%82%E9%95%BF%E7%84%A6%E5%8E%8B%E7%BC%A9%EF%BC%8C%E7%B2%97%E7%8A%B7%E7%9A%84%E7%BA%B9%E7%90%86%EF%BC%8C%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E7%81%AF%E5%85%89%EF%BC%8C%E7%BA%AA%E5%BD%95%E7%89%87%E5%BC%8F%E7%9A%84%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%EF%BC%8C%E5%94%A4%E8%B5%B7%E5%8E%86%E5%8F%B2%E7%9A%84%E5%BA%84%E9%87%8D%E6%84%9F%E3%80%81%E6%B2%89%E9%9D%99%E7%9A%84%E5%8F%8D%E6%8A%97%E5%92%8C%E7%B2%BE%E7%A5%9E%E5%8A%9B%E9%87%8F%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=12%20%E4%B8%96%E7%BA%AA%E7%88%AA%E5%93%87%E9%BB%8E%E6%98%8E%E6%97%B6%E5%88%86%E7%9A%84%E6%88%98%E5%9C%BA%EF%BC%8C%E4%BB%A5%E6%9F%94%E5%92%8C%E3%80%81%E5%8E%BB%E9%A5%B1%E5%92%8C%E7%9A%84%E8%89%B2%E8%B0%83%E5%91%88%E7%8E%B0%E3%80%82%E7%A1%9D%E7%83%9F%E4%BD%8E%E4%BD%8E%E5%9C%B0%E9%A3%98%E8%BF%87%E4%BC%A4%E7%97%95%E7%B4%AF%E7%B4%AF%E7%9A%84%E5%A4%A7%E5%9C%B0%E5%92%8C%E6%8A%98%E6%96%AD%E7%9A%84%E6%A4%8D%E8%A2%AB%E3%80%82%E4%B8%80%E5%90%8D%E7%88%AA%E5%93%87%E6%AD%A6%E5%A3%AB%EF%BC%88Pendekar%20Jawa%EF%BC%89%E4%BB%A5%E5%89%AA%E5%BD%B1%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%87%BA%E7%8E%B0%EF%BC%8C%E4%BB%96%E5%B8%A6%E7%9D%80%E5%B9%B3%E9%9D%99%E7%9A%84%E5%86%B3%E5%BF%83%E5%90%91%E5%89%8D%E8%B5%B0%E5%8E%BB%EF%BC%8C%E5%88%9D%E5%8D%87%E7%9A%84%E5%A4%AA%E9%98%B3%E4%BB%8E%E4%BB%96%E8%BA%AB%E5%90%8E%E7%9A%84%E8%96%84%E9%9B%BE%E4%B8%AD%E7%A9%BF%E9%80%8F%E8%80%8C%E5%87%BA%E3%80%82%E4%BB%96%E8%BA%AB%E7%9D%80%E4%BC%A0%E7%BB%9F%E7%9A%84%E7%88%AA%E5%93%87%E6%88%98%E5%A3%AB%E6%9C%8D%E9%A5%B0%E2%80%94%E2%80%94%E4%BC%8A%E5%8D%A1%E5%A4%B4%E5%B7%BE%E3%80%81%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%A1%A3%E7%89%A9%EF%BC%8C%E8%85%B0%E9%97%B4%E4%BD%A9%E5%89%91%EF%BC%8C%E4%B8%8A%E9%9D%A2%E5%B8%A6%E6%9C%89%E6%B7%A1%E6%B7%A1%E7%9A%84%E6%88%98%E6%96%97%E5%92%8C%E9%A2%86%E5%AF%BC%E7%97%95%E8%BF%B9%E3%80%82%E9%95%BF%E7%84%A6%E5%8E%8B%E7%BC%A9%EF%BC%8C%E7%B2%97%E7%8A%B7%E7%9A%84%E7%BA%B9%E7%90%86%EF%BC%8C%E7%94%B5%E5%BD%B1%E8%88%AC%E7%9A%84%E7%81%AF%E5%85%89%EF%BC%8C%E7%BA%AA%E5%BD%95%E7%89%87%E5%BC%8F%E7%9A%84%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%EF%BC%8C%E5%94%A4%E8%B5%B7%E5%8E%86%E5%8F%B2%E7%9A%84%E5%8E%9A%E9%87%8D%E6%84%9F%E3%80%81%E6%B2%89%E9%9D%99%E7%9A%84%E5%8F%8D%E6%8A%97%E5%92%8C%E7%B2%BE%E7%A5%9E%E5%8A%9B%E9%87%8F%E3%80%82)**
 
 ---
 
@@ -1914,18 +2029,18 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 43: 弹钢琴的逼真鲨鱼
+### No. 43: 逼真的鲨鱼弹钢琴基准提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一个特定且略带奇思妙想的提示，用于衡量不同图像生成模型的真实感和创造力，要求生成一张逼真的鲨鱼弹钢琴的图像。
+一个简单的基准测试提示，用于测试新 AI 模型的真实感和遵循指令的能力，具体要求生成一张逼真的鲨鱼弹钢琴的图像。
 
 #### 📝 提示词
 
 ```
-一只逼真的鲨鱼在弹钢琴
+一只逼真的鲨鱼在弹钢琴 🦈
 ```
 
 #### 🖼️ 生成图片
@@ -1933,7 +2048,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="弹钢琴的逼真鲨鱼 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="逼真的鲨鱼弹钢琴基准提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1943,7 +2058,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 - **发布时间:** 2025年12月18日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%8F%AA%E9%80%BC%E7%9C%9F%E7%9A%84%E9%B2%A8%E9%B1%BC%E5%9C%A8%E5%BC%B9%E9%92%A2%E7%90%B4)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%8F%AA%E9%80%BC%E7%9C%9F%E7%9A%84%E9%B2%A8%E9%B1%BC%E5%9C%A8%E5%BC%B9%E9%92%A2%E7%90%B4%20%F0%9F%A6%88)**
 
 ---
 
@@ -2477,19 +2592,21 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 55: 微距摄影提示：纹理与细节
+### No. 55: 照片级真实感图像生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-这是为 GPT Image 1.5 设计的第四个示例提示，重点是微距拍摄，以突出纹理、细节以及特定光线对常见物体的影响。
+以下是四个示例提示，旨在展示 GPT Image 1.5 的能力，重点关注扎实、逼真的摄影效果和清晰的物理逻辑，利用相机逻辑并包含瑕疵，以实现高度真实的图像。
 
 #### 📝 提示词
 
 ```
-一张老旧、磨损的 {argument name="object type" default="皮革钱包"} 表面的微距照片。皮革的纹理应显示出细小的裂纹、磨损痕迹以及因使用而产生的轻微变色。光线强烈且有方向性，从侧面照射，以最大限度地展现纹理和瑕疵。景深极浅，仅聚焦于钱包表面的一小块中心区域。使用 {argument name="lens type" default="100mm 微距镜头"} 拍摄。
+1. 一颗完美成熟的草莓特写微距照片，它静静地躺在森林空地一块潮湿、长满苔藓的石头上。光线柔和而弥漫，暗示着清晨。草莓表面挂着细小的水珠。使用 100mm 微距镜头拍摄，f/4 光圈。
+2. 一张在东京新宿区夜晚拍摄的昏暗、抓拍的街头照片。一名上班族在霓虹灯下走远，身影因移动而略显模糊。雨刚下过，湿漉漉的柏油路面反射着灯光。颗粒感胶片美学，35mm 镜头，高 ISO。
+3. 一张粗野主义混凝土建筑立面的建筑照片，聚焦于其纹理和几何图案。太阳低垂，投下长而锐利的阴影，强调了建筑的硬朗线条。一只小鸟栖息在窗台上，提供了比例感。黑白，中画幅。
+4. 一张静物照片，一本磨损的皮面日记本和一支复古钢笔静静地躺在木桌上。一束阳光穿过场景，可以看到尘埃颗粒在其中漂浮。皮革显示出岁月的痕迹和使用过的痕迹，有轻微的划痕和褪色区域。浅景深，自然光。
 ```
 
 #### 🖼️ 生成图片
@@ -2497,25 +2614,25 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="微距摄影提示：纹理与细节 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="照片级真实感图像生成提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="微距摄影提示：纹理与细节 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="照片级真实感图像生成提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="微距摄影提示：纹理与细节 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="照片级真实感图像生成提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="微距摄影提示：纹理与细节 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="照片级真实感图像生成提示 - Image 4">
 </div>
 
 #### 📌 详情
@@ -2525,7 +2642,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E8%80%81%E6%97%A7%E3%80%81%E7%A3%A8%E6%8D%9F%E7%9A%84%20%7Bargument%20name%3D%22object%20type%22%20default%3D%22%E7%9A%AE%E9%9D%A9%E9%92%B1%E5%8C%85%22%7D%20%E8%A1%A8%E9%9D%A2%E7%9A%84%E5%BE%AE%E8%B7%9D%E7%85%A7%E7%89%87%E3%80%82%E7%9A%AE%E9%9D%A9%E7%9A%84%E7%BA%B9%E7%90%86%E5%BA%94%E6%98%BE%E7%A4%BA%E5%87%BA%E7%BB%86%E5%B0%8F%E7%9A%84%E8%A3%82%E7%BA%B9%E3%80%81%E7%A3%A8%E6%8D%9F%E7%97%95%E8%BF%B9%E4%BB%A5%E5%8F%8A%E5%9B%A0%E4%BD%BF%E7%94%A8%E8%80%8C%E4%BA%A7%E7%94%9F%E7%9A%84%E8%BD%BB%E5%BE%AE%E5%8F%98%E8%89%B2%E3%80%82%E5%85%89%E7%BA%BF%E5%BC%BA%E7%83%88%E4%B8%94%E6%9C%89%E6%96%B9%E5%90%91%E6%80%A7%EF%BC%8C%E4%BB%8E%E4%BE%A7%E9%9D%A2%E7%85%A7%E5%B0%84%EF%BC%8C%E4%BB%A5%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E5%9C%B0%E5%B1%95%E7%8E%B0%E7%BA%B9%E7%90%86%E5%92%8C%E7%91%95%E7%96%B5%E3%80%82%E6%99%AF%E6%B7%B1%E6%9E%81%E6%B5%85%EF%BC%8C%E4%BB%85%E8%81%9A%E7%84%A6%E4%BA%8E%E9%92%B1%E5%8C%85%E8%A1%A8%E9%9D%A2%E7%9A%84%E4%B8%80%E5%B0%8F%E5%9D%97%E4%B8%AD%E5%BF%83%E5%8C%BA%E5%9F%9F%E3%80%82%E4%BD%BF%E7%94%A8%20%7Bargument%20name%3D%22lens%20type%22%20default%3D%22100mm%20%E5%BE%AE%E8%B7%9D%E9%95%9C%E5%A4%B4%22%7D%20%E6%8B%8D%E6%91%84%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=1.%20%E4%B8%80%E9%A2%97%E5%AE%8C%E7%BE%8E%E6%88%90%E7%86%9F%E7%9A%84%E8%8D%89%E8%8E%93%E7%89%B9%E5%86%99%E5%BE%AE%E8%B7%9D%E7%85%A7%E7%89%87%EF%BC%8C%E5%AE%83%E9%9D%99%E9%9D%99%E5%9C%B0%E8%BA%BA%E5%9C%A8%E6%A3%AE%E6%9E%97%E7%A9%BA%E5%9C%B0%E4%B8%80%E5%9D%97%E6%BD%AE%E6%B9%BF%E3%80%81%E9%95%BF%E6%BB%A1%E8%8B%94%E8%97%93%E7%9A%84%E7%9F%B3%E5%A4%B4%E4%B8%8A%E3%80%82%E5%85%89%E7%BA%BF%E6%9F%94%E5%92%8C%E8%80%8C%E5%BC%A5%E6%BC%AB%EF%BC%8C%E6%9A%97%E7%A4%BA%E7%9D%80%E6%B8%85%E6%99%A8%E3%80%82%E8%8D%89%E8%8E%93%E8%A1%A8%E9%9D%A2%E6%8C%82%E7%9D%80%E7%BB%86%E5%B0%8F%E7%9A%84%E6%B0%B4%E7%8F%A0%E3%80%82%E4%BD%BF%E7%94%A8%20100mm%20%E5%BE%AE%E8%B7%9D%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8Cf%2F4%20%E5%85%89%E5%9C%88%E3%80%82%0A2.%20%E4%B8%80%E5%BC%A0%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%9C%E6%99%9A%E6%8B%8D%E6%91%84%E7%9A%84%E6%98%8F%E6%9A%97%E3%80%81%E6%8A%93%E6%8B%8D%E7%9A%84%E8%A1%97%E5%A4%B4%E7%85%A7%E7%89%87%E3%80%82%E4%B8%80%E5%90%8D%E4%B8%8A%E7%8F%AD%E6%97%8F%E5%9C%A8%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%8B%E8%B5%B0%E8%BF%9C%EF%BC%8C%E8%BA%AB%E5%BD%B1%E5%9B%A0%E7%A7%BB%E5%8A%A8%E8%80%8C%E7%95%A5%E6%98%BE%E6%A8%A1%E7%B3%8A%E3%80%82%E9%9B%A8%E5%88%9A%E4%B8%8B%E8%BF%87%EF%BC%8C%E6%B9%BF%E6%BC%89%E6%BC%89%E7%9A%84%E6%9F%8F%E6%B2%B9%E8%B7%AF%E9%9D%A2%E5%8F%8D%E5%B0%84%E7%9D%80%E7%81%AF%E5%85%89%E3%80%82%E9%A2%97%E7%B2%92%E6%84%9F%E8%83%B6%E7%89%87%E7%BE%8E%E5%AD%A6%EF%BC%8C35mm%20%E9%95%9C%E5%A4%B4%EF%BC%8C%E9%AB%98%20ISO%E3%80%82%0A3.%20%E4%B8%80%E5%BC%A0%E7%B2%97%E9%87%8E%E4%B8%BB%E4%B9%89%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%BB%BA%E7%AD%91%E7%AB%8B%E9%9D%A2%E7%9A%84%E5%BB%BA%E7%AD%91%E7%85%A7%E7%89%87%EF%BC%8C%E8%81%9A%E7%84%A6%E4%BA%8E%E5%85%B6%E7%BA%B9%E7%90%86%E5%92%8C%E5%87%A0%E4%BD%95%E5%9B%BE%E6%A1%88%E3%80%82%E5%A4%AA%E9%98%B3%E4%BD%8E%E5%9E%82%EF%BC%8C%E6%8A%95%E4%B8%8B%E9%95%BF%E8%80%8C%E9%94%90%E5%88%A9%E7%9A%84%E9%98%B4%E5%BD%B1%EF%BC%8C%E5%BC%BA%E8%B0%83%E4%BA%86%E5%BB%BA%E7%AD%91%E7%9A%84%E7%A1%AC%E6%9C%97%E7%BA%BF%E6%9D%A1%E3%80%82%E4%B8%80%E5%8F%AA%E5%B0%8F%E9%B8%9F%E6%A0%96%E6%81%AF%E5%9C%A8%E7%AA%97%E5%8F%B0%E4%B8%8A%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%BA%86%E6%AF%94%E4%BE%8B%E6%84%9F%E3%80%82%E9%BB%91%E7%99%BD%EF%BC%8C%E4%B8%AD%E7%94%BB%E5%B9%85%E3%80%82%0A4.%20%E4%B8%80%E5%BC%A0%E9%9D%99%E7%89%A9%E7%85%A7%E7%89%87%EF%BC%8C%E4%B8%80%E6%9C%AC%E7%A3%A8%E6%8D%9F%E7%9A%84%E7%9A%AE%E9%9D%A2%E6%97%A5%E8%AE%B0%E6%9C%AC%E5%92%8C%E4%B8%80%E6%94%AF%E5%A4%8D%E5%8F%A4%E9%92%A2%E7%AC%94%E9%9D%99%E9%9D%99%E5%9C%B0%E8%BA%BA%E5%9C%A8%E6%9C%A8%E6%A1%8C%E4%B8%8A%E3%80%82%E4%B8%80%E6%9D%9F%E9%98%B3%E5%85%89%E7%A9%BF%E8%BF%87%E5%9C%BA%E6%99%AF%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%B0%98%E5%9F%83%E9%A2%97%E7%B2%92%E5%9C%A8%E5%85%B6%E4%B8%AD%E6%BC%82%E6%B5%AE%E3%80%82%E7%9A%AE%E9%9D%A9%E6%98%BE%E7%A4%BA%E5%87%BA%E5%B2%81%E6%9C%88%E7%9A%84%E7%97%95%E8%BF%B9%E5%92%8C%E4%BD%BF%E7%94%A8%E8%BF%87%E7%9A%84%E7%97%95%E8%BF%B9%EF%BC%8C%E6%9C%89%E8%BD%BB%E5%BE%AE%E7%9A%84%E5%88%92%E7%97%95%E5%92%8C%E8%A4%AA%E8%89%B2%E5%8C%BA%E5%9F%9F%E3%80%82%E6%B5%85%E6%99%AF%E6%B7%B1%EF%BC%8C%E8%87%AA%E7%84%B6%E5%85%89%E3%80%82)**
 
 ---
 
@@ -2963,46 +3080,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 67: 滑板少年胶片摄影提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个详细的图像生成提示，旨在比较 GPT Image 1.5 和 Midjourney V7，重点描绘一个充满活力的场景：一名黑人青少年在涂鸦遍布的滑板公园里表演滑板特技，以柯达专业 PORTRA 400 胶片的审美风格呈现。
-
-#### 📝 提示词
-
-```
-一名黑人青少年在涂鸦遍布的滑板公园里表演高难度滑板特技，柯达专业 PORTRA 400 胶片 --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="600" alt="滑板少年胶片摄影提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="600" alt="滑板少年胶片摄影提示 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Johnny Wang](https://x.com/JohnnyWang8802)
-- **来源:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
-- **发布时间:** 2025年12月17日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%90%8D%E9%BB%91%E4%BA%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E5%9C%A8%E6%B6%82%E9%B8%A6%E9%81%8D%E5%B8%83%E7%9A%84%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9B%AD%E9%87%8C%E8%A1%A8%E6%BC%94%E9%AB%98%E9%9A%BE%E5%BA%A6%E6%BB%91%E6%9D%BF%E7%89%B9%E6%8A%80%EF%BC%8C%E6%9F%AF%E8%BE%BE%E4%B8%93%E4%B8%9A%20PORTRA%20400%20%E8%83%B6%E7%89%87%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
-
----
-
-### No. 68: 一只戴着钻石手镯的手的超逼真照片
+### No. 67: 一只戴着钻石手镯的手的超逼真照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3041,7 +3119,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 69: JS 工程师编码场景与特定文本
+### No. 68: JS 工程师编码场景与特定文本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3074,7 +3152,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 70: 闪光弹职业摔跤偶像重铸提示
+### No. 69: 闪光弹职业摔跤偶像重铸提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3114,7 +3192,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 71: 角色生成中的服装转移提示
+### No. 70: 角色生成中的服装转移提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3159,40 +3237,7 @@ Reddit 上的一位用户让 ChatGPT 使用 ImageGen 1.5 模型生成了他们�
 
 ---
 
-### No. 72: 一位女士工作的扁平矢量插画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个用于生成扁平矢量插画的提示，描绘了一位金发女性坐在办公桌前使用笔记本电脑工作的场景，适用于现代平面设计或网站素材。
-
-#### 📝 提示词
-
-```
-一位金发女士坐在办公桌前使用笔记本电脑工作的扁平矢量插画。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="600" alt="一位女士工作的扁平矢量插画 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [PromptlyAI](https://x.com/PromptlyAI_YT)
-- **来源:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
-- **发布时间:** 2025年12月17日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E4%BD%8D%E9%87%91%E5%8F%91%E5%A5%B3%E5%A3%AB%E5%9D%90%E5%9C%A8%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%89%8D%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%89%81%E5%B9%B3%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E3%80%82)**
-
----
-
-### No. 73: 改进 GPT Image 1.5 中的非对称元素识别
+### No. 71: 改进 GPT Image 1.5 中的非对称元素识别
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3225,7 +3270,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 74: 一位女性的超逼真图库照片提示
+### No. 72: 一位女性的超逼真图库照片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3259,46 +3304,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 75: 儿童德语字母海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个德语提示，要求为儿童制作一张学习字母表的招贴画，招贴画上包含从 A 到 Z 的所有字母，每个字母下方都有一个对应的动物及其名称，并以可爱的卡通风格绘制。
-
-#### 📝 提示词
-
-```
-一张海报，上面有从 A 到 Z 的所有字母。每个字母下方都有一种以该字母开头的动物，动物名称写在动物下方。风格：可爱手绘，漫画风格。这是一张孩子们可以用来学习字母表的海报。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="600" alt="儿童德语字母海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="600" alt="儿童德语字母海报 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [smn Sk](https://x.com/smnSk241687)
-- **来源:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
-- **发布时间:** 2025年12月17日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E6%B5%B7%E6%8A%A5%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E4%BB%8E%20A%20%E5%88%B0%20Z%20%E7%9A%84%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E3%80%82%E6%AF%8F%E4%B8%AA%E5%AD%97%E6%AF%8D%E4%B8%8B%E6%96%B9%E9%83%BD%E6%9C%89%E4%B8%80%E7%A7%8D%E4%BB%A5%E8%AF%A5%E5%AD%97%E6%AF%8D%E5%BC%80%E5%A4%B4%E7%9A%84%E5%8A%A8%E7%89%A9%EF%BC%8C%E5%8A%A8%E7%89%A9%E5%90%8D%E7%A7%B0%E5%86%99%E5%9C%A8%E5%8A%A8%E7%89%A9%E4%B8%8B%E6%96%B9%E3%80%82%E9%A3%8E%E6%A0%BC%EF%BC%9A%E5%8F%AF%E7%88%B1%E6%89%8B%E7%BB%98%EF%BC%8C%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E3%80%82%E8%BF%99%E6%98%AF%E4%B8%80%E5%BC%A0%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E5%AD%A6%E4%B9%A0%E5%AD%97%E6%AF%8D%E8%A1%A8%E7%9A%84%E6%B5%B7%E6%8A%A5%E3%80%82)**
-
----
-
-### No. 76: 伦敦街头巨型坐姿男子提示
+### No. 73: 伦敦街头巨型坐姿男子提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3337,7 +3343,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 77: 将图形转换为透明水彩画
+### No. 74: 将图形转换为透明水彩画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3370,7 +3376,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 78: 赛博格与人鱼男学生相遇提示
+### No. 75: 赛博格与人鱼男学生相遇提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3409,7 +3415,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 79: 将图形转换为铅笔草图设计
+### No. 76: 将图形转换为铅笔草图设计
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3448,7 +3454,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 80: 详细的空中海岸景观
+### No. 77: 详细的空中海岸景观
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3481,7 +3487,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 81: 测试 GPT-Image-1.5 中的局部图像校正和姿态修改
+### No. 78: 测试 GPT-Image-1.5 中的局部图像校正和姿态修改
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3535,7 +3541,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 82: 测试 GPT Image 1.5 与 Gemini 的严格提示遵循能力
+### No. 79: 测试 GPT Image 1.5 与 Gemini 的严格提示遵循能力
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,7 +3598,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 83: 巨魔部落攻击可视化提示（日文）
+### No. 80: 巨魔部落攻击可视化提示（日文）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3625,7 +3631,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 84: 逼真的铲齿象生成提示
+### No. 81: 逼真的铲齿象生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3658,7 +3664,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 85: 硬朗复古服饰编辑肖像
+### No. 82: 硬朗复古服饰编辑肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3697,7 +3703,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 86: 猎鹰术肖像画的详细 GPT Image 1.5 提示词
+### No. 83: 猎鹰术肖像画的详细 GPT Image 1.5 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3766,7 +3772,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 87: 使用 GPT Image 1.5 生成时尚和美学图像
+### No. 84: 使用 GPT Image 1.5 生成时尚和美学图像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3800,7 +3806,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 88: 为日本纪念日生成图片
+### No. 85: 为日本纪念日生成图片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3833,7 +3839,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 89: 下颌线、眼镜和头部形状的图像编辑提示
+### No. 86: 下颌线、眼镜和头部形状的图像编辑提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3878,7 +3884,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 90: 使用 GPT Image 1.5 修复旧照片的详细提示
+### No. 87: 使用 GPT Image 1.5 修复旧照片的详细提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3998,7 +4004,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 91: 摄影布光设置海报提示
+### No. 88: 摄影布光设置海报提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4031,7 +4037,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 92: 纽约等距微缩 3D 卡通场景
+### No. 89: 纽约等距微缩 3D 卡通场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4070,7 +4076,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 93: 带有“Pele”部落面部标记的约鲁巴男子压力测试提示
+### No. 90: 带有“Pele”部落面部标记的约鲁巴男子压力测试提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4109,7 +4115,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 94: 手部和足部调整的图像编辑提示
+### No. 91: 手部和足部调整的图像编辑提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4148,7 +4154,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 95: 图片 1.5 钥匙扣设计提示
+### No. 92: 图片 1.5 钥匙扣设计提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4181,7 +4187,7 @@ GPT Image 1.5 的元提示策略：选择“GPT-5.2 思维”并明确指示模�
 
 ---
 
-### No. 96: 生成各种姿势和表情的 Q 版贴纸
+### No. 93: 生成各种姿势和表情的 Q 版贴纸
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4220,7 +4226,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 97: 以完全真实的风格重新创建图像
+### No. 94: 以完全真实的风格重新创建图像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4259,7 +4265,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 98: 未来城市天际线日落提示
+### No. 95: 未来城市天际线日落提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4292,7 +4298,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 99: 将主题转化为美国哥特式风格
+### No. 96: 将主题转化为美国哥特式风格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4325,7 +4331,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 100: 主体眼神方向的简单提示
+### No. 97: 主体眼神方向的简单提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4364,7 +4370,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 101: 基于参考图的炫酷图像生成
+### No. 98: 基于参考图的炫酷图像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4409,7 +4415,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 102: 室内健身镜自拍的高度详细 JSON 提示
+### No. 99: 室内健身镜自拍的高度详细 JSON 提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4538,7 +4544,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 103: Sam Altman 骑滑板车：电影级真实感提示
+### No. 100: Sam Altman 骑滑板车：电影级真实感提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4577,7 +4583,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 104: Polyphonic 的现代化着陆页设计
+### No. 101: Polyphonic 的现代化着陆页设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4628,7 +4634,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 105: 茶杯坠落并破碎的四格图片
+### No. 102: 茶杯坠落并破碎的四格图片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4668,7 +4674,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 106: 用数学和代码解释斐波那契数列的信息图
+### No. 103: 用数学和代码解释斐波那契数列的信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4701,7 +4707,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 107: 深色模式圣诞节礼品网站 UI 设计
+### No. 104: 深色模式圣诞节礼品网站 UI 设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4734,7 +4740,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 108: Sam Altman 的闪电自拍
+### No. 105: Sam Altman 的闪电自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4773,7 +4779,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 109: 女孩艺术肖像编辑（图像转图像）
+### No. 106: 女孩艺术肖像编辑（图像转图像）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4825,7 +4831,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 110: 章鱼小丸子插画与店铺内景合成提示词
+### No. 107: 章鱼小丸子插画与店铺内景合成提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4877,7 +4883,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 111: 根据照片生成逼真手办
+### No. 108: 根据照片生成逼真手办
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4910,7 +4916,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 112: 与科技领袖们的无滤镜镜面自拍
+### No. 109: 与科技领袖们的无滤镜镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4949,7 +4955,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 113: 地藏菩萨像上的技术示意图叠加
+### No. 110: 地藏菩萨像上的技术示意图叠加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4995,7 +5001,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 114: 使用 GPT Image 1.5 生成带动物的拍立得风格照片
+### No. 111: 使用 GPT Image 1.5 生成带动物的拍立得风格照片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5035,7 +5041,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 115: 用于超真实身份锁定的复杂 JSON 提示词
+### No. 112: 用于超真实身份锁定的复杂 JSON 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5169,7 +5175,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 116: 单色手绘草图转换
+### No. 113: 单色手绘草图转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5220,7 +5226,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 117: Minecraft 阈限空间图像提示
+### No. 114: Minecraft 阈限空间图像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5253,7 +5259,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 118: 电影感时尚肖像与倒影（对比）
+### No. 115: 电影感时尚肖像与倒影（对比）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5286,7 +5292,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 119: 自上而下的合影构图测试
+### No. 116: 自上而下的合影构图测试
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5325,7 +5331,7 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
-### No. 120: 系统提示揭示提示
+### No. 117: 系统提示揭示提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5358,13 +5364,112 @@ GPT 图像 1.5 生成 Q 版风格贴纸，包含多种服装、姿势和表情�
 
 ---
 
+### No. 118: “大猩猩的抓握”图像生成提示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+一个用于测试 GPT Image 1.5 的提示词，要求它将流行短语“ゴリラのひとつかみ”（大猩猩的抓握）可视化，最终生成了一张幽默地诠释了这一概念的图片。
+
+#### 📝 提示词
+
+```
+一张可视化了热门趋势“大猩猩之握”的图片
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949129899_99ggci_G8Vhz5Ma4AEHxPA.jpg" width="600" alt="“大猩猩的抓握”图像生成提示 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [調べて分かった大事なコト](https://x.com/sirabete)
+- **来源:** [Twitter Post](https://x.com/sirabete/status/2001113174859505739)
+- **发布时间:** 2025年12月17日
+- **多语言:** ja
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86%E7%83%AD%E9%97%A8%E8%B6%8B%E5%8A%BF%E2%80%9C%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B9%8B%E6%8F%A1%E2%80%9D%E7%9A%84%E5%9B%BE%E7%89%87)**
+
+---
+
+### No. 119: Joe Rogan 播客与灰人外星人
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个图像生成提示，要求生成一张数码单反相机拍摄的照片，描绘乔·罗根（Joe Rogan）播客中的一个场景，具体内容是与一个灰色外星人进行讨论。
+
+#### 📝 提示词
+
+```
+乔·罗根 (Joe Rogan) 的播客，内容是与一个灰色外星人进行的讨论。单反相机拍摄。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035310399_pczlax_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan 播客与灰人外星人 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Ralph Nas](https://x.com/unrealpixels)
+- **来源:** [Twitter Post](https://x.com/unrealpixels/status/2001112939676246523)
+- **发布时间:** 2025年12月17日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B9%94%C2%B7%E7%BD%97%E6%A0%B9%20(Joe%20Rogan)%20%E7%9A%84%E6%92%AD%E5%AE%A2%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%E4%B8%8E%E4%B8%80%E4%B8%AA%E7%81%B0%E8%89%B2%E5%A4%96%E6%98%9F%E4%BA%BA%E8%BF%9B%E8%A1%8C%E7%9A%84%E8%AE%A8%E8%AE%BA%E3%80%82%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA%E6%8B%8D%E6%91%84%E3%80%82)**
+
+---
+
+### No. 120: 专业影棚级个人形象照生成
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个高度技术性的提示，旨在生成一张专业、高分辨率的个人资料照片，其中明确指定了精确的构图、服装（炭灰色西装外套）、背景颜色（#1A1A1A）、灯光（明亮、柔和、漫射的影棚灯）、镜头细节（85mm f/1.8）和色彩分级，同时关键要求模型保持输入图像中精确的面部结构和身份。
+
+#### 📝 提示词
+
+```
+一张专业、高分辨率的个人资料照片，精确保持输入图像中人物的面部结构、身份和关键特征。拍摄对象为胸部以上特写，头部上方留有充足空间。人物直视镜头。他们穿着一件精致的炭灰色高级商务休闲西装外套，造型如同在专业摄影棚拍摄。背景为纯色“#1A1A1A”中性影棚色。从高角度拍摄，采用明亮、通透、柔和的漫射影棚灯光，轻柔地照亮面部，并在眼睛中形成微妙的眼神光，传达出一种清晰感。使用 85mm f/1.8 镜头拍摄，景深较浅，眼睛对焦精准，散景柔美。西装外套的面料纹理、发丝以及自然逼真的皮肤纹理都呈现出清晰的细节。整体氛围散发着自信、专业和亲和力。干净明亮的电影级调色，带有微妙的暖色调和平衡的色调，确保呈现出精致而现代的感觉。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="专业影棚级个人形象照生成 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Alican Kiraz](https://x.com/AlicanKiraz0)
+- **来源:** [Twitter Post](https://x.com/AlicanKiraz0/status/2001112691050430569)
+- **发布时间:** 2025年12月17日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-1-5?prompt=%E4%B8%80%E5%BC%A0%E4%B8%93%E4%B8%9A%E3%80%81%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E7%9A%84%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E7%85%A7%E7%89%87%EF%BC%8C%E7%B2%BE%E7%A1%AE%E4%BF%9D%E6%8C%81%E8%BE%93%E5%85%A5%E5%9B%BE%E5%83%8F%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E9%9D%A2%E9%83%A8%E7%BB%93%E6%9E%84%E3%80%81%E8%BA%AB%E4%BB%BD%E5%92%8C%E5%85%B3%E9%94%AE%E7%89%B9%E5%BE%81%E3%80%82%E6%8B%8D%E6%91%84%E5%AF%B9%E8%B1%A1%E4%B8%BA%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%89%B9%E5%86%99%EF%BC%8C%E5%A4%B4%E9%83%A8%E4%B8%8A%E6%96%B9%E7%95%99%E6%9C%89%E5%85%85%E8%B6%B3%E7%A9%BA%E9%97%B4%E3%80%82%E4%BA%BA%E7%89%A9%E7%9B%B4%E8%A7%86%E9%95%9C%E5%A4%B4%E3%80%82%E4%BB%96%E4%BB%AC%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%B2%BE%E8%87%B4%E7%9A%84%E7%82%AD%E7%81%B0%E8%89%B2%E9%AB%98%E7%BA%A7%E5%95%86%E5%8A%A1%E4%BC%91%E9%97%B2%E8%A5%BF%E8%A3%85%E5%A4%96%E5%A5%97%EF%BC%8C%E9%80%A0%E5%9E%8B%E5%A6%82%E5%90%8C%E5%9C%A8%E4%B8%93%E4%B8%9A%E6%91%84%E5%BD%B1%E6%A3%9A%E6%8B%8D%E6%91%84%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%BA%E7%BA%AF%E8%89%B2%E2%80%9C%231A1A1A%E2%80%9D%E4%B8%AD%E6%80%A7%E5%BD%B1%E6%A3%9A%E8%89%B2%E3%80%82%E4%BB%8E%E9%AB%98%E8%A7%92%E5%BA%A6%E6%8B%8D%E6%91%84%EF%BC%8C%E9%87%87%E7%94%A8%E6%98%8E%E4%BA%AE%E3%80%81%E9%80%9A%E9%80%8F%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%BD%B1%E6%A3%9A%E7%81%AF%E5%85%89%EF%BC%8C%E8%BD%BB%E6%9F%94%E5%9C%B0%E7%85%A7%E4%BA%AE%E9%9D%A2%E9%83%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%AD%E5%BD%A2%E6%88%90%E5%BE%AE%E5%A6%99%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%85%89%EF%BC%8C%E4%BC%A0%E8%BE%BE%E5%87%BA%E4%B8%80%E7%A7%8D%E6%B8%85%E6%99%B0%E6%84%9F%E3%80%82%E4%BD%BF%E7%94%A8%2085mm%20f%2F1.8%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E6%99%AF%E6%B7%B1%E8%BE%83%E6%B5%85%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%AF%B9%E7%84%A6%E7%B2%BE%E5%87%86%EF%BC%8C%E6%95%A3%E6%99%AF%E6%9F%94%E7%BE%8E%E3%80%82%E8%A5%BF%E8%A3%85%E5%A4%96%E5%A5%97%E7%9A%84%E9%9D%A2%E6%96%99%E7%BA%B9%E7%90%86%E3%80%81%E5%8F%91%E4%B8%9D%E4%BB%A5%E5%8F%8A%E8%87%AA%E7%84%B6%E9%80%BC%E7%9C%9F%E7%9A%84%E7%9A%AE%E8%82%A4%E7%BA%B9%E7%90%86%E9%83%BD%E5%91%88%E7%8E%B0%E5%87%BA%E6%B8%85%E6%99%B0%E7%9A%84%E7%BB%86%E8%8A%82%E3%80%82%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E6%95%A3%E5%8F%91%E7%9D%80%E8%87%AA%E4%BF%A1%E3%80%81%E4%B8%93%E4%B8%9A%E5%92%8C%E4%BA%B2%E5%92%8C%E5%8A%9B%E3%80%82%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B0%83%E8%89%B2%EF%BC%8C%E5%B8%A6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E6%9A%96%E8%89%B2%E8%B0%83%E5%92%8C%E5%B9%B3%E8%A1%A1%E7%9A%84%E8%89%B2%E8%B0%83%EF%BC%8C%E7%A1%AE%E4%BF%9D%E5%91%88%E7%8E%B0%E5%87%BA%E7%B2%BE%E8%87%B4%E8%80%8C%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82)**
+
+---
+
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 93 更多提示词未在此显示
+### 🎯 90 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5427,6 +5532,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-19T04:25:11.331Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-19T08:14:58.833Z</sub>
 
 </div>

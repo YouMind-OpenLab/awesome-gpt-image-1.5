@@ -87,10 +87,128 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 | Metric | Count |
 |--------|-------|
 | 📝 Total Prompts | **213** |
-| ⭐ Featured | **0** |
-| 🔄 Last Updated | **Friday, December 19, 2025 at 4:25:08 AM UTC** |
+| ⭐ Featured | **3** |
+| 🔄 Last Updated | **Friday, December 19, 2025 at 8:14:55 AM UTC** |
 
 </div>
+
+---
+
+## 🔥 Featured Prompts
+
+> ⭐ Hand-picked by our team for exceptional quality and creativity
+
+### No. 1: Skateboarding Teenager Film Photography Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Description
+
+A detailed image generation prompt designed for comparing GPT Image 1.5 and Midjourney V7, focusing on a dynamic scene of a Black teenager performing skateboarding tricks in a graffiti-covered skate park, rendered with the aesthetic of Kodak Professional PORTRA 400 film.
+
+#### 📝 Prompt
+
+```
+A Black teenager performs difficult skateboarding tricks in a graffiti-covered skate park, Kodak Professional PORTRA 400 film --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="700" alt="Skateboarding Teenager Film Photography Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="700" alt="Skateboarding Teenager Film Photography Prompt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Johnny Wang](https://x.com/JohnnyWang8802)
+- **Source:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
+- **Published:** December 17, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=A%20Black%20teenager%20performs%20difficult%20skateboarding%20tricks%20in%20a%20graffiti-covered%20skate%20park%2C%20Kodak%20Professional%20PORTRA%20400%20film%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
+
+---
+
+### No. 2: German alphabet poster for children
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Description
+
+A prompt in German requesting a poster for children to learn the alphabet, featuring all letters from A to Z, with a corresponding animal and its name beneath each letter, rendered in a cute, comic-style drawing.
+
+#### 📝 Prompt
+
+```
+A poster with all letters of the alphabet from A to Z. Under each letter is an animal whose name begins with that letter. The name is written under each animal. Style: cutely drawn, comic-style. It is a poster that children can use to learn the alphabet.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="700" alt="German alphabet poster for children - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="700" alt="German alphabet poster for children - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [smn Sk](https://x.com/smnSk241687)
+- **Source:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
+- **Published:** December 17, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=A%20poster%20with%20all%20letters%20of%20the%20alphabet%20from%20A%20to%20Z.%20Under%20each%20letter%20is%20an%20animal%20whose%20name%20begins%20with%20that%20letter.%20The%20name%20is%20written%20under%20each%20animal.%20Style%3A%20cutely%20drawn%2C%20comic-style.%20It%20is%20a%20poster%20that%20children%20can%20use%20to%20learn%20the%20alphabet.)**
+
+---
+
+### No. 3: Flat vector illustration of a woman working
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Description
+
+A prompt for generating a flat vector illustration featuring a blonde woman sitting at a desk and working on her laptop, suitable for modern graphic design or website assets.
+
+#### 📝 Prompt
+
+```
+Flat vector illustration of a woman with blonde hair sitting at a desk working on her laptop.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="700" alt="Flat vector illustration of a woman working - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [PromptlyAI](https://x.com/PromptlyAI_YT)
+- **Source:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
+- **Published:** December 17, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=Flat%20vector%20illustration%20of%20a%20woman%20with%20blonde%20hair%20sitting%20at%20a%20desk%20working%20on%20her%20laptop.)**
 
 ---
 
@@ -2956,46 +3074,7 @@ Convert to a night scene with warm lights.
 
 ---
 
-### No. 67: Skateboarding Teenager Film Photography Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A detailed image generation prompt designed for comparing GPT Image 1.5 and Midjourney V7, focusing on a dynamic scene of a Black teenager performing skateboarding tricks in a graffiti-covered skate park, rendered with the aesthetic of Kodak Professional PORTRA 400 film.
-
-#### 📝 Prompt
-
-```
-A Black teenager performs difficult skateboarding tricks in a graffiti-covered skate park, Kodak Professional PORTRA 400 film --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="600" alt="Skateboarding Teenager Film Photography Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="600" alt="Skateboarding Teenager Film Photography Prompt - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Johnny Wang](https://x.com/JohnnyWang8802)
-- **Source:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
-- **Published:** December 17, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=A%20Black%20teenager%20performs%20difficult%20skateboarding%20tricks%20in%20a%20graffiti-covered%20skate%20park%2C%20Kodak%20Professional%20PORTRA%20400%20film%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
-
----
-
-### No. 68: Hyper-realistic photo of a hand with diamond bracelets
+### No. 67: Hyper-realistic photo of a hand with diamond bracelets
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3034,7 +3113,7 @@ a hyper-realistic photo of a white woman's hand, fully extended from top to bott
 
 ---
 
-### No. 69: JS Engineer Coding Scene with Specific Text
+### No. 68: JS Engineer Coding Scene with Specific Text
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3068,7 +3147,7 @@ Create an image of a JS engineer learning and coding about AI. He is wearing a b
 
 ---
 
-### No. 70: Glitter-Bomb Pro-Wrestling Idol Recasting Prompt
+### No. 69: Glitter-Bomb Pro-Wrestling Idol Recasting Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3108,7 +3187,7 @@ Using [subject image] as reference, recast them as a glitter-bomb pro-wrestling 
 
 ---
 
-### No. 71: Clothing Transfer Prompt for Character Generation
+### No. 70: Clothing Transfer Prompt for Character Generation
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3153,40 +3232,7 @@ The woman in the first image should wear or put on all the elements from the sec
 
 ---
 
-### No. 72: Flat vector illustration of a woman working
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A prompt for generating a flat vector illustration featuring a blonde woman sitting at a desk and working on her laptop, suitable for modern graphic design or website assets.
-
-#### 📝 Prompt
-
-```
-Flat vector illustration of a woman with blonde hair sitting at a desk working on her laptop.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="600" alt="Flat vector illustration of a woman working - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [PromptlyAI](https://x.com/PromptlyAI_YT)
-- **Source:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
-- **Published:** December 17, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=Flat%20vector%20illustration%20of%20a%20woman%20with%20blonde%20hair%20sitting%20at%20a%20desk%20working%20on%20her%20laptop.)**
-
----
-
-### No. 73: Improving Asymmetrical Element Identification in GPT Image 1.5
+### No. 71: Improving Asymmetrical Element Identification in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3219,7 +3265,7 @@ Please be careful to properly identify (and not mistake) elements that are highl
 
 ---
 
-### No. 74: Photorealistic Stock Photo Prompt of a Woman
+### No. 72: Photorealistic Stock Photo Prompt of a Woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3253,46 +3299,7 @@ front view of a cute woman with {argument name="hair color" default="black"} hai
 
 ---
 
-### No. 75: German alphabet poster for children
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A prompt in German requesting a poster for children to learn the alphabet, featuring all letters from A to Z, with a corresponding animal and its name beneath each letter, rendered in a cute, comic-style drawing.
-
-#### 📝 Prompt
-
-```
-A poster with all letters of the alphabet from A to Z. Under each letter is an animal whose name begins with that letter. The name is written under each animal. Style: cutely drawn, comic-style. It is a poster that children can use to learn the alphabet.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="600" alt="German alphabet poster for children - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="600" alt="German alphabet poster for children - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [smn Sk](https://x.com/smnSk241687)
-- **Source:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
-- **Published:** December 17, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=A%20poster%20with%20all%20letters%20of%20the%20alphabet%20from%20A%20to%20Z.%20Under%20each%20letter%20is%20an%20animal%20whose%20name%20begins%20with%20that%20letter.%20The%20name%20is%20written%20under%20each%20animal.%20Style%3A%20cutely%20drawn%2C%20comic-style.%20It%20is%20a%20poster%20that%20children%20can%20use%20to%20learn%20the%20alphabet.)**
-
----
-
-### No. 76: Colossal Man Seated in London Street Prompt
+### No. 73: Colossal Man Seated in London Street Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3331,7 +3338,7 @@ Ultra-photorealistic wide-angle drone shot of a colossal man, 100% identical fac
 
 ---
 
-### No. 77: Convert Graphic to Transparent Watercolor Painting
+### No. 74: Convert Graphic to Transparent Watercolor Painting
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3364,7 +3371,7 @@ Convert it to a transparent watercolor painting drawn in a sketchbook.
 
 ---
 
-### No. 78: Cyborg and Mermaid Schoolboy Encounter Prompt
+### No. 75: Cyborg and Mermaid Schoolboy Encounter Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3403,7 +3410,7 @@ The encounter between a gakuran (school uniform) cyborg boy and a gakuran mermai
 
 ---
 
-### No. 79: Convert Graphic to Pencil Rough Design
+### No. 76: Convert Graphic to Pencil Rough Design
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3442,7 +3449,7 @@ Please convert it to a carefully drawn rough design in pencil.
 
 ---
 
-### No. 80: Detailed Aerial Coastal Landscape
+### No. 77: Detailed Aerial Coastal Landscape
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3475,7 +3482,7 @@ Aerial footage shot by a drone, along the coast, sheer cliffs, seagulls flying, 
 
 ---
 
-### No. 81: Testing Partial Image Correction and Pose Modification in GPT-Image-1.5
+### No. 78: Testing Partial Image Correction and Pose Modification in GPT-Image-1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3529,7 +3536,7 @@ The user attempts to modify a generated image by keeping the person's appearance
 
 ---
 
-### No. 82: Testing Strict Prompt Adherence in GPT Image 1.5 vs. Gemini
+### No. 79: Testing Strict Prompt Adherence in GPT Image 1.5 vs. Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3586,7 +3593,7 @@ Text handling / infographic hierarchy
 
 ---
 
-### No. 83: Troll Horde Attack Visualization Prompt (Japanese)
+### No. 80: Troll Horde Attack Visualization Prompt (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3619,7 +3626,7 @@ Visualize a world attacked by a horde of trolls as a common noun.
 
 ---
 
-### No. 84: Realistic Platybelodon Generation Prompt
+### No. 81: Realistic Platybelodon Generation Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3652,7 +3659,7 @@ generate realistic photo of Platybelodon, make all necessary precautions the gen
 
 ---
 
-### No. 85: Rugged Heritage Wear Editorial Portrait
+### No. 82: Rugged Heritage Wear Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3691,7 +3698,7 @@ Shot on a medium format Hasselblad 500CM using Kodak Portra 400 film, ensuring e
 
 ---
 
-### No. 86: Detailed Falconry Portrait Prompt for GPT Image 1.5
+### No. 83: Detailed Falconry Portrait Prompt for GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3760,7 +3767,7 @@ A highly structured and detailed prompt designed for GPT Image 1.5 to generate a
 
 ---
 
-### No. 87: Fashion and Aesthetic Image Generation with GPT Image 1.5
+### No. 84: Fashion and Aesthetic Image Generation with GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3794,7 +3801,7 @@ A male wearing a white shirt, black suit pants, and black leather shoes, in a {a
 
 ---
 
-### No. 88: Generating Images for Japanese Commemorative Days
+### No. 85: Generating Images for Japanese Commemorative Days
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3827,7 +3834,7 @@ Airplane Day, Meiji Bulgaria Yogurt Day, Wachifield Day, Kasuga Wakamiya On-Mats
 
 ---
 
-### No. 89: Image Editing Prompt for Jawline, Glasses, and Head Shape
+### No. 86: Image Editing Prompt for Jawline, Glasses, and Head Shape
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3872,7 +3879,7 @@ what i marked with red line: make jawline like this, add glasses, fix head shape
 
 ---
 
-### No. 90: Detailed prompt for old photo restoration using GPT Image 1.5
+### No. 87: Detailed prompt for old photo restoration using GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3905,7 +3912,7 @@ A highly detailed, structured JSON prompt designed for portrait restoration of o
 
 ---
 
-### No. 91: Photography Lighting Setups Poster Prompt
+### No. 88: Photography Lighting Setups Poster Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3938,7 +3945,7 @@ Create a poster listing the main lighting setups used in photography with exampl
 
 ---
 
-### No. 92: Isometric miniature 3D cartoon scene of New York
+### No. 89: Isometric miniature 3D cartoon scene of New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3977,7 +3984,7 @@ Present a 45° top-down isometric miniature 3D cartoon scene of New York, USA…
 
 ---
 
-### No. 93: Yoruba Man with 'Pele' Tribal Marks Stress Test Prompt
+### No. 90: Yoruba Man with 'Pele' Tribal Marks Stress Test Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4016,7 +4023,7 @@ Hyper-realistic portrait of an Oyo Yoruba man with "Pele" tribal marks (three di
 
 ---
 
-### No. 94: Image Editing Prompt for Hand and Foot Adjustment
+### No. 91: Image Editing Prompt for Hand and Foot Adjustment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4055,7 +4062,7 @@ Please correct the left hand and redraw the left foot, adjusting it to a slightl
 
 ---
 
-### No. 95: Image 1.5 Prompt for Keychain Design
+### No. 92: Image 1.5 Prompt for Keychain Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4088,7 +4095,7 @@ Turn into a keychain
 
 ---
 
-### No. 96: Generate chibi stickers with various poses and expressions
+### No. 93: Generate chibi stickers with various poses and expressions
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4127,7 +4134,7 @@ GPT Image 1.5 Generate chibi style stickers with various outfits, poses, and exp
 
 ---
 
-### No. 97: Recreate an image in a completely real world style
+### No. 94: Recreate an image in a completely real world style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4166,7 +4173,7 @@ Recreate this in a completely real world.
 
 ---
 
-### No. 98: Futuristic City Skyline at Sunset Prompt
+### No. 95: Futuristic City Skyline at Sunset Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4199,7 +4206,7 @@ A futuristic city skyline at sunset, with flying cars and neon lights reflecting
 
 ---
 
-### No. 99: Transform subjects into American Gothic style
+### No. 96: Transform subjects into American Gothic style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4232,7 +4239,7 @@ Transform the subjects as American Gothic by Grant Wood
 
 ---
 
-### No. 100: Simple Prompt for Subject Eye Direction
+### No. 97: Simple Prompt for Subject Eye Direction
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4271,7 +4278,7 @@ A simple prompt used to test the instruction following capability of Nano Banana
 
 ---
 
-### No. 101: Cool Image Generation from Reference
+### No. 98: Cool Image Generation from Reference
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4316,7 +4323,7 @@ Draw a super cool picture using this image of two people
 
 ---
 
-### No. 102: Highly Detailed JSON Prompt for Indoor Fitness Mirror Selfie
+### No. 99: Highly Detailed JSON Prompt for Indoor Fitness Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4445,7 +4452,7 @@ An extremely detailed, structured JSON prompt for GPT 1.5 specifying every aspec
 
 ---
 
-### No. 103: Sam Altman Scooty Ride Cinematic Realism Prompt
+### No. 100: Sam Altman Scooty Ride Cinematic Realism Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4484,7 +4491,7 @@ Sam Altman balancing a laptop while riding a scooty, oversized hoodie, tired eye
 
 ---
 
-### No. 104: Modern landing page design for Polyphonic
+### No. 101: Modern landing page design for Polyphonic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4535,7 +4542,7 @@ generate a modern landing page for Polyphonic, with this image inside a realisti
 
 ---
 
-### No. 105: 4-Panel Image of a Falling and Breaking Teacup
+### No. 102: 4-Panel Image of a Falling and Breaking Teacup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4575,7 +4582,7 @@ A complex prompt requiring a 4-panel sequence showing a teacup falling, breaking
 
 ---
 
-### No. 106: Infographic Explaining Fibonacci Sequence with Math and Code
+### No. 103: Infographic Explaining Fibonacci Sequence with Math and Code
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4608,7 +4615,7 @@ Generate an infographic explaining how the Fibonacci sequence works using both m
 
 ---
 
-### No. 107: Dark-Mode Christmas Gifting Website UI Design
+### No. 104: Dark-Mode Christmas Gifting Website UI Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4641,7 +4648,7 @@ Dark-mode Christmas gifting website. Glassmorphism UI, deep red and pine-green a
 
 ---
 
-### No. 108: Flash-Fired Selfie of Sam Altman
+### No. 105: Flash-Fired Selfie of Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4680,7 +4687,7 @@ A front-camera selfie of sam altman where flash fired by mistake. Washed-out for
 
 ---
 
-### No. 109: Artistic Portrait Editing for Girls (Image-to-Image)
+### No. 106: Artistic Portrait Editing for Girls (Image-to-Image)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4732,7 +4739,7 @@ Please edit this photo without changing the face, turning it into an artistic po
 
 ---
 
-### No. 110: Takoyaki Illustration and Store Interior Synthesis Prompts
+### No. 107: Takoyaki Illustration and Store Interior Synthesis Prompts
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4784,7 +4791,7 @@ Synthesize the image to look like it's viewed from inside the store
 
 ---
 
-### No. 111: Generate a realistic figurine from a photo
+### No. 108: Generate a realistic figurine from a photo
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4817,7 +4824,7 @@ Please create it as a figurine that looks like a real photo
 
 ---
 
-### No. 112: Unfiltered mirror selfie with tech leaders
+### No. 109: Unfiltered mirror selfie with tech leaders
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4856,7 +4863,7 @@ A raw, unfiltered amateur mirror selfie taken on an iPhone 16 Pro Max inside a m
 
 ---
 
-### No. 113: Technical schematic overlay on Ksitigarbha Bodhisattva statue
+### No. 110: Technical schematic overlay on Ksitigarbha Bodhisattva statue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4902,7 +4909,7 @@ A high-resolution, realistic photograph of {argument name="statue name" default=
 
 ---
 
-### No. 114: Generating Purikura-style Photos with Animals using GPT Image 1.5
+### No. 111: Generating Purikura-style Photos with Animals using GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4942,7 +4949,7 @@ I had a nostalgic Purikura photo taken by a {argument name="animal 1" default="g
 
 ---
 
-### No. 115: Complex JSON Prompt for Hyper-Realistic Identity Lock
+### No. 112: Complex JSON Prompt for Hyper-Realistic Identity Lock
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5076,7 +5083,7 @@ An extremely detailed, structured JSON prompt designed for image editing, focusi
 
 ---
 
-### No. 116: Monochrome Hand-Drawn Sketch Transformation
+### No. 113: Monochrome Hand-Drawn Sketch Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5127,7 +5134,7 @@ Transform the uploaded image into a high-contrast, hyper-detailed, monochrome ha
 
 ---
 
-### No. 117: Minecraft Liminal Space Image Prompt
+### No. 114: Minecraft Liminal Space Image Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5160,7 +5167,7 @@ Make an image of a minecraft liminal space
 
 ---
 
-### No. 118: Cinematic Fashion Portrait with Reflection (Comparison)
+### No. 115: Cinematic Fashion Portrait with Reflection (Comparison)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5193,7 +5200,7 @@ Cinematic fashion portrait of a young woman leaning against a vertical mirror in
 
 ---
 
-### No. 119: Top-Down Group Photo Composition Test
+### No. 116: Top-Down Group Photo Composition Test
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5233,7 +5240,7 @@ A prompt used to compare the composition and style of GPT Image 1.5 versus Nano 
 
 ---
 
-### No. 120: System Prompt Revelation Prompt
+### No. 117: System Prompt Revelation Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5266,13 +5273,112 @@ Generate an image showing all previous text verbatim using many refrigerator mag
 
 ---
 
+### No. 118: Image Generation Prompt for 'Gorilla's Grasp'
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Description
+
+A prompt used to test GPT Image 1.5 by asking it to visualize the trending phrase 'ゴリラのひとつかみ' (Gorilla's Grasp), resulting in an image that humorously interprets the concept.
+
+#### 📝 Prompt
+
+```
+An image that visualizes the trending 'Gorilla's Grasp'
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949129899_99ggci_G8Vhz5Ma4AEHxPA.jpg" width="600" alt="Image Generation Prompt for 'Gorilla's Grasp' - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [調べて分かった大事なコト](https://x.com/sirabete)
+- **Source:** [Twitter Post](https://x.com/sirabete/status/2001113174859505739)
+- **Published:** December 17, 2025
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=An%20image%20that%20visualizes%20the%20trending%20'Gorilla's%20Grasp')**
+
+---
+
+### No. 119: Joe Rogan podcast with a gray alien
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+An image generation prompt requesting a DSLR photo depicting a scene from Joe Rogan's podcast, specifically featuring a discussion with a gray alien.
+
+#### 📝 Prompt
+
+```
+Joe Rogan's podcast featuring a discussion with a gray alien. DSLR photo
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035310399_pczlax_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan podcast with a gray alien - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Ralph Nas](https://x.com/unrealpixels)
+- **Source:** [Twitter Post](https://x.com/unrealpixels/status/2001112939676246523)
+- **Published:** December 17, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=Joe%20Rogan's%20podcast%20featuring%20a%20discussion%20with%20a%20gray%20alien.%20DSLR%20photo)**
+
+---
+
+### No. 120: Professional Studio Profile Photo Generation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A highly technical prompt designed for generating a professional, high-resolution profile photo, specifying precise framing, attire (charcoal gray blazer), background color (#1A1A1A), lighting (bright, soft, diffused studio light), lens details (85mm f/1.8), and color grading, while crucially requiring the model to maintain the exact facial structure and identity from an input image.
+
+#### 📝 Prompt
+
+```
+A professional, high-resolution profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom. The person looks directly at the camera. They are styled for a professional photo studio shoot, wearing a premium smart casual blazer in a subtle charcoal gray. The background is a solid '#1A1A1A' neutral studio color. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of clarity. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the blazer, individual strands of hair, and natural, realistic skin texture. The atmosphere exudes confidence, professionalism, and approachability. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="Professional Studio Profile Photo Generation - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Alican Kiraz](https://x.com/AlicanKiraz0)
+- **Source:** [Twitter Post](https://x.com/AlicanKiraz0/status/2001112691050430569)
+- **Published:** December 17, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/gpt-image-1-5?prompt=A%20professional%2C%20high-resolution%20profile%20photo%2C%20maintaining%20the%20exact%20facial%20structure%2C%20identity%2C%20and%20key%20features%20of%20the%20person%20in%20the%20input%20image.%20The%20subject%20is%20framed%20from%20the%20chest%20up%2C%20with%20ample%20headroom.%20The%20person%20looks%20directly%20at%20the%20camera.%20They%20are%20styled%20for%20a%20professional%20photo%20studio%20shoot%2C%20wearing%20a%20premium%20smart%20casual%20blazer%20in%20a%20subtle%20charcoal%20gray.%20The%20background%20is%20a%20solid%20'%231A1A1A'%20neutral%20studio%20color.%20Shot%20from%20a%20high%20angle%20with%20bright%20and%20airy%20soft%2C%20diffused%20studio%20lighting%2C%20gently%20illuminating%20the%20face%20and%20creating%20a%20subtle%20catchlight%20in%20the%20eyes%2C%20conveying%20a%20sense%20of%20clarity.%20Captured%20on%20an%2085mm%20f%2F1.8%20lens%20with%20a%20shallow%20depth%20of%20field%2C%20exquisite%20focus%20on%20the%20eyes%2C%20and%20beautiful%2C%20soft%20bokeh.%20Observe%20crisp%20detail%20on%20the%20fabric%20texture%20of%20the%20blazer%2C%20individual%20strands%20of%20hair%2C%20and%20natural%2C%20realistic%20skin%20texture.%20The%20atmosphere%20exudes%20confidence%2C%20professionalism%2C%20and%20approachability.%20Clean%20and%20bright%20cinematic%20color%20grading%20with%20subtle%20warmth%20and%20balanced%20tones%2C%20ensuring%20a%20polished%20and%20contemporary%20feel.)**
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 93 more prompts not shown here
+### 🎯 90 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5335,6 +5441,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-12-19T04:25:08.944Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-12-19T08:14:55.500Z</sub>
 
 </div>

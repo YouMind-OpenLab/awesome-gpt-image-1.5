@@ -87,29 +87,30 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 | Chỉ số | Số lượng |
 |--------|-------|
 | 📝 Tổng số câu lệnh | **213** |
-| ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 04:25:22 UTC Thứ Sáu, 19 tháng 12, 2025** |
+| ⭐ Nổi bật | **3** |
+| 🔄 Cập nhật lần cuối | **lúc 08:15:14 UTC Thứ Sáu, 19 tháng 12, 2025** |
 
 </div>
 
 ---
 
-## 📋 Tất cả câu lệnh
+## 🔥 Câu lệnh nổi bật
 
-> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
+> ⭐ Được nhóm của chúng tôi chọn lọc thủ công vì chất lượng và sáng tạo xuất sắc
 
-### No. 1: Aesthetic Image Generation Prompt
+### No. 1: Gợi ý chụp ảnh phim: Thiếu niên trượt ván
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Mô tả
 
-This prompt is used with ChatGPT Image to generate an image where every detail is aligned and every color tells a story, suggesting a highly detailed and aesthetically pleasing visual output.
+Một lời nhắc tạo ảnh chi tiết được thiết kế để so sánh GPT Image 1.5 và Midjourney V7, tập trung vào cảnh động một thiếu niên da đen đang thực hiện các động tác trượt ván trong công viên trượt ván phủ đầy hình vẽ graffiti, được kết xuất với tính thẩm mỹ của phim Kodak Professional PORTRA 400.
 
 #### 📝 Câu lệnh
 
 ```
-A high-resolution, cinematic photograph of a lone, ancient lighthouse standing on a rugged cliff edge at sunset. The sky is dramatic, painted in deep oranges, purples, and blues, with rays of light breaking through the clouds. Waves crash violently against the rocks below, creating a fine mist. The lighthouse beam cuts sharply through the twilight air. The texture of the stone and the weathered metal of the lantern room are highly detailed. The overall mood is one of isolation, power, and enduring beauty. Shot on a large format camera, 85mm lens, f/2.8, golden hour lighting.
+Một thiếu niên da đen thực hiện các pha trượt ván khó trong công viên trượt ván đầy hình vẽ graffiti, phim Kodak Professional PORTRA 400 --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -117,7 +118,124 @@ A high-resolution, cinematic photograph of a lone, ancient lighthouse standing o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Aesthetic Image Generation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="700" alt="Gợi ý chụp ảnh phim: Thiếu niên trượt ván - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="700" alt="Gợi ý chụp ảnh phim: Thiếu niên trượt ván - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Johnny Wang](https://x.com/JohnnyWang8802)
+- **Nguồn:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
+- **Đã xuất bản:** 17 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20thi%E1%BA%BFu%20ni%C3%AAn%20da%20%C4%91en%20th%E1%BB%B1c%20hi%E1%BB%87n%20c%C3%A1c%20pha%20tr%C6%B0%E1%BB%A3t%20v%C3%A1n%20kh%C3%B3%20trong%20c%C3%B4ng%20vi%C3%AAn%20tr%C6%B0%E1%BB%A3t%20v%C3%A1n%20%C4%91%E1%BA%A7y%20h%C3%ACnh%20v%E1%BA%BD%20graffiti%2C%20phim%20Kodak%20Professional%20PORTRA%20400%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
+
+---
+
+### No. 2: Áp phích bảng chữ cái tiếng Đức cho trẻ em
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Mô tả
+
+Một lời nhắc bằng tiếng Đức yêu cầu tạo một áp phích cho trẻ em học bảng chữ cái, có tất cả các chữ cái từ A đến Z, với một con vật tương ứng và tên của nó bên dưới mỗi chữ cái, được thể hiện bằng hình vẽ phong cách truyện tranh dễ thương.
+
+#### 📝 Câu lệnh
+
+```
+Một áp phích có tất cả các chữ cái trong bảng chữ cái từ A đến Z. Dưới mỗi chữ cái là một con vật có tên bắt đầu bằng chữ cái đó. Tên của con vật được viết bên dưới. Phong cách: vẽ dễ thương, kiểu truyện tranh. Đây là một áp phích mà trẻ em có thể dùng để học bảng chữ cái.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="700" alt="Áp phích bảng chữ cái tiếng Đức cho trẻ em - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="700" alt="Áp phích bảng chữ cái tiếng Đức cho trẻ em - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [smn Sk](https://x.com/smnSk241687)
+- **Nguồn:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
+- **Đã xuất bản:** 17 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20c%C3%B3%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20ch%E1%BB%AF%20c%C3%A1i%20trong%20b%E1%BA%A3ng%20ch%E1%BB%AF%20c%C3%A1i%20t%E1%BB%AB%20A%20%C4%91%E1%BA%BFn%20Z.%20D%C6%B0%E1%BB%9Bi%20m%E1%BB%97i%20ch%E1%BB%AF%20c%C3%A1i%20l%C3%A0%20m%E1%BB%99t%20con%20v%E1%BA%ADt%20c%C3%B3%20t%C3%AAn%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20ch%E1%BB%AF%20c%C3%A1i%20%C4%91%C3%B3.%20T%C3%AAn%20c%E1%BB%A7a%20con%20v%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi.%20Phong%20c%C3%A1ch%3A%20v%E1%BA%BD%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20ki%E1%BB%83u%20truy%E1%BB%87n%20tranh.%20%C4%90%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20m%C3%A0%20tr%E1%BA%BB%20em%20c%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20%C4%91%E1%BB%83%20h%E1%BB%8Dc%20b%E1%BA%A3ng%20ch%E1%BB%AF%20c%C3%A1i.)**
+
+---
+
+### No. 3: Hình minh họa vector phẳng về một người phụ nữ đang làm việc
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Mô tả
+
+Một lời nhắc để tạo hình minh họa vector phẳng có hình một phụ nữ tóc vàng đang ngồi tại bàn làm việc và sử dụng máy tính xách tay của cô ấy, phù hợp cho thiết kế đồ họa hiện đại hoặc tài sản trang web.
+
+#### 📝 Câu lệnh
+
+```
+Hình minh họa vector phẳng một người phụ nữ tóc vàng đang ngồi làm việc trên máy tính xách tay tại bàn làm việc.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="700" alt="Hình minh họa vector phẳng về một người phụ nữ đang làm việc - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [PromptlyAI](https://x.com/PromptlyAI_YT)
+- **Nguồn:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
+- **Đã xuất bản:** 17 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=H%C3%ACnh%20minh%20h%E1%BB%8Da%20vector%20ph%E1%BA%B3ng%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20t%C3%B3c%20v%C3%A0ng%20%C4%91ang%20ng%E1%BB%93i%20l%C3%A0m%20vi%E1%BB%87c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh%20x%C3%A1ch%20tay%20t%E1%BA%A1i%20b%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c.)**
+
+---
+
+## 📋 Tất cả câu lệnh
+
+> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
+
+### No. 1: Lời nhắc tạo ảnh thẩm mỹ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời nhắc này được sử dụng với ChatGPT Image để tạo ra một hình ảnh mà mọi chi tiết đều được căn chỉnh và mọi màu sắc đều kể một câu chuyện, gợi ý một kết quả hình ảnh có tính thẩm mỹ cao và chi tiết.
+
+#### 📝 Câu lệnh
+
+```
+Một bức ảnh điện ảnh độ phân giải cao, chụp một ngọn hải đăng cổ kính đơn độc đứng trên vách đá lởm chởm vào lúc hoàng hôn. Bầu trời đầy kịch tính, được vẽ bằng các gam màu cam đậm, tím và xanh lam, với những tia sáng xuyên qua các đám mây. Sóng vỗ mạnh vào những tảng đá bên dưới, tạo ra một màn sương mờ. Chùm sáng của ngọn hải đăng cắt sắc nét qua không khí chạng vạng. Kết cấu của đá và kim loại phong hóa của phòng đèn lồng được thể hiện rất chi tiết. Tâm trạng tổng thể là sự cô lập, sức mạnh và vẻ đẹp trường tồn. Chụp bằng máy ảnh khổ lớn, ống kính 85mm, f/2.8, ánh sáng giờ vàng.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Lời nhắc tạo ảnh thẩm mỹ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -127,23 +245,23 @@ A high-resolution, cinematic photograph of a lone, ancient lighthouse standing o
 - **Đã xuất bản:** 19 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=A%20high-resolution%2C%20cinematic%20photograph%20of%20a%20lone%2C%20ancient%20lighthouse%20standing%20on%20a%20rugged%20cliff%20edge%20at%20sunset.%20The%20sky%20is%20dramatic%2C%20painted%20in%20deep%20oranges%2C%20purples%2C%20and%20blues%2C%20with%20rays%20of%20light%20breaking%20through%20the%20clouds.%20Waves%20crash%20violently%20against%20the%20rocks%20below%2C%20creating%20a%20fine%20mist.%20The%20lighthouse%20beam%20cuts%20sharply%20through%20the%20twilight%20air.%20The%20texture%20of%20the%20stone%20and%20the%20weathered%20metal%20of%20the%20lantern%20room%20are%20highly%20detailed.%20The%20overall%20mood%20is%20one%20of%20isolation%2C%20power%2C%20and%20enduring%20beauty.%20Shot%20on%20a%20large%20format%20camera%2C%2085mm%20lens%2C%20f%2F2.8%2C%20golden%20hour%20lighting.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%2C%20ch%E1%BB%A5p%20m%E1%BB%99t%20ng%E1%BB%8Dn%20h%E1%BA%A3i%20%C4%91%C4%83ng%20c%E1%BB%95%20k%C3%ADnh%20%C4%91%C6%A1n%20%C4%91%E1%BB%99c%20%C4%91%E1%BB%A9ng%20tr%C3%AAn%20v%C3%A1ch%20%C4%91%C3%A1%20l%E1%BB%9Fm%20ch%E1%BB%9Fm%20v%C3%A0o%20l%C3%BAc%20ho%C3%A0ng%20h%C3%B4n.%20B%E1%BA%A7u%20tr%E1%BB%9Di%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20b%E1%BA%B1ng%20c%C3%A1c%20gam%20m%C3%A0u%20cam%20%C4%91%E1%BA%ADm%2C%20t%C3%ADm%20v%C3%A0%20xanh%20lam%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20tia%20s%C3%A1ng%20xuy%C3%AAn%20qua%20c%C3%A1c%20%C4%91%C3%A1m%20m%C3%A2y.%20S%C3%B3ng%20v%E1%BB%97%20m%E1%BA%A1nh%20v%C3%A0o%20nh%E1%BB%AFng%20t%E1%BA%A3ng%20%C4%91%C3%A1%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20m%C3%A0n%20s%C6%B0%C6%A1ng%20m%E1%BB%9D.%20Ch%C3%B9m%20s%C3%A1ng%20c%E1%BB%A7a%20ng%E1%BB%8Dn%20h%E1%BA%A3i%20%C4%91%C4%83ng%20c%E1%BA%AFt%20s%E1%BA%AFc%20n%C3%A9t%20qua%20kh%C3%B4ng%20kh%C3%AD%20ch%E1%BA%A1ng%20v%E1%BA%A1ng.%20K%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20%C4%91%C3%A1%20v%C3%A0%20kim%20lo%E1%BA%A1i%20phong%20h%C3%B3a%20c%E1%BB%A7a%20ph%C3%B2ng%20%C4%91%C3%A8n%20l%E1%BB%93ng%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20r%E1%BA%A5t%20chi%20ti%E1%BA%BFt.%20T%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20s%E1%BB%B1%20c%C3%B4%20l%E1%BA%ADp%2C%20s%E1%BB%A9c%20m%E1%BA%A1nh%20v%C3%A0%20v%E1%BA%BB%20%C4%91%E1%BA%B9p%20tr%C6%B0%E1%BB%9Dng%20t%E1%BB%93n.%20Ch%E1%BB%A5p%20b%E1%BA%B1ng%20m%C3%A1y%20%E1%BA%A3nh%20kh%E1%BB%95%20l%E1%BB%9Bn%2C%20%E1%BB%91ng%20k%C3%ADnh%2085mm%2C%20f%2F2.8%2C%20%C3%A1nh%20s%C3%A1ng%20gi%E1%BB%9D%20v%C3%A0ng.)**
 
 ---
 
-### No. 2: Pencil Sketch Schematics of Bender
+### No. 2: Bản phác thảo sơ đồ mạch của Bender
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A simple, direct prompt for GPT Image 1.5 requesting a pencil sketch illustrating the schematics of the character Bender, likely from Futurama.
+Một lời nhắc đơn giản, trực tiếp cho GPT Image 1.5 yêu cầu một bản phác thảo bằng bút chì minh họa sơ đồ của nhân vật Bender, có thể là từ Futurama.
 
 #### 📝 Câu lệnh
 
 ```
-Pencil sketch for the schematics of {argument name="character" default="bender"}
+Bản phác thảo chì cho sơ đồ của {argument name="character" default="bender"}
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -151,7 +269,7 @@ Pencil sketch for the schematics of {argument name="character" default="bender"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Pencil Sketch Schematics of Bender - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Bản phác thảo sơ đồ mạch của Bender - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -161,37 +279,37 @@ Pencil sketch for the schematics of {argument name="character" default="bender"}
 - **Đã xuất bản:** 19 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Pencil%20sketch%20for%20the%20schematics%20of%20%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=B%E1%BA%A3n%20ph%C3%A1c%20th%E1%BA%A3o%20ch%C3%AC%20cho%20s%C6%A1%20%C4%91%E1%BB%93%20c%E1%BB%A7a%20%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D)**
 
 ---
 
-### No. 3: Detailed Fashion Product Photography Prompt for GPT Image 1.5
+### No. 3: Lời nhắc chụp ảnh sản phẩm thời trang chi tiết cho GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A highly detailed, structured prompt designed for GPT Image 1.5 to generate a commercial advertisement-quality image. The composition is a vertical split-screen featuring a product photography flat-lay of an outfit in a museum specimen box on the top, and a hyperrealistic 'naked-eye 3D' illusion of a model wearing the exact same outfit on the bottom, creating a visual contrast between presentation and reality. The prompt includes specific details on clothing, props, model description, pose, and technical rendering specs.
+Một lời nhắc (prompt) có cấu trúc, chi tiết cao được thiết kế cho GPT Image 1.5 để tạo ra hình ảnh chất lượng quảng cáo thương mại. Bố cục là một màn hình chia dọc, với phần trên là ảnh chụp sản phẩm kiểu flat-lay của một bộ trang phục trong hộp trưng bày mẫu vật bảo tàng, và phần dưới là hình ảnh ảo giác '3D mắt thường' siêu thực của một người mẫu đang mặc chính xác bộ trang phục đó, tạo ra sự tương phản trực quan giữa cách trình bày và thực tế. Lời nhắc bao gồm các chi tiết cụ thể về quần áo, đạo cụ, mô tả người mẫu, tư thế và thông số kỹ thuật kết xuất.
 
 #### 📝 Câu lệnh
 
 ```
-A vertical split-screen creative product photography composition on a clean white wall background. High-resolution, photorealistic, commercial advertisement quality.
+Một bố cục chụp ảnh sản phẩm sáng tạo với màn hình chia dọc trên nền tường trắng sạch. Độ phân giải cao, chân thực như ảnh chụp, chất lượng quảng cáo thương mại.
 
-Top Section: The Specimen Box
-The upper half features an exquisite light oak wooden shadow box frame mounted on the wall. Inside, a specific outfit is displayed as an artistic flat-lay museum specimen: {argument name="Clothing Details" default="a sleek black satin slip dress with delicate lace trim and thin spaghetti straps"}. The garments are neatly pinned in place. Surrounding them are small thematic decorative props: {argument name="Props" default="dried roses, vintage perfume bottles, silk ribbon"}. Elegant calligraphy on the matte paper backdrop reads: {argument name="Text" default="Midnight Elegance"}. Soft studio lighting accentuates the rich texture and drape of the fabric.
+Phần trên: Hộp trưng bày mẫu vật
+Nửa trên là một khung hộp gỗ sồi sáng màu tinh xảo được gắn trên tường. Bên trong, một bộ trang phục cụ thể được trưng bày như một mẫu vật nghệ thuật phẳng trong bảo tàng: {argument name="Clothing Details" default="một chiếc váy slip lụa satin đen bóng mượt với đường viền ren tinh tế và dây áo mảnh"}. Trang phục được ghim gọn gàng vào vị trí. Xung quanh là các đạo cụ trang trí theo chủ đề nhỏ: {argument name="Props" default="hoa hồng khô, chai nước hoa cổ điển, ruy băng lụa"}. Chữ thư pháp trang nhã trên nền giấy mờ ghi: {argument name="Text" default="Vẻ đẹp đêm khuya"}. Ánh sáng studio mềm mại làm nổi bật kết cấu phong phú và độ rủ của vải.
 
-Bottom Section: Naked-Eye 3D Reality
-The lower half creates a hyperrealistic "naked-eye 3D" illusion. A rectangular picture-frame border sits directly beneath the top box. A stunningly realistic young woman {argument name="Model Description" default="a poised East Asian model with long wavy black hair, subtle smoky eyes, and a confident gaze"} wears the exact same outfit as shown above.
+Phần dưới: Thực tế 3D nhìn bằng mắt thường
+Nửa dưới tạo ra một ảo ảnh "3D nhìn bằng mắt thường" siêu thực. Một đường viền khung ảnh hình chữ nhật nằm ngay bên dưới hộp phía trên. Một người phụ nữ trẻ đẹp chân thực đến kinh ngạc {argument name="Model Description" default="một người mẫu Đông Á điềm tĩnh với mái tóc đen dài gợn sóng, đôi mắt khói tinh tế và ánh nhìn tự tin"} mặc chính xác bộ trang phục được thể hiện ở trên.
 
-She lounges casually on the bottom edge of the frame—one leg bent with foot resting inside the frame, the other leg elegantly dangling out into the viewer’s space. Her torso leans back slightly, elbow resting on her raised knee, fingers lightly grazing the fabric near her collarbone. Her body forms a soft, sensual S-curve that highlights the garment’s silhouette without overt exposure. She looks directly at the camera with a calm, knowing smile—inviting yet enigmatic. This dynamic, lifelike pose contrasts powerfully with the static, archival display above, creating visual tension between reality and presentation.
+Cô ấy nằm thư thái ở mép dưới của khung – một chân gập lại với bàn chân đặt bên trong khung, chân còn lại duyên dáng buông thõng ra không gian của người xem. Thân trên của cô ấy hơi ngả về phía sau, khuỷu tay tựa vào đầu gối nâng lên, các ngón tay nhẹ nhàng vuốt ve vải gần xương quai xanh. Cơ thể cô ấy tạo thành một đường cong chữ S mềm mại, gợi cảm làm nổi bật dáng váy mà không phô trương quá mức. Cô ấy nhìn thẳng vào máy ảnh với nụ cười bình tĩnh, đầy ẩn ý – vừa mời gọi vừa bí ẩn. Tư thế năng động, sống động này tương phản mạnh mẽ với màn hình tĩnh, lưu trữ phía trên, tạo ra sự căng thẳng thị giác giữa thực tế và sự thể hiện.
 
-Technical Specs:
-Soft natural shadows, ambient occlusion, bright and airy yet cinematic lighting, 8K resolution, Octane Render, vivid but refined color palette, ultra-detailed fabric textures (satin sheen, lace transparency, stitching), shallow depth of field, Vogue editorial style, filmic grain, professional fashion photography.
+Thông số kỹ thuật:
+Bóng đổ tự nhiên mềm mại, đổ bóng môi trường (ambient occlusion), ánh sáng tươi sáng và thoáng đãng nhưng mang tính điện ảnh, độ phân giải 8K, Octane Render, bảng màu sống động nhưng tinh tế, kết cấu vải siêu chi tiết (độ bóng satin, độ trong suốt của ren, đường may), độ sâu trường ảnh nông, phong cách biên tập của Vogue, nhiễu hạt điện ảnh, nhiếp ảnh thời trang chuyên nghiệp.
 
-Negative Prompt (recommended):
-blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime, doll-like, plastic skin, overexposed, cluttered background, text errors, mismatched clothing, floating objects, unrealistic proportions.
+Lời nhắc tiêu cực (khuyên dùng):
+mờ, độ phân giải thấp, giải phẫu méo mó, thừa chi, tay biến dạng, hoạt hình, anime, giống búp bê, da nhựa, phơi sáng quá mức, nền lộn xộn, lỗi văn bản, quần áo không khớp, vật thể trôi nổi, tỷ lệ không thực tế.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -199,13 +317,13 @@ blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="Lời nhắc chụp ảnh sản phẩm thời trang chi tiết cho GPT Image 1.5 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="Lời nhắc chụp ảnh sản phẩm thời trang chi tiết cho GPT Image 1.5 - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -215,28 +333,28 @@ blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime,
 - **Đã xuất bản:** 19 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=A%20vertical%20split-screen%20creative%20product%20photography%20composition%20on%20a%20clean%20white%20wall%20background.%20High-resolution%2C%20photorealistic%2C%20commercial%20advertisement%20quality.%0A%0ATop%20Section%3A%20The%20Specimen%20Box%0AThe%20upper%20half%20features%20an%20exquisite%20light%20oak%20wooden%20shadow%20box%20frame%20mounted%20on%20the%20wall.%20Inside%2C%20a%20specific%20outfit%20is%20displayed%20as%20an%20artistic%20flat-lay%20museum%20specimen%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22a%20sleek%20black%20satin%20slip%20dress%20with%20delicate%20lace%20trim%20and%20thin%20spaghetti%20straps%22%7D.%20The%20garments%20are%20neatly%20pinned%20in%20place.%20Surrounding%20them%20are%20small%20thematic%20decorative%20props%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22dried%20roses%2C%20vintage%20perfume%20bottles%2C%20silk%20ribbon%22%7D.%20Elegant%20calligraphy%20on%20the%20matte%20paper%20backdrop%20reads%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Soft%20studio%20lighting%20accentuates%20the%20rich%20texture%20and%20drape%20of%20the%20fabric.%0A%0ABottom%20Section%3A%20Naked-Eye%203D%20Reality%0AThe%20lower%20half%20creates%20a%20hyperrealistic%20%22naked-eye%203D%22%20illusion.%20A%20rectangular%20picture-frame%20border%20sits%20directly%20beneath%20the%20top%20box.%20A%20stunningly%20realistic%20young%20woman%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22a%20poised%20East%20Asian%20model%20with%20long%20wavy%20black%20hair%2C%20subtle%20smoky%20eyes%2C%20and%20a%20confident%20gaze%22%7D%20wears%20the%20exact%20same%20outfit%20as%20shown%20above.%0A%0AShe%20lounges%20casually%20on%20the%20bottom%20edge%20of%20the%20frame%E2%80%94one%20leg%20bent%20with%20foot%20resting%20inside%20the%20frame%2C%20the%20other%20leg%20elegantly%20dangling%20out%20into%20the%20viewer%E2%80%99s%20space.%20Her%20torso%20leans%20back%20slightly%2C%20elbow%20resting%20on%20her%20raised%20knee%2C%20fingers%20lightly%20grazing%20the%20fabric%20near%20her%20collarbone.%20Her%20body%20forms%20a%20soft%2C%20sensual%20S-curve%20that%20highlights%20the%20garment%E2%80%99s%20silhouette%20without%20overt%20exposure.%20She%20looks%20directly%20at%20the%20camera%20with%20a%20calm%2C%20knowing%20smile%E2%80%94inviting%20yet%20enigmatic.%20This%20dynamic%2C%20lifelike%20pose%20contrasts%20powerfully%20with%20the%20static%2C%20archival%20display%20above%2C%20creating%20visual%20tension%20between%20reality%20and%20presentation.%0A%0ATechnical%20Specs%3A%0ASoft%20natural%20shadows%2C%20ambient%20occlusion%2C%20bright%20and%20airy%20yet%20cinematic%20lighting%2C%208K%20resolution%2C%20Octane%20Render%2C%20vivid%20but%20refined%20color%20palette%2C%20ultra-detailed%20fabric%20textures%20(satin%20sheen%2C%20lace%20transparency%2C%20stitching)%2C%20shallow%20depth%20of%20field%2C%20Vogue%20editorial%20style%2C%20filmic%20grain%2C%20professional%20fashion%20photography.%0A%0ANegative%20Prompt%20(recommended)%3A%0Ablurry%2C%20low-res%2C%20distorted%20anatomy%2C%20extra%20limbs%2C%20deformed%20hands%2C%20cartoon%2C%20anime%2C%20doll-like%2C%20plastic%20skin%2C%20overexposed%2C%20cluttered%20background%2C%20text%20errors%2C%20mismatched%20clothing%2C%20floating%20objects%2C%20unrealistic%20proportions.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20b%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BB%A5p%20%E1%BA%A3nh%20s%E1%BA%A3n%20ph%E1%BA%A9m%20s%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%A0n%20h%C3%ACnh%20chia%20d%E1%BB%8Dc%20tr%C3%AAn%20n%E1%BB%81n%20t%C6%B0%E1%BB%9Dng%20tr%E1%BA%AFng%20s%E1%BA%A1ch.%20%C4%90%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%2C%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20qu%E1%BA%A3ng%20c%C3%A1o%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i.%0A%0APh%E1%BA%A7n%20tr%C3%AAn%3A%20H%E1%BB%99p%20tr%C6%B0ng%20b%C3%A0y%20m%E1%BA%ABu%20v%E1%BA%ADt%0AN%E1%BB%ADa%20tr%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20khung%20h%E1%BB%99p%20g%E1%BB%97%20s%E1%BB%93i%20s%C3%A1ng%20m%C3%A0u%20tinh%20x%E1%BA%A3o%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BA%AFn%20tr%C3%AAn%20t%C6%B0%E1%BB%9Dng.%20B%C3%AAn%20trong%2C%20m%E1%BB%99t%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20tr%C6%B0ng%20b%C3%A0y%20nh%C6%B0%20m%E1%BB%99t%20m%E1%BA%ABu%20v%E1%BA%ADt%20ngh%E1%BB%87%20thu%E1%BA%ADt%20ph%E1%BA%B3ng%20trong%20b%E1%BA%A3o%20t%C3%A0ng%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22m%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%A1y%20slip%20l%E1%BB%A5a%20satin%20%C4%91en%20b%C3%B3ng%20m%C6%B0%E1%BB%A3t%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20ren%20tinh%20t%E1%BA%BF%20v%C3%A0%20d%C3%A2y%20%C3%A1o%20m%E1%BA%A3nh%22%7D.%20Trang%20ph%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20ghim%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0o%20v%E1%BB%8B%20tr%C3%AD.%20Xung%20quanh%20l%C3%A0%20c%C3%A1c%20%C4%91%E1%BA%A1o%20c%E1%BB%A5%20trang%20tr%C3%AD%20theo%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20nh%E1%BB%8F%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22hoa%20h%E1%BB%93ng%20kh%C3%B4%2C%20chai%20n%C6%B0%E1%BB%9Bc%20hoa%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20ruy%20b%C4%83ng%20l%E1%BB%A5a%22%7D.%20Ch%E1%BB%AF%20th%C6%B0%20ph%C3%A1p%20trang%20nh%C3%A3%20tr%C3%AAn%20n%E1%BB%81n%20gi%E1%BA%A5y%20m%E1%BB%9D%20ghi%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22V%E1%BA%BB%20%C4%91%E1%BA%B9p%20%C4%91%C3%AAm%20khuya%22%7D.%20%C3%81nh%20s%C3%A1ng%20studio%20m%E1%BB%81m%20m%E1%BA%A1i%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20k%E1%BA%BFt%20c%E1%BA%A5u%20phong%20ph%C3%BA%20v%C3%A0%20%C4%91%E1%BB%99%20r%E1%BB%A7%20c%E1%BB%A7a%20v%E1%BA%A3i.%0A%0APh%E1%BA%A7n%20d%C6%B0%E1%BB%9Bi%3A%20Th%E1%BB%B1c%20t%E1%BA%BF%203D%20nh%C3%ACn%20b%E1%BA%B1ng%20m%E1%BA%AFt%20th%C6%B0%E1%BB%9Dng%0AN%E1%BB%ADa%20d%C6%B0%E1%BB%9Bi%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20%E1%BA%A3o%20%E1%BA%A3nh%20%223D%20nh%C3%ACn%20b%E1%BA%B1ng%20m%E1%BA%AFt%20th%C6%B0%E1%BB%9Dng%22%20si%C3%AAu%20th%E1%BB%B1c.%20M%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20khung%20%E1%BA%A3nh%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%20n%E1%BA%B1m%20ngay%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi%20h%E1%BB%99p%20ph%C3%ADa%20tr%C3%AAn.%20M%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91%E1%BA%B9p%20ch%C3%A2n%20th%E1%BB%B1c%20%C4%91%E1%BA%BFn%20kinh%20ng%E1%BA%A1c%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20%C4%90%C3%B4ng%20%C3%81%20%C4%91i%E1%BB%81m%20t%C4%A9nh%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20%C4%91en%20d%C3%A0i%20g%E1%BB%A3n%20s%C3%B3ng%2C%20%C4%91%C3%B4i%20m%E1%BA%AFt%20kh%C3%B3i%20tinh%20t%E1%BA%BF%20v%C3%A0%20%C3%A1nh%20nh%C3%ACn%20t%E1%BB%B1%20tin%22%7D%20m%E1%BA%B7c%20ch%C3%ADnh%20x%C3%A1c%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20%E1%BB%9F%20tr%C3%AAn.%0A%0AC%C3%B4%20%E1%BA%A5y%20n%E1%BA%B1m%20th%C6%B0%20th%C3%A1i%20%E1%BB%9F%20m%C3%A9p%20d%C6%B0%E1%BB%9Bi%20c%E1%BB%A7a%20khung%20%E2%80%93%20m%E1%BB%99t%20ch%C3%A2n%20g%E1%BA%ADp%20l%E1%BA%A1i%20v%E1%BB%9Bi%20b%C3%A0n%20ch%C3%A2n%20%C4%91%E1%BA%B7t%20b%C3%AAn%20trong%20khung%2C%20ch%C3%A2n%20c%C3%B2n%20l%E1%BA%A1i%20duy%C3%AAn%20d%C3%A1ng%20bu%C3%B4ng%20th%C3%B5ng%20ra%20kh%C3%B4ng%20gian%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20xem.%20Th%C3%A2n%20tr%C3%AAn%20c%E1%BB%A7a%20c%C3%B4%20%E1%BA%A5y%20h%C6%A1i%20ng%E1%BA%A3%20v%E1%BB%81%20ph%C3%ADa%20sau%2C%20khu%E1%BB%B7u%20tay%20t%E1%BB%B1a%20v%C3%A0o%20%C4%91%E1%BA%A7u%20g%E1%BB%91i%20n%C3%A2ng%20l%C3%AAn%2C%20c%C3%A1c%20ng%C3%B3n%20tay%20nh%E1%BA%B9%20nh%C3%A0ng%20vu%E1%BB%91t%20ve%20v%E1%BA%A3i%20g%E1%BA%A7n%20x%C6%B0%C6%A1ng%20quai%20xanh.%20C%C6%A1%20th%E1%BB%83%20c%C3%B4%20%E1%BA%A5y%20t%E1%BA%A1o%20th%C3%A0nh%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20ch%E1%BB%AF%20S%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20g%E1%BB%A3i%20c%E1%BA%A3m%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20d%C3%A1ng%20v%C3%A1y%20m%C3%A0%20kh%C3%B4ng%20ph%C3%B4%20tr%C6%B0%C6%A1ng%20qu%C3%A1%20m%E1%BB%A9c.%20C%C3%B4%20%E1%BA%A5y%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20b%C3%ACnh%20t%C4%A9nh%2C%20%C4%91%E1%BA%A7y%20%E1%BA%A9n%20%C3%BD%20%E2%80%93%20v%E1%BB%ABa%20m%E1%BB%9Di%20g%E1%BB%8Di%20v%E1%BB%ABa%20b%C3%AD%20%E1%BA%A9n.%20T%C6%B0%20th%E1%BA%BF%20n%C4%83ng%20%C4%91%E1%BB%99ng%2C%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20n%C3%A0y%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%9Bi%20m%C3%A0n%20h%C3%ACnh%20t%C4%A9nh%2C%20l%C6%B0u%20tr%E1%BB%AF%20ph%C3%ADa%20tr%C3%AAn%2C%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20c%C4%83ng%20th%E1%BA%B3ng%20th%E1%BB%8B%20gi%C3%A1c%20gi%E1%BB%AFa%20th%E1%BB%B1c%20t%E1%BA%BF%20v%C3%A0%20s%E1%BB%B1%20th%E1%BB%83%20hi%E1%BB%87n.%0A%0ATh%C3%B4ng%20s%E1%BB%91%20k%E1%BB%B9%20thu%E1%BA%ADt%3A%0AB%C3%B3ng%20%C4%91%E1%BB%95%20t%E1%BB%B1%20nhi%C3%AAn%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%E1%BB%95%20b%C3%B3ng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20(ambient%20occlusion)%2C%20%C3%A1nh%20s%C3%A1ng%20t%C6%B0%C6%A1i%20s%C3%A1ng%20v%C3%A0%20tho%C3%A1ng%20%C4%91%C3%A3ng%20nh%C6%B0ng%20mang%20t%C3%ADnh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%208K%2C%20Octane%20Render%2C%20b%E1%BA%A3ng%20m%C3%A0u%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20nh%C6%B0ng%20tinh%20t%E1%BA%BF%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%E1%BA%A3i%20si%C3%AAu%20chi%20ti%E1%BA%BFt%20(%C4%91%E1%BB%99%20b%C3%B3ng%20satin%2C%20%C4%91%E1%BB%99%20trong%20su%E1%BB%91t%20c%E1%BB%A7a%20ren%2C%20%C4%91%C6%B0%E1%BB%9Dng%20may)%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20phong%20c%C3%A1ch%20bi%C3%AAn%20t%E1%BA%ADp%20c%E1%BB%A7a%20Vogue%2C%20nhi%E1%BB%85u%20h%E1%BA%A1t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20th%E1%BB%9Di%20trang%20chuy%C3%AAn%20nghi%E1%BB%87p.%0A%0AL%E1%BB%9Di%20nh%E1%BA%AFc%20ti%C3%AAu%20c%E1%BB%B1c%20(khuy%C3%AAn%20d%C3%B9ng)%3A%0Am%E1%BB%9D%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20th%E1%BA%A5p%2C%20gi%E1%BA%A3i%20ph%E1%BA%ABu%20m%C3%A9o%20m%C3%B3%2C%20th%E1%BB%ABa%20chi%2C%20tay%20bi%E1%BA%BFn%20d%E1%BA%A1ng%2C%20ho%E1%BA%A1t%20h%C3%ACnh%2C%20anime%2C%20gi%E1%BB%91ng%20b%C3%BAp%20b%C3%AA%2C%20da%20nh%E1%BB%B1a%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20n%E1%BB%81n%20l%E1%BB%99n%20x%E1%BB%99n%2C%20l%E1%BB%97i%20v%C4%83n%20b%E1%BA%A3n%2C%20qu%E1%BA%A7n%20%C3%A1o%20kh%C3%B4ng%20kh%E1%BB%9Bp%2C%20v%E1%BA%ADt%20th%E1%BB%83%20tr%C3%B4i%20n%E1%BB%95i%2C%20t%E1%BB%B7%20l%E1%BB%87%20kh%C3%B4ng%20th%E1%BB%B1c%20t%E1%BA%BF.)**
 
 ---
 
-### No. 4: Desert Ruins of Pure Math Grid
+### No. 4: Tàn Tích Sa Mạc của Lưới Toán Học Thuần Túy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A highly specific prompt for generating a 2x2 grid of monumental desert ruins, where each ruin is constructed in the style of Cairo monumental stone and represents a major mathematical symbol (Integral, Sigma, Pi, Penrose Triangle).
+Một lời nhắc rất cụ thể để tạo ra một lưới 2x2 gồm các tàn tích sa mạc hoành tráng, trong đó mỗi tàn tích được xây dựng theo phong cách đá hoành tráng của Cairo và đại diện cho một ký hiệu toán học chính (Tích phân, Sigma, Pi, Tam giác Penrose).
 
 #### 📝 Câu lệnh
 
 ```
-Desert Ruins of Pure Math (Cairo-style monumental stone)
-A 2x2 grid of 4 monumental mathematical symbols built as ancient desert ruins in sandstone
-[Top Left: The Integral (∫) as a collapsed arch-aqueduct, wind-eroded blocks, carved microtext equations, tiny caravans for scale]
-[Top Right: The Sigma (Σ) as a stepped fortress-ziggurat with sharp terraces, long shadows, sand drifts collecting in corners]
-[Bottom Left: The Pi (π) as two colossal pylons and a lintel bridge over a narrow oasis canal, chipped stone, scattered rubble geometry]
-[Bottom Right: A Penrose Triangle as impossible ruins half-buried in dunes, optical illusion architecture, Escher perspective, sunlight slicing across paradox edges]
-Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, photoreal ruins texture, subtle river ribbon, swiss 2x2 grid layout.
+Tàn tích sa mạc của Toán học thuần túy (Kiến trúc đá hoành tráng kiểu Cairo)
+Một lưới 2x2 gồm 4 biểu tượng toán học hoành tráng được xây dựng như những tàn tích sa mạc cổ xưa bằng đá sa thạch
+[Trên cùng bên trái: Dấu tích phân (∫) như một cầu máng hình vòm bị sập, các khối đá bị gió bào mòn, các phương trình chữ nhỏ được khắc, các đoàn lữ hành nhỏ để so sánh tỷ lệ]
+[Trên cùng bên phải: Dấu Sigma (Σ) như một pháo đài ziggurat bậc thang với các bậc sắc nét, bóng đổ dài, cát tích tụ ở các góc]
+[Dưới cùng bên trái: Dấu Pi (π) như hai cột tháp khổng lồ và một cây cầu dầm ngang bắc qua một kênh ốc đảo hẹp, đá bị sứt mẻ, hình học của đống đổ nát rải rác]
+[Dưới cùng bên phải: Một Tam giác Penrose như những tàn tích bất khả thi nửa bị chôn vùi trong cồn cát, kiến trúc ảo ảnh quang học, phối cảnh Escher, ánh sáng mặt trời cắt ngang các cạnh nghịch lý]
+Góc nhìn từ trên cao, màn sương vàng của sa mạc, ánh nắng gay gắt rõ nét, bóng đổ ấn tượng, kết cấu tàn tích chân thực, dải sông nhỏ tinh tế, bố cục lưới 2x2 kiểu Thụy Sĩ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -244,13 +362,13 @@ Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Tàn Tích Sa Mạc của Lưới Toán Học Thuần Túy - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Tàn Tích Sa Mạc của Lưới Toán Học Thuần Túy - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -260,23 +378,23 @@ Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, 
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Desert%20Ruins%20of%20Pure%20Math%20(Cairo-style%20monumental%20stone)%0AA%202x2%20grid%20of%204%20monumental%20mathematical%20symbols%20built%20as%20ancient%20desert%20ruins%20in%20sandstone%0A%5BTop%20Left%3A%20The%20Integral%20(%E2%88%AB)%20as%20a%20collapsed%20arch-aqueduct%2C%20wind-eroded%20blocks%2C%20carved%20microtext%20equations%2C%20tiny%20caravans%20for%20scale%5D%0A%5BTop%20Right%3A%20The%20Sigma%20(%CE%A3)%20as%20a%20stepped%20fortress-ziggurat%20with%20sharp%20terraces%2C%20long%20shadows%2C%20sand%20drifts%20collecting%20in%20corners%5D%0A%5BBottom%20Left%3A%20The%20Pi%20(%CF%80)%20as%20two%20colossal%20pylons%20and%20a%20lintel%20bridge%20over%20a%20narrow%20oasis%20canal%2C%20chipped%20stone%2C%20scattered%20rubble%20geometry%5D%0A%5BBottom%20Right%3A%20A%20Penrose%20Triangle%20as%20impossible%20ruins%20half-buried%20in%20dunes%2C%20optical%20illusion%20architecture%2C%20Escher%20perspective%2C%20sunlight%20slicing%20across%20paradox%20edges%5D%0AAerial%20oblique%20view%2C%20golden%20desert%20haze%2C%20crisp%20hard%20sunlight%2C%20dramatic%20shadows%2C%20photoreal%20ruins%20texture%2C%20subtle%20river%20ribbon%2C%20swiss%202x2%20grid%20layout.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%C3%A0n%20t%C3%ADch%20sa%20m%E1%BA%A1c%20c%E1%BB%A7a%20To%C3%A1n%20h%E1%BB%8Dc%20thu%E1%BA%A7n%20t%C3%BAy%20(Ki%E1%BA%BFn%20tr%C3%BAc%20%C4%91%C3%A1%20ho%C3%A0nh%20tr%C3%A1ng%20ki%E1%BB%83u%20Cairo)%0AM%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%202x2%20g%E1%BB%93m%204%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20to%C3%A1n%20h%E1%BB%8Dc%20ho%C3%A0nh%20tr%C3%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A2y%20d%E1%BB%B1ng%20nh%C6%B0%20nh%E1%BB%AFng%20t%C3%A0n%20t%C3%ADch%20sa%20m%E1%BA%A1c%20c%E1%BB%95%20x%C6%B0a%20b%E1%BA%B1ng%20%C4%91%C3%A1%20sa%20th%E1%BA%A1ch%0A%5BTr%C3%AAn%20c%C3%B9ng%20b%C3%AAn%20tr%C3%A1i%3A%20D%E1%BA%A5u%20t%C3%ADch%20ph%C3%A2n%20(%E2%88%AB)%20nh%C6%B0%20m%E1%BB%99t%20c%E1%BA%A7u%20m%C3%A1ng%20h%C3%ACnh%20v%C3%B2m%20b%E1%BB%8B%20s%E1%BA%ADp%2C%20c%C3%A1c%20kh%E1%BB%91i%20%C4%91%C3%A1%20b%E1%BB%8B%20gi%C3%B3%20b%C3%A0o%20m%C3%B2n%2C%20c%C3%A1c%20ph%C6%B0%C6%A1ng%20tr%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20kh%E1%BA%AFc%2C%20c%C3%A1c%20%C4%91o%C3%A0n%20l%E1%BB%AF%20h%C3%A0nh%20nh%E1%BB%8F%20%C4%91%E1%BB%83%20so%20s%C3%A1nh%20t%E1%BB%B7%20l%E1%BB%87%5D%0A%5BTr%C3%AAn%20c%C3%B9ng%20b%C3%AAn%20ph%E1%BA%A3i%3A%20D%E1%BA%A5u%20Sigma%20(%CE%A3)%20nh%C6%B0%20m%E1%BB%99t%20ph%C3%A1o%20%C4%91%C3%A0i%20ziggurat%20b%E1%BA%ADc%20thang%20v%E1%BB%9Bi%20c%C3%A1c%20b%E1%BA%ADc%20s%E1%BA%AFc%20n%C3%A9t%2C%20b%C3%B3ng%20%C4%91%E1%BB%95%20d%C3%A0i%2C%20c%C3%A1t%20t%C3%ADch%20t%E1%BB%A5%20%E1%BB%9F%20c%C3%A1c%20g%C3%B3c%5D%0A%5BD%C6%B0%E1%BB%9Bi%20c%C3%B9ng%20b%C3%AAn%20tr%C3%A1i%3A%20D%E1%BA%A5u%20Pi%20(%CF%80)%20nh%C6%B0%20hai%20c%E1%BB%99t%20th%C3%A1p%20kh%E1%BB%95ng%20l%E1%BB%93%20v%C3%A0%20m%E1%BB%99t%20c%C3%A2y%20c%E1%BA%A7u%20d%E1%BA%A7m%20ngang%20b%E1%BA%AFc%20qua%20m%E1%BB%99t%20k%C3%AAnh%20%E1%BB%91c%20%C4%91%E1%BA%A3o%20h%E1%BA%B9p%2C%20%C4%91%C3%A1%20b%E1%BB%8B%20s%E1%BB%A9t%20m%E1%BA%BB%2C%20h%C3%ACnh%20h%E1%BB%8Dc%20c%E1%BB%A7a%20%C4%91%E1%BB%91ng%20%C4%91%E1%BB%95%20n%C3%A1t%20r%E1%BA%A3i%20r%C3%A1c%5D%0A%5BD%C6%B0%E1%BB%9Bi%20c%C3%B9ng%20b%C3%AAn%20ph%E1%BA%A3i%3A%20M%E1%BB%99t%20Tam%20gi%C3%A1c%20Penrose%20nh%C6%B0%20nh%E1%BB%AFng%20t%C3%A0n%20t%C3%ADch%20b%E1%BA%A5t%20kh%E1%BA%A3%20thi%20n%E1%BB%ADa%20b%E1%BB%8B%20ch%C3%B4n%20v%C3%B9i%20trong%20c%E1%BB%93n%20c%C3%A1t%2C%20ki%E1%BA%BFn%20tr%C3%BAc%20%E1%BA%A3o%20%E1%BA%A3nh%20quang%20h%E1%BB%8Dc%2C%20ph%E1%BB%91i%20c%E1%BA%A3nh%20Escher%2C%20%C3%A1nh%20s%C3%A1ng%20m%E1%BA%B7t%20tr%E1%BB%9Di%20c%E1%BA%AFt%20ngang%20c%C3%A1c%20c%E1%BA%A1nh%20ngh%E1%BB%8Bch%20l%C3%BD%5D%0AG%C3%B3c%20nh%C3%ACn%20t%E1%BB%AB%20tr%C3%AAn%20cao%2C%20m%C3%A0n%20s%C6%B0%C6%A1ng%20v%C3%A0ng%20c%E1%BB%A7a%20sa%20m%E1%BA%A1c%2C%20%C3%A1nh%20n%E1%BA%AFng%20gay%20g%E1%BA%AFt%20r%C3%B5%20n%C3%A9t%2C%20b%C3%B3ng%20%C4%91%E1%BB%95%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20t%C3%A0n%20t%C3%ADch%20ch%C3%A2n%20th%E1%BB%B1c%2C%20d%E1%BA%A3i%20s%C3%B4ng%20nh%E1%BB%8F%20tinh%20t%E1%BA%BF%2C%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%202x2%20ki%E1%BB%83u%20Th%E1%BB%A5y%20S%C4%A9.)**
 
 ---
 
-### No. 5: Reasoning and Instruction Following Puzzle Prompt
+### No. 5: Gợi ý câu đố về suy luận và làm theo hướng dẫn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A complex prompt designed to test the model's reasoning and instruction-following capabilities by asking it to generate a visual puzzle: four related realistic objects on a table, a title text asking 'What do these objects have in common?', and very small, upside-down text at the bottom revealing the answer.
+Một lời nhắc phức tạp được thiết kế để kiểm tra khả năng suy luận và tuân thủ hướng dẫn của mô hình bằng cách yêu cầu nó tạo ra một câu đố hình ảnh: bốn vật thể thực tế có liên quan trên một cái bàn, một dòng tiêu đề hỏi 'Những vật thể này có điểm gì chung?', và một đoạn văn bản rất nhỏ, lộn ngược ở phía dưới tiết lộ câu trả lời.
 
 #### 📝 Câu lệnh
 
 ```
-"Show me 4 realistic objects on a table. The objects are related in some way, this is a puzzle. Add title text across the top, "{argument name="title text" default="What do these objects have in common?"}" And very small upside down text on the bottom which reveals the way in which they are related."
+"Hiển thị cho tôi 4 vật thể thực tế trên một cái bàn. Các vật thể này có liên quan với nhau theo một cách nào đó, đây là một câu đố. Thêm văn bản tiêu đề ở phía trên cùng, "{argument name="title text" default="Những vật thể này có điểm gì chung?"}" Và văn bản rất nhỏ lộn ngược ở phía dưới cùng tiết lộ cách chúng liên quan với nhau."
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -284,25 +402,25 @@ A complex prompt designed to test the model's reasoning and instruction-followin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Gợi ý câu đố về suy luận và làm theo hướng dẫn - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Gợi ý câu đố về suy luận và làm theo hướng dẫn - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Gợi ý câu đố về suy luận và làm theo hướng dẫn - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Gợi ý câu đố về suy luận và làm theo hướng dẫn - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -312,22 +430,22 @@ A complex prompt designed to test the model's reasoning and instruction-followin
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22Show%20me%204%20realistic%20objects%20on%20a%20table.%20The%20objects%20are%20related%20in%20some%20way%2C%20this%20is%20a%20puzzle.%20Add%20title%20text%20across%20the%20top%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22What%20do%20these%20objects%20have%20in%20common%3F%22%7D%22%20And%20very%20small%20upside%20down%20text%20on%20the%20bottom%20which%20reveals%20the%20way%20in%20which%20they%20are%20related.%22)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22Hi%E1%BB%83n%20th%E1%BB%8B%20cho%20t%C3%B4i%204%20v%E1%BA%ADt%20th%E1%BB%83%20th%E1%BB%B1c%20t%E1%BA%BF%20tr%C3%AAn%20m%E1%BB%99t%20c%C3%A1i%20b%C3%A0n.%20C%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%20n%C3%A0y%20c%C3%B3%20li%C3%AAn%20quan%20v%E1%BB%9Bi%20nhau%20theo%20m%E1%BB%99t%20c%C3%A1ch%20n%C3%A0o%20%C4%91%C3%B3%2C%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20c%C3%A2u%20%C4%91%E1%BB%91.%20Th%C3%AAm%20v%C4%83n%20b%E1%BA%A3n%20ti%C3%AAu%20%C4%91%E1%BB%81%20%E1%BB%9F%20ph%C3%ADa%20tr%C3%AAn%20c%C3%B9ng%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22Nh%E1%BB%AFng%20v%E1%BA%ADt%20th%E1%BB%83%20n%C3%A0y%20c%C3%B3%20%C4%91i%E1%BB%83m%20g%C3%AC%20chung%3F%22%7D%22%20V%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20r%E1%BA%A5t%20nh%E1%BB%8F%20l%E1%BB%99n%20ng%C6%B0%E1%BB%A3c%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20c%C3%B9ng%20ti%E1%BA%BFt%20l%E1%BB%99%20c%C3%A1ch%20ch%C3%BAng%20li%C3%AAn%20quan%20v%E1%BB%9Bi%20nhau.%22)**
 
 ---
 
-### No. 6: Meta-Prompt: Create an Image Detailing its Own Creation Steps
+### No. 6: Meta-Prompt: Tạo một Hình ảnh Mô tả các Bước Tạo ra Chính nó
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A meta-prompt asking ChatGPT Image 1.5 to create an image that visually represents the very detailed steps the AI takes to generate that image, testing the model's ability to visualize its internal blueprint.
+Một meta-prompt yêu cầu ChatGPT Image 1.5 tạo ra một hình ảnh trực quan thể hiện các bước rất chi tiết mà AI thực hiện để tạo ra hình ảnh đó, nhằm kiểm tra khả năng hình dung bản thiết kế nội bộ của mô hình.
 
 #### 📝 Câu lệnh
 
 ```
-Create an image about the very detailed steps you create to create the image.
+Tạo một hình ảnh về các bước rất chi tiết mà bạn thực hiện để tạo ra hình ảnh đó.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -335,7 +453,7 @@ Create an image about the very detailed steps you create to create the image.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-Prompt: Create an Image Detailing its Own Creation Steps - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-Prompt: Tạo một Hình ảnh Mô tả các Bước Tạo ra Chính nó - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -345,22 +463,22 @@ Create an image about the very detailed steps you create to create the image.
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Create%20an%20image%20about%20the%20very%20detailed%20steps%20you%20create%20to%20create%20the%20image.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20v%E1%BB%81%20c%C3%A1c%20b%C6%B0%E1%BB%9Bc%20r%E1%BA%A5t%20chi%20ti%E1%BA%BFt%20m%C3%A0%20b%E1%BA%A1n%20th%E1%BB%B1c%20hi%E1%BB%87n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C3%B3.)**
 
 ---
 
-### No. 7: Anime Christmas Elf Cross-Stitch
+### No. 7: Anime Giáng Sinh Elf Thêu Chữ Thập
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt for generating an image of a cross-stitch design featuring a Christmas elf in anime style working at a guitar store, complete with a festive border.
+Một lời nhắc để tạo hình ảnh thiết kế thêu chữ thập có hình một yêu tinh Giáng Sinh theo phong cách anime đang làm việc tại một cửa hàng đàn guitar, hoàn chỉnh với đường viền lễ hội.
 
 #### 📝 Câu lệnh
 
 ```
-a cross-stitch of a christmas elf - anime style. the elf is working at a guitar store, guitars hang on the wall. the cross stitch has a christmas border with mistletoe and christmas decorations.
+một bức thêu chữ thập hình yêu tinh Giáng sinh - phong cách anime. yêu tinh đang làm việc tại một cửa hàng đàn guitar, những cây đàn guitar treo trên tường. bức thêu chữ thập có viền Giáng sinh với cây tầm gửi và đồ trang trí Giáng sinh.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -368,13 +486,13 @@ a cross-stitch of a christmas elf - anime style. the elf is working at a guitar 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Giáng Sinh Elf Thêu Chữ Thập - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Giáng Sinh Elf Thêu Chữ Thập - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -384,22 +502,22 @@ a cross-stitch of a christmas elf - anime style. the elf is working at a guitar 
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=a%20cross-stitch%20of%20a%20christmas%20elf%20-%20anime%20style.%20the%20elf%20is%20working%20at%20a%20guitar%20store%2C%20guitars%20hang%20on%20the%20wall.%20the%20cross%20stitch%20has%20a%20christmas%20border%20with%20mistletoe%20and%20christmas%20decorations.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=m%E1%BB%99t%20b%E1%BB%A9c%20th%C3%AAu%20ch%E1%BB%AF%20th%E1%BA%ADp%20h%C3%ACnh%20y%C3%AAu%20tinh%20Gi%C3%A1ng%20sinh%20-%20phong%20c%C3%A1ch%20anime.%20y%C3%AAu%20tinh%20%C4%91ang%20l%C3%A0m%20vi%E1%BB%87c%20t%E1%BA%A1i%20m%E1%BB%99t%20c%E1%BB%ADa%20h%C3%A0ng%20%C4%91%C3%A0n%20guitar%2C%20nh%E1%BB%AFng%20c%C3%A2y%20%C4%91%C3%A0n%20guitar%20treo%20tr%C3%AAn%20t%C6%B0%E1%BB%9Dng.%20b%E1%BB%A9c%20th%C3%AAu%20ch%E1%BB%AF%20th%E1%BA%ADp%20c%C3%B3%20vi%E1%BB%81n%20Gi%C3%A1ng%20sinh%20v%E1%BB%9Bi%20c%C3%A2y%20t%E1%BA%A7m%20g%E1%BB%ADi%20v%C3%A0%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20Gi%C3%A1ng%20sinh.)**
 
 ---
 
-### No. 8: Moody Cinematic Portrait with Motion Blur and Directional Lighting
+### No. 8: Chân dung điện ảnh u ám với hiệu ứng nhòe chuyển động và ánh sáng định hướng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A highly specific prompt for generating a moody, cinematic portrait of a young male model. It details the lighting (harsh directional light from the left), pose (clutching collar, tense jawline), and a complex motion blur effect slicing horizontally across the face, aiming for a stylized editorial tone with film grain.
+Một lời nhắc rất cụ thể để tạo ra một bức chân dung điện ảnh, đầy tâm trạng của một người mẫu nam trẻ. Nó mô tả chi tiết ánh sáng (ánh sáng định hướng gay gắt từ bên trái), tư thế (nắm chặt cổ áo, hàm căng thẳng), và hiệu ứng làm mờ chuyển động phức tạp cắt ngang khuôn mặt theo chiều ngang, hướng tới một phong cách biên tập cách điệu với hạt phim.
 
 #### 📝 Câu lệnh
 
 ```
-Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+Tạo một bức chân dung điện ảnh đầy tâm trạng về một người mẫu nam trẻ tuổi với làn da sáng, mái tóc gợn sóng mềm mại, mặc bộ vest đen vừa vặn với áo sơ mi tối màu, đứng trước phông nền đen, ánh sáng định hướng mạnh từ bên trái tạo ra những bóng đổ sâu, người mẫu nhìn thẳng với đôi mắt sắc sảo và quai hàm căng thẳng, một tay nắm lấy cổ áo gần cổ, hiệu ứng làm mờ chuyển động cắt ngang khuôn mặt theo chiều ngang từ trái sang phải, hòa trộn các vệt sáng với tông màu hổ phách và be trầm, độ tương phản sắc nét giữa các vùng tĩnh và mờ, tông màu biên tập cách điệu với hạt phim tinh tế và độ chuyển màu mềm mại, không làm mịn kỹ thuật số hay tạo cảm giác nhựa, giữ nguyên kết cấu da và bóng đổ, biểu cảm đầy cảm xúc, vầng sáng nhẹ quanh tóc, chi tiết nền tối thiểu.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -407,13 +525,13 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Chân dung điện ảnh u ám với hiệu ứng nhòe chuyển động và ánh sáng định hướng - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Chân dung điện ảnh u ám với hiệu ứng nhòe chuyển động và ánh sáng định hướng - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -423,22 +541,22 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20%C4%91%E1%BA%A7y%20t%C3%A2m%20tr%E1%BA%A1ng%20v%E1%BB%81%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20nam%20tr%E1%BA%BB%20tu%E1%BB%95i%20v%E1%BB%9Bi%20l%C3%A0n%20da%20s%C3%A1ng%2C%20m%C3%A1i%20t%C3%B3c%20g%E1%BB%A3n%20s%C3%B3ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20m%E1%BA%B7c%20b%E1%BB%99%20vest%20%C4%91en%20v%E1%BB%ABa%20v%E1%BA%B7n%20v%E1%BB%9Bi%20%C3%A1o%20s%C6%A1%20mi%20t%E1%BB%91i%20m%C3%A0u%2C%20%C4%91%E1%BB%A9ng%20tr%C6%B0%E1%BB%9Bc%20ph%C3%B4ng%20n%E1%BB%81n%20%C4%91en%2C%20%C3%A1nh%20s%C3%A1ng%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1nh%20t%E1%BB%AB%20b%C3%AAn%20tr%C3%A1i%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20s%C3%A2u%2C%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20nh%C3%ACn%20th%E1%BA%B3ng%20v%E1%BB%9Bi%20%C4%91%C3%B4i%20m%E1%BA%AFt%20s%E1%BA%AFc%20s%E1%BA%A3o%20v%C3%A0%20quai%20h%C3%A0m%20c%C4%83ng%20th%E1%BA%B3ng%2C%20m%E1%BB%99t%20tay%20n%E1%BA%AFm%20l%E1%BA%A5y%20c%E1%BB%95%20%C3%A1o%20g%E1%BA%A7n%20c%E1%BB%95%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20c%E1%BA%AFt%20ngang%20khu%C3%B4n%20m%E1%BA%B7t%20theo%20chi%E1%BB%81u%20ngang%20t%E1%BB%AB%20tr%C3%A1i%20sang%20ph%E1%BA%A3i%2C%20h%C3%B2a%20tr%E1%BB%99n%20c%C3%A1c%20v%E1%BB%87t%20s%C3%A1ng%20v%E1%BB%9Bi%20t%C3%B4ng%20m%C3%A0u%20h%E1%BB%95%20ph%C3%A1ch%20v%C3%A0%20be%20tr%E1%BA%A7m%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20s%E1%BA%AFc%20n%C3%A9t%20gi%E1%BB%AFa%20c%C3%A1c%20v%C3%B9ng%20t%C4%A9nh%20v%C3%A0%20m%E1%BB%9D%2C%20t%C3%B4ng%20m%C3%A0u%20bi%C3%AAn%20t%E1%BA%ADp%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20v%E1%BB%9Bi%20h%E1%BA%A1t%20phim%20tinh%20t%E1%BA%BF%20v%C3%A0%20%C4%91%E1%BB%99%20chuy%E1%BB%83n%20m%C3%A0u%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20kh%C3%B4ng%20l%C3%A0m%20m%E1%BB%8Bn%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20hay%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20nh%E1%BB%B1a%2C%20gi%E1%BB%AF%20nguy%C3%AAn%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20x%C3%BAc%2C%20v%E1%BA%A7ng%20s%C3%A1ng%20nh%E1%BA%B9%20quanh%20t%C3%B3c%2C%20chi%20ti%E1%BA%BFt%20n%E1%BB%81n%20t%E1%BB%91i%20thi%E1%BB%83u.)**
 
 ---
 
-### No. 9: Portrait grid with varied facial expressions
+### No. 9: Lưới chân dung với nhiều biểu cảm khuôn mặt khác nhau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt designed for GPT-Image 1.5 to create a 3x3 grid of portraits based on an uploaded photo. It requires maintaining the subject's exact likeness while generating nine different facial expressions, presented with a clean, modern aesthetic, soft lighting, and pastel backgrounds.
+Một lời nhắc được thiết kế cho GPT-Image 1.5 để tạo lưới chân dung 3x3 dựa trên một bức ảnh đã tải lên. Nó yêu cầu duy trì sự giống nhau chính xác của chủ thể trong khi tạo ra chín biểu cảm khuôn mặt khác nhau, được trình bày với tính thẩm mỹ sạch sẽ, hiện đại, ánh sáng dịu và nền màu pastel.
 
 #### 📝 Câu lệnh
 
 ```
-Starting with the uploaded photo as a base reference, create a clean and modern portrait grid featuring the same person with several different facial expressions and moods. Arrange the images in a neat 3×3 layout with rounded corners and soft pastel backgrounds. Each portrait should retain the same facial features, hairstyle, and realism, changing only the expression and subtle style. Include expressions such as: natural smile, joyful laugh, calm with eyes closed, neutral and serious gaze, pensive pose with hand on chin, confident and composed expression, sad or disappointed mood, mischievous pout, and surprised reaction with wide eyes. Use soft studio lighting, highly detailed skin texture, shallow depth of field, minimal variations in wardrobe, consistent color palette, ultra-realistic editorial portrait style, high resolution, and clean aesthetics.
+Bắt đầu với bức ảnh đã tải lên làm tham chiếu cơ bản, hãy tạo một lưới chân dung gọn gàng và hiện đại, thể hiện cùng một người với nhiều biểu cảm và tâm trạng khác nhau. Sắp xếp các hình ảnh theo bố cục 3x3 gọn gàng với các góc bo tròn và nền màu pastel nhẹ nhàng. Mỗi bức chân dung nên giữ nguyên các đặc điểm khuôn mặt, kiểu tóc và độ chân thực, chỉ thay đổi biểu cảm và phong cách tinh tế. Bao gồm các biểu cảm như: nụ cười tự nhiên, tiếng cười vui vẻ, bình tĩnh với mắt nhắm, ánh nhìn trung tính và nghiêm túc, tư thế trầm tư với tay chống cằm, biểu cảm tự tin và điềm tĩnh, tâm trạng buồn hoặc thất vọng, bĩu môi tinh nghịch và phản ứng ngạc nhiên với đôi mắt mở to. Sử dụng ánh sáng studio mềm mại, kết cấu da cực kỳ chi tiết, độ sâu trường ảnh nông, ít thay đổi về trang phục, bảng màu nhất quán, phong cách chân dung biên tập siêu thực, độ phân giải cao và tính thẩm mỹ sạch sẽ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -446,13 +564,13 @@ Starting with the uploaded photo as a base reference, create a clean and modern 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Lưới chân dung với nhiều biểu cảm khuôn mặt khác nhau - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Lưới chân dung với nhiều biểu cảm khuôn mặt khác nhau - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -462,27 +580,27 @@ Starting with the uploaded photo as a base reference, create a clean and modern 
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Starting%20with%20the%20uploaded%20photo%20as%20a%20base%20reference%2C%20create%20a%20clean%20and%20modern%20portrait%20grid%20featuring%20the%20same%20person%20with%20several%20different%20facial%20expressions%20and%20moods.%20Arrange%20the%20images%20in%20a%20neat%203%C3%973%20layout%20with%20rounded%20corners%20and%20soft%20pastel%20backgrounds.%20Each%20portrait%20should%20retain%20the%20same%20facial%20features%2C%20hairstyle%2C%20and%20realism%2C%20changing%20only%20the%20expression%20and%20subtle%20style.%20Include%20expressions%20such%20as%3A%20natural%20smile%2C%20joyful%20laugh%2C%20calm%20with%20eyes%20closed%2C%20neutral%20and%20serious%20gaze%2C%20pensive%20pose%20with%20hand%20on%20chin%2C%20confident%20and%20composed%20expression%2C%20sad%20or%20disappointed%20mood%2C%20mischievous%20pout%2C%20and%20surprised%20reaction%20with%20wide%20eyes.%20Use%20soft%20studio%20lighting%2C%20highly%20detailed%20skin%20texture%2C%20shallow%20depth%20of%20field%2C%20minimal%20variations%20in%20wardrobe%2C%20consistent%20color%20palette%2C%20ultra-realistic%20editorial%20portrait%20style%2C%20high%20resolution%2C%20and%20clean%20aesthetics.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=B%E1%BA%AFt%20%C4%91%E1%BA%A7u%20v%E1%BB%9Bi%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn%20l%C3%A0m%20tham%20chi%E1%BA%BFu%20c%C6%A1%20b%E1%BA%A3n%2C%20h%C3%A3y%20t%E1%BA%A1o%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20ch%C3%A2n%20dung%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%C3%B9ng%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%9Bi%20nhi%E1%BB%81u%20bi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20t%C3%A2m%20tr%E1%BA%A1ng%20kh%C3%A1c%20nhau.%20S%E1%BA%AFp%20x%E1%BA%BFp%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh%20theo%20b%E1%BB%91%20c%E1%BB%A5c%203x3%20g%E1%BB%8Dn%20g%C3%A0ng%20v%E1%BB%9Bi%20c%C3%A1c%20g%C3%B3c%20bo%20tr%C3%B2n%20v%C3%A0%20n%E1%BB%81n%20m%C3%A0u%20pastel%20nh%E1%BA%B9%20nh%C3%A0ng.%20M%E1%BB%97i%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20n%C3%AAn%20gi%E1%BB%AF%20nguy%C3%AAn%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%2C%20ki%E1%BB%83u%20t%C3%B3c%20v%C3%A0%20%C4%91%E1%BB%99%20ch%C3%A2n%20th%E1%BB%B1c%2C%20ch%E1%BB%89%20thay%20%C4%91%E1%BB%95i%20bi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20phong%20c%C3%A1ch%20tinh%20t%E1%BA%BF.%20Bao%20g%E1%BB%93m%20c%C3%A1c%20bi%E1%BB%83u%20c%E1%BA%A3m%20nh%C6%B0%3A%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ti%E1%BA%BFng%20c%C6%B0%E1%BB%9Di%20vui%20v%E1%BA%BB%2C%20b%C3%ACnh%20t%C4%A9nh%20v%E1%BB%9Bi%20m%E1%BA%AFt%20nh%E1%BA%AFm%2C%20%C3%A1nh%20nh%C3%ACn%20trung%20t%C3%ADnh%20v%C3%A0%20nghi%C3%AAm%20t%C3%BAc%2C%20t%C6%B0%20th%E1%BA%BF%20tr%E1%BA%A7m%20t%C6%B0%20v%E1%BB%9Bi%20tay%20ch%E1%BB%91ng%20c%E1%BA%B1m%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20t%E1%BB%B1%20tin%20v%C3%A0%20%C4%91i%E1%BB%81m%20t%C4%A9nh%2C%20t%C3%A2m%20tr%E1%BA%A1ng%20bu%E1%BB%93n%20ho%E1%BA%B7c%20th%E1%BA%A5t%20v%E1%BB%8Dng%2C%20b%C4%A9u%20m%C3%B4i%20tinh%20ngh%E1%BB%8Bch%20v%C3%A0%20ph%E1%BA%A3n%20%E1%BB%A9ng%20ng%E1%BA%A1c%20nhi%C3%AAn%20v%E1%BB%9Bi%20%C4%91%C3%B4i%20m%E1%BA%AFt%20m%E1%BB%9F%20to.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C3%A1nh%20s%C3%A1ng%20studio%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20c%E1%BB%B1c%20k%E1%BB%B3%20chi%20ti%E1%BA%BFt%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20%C3%ADt%20thay%20%C4%91%E1%BB%95i%20v%E1%BB%81%20trang%20ph%E1%BB%A5c%2C%20b%E1%BA%A3ng%20m%C3%A0u%20nh%E1%BA%A5t%20qu%C3%A1n%2C%20phong%20c%C3%A1ch%20ch%C3%A2n%20dung%20bi%C3%AAn%20t%E1%BA%ADp%20si%C3%AAu%20th%E1%BB%B1c%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%20v%C3%A0%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20s%E1%BA%A1ch%20s%E1%BA%BD.)**
 
 ---
 
-### No. 10: Hyper-Realistic Cinematic Action Scene from Reference Image
+### No. 10: Cảnh hành động điện ảnh siêu thực từ hình ảnh tham khảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A detailed prompt for transforming a subject from an uploaded reference image into a hyper-realistic cinematic action scene. The subject is depicted leaping from a glowing, neon-swirling dimensional portal onto a wet city crosswalk, emphasizing dynamic motion, dramatic lighting, and preserving the subject's exact likeness and features.
+Một lời nhắc chi tiết để biến một chủ thể từ hình ảnh tham chiếu được tải lên thành một cảnh hành động điện ảnh siêu thực. Chủ thể được miêu tả đang nhảy ra khỏi một cổng không gian phát sáng, xoáy neon lên một vạch kẻ đường thành phố ướt, nhấn mạnh chuyển động năng động, ánh sáng ấn tượng và giữ nguyên hình dáng cũng như các đặc điểm chính xác của chủ thể.
 
 #### 📝 Câu lệnh
 
 ```
-Using the uploaded image as the primary visual reference, transform the subject into a hyper-realistic cinematic action scene. The man is leaping forward onto a city crosswalk while emerging from a glowing circular dimensional portal behind him. The portal emits intense swirling neon energy in electric {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"}, and {argument name="portal color 3" default="magenta"}, with sparks, lightning arcs, particle debris, and visible energy-distortion effects in the air.
+Sử dụng hình ảnh đã tải lên làm tài liệu tham khảo trực quan chính, biến đổi chủ thể thành một cảnh hành động điện ảnh siêu thực. Người đàn ông đang nhảy về phía trước trên vạch qua đường của thành phố trong khi xuất hiện từ một cổng không gian hình tròn phát sáng phía sau anh ta. Cổng phát ra năng lượng neon xoáy mạnh mẽ với màu điện {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"}, và {argument name="portal color 3" default="magenta"}, cùng với tia lửa, vòng cung sét, mảnh vụn hạt và hiệu ứng biến dạng năng lượng rõ ràng trong không khí.
 
-The subject is captured mid-motion in a powerful running leap, expression focused and intense. His original clothing from the reference image is naturally adapted for dynamic motion, with realistic fabric flow, folds, and physics, without changing his identity. Footwear and outfit subtly reflect the neon portal light. Preserve the subject’s original facial structure, skin texture, hairstyle, beard (if present), and body proportions exactly as in the reference image.
+Chủ thể được ghi lại ở giữa chuyển động trong một cú nhảy vọt mạnh mẽ, biểu cảm tập trung và dữ dội. Trang phục ban đầu của anh ta từ hình ảnh tham chiếu được điều chỉnh tự nhiên cho chuyển động năng động, với dòng chảy vải, nếp gấp và vật lý thực tế, mà không làm thay đổi danh tính của anh ta. Giày dép và trang phục phản chiếu tinh tế ánh sáng cổng neon. Giữ nguyên cấu trúc khuôn mặt, kết cấu da, kiểu tóc, râu (nếu có) và tỷ lệ cơ thể của chủ thể chính xác như trong hình ảnh tham chiếu.
 
-The environment is a modern urban city street with cinematic perspective. The background is slightly motion-blurred to emphasize speed and action. The road surface appears wet, showing subtle reflections of the glowing portal and neon light streaks. Dramatic cinematic lighting, volumetric light rays, shallow depth of field, ultra-sharp details, high contrast, realistic physics, sci-fi atmosphere, professional action-movie poster composition, cinematic color grading, ultra-high resolution, 8K quality.
+Môi trường là một con phố đô thị hiện đại với góc nhìn điện ảnh. Nền hơi mờ chuyển động để nhấn mạnh tốc độ và hành động. Bề mặt đường trông ẩm ướt, hiển thị những phản chiếu tinh tế của cổng phát sáng và vệt sáng neon. Ánh sáng điện ảnh ấn tượng, tia sáng thể tích, độ sâu trường ảnh nông, chi tiết siêu sắc nét, độ tương phản cao, vật lý thực tế, không khí khoa học viễn tưởng, bố cục poster phim hành động chuyên nghiệp, phân loại màu điện ảnh, độ phân giải cực cao, chất lượng 8K.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -490,13 +608,13 @@ The environment is a modern urban city street with cinematic perspective. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Cảnh hành động điện ảnh siêu thực từ hình ảnh tham khảo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Cảnh hành động điện ảnh siêu thực từ hình ảnh tham khảo - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -506,22 +624,22 @@ The environment is a modern urban city street with cinematic perspective. The ba
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Using%20the%20uploaded%20image%20as%20the%20primary%20visual%20reference%2C%20transform%20the%20subject%20into%20a%20hyper-realistic%20cinematic%20action%20scene.%20The%20man%20is%20leaping%20forward%20onto%20a%20city%20crosswalk%20while%20emerging%20from%20a%20glowing%20circular%20dimensional%20portal%20behind%20him.%20The%20portal%20emits%20intense%20swirling%20neon%20energy%20in%20electric%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%2C%20and%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%2C%20with%20sparks%2C%20lightning%20arcs%2C%20particle%20debris%2C%20and%20visible%20energy-distortion%20effects%20in%20the%20air.%0A%0AThe%20subject%20is%20captured%20mid-motion%20in%20a%20powerful%20running%20leap%2C%20expression%20focused%20and%20intense.%20His%20original%20clothing%20from%20the%20reference%20image%20is%20naturally%20adapted%20for%20dynamic%20motion%2C%20with%20realistic%20fabric%20flow%2C%20folds%2C%20and%20physics%2C%20without%20changing%20his%20identity.%20Footwear%20and%20outfit%20subtly%20reflect%20the%20neon%20portal%20light.%20Preserve%20the%20subject%E2%80%99s%20original%20facial%20structure%2C%20skin%20texture%2C%20hairstyle%2C%20beard%20(if%20present)%2C%20and%20body%20proportions%20exactly%20as%20in%20the%20reference%20image.%0A%0AThe%20environment%20is%20a%20modern%20urban%20city%20street%20with%20cinematic%20perspective.%20The%20background%20is%20slightly%20motion-blurred%20to%20emphasize%20speed%20and%20action.%20The%20road%20surface%20appears%20wet%2C%20showing%20subtle%20reflections%20of%20the%20glowing%20portal%20and%20neon%20light%20streaks.%20Dramatic%20cinematic%20lighting%2C%20volumetric%20light%20rays%2C%20shallow%20depth%20of%20field%2C%20ultra-sharp%20details%2C%20high%20contrast%2C%20realistic%20physics%2C%20sci-fi%20atmosphere%2C%20professional%20action-movie%20poster%20composition%2C%20cinematic%20color%20grading%2C%20ultra-high%20resolution%2C%208K%20quality.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn%20l%C3%A0m%20t%C3%A0i%20li%E1%BB%87u%20tham%20kh%E1%BA%A3o%20tr%E1%BB%B1c%20quan%20ch%C3%ADnh%2C%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20ch%E1%BB%A7%20th%E1%BB%83%20th%C3%A0nh%20m%E1%BB%99t%20c%E1%BA%A3nh%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20si%C3%AAu%20th%E1%BB%B1c.%20Ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20%C3%B4ng%20%C4%91ang%20nh%E1%BA%A3y%20v%E1%BB%81%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20tr%C3%AAn%20v%E1%BA%A1ch%20qua%20%C4%91%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20th%C3%A0nh%20ph%E1%BB%91%20trong%20khi%20xu%E1%BA%A5t%20hi%E1%BB%87n%20t%E1%BB%AB%20m%E1%BB%99t%20c%E1%BB%95ng%20kh%C3%B4ng%20gian%20h%C3%ACnh%20tr%C3%B2n%20ph%C3%A1t%20s%C3%A1ng%20ph%C3%ADa%20sau%20anh%20ta.%20C%E1%BB%95ng%20ph%C3%A1t%20ra%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20neon%20xo%C3%A1y%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%9Bi%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%2C%20v%C3%A0%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%2C%20c%C3%B9ng%20v%E1%BB%9Bi%20tia%20l%E1%BB%ADa%2C%20v%C3%B2ng%20cung%20s%C3%A9t%2C%20m%E1%BA%A3nh%20v%E1%BB%A5n%20h%E1%BA%A1t%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20bi%E1%BA%BFn%20d%E1%BA%A1ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20r%C3%B5%20r%C3%A0ng%20trong%20kh%C3%B4ng%20kh%C3%AD.%0A%0ACh%E1%BB%A7%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ghi%20l%E1%BA%A1i%20%E1%BB%9F%20gi%E1%BB%AFa%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20trong%20m%E1%BB%99t%20c%C3%BA%20nh%E1%BA%A3y%20v%E1%BB%8Dt%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20t%E1%BA%ADp%20trung%20v%C3%A0%20d%E1%BB%AF%20d%E1%BB%99i.%20Trang%20ph%E1%BB%A5c%20ban%20%C4%91%E1%BA%A7u%20c%E1%BB%A7a%20anh%20ta%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20t%E1%BB%B1%20nhi%C3%AAn%20cho%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20n%C4%83ng%20%C4%91%E1%BB%99ng%2C%20v%E1%BB%9Bi%20d%C3%B2ng%20ch%E1%BA%A3y%20v%E1%BA%A3i%2C%20n%E1%BA%BFp%20g%E1%BA%A5p%20v%C3%A0%20v%E1%BA%ADt%20l%C3%BD%20th%E1%BB%B1c%20t%E1%BA%BF%2C%20m%C3%A0%20kh%C3%B4ng%20l%C3%A0m%20thay%20%C4%91%E1%BB%95i%20danh%20t%C3%ADnh%20c%E1%BB%A7a%20anh%20ta.%20Gi%C3%A0y%20d%C3%A9p%20v%C3%A0%20trang%20ph%E1%BB%A5c%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tinh%20t%E1%BA%BF%20%C3%A1nh%20s%C3%A1ng%20c%E1%BB%95ng%20neon.%20Gi%E1%BB%AF%20nguy%C3%AAn%20c%E1%BA%A5u%20tr%C3%BAc%20khu%C3%B4n%20m%E1%BA%B7t%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%2C%20ki%E1%BB%83u%20t%C3%B3c%2C%20r%C3%A2u%20(n%E1%BA%BFu%20c%C3%B3)%20v%C3%A0%20t%E1%BB%B7%20l%E1%BB%87%20c%C6%A1%20th%E1%BB%83%20c%E1%BB%A7a%20ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh%20x%C3%A1c%20nh%C6%B0%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.%0A%0AM%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20m%E1%BB%99t%20con%20ph%E1%BB%91%20%C4%91%C3%B4%20th%E1%BB%8B%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%E1%BB%9Bi%20g%C3%B3c%20nh%C3%ACn%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.%20N%E1%BB%81n%20h%C6%A1i%20m%E1%BB%9D%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20%C4%91%E1%BB%83%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20t%E1%BB%91c%20%C4%91%E1%BB%99%20v%C3%A0%20h%C3%A0nh%20%C4%91%E1%BB%99ng.%20B%E1%BB%81%20m%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%9Dng%20tr%C3%B4ng%20%E1%BA%A9m%20%C6%B0%E1%BB%9Bt%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20nh%E1%BB%AFng%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tinh%20t%E1%BA%BF%20c%E1%BB%A7a%20c%E1%BB%95ng%20ph%C3%A1t%20s%C3%A1ng%20v%C3%A0%20v%E1%BB%87t%20s%C3%A1ng%20neon.%20%C3%81nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20tia%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20chi%20ti%E1%BA%BFt%20si%C3%AAu%20s%E1%BA%AFc%20n%C3%A9t%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20v%E1%BA%ADt%20l%C3%BD%20th%E1%BB%B1c%20t%E1%BA%BF%2C%20kh%C3%B4ng%20kh%C3%AD%20khoa%20h%E1%BB%8Dc%20vi%E1%BB%85n%20t%C6%B0%E1%BB%9Fng%2C%20b%E1%BB%91%20c%E1%BB%A5c%20poster%20phim%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20chuy%C3%AAn%20nghi%E1%BB%87p%2C%20ph%C3%A2n%20lo%E1%BA%A1i%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20c%E1%BB%B1c%20cao%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%208K.)**
 
 ---
 
-### No. 11: Underwater Product Photoshoot with Caustic Light
+### No. 11: Chụp ảnh sản phẩm dưới nước với ánh sáng Caustic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt designed for product photography, generating an ultra-high-resolution image of a reference object fully submerged in crystal-clear turquoise water, focusing on intricate caustic light patterns and ethereal elegance.
+Một prompt được thiết kế cho nhiếp ảnh sản phẩm, tạo ra hình ảnh có độ phân giải cực cao của một vật thể tham chiếu được nhấn chìm hoàn toàn trong làn nước màu ngọc lam trong vắt, tập trung vào các hoa văn ánh sáng tán xạ phức tạp và vẻ đẹp thanh tao.
 
 #### 📝 Câu lệnh
 
 ```
-[Reference Image] fully submerged in crystal-clear, turquoise water, captured in ultra-high-resolution underwater photography. Sunlight penetrates the surface above, creating intricate caustic light patterns that ripple and dance across the subject and surrounding water. The scene conveys pristine clarity with zero particulate matter, emphasizing a sense of suspended weightlessness and serene motion. Fine details are frozen using high-speed capture, with subtle bubbles and flowing fabric or hair enhancing the feeling of aquatic elegance. The overall aesthetic is clean, refreshing, and ethereal, with soft natural color grading, high dynamic range, and cinematic realism.
+[Hình ảnh tham khảo] hoàn toàn chìm trong làn nước trong vắt màu ngọc lam, được chụp bằng kỹ thuật chụp ảnh dưới nước độ phân giải cực cao. Ánh sáng mặt trời xuyên qua mặt nước phía trên, tạo ra những hoa văn ánh sáng khúc xạ phức tạp lấp lánh và nhảy múa trên chủ thể và mặt nước xung quanh. Khung cảnh truyền tải sự trong trẻo nguyên sơ không một hạt vật chất, nhấn mạnh cảm giác lơ lửng không trọng lượng và chuyển động thanh bình. Các chi tiết nhỏ được ghi lại bằng tốc độ cao, với những bong bóng nhỏ li ti và vải hoặc tóc bay lượn làm tăng thêm cảm giác sang trọng dưới nước. Tổng thể thẩm mỹ là sạch sẽ, sảng khoái và thanh tao, với tông màu tự nhiên mềm mại, dải tương phản động cao và chủ nghĩa hiện thực điện ảnh.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -529,13 +647,13 @@ A prompt designed for product photography, generating an ultra-high-resolution i
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Chụp ảnh sản phẩm dưới nước với ánh sáng Caustic - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Chụp ảnh sản phẩm dưới nước với ánh sáng Caustic - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -545,23 +663,23 @@ A prompt designed for product photography, generating an ultra-high-resolution i
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%5BReference%20Image%5D%20fully%20submerged%20in%20crystal-clear%2C%20turquoise%20water%2C%20captured%20in%20ultra-high-resolution%20underwater%20photography.%20Sunlight%20penetrates%20the%20surface%20above%2C%20creating%20intricate%20caustic%20light%20patterns%20that%20ripple%20and%20dance%20across%20the%20subject%20and%20surrounding%20water.%20The%20scene%20conveys%20pristine%20clarity%20with%20zero%20particulate%20matter%2C%20emphasizing%20a%20sense%20of%20suspended%20weightlessness%20and%20serene%20motion.%20Fine%20details%20are%20frozen%20using%20high-speed%20capture%2C%20with%20subtle%20bubbles%20and%20flowing%20fabric%20or%20hair%20enhancing%20the%20feeling%20of%20aquatic%20elegance.%20The%20overall%20aesthetic%20is%20clean%2C%20refreshing%2C%20and%20ethereal%2C%20with%20soft%20natural%20color%20grading%2C%20high%20dynamic%20range%2C%20and%20cinematic%20realism.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%5BH%C3%ACnh%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o%5D%20ho%C3%A0n%20to%C3%A0n%20ch%C3%ACm%20trong%20l%C3%A0n%20n%C6%B0%E1%BB%9Bc%20trong%20v%E1%BA%AFt%20m%C3%A0u%20ng%E1%BB%8Dc%20lam%2C%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20k%E1%BB%B9%20thu%E1%BA%ADt%20ch%E1%BB%A5p%20%E1%BA%A3nh%20d%C6%B0%E1%BB%9Bi%20n%C6%B0%E1%BB%9Bc%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20c%E1%BB%B1c%20cao.%20%C3%81nh%20s%C3%A1ng%20m%E1%BA%B7t%20tr%E1%BB%9Di%20xuy%C3%AAn%20qua%20m%E1%BA%B7t%20n%C6%B0%E1%BB%9Bc%20ph%C3%ADa%20tr%C3%AAn%2C%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20hoa%20v%C4%83n%20%C3%A1nh%20s%C3%A1ng%20kh%C3%BAc%20x%E1%BA%A1%20ph%E1%BB%A9c%20t%E1%BA%A1p%20l%E1%BA%A5p%20l%C3%A1nh%20v%C3%A0%20nh%E1%BA%A3y%20m%C3%BAa%20tr%C3%AAn%20ch%E1%BB%A7%20th%E1%BB%83%20v%C3%A0%20m%E1%BA%B7t%20n%C6%B0%E1%BB%9Bc%20xung%20quanh.%20Khung%20c%E1%BA%A3nh%20truy%E1%BB%81n%20t%E1%BA%A3i%20s%E1%BB%B1%20trong%20tr%E1%BA%BBo%20nguy%C3%AAn%20s%C6%A1%20kh%C3%B4ng%20m%E1%BB%99t%20h%E1%BA%A1t%20v%E1%BA%ADt%20ch%E1%BA%A5t%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20c%E1%BA%A3m%20gi%C3%A1c%20l%C6%A1%20l%E1%BB%ADng%20kh%C3%B4ng%20tr%E1%BB%8Dng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20thanh%20b%C3%ACnh.%20C%C3%A1c%20chi%20ti%E1%BA%BFt%20nh%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20ghi%20l%E1%BA%A1i%20b%E1%BA%B1ng%20t%E1%BB%91c%20%C4%91%E1%BB%99%20cao%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20bong%20b%C3%B3ng%20nh%E1%BB%8F%20li%20ti%20v%C3%A0%20v%E1%BA%A3i%20ho%E1%BA%B7c%20t%C3%B3c%20bay%20l%C6%B0%E1%BB%A3n%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20c%E1%BA%A3m%20gi%C3%A1c%20sang%20tr%E1%BB%8Dng%20d%C6%B0%E1%BB%9Bi%20n%C6%B0%E1%BB%9Bc.%20T%E1%BB%95ng%20th%E1%BB%83%20th%E1%BA%A9m%20m%E1%BB%B9%20l%C3%A0%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20s%E1%BA%A3ng%20kho%C3%A1i%20v%C3%A0%20thanh%20tao%2C%20v%E1%BB%9Bi%20t%C3%B4ng%20m%C3%A0u%20t%E1%BB%B1%20nhi%C3%AAn%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20d%E1%BA%A3i%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20%C4%91%E1%BB%99ng%20cao%20v%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.)**
 
 ---
 
-### No. 12: Ultra-Realistic Humanoid Robot on Rooftop
+### No. 12: Robot hình người siêu thực trên mái nhà
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-An extensive, highly detailed prompt designed to test GPT Image 1.5's ability to generate ultra-realistic, production-ready images, specifically a cinematic photograph of a humanoid robot on a rooftop at dawn, focusing on material fidelity, mechanical details, and integrated text display.
+Một lời nhắc chi tiết, chuyên sâu được thiết kế để kiểm tra khả năng của GPT Image 1.5 trong việc tạo ra các hình ảnh siêu thực, sẵn sàng sản xuất, cụ thể là một bức ảnh điện ảnh về một robot hình người trên sân thượng vào lúc bình minh, tập trung vào độ chân thực của vật liệu, chi tiết cơ khí và màn hình hiển thị văn bản tích hợp.
 
 #### 📝 Câu lệnh
 
 ```
-Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop overlooking a modern city at dawn, medium shot. Highly detailed humanoid robot with synthetic skin and exposed metallic elements, realistic joints, fine mechanical details, subtle surface imperfections, micro scratches and reflections. Human-like posture and proportions, calm and natural stance, soft ambient light reflecting off metal and synthetic materials. Cinematic sunrise lighting, soft volumetric light, realistic city skyline in the background with shallow depth of field. A digital city billboard in the background displaying the text "{argument name="billboard text" default="SYSTEM ONLINE"}", text integrated into the screen with realistic glow, perspective, and lighting, not overlaid. Photorealistic futuristic photography, high fidelity materials, no cartoon style, no sci-fi illustration, production-ready realism.
+Bức ảnh điện ảnh siêu thực về một robot hình người đứng trên sân thượng nhìn ra thành phố hiện đại lúc bình minh, cỡ trung. Robot hình người cực kỳ chi tiết với làn da tổng hợp và các bộ phận kim loại lộ ra, khớp nối chân thực, chi tiết cơ khí tinh xảo, các khuyết điểm bề mặt tinh tế, vết xước nhỏ và phản chiếu. Dáng đứng và tỷ lệ giống người, tư thế điềm tĩnh và tự nhiên, ánh sáng xung quanh dịu nhẹ phản chiếu trên kim loại và vật liệu tổng hợp. Ánh sáng bình minh điện ảnh, ánh sáng thể tích mềm mại, đường chân trời thành phố chân thực ở hậu cảnh với độ sâu trường ảnh nông. Một bảng quảng cáo kỹ thuật số trong nền hiển thị văn bản "{argument name="billboard text" default="SYSTEM ONLINE"}", văn bản được tích hợp vào màn hình với ánh sáng, phối cảnh và hiệu ứng chiếu sáng chân thực, không bị chồng lên. Nhiếp ảnh tương lai siêu thực, vật liệu có độ trung thực cao, không theo phong cách hoạt hình, không phải minh họa khoa học viễn tưởng, chủ nghĩa hiện thực sẵn sàng sản xuất.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -569,13 +687,13 @@ Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Robot hình người siêu thực trên mái nhà - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Robot hình người siêu thực trên mái nhà - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -585,82 +703,82 @@ Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop o
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Ultra-realistic%20cinematic%20photograph%20of%20a%20humanoid%20robot%20standing%20on%20a%20rooftop%20overlooking%20a%20modern%20city%20at%20dawn%2C%20medium%20shot.%20Highly%20detailed%20humanoid%20robot%20with%20synthetic%20skin%20and%20exposed%20metallic%20elements%2C%20realistic%20joints%2C%20fine%20mechanical%20details%2C%20subtle%20surface%20imperfections%2C%20micro%20scratches%20and%20reflections.%20Human-like%20posture%20and%20proportions%2C%20calm%20and%20natural%20stance%2C%20soft%20ambient%20light%20reflecting%20off%20metal%20and%20synthetic%20materials.%20Cinematic%20sunrise%20lighting%2C%20soft%20volumetric%20light%2C%20realistic%20city%20skyline%20in%20the%20background%20with%20shallow%20depth%20of%20field.%20A%20digital%20city%20billboard%20in%20the%20background%20displaying%20the%20text%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%2C%20text%20integrated%20into%20the%20screen%20with%20realistic%20glow%2C%20perspective%2C%20and%20lighting%2C%20not%20overlaid.%20Photorealistic%20futuristic%20photography%2C%20high%20fidelity%20materials%2C%20no%20cartoon%20style%2C%20no%20sci-fi%20illustration%2C%20production-ready%20realism.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=B%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20si%C3%AAu%20th%E1%BB%B1c%20v%E1%BB%81%20m%E1%BB%99t%20robot%20h%C3%ACnh%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%A9ng%20tr%C3%AAn%20s%C3%A2n%20th%C6%B0%E1%BB%A3ng%20nh%C3%ACn%20ra%20th%C3%A0nh%20ph%E1%BB%91%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20l%C3%BAc%20b%C3%ACnh%20minh%2C%20c%E1%BB%A1%20trung.%20Robot%20h%C3%ACnh%20ng%C6%B0%E1%BB%9Di%20c%E1%BB%B1c%20k%E1%BB%B3%20chi%20ti%E1%BA%BFt%20v%E1%BB%9Bi%20l%C3%A0n%20da%20t%E1%BB%95ng%20h%E1%BB%A3p%20v%C3%A0%20c%C3%A1c%20b%E1%BB%99%20ph%E1%BA%ADn%20kim%20lo%E1%BA%A1i%20l%E1%BB%99%20ra%2C%20kh%E1%BB%9Bp%20n%E1%BB%91i%20ch%C3%A2n%20th%E1%BB%B1c%2C%20chi%20ti%E1%BA%BFt%20c%C6%A1%20kh%C3%AD%20tinh%20x%E1%BA%A3o%2C%20c%C3%A1c%20khuy%E1%BA%BFt%20%C4%91i%E1%BB%83m%20b%E1%BB%81%20m%E1%BA%B7t%20tinh%20t%E1%BA%BF%2C%20v%E1%BA%BFt%20x%C6%B0%E1%BB%9Bc%20nh%E1%BB%8F%20v%C3%A0%20ph%E1%BA%A3n%20chi%E1%BA%BFu.%20D%C3%A1ng%20%C4%91%E1%BB%A9ng%20v%C3%A0%20t%E1%BB%B7%20l%E1%BB%87%20gi%E1%BB%91ng%20ng%C6%B0%E1%BB%9Di%2C%20t%C6%B0%20th%E1%BA%BF%20%C4%91i%E1%BB%81m%20t%C4%A9nh%20v%C3%A0%20t%E1%BB%B1%20nhi%C3%AAn%2C%20%C3%A1nh%20s%C3%A1ng%20xung%20quanh%20d%E1%BB%8Bu%20nh%E1%BA%B9%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tr%C3%AAn%20kim%20lo%E1%BA%A1i%20v%C3%A0%20v%E1%BA%ADt%20li%E1%BB%87u%20t%E1%BB%95ng%20h%E1%BB%A3p.%20%C3%81nh%20s%C3%A1ng%20b%C3%ACnh%20minh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20%C3%A1nh%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%C6%B0%E1%BB%9Dng%20ch%C3%A2n%20tr%E1%BB%9Di%20th%C3%A0nh%20ph%E1%BB%91%20ch%C3%A2n%20th%E1%BB%B1c%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng.%20M%E1%BB%99t%20b%E1%BA%A3ng%20qu%E1%BA%A3ng%20c%C3%A1o%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20trong%20n%E1%BB%81n%20hi%E1%BB%83n%20th%E1%BB%8B%20v%C4%83n%20b%E1%BA%A3n%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%2C%20v%C4%83n%20b%E1%BA%A3n%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%ADch%20h%E1%BB%A3p%20v%C3%A0o%20m%C3%A0n%20h%C3%ACnh%20v%E1%BB%9Bi%20%C3%A1nh%20s%C3%A1ng%2C%20ph%E1%BB%91i%20c%E1%BA%A3nh%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20chi%E1%BA%BFu%20s%C3%A1ng%20ch%C3%A2n%20th%E1%BB%B1c%2C%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BB%93ng%20l%C3%AAn.%20Nhi%E1%BA%BFp%20%E1%BA%A3nh%20t%C6%B0%C6%A1ng%20lai%20si%C3%AAu%20th%E1%BB%B1c%2C%20v%E1%BA%ADt%20li%E1%BB%87u%20c%C3%B3%20%C4%91%E1%BB%99%20trung%20th%E1%BB%B1c%20cao%2C%20kh%C3%B4ng%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%2C%20kh%C3%B4ng%20ph%E1%BA%A3i%20minh%20h%E1%BB%8Da%20khoa%20h%E1%BB%8Dc%20vi%E1%BB%85n%20t%C6%B0%E1%BB%9Fng%2C%20ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%20s%E1%BA%B5n%20s%C3%A0ng%20s%E1%BA%A3n%20xu%E1%BA%A5t.)**
 
 ---
 
-### No. 13: Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description
+### No. 13: Lời nhắc có cấu trúc phức tạp cho cảnh Quảng trường Thời đại mưa với mô tả chủ thể chi tiết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to generate a realistic, cinematic scene of a person in Times Square on a rainy night. It specifies complex elements like reflections, specific clothing details (a black faux-leather varsity jacket with embroidery), and camera aesthetics, ensuring the subject's face remains identical to an uploaded reference.
+Một lời nhắc (prompt) có cấu trúc, chi tiết cao, giống JSON được thiết kế cho GPT Image 1.5 để tạo ra một cảnh quay điện ảnh, chân thực về một người ở Quảng trường Thời đại vào một đêm mưa. Nó chỉ định các yếu tố phức tạp như phản chiếu, chi tiết quần áo cụ thể (áo khoác varsity giả da màu đen có thêu), và tính thẩm mỹ của máy ảnh, đảm bảo khuôn mặt của chủ thể vẫn giống hệt với ảnh tham chiếu đã tải lên.
 
 #### 📝 Câu lệnh
 
 ```
 {
   "scene": {
-    "location": "{argument name="location" default="Times Square, New York"}",
-    "time": "{argument name="time" default="Rainy night"}",
+    "location": "{argument name=\"location\" default=\"Quảng trường Thời Đại, New York\"}",
+    "time": "{argument name=\"time\" default=\"Đêm mưa\"}",
     "composition": {
       "left_side": [
         {
-          "type": "LED billboard",
-          "style": "vertical",
-          "text_color": "white-on-black"
+          "type": "Bảng quảng cáo LED",
+          "style": "dọc",
+          "text_color": "chữ trắng trên nền đen"
         },
         {
-          "type": "curved LED screen",
-          "detail": "above yellow arrow for Hershey's store"
+          "type": "màn hình LED cong",
+          "detail": "phía trên mũi tên màu vàng của cửa hàng Hershey's"
         }
       ],
       "right_side": {
-        "subject_position": "near curb",
+        "subject_position": "gần lề đường",
         "traffic": {
-          "vehicles": "city taxis and cars",
-          "details": "brake lights forming a slow line"
+          "vehicles": "taxi và ô tô thành phố",
+          "details": "đèn phanh tạo thành một hàng dài di chuyển chậm"
         }
       }
     },
     "environment": {
-      "ground": "wet asphalt",
-      "reflection_colors": ["neon magenta", "icy blue"],
+      "ground": "mặt đường nhựa ướt",
+      "reflection_colors": ["màu đỏ tươi neon", "màu xanh băng giá"],
       "puddles": {
         "reflecting_lights": true,
-        "object_details": ["scattered takeaway cups"]
+        "object_details": ["những chiếc cốc mang đi vương vãi"]
       },
-      "atmosphere": ["electric", "intimate"]
+      "atmosphere": ["sôi động", "thân mật"]
     }
   },
   "subject": {
-    "identity": "Uploaded subject",
-    "face_requirement": "Do not change facial features. Must look 1000% identical.",
-    "pose": "Relaxed, facing camera",
-    "holding": "Folded black umbrella by handle",
+    "identity": "Chủ thể được tải lên",
+    "face_requirement": "Không thay đổi đặc điểm khuôn mặt. Phải giống 1000%.",
+    "pose": "Thư giãn, nhìn vào máy ảnh",
+    "holding": "Ô đen gập lại, cầm ở tay cầm",
     "outfit": {
       "jacket": {
-        "material": "black faux-leather varsity",
+        "material": "áo khoác varsity giả da màu đen",
         "design": {
           "cobalt_panel": true,
           "cream_stripe": true,
-          "embroidery": "Vintage script",
-          "lettering": "Block OF",
-          "patch": "1987 stitched on sleeve",
+          "embroidery": "Chữ viết cổ điển",
+          "lettering": "Khối OF",
+          "patch": "1987 được thêu trên tay áo",
           "reflective_piping": true,
-          "highlight_color": "purple reflection"
+          "highlight_color": "phản chiếu màu tím"
         }
       }
     }
   },
   "background": {
-    "elements": ["cars", "scaffolding", "stacked storefront signs"]
+    "elements": ["ô tô", "giàn giáo", "các biển hiệu cửa hàng xếp chồng lên nhau"]
   },
   "style": {
     "resolution": "HD",
-    "aesthetic": ["realistic", "natural", "authentic"],
+    "aesthetic": ["chân thực", "tự nhiên", "đáng tin cậy"],
     "camera": "iPhone"
   }
 }
@@ -671,13 +789,13 @@ A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to gen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Lời nhắc có cấu trúc phức tạp cho cảnh Quảng trường Thời đại mưa với mô tả chủ thể chi tiết - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Lời nhắc có cấu trúc phức tạp cho cảnh Quảng trường Thời đại mưa với mô tả chủ thể chi tiết - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -687,23 +805,23 @@ A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to gen
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%22location%22%20default%3D%22Times%20Square%2C%20New%20York%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%22time%22%20default%3D%22Rainy%20night%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20billboard%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22vertical%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22white-on-black%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22curved%20LED%20screen%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22above%20yellow%20arrow%20for%20Hershey's%20store%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22near%20curb%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22city%20taxis%20and%20cars%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22brake%20lights%20forming%20a%20slow%20line%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22wet%20asphalt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22neon%20magenta%22%2C%20%22icy%20blue%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22scattered%20takeaway%20cups%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22electric%22%2C%20%22intimate%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Uploaded%20subject%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Do%20not%20change%20facial%20features.%20Must%20look%201000%25%20identical.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Relaxed%2C%20facing%20camera%22%2C%0A%20%20%20%20%22holding%22%3A%20%22Folded%20black%20umbrella%20by%20handle%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22black%20faux-leather%20varsity%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Vintage%20script%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Block%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%221987%20stitched%20on%20sleeve%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22purple%20reflection%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22cars%22%2C%20%22scaffolding%22%2C%20%22stacked%20storefront%20signs%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22realistic%22%2C%20%22natural%22%2C%20%22authentic%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22Qu%E1%BA%A3ng%20tr%C6%B0%E1%BB%9Dng%20Th%E1%BB%9Di%20%C4%90%E1%BA%A1i%2C%20New%20York%5C%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%5C%22time%5C%22%20default%3D%5C%22%C4%90%C3%AAm%20m%C6%B0a%5C%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22B%E1%BA%A3ng%20qu%E1%BA%A3ng%20c%C3%A1o%20LED%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22d%E1%BB%8Dc%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22ch%E1%BB%AF%20tr%E1%BA%AFng%20tr%C3%AAn%20n%E1%BB%81n%20%C4%91en%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22m%C3%A0n%20h%C3%ACnh%20LED%20cong%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22ph%C3%ADa%20tr%C3%AAn%20m%C5%A9i%20t%C3%AAn%20m%C3%A0u%20v%C3%A0ng%20c%E1%BB%A7a%20c%E1%BB%ADa%20h%C3%A0ng%20Hershey's%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22g%E1%BA%A7n%20l%E1%BB%81%20%C4%91%C6%B0%E1%BB%9Dng%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22taxi%20v%C3%A0%20%C3%B4%20t%C3%B4%20th%C3%A0nh%20ph%E1%BB%91%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22%C4%91%C3%A8n%20phanh%20t%E1%BA%A1o%20th%C3%A0nh%20m%E1%BB%99t%20h%C3%A0ng%20d%C3%A0i%20di%20chuy%E1%BB%83n%20ch%E1%BA%ADm%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22m%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%9Dng%20nh%E1%BB%B1a%20%C6%B0%E1%BB%9Bt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22m%C3%A0u%20%C4%91%E1%BB%8F%20t%C6%B0%C6%A1i%20neon%22%2C%20%22m%C3%A0u%20xanh%20b%C4%83ng%20gi%C3%A1%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22nh%E1%BB%AFng%20chi%E1%BA%BFc%20c%E1%BB%91c%20mang%20%C4%91i%20v%C6%B0%C6%A1ng%20v%C3%A3i%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22s%C3%B4i%20%C4%91%E1%BB%99ng%22%2C%20%22th%C3%A2n%20m%E1%BA%ADt%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Ch%E1%BB%A7%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A3i%20l%C3%AAn%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Kh%C3%B4ng%20thay%20%C4%91%E1%BB%95i%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t.%20Ph%E1%BA%A3i%20gi%E1%BB%91ng%201000%25.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Th%C6%B0%20gi%C3%A3n%2C%20nh%C3%ACn%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh%22%2C%0A%20%20%20%20%22holding%22%3A%20%22%C3%94%20%C4%91en%20g%E1%BA%ADp%20l%E1%BA%A1i%2C%20c%E1%BA%A7m%20%E1%BB%9F%20tay%20c%E1%BA%A7m%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22%C3%A1o%20kho%C3%A1c%20varsity%20gi%E1%BA%A3%20da%20m%C3%A0u%20%C4%91en%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Ch%E1%BB%AF%20vi%E1%BA%BFt%20c%E1%BB%95%20%C4%91i%E1%BB%83n%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Kh%E1%BB%91i%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%221987%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%AAu%20tr%C3%AAn%20tay%20%C3%A1o%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22ph%E1%BA%A3n%20chi%E1%BA%BFu%20m%C3%A0u%20t%C3%ADm%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22%C3%B4%20t%C3%B4%22%2C%20%22gi%C3%A0n%20gi%C3%A1o%22%2C%20%22c%C3%A1c%20bi%E1%BB%83n%20hi%E1%BB%87u%20c%E1%BB%ADa%20h%C3%A0ng%20x%E1%BA%BFp%20ch%E1%BB%93ng%20l%C3%AAn%20nhau%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22ch%C3%A2n%20th%E1%BB%B1c%22%2C%20%22t%E1%BB%B1%20nhi%C3%AAn%22%2C%20%22%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 14: Extreme Food Art Grid of New York Neighborhoods
+### No. 14: Nghệ thuật ẩm thực cực chất: Lưới khu phố New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A creative and complex food prompt designed to generate a 2x2 grid of extreme food art. Each panel represents a different New York neighborhood, constructed from signature dishes, landmarks built from food, and environmental details using sauces and spices.
+Một gợi ý ẩm thực sáng tạo và phức tạp được thiết kế để tạo ra một lưới 2x2 các tác phẩm nghệ thuật ẩm thực cực đoan. Mỗi ô đại diện cho một khu phố khác nhau của New York, được xây dựng từ các món ăn đặc trưng, các địa danh được tạo nên từ thực phẩm và các chi tiết môi trường sử dụng nước sốt và gia vị.
 
 #### 📝 Câu lệnh
 
 ```
-a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighborhoods" default="new york's neighborhoods"}. For each: construct the location's geographic shape from signature dishes, build a few famous landmarks from food, add environmental details (waterways, vegetation, infrastructure) using sauces/spices/ingredients. Extreme food art on slate boards, macro photography, dramatic overhead lighting, dark moody background, name underneath.
+một lưới nghệ thuật ẩm thực 2x2. Chọn ngẫu nhiên 4 khu vực đa dạng {argument name="new york's neighborhoods" default="new york's neighborhoods"}. Đối với mỗi khu vực: tạo hình dạng địa lý của địa điểm từ các món ăn đặc trưng, xây dựng một vài địa danh nổi tiếng từ thực phẩm, thêm các chi tiết môi trường (đường thủy, thảm thực vật, cơ sở hạ tầng) bằng cách sử dụng nước sốt/gia vị/nguyên liệu. Nghệ thuật ẩm thực cực chất trên bảng đá phiến, chụp ảnh macro, ánh sáng trên cao ấn tượng, nền tối u ám, tên bên dưới.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -711,13 +829,13 @@ a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighb
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="Nghệ thuật ẩm thực cực chất: Lưới khu phố New York - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="Nghệ thuật ẩm thực cực chất: Lưới khu phố New York - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -727,22 +845,22 @@ a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighb
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=a%202x2%20food%20art%20grid.%20Randomly%20select%204%20diverse%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D.%20For%20each%3A%20construct%20the%20location's%20geographic%20shape%20from%20signature%20dishes%2C%20build%20a%20few%20famous%20landmarks%20from%20food%2C%20add%20environmental%20details%20(waterways%2C%20vegetation%2C%20infrastructure)%20using%20sauces%2Fspices%2Fingredients.%20Extreme%20food%20art%20on%20slate%20boards%2C%20macro%20photography%2C%20dramatic%20overhead%20lighting%2C%20dark%20moody%20background%2C%20name%20underneath.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20ngh%E1%BB%87%20thu%E1%BA%ADt%20%E1%BA%A9m%20th%E1%BB%B1c%202x2.%20Ch%E1%BB%8Dn%20ng%E1%BA%ABu%20nhi%C3%AAn%204%20khu%20v%E1%BB%B1c%20%C4%91a%20d%E1%BA%A1ng%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D.%20%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20m%E1%BB%97i%20khu%20v%E1%BB%B1c%3A%20t%E1%BA%A1o%20h%C3%ACnh%20d%E1%BA%A1ng%20%C4%91%E1%BB%8Ba%20l%C3%BD%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20t%E1%BB%AB%20c%C3%A1c%20m%C3%B3n%20%C4%83n%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%2C%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BB%99t%20v%C3%A0i%20%C4%91%E1%BB%8Ba%20danh%20n%E1%BB%95i%20ti%E1%BA%BFng%20t%E1%BB%AB%20th%E1%BB%B1c%20ph%E1%BA%A9m%2C%20th%C3%AAm%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20(%C4%91%C6%B0%E1%BB%9Dng%20th%E1%BB%A7y%2C%20th%E1%BA%A3m%20th%E1%BB%B1c%20v%E1%BA%ADt%2C%20c%C6%A1%20s%E1%BB%9F%20h%E1%BA%A1%20t%E1%BA%A7ng)%20b%E1%BA%B1ng%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20n%C6%B0%E1%BB%9Bc%20s%E1%BB%91t%2Fgia%20v%E1%BB%8B%2Fnguy%C3%AAn%20li%E1%BB%87u.%20Ngh%E1%BB%87%20thu%E1%BA%ADt%20%E1%BA%A9m%20th%E1%BB%B1c%20c%E1%BB%B1c%20ch%E1%BA%A5t%20tr%C3%AAn%20b%E1%BA%A3ng%20%C4%91%C3%A1%20phi%E1%BA%BFn%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20macro%2C%20%C3%A1nh%20s%C3%A1ng%20tr%C3%AAn%20cao%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20n%E1%BB%81n%20t%E1%BB%91i%20u%20%C3%A1m%2C%20t%C3%AAn%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi.)**
 
 ---
 
-### No. 15: Cinematic Night Street Scene Prompt
+### No. 15: Lời nhắc cảnh đường phố ban đêm đậm chất điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A straightforward cinematic prompt for generating a moody image of a woman walking through a rainy street at night, focusing on specific visual elements like neon reflections, raindrops, soft bokeh, and a blue-red color contrast.
+Một lời nhắc điện ảnh đơn giản để tạo ra hình ảnh u ám về một người phụ nữ đi bộ trên con phố mưa vào ban đêm, tập trung vào các yếu tố hình ảnh cụ thể như phản chiếu đèn neon, hạt mưa, hiệu ứng bokeh mềm mại và độ tương phản màu xanh-đỏ.
 
 #### 📝 Câu lệnh
 
 ```
-A woman walking through a rainy street at night, neon signs reflecting off puddles, raindrops on the jacket, soft bokeh in the background, moody expression, cinematic blue-red color contrast.
+Một người phụ nữ đi bộ trên con phố mưa vào ban đêm, biển hiệu neon phản chiếu trên vũng nước, hạt mưa trên áo khoác, hiệu ứng bokeh mềm mại ở hậu cảnh, biểu cảm u sầu, tương phản màu xanh-đỏ đậm chất điện ảnh.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -750,13 +868,13 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Lời nhắc cảnh đường phố ban đêm đậm chất điện ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Lời nhắc cảnh đường phố ban đêm đậm chất điện ảnh - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -766,53 +884,51 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=A%20woman%20walking%20through%20a%20rainy%20street%20at%20night%2C%20neon%20signs%20reflecting%20off%20puddles%2C%20raindrops%20on%20the%20jacket%2C%20soft%20bokeh%20in%20the%20background%2C%20moody%20expression%2C%20cinematic%20blue-red%20color%20contrast.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20%C4%91i%20b%E1%BB%99%20tr%C3%AAn%20con%20ph%E1%BB%91%20m%C6%B0a%20v%C3%A0o%20ban%20%C4%91%C3%AAm%2C%20bi%E1%BB%83n%20hi%E1%BB%87u%20neon%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tr%C3%AAn%20v%C5%A9ng%20n%C6%B0%E1%BB%9Bc%2C%20h%E1%BA%A1t%20m%C6%B0a%20tr%C3%AAn%20%C3%A1o%20kho%C3%A1c%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20m%E1%BB%81m%20m%E1%BA%A1i%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20u%20s%E1%BA%A7u%2C%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20m%C3%A0u%20xanh-%C4%91%E1%BB%8F%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.)**
 
 ---
 
-### No. 16: Chinese Fantasy Digital Art Prompt Template
+### No. 16: Mẫu Lời Nhắc Tạo Hình Ảnh Nghệ Thuật Số Phong Cách Thần Thoại Trung Hoa
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A highly structured JSON-formatted prompt template for generating panoramic digital artwork in a Chinese Fantasy and Abstract Digital Art style. It specifies visual elements like subject silhouette, bioluminescent lighting, flowing effects, and a specific color palette, intended for use with models like Midjourney (Niji 6) or SDXL. The prompt is designed to be easily customized by changing the final line to specify the character or scene, such as applying the style to characters from 'Journey to the West'.
+Một mẫu lời nhắc (prompt template) được định dạng JSON có cấu trúc cao để tạo tác phẩm nghệ thuật kỹ thuật số toàn cảnh theo phong cách Nghệ thuật kỹ thuật số trừu tượng và giả tưởng Trung Quốc. Nó chỉ định các yếu tố hình ảnh như hình bóng chủ thể, ánh sáng phát quang sinh học, hiệu ứng chảy và bảng màu cụ thể, được thiết kế để sử dụng với các mô hình như Midjourney (Niji 6) hoặc SDXL. Lời nhắc được thiết kế để dễ dàng tùy chỉnh bằng cách thay đổi dòng cuối cùng để chỉ định nhân vật hoặc cảnh, chẳng hạn như áp dụng phong cách cho các nhân vật từ 'Tây Du Ký'.
 
 #### 📝 Câu lệnh
 
 ```
 {
   "meta_info": {
-    "title": "Ethereal Hanfu Spirit",
-    "style_category": "Chinese Fantasy / Abstract Digital Art",
+    "title": "Linh Hồn Hán Phục Thanh Tao",
+    "style_category": "Nghệ thuật Kỹ thuật số Trừu tượng / Thần thoại Trung Quốc",
     "aspect_ratio": "3:1"
   },
   "visual_elements": {
     "subject": {
-      "description": "Silhouette wearing attire determined by the character",
-      "pose": "Pose determined by the character, floating in mid-air",
-      "composition": "Centered ethereal figure with flowing trails extending to the sides"
+      "description": "Hình bóng mặc trang phục được xác định bởi nhân vật",
+      "pose": "Tư thế được xác định bởi nhân vật, lơ lửng giữa không trung",
+      "composition": "Hình ảnh thanh tao ở trung tâm với những vệt sáng chảy dài sang hai bên"
     },
     "atmosphere": {
-      "lighting": "Bioluminescent glow, volumetric lighting, rim lighting",
-      "effects": "Flowing smoke, light particles, holographic dispersion, silk-like energy trails",
-      "colors": ["Deep Navy Blue", "Glowing Cyan", "Iridescent Gold", "Soft Peach"]
+      "lighting": "Ánh sáng sinh học phát quang, ánh sáng thể tích, ánh sáng viền",
+      "effects": "Khói lượn lờ, hạt sáng, tán sắc ba chiều, vệt năng lượng tựa lụa",
+      "colors": ["Xanh Navy Đậm", "Xanh Cyan Phát Sáng", "Vàng Óng Ánh", "Hồng Đào Nhạt"]
     }
   },
   "prompt_export": {
-    "natural_language_prompt": "A wide panoramic digital artwork depicting a figure composed of flowing ribbons of light, translucent smoke, and iridescent particles. The background features deep, moody indigo and dark blue tones. The figure emits a soft, magical bioluminescent glow in hues of gold, peach, and cyan. The overall style is abstract fantasy, emphasizing fluid motion and a dreamy atmosphere, rendered in 8K resolution with highly detailed textures and exhibiting the Tyndall effect.",
-    "tag_based_prompt": " silhouette, flowing light lines, smoke effects, particle effects, bioluminescence, iridescent effects, dark blue background, cinematic lighting, ethereal, mystical, masterpiece, best quality, 8k, wide angle --ay 21:9 ",
-    "negative_prompt": "photorealistic, solid skin, heavy outlines, messy lines, text, watermark, low quality, jpeg artifacts, blurry, distorted face, bad anatomy"
+    "natural_language_prompt": "Một tác phẩm nghệ thuật kỹ thuật số toàn cảnh rộng lớn mô tả một nhân vật được tạo thành từ những dải ruy băng ánh sáng lượn lờ, khói mờ ảo và các hạt óng ánh. Nền có tông màu chàm sâu lắng và xanh đậm u ám. Nhân vật phát ra ánh sáng sinh học phát quang mềm mại, huyền ảo với các sắc thái vàng, hồng đào và xanh cyan. Phong cách tổng thể là giả tưởng trừu tượng, nhấn mạnh chuyển động uyển chuyển và không khí mơ màng, được kết xuất ở độ phân giải 8K với các chi tiết kết cấu cao và thể hiện hiệu ứng Tyndall.",
+    "tag_based_prompt": " hình bóng, đường sáng lượn lờ, hiệu ứng khói, hiệu ứng hạt, phát quang sinh học, hiệu ứng óng ánh, nền xanh đậm, ánh sáng điện ảnh, thanh tao, huyền bí, kiệt tác, chất lượng tốt nhất, 8k, góc rộng --ay 21:9 ",
+    "negative_prompt": "chụp ảnh chân thực, da rắn chắc, đường viền đậm, đường nét lộn xộn, văn bản, hình mờ, chất lượng thấp, lỗi jpeg, mờ, mặt méo mó, giải phẫu học kém"
   },
   "technical_settings_recommendation": {
     "sampler": "Euler a / DPM++ 2M Karras",
     "steps": 30,
     "cfg_scale": 7.0,
-    "model_suggestion": "Niji 6 (for Midjourney) or Abstract/Fantasy-based SDXL models"
+    "model_suggestion": "Niji 6 (dành cho Midjourney) hoặc các mô hình SDXL dựa trên Trừu tượng/Giả tưởng"
   }
 }
-Character set as: {argument name="character setting" default="The four master and disciples from Journey to the West"}
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -820,19 +936,19 @@ Character set as: {argument name="character setting" default="The four master an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Mẫu Lời Nhắc Tạo Hình Ảnh Nghệ Thuật Số Phong Cách Thần Thoại Trung Hoa - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Mẫu Lời Nhắc Tạo Hình Ảnh Nghệ Thuật Số Phong Cách Thần Thoại Trung Hoa - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Mẫu Lời Nhắc Tạo Hình Ảnh Nghệ Thuật Số Phong Cách Thần Thoại Trung Hoa - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -842,23 +958,23 @@ Character set as: {argument name="character setting" default="The four master an
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Ethereal%20Hanfu%20Spirit%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22Chinese%20Fantasy%20%2F%20Abstract%20Digital%20Art%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22Silhouette%20wearing%20attire%20determined%20by%20the%20character%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22Pose%20determined%20by%20the%20character%2C%20floating%20in%20mid-air%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22Centered%20ethereal%20figure%20with%20flowing%20trails%20extending%20to%20the%20sides%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Bioluminescent%20glow%2C%20volumetric%20lighting%2C%20rim%20lighting%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Flowing%20smoke%2C%20light%20particles%2C%20holographic%20dispersion%2C%20silk-like%20energy%20trails%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Deep%20Navy%20Blue%22%2C%20%22Glowing%20Cyan%22%2C%20%22Iridescent%20Gold%22%2C%20%22Soft%20Peach%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22A%20wide%20panoramic%20digital%20artwork%20depicting%20a%20figure%20composed%20of%20flowing%20ribbons%20of%20light%2C%20translucent%20smoke%2C%20and%20iridescent%20particles.%20The%20background%20features%20deep%2C%20moody%20indigo%20and%20dark%20blue%20tones.%20The%20figure%20emits%20a%20soft%2C%20magical%20bioluminescent%20glow%20in%20hues%20of%20gold%2C%20peach%2C%20and%20cyan.%20The%20overall%20style%20is%20abstract%20fantasy%2C%20emphasizing%20fluid%20motion%20and%20a%20dreamy%20atmosphere%2C%20rendered%20in%208K%20resolution%20with%20highly%20detailed%20textures%20and%20exhibiting%20the%20Tyndall%20effect.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20silhouette%2C%20flowing%20light%20lines%2C%20smoke%20effects%2C%20particle%20effects%2C%20bioluminescence%2C%20iridescent%20effects%2C%20dark%20blue%20background%2C%20cinematic%20lighting%2C%20ethereal%2C%20mystical%2C%20masterpiece%2C%20best%20quality%2C%208k%2C%20wide%20angle%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22photorealistic%2C%20solid%20skin%2C%20heavy%20outlines%2C%20messy%20lines%2C%20text%2C%20watermark%2C%20low%20quality%2C%20jpeg%20artifacts%2C%20blurry%2C%20distorted%20face%2C%20bad%20anatomy%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(for%20Midjourney)%20or%20Abstract%2FFantasy-based%20SDXL%20models%22%0A%20%20%7D%0A%7D%0ACharacter%20set%20as%3A%20%7Bargument%20name%3D%22character%20setting%22%20default%3D%22The%20four%20master%20and%20disciples%20from%20Journey%20to%20the%20West%22%7D)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Linh%20H%E1%BB%93n%20H%C3%A1n%20Ph%E1%BB%A5c%20Thanh%20Tao%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22Ngh%E1%BB%87%20thu%E1%BA%ADt%20K%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20Tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%20%2F%20Th%E1%BA%A7n%20tho%E1%BA%A1i%20Trung%20Qu%E1%BB%91c%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22H%C3%ACnh%20b%C3%B3ng%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20b%E1%BB%9Fi%20nh%C3%A2n%20v%E1%BA%ADt%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22T%C6%B0%20th%E1%BA%BF%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20b%E1%BB%9Fi%20nh%C3%A2n%20v%E1%BA%ADt%2C%20l%C6%A1%20l%E1%BB%ADng%20gi%E1%BB%AFa%20kh%C3%B4ng%20trung%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22H%C3%ACnh%20%E1%BA%A3nh%20thanh%20tao%20%E1%BB%9F%20trung%20t%C3%A2m%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20v%E1%BB%87t%20s%C3%A1ng%20ch%E1%BA%A3y%20d%C3%A0i%20sang%20hai%20b%C3%AAn%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22%C3%81nh%20s%C3%A1ng%20sinh%20h%E1%BB%8Dc%20ph%C3%A1t%20quang%2C%20%C3%A1nh%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%2C%20%C3%A1nh%20s%C3%A1ng%20vi%E1%BB%81n%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Kh%C3%B3i%20l%C6%B0%E1%BB%A3n%20l%E1%BB%9D%2C%20h%E1%BA%A1t%20s%C3%A1ng%2C%20t%C3%A1n%20s%E1%BA%AFc%20ba%20chi%E1%BB%81u%2C%20v%E1%BB%87t%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20t%E1%BB%B1a%20l%E1%BB%A5a%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Xanh%20Navy%20%C4%90%E1%BA%ADm%22%2C%20%22Xanh%20Cyan%20Ph%C3%A1t%20S%C3%A1ng%22%2C%20%22V%C3%A0ng%20%C3%93ng%20%C3%81nh%22%2C%20%22H%E1%BB%93ng%20%C4%90%C3%A0o%20Nh%E1%BA%A1t%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22M%E1%BB%99t%20t%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20to%C3%A0n%20c%E1%BA%A3nh%20r%E1%BB%99ng%20l%E1%BB%9Bn%20m%C3%B4%20t%E1%BA%A3%20m%E1%BB%99t%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20th%C3%A0nh%20t%E1%BB%AB%20nh%E1%BB%AFng%20d%E1%BA%A3i%20ruy%20b%C4%83ng%20%C3%A1nh%20s%C3%A1ng%20l%C6%B0%E1%BB%A3n%20l%E1%BB%9D%2C%20kh%C3%B3i%20m%E1%BB%9D%20%E1%BA%A3o%20v%C3%A0%20c%C3%A1c%20h%E1%BA%A1t%20%C3%B3ng%20%C3%A1nh.%20N%E1%BB%81n%20c%C3%B3%20t%C3%B4ng%20m%C3%A0u%20ch%C3%A0m%20s%C3%A2u%20l%E1%BA%AFng%20v%C3%A0%20xanh%20%C4%91%E1%BA%ADm%20u%20%C3%A1m.%20Nh%C3%A2n%20v%E1%BA%ADt%20ph%C3%A1t%20ra%20%C3%A1nh%20s%C3%A1ng%20sinh%20h%E1%BB%8Dc%20ph%C3%A1t%20quang%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20huy%E1%BB%81n%20%E1%BA%A3o%20v%E1%BB%9Bi%20c%C3%A1c%20s%E1%BA%AFc%20th%C3%A1i%20v%C3%A0ng%2C%20h%E1%BB%93ng%20%C4%91%C3%A0o%20v%C3%A0%20xanh%20cyan.%20Phong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20gi%E1%BA%A3%20t%C6%B0%E1%BB%9Fng%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20uy%E1%BB%83n%20chuy%E1%BB%83n%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD%20m%C6%A1%20m%C3%A0ng%2C%20%C4%91%C6%B0%E1%BB%A3c%20k%E1%BA%BFt%20xu%E1%BA%A5t%20%E1%BB%9F%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%208K%20v%E1%BB%9Bi%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20k%E1%BA%BFt%20c%E1%BA%A5u%20cao%20v%C3%A0%20th%E1%BB%83%20hi%E1%BB%87n%20hi%E1%BB%87u%20%E1%BB%A9ng%20Tyndall.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20h%C3%ACnh%20b%C3%B3ng%2C%20%C4%91%C6%B0%E1%BB%9Dng%20s%C3%A1ng%20l%C6%B0%E1%BB%A3n%20l%E1%BB%9D%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20kh%C3%B3i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20h%E1%BA%A1t%2C%20ph%C3%A1t%20quang%20sinh%20h%E1%BB%8Dc%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%B3ng%20%C3%A1nh%2C%20n%E1%BB%81n%20xanh%20%C4%91%E1%BA%ADm%2C%20%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20thanh%20tao%2C%20huy%E1%BB%81n%20b%C3%AD%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20t%E1%BB%91t%20nh%E1%BA%A5t%2C%208k%2C%20g%C3%B3c%20r%E1%BB%99ng%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22ch%E1%BB%A5p%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20da%20r%E1%BA%AFn%20ch%E1%BA%AFc%2C%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20%C4%91%E1%BA%ADm%2C%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20l%E1%BB%99n%20x%E1%BB%99n%2C%20v%C4%83n%20b%E1%BA%A3n%2C%20h%C3%ACnh%20m%E1%BB%9D%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20th%E1%BA%A5p%2C%20l%E1%BB%97i%20jpeg%2C%20m%E1%BB%9D%2C%20m%E1%BA%B7t%20m%C3%A9o%20m%C3%B3%2C%20gi%E1%BA%A3i%20ph%E1%BA%ABu%20h%E1%BB%8Dc%20k%C3%A9m%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(d%C3%A0nh%20cho%20Midjourney)%20ho%E1%BA%B7c%20c%C3%A1c%20m%C3%B4%20h%C3%ACnh%20SDXL%20d%E1%BB%B1a%20tr%C3%AAn%20Tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%2FGi%E1%BA%A3%20t%C6%B0%E1%BB%9Fng%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 17: Adding Handwritten Text and Decoration to an Image
+### No. 17: Thêm Chữ Viết Tay và Trang Trí vào Hình Ảnh
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-The second Japanese prompt focuses on image manipulation, asking GPT Image 1.5 to add handwritten text (a date and a heart mark) and decorations to make the image look like a 'Cheki' (instant photo).
+Lời nhắc tiếng Nhật thứ hai tập trung vào việc chỉnh sửa hình ảnh, yêu cầu GPT Image 1.5 thêm chữ viết tay (ngày tháng và biểu tượng trái tim) cùng các họa tiết trang trí để bức ảnh trông giống như một bức 'Cheki' (ảnh chụp lấy liền).
 
 #### 📝 Câu lệnh
 
 ```
-Please add handwritten text ({argument name="date" default="2025.12.18"} + heart mark) and decorations to make it look like a Cheki (instant photo).
+Vui lòng thêm chữ viết tay ({argument name="date" default="2025.12.18"} + dấu trái tim) và các họa tiết trang trí để trông giống như một tấm ảnh Cheki (ảnh chụp lấy liền).
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -866,7 +982,7 @@ Please add handwritten text ({argument name="date" default="2025.12.18"} + heart
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Adding Handwritten Text and Decoration to an Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Thêm Chữ Viết Tay và Trang Trí vào Hình Ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -876,22 +992,22 @@ Please add handwritten text ({argument name="date" default="2025.12.18"} + heart
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Please%20add%20handwritten%20text%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20heart%20mark)%20and%20decorations%20to%20make%20it%20look%20like%20a%20Cheki%20(instant%20photo).)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Vui%20l%C3%B2ng%20th%C3%AAm%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20d%E1%BA%A5u%20tr%C3%A1i%20tim)%20v%C3%A0%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20trang%20tr%C3%AD%20%C4%91%E1%BB%83%20tr%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20t%E1%BA%A5m%20%E1%BA%A3nh%20Cheki%20(%E1%BA%A3nh%20ch%E1%BB%A5p%20l%E1%BA%A5y%20li%E1%BB%81n).)**
 
 ---
 
-### No. 18: Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar
+### No. 18: Trừ tà sư với đôi tai thỏ bông và Thỏ đệ tử quen thuộc
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-A Japanese prompt describing two characters: an exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath. This prompt was used to test GPT Image 1.5's ability to handle complex character descriptions and scenes with simple color palettes.
+Một câu lệnh tiếng Nhật mô tả hai nhân vật: một pháp sư trừ tà có đôi tai thỏ bông xù và một linh thú thỏ cũng là người học việc, muốn đi tắm. Câu lệnh này được dùng để kiểm tra khả năng của GPT Image 1.5 trong việc xử lý các mô tả nhân vật phức tạp và các cảnh với bảng màu đơn giản.
 
 #### 📝 Câu lệnh
 
 ```
-An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath
+Một pháp sư trừ tà với đôi tai thỏ mềm mại và một con thỏ quen thuộc cũng là người học việc và muốn đi tắm.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -899,7 +1015,7 @@ An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprent
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Trừ tà sư với đôi tai thỏ bông và Thỏ đệ tử quen thuộc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -909,51 +1025,51 @@ An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprent
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=An%20exorcist%20with%20fluffy%20rabbit%20ears%20and%20a%20rabbit%20familiar%20who%20is%20also%20an%20apprentice%20and%20wants%20to%20take%20a%20bath)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20ph%C3%A1p%20s%C6%B0%20tr%E1%BB%AB%20t%C3%A0%20v%E1%BB%9Bi%20%C4%91%C3%B4i%20tai%20th%E1%BB%8F%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20m%E1%BB%99t%20con%20th%E1%BB%8F%20quen%20thu%E1%BB%99c%20c%C5%A9ng%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20mu%E1%BB%91n%20%C4%91i%20t%E1%BA%AFm.)**
 
 ---
 
-### No. 19: GPT Image 1.5 World Tour Prompt Template
+### No. 19: Mẫu Prompt GPT Image 1.5 World Tour
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A detailed, structured prompt template for GPT Image 1.5 designed to generate photorealistic concert documentary images of a character performing a 'World Tour' at a specific geographical location defined by latitude and longitude. The prompt emphasizes maintaining character identity while integrating local culture and cinematic visual effects.
+Một mẫu lời nhắc chi tiết, có cấu trúc dành cho GPT Image 1.5 được thiết kế để tạo ra hình ảnh tài liệu về buổi hòa nhạc chân thực như ảnh chụp của một nhân vật đang biểu diễn trong 'World Tour' tại một địa điểm địa lý cụ thể được xác định bằng vĩ độ và kinh độ. Lời nhắc nhấn mạnh việc duy trì nhận dạng nhân vật đồng thời tích hợp văn hóa địa phương và các hiệu ứng hình ảnh điện ảnh.
 
 #### 📝 Câu lệnh
 
 ```
-GENERAL STYLE & MOOD:
-Photorealistic live concert documentary. Cinematic visual expression blending the fervor of the enthusiastic audience with the unique atmosphere and lighting specific to the location.
+PHONG CÁCH & TÂM TRẠNG CHUNG:
+Phim tài liệu hòa nhạc trực tiếp chân thực như ảnh chụp. Biểu cảm hình ảnh điện ảnh pha trộn sự cuồng nhiệt của khán giả nhiệt tình với không khí và ánh sáng độc đáo đặc trưng của địa điểm.
 
-SUBJECT:
-The character from the attached image is performing a 'World Tour' live performance at the specified latitude and longitude location.
-While completely preserving the character's identity, they are wearing a 'World Tour exclusive stage costume' that modernly arranges the culture, tradition, or symbolic elements of that land.
+CHỦ THỂ:
+Nhân vật trong hình ảnh đính kèm đang biểu diễn trực tiếp 'World Tour' tại vị trí vĩ độ và kinh độ đã chỉ định.
+Trong khi vẫn giữ nguyên hoàn toàn danh tính của nhân vật, họ đang mặc một 'trang phục sân khấu độc quyền của World Tour' được sắp xếp hiện đại hóa văn hóa, truyền thống hoặc các yếu tố biểu tượng của vùng đất đó.
 
-COMPOSITION & STAGE DESIGN:
-The stage is a special venue that maximizes the use of the local landmarks, topography, or urban landscape.
-- Dynamic angle using a wide-angle lens (24mm equivalent).
-- Immersive framing, looking up at the stage over the audience.
-- Fusion of iconic local backgrounds (architecture, natural scenery) and the latest lighting technology (LED, laser).
+BỐ CỤC & THIẾT KẾ SÂN KHẤU:
+Sân khấu là một địa điểm đặc biệt tận dụng tối đa các địa danh, địa hình hoặc cảnh quan đô thị địa phương.
+- Góc động sử dụng ống kính góc rộng (tương đương 24mm).
+- Khung hình sống động, nhìn lên sân khấu từ phía khán giả.
+- Sự kết hợp giữa các phông nền mang tính biểu tượng của địa phương (kiến trúc, cảnh quan thiên nhiên) và công nghệ chiếu sáng mới nhất (LED, laser).
 
-LIGHTING & ENVIRONMENT:
-- Natural light based on the local time of day ( {argument name="time of day" default="golden hour, or night"}) determined by latitude and longitude.
-- Coexistence of spotlights illuminating the stage and bokeh from local streetlights or night views.
-- A sea of light created by the audience's glow sticks and smartphone lights.
+ÁNH SÁNG & MÔI TRƯỜNG:
+- Ánh sáng tự nhiên dựa trên thời gian trong ngày tại địa phương ( {argument name="time of day" default="golden hour, or night"}) được xác định bởi vĩ độ và kinh độ.
+- Sự cùng tồn tại của đèn sân khấu chiếu sáng sân khấu và hiệu ứng bokeh từ đèn đường địa phương hoặc cảnh đêm.
+- Biển ánh sáng được tạo ra bởi gậy phát sáng và đèn điện thoại thông minh của khán giả.
 
-PRESERVE FROM IMAGE:
-- The character's facial features, hairstyle, hair color, and physical characteristics.
-- The character's unique expressions and performance habits.
+GIỮ NGUYÊN TỪ HÌNH ẢNH:
+- Các đặc điểm trên khuôn mặt, kiểu tóc, màu tóc và đặc điểm thể chất của nhân vật.
+- Biểu cảm độc đáo và thói quen biểu diễn của nhân vật.
 
-CONSTRAINTS / DO NOT:
-- Do not distort the character's form.
-- Avoid unnatural finger shapes or duplication of limbs.
-- Ensure that text or logos on the stage are depicted extremely clearly, avoiding illegible random strings.
-- The background must not be a generic concert venue; it must incorporate a unique landscape that could only exist in that specific location.
+RÀNG BUỘC / KHÔNG ĐƯỢC:
+- Không làm biến dạng hình dáng của nhân vật.
+- Tránh các hình dạng ngón tay không tự nhiên hoặc trùng lặp chi.
+- Đảm bảo rằng văn bản hoặc logo trên sân khấu được mô tả cực kỳ rõ ràng, tránh các chuỗi ngẫu nhiên không đọc được.
+- Phông nền không được là một địa điểm hòa nhạc chung chung; nó phải kết hợp một cảnh quan độc đáo chỉ có thể tồn tại ở địa điểm cụ thể đó.
 
-LOCATION SPECIFICATION:
+THÔNG SỐ KỸ THUẬT VỊ TRÍ:
 {argument name="latitude" default="-13.1631"}
 {argument name="longitude" default="-72.5450"}
 ```
@@ -963,7 +1079,7 @@ LOCATION SPECIFICATION:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT Image 1.5 World Tour Prompt Template - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="Mẫu Prompt GPT Image 1.5 World Tour - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -973,22 +1089,22 @@ LOCATION SPECIFICATION:
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=GENERAL%20STYLE%20%26%20MOOD%3A%0APhotorealistic%20live%20concert%20documentary.%20Cinematic%20visual%20expression%20blending%20the%20fervor%20of%20the%20enthusiastic%20audience%20with%20the%20unique%20atmosphere%20and%20lighting%20specific%20to%20the%20location.%0A%0ASUBJECT%3A%0AThe%20character%20from%20the%20attached%20image%20is%20performing%20a%20'World%20Tour'%20live%20performance%20at%20the%20specified%20latitude%20and%20longitude%20location.%0AWhile%20completely%20preserving%20the%20character's%20identity%2C%20they%20are%20wearing%20a%20'World%20Tour%20exclusive%20stage%20costume'%20that%20modernly%20arranges%20the%20culture%2C%20tradition%2C%20or%20symbolic%20elements%20of%20that%20land.%0A%0ACOMPOSITION%20%26%20STAGE%20DESIGN%3A%0AThe%20stage%20is%20a%20special%20venue%20that%20maximizes%20the%20use%20of%20the%20local%20landmarks%2C%20topography%2C%20or%20urban%20landscape.%0A-%20Dynamic%20angle%20using%20a%20wide-angle%20lens%20(24mm%20equivalent).%0A-%20Immersive%20framing%2C%20looking%20up%20at%20the%20stage%20over%20the%20audience.%0A-%20Fusion%20of%20iconic%20local%20backgrounds%20(architecture%2C%20natural%20scenery)%20and%20the%20latest%20lighting%20technology%20(LED%2C%20laser).%0A%0ALIGHTING%20%26%20ENVIRONMENT%3A%0A-%20Natural%20light%20based%20on%20the%20local%20time%20of%20day%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22golden%20hour%2C%20or%20night%22%7D)%20determined%20by%20latitude%20and%20longitude.%0A-%20Coexistence%20of%20spotlights%20illuminating%20the%20stage%20and%20bokeh%20from%20local%20streetlights%20or%20night%20views.%0A-%20A%20sea%20of%20light%20created%20by%20the%20audience's%20glow%20sticks%20and%20smartphone%20lights.%0A%0APRESERVE%20FROM%20IMAGE%3A%0A-%20The%20character's%20facial%20features%2C%20hairstyle%2C%20hair%20color%2C%20and%20physical%20characteristics.%0A-%20The%20character's%20unique%20expressions%20and%20performance%20habits.%0A%0ACONSTRAINTS%20%2F%20DO%20NOT%3A%0A-%20Do%20not%20distort%20the%20character's%20form.%0A-%20Avoid%20unnatural%20finger%20shapes%20or%20duplication%20of%20limbs.%0A-%20Ensure%20that%20text%20or%20logos%20on%20the%20stage%20are%20depicted%20extremely%20clearly%2C%20avoiding%20illegible%20random%20strings.%0A-%20The%20background%20must%20not%20be%20a%20generic%20concert%20venue%3B%20it%20must%20incorporate%20a%20unique%20landscape%20that%20could%20only%20exist%20in%20that%20specific%20location.%0A%0ALOCATION%20SPECIFICATION%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=PHONG%20C%C3%81CH%20%26%20T%C3%82M%20TR%E1%BA%A0NG%20CHUNG%3A%0APhim%20t%C3%A0i%20li%E1%BB%87u%20h%C3%B2a%20nh%E1%BA%A1c%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p.%20Bi%E1%BB%83u%20c%E1%BA%A3m%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20pha%20tr%E1%BB%99n%20s%E1%BB%B1%20cu%E1%BB%93ng%20nhi%E1%BB%87t%20c%E1%BB%A7a%20kh%C3%A1n%20gi%E1%BA%A3%20nhi%E1%BB%87t%20t%C3%ACnh%20v%E1%BB%9Bi%20kh%C3%B4ng%20kh%C3%AD%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m.%0A%0ACH%E1%BB%A6%20TH%E1%BB%82%3A%0ANh%C3%A2n%20v%E1%BA%ADt%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C3%ADnh%20k%C3%A8m%20%C4%91ang%20bi%E1%BB%83u%20di%E1%BB%85n%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20'World%20Tour'%20t%E1%BA%A1i%20v%E1%BB%8B%20tr%C3%AD%20v%C4%A9%20%C4%91%E1%BB%99%20v%C3%A0%20kinh%20%C4%91%E1%BB%99%20%C4%91%C3%A3%20ch%E1%BB%89%20%C4%91%E1%BB%8Bnh.%0ATrong%20khi%20v%E1%BA%ABn%20gi%E1%BB%AF%20nguy%C3%AAn%20ho%C3%A0n%20to%C3%A0n%20danh%20t%C3%ADnh%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%2C%20h%E1%BB%8D%20%C4%91ang%20m%E1%BA%B7c%20m%E1%BB%99t%20'trang%20ph%E1%BB%A5c%20s%C3%A2n%20kh%E1%BA%A5u%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20c%E1%BB%A7a%20World%20Tour'%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20h%C3%B3a%20v%C4%83n%20h%C3%B3a%2C%20truy%E1%BB%81n%20th%E1%BB%91ng%20ho%E1%BA%B7c%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20v%C3%B9ng%20%C4%91%E1%BA%A5t%20%C4%91%C3%B3.%0A%0AB%E1%BB%90%20C%E1%BB%A4C%20%26%20THI%E1%BA%BET%20K%E1%BA%BE%20S%C3%82N%20KH%E1%BA%A4U%3A%0AS%C3%A2n%20kh%E1%BA%A5u%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20t%E1%BA%ADn%20d%E1%BB%A5ng%20t%E1%BB%91i%20%C4%91a%20c%C3%A1c%20%C4%91%E1%BB%8Ba%20danh%2C%20%C4%91%E1%BB%8Ba%20h%C3%ACnh%20ho%E1%BA%B7c%20c%E1%BA%A3nh%20quan%20%C4%91%C3%B4%20th%E1%BB%8B%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng.%0A-%20G%C3%B3c%20%C4%91%E1%BB%99ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20%E1%BB%91ng%20k%C3%ADnh%20g%C3%B3c%20r%E1%BB%99ng%20(t%C6%B0%C6%A1ng%20%C4%91%C6%B0%C6%A1ng%2024mm).%0A-%20Khung%20h%C3%ACnh%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20nh%C3%ACn%20l%C3%AAn%20s%C3%A2n%20kh%E1%BA%A5u%20t%E1%BB%AB%20ph%C3%ADa%20kh%C3%A1n%20gi%E1%BA%A3.%0A-%20S%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20c%C3%A1c%20ph%C3%B4ng%20n%E1%BB%81n%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20(ki%E1%BA%BFn%20tr%C3%BAc%2C%20c%E1%BA%A3nh%20quan%20thi%C3%AAn%20nhi%C3%AAn)%20v%C3%A0%20c%C3%B4ng%20ngh%E1%BB%87%20chi%E1%BA%BFu%20s%C3%A1ng%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20(LED%2C%20laser).%0A%0A%C3%81NH%20S%C3%81NG%20%26%20M%C3%94I%20TR%C6%AF%E1%BB%9CNG%3A%0A-%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20d%E1%BB%B1a%20tr%C3%AAn%20th%E1%BB%9Di%20gian%20trong%20ng%C3%A0y%20t%E1%BA%A1i%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22golden%20hour%2C%20or%20night%22%7D)%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20b%E1%BB%9Fi%20v%C4%A9%20%C4%91%E1%BB%99%20v%C3%A0%20kinh%20%C4%91%E1%BB%99.%0A-%20S%E1%BB%B1%20c%C3%B9ng%20t%E1%BB%93n%20t%E1%BA%A1i%20c%E1%BB%A7a%20%C4%91%C3%A8n%20s%C3%A2n%20kh%E1%BA%A5u%20chi%E1%BA%BFu%20s%C3%A1ng%20s%C3%A2n%20kh%E1%BA%A5u%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20t%E1%BB%AB%20%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng%20ho%E1%BA%B7c%20c%E1%BA%A3nh%20%C4%91%C3%AAm.%0A-%20Bi%E1%BB%83n%20%C3%A1nh%20s%C3%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ra%20b%E1%BB%9Fi%20g%E1%BA%ADy%20ph%C3%A1t%20s%C3%A1ng%20v%C3%A0%20%C4%91%C3%A8n%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%20c%E1%BB%A7a%20kh%C3%A1n%20gi%E1%BA%A3.%0A%0AGI%E1%BB%AE%20NGUY%C3%8AN%20T%E1%BB%AA%20H%C3%8CNH%20%E1%BA%A2NH%3A%0A-%20C%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%2C%20ki%E1%BB%83u%20t%C3%B3c%2C%20m%C3%A0u%20t%C3%B3c%20v%C3%A0%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20th%E1%BB%83%20ch%E1%BA%A5t%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt.%0A-%20Bi%E1%BB%83u%20c%E1%BA%A3m%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20th%C3%B3i%20quen%20bi%E1%BB%83u%20di%E1%BB%85n%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt.%0A%0AR%C3%80NG%20BU%E1%BB%98C%20%2F%20KH%C3%94NG%20%C4%90%C6%AF%E1%BB%A2C%3A%0A-%20Kh%C3%B4ng%20l%C3%A0m%20bi%E1%BA%BFn%20d%E1%BA%A1ng%20h%C3%ACnh%20d%C3%A1ng%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt.%0A-%20Tr%C3%A1nh%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20ng%C3%B3n%20tay%20kh%C3%B4ng%20t%E1%BB%B1%20nhi%C3%AAn%20ho%E1%BA%B7c%20tr%C3%B9ng%20l%E1%BA%B7p%20chi.%0A-%20%C4%90%E1%BA%A3m%20b%E1%BA%A3o%20r%E1%BA%B1ng%20v%C4%83n%20b%E1%BA%A3n%20ho%E1%BA%B7c%20logo%20tr%C3%AAn%20s%C3%A2n%20kh%E1%BA%A5u%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%B4%20t%E1%BA%A3%20c%E1%BB%B1c%20k%E1%BB%B3%20r%C3%B5%20r%C3%A0ng%2C%20tr%C3%A1nh%20c%C3%A1c%20chu%E1%BB%97i%20ng%E1%BA%ABu%20nhi%C3%AAn%20kh%C3%B4ng%20%C4%91%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c.%0A-%20Ph%C3%B4ng%20n%E1%BB%81n%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20h%C3%B2a%20nh%E1%BA%A1c%20chung%20chung%3B%20n%C3%B3%20ph%E1%BA%A3i%20k%E1%BA%BFt%20h%E1%BB%A3p%20m%E1%BB%99t%20c%E1%BA%A3nh%20quan%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20ch%E1%BB%89%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%93n%20t%E1%BA%A1i%20%E1%BB%9F%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%C3%B3.%0A%0ATH%C3%94NG%20S%E1%BB%90%20K%E1%BB%B8%20THU%E1%BA%ACT%20V%E1%BB%8A%20TR%C3%8D%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
 
 ---
 
-### No. 20: Romantic Blue Ink Spill Portrait
+### No. 20: Chân Dung Vết Mực Xanh Lãng Mạn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A creative prompt instructing the model to convert an uploaded image of a couple into an ultra-realistic portrait rendered as a blue ink spill on paper, maintaining the faces but depicting a romantic pose and specific traditional clothing.
+Một lời nhắc sáng tạo hướng dẫn mô hình chuyển đổi hình ảnh một cặp đôi đã tải lên thành một bức chân dung siêu thực được thể hiện dưới dạng vết mực xanh đổ trên giấy, giữ nguyên khuôn mặt nhưng miêu tả một tư thế lãng mạn và trang phục truyền thống cụ thể.
 
 #### 📝 Câu lệnh
 
 ```
-Convert the above image into ultra realistic portrait of both in a romantic pose in the form of blue ink spill in a paper .guy should be in formal shirt and pant .girl should be in flower designed saree.behind them  above their  head should have couple different  romantic  pose closeup face  picture in transparent form ..both should not look the camera .dramatic ( do not change the faces)
+Chuyển đổi hình ảnh trên thành bức chân dung siêu thực của cả hai trong tư thế lãng mạn dưới dạng vết mực xanh đổ trên giấy. Chàng trai nên mặc áo sơ mi và quần tây trang trọng. Cô gái nên mặc sari có họa tiết hoa. Phía sau họ, phía trên đầu, nên có hình ảnh cận cảnh khuôn mặt của cặp đôi trong những tư thế lãng mạn khác nhau dưới dạng trong suốt. Cả hai không nên nhìn vào máy ảnh. Mang tính kịch tính (không thay đổi khuôn mặt).
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -996,13 +1112,13 @@ Convert the above image into ultra realistic portrait of both in a romantic pose
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Chân Dung Vết Mực Xanh Lãng Mạn - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Chân Dung Vết Mực Xanh Lãng Mạn - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1012,22 +1128,22 @@ Convert the above image into ultra realistic portrait of both in a romantic pose
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Convert%20the%20above%20image%20into%20ultra%20realistic%20portrait%20of%20both%20in%20a%20romantic%20pose%20in%20the%20form%20of%20blue%20ink%20spill%20in%20a%20paper%20.guy%20should%20be%20in%20formal%20shirt%20and%20pant%20.girl%20should%20be%20in%20flower%20designed%20saree.behind%20them%20%20above%20their%20%20head%20should%20have%20couple%20different%20%20romantic%20%20pose%20closeup%20face%20%20picture%20in%20transparent%20form%20..both%20should%20not%20look%20the%20camera%20.dramatic%20(%20do%20not%20change%20the%20faces))**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20h%C3%ACnh%20%E1%BA%A3nh%20tr%C3%AAn%20th%C3%A0nh%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20si%C3%AAu%20th%E1%BB%B1c%20c%E1%BB%A7a%20c%E1%BA%A3%20hai%20trong%20t%C6%B0%20th%E1%BA%BF%20l%C3%A3ng%20m%E1%BA%A1n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20v%E1%BA%BFt%20m%E1%BB%B1c%20xanh%20%C4%91%E1%BB%95%20tr%C3%AAn%20gi%E1%BA%A5y.%20Ch%C3%A0ng%20trai%20n%C3%AAn%20m%E1%BA%B7c%20%C3%A1o%20s%C6%A1%20mi%20v%C3%A0%20qu%E1%BA%A7n%20t%C3%A2y%20trang%20tr%E1%BB%8Dng.%20C%C3%B4%20g%C3%A1i%20n%C3%AAn%20m%E1%BA%B7c%20sari%20c%C3%B3%20h%E1%BB%8Da%20ti%E1%BA%BFt%20hoa.%20Ph%C3%ADa%20sau%20h%E1%BB%8D%2C%20ph%C3%ADa%20tr%C3%AAn%20%C4%91%E1%BA%A7u%2C%20n%C3%AAn%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20c%E1%BA%B7p%20%C4%91%C3%B4i%20trong%20nh%E1%BB%AFng%20t%C6%B0%20th%E1%BA%BF%20l%C3%A3ng%20m%E1%BA%A1n%20kh%C3%A1c%20nhau%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20trong%20su%E1%BB%91t.%20C%E1%BA%A3%20hai%20kh%C3%B4ng%20n%C3%AAn%20nh%C3%ACn%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh.%20Mang%20t%C3%ADnh%20k%E1%BB%8Bch%20t%C3%ADnh%20(kh%C3%B4ng%20thay%20%C4%91%E1%BB%95i%20khu%C3%B4n%20m%E1%BA%B7t).)**
 
 ---
 
-### No. 21: Modern Ukiyo-e Style Beauty Illustration
+### No. 21: Minh họa vẻ đẹp phong cách Ukiyo-e hiện đại
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-A Japanese prompt for generating a modern recreation of a Ukiyo-e (woodblock print) style beauty portrait. The image should feature a beautiful woman wearing vividly colored and intricately patterned clothing, rendered as an illustration portrait.
+Một lời nhắc tiếng Nhật để tạo lại một bức chân dung mỹ nhân theo phong cách Ukiyo-e (tranh khắc gỗ) hiện đại. Bức ảnh nên có hình một người phụ nữ xinh đẹp mặc trang phục màu sắc rực rỡ và họa tiết phức tạp, được thể hiện dưới dạng một bức chân dung minh họa.
 
 #### 📝 Câu lệnh
 
 ```
-It seems that many compositions of multicolored Ukiyo-e beauty portraits were created during the Edo period. As a modern recreation, please prepare an **illustration** portrait of a beautiful woman wearing vividly colored and intricately patterned clothing.
+Có vẻ như rất nhiều bức chân dung mỹ nhân Ukiyo-e đa sắc màu đã được tạo ra trong thời kỳ Edo. Để tái hiện lại theo phong cách hiện đại, xin hãy chuẩn bị một bức chân dung **minh họa** về một người phụ nữ xinh đẹp mặc trang phục có màu sắc rực rỡ và họa tiết phức tạp.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1035,7 +1151,7 @@ It seems that many compositions of multicolored Ukiyo-e beauty portraits were cr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Modern Ukiyo-e Style Beauty Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Minh họa vẻ đẹp phong cách Ukiyo-e hiện đại - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1045,22 +1161,22 @@ It seems that many compositions of multicolored Ukiyo-e beauty portraits were cr
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=It%20seems%20that%20many%20compositions%20of%20multicolored%20Ukiyo-e%20beauty%20portraits%20were%20created%20during%20the%20Edo%20period.%20As%20a%20modern%20recreation%2C%20please%20prepare%20an%20**illustration**%20portrait%20of%20a%20beautiful%20woman%20wearing%20vividly%20colored%20and%20intricately%20patterned%20clothing.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=C%C3%B3%20v%E1%BA%BB%20nh%C6%B0%20r%E1%BA%A5t%20nhi%E1%BB%81u%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20m%E1%BB%B9%20nh%C3%A2n%20Ukiyo-e%20%C4%91a%20s%E1%BA%AFc%20m%C3%A0u%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ra%20trong%20th%E1%BB%9Di%20k%E1%BB%B3%20Edo.%20%C4%90%E1%BB%83%20t%C3%A1i%20hi%E1%BB%87n%20l%E1%BA%A1i%20theo%20phong%20c%C3%A1ch%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20xin%20h%C3%A3y%20chu%E1%BA%A9n%20b%E1%BB%8B%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20**minh%20h%E1%BB%8Da**%20v%E1%BB%81%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20xinh%20%C4%91%E1%BA%B9p%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20c%C3%B3%20m%C3%A0u%20s%E1%BA%AFc%20r%E1%BB%B1c%20r%E1%BB%A1%20v%C3%A0%20h%E1%BB%8Da%20ti%E1%BA%BFt%20ph%E1%BB%A9c%20t%E1%BA%A1p.)**
 
 ---
 
-### No. 22: Abstract Fibonacci Particle Facial Features CGI Prompt
+### No. 22: Tóm tắt: Đặc điểm khuôn mặt hạt Fibonacci trong CGI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A detailed prompt requesting a computer-generated image (CGI) in a modern digital art style. The main subject is facial features composed of abstract, colorful Fibonacci particles flowing dynamically like layered water, set against a black-to-gray background with motion trails, using a bold isometric composition.
+Một lời nhắc chi tiết yêu cầu tạo ảnh kỹ thuật số (CGI) theo phong cách nghệ thuật kỹ thuật số hiện đại. Chủ thể chính là các đặc điểm khuôn mặt được tạo thành từ các hạt Fibonacci trừu tượng, đầy màu sắc, chuyển động linh hoạt như nước chảy thành từng lớp, trên nền đen-xám với các vệt chuyển động, sử dụng bố cục đẳng cự táo bạo.
 
 #### 📝 Câu lệnh
 
 ```
-Using computer-generated imagery (CGI) technology, the scene is presented in a highly modern digital art style. The main subject of the image is facial features composed of abstract and colorful Fibonacci particles. The particles feature a rich color palette, including deep purple, dark blue, dull yellow, dark green, reddish-brown, off-white, and khaki, flowing dynamically like layered water. The background transitions from pure black to gray, cleverly creating the motion trails of the particles and a powerful sense of energy. A bold isometric composition is employed.
+Sử dụng công nghệ hình ảnh do máy tính tạo ra (CGI), cảnh này được thể hiện theo phong cách nghệ thuật kỹ thuật số rất hiện đại. Chủ thể chính của hình ảnh là các đặc điểm khuôn mặt được tạo thành từ các hạt Fibonacci trừu tượng và đầy màu sắc. Các hạt có bảng màu phong phú, bao gồm tím đậm, xanh lam đậm, vàng xỉn, xanh lá cây đậm, nâu đỏ, trắng nhạt và kaki, chảy động như nước xếp lớp. Nền chuyển từ màu đen tuyền sang màu xám, khéo léo tạo ra vệt chuyển động của các hạt và cảm giác tràn đầy năng lượng mạnh mẽ. Một bố cục đẳng cự táo bạo được sử dụng.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1068,19 +1184,19 @@ Using computer-generated imagery (CGI) technology, the scene is presented in a h
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Tóm tắt: Đặc điểm khuôn mặt hạt Fibonacci trong CGI - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Tóm tắt: Đặc điểm khuôn mặt hạt Fibonacci trong CGI - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Tóm tắt: Đặc điểm khuôn mặt hạt Fibonacci trong CGI - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -1090,24 +1206,24 @@ Using computer-generated imagery (CGI) technology, the scene is presented in a h
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Using%20computer-generated%20imagery%20(CGI)%20technology%2C%20the%20scene%20is%20presented%20in%20a%20highly%20modern%20digital%20art%20style.%20The%20main%20subject%20of%20the%20image%20is%20facial%20features%20composed%20of%20abstract%20and%20colorful%20Fibonacci%20particles.%20The%20particles%20feature%20a%20rich%20color%20palette%2C%20including%20deep%20purple%2C%20dark%20blue%2C%20dull%20yellow%2C%20dark%20green%2C%20reddish-brown%2C%20off-white%2C%20and%20khaki%2C%20flowing%20dynamically%20like%20layered%20water.%20The%20background%20transitions%20from%20pure%20black%20to%20gray%2C%20cleverly%20creating%20the%20motion%20trails%20of%20the%20particles%20and%20a%20powerful%20sense%20of%20energy.%20A%20bold%20isometric%20composition%20is%20employed.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20ngh%E1%BB%87%20h%C3%ACnh%20%E1%BA%A3nh%20do%20m%C3%A1y%20t%C3%ADnh%20t%E1%BA%A1o%20ra%20(CGI)%2C%20c%E1%BA%A3nh%20n%C3%A0y%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20ngh%E1%BB%87%20thu%E1%BA%ADt%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20r%E1%BA%A5t%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20Ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20th%C3%A0nh%20t%E1%BB%AB%20c%C3%A1c%20h%E1%BA%A1t%20Fibonacci%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%20v%C3%A0%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc.%20C%C3%A1c%20h%E1%BA%A1t%20c%C3%B3%20b%E1%BA%A3ng%20m%C3%A0u%20phong%20ph%C3%BA%2C%20bao%20g%E1%BB%93m%20t%C3%ADm%20%C4%91%E1%BA%ADm%2C%20xanh%20lam%20%C4%91%E1%BA%ADm%2C%20v%C3%A0ng%20x%E1%BB%89n%2C%20xanh%20l%C3%A1%20c%C3%A2y%20%C4%91%E1%BA%ADm%2C%20n%C3%A2u%20%C4%91%E1%BB%8F%2C%20tr%E1%BA%AFng%20nh%E1%BA%A1t%20v%C3%A0%20kaki%2C%20ch%E1%BA%A3y%20%C4%91%E1%BB%99ng%20nh%C6%B0%20n%C6%B0%E1%BB%9Bc%20x%E1%BA%BFp%20l%E1%BB%9Bp.%20N%E1%BB%81n%20chuy%E1%BB%83n%20t%E1%BB%AB%20m%C3%A0u%20%C4%91en%20tuy%E1%BB%81n%20sang%20m%C3%A0u%20x%C3%A1m%2C%20kh%C3%A9o%20l%C3%A9o%20t%E1%BA%A1o%20ra%20v%E1%BB%87t%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20c%C3%A1c%20h%E1%BA%A1t%20v%C3%A0%20c%E1%BA%A3m%20gi%C3%A1c%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20m%E1%BA%A1nh%20m%E1%BA%BD.%20M%E1%BB%99t%20b%E1%BB%91%20c%E1%BB%A5c%20%C4%91%E1%BA%B3ng%20c%E1%BB%B1%20t%C3%A1o%20b%E1%BA%A1o%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20d%E1%BB%A5ng.)**
 
 ---
 
-### No. 23: Image-to-Sketch Transformation Prompt with Hand Detail
+### No. 23: Chuyển đổi hình ảnh thành bản phác thảo với chi tiết bàn tay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt for ChatGPT 5.2 that takes an uploaded photo and transforms it into a photo-style line drawing or ink sketch, requiring the model to maintain facial features exactly. It specifies the use of green and white ink on a notebook background, and includes the detail of a hand holding a pen and eraser near the sketch.
+Một lời nhắc cho ChatGPT 5.2 yêu cầu nó lấy một bức ảnh đã tải lên và biến nó thành một bản vẽ đường nét hoặc phác thảo mực theo phong cách ảnh, đòi hỏi mô hình phải giữ nguyên chính xác các đặc điểm khuôn mặt. Nó chỉ định sử dụng mực xanh lá cây và trắng trên nền sổ tay, đồng thời bao gồm chi tiết một bàn tay đang cầm bút và cục tẩy gần bản phác thảo.
 
 #### 📝 Câu lệnh
 
 ```
-Create a photo-style line drawing / ink sketch of a face identical to the uploaded reference image — keep every facial feature, proportion, and expression exactly the same.
-Use green and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.
-Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.
+Tạo một bản vẽ đường nét/phác thảo mực theo phong cách ảnh của một khuôn mặt giống hệt ảnh tham chiếu đã tải lên — giữ nguyên mọi đặc điểm khuôn mặt, tỷ lệ và biểu cảm.
+Sử dụng tông màu mực xanh lá cây và trắng với các chi tiết đường nét tinh xảo, phức tạp, được vẽ trên nền giấy vở.
+Hiển thị một bàn tay phải đang cầm bút và cục tẩy gần bản phác thảo, như thể người nghệ sĩ vẫn đang làm việc.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1115,7 +1231,7 @@ Show a right hand holding a pen and an eraser near the sketch, as if the artist 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="Image-to-Sketch Transformation Prompt with Hand Detail - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="Chuyển đổi hình ảnh thành bản phác thảo với chi tiết bàn tay - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1125,34 +1241,34 @@ Show a right hand holding a pen and an eraser near the sketch, as if the artist 
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Create%20a%20photo-style%20line%20drawing%20%2F%20ink%20sketch%20of%20a%20face%20identical%20to%20the%20uploaded%20reference%20image%20%E2%80%94%20keep%20every%20facial%20feature%2C%20proportion%2C%20and%20expression%20exactly%20the%20same.%0AUse%20green%20and%20white%20ink%20tones%20with%20intricate%2C%20fine%20line%20detailing%2C%20drawn%20on%20a%20notebook-page%20style%20background.%0AShow%20a%20right%20hand%20holding%20a%20pen%20and%20an%20eraser%20near%20the%20sketch%2C%20as%20if%20the%20artist%20is%20still%20working.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BA%A3n%20v%E1%BA%BD%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%2Fph%C3%A1c%20th%E1%BA%A3o%20m%E1%BB%B1c%20theo%20phong%20c%C3%A1ch%20%E1%BA%A3nh%20c%E1%BB%A7a%20m%E1%BB%99t%20khu%C3%B4n%20m%E1%BA%B7t%20gi%E1%BB%91ng%20h%E1%BB%87t%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn%20%E2%80%94%20gi%E1%BB%AF%20nguy%C3%AAn%20m%E1%BB%8Di%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%2C%20t%E1%BB%B7%20l%E1%BB%87%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20t%C3%B4ng%20m%C3%A0u%20m%E1%BB%B1c%20xanh%20l%C3%A1%20c%C3%A2y%20v%C3%A0%20tr%E1%BA%AFng%20v%E1%BB%9Bi%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20tinh%20x%E1%BA%A3o%2C%20ph%E1%BB%A9c%20t%E1%BA%A1p%2C%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20tr%C3%AAn%20n%E1%BB%81n%20gi%E1%BA%A5y%20v%E1%BB%9F.%0AHi%E1%BB%83n%20th%E1%BB%8B%20m%E1%BB%99t%20b%C3%A0n%20tay%20ph%E1%BA%A3i%20%C4%91ang%20c%E1%BA%A7m%20b%C3%BAt%20v%C3%A0%20c%E1%BB%A5c%20t%E1%BA%A9y%20g%E1%BA%A7n%20b%E1%BA%A3n%20ph%C3%A1c%20th%E1%BA%A3o%2C%20nh%C6%B0%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20ngh%E1%BB%87%20s%C4%A9%20v%E1%BA%ABn%20%C4%91ang%20l%C3%A0m%20vi%E1%BB%87c.)**
 
 ---
 
-### No. 24: Cinematic Dual-Tone Portrait from Uploaded Photo
+### No. 24: Chân dung tông màu kép điện ảnh từ ảnh đã tải lên
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A step-by-step prompt for transforming an uploaded photo into an ultra-realistic, high-detail cinematic studio portrait using dramatic dual-tone lighting (teal and golden) while maintaining the subject's calm and confident presence.
+Hướng dẫn từng bước để biến một bức ảnh đã tải lên thành một bức chân dung studio điện ảnh siêu thực, chi tiết cao, sử dụng ánh sáng hai tông màu ấn tượng (xanh mòng két và vàng kim) trong khi vẫn giữ được vẻ điềm tĩnh và tự tin của chủ thể.
 
 #### 📝 Câu lệnh
 
 ```
-"A cinematic studio portrait of the person in the uploaded photo, framed from the chest up, facing the camera with a calm, confident presence.
+"Một bức chân dung điện ảnh chụp trong studio của người trong ảnh đã tải lên, chụp từ ngực trở lên, nhìn thẳng vào máy ảnh với vẻ điềm tĩnh, tự tin.
 
-Dramatic dual-tone lighting with cool teal and warm golden tones creating a modern, cinematic mood.
+Ánh sáng hai tông màu ấn tượng với tông xanh mòng két mát mẻ và tông vàng ấm áp tạo nên một không khí điện ảnh, hiện đại.
 
-Natural skin texture, sharp focus on the eyes, soft shadows, and smooth color transitions.
+Kết cấu da tự nhiên, lấy nét sắc nét vào đôi mắt, đổ bóng mềm mại và chuyển màu mượt mà.
 
-Hair styled naturally, wearing a minimal dark outfit with a contemporary aesthetic.
+Tóc tạo kiểu tự nhiên, mặc trang phục tối màu tối giản với phong cách thẩm mỹ đương đại.
 
-Clean studio background with subtle gradients.
+Nền studio sạch sẽ với các dải màu chuyển nhẹ nhàng.
 
-Professional photography, shallow depth of field, cinematic color grading, ultra-realistic, high detail, 4K quality.
+Nhiếp ảnh chuyên nghiệp, độ sâu trường ảnh nông, phân loại màu điện ảnh, siêu thực, chi tiết cao, chất lượng 4K.
 
-Aspect ratio: 3:4 "
+Tỷ lệ khung hình: 3:4"
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1160,25 +1276,25 @@ Aspect ratio: 3:4 "
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Chân dung tông màu kép điện ảnh từ ảnh đã tải lên - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Chân dung tông màu kép điện ảnh từ ảnh đã tải lên - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Chân dung tông màu kép điện ảnh từ ảnh đã tải lên - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Chân dung tông màu kép điện ảnh từ ảnh đã tải lên - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1188,22 +1304,22 @@ Aspect ratio: 3:4 "
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22A%20cinematic%20studio%20portrait%20of%20the%20person%20in%20the%20uploaded%20photo%2C%20framed%20from%20the%20chest%20up%2C%20facing%20the%20camera%20with%20a%20calm%2C%20confident%20presence.%0A%0ADramatic%20dual-tone%20lighting%20with%20cool%20teal%20and%20warm%20golden%20tones%20creating%20a%20modern%2C%20cinematic%20mood.%0A%0ANatural%20skin%20texture%2C%20sharp%20focus%20on%20the%20eyes%2C%20soft%20shadows%2C%20and%20smooth%20color%20transitions.%0A%0AHair%20styled%20naturally%2C%20wearing%20a%20minimal%20dark%20outfit%20with%20a%20contemporary%20aesthetic.%0A%0AClean%20studio%20background%20with%20subtle%20gradients.%0A%0AProfessional%20photography%2C%20shallow%20depth%20of%20field%2C%20cinematic%20color%20grading%2C%20ultra-realistic%2C%20high%20detail%2C%204K%20quality.%0A%0AAspect%20ratio%3A%203%3A4%20%22)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22M%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20ch%E1%BB%A5p%20trong%20studio%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20trong%20%E1%BA%A3nh%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn%2C%20ch%E1%BB%A5p%20t%E1%BB%AB%20ng%E1%BB%B1c%20tr%E1%BB%9F%20l%C3%AAn%2C%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh%20v%E1%BB%9Bi%20v%E1%BA%BB%20%C4%91i%E1%BB%81m%20t%C4%A9nh%2C%20t%E1%BB%B1%20tin.%0A%0A%C3%81nh%20s%C3%A1ng%20hai%20t%C3%B4ng%20m%C3%A0u%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20v%E1%BB%9Bi%20t%C3%B4ng%20xanh%20m%C3%B2ng%20k%C3%A9t%20m%C3%A1t%20m%E1%BA%BB%20v%C3%A0%20t%C3%B4ng%20v%C3%A0ng%20%E1%BA%A5m%20%C3%A1p%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%0A%0AK%E1%BA%BFt%20c%E1%BA%A5u%20da%20t%E1%BB%B1%20nhi%C3%AAn%2C%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20%C4%91%C3%B4i%20m%E1%BA%AFt%2C%20%C4%91%E1%BB%95%20b%C3%B3ng%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20chuy%E1%BB%83n%20m%C3%A0u%20m%C6%B0%E1%BB%A3t%20m%C3%A0.%0A%0AT%C3%B3c%20t%E1%BA%A1o%20ki%E1%BB%83u%20t%E1%BB%B1%20nhi%C3%AAn%2C%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20t%E1%BB%91i%20m%C3%A0u%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20th%E1%BA%A9m%20m%E1%BB%B9%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i.%0A%0AN%E1%BB%81n%20studio%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%E1%BB%9Bi%20c%C3%A1c%20d%E1%BA%A3i%20m%C3%A0u%20chuy%E1%BB%83n%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0ANhi%E1%BA%BFp%20%E1%BA%A3nh%20chuy%C3%AAn%20nghi%E1%BB%87p%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20ph%C3%A2n%20lo%E1%BA%A1i%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20si%C3%AAu%20th%E1%BB%B1c%2C%20chi%20ti%E1%BA%BFt%20cao%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%204K.%0A%0AT%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%3A%203%3A4%22)**
 
 ---
 
-### No. 25: Moody Cinematic Portrait with Motion Blur
+### No. 25: Chân dung điện ảnh u ám với hiệu ứng làm mờ chuyển động
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A detailed prompt for generating a cinematic, high-contrast portrait of a young male model in a black suit, featuring harsh directional lighting, a tense expression, and a horizontal motion blur effect slicing across the face.
+Một lời nhắc chi tiết để tạo ra bức chân dung điện ảnh, có độ tương phản cao của một người mẫu nam trẻ tuổi trong bộ vest đen, với ánh sáng định hướng gắt, biểu cảm căng thẳng và hiệu ứng làm mờ chuyển động ngang cắt ngang khuôn mặt.
 
 #### 📝 Câu lệnh
 
 ```
-Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+Tạo một bức chân dung điện ảnh đầy tâm trạng về một người mẫu nam trẻ tuổi với làn da sáng, mái tóc gợn sóng mềm mại, mặc bộ vest đen vừa vặn với áo sơ mi tối màu, đứng trước phông nền đen, ánh sáng định hướng mạnh từ bên trái tạo bóng sâu, người mẫu nhìn thẳng với đôi mắt sắc sảo và quai hàm căng thẳng, một tay nắm lấy cổ áo gần cổ, hiệu ứng làm mờ chuyển động cắt ngang khuôn mặt theo chiều ngang từ trái sang phải, hòa trộn các vệt sáng với tông màu hổ phách và be trầm, độ tương phản sắc nét giữa các vùng tĩnh và vùng mờ, tông màu biên tập cách điệu với hạt phim tinh tế và độ chuyển màu mềm mại, không làm mịn kỹ thuật số hay tạo cảm giác nhựa, kết cấu da và bóng đổ nguyên vẹn, biểu cảm đầy cảm xúc, vầng sáng quanh tóc, chi tiết nền tối thiểu.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1211,13 +1327,13 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Chân dung điện ảnh u ám với hiệu ứng làm mờ chuyển động - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Chân dung điện ảnh u ám với hiệu ứng làm mờ chuyển động - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1227,22 +1343,22 @@ Generate a moody cinematic portrait of a young male model with light skin, soft 
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20%C4%91%E1%BA%A7y%20t%C3%A2m%20tr%E1%BA%A1ng%20v%E1%BB%81%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20nam%20tr%E1%BA%BB%20tu%E1%BB%95i%20v%E1%BB%9Bi%20l%C3%A0n%20da%20s%C3%A1ng%2C%20m%C3%A1i%20t%C3%B3c%20g%E1%BB%A3n%20s%C3%B3ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20m%E1%BA%B7c%20b%E1%BB%99%20vest%20%C4%91en%20v%E1%BB%ABa%20v%E1%BA%B7n%20v%E1%BB%9Bi%20%C3%A1o%20s%C6%A1%20mi%20t%E1%BB%91i%20m%C3%A0u%2C%20%C4%91%E1%BB%A9ng%20tr%C6%B0%E1%BB%9Bc%20ph%C3%B4ng%20n%E1%BB%81n%20%C4%91en%2C%20%C3%A1nh%20s%C3%A1ng%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1nh%20t%E1%BB%AB%20b%C3%AAn%20tr%C3%A1i%20t%E1%BA%A1o%20b%C3%B3ng%20s%C3%A2u%2C%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20nh%C3%ACn%20th%E1%BA%B3ng%20v%E1%BB%9Bi%20%C4%91%C3%B4i%20m%E1%BA%AFt%20s%E1%BA%AFc%20s%E1%BA%A3o%20v%C3%A0%20quai%20h%C3%A0m%20c%C4%83ng%20th%E1%BA%B3ng%2C%20m%E1%BB%99t%20tay%20n%E1%BA%AFm%20l%E1%BA%A5y%20c%E1%BB%95%20%C3%A1o%20g%E1%BA%A7n%20c%E1%BB%95%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20c%E1%BA%AFt%20ngang%20khu%C3%B4n%20m%E1%BA%B7t%20theo%20chi%E1%BB%81u%20ngang%20t%E1%BB%AB%20tr%C3%A1i%20sang%20ph%E1%BA%A3i%2C%20h%C3%B2a%20tr%E1%BB%99n%20c%C3%A1c%20v%E1%BB%87t%20s%C3%A1ng%20v%E1%BB%9Bi%20t%C3%B4ng%20m%C3%A0u%20h%E1%BB%95%20ph%C3%A1ch%20v%C3%A0%20be%20tr%E1%BA%A7m%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20s%E1%BA%AFc%20n%C3%A9t%20gi%E1%BB%AFa%20c%C3%A1c%20v%C3%B9ng%20t%C4%A9nh%20v%C3%A0%20v%C3%B9ng%20m%E1%BB%9D%2C%20t%C3%B4ng%20m%C3%A0u%20bi%C3%AAn%20t%E1%BA%ADp%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20v%E1%BB%9Bi%20h%E1%BA%A1t%20phim%20tinh%20t%E1%BA%BF%20v%C3%A0%20%C4%91%E1%BB%99%20chuy%E1%BB%83n%20m%C3%A0u%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20kh%C3%B4ng%20l%C3%A0m%20m%E1%BB%8Bn%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20hay%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20nh%E1%BB%B1a%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%20nguy%C3%AAn%20v%E1%BA%B9n%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20x%C3%BAc%2C%20v%E1%BA%A7ng%20s%C3%A1ng%20quanh%20t%C3%B3c%2C%20chi%20ti%E1%BA%BFt%20n%E1%BB%81n%20t%E1%BB%91i%20thi%E1%BB%83u.)**
 
 ---
 
-### No. 26: Retro Vintage Portrait from Reference Photo
+### No. 26: Chân Dung Cổ Điển Phong Cách Retro Từ Ảnh Tham Chiếu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt for creating a retro, vintage, grainy, but bright portrait based on an uploaded reference picture. It focuses on maintaining the exact facial features and likeness of the subject while placing them in a natural outdoor setting under soft, desaturated lighting.
+Một lời nhắc để tạo ra một bức chân dung cổ điển, hoài cổ, có hạt nhưng sáng sủa dựa trên một bức ảnh tham chiếu đã tải lên. Nó tập trung vào việc duy trì chính xác các đặc điểm khuôn mặt và sự giống nhau của đối tượng trong khi đặt họ vào một khung cảnh ngoài trời tự nhiên dưới ánh sáng dịu, bão hòa thấp.
 
 #### 📝 Câu lệnh
 
 ```
-Create a retro vintage grainy but bright image of the reference picture. Use the uploaded image as exact facial reference, keeping the same features, proportions, and likeness. wearing a loose white shirt and dark trousers, is sitting on the ground with his back against the trunk of a bare tree. His eyes are closed and his head is tilted back slightly. He is in a grassy field with a line of trees in the background under a clear sky. The lighting is natural and soft, with a slightly desaturated color palette. keep my face 100% same as in reference image
+Tạo một hình ảnh cổ điển, nhiễu hạt nhưng sáng sủa từ ảnh tham chiếu. Sử dụng hình ảnh đã tải lên làm tham chiếu khuôn mặt chính xác, giữ nguyên các đặc điểm, tỷ lệ và sự giống nhau. Mặc một chiếc áo sơ mi trắng rộng và quần tối màu, anh ấy đang ngồi trên mặt đất, lưng tựa vào thân cây trần trụi. Mắt anh ấy nhắm và đầu hơi ngửa ra sau. Anh ấy đang ở trên một cánh đồng cỏ với hàng cây ở phía sau dưới bầu trời quang đãng. Ánh sáng tự nhiên và dịu nhẹ, với bảng màu hơi giảm độ bão hòa. Giữ khuôn mặt của tôi giống 100% như trong hình ảnh tham chiếu.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1250,25 +1366,25 @@ Create a retro vintage grainy but bright image of the reference picture. Use the
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Chân Dung Cổ Điển Phong Cách Retro Từ Ảnh Tham Chiếu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Chân Dung Cổ Điển Phong Cách Retro Từ Ảnh Tham Chiếu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Chân Dung Cổ Điển Phong Cách Retro Từ Ảnh Tham Chiếu - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Chân Dung Cổ Điển Phong Cách Retro Từ Ảnh Tham Chiếu - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1278,26 +1394,26 @@ Create a retro vintage grainy but bright image of the reference picture. Use the
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Create%20a%20retro%20vintage%20grainy%20but%20bright%20image%20of%20the%20reference%20picture.%20Use%20the%20uploaded%20image%20as%20exact%20facial%20reference%2C%20keeping%20the%20same%20features%2C%20proportions%2C%20and%20likeness.%20wearing%20a%20loose%20white%20shirt%20and%20dark%20trousers%2C%20is%20sitting%20on%20the%20ground%20with%20his%20back%20against%20the%20trunk%20of%20a%20bare%20tree.%20His%20eyes%20are%20closed%20and%20his%20head%20is%20tilted%20back%20slightly.%20He%20is%20in%20a%20grassy%20field%20with%20a%20line%20of%20trees%20in%20the%20background%20under%20a%20clear%20sky.%20The%20lighting%20is%20natural%20and%20soft%2C%20with%20a%20slightly%20desaturated%20color%20palette.%20keep%20my%20face%20100%25%20same%20as%20in%20reference%20image)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20nhi%E1%BB%85u%20h%E1%BA%A1t%20nh%C6%B0ng%20s%C3%A1ng%20s%E1%BB%A7a%20t%E1%BB%AB%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.%20S%E1%BB%AD%20d%E1%BB%A5ng%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn%20l%C3%A0m%20tham%20chi%E1%BA%BFu%20khu%C3%B4n%20m%E1%BA%B7t%20ch%C3%ADnh%20x%C3%A1c%2C%20gi%E1%BB%AF%20nguy%C3%AAn%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%2C%20t%E1%BB%B7%20l%E1%BB%87%20v%C3%A0%20s%E1%BB%B1%20gi%E1%BB%91ng%20nhau.%20M%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20s%C6%A1%20mi%20tr%E1%BA%AFng%20r%E1%BB%99ng%20v%C3%A0%20qu%E1%BA%A7n%20t%E1%BB%91i%20m%C3%A0u%2C%20anh%20%E1%BA%A5y%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%2C%20l%C6%B0ng%20t%E1%BB%B1a%20v%C3%A0o%20th%C3%A2n%20c%C3%A2y%20tr%E1%BA%A7n%20tr%E1%BB%A5i.%20M%E1%BA%AFt%20anh%20%E1%BA%A5y%20nh%E1%BA%AFm%20v%C3%A0%20%C4%91%E1%BA%A7u%20h%C6%A1i%20ng%E1%BB%ADa%20ra%20sau.%20Anh%20%E1%BA%A5y%20%C4%91ang%20%E1%BB%9F%20tr%C3%AAn%20m%E1%BB%99t%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20c%E1%BB%8F%20v%E1%BB%9Bi%20h%C3%A0ng%20c%C3%A2y%20%E1%BB%9F%20ph%C3%ADa%20sau%20d%C6%B0%E1%BB%9Bi%20b%E1%BA%A7u%20tr%E1%BB%9Di%20quang%20%C4%91%C3%A3ng.%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20d%E1%BB%8Bu%20nh%E1%BA%B9%2C%20v%E1%BB%9Bi%20b%E1%BA%A3ng%20m%C3%A0u%20h%C6%A1i%20gi%E1%BA%A3m%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a.%20Gi%E1%BB%AF%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20t%C3%B4i%20gi%E1%BB%91ng%20100%25%20nh%C6%B0%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.)**
 
 ---
 
-### No. 27: VTuber Gaming Thumbnail Creation Prompt
+### No. 27: Lời nhắc tạo hình thu nhỏ chơi game VTuber
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-A multi-step conversational prompt used to refine an image generation request for a VTuber gaming stream thumbnail. The initial request asks for a character (based on an uploaded image) to be shown intensely focused on a game controller, maintaining their style and outfit. The subsequent steps refine the character's appearance, requesting them to be more delicate, cuter, with a smaller bust size and long sleeves, and finally correcting a text error in the generated image.
+Một lời nhắc hội thoại nhiều bước được sử dụng để tinh chỉnh yêu cầu tạo hình ảnh cho hình thu nhỏ của luồng trò chơi VTuber. Yêu cầu ban đầu là hiển thị một nhân vật (dựa trên hình ảnh đã tải lên) đang tập trung cao độ vào bộ điều khiển trò chơi, giữ nguyên phong cách và trang phục của họ. Các bước tiếp theo tinh chỉnh ngoại hình của nhân vật, yêu cầu họ trông thanh tú hơn, dễ thương hơn, với vòng một nhỏ hơn và tay áo dài, và cuối cùng là sửa lỗi văn bản trong hình ảnh đã tạo.
 
 #### 📝 Câu lệnh
 
 ```
-Maintain the character's style and outfit, change the scene to them intensely gripping a game controller, and create a thumbnail image in the style of a fictional VTuber's game stream.
+Giữ nguyên phong cách và trang phục của nhân vật, thay đổi cảnh thành nhân vật đang nắm chặt bộ điều khiển trò chơi một cách căng thẳng, và tạo hình ảnh thu nhỏ theo phong cách của một buổi phát trực tiếp trò chơi của VTuber hư cấu.
 
-They look a bit too robust, so please make them more delicate and cute. Also, the bust size should be more modest, and the sleeves should be long sleeves.
+Họ trông hơi quá mạnh mẽ, vì vậy hãy làm cho họ tinh tế và dễ thương hơn. Ngoài ra, kích thước vòng một nên khiêm tốn hơn, và tay áo nên là tay áo dài.
 
-Fix the collapsed 'Ge' in the top left corner.
+Sửa lỗi "Ge" bị sập ở góc trên bên trái.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1305,19 +1421,19 @@ Fix the collapsed 'Ge' in the top left corner.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="Lời nhắc tạo hình thu nhỏ chơi game VTuber - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="Lời nhắc tạo hình thu nhỏ chơi game VTuber - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="Lời nhắc tạo hình thu nhỏ chơi game VTuber - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -1327,22 +1443,22 @@ Fix the collapsed 'Ge' in the top left corner.
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Maintain%20the%20character's%20style%20and%20outfit%2C%20change%20the%20scene%20to%20them%20intensely%20gripping%20a%20game%20controller%2C%20and%20create%20a%20thumbnail%20image%20in%20the%20style%20of%20a%20fictional%20VTuber's%20game%20stream.%0A%0AThey%20look%20a%20bit%20too%20robust%2C%20so%20please%20make%20them%20more%20delicate%20and%20cute.%20Also%2C%20the%20bust%20size%20should%20be%20more%20modest%2C%20and%20the%20sleeves%20should%20be%20long%20sleeves.%0A%0AFix%20the%20collapsed%20'Ge'%20in%20the%20top%20left%20corner.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Gi%E1%BB%AF%20nguy%C3%AAn%20phong%20c%C3%A1ch%20v%C3%A0%20trang%20ph%E1%BB%A5c%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%2C%20thay%20%C4%91%E1%BB%95i%20c%E1%BA%A3nh%20th%C3%A0nh%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91ang%20n%E1%BA%AFm%20ch%E1%BA%B7t%20b%E1%BB%99%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20tr%C3%B2%20ch%C6%A1i%20m%E1%BB%99t%20c%C3%A1ch%20c%C4%83ng%20th%E1%BA%B3ng%2C%20v%C3%A0%20t%E1%BA%A1o%20h%C3%ACnh%20%E1%BA%A3nh%20thu%20nh%E1%BB%8F%20theo%20phong%20c%C3%A1ch%20c%E1%BB%A7a%20m%E1%BB%99t%20bu%E1%BB%95i%20ph%C3%A1t%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20tr%C3%B2%20ch%C6%A1i%20c%E1%BB%A7a%20VTuber%20h%C6%B0%20c%E1%BA%A5u.%0A%0AH%E1%BB%8D%20tr%C3%B4ng%20h%C6%A1i%20qu%C3%A1%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20v%C3%AC%20v%E1%BA%ADy%20h%C3%A3y%20l%C3%A0m%20cho%20h%E1%BB%8D%20tinh%20t%E1%BA%BF%20v%C3%A0%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20h%C6%A1n.%20Ngo%C3%A0i%20ra%2C%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20v%C3%B2ng%20m%E1%BB%99t%20n%C3%AAn%20khi%C3%AAm%20t%E1%BB%91n%20h%C6%A1n%2C%20v%C3%A0%20tay%20%C3%A1o%20n%C3%AAn%20l%C3%A0%20tay%20%C3%A1o%20d%C3%A0i.%0A%0AS%E1%BB%ADa%20l%E1%BB%97i%20%22Ge%22%20b%E1%BB%8B%20s%E1%BA%ADp%20%E1%BB%9F%20g%C3%B3c%20tr%C3%AAn%20b%C3%AAn%20tr%C3%A1i.)**
 
 ---
 
-### No. 28: Monochrome Studio Portrait with Dramatic Lighting
+### No. 28: Chân dung Studio Đơn sắc với Ánh sáng Kịch tính
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A detailed prompt for generating a high-contrast, black and white studio portrait of a man, focusing on minimal lighting and deep shadows to create a calm, confident, and cinematic mood.
+Một lời nhắc chi tiết để tạo ra một bức chân dung studio đen trắng, độ tương phản cao của một người đàn ông, tập trung vào ánh sáng tối thiểu và bóng đổ sâu để tạo ra một tâm trạng bình tĩnh, tự tin và đậm chất điện ảnh.
 
 #### 📝 Câu lệnh
 
 ```
-Create a monochrome studio portrait of a man. Use minimal lighting with soft falloff so the focus stays entirely on him, with subtle gradients and deep shadows shaping his face. The composition should be a tight-medium shot against a clean, distraction-free background. He’s dressed in a casual, stylish outfit—like a simple tee or sweatshirt with light texture that works well in black and white. The overall mood should feel calm and confident, with a pleasing, balanced vibe. Render it in high-contrast black and white with crisp details, smooth tones, and a subtle cinematic depth.
+Tạo một bức chân dung phòng thu đơn sắc của một người đàn ông. Sử dụng ánh sáng tối thiểu với độ chuyển mềm mại để tiêu điểm hoàn toàn tập trung vào anh ấy, với các sắc độ tinh tế và bóng đổ sâu định hình khuôn mặt anh ấy. Bố cục nên là một cảnh cận trung (tight-medium shot) trên nền sạch, không gây xao nhãng. Anh ấy mặc một bộ trang phục thường ngày, sành điệu—như một chiếc áo phông đơn giản hoặc áo nỉ có họa tiết nhẹ nhàng, phù hợp với ảnh đen trắng. Tâm trạng tổng thể nên toát lên sự điềm tĩnh và tự tin, với một cảm giác dễ chịu, cân bằng. Kết xuất nó bằng đen trắng có độ tương phản cao với các chi tiết sắc nét, tông màu mượt mà và độ sâu điện ảnh tinh tế.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1350,13 +1466,13 @@ Create a monochrome studio portrait of a man. Use minimal lighting with soft fal
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Chân dung Studio Đơn sắc với Ánh sáng Kịch tính - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Chân dung Studio Đơn sắc với Ánh sáng Kịch tính - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1366,22 +1482,22 @@ Create a monochrome studio portrait of a man. Use minimal lighting with soft fal
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Create%20a%20monochrome%20studio%20portrait%20of%20a%20man.%20Use%20minimal%20lighting%20with%20soft%20falloff%20so%20the%20focus%20stays%20entirely%20on%20him%2C%20with%20subtle%20gradients%20and%20deep%20shadows%20shaping%20his%20face.%20The%20composition%20should%20be%20a%20tight-medium%20shot%20against%20a%20clean%2C%20distraction-free%20background.%20He%E2%80%99s%20dressed%20in%20a%20casual%2C%20stylish%20outfit%E2%80%94like%20a%20simple%20tee%20or%20sweatshirt%20with%20light%20texture%20that%20works%20well%20in%20black%20and%20white.%20The%20overall%20mood%20should%20feel%20calm%20and%20confident%2C%20with%20a%20pleasing%2C%20balanced%20vibe.%20Render%20it%20in%20high-contrast%20black%20and%20white%20with%20crisp%20details%2C%20smooth%20tones%2C%20and%20a%20subtle%20cinematic%20depth.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20ph%C3%B2ng%20thu%20%C4%91%C6%A1n%20s%E1%BA%AFc%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20%C3%B4ng.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%91i%20thi%E1%BB%83u%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20chuy%E1%BB%83n%20m%E1%BB%81m%20m%E1%BA%A1i%20%C4%91%E1%BB%83%20ti%C3%AAu%20%C4%91i%E1%BB%83m%20ho%C3%A0n%20to%C3%A0n%20t%E1%BA%ADp%20trung%20v%C3%A0o%20anh%20%E1%BA%A5y%2C%20v%E1%BB%9Bi%20c%C3%A1c%20s%E1%BA%AFc%20%C4%91%E1%BB%99%20tinh%20t%E1%BA%BF%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%20s%C3%A2u%20%C4%91%E1%BB%8Bnh%20h%C3%ACnh%20khu%C3%B4n%20m%E1%BA%B7t%20anh%20%E1%BA%A5y.%20B%E1%BB%91%20c%E1%BB%A5c%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20c%E1%BA%ADn%20trung%20(tight-medium%20shot)%20tr%C3%AAn%20n%E1%BB%81n%20s%E1%BA%A1ch%2C%20kh%C3%B4ng%20g%C3%A2y%20xao%20nh%C3%A3ng.%20Anh%20%E1%BA%A5y%20m%E1%BA%B7c%20m%E1%BB%99t%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20th%C6%B0%E1%BB%9Dng%20ng%C3%A0y%2C%20s%C3%A0nh%20%C4%91i%E1%BB%87u%E2%80%94nh%C6%B0%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20ph%C3%B4ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20ho%E1%BA%B7c%20%C3%A1o%20n%E1%BB%89%20c%C3%B3%20h%E1%BB%8Da%20ti%E1%BA%BFt%20nh%E1%BA%B9%20nh%C3%A0ng%2C%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20%E1%BA%A3nh%20%C4%91en%20tr%E1%BA%AFng.%20T%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20n%C3%AAn%20to%C3%A1t%20l%C3%AAn%20s%E1%BB%B1%20%C4%91i%E1%BB%81m%20t%C4%A9nh%20v%C3%A0%20t%E1%BB%B1%20tin%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20c%E1%BA%A3m%20gi%C3%A1c%20d%E1%BB%85%20ch%E1%BB%8Bu%2C%20c%C3%A2n%20b%E1%BA%B1ng.%20K%E1%BA%BFt%20xu%E1%BA%A5t%20n%C3%B3%20b%E1%BA%B1ng%20%C4%91en%20tr%E1%BA%AFng%20c%C3%B3%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%20v%E1%BB%9Bi%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t%2C%20t%C3%B4ng%20m%C3%A0u%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20%C4%91%E1%BB%99%20s%C3%A2u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20tinh%20t%E1%BA%BF.)**
 
 ---
 
-### No. 29: Futuristic Architectural Landmarks based on Calculus Symbols
+### No. 29: Các Công Trình Kiến Trúc Tương Lai Dựa Trên Ký Hiệu Giải Tích
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt for generating a 2x2 grid of futuristic architectural landmarks, where each structure is based on an important calculus symbol. The scene is set in a utopian solarpunk city with bright, clean aesthetics.
+Một lời nhắc để tạo lưới 2x2 các công trình kiến trúc tương lai, trong đó mỗi công trình dựa trên một ký hiệu giải tích quan trọng. Bối cảnh là một thành phố solarpunk không tưởng với thẩm mỹ tươi sáng, sạch sẽ.
 
 #### 📝 Câu lệnh
 
 ```
-A 2x2 grid of 4 futuristic architectural landmarks based on important calculus symbols, Set in a utopian solarpunk city, bright midday sunlight, clean white materials, glass and steel, cyan sky, architectural photography, Lumion render, wide angle, high exposure, sense of scale
+Một lưới 2x2 gồm 4 công trình kiến trúc tương lai dựa trên các ký hiệu giải tích quan trọng, đặt trong một thành phố solarpunk không tưởng, ánh sáng mặt trời giữa trưa rực rỡ, vật liệu trắng tinh, kính và thép, bầu trời màu xanh lam, nhiếp ảnh kiến trúc, kết xuất Lumion, góc rộng, phơi sáng cao, cảm giác về quy mô
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1389,13 +1505,13 @@ A 2x2 grid of 4 futuristic architectural landmarks based on important calculus s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Các Công Trình Kiến Trúc Tương Lai Dựa Trên Ký Hiệu Giải Tích - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Các Công Trình Kiến Trúc Tương Lai Dựa Trên Ký Hiệu Giải Tích - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1405,66 +1521,66 @@ A 2x2 grid of 4 futuristic architectural landmarks based on important calculus s
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=A%202x2%20grid%20of%204%20futuristic%20architectural%20landmarks%20based%20on%20important%20calculus%20symbols%2C%20Set%20in%20a%20utopian%20solarpunk%20city%2C%20bright%20midday%20sunlight%2C%20clean%20white%20materials%2C%20glass%20and%20steel%2C%20cyan%20sky%2C%20architectural%20photography%2C%20Lumion%20render%2C%20wide%20angle%2C%20high%20exposure%2C%20sense%20of%20scale)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%202x2%20g%E1%BB%93m%204%20c%C3%B4ng%20tr%C3%ACnh%20ki%E1%BA%BFn%20tr%C3%BAc%20t%C6%B0%C6%A1ng%20lai%20d%E1%BB%B1a%20tr%C3%AAn%20c%C3%A1c%20k%C3%BD%20hi%E1%BB%87u%20gi%E1%BA%A3i%20t%C3%ADch%20quan%20tr%E1%BB%8Dng%2C%20%C4%91%E1%BA%B7t%20trong%20m%E1%BB%99t%20th%C3%A0nh%20ph%E1%BB%91%20solarpunk%20kh%C3%B4ng%20t%C6%B0%E1%BB%9Fng%2C%20%C3%A1nh%20s%C3%A1ng%20m%E1%BA%B7t%20tr%E1%BB%9Di%20gi%E1%BB%AFa%20tr%C6%B0a%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20v%E1%BA%ADt%20li%E1%BB%87u%20tr%E1%BA%AFng%20tinh%2C%20k%C3%ADnh%20v%C3%A0%20th%C3%A9p%2C%20b%E1%BA%A7u%20tr%E1%BB%9Di%20m%C3%A0u%20xanh%20lam%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20ki%E1%BA%BFn%20tr%C3%BAc%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%20Lumion%2C%20g%C3%B3c%20r%E1%BB%99ng%2C%20ph%C6%A1i%20s%C3%A1ng%20cao%2C%20c%E1%BA%A3m%20gi%C3%A1c%20v%E1%BB%81%20quy%20m%C3%B4)**
 
 ---
 
-### No. 30: Futuristic Fashion Editorial with Identity Preservation
+### No. 30: Biên tập Thời trang Tương lai với Bảo tồn Bản sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A highly structured JSON prompt for generating a photorealistic futuristic fashion editorial image. It mandates strict identity preservation, using the exact face and expression from an uploaded photo, while styling the subject in specific oversized clothing in a minimalist sky-blue studio.
+Một lời nhắc JSON có cấu trúc cao để tạo ra hình ảnh biên tập thời trang tương lai siêu thực. Nó yêu cầu bảo toàn nghiêm ngặt danh tính, sử dụng chính xác khuôn mặt và biểu cảm từ một bức ảnh đã tải lên, đồng thời tạo kiểu cho chủ thể trong trang phục quá khổ cụ thể trong một studio màu xanh da trời tối giản.
 
 #### 📝 Câu lệnh
 
 ```
 {
   "type": "image_generation_prompt",
-  "style": "fashion editorial x futuristic",
+  "style": "thời trang biên tập x tương lai",
   "identity_preservation": {
     "use_uploaded_image": true,
     "alter_face": false,
-    "notes": "Use the same face and hairstyle from the uploaded photo. Do not change facial features or facial expression."
+    "notes": "Sử dụng cùng khuôn mặt và kiểu tóc từ ảnh đã tải lên. Không thay đổi đặc điểm khuôn mặt hoặc biểu cảm khuôn mặt."
   },
   "subject": {
-    "gender": "female",
+    "gender": "nữ",
     "pose": {
-      "position": "seated",
-      "posture": "elegant and relaxed",
-      "expression": "unchanged from the reference image"
+      "position": "ngồi",
+      "posture": "thanh lịch và thư thái",
+      "expression": "không thay đổi so với ảnh tham chiếu"
     }
   },
   "wardrobe": {
-    "top": "oversized white sweatshirt",
-    "bottoms": "cloudy blue oversized combat jeans",
-    "footwear": "cloudy blue neutral sneakers or Nike sneakers",
-    "socks": "white ribbed socks"
+    "top": "áo nỉ trắng ngoại cỡ",
+    "bottoms": "quần jean combat ngoại cỡ màu xanh mây",
+    "footwear": "giày thể thao trung tính màu xanh mây hoặc giày thể thao Nike",
+    "socks": "tất gân màu trắng"
   },
   "environment": {
     "setting": "studio",
     "background": {
-      "color": "muted sky-blue tone",
-      "style": "clean, minimalist"
+      "color": "tông màu xanh da trời dịu",
+      "style": "sạch sẽ, tối giản"
     }
   },
   "lighting": {
-    "type": "soft cinematic glow",
+    "type": "ánh sáng điện ảnh mềm mại",
     "effects": [
-      "highlights skin texture",
-      "enhances fabric textures"
+      "làm nổi bật kết cấu da",
+      "tăng cường kết cấu vải"
     ]
   },
   "composition": {
-    "style": "editorial",
-    "focus": "model-centered with balanced framing"
+    "style": "biên tập",
+    "focus": "người mẫu ở trung tâm với bố cục cân bằng"
   },
   "quality": {
-    "realism": "photorealistic",
-    "detail_level": "high detail in skin and fabric"
+    "realism": "siêu thực",
+    "detail_level": "chi tiết cao ở da và vải"
   },
-  "output_goal": "Create a futuristic fashion editorial image of a woman seated with a relaxed posture in a sky-blue studio environment, preserving her exact facial identity and expression from the reference photo."
+  "output_goal": "Tạo một hình ảnh biên tập thời trang tương lai của một người phụ nữ đang ngồi với tư thế thư thái trong môi trường studio màu xanh da trời, giữ nguyên nhận dạng khuôn mặt và biểu cảm chính xác của cô ấy từ ảnh tham chiếu."
 }
 ```
 
@@ -1473,13 +1589,13 @@ A highly structured JSON prompt for generating a photorealistic futuristic fashi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Biên tập Thời trang Tương lai với Bảo tồn Bản sắc - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Biên tập Thời trang Tương lai với Bảo tồn Bản sắc - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1489,22 +1605,22 @@ A highly structured JSON prompt for generating a photorealistic futuristic fashi
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22fashion%20editorial%20x%20futuristic%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Use%20the%20same%20face%20and%20hairstyle%20from%20the%20uploaded%20photo.%20Do%20not%20change%20facial%20features%20or%20facial%20expression.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22female%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seated%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22elegant%20and%20relaxed%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22unchanged%20from%20the%20reference%20image%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22oversized%20white%20sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22cloudy%20blue%20oversized%20combat%20jeans%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22cloudy%20blue%20neutral%20sneakers%20or%20Nike%20sneakers%22%2C%0A%20%20%20%20%22socks%22%3A%20%22white%20ribbed%20socks%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22muted%20sky-blue%20tone%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22clean%2C%20minimalist%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22soft%20cinematic%20glow%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22highlights%20skin%20texture%22%2C%0A%20%20%20%20%20%20%22enhances%20fabric%20textures%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22editorial%22%2C%0A%20%20%20%20%22focus%22%3A%20%22model-centered%20with%20balanced%20framing%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22photorealistic%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22high%20detail%20in%20skin%20and%20fabric%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Create%20a%20futuristic%20fashion%20editorial%20image%20of%20a%20woman%20seated%20with%20a%20relaxed%20posture%20in%20a%20sky-blue%20studio%20environment%2C%20preserving%20her%20exact%20facial%20identity%20and%20expression%20from%20the%20reference%20photo.%22%0A%7D)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22th%E1%BB%9Di%20trang%20bi%C3%AAn%20t%E1%BA%ADp%20x%20t%C6%B0%C6%A1ng%20lai%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22S%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B9ng%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20ki%E1%BB%83u%20t%C3%B3c%20t%E1%BB%AB%20%E1%BA%A3nh%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn.%20Kh%C3%B4ng%20thay%20%C4%91%E1%BB%95i%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20ho%E1%BA%B7c%20bi%E1%BB%83u%20c%E1%BA%A3m%20khu%C3%B4n%20m%E1%BA%B7t.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22n%E1%BB%AF%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22ng%E1%BB%93i%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22thanh%20l%E1%BB%8Bch%20v%C3%A0%20th%C6%B0%20th%C3%A1i%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22kh%C3%B4ng%20thay%20%C4%91%E1%BB%95i%20so%20v%E1%BB%9Bi%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22%C3%A1o%20n%E1%BB%89%20tr%E1%BA%AFng%20ngo%E1%BA%A1i%20c%E1%BB%A1%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22qu%E1%BA%A7n%20jean%20combat%20ngo%E1%BA%A1i%20c%E1%BB%A1%20m%C3%A0u%20xanh%20m%C3%A2y%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22gi%C3%A0y%20th%E1%BB%83%20thao%20trung%20t%C3%ADnh%20m%C3%A0u%20xanh%20m%C3%A2y%20ho%E1%BA%B7c%20gi%C3%A0y%20th%E1%BB%83%20thao%20Nike%22%2C%0A%20%20%20%20%22socks%22%3A%20%22t%E1%BA%A5t%20g%C3%A2n%20m%C3%A0u%20tr%E1%BA%AFng%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22t%C3%B4ng%20m%C3%A0u%20xanh%20da%20tr%E1%BB%9Di%20d%E1%BB%8Bu%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22s%E1%BA%A1ch%20s%E1%BA%BD%2C%20t%E1%BB%91i%20gi%E1%BA%A3n%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20m%E1%BB%81m%20m%E1%BA%A1i%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%22%2C%0A%20%20%20%20%20%20%22t%C4%83ng%20c%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%E1%BA%A3i%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22bi%C3%AAn%20t%E1%BA%ADp%22%2C%0A%20%20%20%20%22focus%22%3A%20%22ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20%E1%BB%9F%20trung%20t%C3%A2m%20v%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20c%C3%A2n%20b%E1%BA%B1ng%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22si%C3%AAu%20th%E1%BB%B1c%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22chi%20ti%E1%BA%BFt%20cao%20%E1%BB%9F%20da%20v%C3%A0%20v%E1%BA%A3i%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20bi%C3%AAn%20t%E1%BA%ADp%20th%E1%BB%9Di%20trang%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20%C4%91ang%20ng%E1%BB%93i%20v%E1%BB%9Bi%20t%C6%B0%20th%E1%BA%BF%20th%C6%B0%20th%C3%A1i%20trong%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20studio%20m%C3%A0u%20xanh%20da%20tr%E1%BB%9Di%2C%20gi%E1%BB%AF%20nguy%C3%AAn%20nh%E1%BA%ADn%20d%E1%BA%A1ng%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20c%C3%B4%20%E1%BA%A5y%20t%E1%BB%AB%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.%22%0A%7D)**
 
 ---
 
-### No. 31: Technical Prompt for 3x2 Robot Character Matrix
+### No. 31: Lời nhắc kỹ thuật cho ma trận ký tự robot 3x2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt designed to test the technical instruction following of image models by requesting a 3x2 matrix showing six different views (front, back, left, right, top, bottom) of a highly detailed robot character, emphasizing PBR quality.
+Một prompt được thiết kế để kiểm tra khả năng tuân thủ hướng dẫn kỹ thuật của các mô hình hình ảnh bằng cách yêu cầu một ma trận 3x2 hiển thị sáu góc nhìn khác nhau (trước, sau, trái, phải, trên, dưới) của một nhân vật robot có độ chi tiết cao, nhấn mạnh chất lượng PBR.
 
 #### 📝 Câu lệnh
 
 ```
-Create a 3x2 matrix of a robot character. Show front, back, left, right, top, and bottom view in each matrix. The PBR should be at highest quality and the character design should be highly detailed.
+Tạo ma trận 3x2 của một nhân vật robot. Hiển thị các góc nhìn phía trước, phía sau, bên trái, bên phải, phía trên và phía dưới trong mỗi ma trận. PBR phải có chất lượng cao nhất và thiết kế nhân vật phải cực kỳ chi tiết.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1512,13 +1628,13 @@ Create a 3x2 matrix of a robot character. Show front, back, left, right, top, an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="Lời nhắc kỹ thuật cho ma trận ký tự robot 3x2 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="Lời nhắc kỹ thuật cho ma trận ký tự robot 3x2 - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1528,23 +1644,23 @@ Create a 3x2 matrix of a robot character. Show front, back, left, right, top, an
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Create%20a%203x2%20matrix%20of%20a%20robot%20character.%20Show%20front%2C%20back%2C%20left%2C%20right%2C%20top%2C%20and%20bottom%20view%20in%20each%20matrix.%20The%20PBR%20should%20be%20at%20highest%20quality%20and%20the%20character%20design%20should%20be%20highly%20detailed.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=T%E1%BA%A1o%20ma%20tr%E1%BA%ADn%203x2%20c%E1%BB%A7a%20m%E1%BB%99t%20nh%C3%A2n%20v%E1%BA%ADt%20robot.%20Hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%A1c%20g%C3%B3c%20nh%C3%ACn%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%2C%20ph%C3%ADa%20sau%2C%20b%C3%AAn%20tr%C3%A1i%2C%20b%C3%AAn%20ph%E1%BA%A3i%2C%20ph%C3%ADa%20tr%C3%AAn%20v%C3%A0%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20trong%20m%E1%BB%97i%20ma%20tr%E1%BA%ADn.%20PBR%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao%20nh%E1%BA%A5t%20v%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C3%A2n%20v%E1%BA%ADt%20ph%E1%BA%A3i%20c%E1%BB%B1c%20k%E1%BB%B3%20chi%20ti%E1%BA%BFt.)**
 
 ---
 
-### No. 32: Ultra-Realistic Editorial Portrait based on Reference Image
+### No. 32: Chân dung biên tập siêu thực tế dựa trên hình ảnh tham khảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A detailed prompt for generating an ultra-realistic editorial portrait of an Indian woman in a specific Sabyasachi black saree, requiring the model to maintain the pose, framing, and mood of an uploaded reference image while specifying jewelry, hair, makeup, lighting, and aesthetic style.
+Một lời nhắc chi tiết để tạo ra một bức chân dung biên tập siêu thực của một phụ nữ Ấn Độ trong bộ saree đen Sabyasachi cụ thể, yêu cầu người mẫu giữ nguyên tư thế, bố cục và tâm trạng của hình ảnh tham chiếu đã tải lên, đồng thời chỉ định trang sức, kiểu tóc, trang điểm, ánh sáng và phong cách thẩm mỹ.
 
 #### 📝 Câu lệnh
 
 ```
-Using the reference image, create an ultra-realistic editorial portrait of an Indian woman in a signature Sabyasachi black saree with subtle antique gold detailing. Keep the same pose, framing, and mood as the reference. Heavy gold choker, center-parted loose hair, minimal makeup with kohl eyes. Dark textured studio background, low-key dramatic lighting.
-Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI gloss.
+Sử dụng hình ảnh tham khảo, tạo một bức chân dung biên tập siêu thực của một phụ nữ Ấn Độ trong bộ saree đen đặc trưng của Sabyasachi với các chi tiết vàng cổ điển tinh tế. Giữ nguyên tư thế, bố cục và tâm trạng như hình ảnh tham khảo. Vòng cổ choker vàng nặng, tóc rẽ ngôi giữa buông xõa, trang điểm tối giản với mắt kẻ kohl. Nền studio tối màu có họa tiết, ánh sáng kịch tính, ít sáng.
+Phong cách Sabyasachi vượt thời gian, tinh tế, cổ điển. Không có phong cách hiện đại, không có vẻ bóng bẩy của AI.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1552,7 +1668,7 @@ Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI glo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Ultra-Realistic Editorial Portrait based on Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Chân dung biên tập siêu thực tế dựa trên hình ảnh tham khảo - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1562,22 +1678,22 @@ Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI glo
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=Using%20the%20reference%20image%2C%20create%20an%20ultra-realistic%20editorial%20portrait%20of%20an%20Indian%20woman%20in%20a%20signature%20Sabyasachi%20black%20saree%20with%20subtle%20antique%20gold%20detailing.%20Keep%20the%20same%20pose%2C%20framing%2C%20and%20mood%20as%20the%20reference.%20Heavy%20gold%20choker%2C%20center-parted%20loose%20hair%2C%20minimal%20makeup%20with%20kohl%20eyes.%20Dark%20textured%20studio%20background%2C%20low-key%20dramatic%20lighting.%0ATimeless%2C%20restrained%2C%20classic%20Sabyasachi%20aesthetic.%20No%20modern%20styling%2C%20no%20AI%20gloss.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o%2C%20t%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20bi%C3%AAn%20t%E1%BA%ADp%20si%C3%AAu%20th%E1%BB%B1c%20c%E1%BB%A7a%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20%E1%BA%A4n%20%C4%90%E1%BB%99%20trong%20b%E1%BB%99%20saree%20%C4%91en%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20Sabyasachi%20v%E1%BB%9Bi%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20v%C3%A0ng%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20tinh%20t%E1%BA%BF.%20Gi%E1%BB%AF%20nguy%C3%AAn%20t%C6%B0%20th%E1%BA%BF%2C%20b%E1%BB%91%20c%E1%BB%A5c%20v%C3%A0%20t%C3%A2m%20tr%E1%BA%A1ng%20nh%C6%B0%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o.%20V%C3%B2ng%20c%E1%BB%95%20choker%20v%C3%A0ng%20n%E1%BA%B7ng%2C%20t%C3%B3c%20r%E1%BA%BD%20ng%C3%B4i%20gi%E1%BB%AFa%20bu%C3%B4ng%20x%C3%B5a%2C%20trang%20%C4%91i%E1%BB%83m%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%E1%BB%9Bi%20m%E1%BA%AFt%20k%E1%BA%BB%20kohl.%20N%E1%BB%81n%20studio%20t%E1%BB%91i%20m%C3%A0u%20c%C3%B3%20h%E1%BB%8Da%20ti%E1%BA%BFt%2C%20%C3%A1nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20%C3%ADt%20s%C3%A1ng.%0APhong%20c%C3%A1ch%20Sabyasachi%20v%C6%B0%E1%BB%A3t%20th%E1%BB%9Di%20gian%2C%20tinh%20t%E1%BA%BF%2C%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20Kh%C3%B4ng%20c%C3%B3%20phong%20c%C3%A1ch%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20kh%C3%B4ng%20c%C3%B3%20v%E1%BA%BB%20b%C3%B3ng%20b%E1%BA%A9y%20c%E1%BB%A7a%20AI.)**
 
 ---
 
-### No. 33: Challenging Emotional Conveyance Prompt
+### No. 33: Thử thách về gợi ý truyền tải cảm xúc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-A prompt designed to test the AI's ability to convey complex, contradictory emotions simultaneously: a person accepting an award with tears of joy while receiving devastating news via an earpiece.
+Một câu lệnh được thiết kế để kiểm tra khả năng của AI trong việc truyền tải đồng thời những cảm xúc phức tạp, mâu thuẫn: một người nhận giải thưởng với những giọt nước mắt hạnh phúc trong khi nhận tin tức tàn khốc qua tai nghe.
 
 #### 📝 Câu lệnh
 
 ```
-""A person standing at a podium, accepting an award with tears of joy streaming down their face, while simultaneously receiving news via an earpiece that a loved one has fallen seriously ill. Their expression should convey both elation and heartbreak. Natural light photo, photo realism,4k, ultra realistic."
+"Một người đang đứng trên bục, nhận giải thưởng với những giọt nước mắt hạnh phúc lăn dài trên má, đồng thời nhận được tin qua tai nghe rằng người thân yêu của họ đã lâm bệnh nặng. Biểu cảm của họ nên thể hiện cả niềm vui sướng và sự đau khổ. Ảnh chụp ánh sáng tự nhiên, chân thực như ảnh, 4k, siêu thực."
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1585,19 +1701,19 @@ A prompt designed to test the AI's ability to convey complex, contradictory emot
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Challenging Emotional Conveyance Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Thử thách về gợi ý truyền tải cảm xúc - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Thử thách về gợi ý truyền tải cảm xúc - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Thử thách về gợi ý truyền tải cảm xúc - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -1607,7 +1723,7 @@ A prompt designed to test the AI's ability to convey complex, contradictory emot
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22%22A%20person%20standing%20at%20a%20podium%2C%20accepting%20an%20award%20with%20tears%20of%20joy%20streaming%20down%20their%20face%2C%20while%20simultaneously%20receiving%20news%20via%20an%20earpiece%20that%20a%20loved%20one%20has%20fallen%20seriously%20ill.%20Their%20expression%20should%20convey%20both%20elation%20and%20heartbreak.%20Natural%20light%20photo%2C%20photo%20realism%2C4k%2C%20ultra%20realistic.%22)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%22M%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20%C4%91%E1%BB%A9ng%20tr%C3%AAn%20b%E1%BB%A5c%2C%20nh%E1%BA%ADn%20gi%E1%BA%A3i%20th%C6%B0%E1%BB%9Fng%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20gi%E1%BB%8Dt%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20h%E1%BA%A1nh%20ph%C3%BAc%20l%C4%83n%20d%C3%A0i%20tr%C3%AAn%20m%C3%A1%2C%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20tin%20qua%20tai%20nghe%20r%E1%BA%B1ng%20ng%C6%B0%E1%BB%9Di%20th%C3%A2n%20y%C3%AAu%20c%E1%BB%A7a%20h%E1%BB%8D%20%C4%91%C3%A3%20l%C3%A2m%20b%E1%BB%87nh%20n%E1%BA%B7ng.%20Bi%E1%BB%83u%20c%E1%BA%A3m%20c%E1%BB%A7a%20h%E1%BB%8D%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20c%E1%BA%A3%20ni%E1%BB%81m%20vui%20s%C6%B0%E1%BB%9Bng%20v%C3%A0%20s%E1%BB%B1%20%C4%91au%20kh%E1%BB%95.%20%E1%BA%A2nh%20ch%E1%BB%A5p%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%2C%204k%2C%20si%C3%AAu%20th%E1%BB%B1c.%22)**
 
 ---
 
@@ -1650,18 +1766,18 @@ biến cô ấy thành một nhân vật anime
 
 ---
 
-### No. 35: GPT Image 1.5 Prompt: Chiến binh Pendekar người Java trên chiến trường
+### No. 35: Chiến trường Java thế kỷ 12 lúc bình minh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc rất chi tiết được thiết kế cho GPT Image 1.5, yêu cầu tạo ra một hình ảnh điện ảnh, chân thực như ảnh chụp về một Pendekar người Java đang đi bộ qua chiến trường thế kỷ 12 vào lúc bình minh, nhấn mạnh tông màu trầm, kết cấu thô ráp và chủ nghĩa hiện thực theo phong cách tài liệu.
+Một lời nhắc chi tiết cao, mang tính điện ảnh cho GPT Image 1.5, yêu cầu kết xuất chân thực như ảnh chụp, theo phong cách tài liệu về một chiến trường Java thế kỷ 12 vào lúc bình minh, tập trung vào một Pendekar Jawa (chiến binh Java) trong hình bóng, nhấn mạnh sự trang nghiêm lịch sử và sức mạnh tinh thần.
 
 #### 📝 Câu lệnh
 
 ```
-Một chiến trường lúc bình minh ở Java thế kỷ 12, được thể hiện bằng tông màu trầm, nhạt. Khói bay là là trên mặt đất đầy sẹo và thảm thực vật bị tàn phá. Một Pendekar Jawa hiện lên trong bóng tối, bước đi với sự kiên định bình tĩnh khi mặt trời mọc xuyên qua màn sương mù phía sau anh ta. Anh ta mặc trang phục chiến binh truyền thống của người Java: khăn ikat đội đầu, quần áo rộng và một thanh kiếm bên hông mang những dấu hiệu tinh tế của trận chiến và sự lãnh đạo. Nén ống kính dài, kết cấu sần sùi, ánh sáng điện ảnh, chủ nghĩa hiện thực kiểu tài liệu, gợi lên sự trang trọng lịch sử, sự thách thức thầm lặng và sức mạnh tinh thần.
+Một chiến trường lúc bình minh ở Java thế kỷ 12, được thể hiện bằng tông màu trầm, nhạt. Khói bay là là trên mặt đất đầy sẹo và thảm thực vật đổ nát. Một Pendekar Jawa xuất hiện dưới dạng bóng đen, bước tới với sự quyết tâm bình tĩnh khi mặt trời mọc xuyên qua màn sương mù phía sau anh ta. Anh ta mặc trang phục chiến binh Java truyền thống với khăn ikat đội đầu, quần áo rộng và một thanh kiếm bên hông mang những dấu hiệu tinh tế của trận chiến và sự lãnh đạo. Nén ống kính dài, kết cấu sần sùi, ánh sáng điện ảnh, chủ nghĩa hiện thực kiểu tài liệu, gợi lên sự trang nghiêm lịch sử, sự bất chấp thầm lặng và sức mạnh tinh thần.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1669,7 +1785,7 @@ Một chiến trường lúc bình minh ở Java thế kỷ 12, được thể h
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT Image 1.5 Prompt: Chiến binh Pendekar người Java trên chiến trường - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="Chiến trường Java thế kỷ 12 lúc bình minh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1679,7 +1795,7 @@ Một chiến trường lúc bình minh ở Java thế kỷ 12, được thể h
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20chi%E1%BA%BFn%20tr%C6%B0%E1%BB%9Dng%20l%C3%BAc%20b%C3%ACnh%20minh%20%E1%BB%9F%20Java%20th%E1%BA%BF%20k%E1%BB%B7%2012%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20b%E1%BA%B1ng%20t%C3%B4ng%20m%C3%A0u%20tr%E1%BA%A7m%2C%20nh%E1%BA%A1t.%20Kh%C3%B3i%20bay%20l%C3%A0%20l%C3%A0%20tr%C3%AAn%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%20%C4%91%E1%BA%A7y%20s%E1%BA%B9o%20v%C3%A0%20th%E1%BA%A3m%20th%E1%BB%B1c%20v%E1%BA%ADt%20b%E1%BB%8B%20t%C3%A0n%20ph%C3%A1.%20M%E1%BB%99t%20Pendekar%20Jawa%20hi%E1%BB%87n%20l%C3%AAn%20trong%20b%C3%B3ng%20t%E1%BB%91i%2C%20b%C6%B0%E1%BB%9Bc%20%C4%91i%20v%E1%BB%9Bi%20s%E1%BB%B1%20ki%C3%AAn%20%C4%91%E1%BB%8Bnh%20b%C3%ACnh%20t%C4%A9nh%20khi%20m%E1%BA%B7t%20tr%E1%BB%9Di%20m%E1%BB%8Dc%20xuy%C3%AAn%20qua%20m%C3%A0n%20s%C6%B0%C6%A1ng%20m%C3%B9%20ph%C3%ADa%20sau%20anh%20ta.%20Anh%20ta%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20chi%E1%BA%BFn%20binh%20truy%E1%BB%81n%20th%E1%BB%91ng%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20Java%3A%20kh%C4%83n%20ikat%20%C4%91%E1%BB%99i%20%C4%91%E1%BA%A7u%2C%20qu%E1%BA%A7n%20%C3%A1o%20r%E1%BB%99ng%20v%C3%A0%20m%E1%BB%99t%20thanh%20ki%E1%BA%BFm%20b%C3%AAn%20h%C3%B4ng%20mang%20nh%E1%BB%AFng%20d%E1%BA%A5u%20hi%E1%BB%87u%20tinh%20t%E1%BA%BF%20c%E1%BB%A7a%20tr%E1%BA%ADn%20chi%E1%BA%BFn%20v%C3%A0%20s%E1%BB%B1%20l%C3%A3nh%20%C4%91%E1%BA%A1o.%20N%C3%A9n%20%E1%BB%91ng%20k%C3%ADnh%20d%C3%A0i%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20s%E1%BA%A7n%20s%C3%B9i%2C%20%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%20ki%E1%BB%83u%20t%C3%A0i%20li%E1%BB%87u%2C%20g%E1%BB%A3i%20l%C3%AAn%20s%E1%BB%B1%20trang%20tr%E1%BB%8Dng%20l%E1%BB%8Bch%20s%E1%BB%AD%2C%20s%E1%BB%B1%20th%C3%A1ch%20th%E1%BB%A9c%20th%E1%BA%A7m%20l%E1%BA%B7ng%20v%C3%A0%20s%E1%BB%A9c%20m%E1%BA%A1nh%20tinh%20th%E1%BA%A7n.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20chi%E1%BA%BFn%20tr%C6%B0%E1%BB%9Dng%20l%C3%BAc%20b%C3%ACnh%20minh%20%E1%BB%9F%20Java%20th%E1%BA%BF%20k%E1%BB%B7%2012%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20b%E1%BA%B1ng%20t%C3%B4ng%20m%C3%A0u%20tr%E1%BA%A7m%2C%20nh%E1%BA%A1t.%20Kh%C3%B3i%20bay%20l%C3%A0%20l%C3%A0%20tr%C3%AAn%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%20%C4%91%E1%BA%A7y%20s%E1%BA%B9o%20v%C3%A0%20th%E1%BA%A3m%20th%E1%BB%B1c%20v%E1%BA%ADt%20%C4%91%E1%BB%95%20n%C3%A1t.%20M%E1%BB%99t%20Pendekar%20Jawa%20xu%E1%BA%A5t%20hi%E1%BB%87n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20b%C3%B3ng%20%C4%91en%2C%20b%C6%B0%E1%BB%9Bc%20t%E1%BB%9Bi%20v%E1%BB%9Bi%20s%E1%BB%B1%20quy%E1%BA%BFt%20t%C3%A2m%20b%C3%ACnh%20t%C4%A9nh%20khi%20m%E1%BA%B7t%20tr%E1%BB%9Di%20m%E1%BB%8Dc%20xuy%C3%AAn%20qua%20m%C3%A0n%20s%C6%B0%C6%A1ng%20m%C3%B9%20ph%C3%ADa%20sau%20anh%20ta.%20Anh%20ta%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20chi%E1%BA%BFn%20binh%20Java%20truy%E1%BB%81n%20th%E1%BB%91ng%20v%E1%BB%9Bi%20kh%C4%83n%20ikat%20%C4%91%E1%BB%99i%20%C4%91%E1%BA%A7u%2C%20qu%E1%BA%A7n%20%C3%A1o%20r%E1%BB%99ng%20v%C3%A0%20m%E1%BB%99t%20thanh%20ki%E1%BA%BFm%20b%C3%AAn%20h%C3%B4ng%20mang%20nh%E1%BB%AFng%20d%E1%BA%A5u%20hi%E1%BB%87u%20tinh%20t%E1%BA%BF%20c%E1%BB%A7a%20tr%E1%BA%ADn%20chi%E1%BA%BFn%20v%C3%A0%20s%E1%BB%B1%20l%C3%A3nh%20%C4%91%E1%BA%A1o.%20N%C3%A9n%20%E1%BB%91ng%20k%C3%ADnh%20d%C3%A0i%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20s%E1%BA%A7n%20s%C3%B9i%2C%20%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%20ki%E1%BB%83u%20t%C3%A0i%20li%E1%BB%87u%2C%20g%E1%BB%A3i%20l%C3%AAn%20s%E1%BB%B1%20trang%20nghi%C3%AAm%20l%E1%BB%8Bch%20s%E1%BB%AD%2C%20s%E1%BB%B1%20b%E1%BA%A5t%20ch%E1%BA%A5p%20th%E1%BA%A7m%20l%E1%BA%B7ng%20v%C3%A0%20s%E1%BB%A9c%20m%E1%BA%A1nh%20tinh%20th%E1%BA%A7n.)**
 
 ---
 
@@ -1914,18 +2030,18 @@ Một mô tả gợi ý để tạo ra hình ảnh kinh dị về một hành la
 
 ---
 
-### No. 43: Cá Mập Chơi Piano Y như Thật
+### No. 43: Lời Nhắc Chuẩn Để Tạo Hình Cá Mập Chơi Piano Chân Thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc cụ thể, hơi kỳ quặc được dùng để đánh giá tính chân thực và sáng tạo của các mô hình tạo ảnh khác nhau, yêu cầu tạo ra hình ảnh một con cá mập thực tế đang chơi piano.
+Một câu lệnh benchmark đơn giản được sử dụng để kiểm tra tính chân thực và độ tuân thủ của các mô hình AI mới, đặc biệt yêu cầu một con cá mập thực tế đang chơi đàn piano.
 
 #### 📝 Câu lệnh
 
 ```
-một con cá mập thực tế đang chơi đàn piano
+một con cá mập thực tế đang chơi piano 🦈
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1933,7 +2049,7 @@ một con cá mập thực tế đang chơi đàn piano
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="Cá Mập Chơi Piano Y như Thật - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="Lời Nhắc Chuẩn Để Tạo Hình Cá Mập Chơi Piano Chân Thực - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1943,7 +2059,7 @@ một con cá mập thực tế đang chơi đàn piano
 - **Đã xuất bản:** 18 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=m%E1%BB%99t%20con%20c%C3%A1%20m%E1%BA%ADp%20th%E1%BB%B1c%20t%E1%BA%BF%20%C4%91ang%20ch%C6%A1i%20%C4%91%C3%A0n%20piano)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=m%E1%BB%99t%20con%20c%C3%A1%20m%E1%BA%ADp%20th%E1%BB%B1c%20t%E1%BA%BF%20%C4%91ang%20ch%C6%A1i%20piano%20%F0%9F%A6%88)**
 
 ---
 
@@ -2478,19 +2594,21 @@ Vẽ một bức biếm họa châm biếm theo phong cách của {argument name
 
 ---
 
-### No. 55: Gợi ý chụp ảnh macro để có kết cấu và chi tiết
+### No. 55: Lời nhắc tạo ảnh siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một ví dụ nhắc lệnh thứ tư được thiết kế cho GPT Image 1.5, tập trung vào ảnh chụp macro để làm nổi bật kết cấu, chi tiết và hiệu ứng của ánh sáng cụ thể trên một vật thể thông thường.
+Bốn ví dụ về lời nhắc được cung cấp để minh họa khả năng của GPT Image 1.5, tập trung vào tính chân thực, ảnh chụp thực tế và logic vật lý rõ ràng, sử dụng logic máy ảnh và bao gồm các điểm không hoàn hảo để có kết quả cực kỳ chân thực.
 
 #### 📝 Câu lệnh
 
 ```
-Một bức ảnh macro về bề mặt của một chiếc {argument name="object type" default="ví da"} cũ kỹ, đã sờn rách. Kết cấu của da phải thể hiện những vết nứt nhỏ, vết xước và sự đổi màu nhẹ do sử dụng. Ánh sáng gắt và định hướng, chiếu từ bên cạnh để tối đa hóa khả năng hiển thị của kết cấu và các khuyết điểm. Độ sâu trường ảnh cực kỳ nông, chỉ tập trung vào một khu vực nhỏ, trung tâm của bề mặt ví. Chụp bằng {argument name="lens type" default="ống kính macro 100mm"}.
+1. Một bức ảnh cận cảnh, macro về một quả dâu tây duy nhất, chín mọng hoàn hảo nằm trên một tảng đá ẩm ướt, phủ rêu trong một khoảng rừng trống. Ánh sáng dịu nhẹ và khuếch tán, gợi lên buổi sáng sớm. Những giọt nước nhỏ li ti bám trên bề mặt quả dâu tây. Chụp bằng ống kính macro 100mm, f/4.
+2. Một bức ảnh đường phố chụp ngẫu nhiên, thiếu sáng ở khu Shinjuku của Tokyo vào ban đêm. Một nhân viên văn phòng, hơi mờ do chuyển động, đang bước đi dưới ánh đèn neon. Mưa vừa tạnh, phản chiếu ánh đèn trên mặt đường nhựa ướt. Thẩm mỹ phim hạt, ống kính 35mm, ISO cao.
+3. Một bức ảnh kiến trúc về mặt tiền một tòa nhà bê tông theo phong cách Brutalist, tập trung vào kết cấu và các họa tiết hình học. Mặt trời thấp, đổ bóng dài, sắc nét làm nổi bật những đường nét thô cứng của công trình. Một chú chim nhỏ đậu trên gờ tường, tạo cảm giác về tỷ lệ. Ảnh đen trắng, định dạng medium format.
+4. Một bức ảnh tĩnh vật về một cuốn nhật ký bìa da sờn cũ và một cây bút máy cổ điển đặt trên bàn gỗ. Những hạt bụi li ti lơ lửng trong một tia nắng chiếu ngang khung cảnh. Lớp da cho thấy dấu hiệu của thời gian và sự sử dụng, với những vết xước nhỏ và các vùng bạc màu. Độ sâu trường ảnh nông, ánh sáng tự nhiên.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2498,25 +2616,25 @@ Một bức ảnh macro về bề mặt của một chiếc {argument name="obje
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="Gợi ý chụp ảnh macro để có kết cấu và chi tiết - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="Lời nhắc tạo ảnh siêu thực - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="Gợi ý chụp ảnh macro để có kết cấu và chi tiết - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="Lời nhắc tạo ảnh siêu thực - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="Gợi ý chụp ảnh macro để có kết cấu và chi tiết - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="Lời nhắc tạo ảnh siêu thực - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="Gợi ý chụp ảnh macro để có kết cấu và chi tiết - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="Lời nhắc tạo ảnh siêu thực - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -2526,7 +2644,7 @@ Một bức ảnh macro về bề mặt của một chiếc {argument name="obje
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20macro%20v%E1%BB%81%20b%E1%BB%81%20m%E1%BA%B7t%20c%E1%BB%A7a%20m%E1%BB%99t%20chi%E1%BA%BFc%20%7Bargument%20name%3D%22object%20type%22%20default%3D%22v%C3%AD%20da%22%7D%20c%C5%A9%20k%E1%BB%B9%2C%20%C4%91%C3%A3%20s%E1%BB%9Dn%20r%C3%A1ch.%20K%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20da%20ph%E1%BA%A3i%20th%E1%BB%83%20hi%E1%BB%87n%20nh%E1%BB%AFng%20v%E1%BA%BFt%20n%E1%BB%A9t%20nh%E1%BB%8F%2C%20v%E1%BA%BFt%20x%C6%B0%E1%BB%9Bc%20v%C3%A0%20s%E1%BB%B1%20%C4%91%E1%BB%95i%20m%C3%A0u%20nh%E1%BA%B9%20do%20s%E1%BB%AD%20d%E1%BB%A5ng.%20%C3%81nh%20s%C3%A1ng%20g%E1%BA%AFt%20v%C3%A0%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%2C%20chi%E1%BA%BFu%20t%E1%BB%AB%20b%C3%AAn%20c%E1%BA%A1nh%20%C4%91%E1%BB%83%20t%E1%BB%91i%20%C4%91a%20h%C3%B3a%20kh%E1%BA%A3%20n%C4%83ng%20hi%E1%BB%83n%20th%E1%BB%8B%20c%E1%BB%A7a%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%C3%A0%20c%C3%A1c%20khuy%E1%BA%BFt%20%C4%91i%E1%BB%83m.%20%C4%90%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20c%E1%BB%B1c%20k%E1%BB%B3%20n%C3%B4ng%2C%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%E1%BB%99t%20khu%20v%E1%BB%B1c%20nh%E1%BB%8F%2C%20trung%20t%C3%A2m%20c%E1%BB%A7a%20b%E1%BB%81%20m%E1%BA%B7t%20v%C3%AD.%20Ch%E1%BB%A5p%20b%E1%BA%B1ng%20%7Bargument%20name%3D%22lens%20type%22%20default%3D%22%E1%BB%91ng%20k%C3%ADnh%20macro%20100mm%22%7D.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=1.%20M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%2C%20macro%20v%E1%BB%81%20m%E1%BB%99t%20qu%E1%BA%A3%20d%C3%A2u%20t%C3%A2y%20duy%20nh%E1%BA%A5t%2C%20ch%C3%ADn%20m%E1%BB%8Dng%20ho%C3%A0n%20h%E1%BA%A3o%20n%E1%BA%B1m%20tr%C3%AAn%20m%E1%BB%99t%20t%E1%BA%A3ng%20%C4%91%C3%A1%20%E1%BA%A9m%20%C6%B0%E1%BB%9Bt%2C%20ph%E1%BB%A7%20r%C3%AAu%20trong%20m%E1%BB%99t%20kho%E1%BA%A3ng%20r%E1%BB%ABng%20tr%E1%BB%91ng.%20%C3%81nh%20s%C3%A1ng%20d%E1%BB%8Bu%20nh%E1%BA%B9%20v%C3%A0%20khu%E1%BA%BFch%20t%C3%A1n%2C%20g%E1%BB%A3i%20l%C3%AAn%20bu%E1%BB%95i%20s%C3%A1ng%20s%E1%BB%9Bm.%20Nh%E1%BB%AFng%20gi%E1%BB%8Dt%20n%C6%B0%E1%BB%9Bc%20nh%E1%BB%8F%20li%20ti%20b%C3%A1m%20tr%C3%AAn%20b%E1%BB%81%20m%E1%BA%B7t%20qu%E1%BA%A3%20d%C3%A2u%20t%C3%A2y.%20Ch%E1%BB%A5p%20b%E1%BA%B1ng%20%E1%BB%91ng%20k%C3%ADnh%20macro%20100mm%2C%20f%2F4.%0A2.%20M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20ch%E1%BB%A5p%20ng%E1%BA%ABu%20nhi%C3%AAn%2C%20thi%E1%BA%BFu%20s%C3%A1ng%20%E1%BB%9F%20khu%20Shinjuku%20c%E1%BB%A7a%20Tokyo%20v%C3%A0o%20ban%20%C4%91%C3%AAm.%20M%E1%BB%99t%20nh%C3%A2n%20vi%C3%AAn%20v%C4%83n%20ph%C3%B2ng%2C%20h%C6%A1i%20m%E1%BB%9D%20do%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%2C%20%C4%91ang%20b%C6%B0%E1%BB%9Bc%20%C4%91i%20d%C6%B0%E1%BB%9Bi%20%C3%A1nh%20%C4%91%C3%A8n%20neon.%20M%C6%B0a%20v%E1%BB%ABa%20t%E1%BA%A1nh%2C%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20%C3%A1nh%20%C4%91%C3%A8n%20tr%C3%AAn%20m%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%9Dng%20nh%E1%BB%B1a%20%C6%B0%E1%BB%9Bt.%20Th%E1%BA%A9m%20m%E1%BB%B9%20phim%20h%E1%BA%A1t%2C%20%E1%BB%91ng%20k%C3%ADnh%2035mm%2C%20ISO%20cao.%0A3.%20M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ki%E1%BA%BFn%20tr%C3%BAc%20v%E1%BB%81%20m%E1%BA%B7t%20ti%E1%BB%81n%20m%E1%BB%99t%20t%C3%B2a%20nh%C3%A0%20b%C3%AA%20t%C3%B4ng%20theo%20phong%20c%C3%A1ch%20Brutalist%2C%20t%E1%BA%ADp%20trung%20v%C3%A0o%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%C3%A0%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20h%C3%ACnh%20h%E1%BB%8Dc.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20th%E1%BA%A5p%2C%20%C4%91%E1%BB%95%20b%C3%B3ng%20d%C3%A0i%2C%20s%E1%BA%AFc%20n%C3%A9t%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20nh%E1%BB%AFng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20th%C3%B4%20c%E1%BB%A9ng%20c%E1%BB%A7a%20c%C3%B4ng%20tr%C3%ACnh.%20M%E1%BB%99t%20ch%C3%BA%20chim%20nh%E1%BB%8F%20%C4%91%E1%BA%ADu%20tr%C3%AAn%20g%E1%BB%9D%20t%C6%B0%E1%BB%9Dng%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20v%E1%BB%81%20t%E1%BB%B7%20l%E1%BB%87.%20%E1%BA%A2nh%20%C4%91en%20tr%E1%BA%AFng%2C%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20medium%20format.%0A4.%20M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20t%C4%A9nh%20v%E1%BA%ADt%20v%E1%BB%81%20m%E1%BB%99t%20cu%E1%BB%91n%20nh%E1%BA%ADt%20k%C3%BD%20b%C3%ACa%20da%20s%E1%BB%9Dn%20c%C5%A9%20v%C3%A0%20m%E1%BB%99t%20c%C3%A2y%20b%C3%BAt%20m%C3%A1y%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20b%C3%A0n%20g%E1%BB%97.%20Nh%E1%BB%AFng%20h%E1%BA%A1t%20b%E1%BB%A5i%20li%20ti%20l%C6%A1%20l%E1%BB%ADng%20trong%20m%E1%BB%99t%20tia%20n%E1%BA%AFng%20chi%E1%BA%BFu%20ngang%20khung%20c%E1%BA%A3nh.%20L%E1%BB%9Bp%20da%20cho%20th%E1%BA%A5y%20d%E1%BA%A5u%20hi%E1%BB%87u%20c%E1%BB%A7a%20th%E1%BB%9Di%20gian%20v%C3%A0%20s%E1%BB%B1%20s%E1%BB%AD%20d%E1%BB%A5ng%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20v%E1%BA%BFt%20x%C6%B0%E1%BB%9Bc%20nh%E1%BB%8F%20v%C3%A0%20c%C3%A1c%20v%C3%B9ng%20b%E1%BA%A1c%20m%C3%A0u.%20%C4%90%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn.)**
 
 ---
 
@@ -2953,46 +3071,7 @@ Chuyển thành cảnh đêm với ánh sáng ấm áp.
 
 ---
 
-### No. 67: Gợi ý chụp ảnh phim: Thiếu niên trượt ván
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc tạo ảnh chi tiết được thiết kế để so sánh GPT Image 1.5 và Midjourney V7, tập trung vào cảnh động một thiếu niên da đen đang thực hiện các động tác trượt ván trong công viên trượt ván phủ đầy hình vẽ graffiti, được kết xuất với tính thẩm mỹ của phim Kodak Professional PORTRA 400.
-
-#### 📝 Câu lệnh
-
-```
-Một thiếu niên da đen thực hiện các pha trượt ván khó trong công viên trượt ván đầy hình vẽ graffiti, phim Kodak Professional PORTRA 400 --chaos 20 --ar 16:9 --seed 1500856893 --exp 30
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340414_8oj4xd_G8YXcGJb0AAj8iq.jpg" width="600" alt="Gợi ý chụp ảnh phim: Thiếu niên trượt ván - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035340327_ue93le_G8YXFZ8bwAE4BrX.jpg" width="600" alt="Gợi ý chụp ảnh phim: Thiếu niên trượt ván - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Johnny Wang](https://x.com/JohnnyWang8802)
-- **Nguồn:** [Twitter Post](https://x.com/JohnnyWang8802/status/2001313619544604693)
-- **Đã xuất bản:** 17 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20thi%E1%BA%BFu%20ni%C3%AAn%20da%20%C4%91en%20th%E1%BB%B1c%20hi%E1%BB%87n%20c%C3%A1c%20pha%20tr%C6%B0%E1%BB%A3t%20v%C3%A1n%20kh%C3%B3%20trong%20c%C3%B4ng%20vi%C3%AAn%20tr%C6%B0%E1%BB%A3t%20v%C3%A1n%20%C4%91%E1%BA%A7y%20h%C3%ACnh%20v%E1%BA%BD%20graffiti%2C%20phim%20Kodak%20Professional%20PORTRA%20400%20--chaos%2020%20--ar%2016%3A9%20--seed%201500856893%20--exp%2030)**
-
----
-
-### No. 68: Ảnh siêu thực về một bàn tay đeo vòng tay kim cương
+### No. 67: Ảnh siêu thực về một bàn tay đeo vòng tay kim cương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3031,7 +3110,7 @@ một bức ảnh siêu thực chụp bàn tay của một phụ nữ da trắng
 
 ---
 
-### No. 69: Cảnh lập trình của kỹ sư JS với văn bản cụ thể
+### No. 68: Cảnh lập trình của kỹ sư JS với văn bản cụ thể
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3065,7 +3144,7 @@ Tạo một hình ảnh về một kỹ sư JS đang học và viết code về 
 
 ---
 
-### No. 70: Lời nhắc tái tạo thần tượng đấu vật chuyên nghiệp Glitter-Bomb
+### No. 69: Lời nhắc tái tạo thần tượng đấu vật chuyên nghiệp Glitter-Bomb
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3105,7 +3184,7 @@ Sử dụng [subject image] làm tài liệu tham khảo, biến chúng thành m
 
 ---
 
-### No. 71: Lời nhắc chuyển đổi trang phục để tạo nhân vật
+### No. 70: Lời nhắc chuyển đổi trang phục để tạo nhân vật
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3150,40 +3229,7 @@ Người phụ nữ trong ảnh đầu tiên nên mặc hoặc đeo tất cả c
 
 ---
 
-### No. 72: Hình minh họa vector phẳng về một người phụ nữ đang làm việc
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo hình minh họa vector phẳng có hình một phụ nữ tóc vàng đang ngồi tại bàn làm việc và sử dụng máy tính xách tay của cô ấy, phù hợp cho thiết kế đồ họa hiện đại hoặc tài sản trang web.
-
-#### 📝 Câu lệnh
-
-```
-Hình minh họa vector phẳng một người phụ nữ tóc vàng đang ngồi làm việc trên máy tính xách tay tại bàn làm việc.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035313081_ppl256_G8YOe_hXEAAk25v.jpg" width="600" alt="Hình minh họa vector phẳng về một người phụ nữ đang làm việc - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [PromptlyAI](https://x.com/PromptlyAI_YT)
-- **Nguồn:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2001303013567181294)
-- **Đã xuất bản:** 17 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=H%C3%ACnh%20minh%20h%E1%BB%8Da%20vector%20ph%E1%BA%B3ng%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20t%C3%B3c%20v%C3%A0ng%20%C4%91ang%20ng%E1%BB%93i%20l%C3%A0m%20vi%E1%BB%87c%20tr%C3%AAn%20m%C3%A1y%20t%C3%ADnh%20x%C3%A1ch%20tay%20t%E1%BA%A1i%20b%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c.)**
-
----
-
-### No. 73: Cải thiện khả năng nhận diện các yếu tố bất đối xứng trong GPT Image 1.5
+### No. 71: Cải thiện khả năng nhận diện các yếu tố bất đối xứng trong GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3216,7 +3262,7 @@ Hãy cẩn thận để xác định đúng (và không nhầm lẫn) các yếu
 
 ---
 
-### No. 74: Ảnh chụp chân thực: Lời nhắc ảnh stock về một người phụ nữ
+### No. 72: Ảnh chụp chân thực: Lời nhắc ảnh stock về một người phụ nữ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3250,46 +3296,7 @@ cận cảnh một người phụ nữ dễ thương với mái tóc {argument n
 
 ---
 
-### No. 75: Áp phích bảng chữ cái tiếng Đức cho trẻ em
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc bằng tiếng Đức yêu cầu tạo một áp phích cho trẻ em học bảng chữ cái, có tất cả các chữ cái từ A đến Z, với một con vật tương ứng và tên của nó bên dưới mỗi chữ cái, được thể hiện bằng hình vẽ phong cách truyện tranh dễ thương.
-
-#### 📝 Câu lệnh
-
-```
-Một áp phích có tất cả các chữ cái trong bảng chữ cái từ A đến Z. Dưới mỗi chữ cái là một con vật có tên bắt đầu bằng chữ cái đó. Tên của con vật được viết bên dưới. Phong cách: vẽ dễ thương, kiểu truyện tranh. Đây là một áp phích mà trẻ em có thể dùng để học bảng chữ cái.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315861_c6ampx_G8YDG9MXUAAoUJV.jpg" width="600" alt="Áp phích bảng chữ cái tiếng Đức cho trẻ em - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035315879_oj5d3c_G8YDG9TWAAAYDlE.jpg" width="600" alt="Áp phích bảng chữ cái tiếng Đức cho trẻ em - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [smn Sk](https://x.com/smnSk241687)
-- **Nguồn:** [Twitter Post](https://x.com/smnSk241687/status/2001293727227105678)
-- **Đã xuất bản:** 17 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20c%C3%B3%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20ch%E1%BB%AF%20c%C3%A1i%20trong%20b%E1%BA%A3ng%20ch%E1%BB%AF%20c%C3%A1i%20t%E1%BB%AB%20A%20%C4%91%E1%BA%BFn%20Z.%20D%C6%B0%E1%BB%9Bi%20m%E1%BB%97i%20ch%E1%BB%AF%20c%C3%A1i%20l%C3%A0%20m%E1%BB%99t%20con%20v%E1%BA%ADt%20c%C3%B3%20t%C3%AAn%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20ch%E1%BB%AF%20c%C3%A1i%20%C4%91%C3%B3.%20T%C3%AAn%20c%E1%BB%A7a%20con%20v%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi.%20Phong%20c%C3%A1ch%3A%20v%E1%BA%BD%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20ki%E1%BB%83u%20truy%E1%BB%87n%20tranh.%20%C4%90%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20m%C3%A0%20tr%E1%BA%BB%20em%20c%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20%C4%91%E1%BB%83%20h%E1%BB%8Dc%20b%E1%BA%A3ng%20ch%E1%BB%AF%20c%C3%A1i.)**
-
----
-
-### No. 76: Người khổng lồ ngồi trên phố London
+### No. 73: Người khổng lồ ngồi trên phố London
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3328,7 +3335,7 @@ Cảnh quay siêu thực bằng drone góc rộng về một người đàn ông
 
 ---
 
-### No. 77: Chuyển Đổi Đồ Họa Thành Tranh Màu Nước Trong Suốt
+### No. 74: Chuyển Đổi Đồ Họa Thành Tranh Màu Nước Trong Suốt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3361,7 +3368,7 @@ Chuyển đổi nó thành một bức tranh màu nước trong suốt được 
 
 ---
 
-### No. 78: Lời nhắc về cuộc gặp gỡ giữa người máy và học sinh người cá
+### No. 75: Lời nhắc về cuộc gặp gỡ giữa người máy và học sinh người cá
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3400,7 +3407,7 @@ Cuộc gặp gỡ giữa một cậu bé người máy mặc gakuran (đồng ph
 
 ---
 
-### No. 79: Chuyển đổi đồ họa sang bản phác thảo chì
+### No. 76: Chuyển đổi đồ họa sang bản phác thảo chì
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3439,7 +3446,7 @@ Vui lòng chuyển đổi nó thành một bản thiết kế thô được phá
 
 ---
 
-### No. 80: Phong cảnh ven biển chi tiết từ trên không
+### No. 77: Phong cảnh ven biển chi tiết từ trên không
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3472,7 +3479,7 @@ Cảnh quay trên không được thực hiện bằng máy bay không người 
 
 ---
 
-### No. 81: Kiểm tra chỉnh sửa ảnh một phần và điều chỉnh tư thế trong GPT-Image-1.5
+### No. 78: Kiểm tra chỉnh sửa ảnh một phần và điều chỉnh tư thế trong GPT-Image-1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3526,7 +3533,7 @@ Người dùng cố gắng sửa đổi một hình ảnh đã tạo bằng các
 
 ---
 
-### No. 82: Kiểm tra mức độ tuân thủ nghiêm ngặt của lời nhắc trong GPT Image 1.5 so với Gemini
+### No. 79: Kiểm tra mức độ tuân thủ nghiêm ngặt của lời nhắc trong GPT Image 1.5 so với Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3583,7 +3590,7 @@ Xử lý văn bản / hệ thống phân cấp đồ họa thông tin
 
 ---
 
-### No. 83: Lời nhắc trực quan hóa cuộc tấn công của Troll Horde (tiếng Nhật)
+### No. 80: Lời nhắc trực quan hóa cuộc tấn công của Troll Horde (tiếng Nhật)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3616,7 +3623,7 @@ Hãy hình dung một thế giới bị tấn công bởi một bầy troll như
 
 ---
 
-### No. 84: Lời nhắc tạo Platybelodon chân thực
+### No. 81: Lời nhắc tạo Platybelodon chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3649,7 +3656,7 @@ tạo ảnh chân thực về Platybelodon, thực hiện mọi biện pháp ph�
 
 ---
 
-### No. 85: Chân Dung Biên Tập Trang Phục Di Sản Bền Bỉ
+### No. 82: Chân Dung Biên Tập Trang Phục Di Sản Bền Bỉ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3688,7 +3695,7 @@ Một lời nhắc rất cụ thể để tạo ra một bức chân dung biên 
 
 ---
 
-### No. 86: Lời nhắc chi tiết về chân dung huấn luyện chim ưng cho GPT Image 1.5
+### No. 83: Lời nhắc chi tiết về chân dung huấn luyện chim ưng cho GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3757,7 +3764,7 @@ Một lời nhắc cực kỳ chi tiết và có cấu trúc cao được thiế
 
 ---
 
-### No. 87: Tạo hình ảnh thời trang và thẩm mỹ với GPT Image 1.5
+### No. 84: Tạo hình ảnh thời trang và thẩm mỹ với GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3791,7 +3798,7 @@ Một người đàn ông mặc áo sơ mi trắng, quần tây đen và giày d
 
 ---
 
-### No. 88: Tạo Hình ảnh cho các Ngày Lễ Kỷ niệm của Nhật Bản
+### No. 85: Tạo Hình ảnh cho các Ngày Lễ Kỷ niệm của Nhật Bản
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3824,7 +3831,7 @@ Ngày Máy bay, Ngày Sữa chua Meiji Bulgaria, Ngày Wachifield, Lễ hội Ka
 
 ---
 
-### No. 89: Chỉnh sửa hình ảnh: Lời nhắc cho đường viền hàm, kính và hình dạng đầu
+### No. 86: Chỉnh sửa hình ảnh: Lời nhắc cho đường viền hàm, kính và hình dạng đầu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3869,7 +3876,7 @@ những gì tôi đánh dấu bằng đường màu đỏ: tạo đường viề
 
 ---
 
-### No. 90: Hướng dẫn chi tiết để phục hồi ảnh cũ bằng GPT Image 1.5
+### No. 87: Hướng dẫn chi tiết để phục hồi ảnh cũ bằng GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3989,7 +3996,7 @@ Một lời nhắc JSON có cấu trúc, chi tiết cao được thiết kế đ
 
 ---
 
-### No. 91: Áp phích về các thiết lập ánh sáng trong nhiếp ảnh
+### No. 88: Áp phích về các thiết lập ánh sáng trong nhiếp ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4022,7 +4029,7 @@ Tạo một poster liệt kê các thiết lập ánh sáng chính được sử
 
 ---
 
-### No. 92: Cảnh hoạt hình 3D thu nhỏ đẳng cự về New York
+### No. 89: Cảnh hoạt hình 3D thu nhỏ đẳng cự về New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4061,7 +4068,7 @@ Trình bày một cảnh hoạt hình 3D thu nhỏ, góc nhìn đẳng cự từ
 
 ---
 
-### No. 93: Yoruba Man with 'Pele' Tribal Marks Stress Test Prompt
+### No. 90: Yoruba Man with 'Pele' Tribal Marks Stress Test Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4100,7 +4107,7 @@ Chân dung siêu thực của một người đàn ông Oyo Yoruba với những
 
 ---
 
-### No. 94: Chỉnh sửa hình ảnh: Điều chỉnh bàn tay và bàn chân
+### No. 91: Chỉnh sửa hình ảnh: Điều chỉnh bàn tay và bàn chân
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4139,7 +4146,7 @@ Vui lòng sửa lại bàn tay trái và vẽ lại bàn chân trái, điều ch
 
 ---
 
-### No. 95: Hình ảnh 1.5 Lời nhắc cho thiết kế móc khóa
+### No. 92: Hình ảnh 1.5 Lời nhắc cho thiết kế móc khóa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4172,7 +4179,7 @@ Biến thành một chiếc móc khóa
 
 ---
 
-### No. 96: Tạo sticker chibi với nhiều tư thế và biểu cảm khác nhau
+### No. 93: Tạo sticker chibi với nhiều tư thế và biểu cảm khác nhau
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4211,7 +4218,7 @@ GPT Image 1.5 Tạo sticker phong cách chibi với nhiều trang phục, tư th
 
 ---
 
-### No. 97: Tái tạo một hình ảnh theo phong cách thế giới thực hoàn toàn
+### No. 94: Tái tạo một hình ảnh theo phong cách thế giới thực hoàn toàn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4250,7 +4257,7 @@ Tái tạo điều này trong một thế giới hoàn toàn có thật.
 
 ---
 
-### No. 98: Bầu trời thành phố tương lai lúc hoàng hôn
+### No. 95: Bầu trời thành phố tương lai lúc hoàng hôn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4283,7 +4290,7 @@ Một đường chân trời thành phố tương lai lúc hoàng hôn, với nh
 
 ---
 
-### No. 99: Biến đổi chủ thể theo phong cách Gothic Mỹ
+### No. 96: Biến đổi chủ thể theo phong cách Gothic Mỹ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4316,7 +4323,7 @@ Biến đổi các chủ thể theo phong cách "American Gothic" của Grant Wo
 
 ---
 
-### No. 100: Lời nhắc đơn giản cho hướng nhìn của chủ thể
+### No. 97: Lời nhắc đơn giản cho hướng nhìn của chủ thể
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4355,7 +4362,7 @@ Một câu lệnh đơn giản được sử dụng để kiểm tra khả năng
 
 ---
 
-### No. 101: Tạo ảnh thú vị từ ảnh tham chiếu
+### No. 98: Tạo ảnh thú vị từ ảnh tham chiếu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4400,7 +4407,7 @@ Vẽ một bức tranh siêu ngầu bằng cách sử dụng hình ảnh hai ng�
 
 ---
 
-### No. 102: JSON Prompt Cực Kỳ Chi Tiết cho Ảnh Tự Sướng Gương Tập Thể Dục Trong Nhà
+### No. 99: JSON Prompt Cực Kỳ Chi Tiết cho Ảnh Tự Sướng Gương Tập Thể Dục Trong Nhà
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4529,7 +4536,7 @@ Một JSON prompt cực kỳ chi tiết, có cấu trúc cho GPT 1.5, chỉ rõ 
 
 ---
 
-### No. 103: Sam Altman đi xe Scooty: Lời nhắc về Chủ nghĩa hiện thực điện ảnh
+### No. 100: Sam Altman đi xe Scooty: Lời nhắc về Chủ nghĩa hiện thực điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4568,7 +4575,7 @@ Sam Altman đang giữ thăng bằng một chiếc laptop khi lái xe tay ga, m�
 
 ---
 
-### No. 104: Thiết kế trang đích hiện đại cho Polyphonic
+### No. 101: Thiết kế trang đích hiện đại cho Polyphonic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4619,7 +4626,7 @@ tạo một trang đích hiện đại cho Polyphonic, với hình ảnh này b�
 
 ---
 
-### No. 105: Hình ảnh 4 ô của một tách trà rơi và vỡ
+### No. 102: Hình ảnh 4 ô của một tách trà rơi và vỡ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4659,7 +4666,7 @@ Một câu lệnh phức tạp yêu cầu một chuỗi 4 khung hình thể hi�
 
 ---
 
-### No. 106: Infographic Giải thích Dãy Fibonacci bằng Toán học và Code
+### No. 103: Infographic Giải thích Dãy Fibonacci bằng Toán học và Code
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4692,7 +4699,7 @@ Tạo một infographic giải thích cách thức hoạt động của dãy Fib
 
 ---
 
-### No. 107: Thiết kế giao diện người dùng trang web quà tặng Giáng sinh chế độ tối
+### No. 104: Thiết kế giao diện người dùng trang web quà tặng Giáng sinh chế độ tối
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4725,7 +4732,7 @@ Trang web quà tặng Giáng sinh chế độ tối. Giao diện người dùng 
 
 ---
 
-### No. 108: Ảnh tự sướng chớp nhoáng của Sam Altman
+### No. 105: Ảnh tự sướng chớp nhoáng của Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4764,7 +4771,7 @@ Một bức ảnh selfie bằng camera trước của Sam Altman, trong đó đ�
 
 ---
 
-### No. 109: Chỉnh sửa ảnh chân dung nghệ thuật cho bé gái (Chuyển đổi hình ảnh)
+### No. 106: Chỉnh sửa ảnh chân dung nghệ thuật cho bé gái (Chuyển đổi hình ảnh)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4816,7 +4823,7 @@ Vui lòng chỉnh sửa bức ảnh này mà không thay đổi khuôn mặt, bi
 
 ---
 
-### No. 110: Lời nhắc tổng hợp hình ảnh minh họa Takoyaki và nội thất cửa hàng
+### No. 107: Lời nhắc tổng hợp hình ảnh minh họa Takoyaki và nội thất cửa hàng
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4868,7 +4875,7 @@ Tổng hợp hình ảnh trông như được nhìn từ bên trong cửa hàng
 
 ---
 
-### No. 111: Tạo mô hình người chân thực từ ảnh
+### No. 108: Tạo mô hình người chân thực từ ảnh
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -4901,7 +4908,7 @@ Vui lòng tạo nó dưới dạng một bức tượng nhỏ trông giống nh�
 
 ---
 
-### No. 112: Ảnh selfie chân thực với các nhà lãnh đạo công nghệ
+### No. 109: Ảnh selfie chân thực với các nhà lãnh đạo công nghệ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4940,7 +4947,7 @@ Một bức ảnh selfie gương nghiệp dư thô mộc, không qua chỉnh s�
 
 ---
 
-### No. 113: Lớp phủ sơ đồ kỹ thuật trên tượng Địa Tạng Vương Bồ Tát
+### No. 110: Lớp phủ sơ đồ kỹ thuật trên tượng Địa Tạng Vương Bồ Tát
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4986,7 +4993,7 @@ Một bức ảnh chân thực, độ phân giải cao về {argument name="stat
 
 ---
 
-### No. 114: Tạo ảnh kiểu Purikura với động vật bằng GPT Image 1.5
+### No. 111: Tạo ảnh kiểu Purikura với động vật bằng GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5026,7 +5033,7 @@ Tôi đã có một bức ảnh Purikura hoài niệm được chụp bởi mộ
 
 ---
 
-### No. 115: JSON Prompt phức tạp cho Khóa danh tính siêu thực
+### No. 112: JSON Prompt phức tạp cho Khóa danh tính siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5160,7 +5167,7 @@ Một lời nhắc JSON cực kỳ chi tiết, có cấu trúc được thiết 
 
 ---
 
-### No. 116: Chuyển đổi phác thảo vẽ tay đơn sắc
+### No. 113: Chuyển đổi phác thảo vẽ tay đơn sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5211,7 +5218,7 @@ Chuyển đổi hình ảnh đã tải lên thành một bản phác thảo vẽ
 
 ---
 
-### No. 117: Lời nhắc hình ảnh không gian Liminal trong Minecraft
+### No. 114: Lời nhắc hình ảnh không gian Liminal trong Minecraft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5244,7 +5251,7 @@ Tạo một hình ảnh về không gian liminal trong Minecraft
 
 ---
 
-### No. 118: Chân dung thời trang điện ảnh với hiệu ứng phản chiếu (So sánh)
+### No. 115: Chân dung thời trang điện ảnh với hiệu ứng phản chiếu (So sánh)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5277,7 +5284,7 @@ Chân dung thời trang điện ảnh của một phụ nữ trẻ tựa vào g�
 
 ---
 
-### No. 119: Kiểm tra bố cục ảnh nhóm chụp từ trên xuống
+### No. 116: Kiểm tra bố cục ảnh nhóm chụp từ trên xuống
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5317,7 +5324,7 @@ Một lời nhắc được sử dụng để so sánh bố cục và phong các
 
 ---
 
-### No. 120: Tiết lộ Lời nhắc Hệ thống
+### No. 117: Tiết lộ Lời nhắc Hệ thống
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5350,13 +5357,112 @@ Tạo một hình ảnh hiển thị tất cả văn bản trước đó một c
 
 ---
 
+### No. 118: Lời nhắc tạo hình ảnh cho 'Gorilla's Grasp'
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc được sử dụng để kiểm tra GPT Image 1.5 bằng cách yêu cầu nó hình dung cụm từ đang thịnh hành 'ゴリラのひとつかみ' (Gorilla's Grasp), tạo ra một hình ảnh diễn giải khái niệm này một cách hài hước.
+
+#### 📝 Câu lệnh
+
+```
+Một hình ảnh trực quan hóa xu hướng "Gorilla's Grasp"
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949129899_99ggci_G8Vhz5Ma4AEHxPA.jpg" width="600" alt="Lời nhắc tạo hình ảnh cho 'Gorilla's Grasp' - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [調べて分かった大事なコト](https://x.com/sirabete)
+- **Nguồn:** [Twitter Post](https://x.com/sirabete/status/2001113174859505739)
+- **Đã xuất bản:** 17 tháng 12, 2025
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20tr%E1%BB%B1c%20quan%20h%C3%B3a%20xu%20h%C6%B0%E1%BB%9Bng%20%22Gorilla's%20Grasp%22)**
+
+---
+
+### No. 119: Joe Rogan podcast với người ngoài hành tinh xám
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc tạo ảnh yêu cầu một bức ảnh DSLR mô tả một cảnh từ podcast của Joe Rogan, đặc biệt là cảnh thảo luận với một người ngoài hành tinh màu xám.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh DSLR: Podcast của Joe Rogan với cuộc thảo luận cùng người ngoài hành tinh màu xám
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035310399_pczlax_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan podcast với người ngoài hành tinh xám - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Ralph Nas](https://x.com/unrealpixels)
+- **Nguồn:** [Twitter Post](https://x.com/unrealpixels/status/2001112939676246523)
+- **Đã xuất bản:** 17 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=%E1%BA%A2nh%20DSLR%3A%20Podcast%20c%E1%BB%A7a%20Joe%20Rogan%20v%E1%BB%9Bi%20cu%E1%BB%99c%20th%E1%BA%A3o%20lu%E1%BA%ADn%20c%C3%B9ng%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20h%C3%A0nh%20tinh%20m%C3%A0u%20x%C3%A1m)**
+
+---
+
+### No. 120: Tạo Ảnh Hồ Sơ Chuyên Nghiệp Kiểu Studio
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc rất kỹ thuật được thiết kế để tạo ra một ảnh hồ sơ chuyên nghiệp, độ phân giải cao, chỉ định bố cục chính xác, trang phục (áo blazer màu xám than), màu nền (#1A1A1A), ánh sáng (ánh sáng studio sáng, mềm mại, khuếch tán), chi tiết ống kính (85mm f/1.8) và phân loại màu, đồng thời yêu cầu mô hình phải duy trì cấu trúc khuôn mặt và nhận dạng chính xác từ một hình ảnh đầu vào.
+
+#### 📝 Câu lệnh
+
+```
+Một ảnh hồ sơ chuyên nghiệp, độ phân giải cao, giữ nguyên cấu trúc khuôn mặt, danh tính và các đặc điểm chính xác của người trong ảnh gốc. Chủ thể được chụp từ ngực trở lên, có đủ khoảng trống phía trên đầu. Người đó nhìn thẳng vào máy ảnh. Họ được tạo kiểu cho một buổi chụp ảnh chuyên nghiệp trong studio, mặc một chiếc áo blazer smart casual cao cấp màu xám than tinh tế. Nền là màu studio trung tính '#1A1A1A' đồng nhất. Chụp từ góc cao với ánh sáng studio mềm mại, khuếch tán, sáng và thoáng, nhẹ nhàng chiếu sáng khuôn mặt và tạo điểm sáng tinh tế trong mắt, truyền tải cảm giác rõ ràng. Chụp bằng ống kính 85mm f/1.8 với độ sâu trường ảnh nông, lấy nét tinh xảo vào mắt và hiệu ứng bokeh mềm mại, đẹp mắt. Quan sát chi tiết sắc nét trên kết cấu vải của áo blazer, từng sợi tóc và kết cấu da tự nhiên, chân thực. Bầu không khí toát lên sự tự tin, chuyên nghiệp và dễ gần. Chỉnh màu điện ảnh sạch sẽ và tươi sáng với độ ấm tinh tế và tông màu cân bằng, đảm bảo cảm giác bóng bẩy và hiện đại.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="Tạo Ảnh Hồ Sơ Chuyên Nghiệp Kiểu Studio - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Alican Kiraz](https://x.com/AlicanKiraz0)
+- **Nguồn:** [Twitter Post](https://x.com/AlicanKiraz0/status/2001112691050430569)
+- **Đã xuất bản:** 17 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-1-5?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20h%E1%BB%93%20s%C6%A1%20chuy%C3%AAn%20nghi%E1%BB%87p%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%2C%20gi%E1%BB%AF%20nguy%C3%AAn%20c%E1%BA%A5u%20tr%C3%BAc%20khu%C3%B4n%20m%E1%BA%B7t%2C%20danh%20t%C3%ADnh%20v%C3%A0%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20trong%20%E1%BA%A3nh%20g%E1%BB%91c.%20Ch%E1%BB%A7%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20t%E1%BB%AB%20ng%E1%BB%B1c%20tr%E1%BB%9F%20l%C3%AAn%2C%20c%C3%B3%20%C4%91%E1%BB%A7%20kho%E1%BA%A3ng%20tr%E1%BB%91ng%20ph%C3%ADa%20tr%C3%AAn%20%C4%91%E1%BA%A7u.%20Ng%C6%B0%E1%BB%9Di%20%C4%91%C3%B3%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh.%20H%E1%BB%8D%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ki%E1%BB%83u%20cho%20m%E1%BB%99t%20bu%E1%BB%95i%20ch%E1%BB%A5p%20%E1%BA%A3nh%20chuy%C3%AAn%20nghi%E1%BB%87p%20trong%20studio%2C%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20blazer%20smart%20casual%20cao%20c%E1%BA%A5p%20m%C3%A0u%20x%C3%A1m%20than%20tinh%20t%E1%BA%BF.%20N%E1%BB%81n%20l%C3%A0%20m%C3%A0u%20studio%20trung%20t%C3%ADnh%20'%231A1A1A'%20%C4%91%E1%BB%93ng%20nh%E1%BA%A5t.%20Ch%E1%BB%A5p%20t%E1%BB%AB%20g%C3%B3c%20cao%20v%E1%BB%9Bi%20%C3%A1nh%20s%C3%A1ng%20studio%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20khu%E1%BA%BFch%20t%C3%A1n%2C%20s%C3%A1ng%20v%C3%A0%20tho%C3%A1ng%2C%20nh%E1%BA%B9%20nh%C3%A0ng%20chi%E1%BA%BFu%20s%C3%A1ng%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20t%E1%BA%A1o%20%C4%91i%E1%BB%83m%20s%C3%A1ng%20tinh%20t%E1%BA%BF%20trong%20m%E1%BA%AFt%2C%20truy%E1%BB%81n%20t%E1%BA%A3i%20c%E1%BA%A3m%20gi%C3%A1c%20r%C3%B5%20r%C3%A0ng.%20Ch%E1%BB%A5p%20b%E1%BA%B1ng%20%E1%BB%91ng%20k%C3%ADnh%2085mm%20f%2F1.8%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20l%E1%BA%A5y%20n%C3%A9t%20tinh%20x%E1%BA%A3o%20v%C3%A0o%20m%E1%BA%AFt%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt.%20Quan%20s%C3%A1t%20chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t%20tr%C3%AAn%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%E1%BA%A3i%20c%E1%BB%A7a%20%C3%A1o%20blazer%2C%20t%E1%BB%ABng%20s%E1%BB%A3i%20t%C3%B3c%20v%C3%A0%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ch%C3%A2n%20th%E1%BB%B1c.%20B%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20to%C3%A1t%20l%C3%AAn%20s%E1%BB%B1%20t%E1%BB%B1%20tin%2C%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20d%E1%BB%85%20g%E1%BA%A7n.%20Ch%E1%BB%89nh%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20t%C6%B0%C6%A1i%20s%C3%A1ng%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20%E1%BA%A5m%20tinh%20t%E1%BA%BF%20v%C3%A0%20t%C3%B4ng%20m%C3%A0u%20c%C3%A2n%20b%E1%BA%B1ng%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20c%E1%BA%A3m%20gi%C3%A1c%20b%C3%B3ng%20b%E1%BA%A9y%20v%C3%A0%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.)**
+
+---
+
 ---
 
 ## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
 
-### 🎯 93 câu lệnh khác không hiển thị ở đây
+### 🎯 90 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5419,6 +5525,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-19T04:25:22.085Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-19T08:15:14.643Z</sub>
 
 </div>
