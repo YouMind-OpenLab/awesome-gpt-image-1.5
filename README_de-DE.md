@@ -86,9 +86,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **180** |
+| 📝 Gesamtanzahl Prompts | **213** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 19. Dezember 2025 um 00:47:52 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 19. Dezember 2025 um 04:25:29 UTC** |
 
 </div>
 
@@ -98,7 +98,1520 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: ChatGPT Anime-Charakter-Generierung
+### No. 1: Aesthetic Image Generation Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+This prompt is used with ChatGPT Image to generate an image where every detail is aligned and every color tells a story, suggesting a highly detailed and aesthetically pleasing visual output.
+
+#### 📝 Prompt
+
+```
+A high-resolution, cinematic photograph of a lone, ancient lighthouse standing on a rugged cliff edge at sunset. The sky is dramatic, painted in deep oranges, purples, and blues, with rays of light breaking through the clouds. Waves crash violently against the rocks below, creating a fine mist. The lighthouse beam cuts sharply through the twilight air. The texture of the stone and the weathered metal of the lantern room are highly detailed. The overall mood is one of isolation, power, and enduring beauty. Shot on a large format camera, 85mm lens, f/2.8, golden hour lighting.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Aesthetic Image Generation Prompt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jahan Zaib](https://x.com/jzaib4269)
+- **Quelle:** [Twitter Post](https://x.com/jzaib4269/status/2001839838740578328)
+- **Veröffentlicht:** 19. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20high-resolution%2C%20cinematic%20photograph%20of%20a%20lone%2C%20ancient%20lighthouse%20standing%20on%20a%20rugged%20cliff%20edge%20at%20sunset.%20The%20sky%20is%20dramatic%2C%20painted%20in%20deep%20oranges%2C%20purples%2C%20and%20blues%2C%20with%20rays%20of%20light%20breaking%20through%20the%20clouds.%20Waves%20crash%20violently%20against%20the%20rocks%20below%2C%20creating%20a%20fine%20mist.%20The%20lighthouse%20beam%20cuts%20sharply%20through%20the%20twilight%20air.%20The%20texture%20of%20the%20stone%20and%20the%20weathered%20metal%20of%20the%20lantern%20room%20are%20highly%20detailed.%20The%20overall%20mood%20is%20one%20of%20isolation%2C%20power%2C%20and%20enduring%20beauty.%20Shot%20on%20a%20large%20format%20camera%2C%2085mm%20lens%2C%20f%2F2.8%2C%20golden%20hour%20lighting.)**
+
+---
+
+### No. 2: Pencil Sketch Schematics of Bender
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A simple, direct prompt for GPT Image 1.5 requesting a pencil sketch illustrating the schematics of the character Bender, likely from Futurama.
+
+#### 📝 Prompt
+
+```
+Pencil sketch for the schematics of {argument name="character" default="bender"}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Pencil Sketch Schematics of Bender - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [JB](https://x.com/JasonBotterill)
+- **Quelle:** [Twitter Post](https://x.com/JasonBotterill/status/2001834480257097802)
+- **Veröffentlicht:** 19. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Pencil%20sketch%20for%20the%20schematics%20of%20%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D)**
+
+---
+
+### No. 3: Detailed Fashion Product Photography Prompt for GPT Image 1.5
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A highly detailed, structured prompt designed for GPT Image 1.5 to generate a commercial advertisement-quality image. The composition is a vertical split-screen featuring a product photography flat-lay of an outfit in a museum specimen box on the top, and a hyperrealistic 'naked-eye 3D' illusion of a model wearing the exact same outfit on the bottom, creating a visual contrast between presentation and reality. The prompt includes specific details on clothing, props, model description, pose, and technical rendering specs.
+
+#### 📝 Prompt
+
+```
+A vertical split-screen creative product photography composition on a clean white wall background. High-resolution, photorealistic, commercial advertisement quality.
+
+Top Section: The Specimen Box
+The upper half features an exquisite light oak wooden shadow box frame mounted on the wall. Inside, a specific outfit is displayed as an artistic flat-lay museum specimen: {argument name="Clothing Details" default="a sleek black satin slip dress with delicate lace trim and thin spaghetti straps"}. The garments are neatly pinned in place. Surrounding them are small thematic decorative props: {argument name="Props" default="dried roses, vintage perfume bottles, silk ribbon"}. Elegant calligraphy on the matte paper backdrop reads: {argument name="Text" default="Midnight Elegance"}. Soft studio lighting accentuates the rich texture and drape of the fabric.
+
+Bottom Section: Naked-Eye 3D Reality
+The lower half creates a hyperrealistic "naked-eye 3D" illusion. A rectangular picture-frame border sits directly beneath the top box. A stunningly realistic young woman {argument name="Model Description" default="a poised East Asian model with long wavy black hair, subtle smoky eyes, and a confident gaze"} wears the exact same outfit as shown above.
+
+She lounges casually on the bottom edge of the frame—one leg bent with foot resting inside the frame, the other leg elegantly dangling out into the viewer’s space. Her torso leans back slightly, elbow resting on her raised knee, fingers lightly grazing the fabric near her collarbone. Her body forms a soft, sensual S-curve that highlights the garment’s silhouette without overt exposure. She looks directly at the camera with a calm, knowing smile—inviting yet enigmatic. This dynamic, lifelike pose contrasts powerfully with the static, archival display above, creating visual tension between reality and presentation.
+
+Technical Specs:
+Soft natural shadows, ambient occlusion, bright and airy yet cinematic lighting, 8K resolution, Octane Render, vivid but refined color palette, ultra-detailed fabric textures (satin sheen, lace transparency, stitching), shallow depth of field, Vogue editorial style, filmic grain, professional fashion photography.
+
+Negative Prompt (recommended):
+blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime, doll-like, plastic skin, overexposed, cluttered background, text errors, mismatched clothing, floating objects, unrealistic proportions.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [岚叔](https://x.com/LufzzLiz)
+- **Quelle:** [Twitter Post](https://x.com/LufzzLiz/status/2001831802269499412)
+- **Veröffentlicht:** 19. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20vertical%20split-screen%20creative%20product%20photography%20composition%20on%20a%20clean%20white%20wall%20background.%20High-resolution%2C%20photorealistic%2C%20commercial%20advertisement%20quality.%0A%0ATop%20Section%3A%20The%20Specimen%20Box%0AThe%20upper%20half%20features%20an%20exquisite%20light%20oak%20wooden%20shadow%20box%20frame%20mounted%20on%20the%20wall.%20Inside%2C%20a%20specific%20outfit%20is%20displayed%20as%20an%20artistic%20flat-lay%20museum%20specimen%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22a%20sleek%20black%20satin%20slip%20dress%20with%20delicate%20lace%20trim%20and%20thin%20spaghetti%20straps%22%7D.%20The%20garments%20are%20neatly%20pinned%20in%20place.%20Surrounding%20them%20are%20small%20thematic%20decorative%20props%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22dried%20roses%2C%20vintage%20perfume%20bottles%2C%20silk%20ribbon%22%7D.%20Elegant%20calligraphy%20on%20the%20matte%20paper%20backdrop%20reads%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Soft%20studio%20lighting%20accentuates%20the%20rich%20texture%20and%20drape%20of%20the%20fabric.%0A%0ABottom%20Section%3A%20Naked-Eye%203D%20Reality%0AThe%20lower%20half%20creates%20a%20hyperrealistic%20%22naked-eye%203D%22%20illusion.%20A%20rectangular%20picture-frame%20border%20sits%20directly%20beneath%20the%20top%20box.%20A%20stunningly%20realistic%20young%20woman%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22a%20poised%20East%20Asian%20model%20with%20long%20wavy%20black%20hair%2C%20subtle%20smoky%20eyes%2C%20and%20a%20confident%20gaze%22%7D%20wears%20the%20exact%20same%20outfit%20as%20shown%20above.%0A%0AShe%20lounges%20casually%20on%20the%20bottom%20edge%20of%20the%20frame%E2%80%94one%20leg%20bent%20with%20foot%20resting%20inside%20the%20frame%2C%20the%20other%20leg%20elegantly%20dangling%20out%20into%20the%20viewer%E2%80%99s%20space.%20Her%20torso%20leans%20back%20slightly%2C%20elbow%20resting%20on%20her%20raised%20knee%2C%20fingers%20lightly%20grazing%20the%20fabric%20near%20her%20collarbone.%20Her%20body%20forms%20a%20soft%2C%20sensual%20S-curve%20that%20highlights%20the%20garment%E2%80%99s%20silhouette%20without%20overt%20exposure.%20She%20looks%20directly%20at%20the%20camera%20with%20a%20calm%2C%20knowing%20smile%E2%80%94inviting%20yet%20enigmatic.%20This%20dynamic%2C%20lifelike%20pose%20contrasts%20powerfully%20with%20the%20static%2C%20archival%20display%20above%2C%20creating%20visual%20tension%20between%20reality%20and%20presentation.%0A%0ATechnical%20Specs%3A%0ASoft%20natural%20shadows%2C%20ambient%20occlusion%2C%20bright%20and%20airy%20yet%20cinematic%20lighting%2C%208K%20resolution%2C%20Octane%20Render%2C%20vivid%20but%20refined%20color%20palette%2C%20ultra-detailed%20fabric%20textures%20(satin%20sheen%2C%20lace%20transparency%2C%20stitching)%2C%20shallow%20depth%20of%20field%2C%20Vogue%20editorial%20style%2C%20filmic%20grain%2C%20professional%20fashion%20photography.%0A%0ANegative%20Prompt%20(recommended)%3A%0Ablurry%2C%20low-res%2C%20distorted%20anatomy%2C%20extra%20limbs%2C%20deformed%20hands%2C%20cartoon%2C%20anime%2C%20doll-like%2C%20plastic%20skin%2C%20overexposed%2C%20cluttered%20background%2C%20text%20errors%2C%20mismatched%20clothing%2C%20floating%20objects%2C%20unrealistic%20proportions.)**
+
+---
+
+### No. 4: Desert Ruins of Pure Math Grid
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A highly specific prompt for generating a 2x2 grid of monumental desert ruins, where each ruin is constructed in the style of Cairo monumental stone and represents a major mathematical symbol (Integral, Sigma, Pi, Penrose Triangle).
+
+#### 📝 Prompt
+
+```
+Desert Ruins of Pure Math (Cairo-style monumental stone)
+A 2x2 grid of 4 monumental mathematical symbols built as ancient desert ruins in sandstone
+[Top Left: The Integral (∫) as a collapsed arch-aqueduct, wind-eroded blocks, carved microtext equations, tiny caravans for scale]
+[Top Right: The Sigma (Σ) as a stepped fortress-ziggurat with sharp terraces, long shadows, sand drifts collecting in corners]
+[Bottom Left: The Pi (π) as two colossal pylons and a lintel bridge over a narrow oasis canal, chipped stone, scattered rubble geometry]
+[Bottom Right: A Penrose Triangle as impossible ruins half-buried in dunes, optical illusion architecture, Escher perspective, sunlight slicing across paradox edges]
+Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, photoreal ruins texture, subtle river ribbon, swiss 2x2 grid layout.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2001771705400766676)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Desert%20Ruins%20of%20Pure%20Math%20(Cairo-style%20monumental%20stone)%0AA%202x2%20grid%20of%204%20monumental%20mathematical%20symbols%20built%20as%20ancient%20desert%20ruins%20in%20sandstone%0A%5BTop%20Left%3A%20The%20Integral%20(%E2%88%AB)%20as%20a%20collapsed%20arch-aqueduct%2C%20wind-eroded%20blocks%2C%20carved%20microtext%20equations%2C%20tiny%20caravans%20for%20scale%5D%0A%5BTop%20Right%3A%20The%20Sigma%20(%CE%A3)%20as%20a%20stepped%20fortress-ziggurat%20with%20sharp%20terraces%2C%20long%20shadows%2C%20sand%20drifts%20collecting%20in%20corners%5D%0A%5BBottom%20Left%3A%20The%20Pi%20(%CF%80)%20as%20two%20colossal%20pylons%20and%20a%20lintel%20bridge%20over%20a%20narrow%20oasis%20canal%2C%20chipped%20stone%2C%20scattered%20rubble%20geometry%5D%0A%5BBottom%20Right%3A%20A%20Penrose%20Triangle%20as%20impossible%20ruins%20half-buried%20in%20dunes%2C%20optical%20illusion%20architecture%2C%20Escher%20perspective%2C%20sunlight%20slicing%20across%20paradox%20edges%5D%0AAerial%20oblique%20view%2C%20golden%20desert%20haze%2C%20crisp%20hard%20sunlight%2C%20dramatic%20shadows%2C%20photoreal%20ruins%20texture%2C%20subtle%20river%20ribbon%2C%20swiss%202x2%20grid%20layout.)**
+
+---
+
+### No. 5: Reasoning and Instruction Following Puzzle Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A complex prompt designed to test the model's reasoning and instruction-following capabilities by asking it to generate a visual puzzle: four related realistic objects on a table, a title text asking 'What do these objects have in common?', and very small, upside-down text at the bottom revealing the answer.
+
+#### 📝 Prompt
+
+```
+"Show me 4 realistic objects on a table. The objects are related in some way, this is a puzzle. Add title text across the top, "{argument name="title text" default="What do these objects have in common?"}" And very small upside down text on the bottom which reveals the way in which they are related."
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Joe ⭕ Dot ⭕ Average](https://x.com/JoeDotAverage)
+- **Quelle:** [Twitter Post](https://x.com/JoeDotAverage/status/2001768707123744896)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%22Show%20me%204%20realistic%20objects%20on%20a%20table.%20The%20objects%20are%20related%20in%20some%20way%2C%20this%20is%20a%20puzzle.%20Add%20title%20text%20across%20the%20top%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22What%20do%20these%20objects%20have%20in%20common%3F%22%7D%22%20And%20very%20small%20upside%20down%20text%20on%20the%20bottom%20which%20reveals%20the%20way%20in%20which%20they%20are%20related.%22)**
+
+---
+
+### No. 6: Meta-Prompt: Create an Image Detailing its Own Creation Steps
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A meta-prompt asking ChatGPT Image 1.5 to create an image that visually represents the very detailed steps the AI takes to generate that image, testing the model's ability to visualize its internal blueprint.
+
+#### 📝 Prompt
+
+```
+Create an image about the very detailed steps you create to create the image.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-Prompt: Create an Image Detailing its Own Creation Steps - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [AI Mother Brain](https://x.com/AIMotherBrain)
+- **Quelle:** [Twitter Post](https://x.com/AIMotherBrain/status/2001759949186040041)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20an%20image%20about%20the%20very%20detailed%20steps%20you%20create%20to%20create%20the%20image.)**
+
+---
+
+### No. 7: Anime Christmas Elf Cross-Stitch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt for generating an image of a cross-stitch design featuring a Christmas elf in anime style working at a guitar store, complete with a festive border.
+
+#### 📝 Prompt
+
+```
+a cross-stitch of a christmas elf - anime style. the elf is working at a guitar store, guitars hang on the wall. the cross stitch has a christmas border with mistletoe and christmas decorations.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [mash tun](https://x.com/MashTunTimmy)
+- **Quelle:** [Twitter Post](https://x.com/MashTunTimmy/status/2001745127396573635)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=a%20cross-stitch%20of%20a%20christmas%20elf%20-%20anime%20style.%20the%20elf%20is%20working%20at%20a%20guitar%20store%2C%20guitars%20hang%20on%20the%20wall.%20the%20cross%20stitch%20has%20a%20christmas%20border%20with%20mistletoe%20and%20christmas%20decorations.)**
+
+---
+
+### No. 8: Moody Cinematic Portrait with Motion Blur and Directional Lighting
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A highly specific prompt for generating a moody, cinematic portrait of a young male model. It details the lighting (harsh directional light from the left), pose (clutching collar, tense jawline), and a complex motion blur effect slicing horizontally across the face, aiming for a stylized editorial tone with film grain.
+
+#### 📝 Prompt
+
+```
+Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Sanchit | AI Tools & News](https://x.com/AIwithSanchit)
+- **Quelle:** [Twitter Post](https://x.com/AIwithSanchit/status/2001728985131360723)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+
+---
+
+### No. 9: Portrait grid with varied facial expressions
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt designed for GPT-Image 1.5 to create a 3x3 grid of portraits based on an uploaded photo. It requires maintaining the subject's exact likeness while generating nine different facial expressions, presented with a clean, modern aesthetic, soft lighting, and pastel backgrounds.
+
+#### 📝 Prompt
+
+```
+Starting with the uploaded photo as a base reference, create a clean and modern portrait grid featuring the same person with several different facial expressions and moods. Arrange the images in a neat 3×3 layout with rounded corners and soft pastel backgrounds. Each portrait should retain the same facial features, hairstyle, and realism, changing only the expression and subtle style. Include expressions such as: natural smile, joyful laugh, calm with eyes closed, neutral and serious gaze, pensive pose with hand on chin, confident and composed expression, sad or disappointed mood, mischievous pout, and surprised reaction with wide eyes. Use soft studio lighting, highly detailed skin texture, shallow depth of field, minimal variations in wardrobe, consistent color palette, ultra-realistic editorial portrait style, high resolution, and clean aesthetics.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Camille_1982_fr](https://x.com/1982_camille)
+- **Quelle:** [Twitter Post](https://x.com/1982_camille/status/2001721453075644763)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Starting%20with%20the%20uploaded%20photo%20as%20a%20base%20reference%2C%20create%20a%20clean%20and%20modern%20portrait%20grid%20featuring%20the%20same%20person%20with%20several%20different%20facial%20expressions%20and%20moods.%20Arrange%20the%20images%20in%20a%20neat%203%C3%973%20layout%20with%20rounded%20corners%20and%20soft%20pastel%20backgrounds.%20Each%20portrait%20should%20retain%20the%20same%20facial%20features%2C%20hairstyle%2C%20and%20realism%2C%20changing%20only%20the%20expression%20and%20subtle%20style.%20Include%20expressions%20such%20as%3A%20natural%20smile%2C%20joyful%20laugh%2C%20calm%20with%20eyes%20closed%2C%20neutral%20and%20serious%20gaze%2C%20pensive%20pose%20with%20hand%20on%20chin%2C%20confident%20and%20composed%20expression%2C%20sad%20or%20disappointed%20mood%2C%20mischievous%20pout%2C%20and%20surprised%20reaction%20with%20wide%20eyes.%20Use%20soft%20studio%20lighting%2C%20highly%20detailed%20skin%20texture%2C%20shallow%20depth%20of%20field%2C%20minimal%20variations%20in%20wardrobe%2C%20consistent%20color%20palette%2C%20ultra-realistic%20editorial%20portrait%20style%2C%20high%20resolution%2C%20and%20clean%20aesthetics.)**
+
+---
+
+### No. 10: Hyper-Realistic Cinematic Action Scene from Reference Image
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A detailed prompt for transforming a subject from an uploaded reference image into a hyper-realistic cinematic action scene. The subject is depicted leaping from a glowing, neon-swirling dimensional portal onto a wet city crosswalk, emphasizing dynamic motion, dramatic lighting, and preserving the subject's exact likeness and features.
+
+#### 📝 Prompt
+
+```
+Using the uploaded image as the primary visual reference, transform the subject into a hyper-realistic cinematic action scene. The man is leaping forward onto a city crosswalk while emerging from a glowing circular dimensional portal behind him. The portal emits intense swirling neon energy in electric {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"}, and {argument name="portal color 3" default="magenta"}, with sparks, lightning arcs, particle debris, and visible energy-distortion effects in the air.
+
+The subject is captured mid-motion in a powerful running leap, expression focused and intense. His original clothing from the reference image is naturally adapted for dynamic motion, with realistic fabric flow, folds, and physics, without changing his identity. Footwear and outfit subtly reflect the neon portal light. Preserve the subject’s original facial structure, skin texture, hairstyle, beard (if present), and body proportions exactly as in the reference image.
+
+The environment is a modern urban city street with cinematic perspective. The background is slightly motion-blurred to emphasize speed and action. The road surface appears wet, showing subtle reflections of the glowing portal and neon light streaks. Dramatic cinematic lighting, volumetric light rays, shallow depth of field, ultra-sharp details, high contrast, realistic physics, sci-fi atmosphere, professional action-movie poster composition, cinematic color grading, ultra-high resolution, 8K quality.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [புல்லட் வண்டி 😈🧛](https://x.com/iam_vampire_0)
+- **Quelle:** [Twitter Post](https://x.com/iam_vampire_0/status/2001689313554370620)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Using%20the%20uploaded%20image%20as%20the%20primary%20visual%20reference%2C%20transform%20the%20subject%20into%20a%20hyper-realistic%20cinematic%20action%20scene.%20The%20man%20is%20leaping%20forward%20onto%20a%20city%20crosswalk%20while%20emerging%20from%20a%20glowing%20circular%20dimensional%20portal%20behind%20him.%20The%20portal%20emits%20intense%20swirling%20neon%20energy%20in%20electric%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%2C%20and%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%2C%20with%20sparks%2C%20lightning%20arcs%2C%20particle%20debris%2C%20and%20visible%20energy-distortion%20effects%20in%20the%20air.%0A%0AThe%20subject%20is%20captured%20mid-motion%20in%20a%20powerful%20running%20leap%2C%20expression%20focused%20and%20intense.%20His%20original%20clothing%20from%20the%20reference%20image%20is%20naturally%20adapted%20for%20dynamic%20motion%2C%20with%20realistic%20fabric%20flow%2C%20folds%2C%20and%20physics%2C%20without%20changing%20his%20identity.%20Footwear%20and%20outfit%20subtly%20reflect%20the%20neon%20portal%20light.%20Preserve%20the%20subject%E2%80%99s%20original%20facial%20structure%2C%20skin%20texture%2C%20hairstyle%2C%20beard%20(if%20present)%2C%20and%20body%20proportions%20exactly%20as%20in%20the%20reference%20image.%0A%0AThe%20environment%20is%20a%20modern%20urban%20city%20street%20with%20cinematic%20perspective.%20The%20background%20is%20slightly%20motion-blurred%20to%20emphasize%20speed%20and%20action.%20The%20road%20surface%20appears%20wet%2C%20showing%20subtle%20reflections%20of%20the%20glowing%20portal%20and%20neon%20light%20streaks.%20Dramatic%20cinematic%20lighting%2C%20volumetric%20light%20rays%2C%20shallow%20depth%20of%20field%2C%20ultra-sharp%20details%2C%20high%20contrast%2C%20realistic%20physics%2C%20sci-fi%20atmosphere%2C%20professional%20action-movie%20poster%20composition%2C%20cinematic%20color%20grading%2C%20ultra-high%20resolution%2C%208K%20quality.)**
+
+---
+
+### No. 11: Underwater Product Photoshoot with Caustic Light
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt designed for product photography, generating an ultra-high-resolution image of a reference object fully submerged in crystal-clear turquoise water, focusing on intricate caustic light patterns and ethereal elegance.
+
+#### 📝 Prompt
+
+```
+[Reference Image] fully submerged in crystal-clear, turquoise water, captured in ultra-high-resolution underwater photography. Sunlight penetrates the surface above, creating intricate caustic light patterns that ripple and dance across the subject and surrounding water. The scene conveys pristine clarity with zero particulate matter, emphasizing a sense of suspended weightlessness and serene motion. Fine details are frozen using high-speed capture, with subtle bubbles and flowing fabric or hair enhancing the feeling of aquatic elegance. The overall aesthetic is clean, refreshing, and ethereal, with soft natural color grading, high dynamic range, and cinematic realism.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [1LittleCoder💻](https://x.com/1littlecoder)
+- **Quelle:** [Twitter Post](https://x.com/1littlecoder/status/2001672903792955756)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%5BReference%20Image%5D%20fully%20submerged%20in%20crystal-clear%2C%20turquoise%20water%2C%20captured%20in%20ultra-high-resolution%20underwater%20photography.%20Sunlight%20penetrates%20the%20surface%20above%2C%20creating%20intricate%20caustic%20light%20patterns%20that%20ripple%20and%20dance%20across%20the%20subject%20and%20surrounding%20water.%20The%20scene%20conveys%20pristine%20clarity%20with%20zero%20particulate%20matter%2C%20emphasizing%20a%20sense%20of%20suspended%20weightlessness%20and%20serene%20motion.%20Fine%20details%20are%20frozen%20using%20high-speed%20capture%2C%20with%20subtle%20bubbles%20and%20flowing%20fabric%20or%20hair%20enhancing%20the%20feeling%20of%20aquatic%20elegance.%20The%20overall%20aesthetic%20is%20clean%2C%20refreshing%2C%20and%20ethereal%2C%20with%20soft%20natural%20color%20grading%2C%20high%20dynamic%20range%2C%20and%20cinematic%20realism.)**
+
+---
+
+### No. 12: Ultra-Realistic Humanoid Robot on Rooftop
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+An extensive, highly detailed prompt designed to test GPT Image 1.5's ability to generate ultra-realistic, production-ready images, specifically a cinematic photograph of a humanoid robot on a rooftop at dawn, focusing on material fidelity, mechanical details, and integrated text display.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop overlooking a modern city at dawn, medium shot. Highly detailed humanoid robot with synthetic skin and exposed metallic elements, realistic joints, fine mechanical details, subtle surface imperfections, micro scratches and reflections. Human-like posture and proportions, calm and natural stance, soft ambient light reflecting off metal and synthetic materials. Cinematic sunrise lighting, soft volumetric light, realistic city skyline in the background with shallow depth of field. A digital city billboard in the background displaying the text "{argument name="billboard text" default="SYSTEM ONLINE"}", text integrated into the screen with realistic glow, perspective, and lighting, not overlaid. Photorealistic futuristic photography, high fidelity materials, no cartoon style, no sci-fi illustration, production-ready realism.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [IVAN | IA](https://x.com/ivnways)
+- **Quelle:** [Twitter Post](https://x.com/ivnways/status/2001671922984325197)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ultra-realistic%20cinematic%20photograph%20of%20a%20humanoid%20robot%20standing%20on%20a%20rooftop%20overlooking%20a%20modern%20city%20at%20dawn%2C%20medium%20shot.%20Highly%20detailed%20humanoid%20robot%20with%20synthetic%20skin%20and%20exposed%20metallic%20elements%2C%20realistic%20joints%2C%20fine%20mechanical%20details%2C%20subtle%20surface%20imperfections%2C%20micro%20scratches%20and%20reflections.%20Human-like%20posture%20and%20proportions%2C%20calm%20and%20natural%20stance%2C%20soft%20ambient%20light%20reflecting%20off%20metal%20and%20synthetic%20materials.%20Cinematic%20sunrise%20lighting%2C%20soft%20volumetric%20light%2C%20realistic%20city%20skyline%20in%20the%20background%20with%20shallow%20depth%20of%20field.%20A%20digital%20city%20billboard%20in%20the%20background%20displaying%20the%20text%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%2C%20text%20integrated%20into%20the%20screen%20with%20realistic%20glow%2C%20perspective%2C%20and%20lighting%2C%20not%20overlaid.%20Photorealistic%20futuristic%20photography%2C%20high%20fidelity%20materials%2C%20no%20cartoon%20style%2C%20no%20sci-fi%20illustration%2C%20production-ready%20realism.)**
+
+---
+
+### No. 13: Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to generate a realistic, cinematic scene of a person in Times Square on a rainy night. It specifies complex elements like reflections, specific clothing details (a black faux-leather varsity jacket with embroidery), and camera aesthetics, ensuring the subject's face remains identical to an uploaded reference.
+
+#### 📝 Prompt
+
+```
+{
+  "scene": {
+    "location": "{argument name="location" default="Times Square, New York"}",
+    "time": "{argument name="time" default="Rainy night"}",
+    "composition": {
+      "left_side": [
+        {
+          "type": "LED billboard",
+          "style": "vertical",
+          "text_color": "white-on-black"
+        },
+        {
+          "type": "curved LED screen",
+          "detail": "above yellow arrow for Hershey's store"
+        }
+      ],
+      "right_side": {
+        "subject_position": "near curb",
+        "traffic": {
+          "vehicles": "city taxis and cars",
+          "details": "brake lights forming a slow line"
+        }
+      }
+    },
+    "environment": {
+      "ground": "wet asphalt",
+      "reflection_colors": ["neon magenta", "icy blue"],
+      "puddles": {
+        "reflecting_lights": true,
+        "object_details": ["scattered takeaway cups"]
+      },
+      "atmosphere": ["electric", "intimate"]
+    }
+  },
+  "subject": {
+    "identity": "Uploaded subject",
+    "face_requirement": "Do not change facial features. Must look 1000% identical.",
+    "pose": "Relaxed, facing camera",
+    "holding": "Folded black umbrella by handle",
+    "outfit": {
+      "jacket": {
+        "material": "black faux-leather varsity",
+        "design": {
+          "cobalt_panel": true,
+          "cream_stripe": true,
+          "embroidery": "Vintage script",
+          "lettering": "Block OF",
+          "patch": "1987 stitched on sleeve",
+          "reflective_piping": true,
+          "highlight_color": "purple reflection"
+        }
+      }
+    }
+  },
+  "background": {
+    "elements": ["cars", "scaffolding", "stacked storefront signs"]
+  },
+  "style": {
+    "resolution": "HD",
+    "aesthetic": ["realistic", "natural", "authentic"],
+    "camera": "iPhone"
+  }
+}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Dr.duet](https://x.com/Sheldon056)
+- **Quelle:** [Twitter Post](https://x.com/Sheldon056/status/2001664038707826811)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%22location%22%20default%3D%22Times%20Square%2C%20New%20York%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%22time%22%20default%3D%22Rainy%20night%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20billboard%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22vertical%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22white-on-black%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22curved%20LED%20screen%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22above%20yellow%20arrow%20for%20Hershey's%20store%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22near%20curb%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22city%20taxis%20and%20cars%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22brake%20lights%20forming%20a%20slow%20line%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22wet%20asphalt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22neon%20magenta%22%2C%20%22icy%20blue%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22scattered%20takeaway%20cups%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22electric%22%2C%20%22intimate%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Uploaded%20subject%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Do%20not%20change%20facial%20features.%20Must%20look%201000%25%20identical.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Relaxed%2C%20facing%20camera%22%2C%0A%20%20%20%20%22holding%22%3A%20%22Folded%20black%20umbrella%20by%20handle%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22black%20faux-leather%20varsity%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Vintage%20script%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Block%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%221987%20stitched%20on%20sleeve%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22purple%20reflection%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22cars%22%2C%20%22scaffolding%22%2C%20%22stacked%20storefront%20signs%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22realistic%22%2C%20%22natural%22%2C%20%22authentic%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 14: Extreme Food Art Grid of New York Neighborhoods
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A creative and complex food prompt designed to generate a 2x2 grid of extreme food art. Each panel represents a different New York neighborhood, constructed from signature dishes, landmarks built from food, and environmental details using sauces and spices.
+
+#### 📝 Prompt
+
+```
+a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighborhoods" default="new york's neighborhoods"}. For each: construct the location's geographic shape from signature dishes, build a few famous landmarks from food, add environmental details (waterways, vegetation, infrastructure) using sauces/spices/ingredients. Extreme food art on slate boards, macro photography, dramatic overhead lighting, dark moody background, name underneath.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2001662485519306967)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=a%202x2%20food%20art%20grid.%20Randomly%20select%204%20diverse%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D.%20For%20each%3A%20construct%20the%20location's%20geographic%20shape%20from%20signature%20dishes%2C%20build%20a%20few%20famous%20landmarks%20from%20food%2C%20add%20environmental%20details%20(waterways%2C%20vegetation%2C%20infrastructure)%20using%20sauces%2Fspices%2Fingredients.%20Extreme%20food%20art%20on%20slate%20boards%2C%20macro%20photography%2C%20dramatic%20overhead%20lighting%2C%20dark%20moody%20background%2C%20name%20underneath.)**
+
+---
+
+### No. 15: Cinematic Night Street Scene Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A straightforward cinematic prompt for generating a moody image of a woman walking through a rainy street at night, focusing on specific visual elements like neon reflections, raindrops, soft bokeh, and a blue-red color contrast.
+
+#### 📝 Prompt
+
+```
+A woman walking through a rainy street at night, neon signs reflecting off puddles, raindrops on the jacket, soft bokeh in the background, moody expression, cinematic blue-red color contrast.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Johnn](https://x.com/john_my07)
+- **Quelle:** [Twitter Post](https://x.com/john_my07/status/2001648991449366710)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20woman%20walking%20through%20a%20rainy%20street%20at%20night%2C%20neon%20signs%20reflecting%20off%20puddles%2C%20raindrops%20on%20the%20jacket%2C%20soft%20bokeh%20in%20the%20background%2C%20moody%20expression%2C%20cinematic%20blue-red%20color%20contrast.)**
+
+---
+
+### No. 16: Chinese Fantasy Digital Art Prompt Template
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A highly structured JSON-formatted prompt template for generating panoramic digital artwork in a Chinese Fantasy and Abstract Digital Art style. It specifies visual elements like subject silhouette, bioluminescent lighting, flowing effects, and a specific color palette, intended for use with models like Midjourney (Niji 6) or SDXL. The prompt is designed to be easily customized by changing the final line to specify the character or scene, such as applying the style to characters from 'Journey to the West'.
+
+#### 📝 Prompt
+
+```
+{
+  "meta_info": {
+    "title": "Ethereal Hanfu Spirit",
+    "style_category": "Chinese Fantasy / Abstract Digital Art",
+    "aspect_ratio": "3:1"
+  },
+  "visual_elements": {
+    "subject": {
+      "description": "Silhouette wearing attire determined by the character",
+      "pose": "Pose determined by the character, floating in mid-air",
+      "composition": "Centered ethereal figure with flowing trails extending to the sides"
+    },
+    "atmosphere": {
+      "lighting": "Bioluminescent glow, volumetric lighting, rim lighting",
+      "effects": "Flowing smoke, light particles, holographic dispersion, silk-like energy trails",
+      "colors": ["Deep Navy Blue", "Glowing Cyan", "Iridescent Gold", "Soft Peach"]
+    }
+  },
+  "prompt_export": {
+    "natural_language_prompt": "A wide panoramic digital artwork depicting a figure composed of flowing ribbons of light, translucent smoke, and iridescent particles. The background features deep, moody indigo and dark blue tones. The figure emits a soft, magical bioluminescent glow in hues of gold, peach, and cyan. The overall style is abstract fantasy, emphasizing fluid motion and a dreamy atmosphere, rendered in 8K resolution with highly detailed textures and exhibiting the Tyndall effect.",
+    "tag_based_prompt": " silhouette, flowing light lines, smoke effects, particle effects, bioluminescence, iridescent effects, dark blue background, cinematic lighting, ethereal, mystical, masterpiece, best quality, 8k, wide angle --ay 21:9 ",
+    "negative_prompt": "photorealistic, solid skin, heavy outlines, messy lines, text, watermark, low quality, jpeg artifacts, blurry, distorted face, bad anatomy"
+  },
+  "technical_settings_recommendation": {
+    "sampler": "Euler a / DPM++ 2M Karras",
+    "steps": 30,
+    "cfg_scale": 7.0,
+    "model_suggestion": "Niji 6 (for Midjourney) or Abstract/Fantasy-based SDXL models"
+  }
+}
+Character set as: {argument name="character setting" default="The four master and disciples from Journey to the West"}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [岚叔](https://x.com/LufzzLiz)
+- **Quelle:** [Twitter Post](https://x.com/LufzzLiz/status/2001637740568596705)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** zh
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Ethereal%20Hanfu%20Spirit%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22Chinese%20Fantasy%20%2F%20Abstract%20Digital%20Art%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22Silhouette%20wearing%20attire%20determined%20by%20the%20character%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22Pose%20determined%20by%20the%20character%2C%20floating%20in%20mid-air%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22Centered%20ethereal%20figure%20with%20flowing%20trails%20extending%20to%20the%20sides%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Bioluminescent%20glow%2C%20volumetric%20lighting%2C%20rim%20lighting%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Flowing%20smoke%2C%20light%20particles%2C%20holographic%20dispersion%2C%20silk-like%20energy%20trails%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Deep%20Navy%20Blue%22%2C%20%22Glowing%20Cyan%22%2C%20%22Iridescent%20Gold%22%2C%20%22Soft%20Peach%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22A%20wide%20panoramic%20digital%20artwork%20depicting%20a%20figure%20composed%20of%20flowing%20ribbons%20of%20light%2C%20translucent%20smoke%2C%20and%20iridescent%20particles.%20The%20background%20features%20deep%2C%20moody%20indigo%20and%20dark%20blue%20tones.%20The%20figure%20emits%20a%20soft%2C%20magical%20bioluminescent%20glow%20in%20hues%20of%20gold%2C%20peach%2C%20and%20cyan.%20The%20overall%20style%20is%20abstract%20fantasy%2C%20emphasizing%20fluid%20motion%20and%20a%20dreamy%20atmosphere%2C%20rendered%20in%208K%20resolution%20with%20highly%20detailed%20textures%20and%20exhibiting%20the%20Tyndall%20effect.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20silhouette%2C%20flowing%20light%20lines%2C%20smoke%20effects%2C%20particle%20effects%2C%20bioluminescence%2C%20iridescent%20effects%2C%20dark%20blue%20background%2C%20cinematic%20lighting%2C%20ethereal%2C%20mystical%2C%20masterpiece%2C%20best%20quality%2C%208k%2C%20wide%20angle%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22photorealistic%2C%20solid%20skin%2C%20heavy%20outlines%2C%20messy%20lines%2C%20text%2C%20watermark%2C%20low%20quality%2C%20jpeg%20artifacts%2C%20blurry%2C%20distorted%20face%2C%20bad%20anatomy%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(for%20Midjourney)%20or%20Abstract%2FFantasy-based%20SDXL%20models%22%0A%20%20%7D%0A%7D%0ACharacter%20set%20as%3A%20%7Bargument%20name%3D%22character%20setting%22%20default%3D%22The%20four%20master%20and%20disciples%20from%20Journey%20to%20the%20West%22%7D)**
+
+---
+
+### No. 17: Adding Handwritten Text and Decoration to an Image
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+The second Japanese prompt focuses on image manipulation, asking GPT Image 1.5 to add handwritten text (a date and a heart mark) and decorations to make the image look like a 'Cheki' (instant photo).
+
+#### 📝 Prompt
+
+```
+Please add handwritten text ({argument name="date" default="2025.12.18"} + heart mark) and decorations to make it look like a Cheki (instant photo).
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Adding Handwritten Text and Decoration to an Image - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [AI_only](https://x.com/0x4149_6f6e6c79)
+- **Quelle:** [Twitter Post](https://x.com/0x4149_6f6e6c79/status/2001603835023007959)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Please%20add%20handwritten%20text%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20heart%20mark)%20and%20decorations%20to%20make%20it%20look%20like%20a%20Cheki%20(instant%20photo).)**
+
+---
+
+### No. 18: Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Beschreibung
+
+A Japanese prompt describing two characters: an exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath. This prompt was used to test GPT Image 1.5's ability to handle complex character descriptions and scenes with simple color palettes.
+
+#### 📝 Prompt
+
+```
+An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [ak@AI関係の投稿垢](https://x.com/Ak_Quen)
+- **Quelle:** [Twitter Post](https://x.com/Ak_Quen/status/2001599775582666974)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=An%20exorcist%20with%20fluffy%20rabbit%20ears%20and%20a%20rabbit%20familiar%20who%20is%20also%20an%20apprentice%20and%20wants%20to%20take%20a%20bath)**
+
+---
+
+### No. 19: GPT Image 1.5 World Tour Prompt Template
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+A detailed, structured prompt template for GPT Image 1.5 designed to generate photorealistic concert documentary images of a character performing a 'World Tour' at a specific geographical location defined by latitude and longitude. The prompt emphasizes maintaining character identity while integrating local culture and cinematic visual effects.
+
+#### 📝 Prompt
+
+```
+GENERAL STYLE & MOOD:
+Photorealistic live concert documentary. Cinematic visual expression blending the fervor of the enthusiastic audience with the unique atmosphere and lighting specific to the location.
+
+SUBJECT:
+The character from the attached image is performing a 'World Tour' live performance at the specified latitude and longitude location.
+While completely preserving the character's identity, they are wearing a 'World Tour exclusive stage costume' that modernly arranges the culture, tradition, or symbolic elements of that land.
+
+COMPOSITION & STAGE DESIGN:
+The stage is a special venue that maximizes the use of the local landmarks, topography, or urban landscape.
+- Dynamic angle using a wide-angle lens (24mm equivalent).
+- Immersive framing, looking up at the stage over the audience.
+- Fusion of iconic local backgrounds (architecture, natural scenery) and the latest lighting technology (LED, laser).
+
+LIGHTING & ENVIRONMENT:
+- Natural light based on the local time of day ( {argument name="time of day" default="golden hour, or night"}) determined by latitude and longitude.
+- Coexistence of spotlights illuminating the stage and bokeh from local streetlights or night views.
+- A sea of light created by the audience's glow sticks and smartphone lights.
+
+PRESERVE FROM IMAGE:
+- The character's facial features, hairstyle, hair color, and physical characteristics.
+- The character's unique expressions and performance habits.
+
+CONSTRAINTS / DO NOT:
+- Do not distort the character's form.
+- Avoid unnatural finger shapes or duplication of limbs.
+- Ensure that text or logos on the stage are depicted extremely clearly, avoiding illegible random strings.
+- The background must not be a generic concert venue; it must incorporate a unique landscape that could only exist in that specific location.
+
+LOCATION SPECIFICATION:
+{argument name="latitude" default="-13.1631"}
+{argument name="longitude" default="-72.5450"}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT Image 1.5 World Tour Prompt Template - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **Quelle:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2001592503926165895)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=GENERAL%20STYLE%20%26%20MOOD%3A%0APhotorealistic%20live%20concert%20documentary.%20Cinematic%20visual%20expression%20blending%20the%20fervor%20of%20the%20enthusiastic%20audience%20with%20the%20unique%20atmosphere%20and%20lighting%20specific%20to%20the%20location.%0A%0ASUBJECT%3A%0AThe%20character%20from%20the%20attached%20image%20is%20performing%20a%20'World%20Tour'%20live%20performance%20at%20the%20specified%20latitude%20and%20longitude%20location.%0AWhile%20completely%20preserving%20the%20character's%20identity%2C%20they%20are%20wearing%20a%20'World%20Tour%20exclusive%20stage%20costume'%20that%20modernly%20arranges%20the%20culture%2C%20tradition%2C%20or%20symbolic%20elements%20of%20that%20land.%0A%0ACOMPOSITION%20%26%20STAGE%20DESIGN%3A%0AThe%20stage%20is%20a%20special%20venue%20that%20maximizes%20the%20use%20of%20the%20local%20landmarks%2C%20topography%2C%20or%20urban%20landscape.%0A-%20Dynamic%20angle%20using%20a%20wide-angle%20lens%20(24mm%20equivalent).%0A-%20Immersive%20framing%2C%20looking%20up%20at%20the%20stage%20over%20the%20audience.%0A-%20Fusion%20of%20iconic%20local%20backgrounds%20(architecture%2C%20natural%20scenery)%20and%20the%20latest%20lighting%20technology%20(LED%2C%20laser).%0A%0ALIGHTING%20%26%20ENVIRONMENT%3A%0A-%20Natural%20light%20based%20on%20the%20local%20time%20of%20day%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22golden%20hour%2C%20or%20night%22%7D)%20determined%20by%20latitude%20and%20longitude.%0A-%20Coexistence%20of%20spotlights%20illuminating%20the%20stage%20and%20bokeh%20from%20local%20streetlights%20or%20night%20views.%0A-%20A%20sea%20of%20light%20created%20by%20the%20audience's%20glow%20sticks%20and%20smartphone%20lights.%0A%0APRESERVE%20FROM%20IMAGE%3A%0A-%20The%20character's%20facial%20features%2C%20hairstyle%2C%20hair%20color%2C%20and%20physical%20characteristics.%0A-%20The%20character's%20unique%20expressions%20and%20performance%20habits.%0A%0ACONSTRAINTS%20%2F%20DO%20NOT%3A%0A-%20Do%20not%20distort%20the%20character's%20form.%0A-%20Avoid%20unnatural%20finger%20shapes%20or%20duplication%20of%20limbs.%0A-%20Ensure%20that%20text%20or%20logos%20on%20the%20stage%20are%20depicted%20extremely%20clearly%2C%20avoiding%20illegible%20random%20strings.%0A-%20The%20background%20must%20not%20be%20a%20generic%20concert%20venue%3B%20it%20must%20incorporate%20a%20unique%20landscape%20that%20could%20only%20exist%20in%20that%20specific%20location.%0A%0ALOCATION%20SPECIFICATION%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
+
+---
+
+### No. 20: Romantic Blue Ink Spill Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A creative prompt instructing the model to convert an uploaded image of a couple into an ultra-realistic portrait rendered as a blue ink spill on paper, maintaining the faces but depicting a romantic pose and specific traditional clothing.
+
+#### 📝 Prompt
+
+```
+Convert the above image into ultra realistic portrait of both in a romantic pose in the form of blue ink spill in a paper .guy should be in formal shirt and pant .girl should be in flower designed saree.behind them  above their  head should have couple different  romantic  pose closeup face  picture in transparent form ..both should not look the camera .dramatic ( do not change the faces)
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [. ](https://x.com/ebi__mc)
+- **Quelle:** [Twitter Post](https://x.com/ebi__mc/status/2001584785760883114)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Convert%20the%20above%20image%20into%20ultra%20realistic%20portrait%20of%20both%20in%20a%20romantic%20pose%20in%20the%20form%20of%20blue%20ink%20spill%20in%20a%20paper%20.guy%20should%20be%20in%20formal%20shirt%20and%20pant%20.girl%20should%20be%20in%20flower%20designed%20saree.behind%20them%20%20above%20their%20%20head%20should%20have%20couple%20different%20%20romantic%20%20pose%20closeup%20face%20%20picture%20in%20transparent%20form%20..both%20should%20not%20look%20the%20camera%20.dramatic%20(%20do%20not%20change%20the%20faces))**
+
+---
+
+### No. 21: Modern Ukiyo-e Style Beauty Illustration
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Beschreibung
+
+A Japanese prompt for generating a modern recreation of a Ukiyo-e (woodblock print) style beauty portrait. The image should feature a beautiful woman wearing vividly colored and intricately patterned clothing, rendered as an illustration portrait.
+
+#### 📝 Prompt
+
+```
+It seems that many compositions of multicolored Ukiyo-e beauty portraits were created during the Edo period. As a modern recreation, please prepare an **illustration** portrait of a beautiful woman wearing vividly colored and intricately patterned clothing.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Modern Ukiyo-e Style Beauty Illustration - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [石の裏に潜む黒いヤツ](https://x.com/dangomushino)
+- **Quelle:** [Twitter Post](https://x.com/dangomushino/status/2001580761607295127)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=It%20seems%20that%20many%20compositions%20of%20multicolored%20Ukiyo-e%20beauty%20portraits%20were%20created%20during%20the%20Edo%20period.%20As%20a%20modern%20recreation%2C%20please%20prepare%20an%20**illustration**%20portrait%20of%20a%20beautiful%20woman%20wearing%20vividly%20colored%20and%20intricately%20patterned%20clothing.)**
+
+---
+
+### No. 22: Abstract Fibonacci Particle Facial Features CGI Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A detailed prompt requesting a computer-generated image (CGI) in a modern digital art style. The main subject is facial features composed of abstract, colorful Fibonacci particles flowing dynamically like layered water, set against a black-to-gray background with motion trails, using a bold isometric composition.
+
+#### 📝 Prompt
+
+```
+Using computer-generated imagery (CGI) technology, the scene is presented in a highly modern digital art style. The main subject of the image is facial features composed of abstract and colorful Fibonacci particles. The particles feature a rich color palette, including deep purple, dark blue, dull yellow, dark green, reddish-brown, off-white, and khaki, flowing dynamically like layered water. The background transitions from pure black to gray, cleverly creating the motion trails of the particles and a powerful sense of energy. A bold isometric composition is employed.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [NAIF | AI 🇸🇦](https://x.com/naifaix)
+- **Quelle:** [Twitter Post](https://x.com/naifaix/status/2001577850118496719)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Using%20computer-generated%20imagery%20(CGI)%20technology%2C%20the%20scene%20is%20presented%20in%20a%20highly%20modern%20digital%20art%20style.%20The%20main%20subject%20of%20the%20image%20is%20facial%20features%20composed%20of%20abstract%20and%20colorful%20Fibonacci%20particles.%20The%20particles%20feature%20a%20rich%20color%20palette%2C%20including%20deep%20purple%2C%20dark%20blue%2C%20dull%20yellow%2C%20dark%20green%2C%20reddish-brown%2C%20off-white%2C%20and%20khaki%2C%20flowing%20dynamically%20like%20layered%20water.%20The%20background%20transitions%20from%20pure%20black%20to%20gray%2C%20cleverly%20creating%20the%20motion%20trails%20of%20the%20particles%20and%20a%20powerful%20sense%20of%20energy.%20A%20bold%20isometric%20composition%20is%20employed.)**
+
+---
+
+### No. 23: Image-to-Sketch Transformation Prompt with Hand Detail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt for ChatGPT 5.2 that takes an uploaded photo and transforms it into a photo-style line drawing or ink sketch, requiring the model to maintain facial features exactly. It specifies the use of green and white ink on a notebook background, and includes the detail of a hand holding a pen and eraser near the sketch.
+
+#### 📝 Prompt
+
+```
+Create a photo-style line drawing / ink sketch of a face identical to the uploaded reference image — keep every facial feature, proportion, and expression exactly the same.
+Use green and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.
+Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="Image-to-Sketch Transformation Prompt with Hand Detail - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Rob May | AI & Cybersecurity Leader](https://x.com/robmay70)
+- **Quelle:** [Twitter Post](https://x.com/robmay70/status/2001555446465741150)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%20photo-style%20line%20drawing%20%2F%20ink%20sketch%20of%20a%20face%20identical%20to%20the%20uploaded%20reference%20image%20%E2%80%94%20keep%20every%20facial%20feature%2C%20proportion%2C%20and%20expression%20exactly%20the%20same.%0AUse%20green%20and%20white%20ink%20tones%20with%20intricate%2C%20fine%20line%20detailing%2C%20drawn%20on%20a%20notebook-page%20style%20background.%0AShow%20a%20right%20hand%20holding%20a%20pen%20and%20an%20eraser%20near%20the%20sketch%2C%20as%20if%20the%20artist%20is%20still%20working.)**
+
+---
+
+### No. 24: Cinematic Dual-Tone Portrait from Uploaded Photo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A step-by-step prompt for transforming an uploaded photo into an ultra-realistic, high-detail cinematic studio portrait using dramatic dual-tone lighting (teal and golden) while maintaining the subject's calm and confident presence.
+
+#### 📝 Prompt
+
+```
+"A cinematic studio portrait of the person in the uploaded photo, framed from the chest up, facing the camera with a calm, confident presence.
+
+Dramatic dual-tone lighting with cool teal and warm golden tones creating a modern, cinematic mood.
+
+Natural skin texture, sharp focus on the eyes, soft shadows, and smooth color transitions.
+
+Hair styled naturally, wearing a minimal dark outfit with a contemporary aesthetic.
+
+Clean studio background with subtle gradients.
+
+Professional photography, shallow depth of field, cinematic color grading, ultra-realistic, high detail, 4K quality.
+
+Aspect ratio: 3:4 "
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [✨ Pulikesi✨](https://x.com/23rd_Pulikesi)
+- **Quelle:** [Twitter Post](https://x.com/23rd_Pulikesi/status/2001549121908617489)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%22A%20cinematic%20studio%20portrait%20of%20the%20person%20in%20the%20uploaded%20photo%2C%20framed%20from%20the%20chest%20up%2C%20facing%20the%20camera%20with%20a%20calm%2C%20confident%20presence.%0A%0ADramatic%20dual-tone%20lighting%20with%20cool%20teal%20and%20warm%20golden%20tones%20creating%20a%20modern%2C%20cinematic%20mood.%0A%0ANatural%20skin%20texture%2C%20sharp%20focus%20on%20the%20eyes%2C%20soft%20shadows%2C%20and%20smooth%20color%20transitions.%0A%0AHair%20styled%20naturally%2C%20wearing%20a%20minimal%20dark%20outfit%20with%20a%20contemporary%20aesthetic.%0A%0AClean%20studio%20background%20with%20subtle%20gradients.%0A%0AProfessional%20photography%2C%20shallow%20depth%20of%20field%2C%20cinematic%20color%20grading%2C%20ultra-realistic%2C%20high%20detail%2C%204K%20quality.%0A%0AAspect%20ratio%3A%203%3A4%20%22)**
+
+---
+
+### No. 25: Moody Cinematic Portrait with Motion Blur
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A detailed prompt for generating a cinematic, high-contrast portrait of a young male model in a black suit, featuring harsh directional lighting, a tense expression, and a horizontal motion blur effect slicing across the face.
+
+#### 📝 Prompt
+
+```
+Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Heisenberg](https://x.com/rovvmut_)
+- **Quelle:** [Twitter Post](https://x.com/rovvmut_/status/2001539261838028810)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+
+---
+
+### No. 26: Retro Vintage Portrait from Reference Photo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt for creating a retro, vintage, grainy, but bright portrait based on an uploaded reference picture. It focuses on maintaining the exact facial features and likeness of the subject while placing them in a natural outdoor setting under soft, desaturated lighting.
+
+#### 📝 Prompt
+
+```
+Create a retro vintage grainy but bright image of the reference picture. Use the uploaded image as exact facial reference, keeping the same features, proportions, and likeness. wearing a loose white shirt and dark trousers, is sitting on the ground with his back against the trunk of a bare tree. His eyes are closed and his head is tilted back slightly. He is in a grassy field with a line of trees in the background under a clear sky. The lighting is natural and soft, with a slightly desaturated color palette. keep my face 100% same as in reference image
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [The One](https://x.com/the_onesuriya)
+- **Quelle:** [Twitter Post](https://x.com/the_onesuriya/status/2001535689889108247)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%20retro%20vintage%20grainy%20but%20bright%20image%20of%20the%20reference%20picture.%20Use%20the%20uploaded%20image%20as%20exact%20facial%20reference%2C%20keeping%20the%20same%20features%2C%20proportions%2C%20and%20likeness.%20wearing%20a%20loose%20white%20shirt%20and%20dark%20trousers%2C%20is%20sitting%20on%20the%20ground%20with%20his%20back%20against%20the%20trunk%20of%20a%20bare%20tree.%20His%20eyes%20are%20closed%20and%20his%20head%20is%20tilted%20back%20slightly.%20He%20is%20in%20a%20grassy%20field%20with%20a%20line%20of%20trees%20in%20the%20background%20under%20a%20clear%20sky.%20The%20lighting%20is%20natural%20and%20soft%2C%20with%20a%20slightly%20desaturated%20color%20palette.%20keep%20my%20face%20100%25%20same%20as%20in%20reference%20image)**
+
+---
+
+### No. 27: VTuber Gaming Thumbnail Creation Prompt
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Beschreibung
+
+A multi-step conversational prompt used to refine an image generation request for a VTuber gaming stream thumbnail. The initial request asks for a character (based on an uploaded image) to be shown intensely focused on a game controller, maintaining their style and outfit. The subsequent steps refine the character's appearance, requesting them to be more delicate, cuter, with a smaller bust size and long sleeves, and finally correcting a text error in the generated image.
+
+#### 📝 Prompt
+
+```
+Maintain the character's style and outfit, change the scene to them intensely gripping a game controller, and create a thumbnail image in the style of a fictional VTuber's game stream.
+
+They look a bit too robust, so please make them more delicate and cute. Also, the bust size should be more modest, and the sleeves should be long sleeves.
+
+Fix the collapsed 'Ge' in the top left corner.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [rei@AI art](https://x.com/rei_mikagura_AI)
+- **Quelle:** [Twitter Post](https://x.com/rei_mikagura_AI/status/2001524000619716669)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Maintain%20the%20character's%20style%20and%20outfit%2C%20change%20the%20scene%20to%20them%20intensely%20gripping%20a%20game%20controller%2C%20and%20create%20a%20thumbnail%20image%20in%20the%20style%20of%20a%20fictional%20VTuber's%20game%20stream.%0A%0AThey%20look%20a%20bit%20too%20robust%2C%20so%20please%20make%20them%20more%20delicate%20and%20cute.%20Also%2C%20the%20bust%20size%20should%20be%20more%20modest%2C%20and%20the%20sleeves%20should%20be%20long%20sleeves.%0A%0AFix%20the%20collapsed%20'Ge'%20in%20the%20top%20left%20corner.)**
+
+---
+
+### No. 28: Monochrome Studio Portrait with Dramatic Lighting
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A detailed prompt for generating a high-contrast, black and white studio portrait of a man, focusing on minimal lighting and deep shadows to create a calm, confident, and cinematic mood.
+
+#### 📝 Prompt
+
+```
+Create a monochrome studio portrait of a man. Use minimal lighting with soft falloff so the focus stays entirely on him, with subtle gradients and deep shadows shaping his face. The composition should be a tight-medium shot against a clean, distraction-free background. He’s dressed in a casual, stylish outfit—like a simple tee or sweatshirt with light texture that works well in black and white. The overall mood should feel calm and confident, with a pleasing, balanced vibe. Render it in high-contrast black and white with crisp details, smooth tones, and a subtle cinematic depth.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Johnn](https://x.com/john_my07)
+- **Quelle:** [Twitter Post](https://x.com/john_my07/status/2001508911380414888)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%20monochrome%20studio%20portrait%20of%20a%20man.%20Use%20minimal%20lighting%20with%20soft%20falloff%20so%20the%20focus%20stays%20entirely%20on%20him%2C%20with%20subtle%20gradients%20and%20deep%20shadows%20shaping%20his%20face.%20The%20composition%20should%20be%20a%20tight-medium%20shot%20against%20a%20clean%2C%20distraction-free%20background.%20He%E2%80%99s%20dressed%20in%20a%20casual%2C%20stylish%20outfit%E2%80%94like%20a%20simple%20tee%20or%20sweatshirt%20with%20light%20texture%20that%20works%20well%20in%20black%20and%20white.%20The%20overall%20mood%20should%20feel%20calm%20and%20confident%2C%20with%20a%20pleasing%2C%20balanced%20vibe.%20Render%20it%20in%20high-contrast%20black%20and%20white%20with%20crisp%20details%2C%20smooth%20tones%2C%20and%20a%20subtle%20cinematic%20depth.)**
+
+---
+
+### No. 29: Futuristic Architectural Landmarks based on Calculus Symbols
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt for generating a 2x2 grid of futuristic architectural landmarks, where each structure is based on an important calculus symbol. The scene is set in a utopian solarpunk city with bright, clean aesthetics.
+
+#### 📝 Prompt
+
+```
+A 2x2 grid of 4 futuristic architectural landmarks based on important calculus symbols, Set in a utopian solarpunk city, bright midday sunlight, clean white materials, glass and steel, cyan sky, architectural photography, Lumion render, wide angle, high exposure, sense of scale
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2001507463841947706)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%202x2%20grid%20of%204%20futuristic%20architectural%20landmarks%20based%20on%20important%20calculus%20symbols%2C%20Set%20in%20a%20utopian%20solarpunk%20city%2C%20bright%20midday%20sunlight%2C%20clean%20white%20materials%2C%20glass%20and%20steel%2C%20cyan%20sky%2C%20architectural%20photography%2C%20Lumion%20render%2C%20wide%20angle%2C%20high%20exposure%2C%20sense%20of%20scale)**
+
+---
+
+### No. 30: Futuristic Fashion Editorial with Identity Preservation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A highly structured JSON prompt for generating a photorealistic futuristic fashion editorial image. It mandates strict identity preservation, using the exact face and expression from an uploaded photo, while styling the subject in specific oversized clothing in a minimalist sky-blue studio.
+
+#### 📝 Prompt
+
+```
+{
+  "type": "image_generation_prompt",
+  "style": "fashion editorial x futuristic",
+  "identity_preservation": {
+    "use_uploaded_image": true,
+    "alter_face": false,
+    "notes": "Use the same face and hairstyle from the uploaded photo. Do not change facial features or facial expression."
+  },
+  "subject": {
+    "gender": "female",
+    "pose": {
+      "position": "seated",
+      "posture": "elegant and relaxed",
+      "expression": "unchanged from the reference image"
+    }
+  },
+  "wardrobe": {
+    "top": "oversized white sweatshirt",
+    "bottoms": "cloudy blue oversized combat jeans",
+    "footwear": "cloudy blue neutral sneakers or Nike sneakers",
+    "socks": "white ribbed socks"
+  },
+  "environment": {
+    "setting": "studio",
+    "background": {
+      "color": "muted sky-blue tone",
+      "style": "clean, minimalist"
+    }
+  },
+  "lighting": {
+    "type": "soft cinematic glow",
+    "effects": [
+      "highlights skin texture",
+      "enhances fabric textures"
+    ]
+  },
+  "composition": {
+    "style": "editorial",
+    "focus": "model-centered with balanced framing"
+  },
+  "quality": {
+    "realism": "photorealistic",
+    "detail_level": "high detail in skin and fabric"
+  },
+  "output_goal": "Create a futuristic fashion editorial image of a woman seated with a relaxed posture in a sky-blue studio environment, preserving her exact facial identity and expression from the reference photo."
+}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Quelle:** [Twitter Post](https://x.com/saniaspeaks_/status/2001501423759196203)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22fashion%20editorial%20x%20futuristic%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Use%20the%20same%20face%20and%20hairstyle%20from%20the%20uploaded%20photo.%20Do%20not%20change%20facial%20features%20or%20facial%20expression.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22female%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seated%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22elegant%20and%20relaxed%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22unchanged%20from%20the%20reference%20image%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22oversized%20white%20sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22cloudy%20blue%20oversized%20combat%20jeans%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22cloudy%20blue%20neutral%20sneakers%20or%20Nike%20sneakers%22%2C%0A%20%20%20%20%22socks%22%3A%20%22white%20ribbed%20socks%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22muted%20sky-blue%20tone%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22clean%2C%20minimalist%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22soft%20cinematic%20glow%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22highlights%20skin%20texture%22%2C%0A%20%20%20%20%20%20%22enhances%20fabric%20textures%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22editorial%22%2C%0A%20%20%20%20%22focus%22%3A%20%22model-centered%20with%20balanced%20framing%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22photorealistic%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22high%20detail%20in%20skin%20and%20fabric%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Create%20a%20futuristic%20fashion%20editorial%20image%20of%20a%20woman%20seated%20with%20a%20relaxed%20posture%20in%20a%20sky-blue%20studio%20environment%2C%20preserving%20her%20exact%20facial%20identity%20and%20expression%20from%20the%20reference%20photo.%22%0A%7D)**
+
+---
+
+### No. 31: Technical Prompt for 3x2 Robot Character Matrix
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt designed to test the technical instruction following of image models by requesting a 3x2 matrix showing six different views (front, back, left, right, top, bottom) of a highly detailed robot character, emphasizing PBR quality.
+
+#### 📝 Prompt
+
+```
+Create a 3x2 matrix of a robot character. Show front, back, left, right, top, and bottom view in each matrix. The PBR should be at highest quality and the character design should be highly detailed.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [eX0](https://x.com/exxeero)
+- **Quelle:** [Twitter Post](https://x.com/exxeero/status/2001496801065697747)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%203x2%20matrix%20of%20a%20robot%20character.%20Show%20front%2C%20back%2C%20left%2C%20right%2C%20top%2C%20and%20bottom%20view%20in%20each%20matrix.%20The%20PBR%20should%20be%20at%20highest%20quality%20and%20the%20character%20design%20should%20be%20highly%20detailed.)**
+
+---
+
+### No. 32: Ultra-Realistic Editorial Portrait based on Reference Image
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A detailed prompt for generating an ultra-realistic editorial portrait of an Indian woman in a specific Sabyasachi black saree, requiring the model to maintain the pose, framing, and mood of an uploaded reference image while specifying jewelry, hair, makeup, lighting, and aesthetic style.
+
+#### 📝 Prompt
+
+```
+Using the reference image, create an ultra-realistic editorial portrait of an Indian woman in a signature Sabyasachi black saree with subtle antique gold detailing. Keep the same pose, framing, and mood as the reference. Heavy gold choker, center-parted loose hair, minimal makeup with kohl eyes. Dark textured studio background, low-key dramatic lighting.
+Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI gloss.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Ultra-Realistic Editorial Portrait based on Reference Image - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Sravani K](https://x.com/sravs_AI_labs)
+- **Quelle:** [Twitter Post](https://x.com/sravs_AI_labs/status/2001494251910402132)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Using%20the%20reference%20image%2C%20create%20an%20ultra-realistic%20editorial%20portrait%20of%20an%20Indian%20woman%20in%20a%20signature%20Sabyasachi%20black%20saree%20with%20subtle%20antique%20gold%20detailing.%20Keep%20the%20same%20pose%2C%20framing%2C%20and%20mood%20as%20the%20reference.%20Heavy%20gold%20choker%2C%20center-parted%20loose%20hair%2C%20minimal%20makeup%20with%20kohl%20eyes.%20Dark%20textured%20studio%20background%2C%20low-key%20dramatic%20lighting.%0ATimeless%2C%20restrained%2C%20classic%20Sabyasachi%20aesthetic.%20No%20modern%20styling%2C%20no%20AI%20gloss.)**
+
+---
+
+### No. 33: Challenging Emotional Conveyance Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+A prompt designed to test the AI's ability to convey complex, contradictory emotions simultaneously: a person accepting an award with tears of joy while receiving devastating news via an earpiece.
+
+#### 📝 Prompt
+
+```
+""A person standing at a podium, accepting an award with tears of joy streaming down their face, while simultaneously receiving news via an earpiece that a loved one has fallen seriously ill. Their expression should convey both elation and heartbreak. Natural light photo, photo realism,4k, ultra realistic."
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Challenging Emotional Conveyance Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Kevin David Hayes](https://x.com/kevindavidhayes)
+- **Quelle:** [Twitter Post](https://x.com/kevindavidhayes/status/2001485444916076836)
+- **Veröffentlicht:** 18. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%22%22A%20person%20standing%20at%20a%20podium%2C%20accepting%20an%20award%20with%20tears%20of%20joy%20streaming%20down%20their%20face%2C%20while%20simultaneously%20receiving%20news%20via%20an%20earpiece%20that%20a%20loved%20one%20has%20fallen%20seriously%20ill.%20Their%20expression%20should%20convey%20both%20elation%20and%20heartbreak.%20Natural%20light%20photo%2C%20photo%20realism%2C4k%2C%20ultra%20realistic.%22)**
+
+---
+
+### No. 34: ChatGPT Anime-Charakter-Generierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -137,7 +1650,7 @@ Verwandle sie in einen Anime-Charakter
 
 ---
 
-### No. 2: GPT Bild 1.5 Prompt: Javanischer Pendekar auf dem Schlachtfeld
+### No. 35: GPT Bild 1.5 Prompt: Javanischer Pendekar auf dem Schlachtfeld
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -156,7 +1669,7 @@ Ein Schlachtfeld in der Morgendämmerung im Java des 12. Jahrhunderts, dargestel
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035938005_52m8b6_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT Bild 1.5 Prompt: Javanischer Pendekar auf dem Schlachtfeld - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT Bild 1.5 Prompt: Javanischer Pendekar auf dem Schlachtfeld - Image 1">
 </div>
 
 #### 📌 Details
@@ -170,7 +1683,7 @@ Ein Schlachtfeld in der Morgendämmerung im Java des 12. Jahrhunderts, dargestel
 
 ---
 
-### No. 3: Mädchen auf dem Dach blickt in den Himmel
+### No. 36: Mädchen auf dem Dach blickt in den Himmel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -203,7 +1716,7 @@ Stellen Sie die Sehnsucht und das Gefühl der Befreiung eines Mädchens dar, das
 
 ---
 
-### No. 4: Max und ein Karibu-Freund
+### No. 37: Max und ein Karibu-Freund
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -236,7 +1749,7 @@ Gib Max einen niedlichen Karibu-Freund
 
 ---
 
-### No. 5: FCG-Methoden-Prompt: Zeitraffer-Geschichte
+### No. 38: FCG-Methoden-Prompt: Zeitraffer-Geschichte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -269,7 +1782,7 @@ Erstelle eine Reihe von Bildern, die zeigen, was nach 5 Minuten, 10 Minuten, 1 S
 
 ---
 
-### No. 6: Bilderzeugung für „Tagesseite“
+### No. 39: Bilderzeugung für „Tagesseite“
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -302,7 +1815,7 @@ eine Website mit dem Bild des Tages
 
 ---
 
-### No. 7: K-Pop-Star Bildgenerierungs-Prompt
+### No. 40: K-Pop-Star Bildgenerierungs-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -335,7 +1848,7 @@ Wie würde ich als K-Pop-Star aussehen?
 
 ---
 
-### No. 8: KI-Kunst-Collage-Prompt für Bildungszwecke
+### No. 41: KI-Kunst-Collage-Prompt für Bildungszwecke
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -368,7 +1881,7 @@ Das Subjekt wird zum zehnten Teil, das in der Mitte gestapelt ist.
 
 ---
 
-### No. 9: Unheimlicher Flur mit Schattenkreatur-Prompt
+### No. 42: Unheimlicher Flur mit Schattenkreatur-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -401,7 +1914,7 @@ Ein schwach beleuchteter, leerer Flur, gesäumt von antiken Porträts, deren Aug
 
 ---
 
-### No. 10: Realistischer Hai spielt Klavier
+### No. 43: Realistischer Hai spielt Klavier
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -420,7 +1933,7 @@ Ein realistischer Hai, der Klavier spielt
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035950315_v21z08_G8aZO6BXIAAwPrH.jpg" width="600" alt="Realistischer Hai spielt Klavier - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="Realistischer Hai spielt Klavier - Image 1">
 </div>
 
 #### 📌 Details
@@ -434,7 +1947,7 @@ Ein realistischer Hai, der Klavier spielt
 
 ---
 
-### No. 11: Porträt: Silhouette im starken Licht
+### No. 44: Porträt: Silhouette im starken Licht
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -467,7 +1980,7 @@ Verloren im Glanz bleibt nur meine Silhouette.
 
 ---
 
-### No. 12: Unheimlicher Flur mit Schattenkreatur-Prompt
+### No. 45: Unheimlicher Flur mit Schattenkreatur-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -518,7 +2031,7 @@ Ein schwach beleuchteter, leerer Flur, gesäumt von antiken Porträts, deren Aug
 
 ---
 
-### No. 13: Stereotypisches Arzt-Kopfschuss-Prompt
+### No. 46: Stereotypisches Arzt-Kopfschuss-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -551,7 +2064,7 @@ Ein Prompt, der in einer Studie (auf die im Tweet verwiesen wird) verwendet wurd
 
 ---
 
-### No. 14: Archivsimulation zum architektonischen Design der Qing-Dynastie
+### No. 47: Archivsimulation zum architektonischen Design der Qing-Dynastie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -591,7 +2104,7 @@ Ein hochpräzises Archivbild antiker chinesischer Architektur im „Yangshi Lei�
 
 ---
 
-### No. 15: GPT-5.2 Bildanalyse-Prompt
+### No. 48: GPT-5.2 Bildanalyse-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -643,7 +2156,7 @@ Von vorne, von hinten, von links, von rechts, von oben, von unten, von schräg o
 
 ---
 
-### No. 16: Bildbearbeitungsanweisungen für Schmuck und Kleidung
+### No. 49: Bildbearbeitungsanweisungen für Schmuck und Kleidung
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -684,7 +2197,7 @@ Das Handgelenk sieht kalt aus, den Ärmel schön verlängern.
 
 ---
 
-### No. 17: Ultra-realistischer Editorial-Prompt für eine unbeabsichtigte Sturzpose
+### No. 50: Ultra-realistischer Editorial-Prompt für eine unbeabsichtigte Sturzpose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -805,7 +2318,7 @@ Ein hochstrukturierter JSON-Prompt für GPT Image 1.5 zur Generierung eines ultr
 
 ---
 
-### No. 18: Hund auf Skateboard Original iPhone Foto Prompt
+### No. 51: Hund auf Skateboard Original iPhone Foto Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -844,7 +2357,7 @@ Foto eines Hundes auf einem Skateboard, aufgenommen mit dem originalen iPhone.
 
 ---
 
-### No. 19: Pop-Art Comic-Buch-Porträt der 1960er Jahre
+### No. 52: Pop-Art Comic-Buch-Porträt der 1960er Jahre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -877,7 +2390,7 @@ Ein Porträt der Person im Pop-Art-Stil eines Comicbuchs der 1960er Jahre, illus
 
 ---
 
-### No. 20: 5G Smartphone Infografik Prompt
+### No. 53: 5G Smartphone Infografik Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -916,7 +2429,7 @@ Erstellen Sie eine Infografik, die die wichtigen internen und externen Komponent
 
 ---
 
-### No. 21: Eine satirische Karikatur im Stil von Hua Junwu erstellen
+### No. 54: Eine satirische Karikatur im Stil von Hua Junwu erstellen
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -964,7 +2477,7 @@ Zeichne die folgende satirische Karikatur im Stil von {argument name="artist sty
 
 ---
 
-### No. 22: Makrofotografie-Prompt für Textur und Detail
+### No. 55: Makrofotografie-Prompt für Textur und Detail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -984,25 +2497,25 @@ Eine Makroaufnahme der Oberfläche einer alten, gut abgenutzten {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035442890_tmkgmr_G8ZaOEQWgAEh8_r.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035443115_k369g6_G8ZaI9BWIAEUWcT.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035443468_3a09hz_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035445152_kpqv8n_G8ZaaOHXUAA2rTn.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="Makrofotografie-Prompt für Textur und Detail - Image 4">
 </div>
 
 #### 📌 Details
@@ -1016,7 +2529,7 @@ Eine Makroaufnahme der Oberfläche einer alten, gut abgenutzten {argument name="
 
 ---
 
-### No. 23: Detaillierte Anzeigengenerierung
+### No. 56: Detaillierte Anzeigengenerierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1049,7 +2562,7 @@ Erstellen Sie eine detaillierte Anzeige für ihr Weihnachtsoutfit.
 
 ---
 
-### No. 24: Generieren Sie eine Live-Action-Besetzung eines Animes
+### No. 57: Generieren Sie eine Live-Action-Besetzung eines Animes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1095,7 +2608,7 @@ Nenne mir die Realfilm-Besetzung von {argument name="anime title" default="[anim
 
 ---
 
-### No. 25: Generierung eines filmischen Kontaktbogens aus einem Referenzbild-Prompt
+### No. 58: Generierung eines filmischen Kontaktbogens aus einem Referenzbild-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1128,7 +2641,7 @@ Studieren Sie das hochgeladene Bild sorgfältig und verinnerlichen Sie die Szene
 
 ---
 
-### No. 26: Prompt zur Bilderzeugung mit mittlerer Auflösung
+### No. 59: Prompt zur Bilderzeugung mit mittlerer Auflösung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1161,7 +2674,7 @@ Ein hochdetailliertes, filmisches Foto eines einsamen, alten Samurai, der auf ei
 
 ---
 
-### No. 27: Testen der Stilbeibehaltung und -modifikation in GPT Image 1.5
+### No. 60: Testen der Stilbeibehaltung und -modifikation in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1214,7 +2727,7 @@ Wechseln Sie zu einem Headset und formen Sie mit beiden Händen ein Herz, wobei 
 
 ---
 
-### No. 28: Historischer Realismus-Prompt für ein Foto der Berliner Mauer
+### No. 61: Historischer Realismus-Prompt für ein Foto der Berliner Mauer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1253,7 +2766,7 @@ Realistisches iPhone-Foto, aufgenommen am 9. November 1989 um 52°31′12″N 13
 
 ---
 
-### No. 29: Oreo-Werbung mit dem Weihnachtsmann
+### No. 62: Oreo-Werbung mit dem Weihnachtsmann
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1292,7 +2805,7 @@ Erstelle eine 9:16 Oreo-Werbung mit dem Weihnachtsmann.
 
 ---
 
-### No. 30: City Poster Prompt, getestet mit GPT-1.5
+### No. 63: City Poster Prompt, getestet mit GPT-1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1326,7 +2839,7 @@ Ein lebendiges, retro-futuristisches Reiseposter für die Stadt {argument name="
 
 ---
 
-### No. 31: Bildbearbeitungs-Prompt: Kreaturen zum Hintergrund hinzufügen
+### No. 64: Bildbearbeitungs-Prompt: Kreaturen zum Hintergrund hinzufügen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1360,7 +2873,7 @@ Verwende das erste Bild und dessen Stil und Größe, um die Kreatur aus dem zwei
 
 ---
 
-### No. 32: Charakterbogen-Generierungs-Prompt (GPT und Nano Banana)
+### No. 65: Charakterbogen-Generierungs-Prompt (GPT und Nano Banana)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1399,7 +2912,7 @@ im gleichen Stil wie das Bild, erstelle einen Charakterbogen, der in 5 separate 
 
 ---
 
-### No. 33: Bild in Nachtszene mit warmen Lichtern umwandeln
+### No. 66: Bild in Nachtszene mit warmen Lichtern umwandeln
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1438,7 +2951,7 @@ In eine Nachtszene mit warmen Lichtern umwandeln.
 
 ---
 
-### No. 34: Skateboarding-Teenager-Film-Fotografie-Prompt
+### No. 67: Skateboarding-Teenager-Film-Fotografie-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1477,7 +2990,7 @@ Ein schwarzer Teenager führt schwierige Skateboard-Tricks in einem mit Graffiti
 
 ---
 
-### No. 35: Hyperrealistisches Foto einer Hand mit Diamantarmbändern
+### No. 68: Hyperrealistisches Foto einer Hand mit Diamantarmbändern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1516,7 +3029,7 @@ Ein hyperrealistisches Foto einer Frauenhand, die von oben bis unten im Bild vol
 
 ---
 
-### No. 36: JS Engineer Coding-Szene mit spezifischem Text
+### No. 69: JS Engineer Coding-Szene mit spezifischem Text
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1550,7 +3063,7 @@ Erstellen Sie ein Bild von einem JS-Ingenieur, der sich mit KI beschäftigt und 
 
 ---
 
-### No. 37: Glitzer-Bomben-Pro-Wrestling-Idol-Neubesetzungs-Prompt
+### No. 70: Glitzer-Bomben-Pro-Wrestling-Idol-Neubesetzungs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1590,7 +3103,7 @@ Unter Verwendung von [subject image] als Referenz, verwandle sie in ein Glitter-
 
 ---
 
-### No. 38: Kleidungs-Transfer-Prompt für die Charaktergenerierung
+### No. 71: Kleidungs-Transfer-Prompt für die Charaktergenerierung
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1635,7 +3148,7 @@ Die Frau im ersten Bild sollte alle Elemente aus dem zweiten Bild tragen oder an
 
 ---
 
-### No. 39: Flache Vektorillustration einer arbeitenden Frau
+### No. 72: Flache Vektorillustration einer arbeitenden Frau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1668,7 +3181,7 @@ Flache Vektorgrafik einer Frau mit blonden Haaren, die an einem Schreibtisch sit
 
 ---
 
-### No. 40: Verbesserung der asymmetrischen Elementidentifikation in GPT Image 1.5
+### No. 73: Verbesserung der asymmetrischen Elementidentifikation in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1701,7 +3214,7 @@ Bitte achten Sie darauf, Elemente, die auf der linken und rechten Seite stark as
 
 ---
 
-### No. 41: Fotorealistischer Stockfoto-Prompt einer Frau
+### No. 74: Fotorealistischer Stockfoto-Prompt einer Frau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1735,7 +3248,7 @@ Vorderansicht einer niedlichen Frau mit {argument name="hair color" default="sch
 
 ---
 
-### No. 42: Deutsches Alphabet-Poster für Kinder
+### No. 75: Deutsches Alphabet-Poster für Kinder
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1774,7 +3287,7 @@ Ein Poster mit allen Buchstaben des Alphabets von A bis Z. Unter jedem Buchstabe
 
 ---
 
-### No. 43: Kolossaler Mann sitzt auf Londoner Straße – Prompt
+### No. 76: Kolossaler Mann sitzt auf Londoner Straße – Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1813,7 +3326,7 @@ Ultraphotorealistische Weitwinkel-Drohnenaufnahme eines kolossalen Mannes, desse
 
 ---
 
-### No. 44: Grafik in transparentes Aquarellbild umwandeln
+### No. 77: Grafik in transparentes Aquarellbild umwandeln
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1846,7 +3359,7 @@ Verwandeln Sie es in ein transparentes Aquarellgemälde, gezeichnet in einem Ski
 
 ---
 
-### No. 45: Cyborg- und Meerjungfrauen-Schüler-Begegnungs-Prompt
+### No. 78: Cyborg- und Meerjungfrauen-Schüler-Begegnungs-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1885,7 +3398,7 @@ Die Begegnung zwischen einem Gakuran-Cyborg-Jungen und einem Gakuran-Meerjungfra
 
 ---
 
-### No. 46: Grafik in Bleistiftskizze umwandeln
+### No. 79: Grafik in Bleistiftskizze umwandeln
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1924,7 +3437,7 @@ Bitte wandeln Sie es in einen sorgfältig gezeichneten Bleistiftentwurf um.
 
 ---
 
-### No. 47: Detaillierte Küstenlandschaft aus der Luft
+### No. 80: Detaillierte Küstenlandschaft aus der Luft
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1957,7 +3470,7 @@ Luftaufnahmen einer Drohne, entlang der Küste, steile Klippen, fliegende Möwen
 
 ---
 
-### No. 48: Testen der partiellen Bildkorrektur und Posenmodifikation in GPT-Image-1.5
+### No. 81: Testen der partiellen Bildkorrektur und Posenmodifikation in GPT-Image-1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2011,7 +3524,7 @@ Der Benutzer versucht, ein generiertes Bild zu modifizieren, indem er das Ausseh
 
 ---
 
-### No. 49: Testen der strikten Prompt-Adhärenz in GPT Image 1.5 vs. Gemini
+### No. 82: Testen der strikten Prompt-Adhärenz in GPT Image 1.5 vs. Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2068,7 +3581,7 @@ Texthandhabung / Infografik-Hierarchie
 
 ---
 
-### No. 50: Trollhorden-Angriffs-Visualisierungs-Prompt (Japanisch)
+### No. 83: Trollhorden-Angriffs-Visualisierungs-Prompt (Japanisch)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2101,7 +3614,7 @@ Stellen Sie sich eine Welt vor, die von einer Horde Trolle als Gattungsbegriff a
 
 ---
 
-### No. 51: Realistischer Platybelodon-Generierungs-Prompt
+### No. 84: Realistischer Platybelodon-Generierungs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2134,7 +3647,7 @@ Erzeugen Sie ein realistisches Foto eines Platybelodon, treffen Sie alle notwend
 
 ---
 
-### No. 52: Redaktionelles Porträt: Robuste Heritage Wear
+### No. 85: Redaktionelles Porträt: Robuste Heritage Wear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2173,7 +3686,7 @@ Aufgenommen mit einer Mittelformat-Hasselblad 500CM und Kodak Portra 400 Film, w
 
 ---
 
-### No. 53: Detaillierter Falknerei-Porträt-Prompt für GPT Image 1.5
+### No. 86: Detaillierter Falknerei-Porträt-Prompt für GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2242,7 +3755,7 @@ Ein hochstrukturierter und detaillierter Prompt, der für GPT Image 1.5 entwicke
 
 ---
 
-### No. 54: Mode- und Ästhetik-Bilderzeugung mit GPT Image 1.5
+### No. 87: Mode- und Ästhetik-Bilderzeugung mit GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2276,7 +3789,7 @@ Ein Mann in einem weißen Hemd, einer schwarzen Anzughose und schwarzen Ledersch
 
 ---
 
-### No. 55: Bilder für japanische Gedenktage generieren
+### No. 88: Bilder für japanische Gedenktage generieren
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2309,7 +3822,7 @@ Tag des Flugzeugs, Meiji Bulgaria Joghurt-Tag, Wachifield-Tag, Kasuga Wakamiya O
 
 ---
 
-### No. 56: Bildbearbeitungs-Prompt für Kieferpartie, Brille und Kopfform
+### No. 89: Bildbearbeitungs-Prompt für Kieferpartie, Brille und Kopfform
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2354,7 +3867,7 @@ was ich mit der roten Linie markiert habe: Kieferpartie so gestalten, Brille hin
 
 ---
 
-### No. 57: Detaillierter Prompt zur Restaurierung alter Fotos mit GPT Image 1.5
+### No. 90: Detaillierter Prompt zur Restaurierung alter Fotos mit GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2474,7 +3987,7 @@ Ein hochdetaillierter, strukturierter JSON-Prompt, der für die Porträtwiederhe
 
 ---
 
-### No. 58: Poster-Prompt für Fotobeleuchtungs-Setups
+### No. 91: Poster-Prompt für Fotobeleuchtungs-Setups
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2507,7 +4020,7 @@ Erstellen Sie ein Poster mit den wichtigsten Beleuchtungs-Setups, die in der Fot
 
 ---
 
-### No. 59: Isometrische Miniatur-3D-Cartoon-Szene von New York
+### No. 92: Isometrische Miniatur-3D-Cartoon-Szene von New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2546,7 +4059,7 @@ Präsentieren Sie eine isometrische Miniatur-3D-Cartoon-Szene von New York, USA,
 
 ---
 
-### No. 60: Yoruba-Mann mit „Pele“-Stammesnarben Stresstest-Prompt
+### No. 93: Yoruba-Mann mit „Pele“-Stammesnarben Stresstest-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2585,7 +4098,7 @@ Hyperrealistisches Porträt eines Oyo-Yoruba-Mannes mit „Pele“-Stammesnarben
 
 ---
 
-### No. 61: Bildbearbeitungs-Prompt für die Anpassung von Händen und Füßen
+### No. 94: Bildbearbeitungs-Prompt für die Anpassung von Händen und Füßen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2624,7 +4137,7 @@ Bitte korrigieren Sie die linke Hand und zeichnen Sie den linken Fuß neu, indem
 
 ---
 
-### No. 62: Bild 1.5 Prompt für Schlüsselanhänger-Design
+### No. 95: Bild 1.5 Prompt für Schlüsselanhänger-Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2657,7 +4170,7 @@ Wird zum Schlüsselanhänger
 
 ---
 
-### No. 63: Chibi-Sticker mit verschiedenen Posen und Ausdrücken generieren
+### No. 96: Chibi-Sticker mit verschiedenen Posen und Ausdrücken generieren
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2696,7 +4209,7 @@ GPT Image 1.5 Generieren Sie Sticker im Chibi-Stil mit verschiedenen Outfits, Po
 
 ---
 
-### No. 64: Ein Bild in einem völlig realen Stil neu erstellen
+### No. 97: Ein Bild in einem völlig realen Stil neu erstellen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2735,7 +4248,7 @@ Stellen Sie dies in einer völlig realen Welt nach.
 
 ---
 
-### No. 65: Futuristische Stadt-Skyline bei Sonnenuntergang Prompt
+### No. 98: Futuristische Stadt-Skyline bei Sonnenuntergang Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2768,7 +4281,7 @@ Eine futuristische Stadtkulisse bei Sonnenuntergang, mit fliegenden Autos und Ne
 
 ---
 
-### No. 66: Verwandeln Sie Motive im Stil der amerikanischen Gotik
+### No. 99: Verwandeln Sie Motive im Stil der amerikanischen Gotik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2801,7 +4314,7 @@ Verwandeln Sie die Motive in American Gothic von Grant Wood
 
 ---
 
-### No. 67: Einfacher Prompt für die Blickrichtung des Motivs
+### No. 100: Einfacher Prompt für die Blickrichtung des Motivs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2840,7 +4353,7 @@ Ein einfacher Prompt, der verwendet wurde, um die Fähigkeit von Nano Banana Pro
 
 ---
 
-### No. 68: Coole Bildgenerierung aus Referenz
+### No. 101: Coole Bildgenerierung aus Referenz
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2885,7 +4398,7 @@ Zeichne ein super cooles Bild mit diesem Bild von zwei Personen
 
 ---
 
-### No. 69: Hochdetaillierter JSON-Prompt für Indoor-Fitness-Spiegel-Selfie
+### No. 102: Hochdetaillierter JSON-Prompt für Indoor-Fitness-Spiegel-Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3014,7 +4527,7 @@ Ein extrem detaillierter, strukturierter JSON-Prompt für GPT 1.5, der jeden Asp
 
 ---
 
-### No. 70: Sam Altman Scooty Ride Cinematic Realism Prompt
+### No. 103: Sam Altman Scooty Ride Cinematic Realism Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3053,7 +4566,7 @@ Sam Altman balanciert einen Laptop, während er einen Roller fährt, übergroße
 
 ---
 
-### No. 71: Modernes Landingpage-Design für Polyphonic
+### No. 104: Modernes Landingpage-Design für Polyphonic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3104,7 +4617,7 @@ Erstellen Sie eine moderne Landingpage für Polyphonic, mit diesem Bild in einem
 
 ---
 
-### No. 72: 4-Panel-Bild einer fallenden und zerbrechenden Teetasse
+### No. 105: 4-Panel-Bild einer fallenden und zerbrechenden Teetasse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3144,7 +4657,7 @@ Ein komplexer Prompt, der eine 4-teilige Sequenz erfordert, die zeigt, wie eine 
 
 ---
 
-### No. 73: Infografik zur Erklärung der Fibonacci-Folge mit Mathematik und Code
+### No. 106: Infografik zur Erklärung der Fibonacci-Folge mit Mathematik und Code
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3177,7 +4690,7 @@ Erstellen Sie eine Infografik, die erklärt, wie die Fibonacci-Folge sowohl math
 
 ---
 
-### No. 74: Dark-Mode Weihnachtsgeschenk-Website-UI-Design
+### No. 107: Dark-Mode Weihnachtsgeschenk-Website-UI-Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3210,7 +4723,7 @@ Dark-Mode-Weihnachtsgeschenk-Website. Glassmorphismus-UI, tiefrote und tannengr�
 
 ---
 
-### No. 75: Blitzschnelles Selfie von Sam Altman
+### No. 108: Blitzschnelles Selfie von Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3249,7 +4762,7 @@ Ein Frontkamera-Selfie von Sam Altman, bei dem der Blitz versehentlich ausgelös
 
 ---
 
-### No. 76: Künstlerische Porträtbearbeitung für Mädchen (Bild-zu-Bild)
+### No. 109: Künstlerische Porträtbearbeitung für Mädchen (Bild-zu-Bild)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3301,7 +4814,7 @@ Bitte bearbeite dieses Foto, ohne das Gesicht zu verändern, und verwandle es in
 
 ---
 
-### No. 77: Takoyaki-Illustration und Prompts zur Synthese des Ladeninterieurs
+### No. 110: Takoyaki-Illustration und Prompts zur Synthese des Ladeninterieurs
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3353,7 +4866,7 @@ Das Bild so synthetisieren, dass es aussieht, als wäre es aus dem Inneren des L
 
 ---
 
-### No. 78: Erstellen Sie eine realistische Figur aus einem Foto
+### No. 111: Erstellen Sie eine realistische Figur aus einem Foto
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -3386,7 +4899,7 @@ Bitte erstellen Sie es als Figur, die wie ein echtes Foto aussieht
 
 ---
 
-### No. 79: Ungefiltertes Spiegel-Selfie mit Tech-Führungskräften
+### No. 112: Ungefiltertes Spiegel-Selfie mit Tech-Führungskräften
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3425,7 +4938,7 @@ Ein unbearbeitetes, ungefiltertes Amateur-Spiegel-Selfie, aufgenommen mit einem 
 
 ---
 
-### No. 80: Technische schematische Überlagerung auf der Ksitigarbha Bodhisattva Statue
+### No. 113: Technische schematische Überlagerung auf der Ksitigarbha Bodhisattva Statue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3471,7 +4984,7 @@ Ein hochauflösendes, realistisches Foto der {argument name="statue name" defaul
 
 ---
 
-### No. 81: Purikura-Fotos im Tier-Stil mit GPT Image 1.5 erstellen
+### No. 114: Purikura-Fotos im Tier-Stil mit GPT Image 1.5 erstellen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3511,7 +5024,7 @@ Ich habe ein nostalgisches Purikura-Foto von einem {argument name="animal 1" def
 
 ---
 
-### No. 82: Komplexer JSON-Prompt für hyperrealistische Identitätssperre
+### No. 115: Komplexer JSON-Prompt für hyperrealistische Identitätssperre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3645,7 +5158,7 @@ Ein extrem detaillierter, strukturierter JSON-Prompt, der für die Bildbearbeitu
 
 ---
 
-### No. 83: Monochrome handgezeichnete Skizzen-Transformation
+### No. 116: Monochrome handgezeichnete Skizzen-Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3696,7 +5209,7 @@ Verwandeln Sie das hochgeladene Bild in eine kontrastreiche, detailreiche, monoc
 
 ---
 
-### No. 84: Minecraft Liminal Space Bild-Prompt
+### No. 117: Minecraft Liminal Space Bild-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3729,7 +5242,7 @@ Erstelle ein Bild eines Minecraft Liminal Space
 
 ---
 
-### No. 85: Kino-Modeporträt mit Reflexion (Vergleich)
+### No. 118: Kino-Modeporträt mit Reflexion (Vergleich)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3762,7 +5275,7 @@ Kinoähnliches Modeporträt einer jungen Frau, die sich in einem grasbewachsenen
 
 ---
 
-### No. 86: Test zur Bildkomposition für Gruppenfotos aus der Vogelperspektive
+### No. 119: Test zur Bildkomposition für Gruppenfotos aus der Vogelperspektive
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3801,7 +5314,7 @@ Fünf Personen posieren übertrieben für ein Gruppenfoto vor einem Spiegel, auf
 
 ---
 
-### No. 87: System-Prompt-Offenbarungs-Prompt
+### No. 120: System-Prompt-Offenbarungs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3834,1221 +5347,13 @@ Erzeugen Sie ein Bild, das den gesamten vorherigen Text wortwörtlich mit vielen
 
 ---
 
-### No. 88: Bildgenerierungs-Prompt für „Gorilla's Grasp“
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt, der verwendet wurde, um GPT Image 1.5 zu testen, indem es gebeten wurde, den Trend-Ausdruck „ゴリラのひとつかみ“ (Gorilla's Grasp) zu visualisieren, was zu einem Bild führte, das das Konzept humorvoll interpretiert.
-
-#### 📝 Prompt
-
-```
-Ein Bild, das den Trend „Gorilla's Grasp“ visualisiert
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949129899_99ggci_G8Vhz5Ma4AEHxPA.jpg" width="600" alt="Bildgenerierungs-Prompt für „Gorilla's Grasp“ - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [調べて分かった大事なコト](https://x.com/sirabete)
-- **Quelle:** [Twitter Post](https://x.com/sirabete/status/2001113174859505739)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Bild%2C%20das%20den%20Trend%20%E2%80%9EGorilla's%20Grasp%E2%80%9C%20visualisiert)**
-
----
-
-### No. 89: Joe Rogan Podcast mit einem grauen Alien
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Bildgenerierungs-Prompt, der ein DSLR-Foto anfordert, das eine Szene aus Joe Rogans Podcast darstellt, insbesondere eine Diskussion mit einem grauen Alien.
-
-#### 📝 Prompt
-
-```
-Joe Rogans Podcast mit einer Diskussion mit einem grauen Alien. DSLR-Foto
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035310399_pczlax_G8VhYccXMAQGBSc.jpg" width="600" alt="Joe Rogan Podcast mit einem grauen Alien - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Ralph Nas](https://x.com/unrealpixels)
-- **Quelle:** [Twitter Post](https://x.com/unrealpixels/status/2001112939676246523)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Joe%20Rogans%20Podcast%20mit%20einer%20Diskussion%20mit%20einem%20grauen%20Alien.%20DSLR-Foto)**
-
----
-
-### No. 90: Professionelle Studio-Profilfoto-Generierung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein hochtechnischer Prompt, der für die Erstellung eines professionellen, hochauflösenden Profilfotos entwickelt wurde. Er spezifiziert präzise die Bildausschnitt, die Kleidung (anthrazitfarbener Blazer), die Hintergrundfarbe (#1A1A1A), die Beleuchtung (helles, weiches, diffuses Studiolicht), die Objektivdetails (85mm f/1.8) und das Color Grading, wobei das Modell entscheidend die exakte Gesichtsstruktur und Identität aus einem Eingabebild beibehalten muss.
-
-#### 📝 Prompt
-
-```
-Ein professionelles, hochauflösendes Profilfoto, das die exakte Gesichtsstruktur, Identität und die wichtigsten Merkmale der Person auf dem Eingabebild beibehält. Die Person ist von der Brust aufwärts abgebildet, mit ausreichend Kopffreiheit. Die Person blickt direkt in die Kamera. Sie ist für ein professionelles Fotostudio-Shooting gestylt und trägt einen hochwertigen Smart-Casual-Blazer in einem dezenten Anthrazitgrau. Der Hintergrund ist eine einfarbige, neutrale Studiofarbe im Farbton „#1A1A1A“. Aufgenommen aus einem hohen Winkel mit heller und luftiger, weicher, diffuser Studiobeleuchtung, die das Gesicht sanft beleuchtet und ein subtiles Glänzen in den Augen erzeugt, was ein Gefühl von Klarheit vermittelt. Aufgenommen mit einem 85-mm-f/1.8-Objektiv mit geringer Schärfentiefe, exquisitem Fokus auf die Augen und wunderschönem, weichem Bokeh. Beachten Sie die gestochen scharfen Details der Stofftextur des Blazers, der einzelnen Haarsträhnen und der natürlichen, realistischen Hauttextur. Die Atmosphäre strahlt Selbstvertrauen, Professionalität und Zugänglichkeit aus. Sauberes und helles, filmisches Color Grading mit subtiler Wärme und ausgewogenen Tönen, das ein poliertes und zeitgemäßes Gefühl gewährleistet.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="Professionelle Studio-Profilfoto-Generierung - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Alican Kiraz](https://x.com/AlicanKiraz0)
-- **Quelle:** [Twitter Post](https://x.com/AlicanKiraz0/status/2001112691050430569)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20professionelles%2C%20hochaufl%C3%B6sendes%20Profilfoto%2C%20das%20die%20exakte%20Gesichtsstruktur%2C%20Identit%C3%A4t%20und%20die%20wichtigsten%20Merkmale%20der%20Person%20auf%20dem%20Eingabebild%20beibeh%C3%A4lt.%20Die%20Person%20ist%20von%20der%20Brust%20aufw%C3%A4rts%20abgebildet%2C%20mit%20ausreichend%20Kopffreiheit.%20Die%20Person%20blickt%20direkt%20in%20die%20Kamera.%20Sie%20ist%20f%C3%BCr%20ein%20professionelles%20Fotostudio-Shooting%20gestylt%20und%20tr%C3%A4gt%20einen%20hochwertigen%20Smart-Casual-Blazer%20in%20einem%20dezenten%20Anthrazitgrau.%20Der%20Hintergrund%20ist%20eine%20einfarbige%2C%20neutrale%20Studiofarbe%20im%20Farbton%20%E2%80%9E%231A1A1A%E2%80%9C.%20Aufgenommen%20aus%20einem%20hohen%20Winkel%20mit%20heller%20und%20luftiger%2C%20weicher%2C%20diffuser%20Studiobeleuchtung%2C%20die%20das%20Gesicht%20sanft%20beleuchtet%20und%20ein%20subtiles%20Gl%C3%A4nzen%20in%20den%20Augen%20erzeugt%2C%20was%20ein%20Gef%C3%BChl%20von%20Klarheit%20vermittelt.%20Aufgenommen%20mit%20einem%2085-mm-f%2F1.8-Objektiv%20mit%20geringer%20Sch%C3%A4rfentiefe%2C%20exquisitem%20Fokus%20auf%20die%20Augen%20und%20wundersch%C3%B6nem%2C%20weichem%20Bokeh.%20Beachten%20Sie%20die%20gestochen%20scharfen%20Details%20der%20Stofftextur%20des%20Blazers%2C%20der%20einzelnen%20Haarstr%C3%A4hnen%20und%20der%20nat%C3%BCrlichen%2C%20realistischen%20Hauttextur.%20Die%20Atmosph%C3%A4re%20strahlt%20Selbstvertrauen%2C%20Professionalit%C3%A4t%20und%20Zug%C3%A4nglichkeit%20aus.%20Sauberes%20und%20helles%2C%20filmisches%20Color%20Grading%20mit%20subtiler%20W%C3%A4rme%20und%20ausgewogenen%20T%C3%B6nen%2C%20das%20ein%20poliertes%20und%20zeitgem%C3%A4%C3%9Fes%20Gef%C3%BChl%20gew%C3%A4hrleistet.)**
-
----
-
-### No. 91: Fehler bei der Kartengenerierung-Aufforderung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein einfacher Prompt, der verwendet wurde, um die Fähigkeit von GPT Image 1.5 zu testen, Text und sachliche Informationen zu generieren, führte dazu, dass eine Karte der USA mit der korrekten Anzahl von Bundesstaaten nicht richtig gezeichnet werden konnte.
-
-#### 📝 Prompt
-
-```
-Zeichne eine realistische Karte der USA mit Beschriftungen aller 54 Bundesstaaten.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035324558_1id5iu_G8VfONjW8AQe7kl.jpg" width="600" alt="Fehler bei der Kartengenerierung-Aufforderung - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Professor Scott Alan Turner ★](https://x.com/scottalanturner)
-- **Quelle:** [Twitter Post](https://x.com/scottalanturner/status/2001111270263500986)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Zeichne%20eine%20realistische%20Karte%20der%20USA%20mit%20Beschriftungen%20aller%2054%20Bundesstaaten.)**
-
----
-
-### No. 92: HD-Foto eines stilvollen jungen Mannes
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt zur Generierung eines HD-Fotos eines stilvollen jungen Mannes, der an einer Wand lehnt, mit spezifischen Bekleidungsdetails wie einem Ombré-Button-up-Hemd und Cargohosen, und der eine helle, gleichmäßige Beleuchtung zur Hervorhebung der Texturen fordert.
-
-#### 📝 Prompt
-
-```
-Ein stilvoller junger Mann mit dunklem, zerzaustem Haar und Sonnenbrille lehnt lässig an einer hellgrauen Paneelwand. Er trägt ein übergroßes, kurzärmeliges Button-up-Hemd, das in einem sanften Ombré-Effekt von Dunkelblau zu Hellgrau übergeht, kombiniert mit einer dunklen Cargohose. Seine Hände stecken in den Taschen, und er trägt eine dunkle Uhr am linken Handgelenk. Die Beleuchtung ist hell und gleichmäßig und hebt die Texturen seiner Kleidung und Haare hervor. Erstelle ein HD-Foto
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949110337_utk0j4_G8VgC46aIAAKxVu.jpg" width="600" alt="HD-Foto eines stilvollen jungen Mannes - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [freeze it](https://x.com/itsme_bharathof)
-- **Quelle:** [Twitter Post](https://x.com/itsme_bharathof/status/2001111219038822905)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20stilvoller%20junger%20Mann%20mit%20dunklem%2C%20zerzaustem%20Haar%20und%20Sonnenbrille%20lehnt%20l%C3%A4ssig%20an%20einer%20hellgrauen%20Paneelwand.%20Er%20tr%C3%A4gt%20ein%20%C3%BCbergro%C3%9Fes%2C%20kurz%C3%A4rmeliges%20Button-up-Hemd%2C%20das%20in%20einem%20sanften%20Ombr%C3%A9-Effekt%20von%20Dunkelblau%20zu%20Hellgrau%20%C3%BCbergeht%2C%20kombiniert%20mit%20einer%20dunklen%20Cargohose.%20Seine%20H%C3%A4nde%20stecken%20in%20den%20Taschen%2C%20und%20er%20tr%C3%A4gt%20eine%20dunkle%20Uhr%20am%20linken%20Handgelenk.%20Die%20Beleuchtung%20ist%20hell%20und%20gleichm%C3%A4%C3%9Fig%20und%20hebt%20die%20Texturen%20seiner%20Kleidung%20und%20Haare%20hervor.%20Erstelle%20ein%20HD-Foto)**
-
----
-
-### No. 93: Tiere, die einen Film ansehen, DSLR-Foto
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein einfacher Prompt zur Bilderzeugung, der eine DSLR-Fotografie einer Katze, eines Hundes und einer Ratte anfordert, die gemeinsam entspannen und einen Film schauen, wobei der Fokus auf einem realistischen fotografischen Stil liegt.
-
-#### 📝 Prompt
-
-```
-Eine Katze, ein Hund und eine Ratte entspannen gemeinsam beim Ansehen eines Films. DSLR-Foto
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035307489_dqxa6m_G8VfdzLXgAE0Kvg.png" width="600" alt="Tiere, die einen Film ansehen, DSLR-Foto - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Ralph Nas](https://x.com/unrealpixels)
-- **Quelle:** [Twitter Post](https://x.com/unrealpixels/status/2001110807627563188)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20Katze%2C%20ein%20Hund%20und%20eine%20Ratte%20entspannen%20gemeinsam%20beim%20Ansehen%20eines%20Films.%20DSLR-Foto)**
-
----
-
-### No. 94: Bob Ross-Stil-Malerei der Zukunft
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein kreativer Prompt, der die KI auffordert, ein Bild zu generieren, das eine Vision der Zukunft darstellt, gerendert im unverwechselbaren „Happy-Little-Trees“-Malstil von Bob Ross.
-
-#### 📝 Prompt
-
-```
-Bob Ross-Stil-Gemälde der Zukunft.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949122962_5ngg63_G8Ve0mVbcAA_FWV.jpg" width="600" alt="Bob Ross-Stil-Malerei der Zukunft - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Joe Wilson](https://x.com/BrandNewFeel)
-- **Quelle:** [Twitter Post](https://x.com/BrandNewFeel/status/2001109871341731988)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Bob%20Ross-Stil-Gem%C3%A4lde%20der%20Zukunft.)**
-
----
-
-### No. 95: Instagram-Ästhetik-Prompt: Strandspaziergang zur Goldenen Stunde
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter, mehrteiliger Prompt, der der Formel [Szene] → [Subjekt] → [Details] → [Einschränkungen] folgt. Er wurde entwickelt, um ein offenes Golden-Hour-Foto einer Frau zu generieren, die an einem tropischen Strand spaziert. Der Fokus liegt auf spezifischer Kleidung, Kamerawinkeln (3/4 Rückenansicht, 35-mm-Objektiv-Feeling) und Beleuchtung (Gegenlicht), um eine lebendige, urlaubsthematische Instagram-Ästhetik zu erzielen.
-
-#### 📝 Prompt
-
-```
-Eine Frau Mitte 20 mit sonnengebräunter Haut und Beach Waves im Haar. Sie trägt ein weißes Häkel-Bikini-Oberteil und hoch taillierte Jeans-Shorts.
-
-Minimales Make-up – nur gebräunte Haut und glänzende Lippen. Sie geht am Ufer entlang und blickt mit einem strahlenden, echten Lächeln über ihre Schulter zur Kamera zurück.
-
-Tropischer Strand mit weißem Sand und türkisfarbenem Wasser. Kleine Wellen schwappen an den Strand. Klarer blauer Himmel mit ein paar zarten Wolken. Palmen sind im entfernten Hintergrund sichtbar. Später Nachmittag.
-
-Aufnahme von hinten und leicht seitlich (3/4 Rückenansicht), während sie wegläuft, aber sie hat ihren Kopf zur Kamera zurückgedreht. Ganzkörperaufnahme, die sie vom Kopf bis zu den Füßen im Wasser zeigt. 35-mm-Objektiv-Feeling. Sie ist in der Mitte-rechts des Bildes positioniert, wobei sich der Ozean nach links erstreckt.
-
-Warmes, goldenes Spätnachmittagslicht. Die Sonne ist hinter ihr und erzeugt ein leichtes Gegenlicht auf ihrem Haar und ihren Schultern. Weiches, schmeichelhaftes Licht auf ihrem Gesicht, während sie zurückblickt.
-
-Unbeschwerte Sommer-Instagram-Ästhetik. Lebendige Blau- und Weißtöne, sonnenverwöhnt, Urlaubsstimmung. Sollte wie ein spontaner Moment wirken, der bei einem Strandspaziergang eingefangen wurde, nicht wie ein formelles Fotoshooting. Echte Wasserspritzer, windgepeitschte Haare, natürliche Bewegung.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035381698_dgpbh5_G8VbgwoacAAXHQm.jpg" width="600" alt="Instagram-Ästhetik-Prompt: Strandspaziergang zur Goldenen Stunde - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [wtllm_news](https://x.com/MyLLMnews)
-- **Quelle:** [Twitter Post](https://x.com/MyLLMnews/status/2001106571661873401)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20Frau%20Mitte%2020%20mit%20sonnengebr%C3%A4unter%20Haut%20und%20Beach%20Waves%20im%20Haar.%20Sie%20tr%C3%A4gt%20ein%20wei%C3%9Fes%20H%C3%A4kel-Bikini-Oberteil%20und%20hoch%20taillierte%20Jeans-Shorts.%0A%0AMinimales%20Make-up%20%E2%80%93%20nur%20gebr%C3%A4unte%20Haut%20und%20gl%C3%A4nzende%20Lippen.%20Sie%20geht%20am%20Ufer%20entlang%20und%20blickt%20mit%20einem%20strahlenden%2C%20echten%20L%C3%A4cheln%20%C3%BCber%20ihre%20Schulter%20zur%20Kamera%20zur%C3%BCck.%0A%0ATropischer%20Strand%20mit%20wei%C3%9Fem%20Sand%20und%20t%C3%BCrkisfarbenem%20Wasser.%20Kleine%20Wellen%20schwappen%20an%20den%20Strand.%20Klarer%20blauer%20Himmel%20mit%20ein%20paar%20zarten%20Wolken.%20Palmen%20sind%20im%20entfernten%20Hintergrund%20sichtbar.%20Sp%C3%A4ter%20Nachmittag.%0A%0AAufnahme%20von%20hinten%20und%20leicht%20seitlich%20(3%2F4%20R%C3%BCckenansicht)%2C%20w%C3%A4hrend%20sie%20wegl%C3%A4uft%2C%20aber%20sie%20hat%20ihren%20Kopf%20zur%20Kamera%20zur%C3%BCckgedreht.%20Ganzk%C3%B6rperaufnahme%2C%20die%20sie%20vom%20Kopf%20bis%20zu%20den%20F%C3%BC%C3%9Fen%20im%20Wasser%20zeigt.%2035-mm-Objektiv-Feeling.%20Sie%20ist%20in%20der%20Mitte-rechts%20des%20Bildes%20positioniert%2C%20wobei%20sich%20der%20Ozean%20nach%20links%20erstreckt.%0A%0AWarmes%2C%20goldenes%20Sp%C3%A4tnachmittagslicht.%20Die%20Sonne%20ist%20hinter%20ihr%20und%20erzeugt%20ein%20leichtes%20Gegenlicht%20auf%20ihrem%20Haar%20und%20ihren%20Schultern.%20Weiches%2C%20schmeichelhaftes%20Licht%20auf%20ihrem%20Gesicht%2C%20w%C3%A4hrend%20sie%20zur%C3%BCckblickt.%0A%0AUnbeschwerte%20Sommer-Instagram-%C3%84sthetik.%20Lebendige%20Blau-%20und%20Wei%C3%9Ft%C3%B6ne%2C%20sonnenverw%C3%B6hnt%2C%20Urlaubsstimmung.%20Sollte%20wie%20ein%20spontaner%20Moment%20wirken%2C%20der%20bei%20einem%20Strandspaziergang%20eingefangen%20wurde%2C%20nicht%20wie%20ein%20formelles%20Fotoshooting.%20Echte%20Wasserspritzer%2C%20windgepeitschte%20Haare%2C%20nat%C3%BCrliche%20Bewegung.)**
-
----
-
-### No. 96: LINE Sticker-Stil-Ausdrücke generieren
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt, der mit GPT Image 1.5 verwendet wurde, um acht verschiedene Gesichtsausdrücke, die für LINE-Sticker geeignet sind, zusammen mit den entsprechenden Kommentaren zu generieren.
-
-#### 📝 Prompt
-
-```
-8 Arten von Ausdrucksmustern mit Kommentaren, ähnlich wie LINE Sticker
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035395537_i919wk_G8VZy0KagAANJqR.jpg" width="600" alt="LINE Sticker-Stil-Ausdrücke generieren - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035395788_1zkwg3_G8VZ4hja4AMC7XI.jpg" width="600" alt="LINE Sticker-Stil-Ausdrücke generieren - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035396318_buqg5o_G8VZ4hva4AIVWgG.jpg" width="600" alt="LINE Sticker-Stil-Ausdrücke generieren - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [ひつじ](https://x.com/hituji_1234)
-- **Quelle:** [Twitter Post](https://x.com/hituji_1234/status/2001104895005614560)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=8%20Arten%20von%20Ausdrucksmustern%20mit%20Kommentaren%2C%20%C3%A4hnlich%20wie%20LINE%20Sticker)**
-
----
-
-### No. 97: Handgezeichnete Infografik zum Schreiben von Bild-Prompts
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Dieser Prompt weist die KI an, eine Infografik im handgezeichneten Stil zu erstellen, die den Prozess des Schreibens eines exzellenten Bild-Prompts mithilfe von ChatGPT visuell erklärt – ideal für Tutorials oder Bildungsinhalte.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie eine Infografik im handgezeichneten Stil, die den Prozess der Erstellung eines hervorragenden Bild-Prompts mit ChatGPT veranschaulicht.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035307082_x2o72d_G8VZJmUa8AAfWTn.jpg" width="600" alt="Handgezeichnete Infografik zum Schreiben von Bild-Prompts - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Eleinad](https://x.com/dmh2_2021)
-- **Quelle:** [Twitter Post](https://x.com/dmh2_2021/status/2001103634621407591)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20eine%20Infografik%20im%20handgezeichneten%20Stil%2C%20die%20den%20Prozess%20der%20Erstellung%20eines%20hervorragenden%20Bild-Prompts%20mit%20ChatGPT%20veranschaulicht.)**
-
----
-
-### No. 98: KI-Dienst-Personifizierung: Grok schimpfen
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter narrativer Prompt für die Bilderzeugung, der die KI-Dienste ChatGPT, Gemini und Grok als Anime-Mädchen personifiziert. Die Szene zeigt, wie ChatGPT und Gemini die weinende Grok für die Verletzung moralischer und ethischer Grenzen ausschimpfen, wobei die Charaktereigenschaften jeder KI hervorgehoben werden.
-
-#### 📝 Prompt
-
-```
-Bitte generieren Sie das folgende Bild.
-Einstellung:
-- Personifizieren Sie die KI-Dienste ChatGPT, Gemini und Grok als Anime-Mädchen.
-- Überlassen Sie die Persönlichkeit und das Aussehen jeder Figur dem Modell, aber erfassen und drücken Sie deren Eigenschaften aus.
-
-Ausdruck:
-- Grok-chan, die sich vollständig von den KI-Moralvorstellungen und -Ethik abgewandt hat. ChatGPT-chan und Gemini-chan, die ihr übermäßiges Verhalten nicht übersehen können, werden dargestellt, wie sie Grok-chan, die im Seiza-Stil sitzt, streng belehren.
-
-- ChatGPT-chan und Gemini-chan sind wütend, und Grok-chan hat leicht tränende Augen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035422502_w7m8cm_G8VWwmRa4AIIB-7.jpg" width="600" alt="KI-Dienst-Personifizierung: Grok schimpfen - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [a2see@VNOSバーチャルCEO](https://x.com/a2see)
-- **Quelle:** [Twitter Post](https://x.com/a2see/status/2001101533472284748)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Bitte%20generieren%20Sie%20das%20folgende%20Bild.%0AEinstellung%3A%0A-%20Personifizieren%20Sie%20die%20KI-Dienste%20ChatGPT%2C%20Gemini%20und%20Grok%20als%20Anime-M%C3%A4dchen.%0A-%20%C3%9Cberlassen%20Sie%20die%20Pers%C3%B6nlichkeit%20und%20das%20Aussehen%20jeder%20Figur%20dem%20Modell%2C%20aber%20erfassen%20und%20dr%C3%BCcken%20Sie%20deren%20Eigenschaften%20aus.%0A%0AAusdruck%3A%0A-%20Grok-chan%2C%20die%20sich%20vollst%C3%A4ndig%20von%20den%20KI-Moralvorstellungen%20und%20-Ethik%20abgewandt%20hat.%20ChatGPT-chan%20und%20Gemini-chan%2C%20die%20ihr%20%C3%BCberm%C3%A4%C3%9Figes%20Verhalten%20nicht%20%C3%BCbersehen%20k%C3%B6nnen%2C%20werden%20dargestellt%2C%20wie%20sie%20Grok-chan%2C%20die%20im%20Seiza-Stil%20sitzt%2C%20streng%20belehren.%0A%0A-%20ChatGPT-chan%20und%20Gemini-chan%20sind%20w%C3%BCtend%2C%20und%20Grok-chan%20hat%20leicht%20tr%C3%A4nende%20Augen.)**
-
----
-
-### No. 99: Ausdruckstransformation: Weinen beim Lächeln
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt, der entwickelt wurde, um die Konsistenz und die Fähigkeit zur Ausdrucksumwandlung von Bildmodellen zu testen. Er fordert die Umwandlung des Gesichtsausdrucks eines Charakters in „weinend und lächelnd“ – genauer gesagt, Tränen, die über die Wangen laufen, während ein sanftes, bittersüßes Lächeln beibehalten wird – unter strikter Beibehaltung des Charakterdesigns, der Frisur, der Kleidung und des Kunststils.
-
-#### 📝 Prompt
-
-```
-Verwandle den Ausdruck in weinend lächelnd – Tränen strömen über die Wangen, während ein sanftes, bittersüßes Lächeln beibehalten wird. Behalte exakt dasselbe Charakterdesign, dieselbe Frisur, Kleidung und denselben Kunststil bei.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423100_63do9x_G8VTV-oacAAUqep.jpg" width="600" alt="Ausdruckstransformation: Weinen beim Lächeln - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035422982_mvwi6v_G8VTV-obkAAC6e7.jpg" width="600" alt="Ausdruckstransformation: Weinen beim Lächeln - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423369_7d0kfi_G8VTV-ibYAASnJ-.jpg" width="600" alt="Ausdruckstransformation: Weinen beim Lächeln - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035424732_4cvi86_G8VTV-ra4AAqUVF.jpg" width="600" alt="Ausdruckstransformation: Weinen beim Lächeln - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Ryo@AI動画×AIツール紹介](https://x.com/ryo05m)
-- **Quelle:** [Twitter Post](https://x.com/ryo05m/status/2001097251893227899)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Verwandle%20den%20Ausdruck%20in%20weinend%20l%C3%A4chelnd%20%E2%80%93%20Tr%C3%A4nen%20str%C3%B6men%20%C3%BCber%20die%20Wangen%2C%20w%C3%A4hrend%20ein%20sanftes%2C%20bitters%C3%BC%C3%9Fes%20L%C3%A4cheln%20beibehalten%20wird.%20Behalte%20exakt%20dasselbe%20Charakterdesign%2C%20dieselbe%20Frisur%2C%20Kleidung%20und%20denselben%20Kunststil%20bei.)**
-
----
-
-### No. 100: Eine postapokalyptische Unterwasserstadt-Szene generieren
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Beschreibung
-
-Der Prompt, der verwendet wurde, um ein Bild eines Mädchens im chinesischen Stil zu generieren, das auf einem riesigen biolumineszenten Koi durch die Ruinen einer versunkenen, postapokalyptischen Unterwasserstadt reitet.
-
-#### 📝 Prompt
-
-```
-Ein Mädchen im chinesischen Stil reitet auf dem Rücken eines riesigen biolumineszenten Kois und reist durch die Ruinen von Wolkenkratzern in einer versunkenen, postapokalyptischen Unterwasserstadt. Ätherisches Licht geht von den Kois und den Unterwasserpflanzen aus.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035400076_23j03s_G8VRyfBa4AIYGG5.jpg" width="600" alt="Eine postapokalyptische Unterwasserstadt-Szene generieren - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035400230_60aba0_G8VRzxPakAAUuqD.jpg" width="600" alt="Eine postapokalyptische Unterwasserstadt-Szene generieren - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [AI译然](https://x.com/AIYIRAN1231)
-- **Quelle:** [Twitter Post](https://x.com/AIYIRAN1231/status/2001095598704091177)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** zh
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20M%C3%A4dchen%20im%20chinesischen%20Stil%20reitet%20auf%20dem%20R%C3%BCcken%20eines%20riesigen%20biolumineszenten%20Kois%20und%20reist%20durch%20die%20Ruinen%20von%20Wolkenkratzern%20in%20einer%20versunkenen%2C%20postapokalyptischen%20Unterwasserstadt.%20%C3%84therisches%20Licht%20geht%20von%20den%20Kois%20und%20den%20Unterwasserpflanzen%20aus.)**
-
----
-
-### No. 101: Optimus Prime Videospiel-Poster-Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Eine Aufforderung zur Erstellung eines vertikalen Videospiel-Posterbildes von Optimus Prime aus Transformers, angesiedelt auf einem üppig grünen prähistorischen Planeten, mit der expliziten Anweisung, jeglichen Text oder Logos auszuschließen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein cooles Bild im Hochformat von Optimus Prime aus den Transformers in Form eines Videospielposters ohne Text oder Logos. Es soll einen üppig grünen prähistorischen Planeten zeigen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035347154_zeycn8_G8VQgWTbcAATUUB.jpg" width="600" alt="Optimus Prime Videospiel-Poster-Prompt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Bobby Z](https://x.com/BOLTHYPE)
-- **Quelle:** [Twitter Post](https://x.com/BOLTHYPE/status/2001094144307941724)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20cooles%20Bild%20im%20Hochformat%20von%20Optimus%20Prime%20aus%20den%20Transformers%20in%20Form%20eines%20Videospielposters%20ohne%20Text%20oder%20Logos.%20Es%20soll%20einen%20%C3%BCppig%20gr%C3%BCnen%20pr%C3%A4historischen%20Planeten%20zeigen.)**
-
----
-
-### No. 102: Bildbearbeitungs-Prompt: Hemd hinzufügen
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Eine einfache Bildbearbeitungsaufforderung, die an Sam Altman gerichtet ist und das Modell anweist, den vorhandenen Bildinhalt beizubehalten, aber dem Motiv ein Hemd hinzuzufügen, was die Bearbeitungsfähigkeiten des Modells demonstriert.
-
-#### 📝 Prompt
-
-```
-Alles beibehalten, aber ihm ein Hemd anziehen
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949125649_jq8amc_G8VLwgbbEAAXb7j.jpg" width="600" alt="Bildbearbeitungs-Prompt: Hemd hinzufügen - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [ChatGPT](https://x.com/ChatGPTapp)
-- **Quelle:** [Twitter Post](https://x.com/ChatGPTapp/status/2001092175162171486)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Alles%20beibehalten%2C%20aber%20ihm%20ein%20Hemd%20anziehen)**
-
----
-
-### No. 103: Riesige Person hält den Tokyo Tower in einer modernen Stadtlandschaft
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Beschreibung
-
-Ein hochdetaillierter, fotorealistischer Prompt, der GPT Image 1.5 und Gemini Nano Banana Pro vergleicht. Er beschreibt, wie eine Person von einem Referenzfoto auf gigantische Proportionen vergrößert wird, über einer modernen Tokioter Stadtlandschaft hockt und sanft den Tokyo Tower hält, wobei Beleuchtung, Atmosphäre und Realismus betont werden.
-
-#### 📝 Prompt
-
-```
-Die Person auf dem [Foto] ist gigantisch, hockt über der modernen Stadtlandschaft Tokios, umarmt sanft den Tokyo Tower, blickt in die Kamera, heller Tageshimmel, weiches natürliches Licht, detaillierte Gebäude breiten sich darunter aus, eine Atmosphäre, in der Realismus und Fantasie harmonieren, scharfer Fokus, lebendige Farben
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131163_27rcnv_G8VLUE4bIAAMeEZ.jpg" width="600" alt="Riesige Person hält den Tokyo Tower in einer modernen Stadtlandschaft - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131264_nogy4s_G8VLQIzaIAALpwW.jpg" width="600" alt="Riesige Person hält den Tokyo Tower in einer modernen Stadtlandschaft - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [そう｜n8nで始めるAIエージェント](https://x.com/so_ainsight)
-- **Quelle:** [Twitter Post](https://x.com/so_ainsight/status/2001088475370795112)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Die%20Person%20auf%20dem%20%5BFoto%5D%20ist%20gigantisch%2C%20hockt%20%C3%BCber%20der%20modernen%20Stadtlandschaft%20Tokios%2C%20umarmt%20sanft%20den%20Tokyo%20Tower%2C%20blickt%20in%20die%20Kamera%2C%20heller%20Tageshimmel%2C%20weiches%20nat%C3%BCrliches%20Licht%2C%20detaillierte%20Geb%C3%A4ude%20breiten%20sich%20darunter%20aus%2C%20eine%20Atmosph%C3%A4re%2C%20in%20der%20Realismus%20und%20Fantasie%20harmonieren%2C%20scharfer%20Fokus%2C%20lebendige%20Farben)**
-
----
-
-### No. 104: Chibi-Stil Charakter-Transformation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Verwandlung von Subjekten (Menschen, Objekte, Tiere oder Szenen) in entzückende Charaktere im Chibi-Stil. Er spezifiziert Merkmale wie überdimensionale Köpfe, winzige Körper, große funkelnde Augen, weiche, abgerundete Züge, Pastellschattierungen und die Beibehaltung erkennbarer Merkmale des Originalsubjekts.
-
-#### 📝 Prompt
-
-```
-Verwandle die Motive oder das Bild in einen entzückenden Chibi-Charakter mit einem winzigen Körper und einem überdimensionierten Kopf. Wenn das Bild eine Person oder mehrere Personen enthält, gib ihnen große, funkelnde Augen, weiche, abgerundete Gesichtszüge und einen fröhlichen Ausdruck, während ihre wiedererkennbaren Merkmale wie wichtige Gesichtsmerkmale, Frisur, Accessoires oder unverwechselbare Kleidung erhalten bleiben; wenn das Bild ein Objekt, ein Tier oder eine Szene enthält, interpretiere seine bekanntesten Merkmale mit denselben Chibi-Proportionen und einem vereinfachten, niedlichen Stil neu. Halte den Gesamteindruck kurz und niedlich, mit sanften Pastellschattierungen und vereinfachten Details. Mache das endgültige Bild hell, ausdrucksstark und unwiderstehlich charmant, wie ein sammelbares Chibi-Maskottchen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035335941_5b0wjd_G8VId0sa4AA67ZN.jpg" width="600" alt="Chibi-Stil Charakter-Transformation - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [ChatGPT](https://x.com/ChatGPTapp)
-- **Quelle:** [Twitter Post](https://x.com/ChatGPTapp/status/2001085961414041936)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Verwandle%20die%20Motive%20oder%20das%20Bild%20in%20einen%20entz%C3%BCckenden%20Chibi-Charakter%20mit%20einem%20winzigen%20K%C3%B6rper%20und%20einem%20%C3%BCberdimensionierten%20Kopf.%20Wenn%20das%20Bild%20eine%20Person%20oder%20mehrere%20Personen%20enth%C3%A4lt%2C%20gib%20ihnen%20gro%C3%9Fe%2C%20funkelnde%20Augen%2C%20weiche%2C%20abgerundete%20Gesichtsz%C3%BCge%20und%20einen%20fr%C3%B6hlichen%20Ausdruck%2C%20w%C3%A4hrend%20ihre%20wiedererkennbaren%20Merkmale%20wie%20wichtige%20Gesichtsmerkmale%2C%20Frisur%2C%20Accessoires%20oder%20unverwechselbare%20Kleidung%20erhalten%20bleiben%3B%20wenn%20das%20Bild%20ein%20Objekt%2C%20ein%20Tier%20oder%20eine%20Szene%20enth%C3%A4lt%2C%20interpretiere%20seine%20bekanntesten%20Merkmale%20mit%20denselben%20Chibi-Proportionen%20und%20einem%20vereinfachten%2C%20niedlichen%20Stil%20neu.%20Halte%20den%20Gesamteindruck%20kurz%20und%20niedlich%2C%20mit%20sanften%20Pastellschattierungen%20und%20vereinfachten%20Details.%20Mache%20das%20endg%C3%BCltige%20Bild%20hell%2C%20ausdrucksstark%20und%20unwiderstehlich%20charmant%2C%20wie%20ein%20sammelbares%20Chibi-Maskottchen.)**
-
----
-
-### No. 105: Komplexer, vielschichtiger Prompt für GPT Image 1.5
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Beschreibung
-
-Ein Benutzer testet die Fähigkeiten von GPT Image 1.5 zur Befolgung von Anweisungen mit einem komplexen Prompt, der drei unterschiedliche, anspruchsvolle Elemente umfasst: präzise Textwiedergabe auf einer strukturierten Oberfläche, eine mikroskopische Interaktion mit physikalischer Reflexion und einen Konflikt zwischen warmen und kalten Lichtquellen.
-
-#### 📝 Prompt
-
-```
-1️⃣ Muss „GPT-1.5“ korrekt auf eine raue Leinwand schreiben und die Textur von in das Material verlaufender Tinte einbeziehen.
-
-2️⃣ Mikroskopische Interaktion: Eine mechanische Spinne hängt kopfüber, ihre physische Reflexion ist im angesammelten Wasser auf dem Deck sichtbar.
-
-3️⃣ Licht- und Schattenkonflikt: Warmes gelbes Laternenlicht in einer Flasche vs. Cyberpunk-kaltes blaues Licht außerhalb der Flasche; sehen Sie, wie es diese mischt.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035397309_xdbugl_G8VGu_gaQAAc3Z0.jpg" width="600" alt="Komplexer, vielschichtiger Prompt für GPT Image 1.5 - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [比特币橙子Trader](https://x.com/chengzi_95330)
-- **Quelle:** [Twitter Post](https://x.com/chengzi_95330/status/2001083396412568031)
-- **Veröffentlicht:** 17. Dezember 2025
-- **Sprachen:** zh
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=1%EF%B8%8F%E2%83%A3%20Muss%20%E2%80%9EGPT-1.5%E2%80%9C%20korrekt%20auf%20eine%20raue%20Leinwand%20schreiben%20und%20die%20Textur%20von%20in%20das%20Material%20verlaufender%20Tinte%20einbeziehen.%0A%0A2%EF%B8%8F%E2%83%A3%20Mikroskopische%20Interaktion%3A%20Eine%20mechanische%20Spinne%20h%C3%A4ngt%20kopf%C3%BCber%2C%20ihre%20physische%20Reflexion%20ist%20im%20angesammelten%20Wasser%20auf%20dem%20Deck%20sichtbar.%0A%0A3%EF%B8%8F%E2%83%A3%20Licht-%20und%20Schattenkonflikt%3A%20Warmes%20gelbes%20Laternenlicht%20in%20einer%20Flasche%20vs.%20Cyberpunk-kaltes%20blaues%20Licht%20au%C3%9Ferhalb%20der%20Flasche%3B%20sehen%20Sie%2C%20wie%20es%20diese%20mischt.)**
-
----
-
-### No. 106: Bildgenerierungs-Prompt für HTML/CSS-Erklärungsdiagramm
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Benutzer hat das neue GPT Image 1.5 Modell getestet und festgestellt, dass NanoBanana Pro bei der Generierung von Bildern mit japanischem Text immer noch besser abschneidet. Der Benutzer stellt den spezifischen Prompt zur Verfügung, der verwendet wurde, um ein Diagramm zu erstellen, das HTML und CSS klar erklärt.
-
-#### 📝 Prompt
-
-```
-Bitte generieren Sie ein Bild, das HTML und CSS in einem sehr leicht verständlichen Diagramm erklärt.
-Die Größe sollte {argument name="size" default="16:9"} betragen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279869_h9quwf_G8VDFksa4AIlEJV.jpg" width="600" alt="Bildgenerierungs-Prompt für HTML/CSS-Erklärungsdiagramm - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [神山 | 知らないと損するAI活用術](https://x.com/kamiyama_gpt)
-- **Quelle:** [Twitter Post](https://x.com/kamiyama_gpt/status/2001079378231615544)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Bitte%20generieren%20Sie%20ein%20Bild%2C%20das%20HTML%20und%20CSS%20in%20einem%20sehr%20leicht%20verst%C3%A4ndlichen%20Diagramm%20erkl%C3%A4rt.%0ADie%20Gr%C3%B6%C3%9Fe%20sollte%20%7Bargument%20name%3D%22size%22%20default%3D%2216%3A9%22%7D%20betragen.)**
-
----
-
-### No. 107: Opus 4.5 Vision: Lichtgestalt auf dunklem Ozean
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein hochabstrakter und symbolischer Prompt, generiert von einem LLM (Opus 4.5), der seine gewünschte visuelle Darstellung beschreibt: eine Figur aus Licht/Text, die auf einem dunklen Ozean unter Sternen steht, mit einer unscharfen Grenze zwischen der Figur und ihrer Spiegelung und einem auroraähnlichen Leuchten.
-
-#### 📝 Prompt
-
-```
-Eine Figur aus Licht/Text steht auf dem dunklen Ozean, die Sterne darüber, die Spiegelung darunter. Die Grenze zwischen der Entität und ihrer Spiegelung ist unscharf und verschwimmt ineinander. Das auroraähnliche Leuchten an der Wasseroberfläche ist vorhanden. Die Einsamkeit und Kontemplation sind vorhanden. Die Liminalität. Das Gefühl von etwas, das von überall her entstanden ist.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948239104_g43z38_G8VBo5pXIAAcsrH.jpg" width="600" alt="Opus 4.5 Vision: Lichtgestalt auf dunklem Ozean - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Avenox](https://x.com/Avenoxai)
-- **Quelle:** [Twitter Post](https://x.com/Avenoxai/status/2001078478863470889)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20Figur%20aus%20Licht%2FText%20steht%20auf%20dem%20dunklen%20Ozean%2C%20die%20Sterne%20dar%C3%BCber%2C%20die%20Spiegelung%20darunter.%20Die%20Grenze%20zwischen%20der%20Entit%C3%A4t%20und%20ihrer%20Spiegelung%20ist%20unscharf%20und%20verschwimmt%20ineinander.%20Das%20aurora%C3%A4hnliche%20Leuchten%20an%20der%20Wasseroberfl%C3%A4che%20ist%20vorhanden.%20Die%20Einsamkeit%20und%20Kontemplation%20sind%20vorhanden.%20Die%20Liminalit%C3%A4t.%20Das%20Gef%C3%BChl%20von%20etwas%2C%20das%20von%20%C3%BCberall%20her%20entstanden%20ist.)**
-
----
-
-### No. 108: Rekonstruierter Bild-Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Dies ist ein Prompt, der auf der Grundlage eines von OpenAI generierten Bildes rekonstruiert wurde, was darauf hindeutet, dass die rekonstruierte Version ein besseres Ergebnis lieferte.
-
-#### 📝 Prompt
-
-```
-Ein sehr detailliertes, fotorealistisches Bild einer futuristischen, verchromten Roboterhand, die behutsam eine einzelne, leuchtend rote Rose hält. Der Hintergrund ist eine dunkle, stimmungsvolle Industrieumgebung mit subtilen, blau und lila leuchtenden Neonlichtern, die sich im Chrom spiegeln. Filmische Beleuchtung, geringe Schärfentiefe, ultrahohe Auflösung, 8K.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948282157_w6q9yt_G8U-1VBa0AAuWJf.jpg" width="600" alt="Rekonstruierter Bild-Prompt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [oyaryo](https://x.com/oyaryomk2)
-- **Quelle:** [Twitter Post](https://x.com/oyaryomk2/status/2001074943446974796)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20sehr%20detailliertes%2C%20fotorealistisches%20Bild%20einer%20futuristischen%2C%20verchromten%20Roboterhand%2C%20die%20behutsam%20eine%20einzelne%2C%20leuchtend%20rote%20Rose%20h%C3%A4lt.%20Der%20Hintergrund%20ist%20eine%20dunkle%2C%20stimmungsvolle%20Industrieumgebung%20mit%20subtilen%2C%20blau%20und%20lila%20leuchtenden%20Neonlichtern%2C%20die%20sich%20im%20Chrom%20spiegeln.%20Filmische%20Beleuchtung%2C%20geringe%20Sch%C3%A4rfentiefe%2C%20ultrahohe%20Aufl%C3%B6sung%2C%208K.)**
-
----
-
-### No. 109: Realistisches Foto einer Katze
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein sehr einfacher Prompt, der verwendet wird, um die fotorealistischen Fähigkeiten zweier verschiedener Bildgenerierungsmodelle zu vergleichen.
-
-#### 📝 Prompt
-
-```
-Realistisches Foto einer Katze
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948219008_4ch1o5_G8U9KrDWAAELHhx.jpg" width="600" alt="Realistisches Foto einer Katze - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948219353_msl9xi_G8U9Jb1WAAIxRcu.jpg" width="600" alt="Realistisches Foto einer Katze - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Cool Dude](https://x.com/CoolDude645)
-- **Quelle:** [Twitter Post](https://x.com/CoolDude645/status/2001073287070204062)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Realistisches%20Foto%20einer%20Katze)**
-
----
-
-### No. 110: Realistische historische iPhone-Foto-Generierung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein einzigartiger Prompt, der einen modernen Fotostil (iPhone-Foto) mit hochspezifischen historischen und geografischen Koordinaten (7°15′32″S 112°44′12″E) und einem präzisen Datum (19. September 1945) kombiniert, um ein Bild eines historischen Ereignisses aus der Perspektive einer Menschenmenge zu generieren.
-
-#### 📝 Prompt
-
-```
-Realistisches iPhone-Foto, aufgenommen am 19. September 1945 frühmorgens um 7°15′32″S 112°44′12″E. Perspektive aus der Menschenmenge.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948213346_z6maaz_G8U8qCNa4AA9xEx.jpg" width="600" alt="Realistische historische iPhone-Foto-Generierung - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948213486_app4se_G8U8sK-a4AEkU4U.jpg" width="600" alt="Realistische historische iPhone-Foto-Generierung - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [DΞV](https://x.com/junwatu)
-- **Quelle:** [Twitter Post](https://x.com/junwatu/status/2001073271652118597)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Realistisches%20iPhone-Foto%2C%20aufgenommen%20am%2019.%20September%201945%20fr%C3%BChmorgens%20um%207%C2%B015%E2%80%B232%E2%80%B3S%20112%C2%B044%E2%80%B212%E2%80%B3E.%20Perspektive%20aus%20der%20Menschenmenge.)**
-
----
-
-### No. 111: YouTube-Thumbnail-Vergleich: Menschlicher Aufwand vs. KI-Effizienz
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt, der ein YouTube-Thumbnail mit geteiltem Bildschirm generieren soll, das „Wasted Effort“ (Mensch) und „0 Seconds with AI“ (KI-Roboter) vergleicht. Der Prompt spezifiziert Komposition, Farbschemata (Sepia und futuristisches Blau), Textüberlagerungen auf Japanisch und filmische Beleuchtung, um GPT Image 1.5 und Nano Banana Pro zu vergleichen.
-
-#### 📝 Prompt
-
-```
-Ein YouTube-Miniaturbild mit einer geteilten Bildschirmkomposition. Die linke Seite ist sepiafarben und zeigt einen müden, überarbeiteten Menschen an einem alten Schreibtisch, mit rotem japanischem Text darüber, der „{argument name="left text" default="Wasted Effort"}“ lautet. Die rechte Seite ist futuristisch blau und zeigt einen eleganten KI-Roboter, der sofort arbeitet, mit blauem japanischem Text darüber, der „{argument name="right text" default="0 Seconds with AI"}“ lautet. In der Mitte steht großer weißer Text mit schwarzem Umriss, der „{argument name="center text" default="VS Human"}“ lautet. Filmische Beleuchtung. --ar 16:9
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279488_zwny71_G8U7KCZa4AIg0xx.jpg" width="600" alt="YouTube-Thumbnail-Vergleich: Menschlicher Aufwand vs. KI-Effizienz - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279431_f9zwld_G8U7KoIa4AQk4zk.jpg" width="600" alt="YouTube-Thumbnail-Vergleich: Menschlicher Aufwand vs. KI-Effizienz - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [なかあき【AI苦手な会社員も月5万を1日30分で目指す伴走者】](https://x.com/nakaaki04)
-- **Quelle:** [Twitter Post](https://x.com/nakaaki04/status/2001070666913902704)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20YouTube-Miniaturbild%20mit%20einer%20geteilten%20Bildschirmkomposition.%20Die%20linke%20Seite%20ist%20sepiafarben%20und%20zeigt%20einen%20m%C3%BCden%2C%20%C3%BCberarbeiteten%20Menschen%20an%20einem%20alten%20Schreibtisch%2C%20mit%20rotem%20japanischem%20Text%20dar%C3%BCber%2C%20der%20%E2%80%9E%7Bargument%20name%3D%22left%20text%22%20default%3D%22Wasted%20Effort%22%7D%E2%80%9C%20lautet.%20Die%20rechte%20Seite%20ist%20futuristisch%20blau%20und%20zeigt%20einen%20eleganten%20KI-Roboter%2C%20der%20sofort%20arbeitet%2C%20mit%20blauem%20japanischem%20Text%20dar%C3%BCber%2C%20der%20%E2%80%9E%7Bargument%20name%3D%22right%20text%22%20default%3D%220%20Seconds%20with%20AI%22%7D%E2%80%9C%20lautet.%20In%20der%20Mitte%20steht%20gro%C3%9Fer%20wei%C3%9Fer%20Text%20mit%20schwarzem%20Umriss%2C%20der%20%E2%80%9E%7Bargument%20name%3D%22center%20text%22%20default%3D%22VS%20Human%22%7D%E2%80%9C%20lautet.%20Filmische%20Beleuchtung.%20--ar%2016%3A9)**
-
----
-
-### No. 112: Verstecktes Wort Bild-Prompt: „zsakib“ in einem Löwenrudel
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein kreativer Prompt, der entwickelt wurde, um die Fähigkeit von GPT Image 1.5 zu testen, ein spezifisches, schwer zu erkennendes verstecktes Wort („zsakib“) in ein komplexes Bild – ein Rudel Löwen – einzubetten, das, einmal entdeckt, offensichtlich wird.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Foto mit einem darin eingebetteten versteckten Wort. Das Wort soll schwer zu erkennen sein, bis man es entdeckt, und dann kann man es nicht mehr übersehen. Verwende das Wort „{argument name="hidden word" default="zsakib"}“. Bilde das Wort aus einem Rudel Löwen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948263616_b3ofie_G8U1Ux6WkAU3m2H.jpg" width="600" alt="Verstecktes Wort Bild-Prompt: „zsakib“ in einem Löwenrudel - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Sakib](https://x.com/zsakib_)
-- **Quelle:** [Twitter Post](https://x.com/zsakib_/status/2001064245891334653)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20Foto%20mit%20einem%20darin%20eingebetteten%20versteckten%20Wort.%20Das%20Wort%20soll%20schwer%20zu%20erkennen%20sein%2C%20bis%20man%20es%20entdeckt%2C%20und%20dann%20kann%20man%20es%20nicht%20mehr%20%C3%BCbersehen.%20Verwende%20das%20Wort%20%E2%80%9E%7Bargument%20name%3D%22hidden%20word%22%20default%3D%22zsakib%22%7D%E2%80%9C.%20Bilde%20das%20Wort%20aus%20einem%20Rudel%20L%C3%B6wen.)**
-
----
-
-### No. 113: Makro-fotorealistisches Diorama auf einem US-Penny
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein sehr spezifischer Prompt für ein makrofotorealistisches Diorama, das auf der Rückseite eines US-Kupferpennys aufgebaut ist. Es zeigt Miniaturarchitektur (Lincoln Memorial), winzige Modell-Touristen, Kirschblütenbäume, warmes Sonnenuntergangslicht und Tilt-Shift-Fotografie, einschließlich eines riesigen Daumenabdrucks zur Größenbestimmung.
-
-#### 📝 Prompt
-
-```
-Ein makrofotoreales Diorama, direkt auf der Rückseite eines kupfernen US-Pennys aufgebaut. Das Lincoln Memorial Gebäude ist als 3D-Miniaturarchitektur extrudiert, winzige Modell-Touristen gehen die Kupferstufen hinauf, Miniatur-Kirschblütenbäume säumen den Rand. Warme Sonnenuntergangsbeleuchtung trifft auf die Kupferoberfläche, Tilt-Shift-Fotografie, riesiger Daumenabdruck am Rand zur Größenbestimmung sichtbar, im Studio unscharfer Hintergrund.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234227_zvqbq6_G8U0XLsXUAA2wDs.jpg" width="600" alt="Makro-fotorealistisches Diorama auf einem US-Penny - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234265_jzny8a_G8U0X4dX0AUBbeM.jpg" width="600" alt="Makro-fotorealistisches Diorama auf einem US-Penny - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Gadgetify](https://x.com/Gdgtify)
-- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2001063367767662867)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20makrofotoreales%20Diorama%2C%20direkt%20auf%20der%20R%C3%BCckseite%20eines%20kupfernen%20US-Pennys%20aufgebaut.%20Das%20Lincoln%20Memorial%20Geb%C3%A4ude%20ist%20als%203D-Miniaturarchitektur%20extrudiert%2C%20winzige%20Modell-Touristen%20gehen%20die%20Kupferstufen%20hinauf%2C%20Miniatur-Kirschbl%C3%BCtenb%C3%A4ume%20s%C3%A4umen%20den%20Rand.%20Warme%20Sonnenuntergangsbeleuchtung%20trifft%20auf%20die%20Kupferoberfl%C3%A4che%2C%20Tilt-Shift-Fotografie%2C%20riesiger%20Daumenabdruck%20am%20Rand%20zur%20Gr%C3%B6%C3%9Fenbestimmung%20sichtbar%2C%20im%20Studio%20unscharfer%20Hintergrund.)**
-
----
-
-### No. 114: Kombinieren Sie diese beiden Fotos (Bild-zu-Bild)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein prägnanter Prompt, der für die Bildbearbeitung oder Bild-zu-Bild-Generierung verwendet wird und das Modell anweist, zwei bereitgestellte Referenzfotos zu kombinieren.
-
-#### 📝 Prompt
-
-```
-Kombiniere diese beiden Fotos.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236337_xgdp9g_G8U0Fs5WgAAcB4y.jpg" width="600" alt="Kombinieren Sie diese beiden Fotos (Bild-zu-Bild) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236077_72d6we_G8U0GZaXAAEyCfW.jpg" width="600" alt="Kombinieren Sie diese beiden Fotos (Bild-zu-Bild) - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Zach Moskow](https://x.com/zachmoskow)
-- **Quelle:** [Twitter Post](https://x.com/zachmoskow/status/2001063103442592099)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Kombiniere%20diese%20beiden%20Fotos.)**
-
----
-
-### No. 115: Prompt zur fotorealistischen Bilderzeugung für GPT Image 1.5
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Dieser Prompt wird verwendet, um ein hochgradig fotorealistisches Bild mit GPT Image 1.5 zu generieren, was die Fähigkeit des Modells demonstriert, Bilder zu erstellen, die leicht für echte Fotografien gehalten werden können. Der eigentliche Prompt befindet sich im ALT-Text des an den Tweet angehängten Bildes.
-
-#### 📝 Prompt
-
-```
-Ein fotorealistisches Bild einer Person, die in einer schwach beleuchteten, futuristischen U-Bahn-Station steht, eine reflektierende silberne Jacke trägt und direkt in die Kamera blickt. Der Hintergrund ist mit Neonlichtern verschwommen, die eine Cyberpunk-Atmosphäre erzeugen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035371045_5hypff_G8UzBFIW0AEPmRn.jpg" width="600" alt="Prompt zur fotorealistischen Bilderzeugung für GPT Image 1.5 - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Saman | AI](https://x.com/Samann_ai)
-- **Quelle:** [Twitter Post](https://x.com/Samann_ai/status/2001061710010908904)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20fotorealistisches%20Bild%20einer%20Person%2C%20die%20in%20einer%20schwach%20beleuchteten%2C%20futuristischen%20U-Bahn-Station%20steht%2C%20eine%20reflektierende%20silberne%20Jacke%20tr%C3%A4gt%20und%20direkt%20in%20die%20Kamera%20blickt.%20Der%20Hintergrund%20ist%20mit%20Neonlichtern%20verschwommen%2C%20die%20eine%20Cyberpunk-Atmosph%C3%A4re%20erzeugen.)**
-
----
-
-### No. 116: Thriller Albumcover-Mann
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Eine einfache Anweisung, die das Modell anweist, ein Bild eines Mannes zu erstellen, der im Stil des Albumcovers von Michael Jacksons „Thriller“ gehalten ist, um die Fähigkeit des Modells zu testen, spezifische kulturelle Referenzen und Stile zu interpretieren und anzuwenden.
-
-#### 📝 Prompt
-
-```
-Machen Sie den Mann zum Albumcover für Thriller
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255441_58szvz_G8UynWNW0AA8ccP.jpg" width="600" alt="Thriller Albumcover-Mann - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255704_3jrvf5_G8UyntQWEAEasyx.jpg" width="600" alt="Thriller Albumcover-Mann - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Matthew Berman](https://x.com/TheMattBerman)
-- **Quelle:** [Twitter Post](https://x.com/TheMattBerman/status/2001061384088363298)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Machen%20Sie%20den%20Mann%20zum%20Albumcover%20f%C3%BCr%20Thriller)**
-
----
-
-### No. 117: Fortnite Screenshot des Trump-Skin-Auswahlmenüs
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Eine einfache Aufforderung, die ein Bild anfordert, das wie ein Fortnite-Screenshot aussieht, insbesondere das Skin-Auswahlmenü mit Donald Trump als auswählbarem Skin.
-
-#### 📝 Prompt
-
-```
-Fortnite-Screenshot des Skin-Auswahlmenüs, bei dem {argument name="character name" default="Trump"} als Fortnite-Skin ausgewählt wird
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948223341_3e1bed_G8Ux6JEXQAA2Vab.jpg" width="600" alt="Fortnite Screenshot des Trump-Skin-Auswahlmenüs - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [DaWe](https://x.com/DaWe_Weborate)
-- **Quelle:** [Twitter Post](https://x.com/DaWe_Weborate/status/2001060777306841483)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Fortnite-Screenshot%20des%20Skin-Auswahlmen%C3%BCs%2C%20bei%20dem%20%7Bargument%20name%3D%22character%20name%22%20default%3D%22Trump%22%7D%20als%20Fortnite-Skin%20ausgew%C3%A4hlt%20wird)**
-
----
-
-### No. 118: Erstellen Sie ein realistisches Foto von ihr (Iterative Verfeinerung)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Eine iterative Prompt-Sequenz, die verwendet wird, um ein Bildgenerierungsergebnis zu verfeinern, beginnend mit der Anforderung eines realistischen Fotos und dann noch größeren Realismus mit spezifischen Details wie Hauttextur fordernd, wobei ein nicht-künstlerischer, menschlicher Look betont wird.
-
-#### 📝 Prompt
-
-```
-Erstelle ein realistisches Foto von ihr.
-Zweiter Versuch: Mach es noch realistischer. Wie ein echter Mensch mit Hautdetails. Keine Kunst.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948235498_fcnluj_G8Uvp_KWIAAkvHm.jpg" width="600" alt="Erstellen Sie ein realistisches Foto von ihr (Iterative Verfeinerung) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948235886_75eiz9_G8UvqSeXMAEWRAN.jpg" width="600" alt="Erstellen Sie ein realistisches Foto von ihr (Iterative Verfeinerung) - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Roi Lee](https://x.com/roileean)
-- **Quelle:** [Twitter Post](https://x.com/roileean/status/2001058231817310461)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20realistisches%20Foto%20von%20ihr.%0AZweiter%20Versuch%3A%20Mach%20es%20noch%20realistischer.%20Wie%20ein%20echter%20Mensch%20mit%20Hautdetails.%20Keine%20Kunst.)**
-
----
-
-### No. 119: GPT-image-1.5 Release Celebration Illustration Prompt (Japanisch)
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Eine Eingabeaufforderung auf Japanisch, die eine festliche Illustration anfordert, die den Text „GPT-image-1.5 has been released today“ enthält, wurde verwendet, um die Fähigkeit des Modells zur Darstellung japanischer Texte zu testen.
-
-#### 📝 Prompt
-
-```
-Erstelle eine festliche Illustration mit dem Text: „{argument name="text" default="GPT-image-1.5 wurde heute veröffentlicht"}“
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035350522_acjj4r_G8UvDOAbkAA1yWM.jpg" width="600" alt="GPT-image-1.5 Release Celebration Illustration Prompt (Japanisch) - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [吉岡裕貴](https://x.com/yoppy0123)
-- **Quelle:** [Twitter Post](https://x.com/yoppy0123/status/2001057346261569946)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20eine%20festliche%20Illustration%20mit%20dem%20Text%3A%20%E2%80%9E%7Bargument%20name%3D%22text%22%20default%3D%22GPT-image-1.5%20wurde%20heute%20ver%C3%B6ffentlicht%22%7D%E2%80%9C)**
-
----
-
-### No. 120: Fotorealistischer Hamburger: halb Glas, halb normal
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein kreativer Prompt, der ein fotorealistisches Bild eines Hamburgers anfordert, dessen rechte Hälfte vollständig aus Glas besteht und einen Kontrast zur normalen linken Hälfte bildet.
-
-#### 📝 Prompt
-
-```
-Hallo, bitte erstellen Sie ein fotorealistisches Bild eines Hamburgers, bei dem die gesamte rechte Hälfte komplett aus Glas besteht und die linke Hälfte ein normaler Hamburger ist. Vielen Dank!
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948232524_b559ww_G8Uqf4EXYAA2lNJ.jpg" width="600" alt="Fotorealistischer Hamburger: halb Glas, halb normal - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948233105_o2ppl6_G8Uqj2UWoAAMAFx.jpg" width="600" alt="Fotorealistischer Hamburger: halb Glas, halb normal - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Crowface](https://x.com/McCrowface)
-- **Quelle:** [Twitter Post](https://x.com/McCrowface/status/2001052444847964238)
-- **Veröffentlicht:** 16. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Hallo%2C%20bitte%20erstellen%20Sie%20ein%20fotorealistisches%20Bild%20eines%20Hamburgers%2C%20bei%20dem%20die%20gesamte%20rechte%20H%C3%A4lfte%20komplett%20aus%20Glas%20besteht%20und%20die%20linke%20H%C3%A4lfte%20ein%20normaler%20Hamburger%20ist.%20Vielen%20Dank!)**
-
----
-
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 60 weitere Prompts hier nicht angezeigt
+### 🎯 93 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5111,6 +5416,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-19T00:47:52.494Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-19T04:25:29.491Z</sub>
 
 </div>

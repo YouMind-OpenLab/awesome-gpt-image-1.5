@@ -86,9 +86,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **180** |
+| 📝 कुल प्रॉम्पट्स | **213** |
 | ⭐ विशेष | **0** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 19 दिसंबर 2025 को 12:46:44 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 19 दिसंबर 2025 को 4:25:24 am UTC बजे** |
 
 </div>
 
@@ -98,7 +98,1520 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: ChatGPT एनीमे कैरेक्टर जनरेशन
+### No. 1: Aesthetic Image Generation Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+This prompt is used with ChatGPT Image to generate an image where every detail is aligned and every color tells a story, suggesting a highly detailed and aesthetically pleasing visual output.
+
+#### 📝 प्रॉम्पट
+
+```
+A high-resolution, cinematic photograph of a lone, ancient lighthouse standing on a rugged cliff edge at sunset. The sky is dramatic, painted in deep oranges, purples, and blues, with rays of light breaking through the clouds. Waves crash violently against the rocks below, creating a fine mist. The lighthouse beam cuts sharply through the twilight air. The texture of the stone and the weathered metal of the lantern room are highly detailed. The overall mood is one of isolation, power, and enduring beauty. Shot on a large format camera, 85mm lens, f/2.8, golden hour lighting.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349428_0zm5v7_G8f2uXgakAAJVvS.jpg" width="600" alt="Aesthetic Image Generation Prompt - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Jahan Zaib](https://x.com/jzaib4269)
+- **स्रोत:** [Twitter Post](https://x.com/jzaib4269/status/2001839838740578328)
+- **प्रकाशित:** 19 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=A%20high-resolution%2C%20cinematic%20photograph%20of%20a%20lone%2C%20ancient%20lighthouse%20standing%20on%20a%20rugged%20cliff%20edge%20at%20sunset.%20The%20sky%20is%20dramatic%2C%20painted%20in%20deep%20oranges%2C%20purples%2C%20and%20blues%2C%20with%20rays%20of%20light%20breaking%20through%20the%20clouds.%20Waves%20crash%20violently%20against%20the%20rocks%20below%2C%20creating%20a%20fine%20mist.%20The%20lighthouse%20beam%20cuts%20sharply%20through%20the%20twilight%20air.%20The%20texture%20of%20the%20stone%20and%20the%20weathered%20metal%20of%20the%20lantern%20room%20are%20highly%20detailed.%20The%20overall%20mood%20is%20one%20of%20isolation%2C%20power%2C%20and%20enduring%20beauty.%20Shot%20on%20a%20large%20format%20camera%2C%2085mm%20lens%2C%20f%2F2.8%2C%20golden%20hour%20lighting.)**
+
+---
+
+### No. 2: Pencil Sketch Schematics of Bender
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A simple, direct prompt for GPT Image 1.5 requesting a pencil sketch illustrating the schematics of the character Bender, likely from Futurama.
+
+#### 📝 प्रॉम्पट
+
+```
+Pencil sketch for the schematics of {argument name="character" default="bender"}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117325086_qgamg2_G8fx2PuasAEvwnj.jpg" width="600" alt="Pencil Sketch Schematics of Bender - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [JB](https://x.com/JasonBotterill)
+- **स्रोत:** [Twitter Post](https://x.com/JasonBotterill/status/2001834480257097802)
+- **प्रकाशित:** 19 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Pencil%20sketch%20for%20the%20schematics%20of%20%7Bargument%20name%3D%22character%22%20default%3D%22bender%22%7D)**
+
+---
+
+### No. 3: Detailed Fashion Product Photography Prompt for GPT Image 1.5
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A highly detailed, structured prompt designed for GPT Image 1.5 to generate a commercial advertisement-quality image. The composition is a vertical split-screen featuring a product photography flat-lay of an outfit in a museum specimen box on the top, and a hyperrealistic 'naked-eye 3D' illusion of a model wearing the exact same outfit on the bottom, creating a visual contrast between presentation and reality. The prompt includes specific details on clothing, props, model description, pose, and technical rendering specs.
+
+#### 📝 प्रॉम्पट
+
+```
+A vertical split-screen creative product photography composition on a clean white wall background. High-resolution, photorealistic, commercial advertisement quality.
+
+Top Section: The Specimen Box
+The upper half features an exquisite light oak wooden shadow box frame mounted on the wall. Inside, a specific outfit is displayed as an artistic flat-lay museum specimen: {argument name="Clothing Details" default="a sleek black satin slip dress with delicate lace trim and thin spaghetti straps"}. The garments are neatly pinned in place. Surrounding them are small thematic decorative props: {argument name="Props" default="dried roses, vintage perfume bottles, silk ribbon"}. Elegant calligraphy on the matte paper backdrop reads: {argument name="Text" default="Midnight Elegance"}. Soft studio lighting accentuates the rich texture and drape of the fabric.
+
+Bottom Section: Naked-Eye 3D Reality
+The lower half creates a hyperrealistic "naked-eye 3D" illusion. A rectangular picture-frame border sits directly beneath the top box. A stunningly realistic young woman {argument name="Model Description" default="a poised East Asian model with long wavy black hair, subtle smoky eyes, and a confident gaze"} wears the exact same outfit as shown above.
+
+She lounges casually on the bottom edge of the frame—one leg bent with foot resting inside the frame, the other leg elegantly dangling out into the viewer’s space. Her torso leans back slightly, elbow resting on her raised knee, fingers lightly grazing the fabric near her collarbone. Her body forms a soft, sensual S-curve that highlights the garment’s silhouette without overt exposure. She looks directly at the camera with a calm, knowing smile—inviting yet enigmatic. This dynamic, lifelike pose contrasts powerfully with the static, archival display above, creating visual tension between reality and presentation.
+
+Technical Specs:
+Soft natural shadows, ambient occlusion, bright and airy yet cinematic lighting, 8K resolution, Octane Render, vivid but refined color palette, ultra-detailed fabric textures (satin sheen, lace transparency, stitching), shallow depth of field, Vogue editorial style, filmic grain, professional fashion photography.
+
+Negative Prompt (recommended):
+blurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime, doll-like, plastic skin, overexposed, cluttered background, text errors, mismatched clothing, floating objects, unrealistic proportions.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342999_v2sco3_G8fuGZ1akAUW7gw.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342837_liy7ek_G8ftuYvaUAAOJU2.jpg" width="600" alt="Detailed Fashion Product Photography Prompt for GPT Image 1.5 - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [岚叔](https://x.com/LufzzLiz)
+- **स्रोत:** [Twitter Post](https://x.com/LufzzLiz/status/2001831802269499412)
+- **प्रकाशित:** 19 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=A%20vertical%20split-screen%20creative%20product%20photography%20composition%20on%20a%20clean%20white%20wall%20background.%20High-resolution%2C%20photorealistic%2C%20commercial%20advertisement%20quality.%0A%0ATop%20Section%3A%20The%20Specimen%20Box%0AThe%20upper%20half%20features%20an%20exquisite%20light%20oak%20wooden%20shadow%20box%20frame%20mounted%20on%20the%20wall.%20Inside%2C%20a%20specific%20outfit%20is%20displayed%20as%20an%20artistic%20flat-lay%20museum%20specimen%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22a%20sleek%20black%20satin%20slip%20dress%20with%20delicate%20lace%20trim%20and%20thin%20spaghetti%20straps%22%7D.%20The%20garments%20are%20neatly%20pinned%20in%20place.%20Surrounding%20them%20are%20small%20thematic%20decorative%20props%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22dried%20roses%2C%20vintage%20perfume%20bottles%2C%20silk%20ribbon%22%7D.%20Elegant%20calligraphy%20on%20the%20matte%20paper%20backdrop%20reads%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Soft%20studio%20lighting%20accentuates%20the%20rich%20texture%20and%20drape%20of%20the%20fabric.%0A%0ABottom%20Section%3A%20Naked-Eye%203D%20Reality%0AThe%20lower%20half%20creates%20a%20hyperrealistic%20%22naked-eye%203D%22%20illusion.%20A%20rectangular%20picture-frame%20border%20sits%20directly%20beneath%20the%20top%20box.%20A%20stunningly%20realistic%20young%20woman%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22a%20poised%20East%20Asian%20model%20with%20long%20wavy%20black%20hair%2C%20subtle%20smoky%20eyes%2C%20and%20a%20confident%20gaze%22%7D%20wears%20the%20exact%20same%20outfit%20as%20shown%20above.%0A%0AShe%20lounges%20casually%20on%20the%20bottom%20edge%20of%20the%20frame%E2%80%94one%20leg%20bent%20with%20foot%20resting%20inside%20the%20frame%2C%20the%20other%20leg%20elegantly%20dangling%20out%20into%20the%20viewer%E2%80%99s%20space.%20Her%20torso%20leans%20back%20slightly%2C%20elbow%20resting%20on%20her%20raised%20knee%2C%20fingers%20lightly%20grazing%20the%20fabric%20near%20her%20collarbone.%20Her%20body%20forms%20a%20soft%2C%20sensual%20S-curve%20that%20highlights%20the%20garment%E2%80%99s%20silhouette%20without%20overt%20exposure.%20She%20looks%20directly%20at%20the%20camera%20with%20a%20calm%2C%20knowing%20smile%E2%80%94inviting%20yet%20enigmatic.%20This%20dynamic%2C%20lifelike%20pose%20contrasts%20powerfully%20with%20the%20static%2C%20archival%20display%20above%2C%20creating%20visual%20tension%20between%20reality%20and%20presentation.%0A%0ATechnical%20Specs%3A%0ASoft%20natural%20shadows%2C%20ambient%20occlusion%2C%20bright%20and%20airy%20yet%20cinematic%20lighting%2C%208K%20resolution%2C%20Octane%20Render%2C%20vivid%20but%20refined%20color%20palette%2C%20ultra-detailed%20fabric%20textures%20(satin%20sheen%2C%20lace%20transparency%2C%20stitching)%2C%20shallow%20depth%20of%20field%2C%20Vogue%20editorial%20style%2C%20filmic%20grain%2C%20professional%20fashion%20photography.%0A%0ANegative%20Prompt%20(recommended)%3A%0Ablurry%2C%20low-res%2C%20distorted%20anatomy%2C%20extra%20limbs%2C%20deformed%20hands%2C%20cartoon%2C%20anime%2C%20doll-like%2C%20plastic%20skin%2C%20overexposed%2C%20cluttered%20background%2C%20text%20errors%2C%20mismatched%20clothing%2C%20floating%20objects%2C%20unrealistic%20proportions.)**
+
+---
+
+### No. 4: Desert Ruins of Pure Math Grid
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A highly specific prompt for generating a 2x2 grid of monumental desert ruins, where each ruin is constructed in the style of Cairo monumental stone and represents a major mathematical symbol (Integral, Sigma, Pi, Penrose Triangle).
+
+#### 📝 प्रॉम्पट
+
+```
+Desert Ruins of Pure Math (Cairo-style monumental stone)
+A 2x2 grid of 4 monumental mathematical symbols built as ancient desert ruins in sandstone
+[Top Left: The Integral (∫) as a collapsed arch-aqueduct, wind-eroded blocks, carved microtext equations, tiny caravans for scale]
+[Top Right: The Sigma (Σ) as a stepped fortress-ziggurat with sharp terraces, long shadows, sand drifts collecting in corners]
+[Bottom Left: The Pi (π) as two colossal pylons and a lintel bridge over a narrow oasis canal, chipped stone, scattered rubble geometry]
+[Bottom Right: A Penrose Triangle as impossible ruins half-buried in dunes, optical illusion architecture, Escher perspective, sunlight slicing across paradox edges]
+Aerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, photoreal ruins texture, subtle river ribbon, swiss 2x2 grid layout.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317356_2vpbea_G8VcU1LXoAMqz35.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317944_kicho8_G8VcV3JXUAArQCC.jpg" width="600" alt="Desert Ruins of Pure Math Grid - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Gadgetify](https://x.com/Gdgtify)
+- **स्रोत:** [Twitter Post](https://x.com/Gdgtify/status/2001771705400766676)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Desert%20Ruins%20of%20Pure%20Math%20(Cairo-style%20monumental%20stone)%0AA%202x2%20grid%20of%204%20monumental%20mathematical%20symbols%20built%20as%20ancient%20desert%20ruins%20in%20sandstone%0A%5BTop%20Left%3A%20The%20Integral%20(%E2%88%AB)%20as%20a%20collapsed%20arch-aqueduct%2C%20wind-eroded%20blocks%2C%20carved%20microtext%20equations%2C%20tiny%20caravans%20for%20scale%5D%0A%5BTop%20Right%3A%20The%20Sigma%20(%CE%A3)%20as%20a%20stepped%20fortress-ziggurat%20with%20sharp%20terraces%2C%20long%20shadows%2C%20sand%20drifts%20collecting%20in%20corners%5D%0A%5BBottom%20Left%3A%20The%20Pi%20(%CF%80)%20as%20two%20colossal%20pylons%20and%20a%20lintel%20bridge%20over%20a%20narrow%20oasis%20canal%2C%20chipped%20stone%2C%20scattered%20rubble%20geometry%5D%0A%5BBottom%20Right%3A%20A%20Penrose%20Triangle%20as%20impossible%20ruins%20half-buried%20in%20dunes%2C%20optical%20illusion%20architecture%2C%20Escher%20perspective%2C%20sunlight%20slicing%20across%20paradox%20edges%5D%0AAerial%20oblique%20view%2C%20golden%20desert%20haze%2C%20crisp%20hard%20sunlight%2C%20dramatic%20shadows%2C%20photoreal%20ruins%20texture%2C%20subtle%20river%20ribbon%2C%20swiss%202x2%20grid%20layout.)**
+
+---
+
+### No. 5: Reasoning and Instruction Following Puzzle Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A complex prompt designed to test the model's reasoning and instruction-following capabilities by asking it to generate a visual puzzle: four related realistic objects on a table, a title text asking 'What do these objects have in common?', and very small, upside-down text at the bottom revealing the answer.
+
+#### 📝 प्रॉम्पट
+
+```
+"Show me 4 realistic objects on a table. The objects are related in some way, this is a puzzle. Add title text across the top, "{argument name="title text" default="What do these objects have in common?"}" And very small upside down text on the bottom which reveals the way in which they are related."
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117332475_8lulhi_G8e18eAbkAAYRu_.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117332530_uhzfle_G8e17b6akAAGHLI.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117332926_rwac50_G8e19bsacAAHhMX.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117334171_cfpmhl_G8e1-mUaMAEm-hj.jpg" width="600" alt="Reasoning and Instruction Following Puzzle Prompt - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Joe ⭕ Dot ⭕ Average](https://x.com/JoeDotAverage)
+- **स्रोत:** [Twitter Post](https://x.com/JoeDotAverage/status/2001768707123744896)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%22Show%20me%204%20realistic%20objects%20on%20a%20table.%20The%20objects%20are%20related%20in%20some%20way%2C%20this%20is%20a%20puzzle.%20Add%20title%20text%20across%20the%20top%2C%20%22%7Bargument%20name%3D%22title%20text%22%20default%3D%22What%20do%20these%20objects%20have%20in%20common%3F%22%7D%22%20And%20very%20small%20upside%20down%20text%20on%20the%20bottom%20which%20reveals%20the%20way%20in%20which%20they%20are%20related.%22)**
+
+---
+
+### No. 6: Meta-Prompt: Create an Image Detailing its Own Creation Steps
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A meta-prompt asking ChatGPT Image 1.5 to create an image that visually represents the very detailed steps the AI takes to generate that image, testing the model's ability to visualize its internal blueprint.
+
+#### 📝 प्रॉम्पट
+
+```
+Create an image about the very detailed steps you create to create the image.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117337382_67y665_G8esvp1XIAITg2-.jpg" width="600" alt="Meta-Prompt: Create an Image Detailing its Own Creation Steps - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [AI Mother Brain](https://x.com/AIMotherBrain)
+- **स्रोत:** [Twitter Post](https://x.com/AIMotherBrain/status/2001759949186040041)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Create%20an%20image%20about%20the%20very%20detailed%20steps%20you%20create%20to%20create%20the%20image.)**
+
+---
+
+### No. 7: Anime Christmas Elf Cross-Stitch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt for generating an image of a cross-stitch design featuring a Christmas elf in anime style working at a guitar store, complete with a festive border.
+
+#### 📝 प्रॉम्पट
+
+```
+a cross-stitch of a christmas elf - anime style. the elf is working at a guitar store, guitars hang on the wall. the cross stitch has a christmas border with mistletoe and christmas decorations.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117318200_6t0g8j_G8egZjaXsAAkB2t.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117318650_v70zr8_G8egd2FXcAIs8tj.jpg" width="600" alt="Anime Christmas Elf Cross-Stitch - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [mash tun](https://x.com/MashTunTimmy)
+- **स्रोत:** [Twitter Post](https://x.com/MashTunTimmy/status/2001745127396573635)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=a%20cross-stitch%20of%20a%20christmas%20elf%20-%20anime%20style.%20the%20elf%20is%20working%20at%20a%20guitar%20store%2C%20guitars%20hang%20on%20the%20wall.%20the%20cross%20stitch%20has%20a%20christmas%20border%20with%20mistletoe%20and%20christmas%20decorations.)**
+
+---
+
+### No. 8: Moody Cinematic Portrait with Motion Blur and Directional Lighting
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A highly specific prompt for generating a moody, cinematic portrait of a young male model. It details the lighting (harsh directional light from the left), pose (clutching collar, tense jawline), and a complex motion blur effect slicing horizontally across the face, aiming for a stylized editorial tone with film grain.
+
+#### 📝 प्रॉम्पट
+
+```
+Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117336502_1vqe84_G8eR5t6bwAAZt8B.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117336925_6w5lyh_G8eR5ulbwAAat--.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur and Directional Lighting - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Sanchit | AI Tools & News](https://x.com/AIwithSanchit)
+- **स्रोत:** [Twitter Post](https://x.com/AIwithSanchit/status/2001728985131360723)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+
+---
+
+### No. 9: Portrait grid with varied facial expressions
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt designed for GPT-Image 1.5 to create a 3x3 grid of portraits based on an uploaded photo. It requires maintaining the subject's exact likeness while generating nine different facial expressions, presented with a clean, modern aesthetic, soft lighting, and pastel backgrounds.
+
+#### 📝 प्रॉम्पट
+
+```
+Starting with the uploaded photo as a base reference, create a clean and modern portrait grid featuring the same person with several different facial expressions and moods. Arrange the images in a neat 3×3 layout with rounded corners and soft pastel backgrounds. Each portrait should retain the same facial features, hairstyle, and realism, changing only the expression and subtle style. Include expressions such as: natural smile, joyful laugh, calm with eyes closed, neutral and serious gaze, pensive pose with hand on chin, confident and composed expression, sad or disappointed mood, mischievous pout, and surprised reaction with wide eyes. Use soft studio lighting, highly detailed skin texture, shallow depth of field, minimal variations in wardrobe, consistent color palette, ultra-realistic editorial portrait style, high resolution, and clean aesthetics.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117348980_417qhe_G8eLCs8XcAARcGs.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117349108_2sa2sf_G8eK3LHXUAEz4-z.jpg" width="600" alt="Portrait grid with varied facial expressions - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Camille_1982_fr](https://x.com/1982_camille)
+- **स्रोत:** [Twitter Post](https://x.com/1982_camille/status/2001721453075644763)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Starting%20with%20the%20uploaded%20photo%20as%20a%20base%20reference%2C%20create%20a%20clean%20and%20modern%20portrait%20grid%20featuring%20the%20same%20person%20with%20several%20different%20facial%20expressions%20and%20moods.%20Arrange%20the%20images%20in%20a%20neat%203%C3%973%20layout%20with%20rounded%20corners%20and%20soft%20pastel%20backgrounds.%20Each%20portrait%20should%20retain%20the%20same%20facial%20features%2C%20hairstyle%2C%20and%20realism%2C%20changing%20only%20the%20expression%20and%20subtle%20style.%20Include%20expressions%20such%20as%3A%20natural%20smile%2C%20joyful%20laugh%2C%20calm%20with%20eyes%20closed%2C%20neutral%20and%20serious%20gaze%2C%20pensive%20pose%20with%20hand%20on%20chin%2C%20confident%20and%20composed%20expression%2C%20sad%20or%20disappointed%20mood%2C%20mischievous%20pout%2C%20and%20surprised%20reaction%20with%20wide%20eyes.%20Use%20soft%20studio%20lighting%2C%20highly%20detailed%20skin%20texture%2C%20shallow%20depth%20of%20field%2C%20minimal%20variations%20in%20wardrobe%2C%20consistent%20color%20palette%2C%20ultra-realistic%20editorial%20portrait%20style%2C%20high%20resolution%2C%20and%20clean%20aesthetics.)**
+
+---
+
+### No. 10: Hyper-Realistic Cinematic Action Scene from Reference Image
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A detailed prompt for transforming a subject from an uploaded reference image into a hyper-realistic cinematic action scene. The subject is depicted leaping from a glowing, neon-swirling dimensional portal onto a wet city crosswalk, emphasizing dynamic motion, dramatic lighting, and preserving the subject's exact likeness and features.
+
+#### 📝 प्रॉम्पट
+
+```
+Using the uploaded image as the primary visual reference, transform the subject into a hyper-realistic cinematic action scene. The man is leaping forward onto a city crosswalk while emerging from a glowing circular dimensional portal behind him. The portal emits intense swirling neon energy in electric {argument name="portal color 1" default="blue"}, {argument name="portal color 2" default="violet"}, and {argument name="portal color 3" default="magenta"}, with sparks, lightning arcs, particle debris, and visible energy-distortion effects in the air.
+
+The subject is captured mid-motion in a powerful running leap, expression focused and intense. His original clothing from the reference image is naturally adapted for dynamic motion, with realistic fabric flow, folds, and physics, without changing his identity. Footwear and outfit subtly reflect the neon portal light. Preserve the subject’s original facial structure, skin texture, hairstyle, beard (if present), and body proportions exactly as in the reference image.
+
+The environment is a modern urban city street with cinematic perspective. The background is slightly motion-blurred to emphasize speed and action. The road surface appears wet, showing subtle reflections of the glowing portal and neon light streaks. Dramatic cinematic lighting, volumetric light rays, shallow depth of field, ultra-sharp details, high contrast, realistic physics, sci-fi atmosphere, professional action-movie poster composition, cinematic color grading, ultra-high resolution, 8K quality.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117339927_6yb1a3_G8dtiRcaoAA5XzT.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117339915_umfcs8_G8dtiRcakAANNkE.jpg" width="600" alt="Hyper-Realistic Cinematic Action Scene from Reference Image - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [புல்லட் வண்டி 😈🧛](https://x.com/iam_vampire_0)
+- **स्रोत:** [Twitter Post](https://x.com/iam_vampire_0/status/2001689313554370620)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Using%20the%20uploaded%20image%20as%20the%20primary%20visual%20reference%2C%20transform%20the%20subject%20into%20a%20hyper-realistic%20cinematic%20action%20scene.%20The%20man%20is%20leaping%20forward%20onto%20a%20city%20crosswalk%20while%20emerging%20from%20a%20glowing%20circular%20dimensional%20portal%20behind%20him.%20The%20portal%20emits%20intense%20swirling%20neon%20energy%20in%20electric%20%7Bargument%20name%3D%22portal%20color%201%22%20default%3D%22blue%22%7D%2C%20%7Bargument%20name%3D%22portal%20color%202%22%20default%3D%22violet%22%7D%2C%20and%20%7Bargument%20name%3D%22portal%20color%203%22%20default%3D%22magenta%22%7D%2C%20with%20sparks%2C%20lightning%20arcs%2C%20particle%20debris%2C%20and%20visible%20energy-distortion%20effects%20in%20the%20air.%0A%0AThe%20subject%20is%20captured%20mid-motion%20in%20a%20powerful%20running%20leap%2C%20expression%20focused%20and%20intense.%20His%20original%20clothing%20from%20the%20reference%20image%20is%20naturally%20adapted%20for%20dynamic%20motion%2C%20with%20realistic%20fabric%20flow%2C%20folds%2C%20and%20physics%2C%20without%20changing%20his%20identity.%20Footwear%20and%20outfit%20subtly%20reflect%20the%20neon%20portal%20light.%20Preserve%20the%20subject%E2%80%99s%20original%20facial%20structure%2C%20skin%20texture%2C%20hairstyle%2C%20beard%20(if%20present)%2C%20and%20body%20proportions%20exactly%20as%20in%20the%20reference%20image.%0A%0AThe%20environment%20is%20a%20modern%20urban%20city%20street%20with%20cinematic%20perspective.%20The%20background%20is%20slightly%20motion-blurred%20to%20emphasize%20speed%20and%20action.%20The%20road%20surface%20appears%20wet%2C%20showing%20subtle%20reflections%20of%20the%20glowing%20portal%20and%20neon%20light%20streaks.%20Dramatic%20cinematic%20lighting%2C%20volumetric%20light%20rays%2C%20shallow%20depth%20of%20field%2C%20ultra-sharp%20details%2C%20high%20contrast%2C%20realistic%20physics%2C%20sci-fi%20atmosphere%2C%20professional%20action-movie%20poster%20composition%2C%20cinematic%20color%20grading%2C%20ultra-high%20resolution%2C%208K%20quality.)**
+
+---
+
+### No. 11: Underwater Product Photoshoot with Caustic Light
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt designed for product photography, generating an ultra-high-resolution image of a reference object fully submerged in crystal-clear turquoise water, focusing on intricate caustic light patterns and ethereal elegance.
+
+#### 📝 प्रॉम्पट
+
+```
+[Reference Image] fully submerged in crystal-clear, turquoise water, captured in ultra-high-resolution underwater photography. Sunlight penetrates the surface above, creating intricate caustic light patterns that ripple and dance across the subject and surrounding water. The scene conveys pristine clarity with zero particulate matter, emphasizing a sense of suspended weightlessness and serene motion. Fine details are frozen using high-speed capture, with subtle bubbles and flowing fabric or hair enhancing the feeling of aquatic elegance. The overall aesthetic is clean, refreshing, and ethereal, with soft natural color grading, high dynamic range, and cinematic realism.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117314070_vide3k_G8detsYakAYU8D6.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117314231_9onhaj_G8de5B3akAg29y1.jpg" width="600" alt="Underwater Product Photoshoot with Caustic Light - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [1LittleCoder💻](https://x.com/1littlecoder)
+- **स्रोत:** [Twitter Post](https://x.com/1littlecoder/status/2001672903792955756)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%5BReference%20Image%5D%20fully%20submerged%20in%20crystal-clear%2C%20turquoise%20water%2C%20captured%20in%20ultra-high-resolution%20underwater%20photography.%20Sunlight%20penetrates%20the%20surface%20above%2C%20creating%20intricate%20caustic%20light%20patterns%20that%20ripple%20and%20dance%20across%20the%20subject%20and%20surrounding%20water.%20The%20scene%20conveys%20pristine%20clarity%20with%20zero%20particulate%20matter%2C%20emphasizing%20a%20sense%20of%20suspended%20weightlessness%20and%20serene%20motion.%20Fine%20details%20are%20frozen%20using%20high-speed%20capture%2C%20with%20subtle%20bubbles%20and%20flowing%20fabric%20or%20hair%20enhancing%20the%20feeling%20of%20aquatic%20elegance.%20The%20overall%20aesthetic%20is%20clean%2C%20refreshing%2C%20and%20ethereal%2C%20with%20soft%20natural%20color%20grading%2C%20high%20dynamic%20range%2C%20and%20cinematic%20realism.)**
+
+---
+
+### No. 12: Ultra-Realistic Humanoid Robot on Rooftop
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+An extensive, highly detailed prompt designed to test GPT Image 1.5's ability to generate ultra-realistic, production-ready images, specifically a cinematic photograph of a humanoid robot on a rooftop at dawn, focusing on material fidelity, mechanical details, and integrated text display.
+
+#### 📝 प्रॉम्पट
+
+```
+Ultra-realistic cinematic photograph of a humanoid robot standing on a rooftop overlooking a modern city at dawn, medium shot. Highly detailed humanoid robot with synthetic skin and exposed metallic elements, realistic joints, fine mechanical details, subtle surface imperfections, micro scratches and reflections. Human-like posture and proportions, calm and natural stance, soft ambient light reflecting off metal and synthetic materials. Cinematic sunrise lighting, soft volumetric light, realistic city skyline in the background with shallow depth of field. A digital city billboard in the background displaying the text "{argument name="billboard text" default="SYSTEM ONLINE"}", text integrated into the screen with realistic glow, perspective, and lighting, not overlaid. Photorealistic futuristic photography, high fidelity materials, no cartoon style, no sci-fi illustration, production-ready realism.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117328409_ou93vb_G8dd_6bakAQMpil.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117328556_y78cyj_G8deARJakAADj-M.jpg" width="600" alt="Ultra-Realistic Humanoid Robot on Rooftop - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [IVAN | IA](https://x.com/ivnways)
+- **स्रोत:** [Twitter Post](https://x.com/ivnways/status/2001671922984325197)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Ultra-realistic%20cinematic%20photograph%20of%20a%20humanoid%20robot%20standing%20on%20a%20rooftop%20overlooking%20a%20modern%20city%20at%20dawn%2C%20medium%20shot.%20Highly%20detailed%20humanoid%20robot%20with%20synthetic%20skin%20and%20exposed%20metallic%20elements%2C%20realistic%20joints%2C%20fine%20mechanical%20details%2C%20subtle%20surface%20imperfections%2C%20micro%20scratches%20and%20reflections.%20Human-like%20posture%20and%20proportions%2C%20calm%20and%20natural%20stance%2C%20soft%20ambient%20light%20reflecting%20off%20metal%20and%20synthetic%20materials.%20Cinematic%20sunrise%20lighting%2C%20soft%20volumetric%20light%2C%20realistic%20city%20skyline%20in%20the%20background%20with%20shallow%20depth%20of%20field.%20A%20digital%20city%20billboard%20in%20the%20background%20displaying%20the%20text%20%22%7Bargument%20name%3D%22billboard%20text%22%20default%3D%22SYSTEM%20ONLINE%22%7D%22%2C%20text%20integrated%20into%20the%20screen%20with%20realistic%20glow%2C%20perspective%2C%20and%20lighting%2C%20not%20overlaid.%20Photorealistic%20futuristic%20photography%2C%20high%20fidelity%20materials%2C%20no%20cartoon%20style%2C%20no%20sci-fi%20illustration%2C%20production-ready%20realism.)**
+
+---
+
+### No. 13: Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A highly detailed, structured JSON-like prompt designed for GPT Image 1.5 to generate a realistic, cinematic scene of a person in Times Square on a rainy night. It specifies complex elements like reflections, specific clothing details (a black faux-leather varsity jacket with embroidery), and camera aesthetics, ensuring the subject's face remains identical to an uploaded reference.
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "scene": {
+    "location": "{argument name="location" default="Times Square, New York"}",
+    "time": "{argument name="time" default="Rainy night"}",
+    "composition": {
+      "left_side": [
+        {
+          "type": "LED billboard",
+          "style": "vertical",
+          "text_color": "white-on-black"
+        },
+        {
+          "type": "curved LED screen",
+          "detail": "above yellow arrow for Hershey's store"
+        }
+      ],
+      "right_side": {
+        "subject_position": "near curb",
+        "traffic": {
+          "vehicles": "city taxis and cars",
+          "details": "brake lights forming a slow line"
+        }
+      }
+    },
+    "environment": {
+      "ground": "wet asphalt",
+      "reflection_colors": ["neon magenta", "icy blue"],
+      "puddles": {
+        "reflecting_lights": true,
+        "object_details": ["scattered takeaway cups"]
+      },
+      "atmosphere": ["electric", "intimate"]
+    }
+  },
+  "subject": {
+    "identity": "Uploaded subject",
+    "face_requirement": "Do not change facial features. Must look 1000% identical.",
+    "pose": "Relaxed, facing camera",
+    "holding": "Folded black umbrella by handle",
+    "outfit": {
+      "jacket": {
+        "material": "black faux-leather varsity",
+        "design": {
+          "cobalt_panel": true,
+          "cream_stripe": true,
+          "embroidery": "Vintage script",
+          "lettering": "Block OF",
+          "patch": "1987 stitched on sleeve",
+          "reflective_piping": true,
+          "highlight_color": "purple reflection"
+        }
+      }
+    }
+  },
+  "background": {
+    "elements": ["cars", "scaffolding", "stacked storefront signs"]
+  },
+  "style": {
+    "resolution": "HD",
+    "aesthetic": ["realistic", "natural", "authentic"],
+    "camera": "iPhone"
+  }
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117328579_6hzy1j_G8dW0SabIAA3vbq.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117329217_va7qjk_G8dW0SWakAAALlw.jpg" width="600" alt="Complex Structured Prompt for Rainy Times Square Scene with Detailed Subject Description - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Dr.duet](https://x.com/Sheldon056)
+- **स्रोत:** [Twitter Post](https://x.com/Sheldon056/status/2001664038707826811)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%22location%22%20default%3D%22Times%20Square%2C%20New%20York%22%7D%22%2C%0A%20%20%20%20%22time%22%3A%20%22%7Bargument%20name%3D%22time%22%20default%3D%22Rainy%20night%22%7D%22%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22left_side%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22LED%20billboard%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22vertical%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22text_color%22%3A%20%22white-on-black%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22curved%20LED%20screen%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22detail%22%3A%20%22above%20yellow%20arrow%20for%20Hershey's%20store%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22right_side%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22subject_position%22%3A%20%22near%20curb%22%2C%0A%20%20%20%20%20%20%20%20%22traffic%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22vehicles%22%3A%20%22city%20taxis%20and%20cars%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22details%22%3A%20%22brake%20lights%20forming%20a%20slow%20line%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22ground%22%3A%20%22wet%20asphalt%22%2C%0A%20%20%20%20%20%20%22reflection_colors%22%3A%20%5B%22neon%20magenta%22%2C%20%22icy%20blue%22%5D%2C%0A%20%20%20%20%20%20%22puddles%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22reflecting_lights%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22object_details%22%3A%20%5B%22scattered%20takeaway%20cups%22%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%5B%22electric%22%2C%20%22intimate%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%22Uploaded%20subject%22%2C%0A%20%20%20%20%22face_requirement%22%3A%20%22Do%20not%20change%20facial%20features.%20Must%20look%201000%25%20identical.%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Relaxed%2C%20facing%20camera%22%2C%0A%20%20%20%20%22holding%22%3A%20%22Folded%20black%20umbrella%20by%20handle%22%2C%0A%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22black%20faux-leather%20varsity%22%2C%0A%20%20%20%20%20%20%20%20%22design%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22cobalt_panel%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22cream_stripe%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22embroidery%22%3A%20%22Vintage%20script%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22lettering%22%3A%20%22Block%20OF%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22patch%22%3A%20%221987%20stitched%20on%20sleeve%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22reflective_piping%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%22highlight_color%22%3A%20%22purple%20reflection%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22elements%22%3A%20%5B%22cars%22%2C%20%22scaffolding%22%2C%20%22stacked%20storefront%20signs%22%5D%0A%20%20%7D%2C%0A%20%20%22style%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22HD%22%2C%0A%20%20%20%20%22aesthetic%22%3A%20%5B%22realistic%22%2C%20%22natural%22%2C%20%22authentic%22%5D%2C%0A%20%20%20%20%22camera%22%3A%20%22iPhone%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 14: Extreme Food Art Grid of New York Neighborhoods
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A creative and complex food prompt designed to generate a 2x2 grid of extreme food art. Each panel represents a different New York neighborhood, constructed from signature dishes, landmarks built from food, and environmental details using sauces and spices.
+
+#### 📝 प्रॉम्पट
+
+```
+a 2x2 food art grid. Randomly select 4 diverse {argument name="new york's neighborhoods" default="new york's neighborhoods"}. For each: construct the location's geographic shape from signature dishes, build a few famous landmarks from food, add environmental details (waterways, vegetation, infrastructure) using sauces/spices/ingredients. Extreme food art on slate boards, macro photography, dramatic overhead lighting, dark moody background, name underneath.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310206_sdbxak_G8YUAeJXgAAtplf.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310443_k2sf5y_G8YT-D4XQAEXfQB.jpg" width="600" alt="Extreme Food Art Grid of New York Neighborhoods - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Gadgetify](https://x.com/Gdgtify)
+- **स्रोत:** [Twitter Post](https://x.com/Gdgtify/status/2001662485519306967)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=a%202x2%20food%20art%20grid.%20Randomly%20select%204%20diverse%20%7Bargument%20name%3D%22new%20york's%20neighborhoods%22%20default%3D%22new%20york's%20neighborhoods%22%7D.%20For%20each%3A%20construct%20the%20location's%20geographic%20shape%20from%20signature%20dishes%2C%20build%20a%20few%20famous%20landmarks%20from%20food%2C%20add%20environmental%20details%20(waterways%2C%20vegetation%2C%20infrastructure)%20using%20sauces%2Fspices%2Fingredients.%20Extreme%20food%20art%20on%20slate%20boards%2C%20macro%20photography%2C%20dramatic%20overhead%20lighting%2C%20dark%20moody%20background%2C%20name%20underneath.)**
+
+---
+
+### No. 15: Cinematic Night Street Scene Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A straightforward cinematic prompt for generating a moody image of a woman walking through a rainy street at night, focusing on specific visual elements like neon reflections, raindrops, soft bokeh, and a blue-red color contrast.
+
+#### 📝 प्रॉम्पट
+
+```
+A woman walking through a rainy street at night, neon signs reflecting off puddles, raindrops on the jacket, soft bokeh in the background, moody expression, cinematic blue-red color contrast.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117331797_63ap3y_G8dJJkqakAIYglj.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117331886_nk8k4v_G8dJJiMbkAEEvFT.jpg" width="600" alt="Cinematic Night Street Scene Prompt - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Johnn](https://x.com/john_my07)
+- **स्रोत:** [Twitter Post](https://x.com/john_my07/status/2001648991449366710)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=A%20woman%20walking%20through%20a%20rainy%20street%20at%20night%2C%20neon%20signs%20reflecting%20off%20puddles%2C%20raindrops%20on%20the%20jacket%2C%20soft%20bokeh%20in%20the%20background%2C%20moody%20expression%2C%20cinematic%20blue-red%20color%20contrast.)**
+
+---
+
+### No. 16: Chinese Fantasy Digital Art Prompt Template
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A highly structured JSON-formatted prompt template for generating panoramic digital artwork in a Chinese Fantasy and Abstract Digital Art style. It specifies visual elements like subject silhouette, bioluminescent lighting, flowing effects, and a specific color palette, intended for use with models like Midjourney (Niji 6) or SDXL. The prompt is designed to be easily customized by changing the final line to specify the character or scene, such as applying the style to characters from 'Journey to the West'.
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "meta_info": {
+    "title": "Ethereal Hanfu Spirit",
+    "style_category": "Chinese Fantasy / Abstract Digital Art",
+    "aspect_ratio": "3:1"
+  },
+  "visual_elements": {
+    "subject": {
+      "description": "Silhouette wearing attire determined by the character",
+      "pose": "Pose determined by the character, floating in mid-air",
+      "composition": "Centered ethereal figure with flowing trails extending to the sides"
+    },
+    "atmosphere": {
+      "lighting": "Bioluminescent glow, volumetric lighting, rim lighting",
+      "effects": "Flowing smoke, light particles, holographic dispersion, silk-like energy trails",
+      "colors": ["Deep Navy Blue", "Glowing Cyan", "Iridescent Gold", "Soft Peach"]
+    }
+  },
+  "prompt_export": {
+    "natural_language_prompt": "A wide panoramic digital artwork depicting a figure composed of flowing ribbons of light, translucent smoke, and iridescent particles. The background features deep, moody indigo and dark blue tones. The figure emits a soft, magical bioluminescent glow in hues of gold, peach, and cyan. The overall style is abstract fantasy, emphasizing fluid motion and a dreamy atmosphere, rendered in 8K resolution with highly detailed textures and exhibiting the Tyndall effect.",
+    "tag_based_prompt": " silhouette, flowing light lines, smoke effects, particle effects, bioluminescence, iridescent effects, dark blue background, cinematic lighting, ethereal, mystical, masterpiece, best quality, 8k, wide angle --ay 21:9 ",
+    "negative_prompt": "photorealistic, solid skin, heavy outlines, messy lines, text, watermark, low quality, jpeg artifacts, blurry, distorted face, bad anatomy"
+  },
+  "technical_settings_recommendation": {
+    "sampler": "Euler a / DPM++ 2M Karras",
+    "steps": 30,
+    "cfg_scale": 7.0,
+    "model_suggestion": "Niji 6 (for Midjourney) or Abstract/Fantasy-based SDXL models"
+  }
+}
+Character set as: {argument name="character setting" default="The four master and disciples from Journey to the West"}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345240_yz282k_G8c6f_Tb0AAajb1.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345126_fh2sfw_G8c6SxOaoAIkmH-.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345514_w6r9ej_G8c-0QNakAEGxd9.jpg" width="600" alt="Chinese Fantasy Digital Art Prompt Template - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [岚叔](https://x.com/LufzzLiz)
+- **स्रोत:** [Twitter Post](https://x.com/LufzzLiz/status/2001637740568596705)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** zh
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%7B%0A%20%20%22meta_info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%22Ethereal%20Hanfu%20Spirit%22%2C%0A%20%20%20%20%22style_category%22%3A%20%22Chinese%20Fantasy%20%2F%20Abstract%20Digital%20Art%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A1%22%0A%20%20%7D%2C%0A%20%20%22visual_elements%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22description%22%3A%20%22Silhouette%20wearing%20attire%20determined%20by%20the%20character%22%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%22Pose%20determined%20by%20the%20character%2C%20floating%20in%20mid-air%22%2C%0A%20%20%20%20%20%20%22composition%22%3A%20%22Centered%20ethereal%20figure%20with%20flowing%20trails%20extending%20to%20the%20sides%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Bioluminescent%20glow%2C%20volumetric%20lighting%2C%20rim%20lighting%22%2C%0A%20%20%20%20%20%20%22effects%22%3A%20%22Flowing%20smoke%2C%20light%20particles%2C%20holographic%20dispersion%2C%20silk-like%20energy%20trails%22%2C%0A%20%20%20%20%20%20%22colors%22%3A%20%5B%22Deep%20Navy%20Blue%22%2C%20%22Glowing%20Cyan%22%2C%20%22Iridescent%20Gold%22%2C%20%22Soft%20Peach%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22prompt_export%22%3A%20%7B%0A%20%20%20%20%22natural_language_prompt%22%3A%20%22A%20wide%20panoramic%20digital%20artwork%20depicting%20a%20figure%20composed%20of%20flowing%20ribbons%20of%20light%2C%20translucent%20smoke%2C%20and%20iridescent%20particles.%20The%20background%20features%20deep%2C%20moody%20indigo%20and%20dark%20blue%20tones.%20The%20figure%20emits%20a%20soft%2C%20magical%20bioluminescent%20glow%20in%20hues%20of%20gold%2C%20peach%2C%20and%20cyan.%20The%20overall%20style%20is%20abstract%20fantasy%2C%20emphasizing%20fluid%20motion%20and%20a%20dreamy%20atmosphere%2C%20rendered%20in%208K%20resolution%20with%20highly%20detailed%20textures%20and%20exhibiting%20the%20Tyndall%20effect.%22%2C%0A%20%20%20%20%22tag_based_prompt%22%3A%20%22%20silhouette%2C%20flowing%20light%20lines%2C%20smoke%20effects%2C%20particle%20effects%2C%20bioluminescence%2C%20iridescent%20effects%2C%20dark%20blue%20background%2C%20cinematic%20lighting%2C%20ethereal%2C%20mystical%2C%20masterpiece%2C%20best%20quality%2C%208k%2C%20wide%20angle%20--ay%2021%3A9%20%22%2C%0A%20%20%20%20%22negative_prompt%22%3A%20%22photorealistic%2C%20solid%20skin%2C%20heavy%20outlines%2C%20messy%20lines%2C%20text%2C%20watermark%2C%20low%20quality%2C%20jpeg%20artifacts%2C%20blurry%2C%20distorted%20face%2C%20bad%20anatomy%22%0A%20%20%7D%2C%0A%20%20%22technical_settings_recommendation%22%3A%20%7B%0A%20%20%20%20%22sampler%22%3A%20%22Euler%20a%20%2F%20DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%20%20%22steps%22%3A%2030%2C%0A%20%20%20%20%22cfg_scale%22%3A%207.0%2C%0A%20%20%20%20%22model_suggestion%22%3A%20%22Niji%206%20(for%20Midjourney)%20or%20Abstract%2FFantasy-based%20SDXL%20models%22%0A%20%20%7D%0A%7D%0ACharacter%20set%20as%3A%20%7Bargument%20name%3D%22character%20setting%22%20default%3D%22The%20four%20master%20and%20disciples%20from%20Journey%20to%20the%20West%22%7D)**
+
+---
+
+### No. 17: Adding Handwritten Text and Decoration to an Image
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+The second Japanese prompt focuses on image manipulation, asking GPT Image 1.5 to add handwritten text (a date and a heart mark) and decorations to make the image look like a 'Cheki' (instant photo).
+
+#### 📝 प्रॉम्पट
+
+```
+Please add handwritten text ({argument name="date" default="2025.12.18"} + heart mark) and decorations to make it look like a Cheki (instant photo).
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117326298_nbnz1o_G8cfu7DakAQPoBA.jpg" width="600" alt="Adding Handwritten Text and Decoration to an Image - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [AI_only](https://x.com/0x4149_6f6e6c79)
+- **स्रोत:** [Twitter Post](https://x.com/0x4149_6f6e6c79/status/2001603835023007959)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Please%20add%20handwritten%20text%20(%7Bargument%20name%3D%22date%22%20default%3D%222025.12.18%22%7D%20%2B%20heart%20mark)%20and%20decorations%20to%20make%20it%20look%20like%20a%20Cheki%20(instant%20photo).)**
+
+---
+
+### No. 18: Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 विवरण
+
+A Japanese prompt describing two characters: an exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath. This prompt was used to test GPT Image 1.5's ability to handle complex character descriptions and scenes with simple color palettes.
+
+#### 📝 प्रॉम्पट
+
+```
+An exorcist with fluffy rabbit ears and a rabbit familiar who is also an apprentice and wants to take a bath
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345820_txij3v_G8ccYWnaEAAK3M_.jpg" width="600" alt="Exorcist with Fluffy Rabbit Ears and Apprentice Rabbit Familiar - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [ak@AI関係の投稿垢](https://x.com/Ak_Quen)
+- **स्रोत:** [Twitter Post](https://x.com/Ak_Quen/status/2001599775582666974)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=An%20exorcist%20with%20fluffy%20rabbit%20ears%20and%20a%20rabbit%20familiar%20who%20is%20also%20an%20apprentice%20and%20wants%20to%20take%20a%20bath)**
+
+---
+
+### No. 19: GPT Image 1.5 World Tour Prompt Template
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A detailed, structured prompt template for GPT Image 1.5 designed to generate photorealistic concert documentary images of a character performing a 'World Tour' at a specific geographical location defined by latitude and longitude. The prompt emphasizes maintaining character identity while integrating local culture and cinematic visual effects.
+
+#### 📝 प्रॉम्पट
+
+```
+GENERAL STYLE & MOOD:
+Photorealistic live concert documentary. Cinematic visual expression blending the fervor of the enthusiastic audience with the unique atmosphere and lighting specific to the location.
+
+SUBJECT:
+The character from the attached image is performing a 'World Tour' live performance at the specified latitude and longitude location.
+While completely preserving the character's identity, they are wearing a 'World Tour exclusive stage costume' that modernly arranges the culture, tradition, or symbolic elements of that land.
+
+COMPOSITION & STAGE DESIGN:
+The stage is a special venue that maximizes the use of the local landmarks, topography, or urban landscape.
+- Dynamic angle using a wide-angle lens (24mm equivalent).
+- Immersive framing, looking up at the stage over the audience.
+- Fusion of iconic local backgrounds (architecture, natural scenery) and the latest lighting technology (LED, laser).
+
+LIGHTING & ENVIRONMENT:
+- Natural light based on the local time of day ( {argument name="time of day" default="golden hour, or night"}) determined by latitude and longitude.
+- Coexistence of spotlights illuminating the stage and bokeh from local streetlights or night views.
+- A sea of light created by the audience's glow sticks and smartphone lights.
+
+PRESERVE FROM IMAGE:
+- The character's facial features, hairstyle, hair color, and physical characteristics.
+- The character's unique expressions and performance habits.
+
+CONSTRAINTS / DO NOT:
+- Do not distort the character's form.
+- Avoid unnatural finger shapes or duplication of limbs.
+- Ensure that text or logos on the stage are depicted extremely clearly, avoiding illegible random strings.
+- The background must not be a generic concert venue; it must incorporate a unique landscape that could only exist in that specific location.
+
+LOCATION SPECIFICATION:
+{argument name="latitude" default="-13.1631"}
+{argument name="longitude" default="-72.5450"}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117348610_qgdfqa_G8cVGKLakAAzln6.jpg" width="600" alt="GPT Image 1.5 World Tour Prompt Template - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **स्रोत:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2001592503926165895)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=GENERAL%20STYLE%20%26%20MOOD%3A%0APhotorealistic%20live%20concert%20documentary.%20Cinematic%20visual%20expression%20blending%20the%20fervor%20of%20the%20enthusiastic%20audience%20with%20the%20unique%20atmosphere%20and%20lighting%20specific%20to%20the%20location.%0A%0ASUBJECT%3A%0AThe%20character%20from%20the%20attached%20image%20is%20performing%20a%20'World%20Tour'%20live%20performance%20at%20the%20specified%20latitude%20and%20longitude%20location.%0AWhile%20completely%20preserving%20the%20character's%20identity%2C%20they%20are%20wearing%20a%20'World%20Tour%20exclusive%20stage%20costume'%20that%20modernly%20arranges%20the%20culture%2C%20tradition%2C%20or%20symbolic%20elements%20of%20that%20land.%0A%0ACOMPOSITION%20%26%20STAGE%20DESIGN%3A%0AThe%20stage%20is%20a%20special%20venue%20that%20maximizes%20the%20use%20of%20the%20local%20landmarks%2C%20topography%2C%20or%20urban%20landscape.%0A-%20Dynamic%20angle%20using%20a%20wide-angle%20lens%20(24mm%20equivalent).%0A-%20Immersive%20framing%2C%20looking%20up%20at%20the%20stage%20over%20the%20audience.%0A-%20Fusion%20of%20iconic%20local%20backgrounds%20(architecture%2C%20natural%20scenery)%20and%20the%20latest%20lighting%20technology%20(LED%2C%20laser).%0A%0ALIGHTING%20%26%20ENVIRONMENT%3A%0A-%20Natural%20light%20based%20on%20the%20local%20time%20of%20day%20(%20%7Bargument%20name%3D%22time%20of%20day%22%20default%3D%22golden%20hour%2C%20or%20night%22%7D)%20determined%20by%20latitude%20and%20longitude.%0A-%20Coexistence%20of%20spotlights%20illuminating%20the%20stage%20and%20bokeh%20from%20local%20streetlights%20or%20night%20views.%0A-%20A%20sea%20of%20light%20created%20by%20the%20audience's%20glow%20sticks%20and%20smartphone%20lights.%0A%0APRESERVE%20FROM%20IMAGE%3A%0A-%20The%20character's%20facial%20features%2C%20hairstyle%2C%20hair%20color%2C%20and%20physical%20characteristics.%0A-%20The%20character's%20unique%20expressions%20and%20performance%20habits.%0A%0ACONSTRAINTS%20%2F%20DO%20NOT%3A%0A-%20Do%20not%20distort%20the%20character's%20form.%0A-%20Avoid%20unnatural%20finger%20shapes%20or%20duplication%20of%20limbs.%0A-%20Ensure%20that%20text%20or%20logos%20on%20the%20stage%20are%20depicted%20extremely%20clearly%2C%20avoiding%20illegible%20random%20strings.%0A-%20The%20background%20must%20not%20be%20a%20generic%20concert%20venue%3B%20it%20must%20incorporate%20a%20unique%20landscape%20that%20could%20only%20exist%20in%20that%20specific%20location.%0A%0ALOCATION%20SPECIFICATION%3A%0A%7Bargument%20name%3D%22latitude%22%20default%3D%22-13.1631%22%7D%0A%7Bargument%20name%3D%22longitude%22%20default%3D%22-72.5450%22%7D)**
+
+---
+
+### No. 20: Romantic Blue Ink Spill Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A creative prompt instructing the model to convert an uploaded image of a couple into an ultra-realistic portrait rendered as a blue ink spill on paper, maintaining the faces but depicting a romantic pose and specific traditional clothing.
+
+#### 📝 प्रॉम्पट
+
+```
+Convert the above image into ultra realistic portrait of both in a romantic pose in the form of blue ink spill in a paper .guy should be in formal shirt and pant .girl should be in flower designed saree.behind them  above their  head should have couple different  romantic  pose closeup face  picture in transparent form ..both should not look the camera .dramatic ( do not change the faces)
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117321516_smw2ed_G8cOwSUaYAAQ307.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117321699_xulkel_G8cOwScbsAEZVMV.jpg" width="600" alt="Romantic Blue Ink Spill Portrait - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [. ](https://x.com/ebi__mc)
+- **स्रोत:** [Twitter Post](https://x.com/ebi__mc/status/2001584785760883114)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Convert%20the%20above%20image%20into%20ultra%20realistic%20portrait%20of%20both%20in%20a%20romantic%20pose%20in%20the%20form%20of%20blue%20ink%20spill%20in%20a%20paper%20.guy%20should%20be%20in%20formal%20shirt%20and%20pant%20.girl%20should%20be%20in%20flower%20designed%20saree.behind%20them%20%20above%20their%20%20head%20should%20have%20couple%20different%20%20romantic%20%20pose%20closeup%20face%20%20picture%20in%20transparent%20form%20..both%20should%20not%20look%20the%20camera%20.dramatic%20(%20do%20not%20change%20the%20faces))**
+
+---
+
+### No. 21: Modern Ukiyo-e Style Beauty Illustration
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 विवरण
+
+A Japanese prompt for generating a modern recreation of a Ukiyo-e (woodblock print) style beauty portrait. The image should feature a beautiful woman wearing vividly colored and intricately patterned clothing, rendered as an illustration portrait.
+
+#### 📝 प्रॉम्पट
+
+```
+It seems that many compositions of multicolored Ukiyo-e beauty portraits were created during the Edo period. As a modern recreation, please prepare an **illustration** portrait of a beautiful woman wearing vividly colored and intricately patterned clothing.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342449_aynh70_G8cK-y3akAI5agI.jpg" width="600" alt="Modern Ukiyo-e Style Beauty Illustration - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [石の裏に潜む黒いヤツ](https://x.com/dangomushino)
+- **स्रोत:** [Twitter Post](https://x.com/dangomushino/status/2001580761607295127)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=It%20seems%20that%20many%20compositions%20of%20multicolored%20Ukiyo-e%20beauty%20portraits%20were%20created%20during%20the%20Edo%20period.%20As%20a%20modern%20recreation%2C%20please%20prepare%20an%20**illustration**%20portrait%20of%20a%20beautiful%20woman%20wearing%20vividly%20colored%20and%20intricately%20patterned%20clothing.)**
+
+---
+
+### No. 22: Abstract Fibonacci Particle Facial Features CGI Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A detailed prompt requesting a computer-generated image (CGI) in a modern digital art style. The main subject is facial features composed of abstract, colorful Fibonacci particles flowing dynamically like layered water, set against a black-to-gray background with motion trails, using a bold isometric composition.
+
+#### 📝 प्रॉम्पट
+
+```
+Using computer-generated imagery (CGI) technology, the scene is presented in a highly modern digital art style. The main subject of the image is facial features composed of abstract and colorful Fibonacci particles. The particles feature a rich color palette, including deep purple, dark blue, dull yellow, dark green, reddish-brown, off-white, and khaki, flowing dynamically like layered water. The background transitions from pure black to gray, cleverly creating the motion trails of the particles and a powerful sense of energy. A bold isometric composition is employed.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117337971_mp8ybg_G8cIcC8akAEgYSC.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117338110_u7r9gl_G8cIcCpbkAAzUZt.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117338283_gub27i_G8cIcC1akAInTDv.jpg" width="600" alt="Abstract Fibonacci Particle Facial Features CGI Prompt - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [NAIF | AI 🇸🇦](https://x.com/naifaix)
+- **स्रोत:** [Twitter Post](https://x.com/naifaix/status/2001577850118496719)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Using%20computer-generated%20imagery%20(CGI)%20technology%2C%20the%20scene%20is%20presented%20in%20a%20highly%20modern%20digital%20art%20style.%20The%20main%20subject%20of%20the%20image%20is%20facial%20features%20composed%20of%20abstract%20and%20colorful%20Fibonacci%20particles.%20The%20particles%20feature%20a%20rich%20color%20palette%2C%20including%20deep%20purple%2C%20dark%20blue%2C%20dull%20yellow%2C%20dark%20green%2C%20reddish-brown%2C%20off-white%2C%20and%20khaki%2C%20flowing%20dynamically%20like%20layered%20water.%20The%20background%20transitions%20from%20pure%20black%20to%20gray%2C%20cleverly%20creating%20the%20motion%20trails%20of%20the%20particles%20and%20a%20powerful%20sense%20of%20energy.%20A%20bold%20isometric%20composition%20is%20employed.)**
+
+---
+
+### No. 23: Image-to-Sketch Transformation Prompt with Hand Detail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt for ChatGPT 5.2 that takes an uploaded photo and transforms it into a photo-style line drawing or ink sketch, requiring the model to maintain facial features exactly. It specifies the use of green and white ink on a notebook background, and includes the detail of a hand holding a pen and eraser near the sketch.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a photo-style line drawing / ink sketch of a face identical to the uploaded reference image — keep every facial feature, proportion, and expression exactly the same.
+Use green and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.
+Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117334624_mzxrgu_G8b0EefXAAESTzN.jpg" width="600" alt="Image-to-Sketch Transformation Prompt with Hand Detail - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Rob May | AI & Cybersecurity Leader](https://x.com/robmay70)
+- **स्रोत:** [Twitter Post](https://x.com/robmay70/status/2001555446465741150)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Create%20a%20photo-style%20line%20drawing%20%2F%20ink%20sketch%20of%20a%20face%20identical%20to%20the%20uploaded%20reference%20image%20%E2%80%94%20keep%20every%20facial%20feature%2C%20proportion%2C%20and%20expression%20exactly%20the%20same.%0AUse%20green%20and%20white%20ink%20tones%20with%20intricate%2C%20fine%20line%20detailing%2C%20drawn%20on%20a%20notebook-page%20style%20background.%0AShow%20a%20right%20hand%20holding%20a%20pen%20and%20an%20eraser%20near%20the%20sketch%2C%20as%20if%20the%20artist%20is%20still%20working.)**
+
+---
+
+### No. 24: Cinematic Dual-Tone Portrait from Uploaded Photo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A step-by-step prompt for transforming an uploaded photo into an ultra-realistic, high-detail cinematic studio portrait using dramatic dual-tone lighting (teal and golden) while maintaining the subject's calm and confident presence.
+
+#### 📝 प्रॉम्पट
+
+```
+"A cinematic studio portrait of the person in the uploaded photo, framed from the chest up, facing the camera with a calm, confident presence.
+
+Dramatic dual-tone lighting with cool teal and warm golden tones creating a modern, cinematic mood.
+
+Natural skin texture, sharp focus on the eyes, soft shadows, and smooth color transitions.
+
+Hair styled naturally, wearing a minimal dark outfit with a contemporary aesthetic.
+
+Clean studio background with subtle gradients.
+
+Professional photography, shallow depth of field, cinematic color grading, ultra-realistic, high detail, 4K quality.
+
+Aspect ratio: 3:4 "
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117316953_lu715l_G8buTauaYAAbW1-.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317043_d8ldzo_G8buTbYaEAAHacT.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117317461_12r426_G8buTgla4AA0k1q.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117318997_ije88i_G8buTxVbUAAjo53.jpg" width="600" alt="Cinematic Dual-Tone Portrait from Uploaded Photo - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [✨ Pulikesi✨](https://x.com/23rd_Pulikesi)
+- **स्रोत:** [Twitter Post](https://x.com/23rd_Pulikesi/status/2001549121908617489)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%22A%20cinematic%20studio%20portrait%20of%20the%20person%20in%20the%20uploaded%20photo%2C%20framed%20from%20the%20chest%20up%2C%20facing%20the%20camera%20with%20a%20calm%2C%20confident%20presence.%0A%0ADramatic%20dual-tone%20lighting%20with%20cool%20teal%20and%20warm%20golden%20tones%20creating%20a%20modern%2C%20cinematic%20mood.%0A%0ANatural%20skin%20texture%2C%20sharp%20focus%20on%20the%20eyes%2C%20soft%20shadows%2C%20and%20smooth%20color%20transitions.%0A%0AHair%20styled%20naturally%2C%20wearing%20a%20minimal%20dark%20outfit%20with%20a%20contemporary%20aesthetic.%0A%0AClean%20studio%20background%20with%20subtle%20gradients.%0A%0AProfessional%20photography%2C%20shallow%20depth%20of%20field%2C%20cinematic%20color%20grading%2C%20ultra-realistic%2C%20high%20detail%2C%204K%20quality.%0A%0AAspect%20ratio%3A%203%3A4%20%22)**
+
+---
+
+### No. 25: Moody Cinematic Portrait with Motion Blur
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A detailed prompt for generating a cinematic, high-contrast portrait of a young male model in a black suit, featuring harsh directional lighting, a tense expression, and a horizontal motion blur effect slicing across the face.
+
+#### 📝 प्रॉम्पट
+
+```
+Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117315162_nw9wwd_G8blWeWakAIw6-D.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117315215_9m0rpz_G8blWeCaIAAO_4e.jpg" width="600" alt="Moody Cinematic Portrait with Motion Blur - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Heisenberg](https://x.com/rovvmut_)
+- **स्रोत:** [Twitter Post](https://x.com/rovvmut_/status/2001539261838028810)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Generate%20a%20moody%20cinematic%20portrait%20of%20a%20young%20male%20model%20with%20light%20skin%2C%20soft%20textured%20wavy%20hair%2C%20dressed%20in%20a%20fitted%20black%20suit%20with%20dark%20shirt%2C%20standing%20against%20a%20black%20background%2C%20harsh%20directional%20lighting%20from%20the%20left%20casting%20deep%20shadows%2C%20model%20looking%20forward%20with%20piercing%20eyes%20and%20a%20tense%20jawline%2C%20one%20hand%20clutching%20his%20collar%20near%20the%20neck%2C%20motion%20blur%20effect%20slicing%20across%20the%20face%20horizontally%20from%20left%20to%20right%2C%20blending%20light%20streaks%20in%20muted%20amber%20and%20beige%20tones%2C%20sharp%20contrast%20between%20still%20and%20blurred%20zones%2C%20stylized%20editorial%20tone%20with%20subtle%20film%20grain%20and%20soft%20falloff%2C%20no%20digital%20smoothness%20or%20plasticity%2C%20skin%20texture%20and%20shadows%20intact%2C%20emotionally%20charged%20expression%2C%20light%20halo%20around%20hair%2C%20minimal%20background%20details.)**
+
+---
+
+### No. 26: Retro Vintage Portrait from Reference Photo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt for creating a retro, vintage, grainy, but bright portrait based on an uploaded reference picture. It focuses on maintaining the exact facial features and likeness of the subject while placing them in a natural outdoor setting under soft, desaturated lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a retro vintage grainy but bright image of the reference picture. Use the uploaded image as exact facial reference, keeping the same features, proportions, and likeness. wearing a loose white shirt and dark trousers, is sitting on the ground with his back against the trunk of a bare tree. His eyes are closed and his head is tilted back slightly. He is in a grassy field with a line of trees in the background under a clear sky. The lighting is natural and soft, with a slightly desaturated color palette. keep my face 100% same as in reference image
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117340335_77ydmp_G8biF96asAAHvrA.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117340308_0b6fh9_G8biF8GaUAEp_eN.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117340416_0xmqlo_G8biF8ObwAAGlG6.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117342181_w37xtv_G8biGDTbgAADkVw.jpg" width="600" alt="Retro Vintage Portrait from Reference Photo - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [The One](https://x.com/the_onesuriya)
+- **स्रोत:** [Twitter Post](https://x.com/the_onesuriya/status/2001535689889108247)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Create%20a%20retro%20vintage%20grainy%20but%20bright%20image%20of%20the%20reference%20picture.%20Use%20the%20uploaded%20image%20as%20exact%20facial%20reference%2C%20keeping%20the%20same%20features%2C%20proportions%2C%20and%20likeness.%20wearing%20a%20loose%20white%20shirt%20and%20dark%20trousers%2C%20is%20sitting%20on%20the%20ground%20with%20his%20back%20against%20the%20trunk%20of%20a%20bare%20tree.%20His%20eyes%20are%20closed%20and%20his%20head%20is%20tilted%20back%20slightly.%20He%20is%20in%20a%20grassy%20field%20with%20a%20line%20of%20trees%20in%20the%20background%20under%20a%20clear%20sky.%20The%20lighting%20is%20natural%20and%20soft%2C%20with%20a%20slightly%20desaturated%20color%20palette.%20keep%20my%20face%20100%25%20same%20as%20in%20reference%20image)**
+
+---
+
+### No. 27: VTuber Gaming Thumbnail Creation Prompt
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 विवरण
+
+A multi-step conversational prompt used to refine an image generation request for a VTuber gaming stream thumbnail. The initial request asks for a character (based on an uploaded image) to be shown intensely focused on a game controller, maintaining their style and outfit. The subsequent steps refine the character's appearance, requesting them to be more delicate, cuter, with a smaller bust size and long sleeves, and finally correcting a text error in the generated image.
+
+#### 📝 प्रॉम्पट
+
+```
+Maintain the character's style and outfit, change the scene to them intensely gripping a game controller, and create a thumbnail image in the style of a fictional VTuber's game stream.
+
+They look a bit too robust, so please make them more delicate and cute. Also, the bust size should be more modest, and the sleeves should be long sleeves.
+
+Fix the collapsed 'Ge' in the top left corner.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117345632_3tdx9s_G8bVU5qakAANtgS.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117346483_3h3v9p_G8bWHlNacAAnGcK.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117346215_ft2299_G8bVRmXakAA_X5R.jpg" width="600" alt="VTuber Gaming Thumbnail Creation Prompt - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [rei@AI art](https://x.com/rei_mikagura_AI)
+- **स्रोत:** [Twitter Post](https://x.com/rei_mikagura_AI/status/2001524000619716669)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Maintain%20the%20character's%20style%20and%20outfit%2C%20change%20the%20scene%20to%20them%20intensely%20gripping%20a%20game%20controller%2C%20and%20create%20a%20thumbnail%20image%20in%20the%20style%20of%20a%20fictional%20VTuber's%20game%20stream.%0A%0AThey%20look%20a%20bit%20too%20robust%2C%20so%20please%20make%20them%20more%20delicate%20and%20cute.%20Also%2C%20the%20bust%20size%20should%20be%20more%20modest%2C%20and%20the%20sleeves%20should%20be%20long%20sleeves.%0A%0AFix%20the%20collapsed%20'Ge'%20in%20the%20top%20left%20corner.)**
+
+---
+
+### No. 28: Monochrome Studio Portrait with Dramatic Lighting
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A detailed prompt for generating a high-contrast, black and white studio portrait of a man, focusing on minimal lighting and deep shadows to create a calm, confident, and cinematic mood.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a monochrome studio portrait of a man. Use minimal lighting with soft falloff so the focus stays entirely on him, with subtle gradients and deep shadows shaping his face. The composition should be a tight-medium shot against a clean, distraction-free background. He’s dressed in a casual, stylish outfit—like a simple tee or sweatshirt with light texture that works well in black and white. The overall mood should feel calm and confident, with a pleasing, balanced vibe. Render it in high-contrast black and white with crisp details, smooth tones, and a subtle cinematic depth.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Monochrome Studio Portrait with Dramatic Lighting - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Johnn](https://x.com/john_my07)
+- **स्रोत:** [Twitter Post](https://x.com/john_my07/status/2001508911380414888)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Create%20a%20monochrome%20studio%20portrait%20of%20a%20man.%20Use%20minimal%20lighting%20with%20soft%20falloff%20so%20the%20focus%20stays%20entirely%20on%20him%2C%20with%20subtle%20gradients%20and%20deep%20shadows%20shaping%20his%20face.%20The%20composition%20should%20be%20a%20tight-medium%20shot%20against%20a%20clean%2C%20distraction-free%20background.%20He%E2%80%99s%20dressed%20in%20a%20casual%2C%20stylish%20outfit%E2%80%94like%20a%20simple%20tee%20or%20sweatshirt%20with%20light%20texture%20that%20works%20well%20in%20black%20and%20white.%20The%20overall%20mood%20should%20feel%20calm%20and%20confident%2C%20with%20a%20pleasing%2C%20balanced%20vibe.%20Render%20it%20in%20high-contrast%20black%20and%20white%20with%20crisp%20details%2C%20smooth%20tones%2C%20and%20a%20subtle%20cinematic%20depth.)**
+
+---
+
+### No. 29: Futuristic Architectural Landmarks based on Calculus Symbols
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt for generating a 2x2 grid of futuristic architectural landmarks, where each structure is based on an important calculus symbol. The scene is set in a utopian solarpunk city with bright, clean aesthetics.
+
+#### 📝 प्रॉम्पट
+
+```
+A 2x2 grid of 4 futuristic architectural landmarks based on important calculus symbols, Set in a utopian solarpunk city, bright midday sunlight, clean white materials, glass and steel, cyan sky, architectural photography, Lumion render, wide angle, high exposure, sense of scale
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Futuristic Architectural Landmarks based on Calculus Symbols - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Gadgetify](https://x.com/Gdgtify)
+- **स्रोत:** [Twitter Post](https://x.com/Gdgtify/status/2001507463841947706)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=A%202x2%20grid%20of%204%20futuristic%20architectural%20landmarks%20based%20on%20important%20calculus%20symbols%2C%20Set%20in%20a%20utopian%20solarpunk%20city%2C%20bright%20midday%20sunlight%2C%20clean%20white%20materials%2C%20glass%20and%20steel%2C%20cyan%20sky%2C%20architectural%20photography%2C%20Lumion%20render%2C%20wide%20angle%2C%20high%20exposure%2C%20sense%20of%20scale)**
+
+---
+
+### No. 30: Futuristic Fashion Editorial with Identity Preservation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A highly structured JSON prompt for generating a photorealistic futuristic fashion editorial image. It mandates strict identity preservation, using the exact face and expression from an uploaded photo, while styling the subject in specific oversized clothing in a minimalist sky-blue studio.
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "type": "image_generation_prompt",
+  "style": "fashion editorial x futuristic",
+  "identity_preservation": {
+    "use_uploaded_image": true,
+    "alter_face": false,
+    "notes": "Use the same face and hairstyle from the uploaded photo. Do not change facial features or facial expression."
+  },
+  "subject": {
+    "gender": "female",
+    "pose": {
+      "position": "seated",
+      "posture": "elegant and relaxed",
+      "expression": "unchanged from the reference image"
+    }
+  },
+  "wardrobe": {
+    "top": "oversized white sweatshirt",
+    "bottoms": "cloudy blue oversized combat jeans",
+    "footwear": "cloudy blue neutral sneakers or Nike sneakers",
+    "socks": "white ribbed socks"
+  },
+  "environment": {
+    "setting": "studio",
+    "background": {
+      "color": "muted sky-blue tone",
+      "style": "clean, minimalist"
+    }
+  },
+  "lighting": {
+    "type": "soft cinematic glow",
+    "effects": [
+      "highlights skin texture",
+      "enhances fabric textures"
+    ]
+  },
+  "composition": {
+    "style": "editorial",
+    "focus": "model-centered with balanced framing"
+  },
+  "quality": {
+    "realism": "photorealistic",
+    "detail_level": "high detail in skin and fabric"
+  },
+  "output_goal": "Create a futuristic fashion editorial image of a woman seated with a relaxed posture in a sky-blue studio environment, preserving her exact facial identity and expression from the reference photo."
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Futuristic Fashion Editorial with Identity Preservation - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **स्रोत:** [Twitter Post](https://x.com/saniaspeaks_/status/2001501423759196203)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22fashion%20editorial%20x%20futuristic%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Use%20the%20same%20face%20and%20hairstyle%20from%20the%20uploaded%20photo.%20Do%20not%20change%20facial%20features%20or%20facial%20expression.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22female%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seated%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22elegant%20and%20relaxed%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22unchanged%20from%20the%20reference%20image%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22oversized%20white%20sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22cloudy%20blue%20oversized%20combat%20jeans%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22cloudy%20blue%20neutral%20sneakers%20or%20Nike%20sneakers%22%2C%0A%20%20%20%20%22socks%22%3A%20%22white%20ribbed%20socks%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22muted%20sky-blue%20tone%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22clean%2C%20minimalist%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22soft%20cinematic%20glow%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22highlights%20skin%20texture%22%2C%0A%20%20%20%20%20%20%22enhances%20fabric%20textures%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22editorial%22%2C%0A%20%20%20%20%22focus%22%3A%20%22model-centered%20with%20balanced%20framing%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22photorealistic%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22high%20detail%20in%20skin%20and%20fabric%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Create%20a%20futuristic%20fashion%20editorial%20image%20of%20a%20woman%20seated%20with%20a%20relaxed%20posture%20in%20a%20sky-blue%20studio%20environment%2C%20preserving%20her%20exact%20facial%20identity%20and%20expression%20from%20the%20reference%20photo.%22%0A%7D)**
+
+---
+
+### No. 31: Technical Prompt for 3x2 Robot Character Matrix
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt designed to test the technical instruction following of image models by requesting a 3x2 matrix showing six different views (front, back, left, right, top, bottom) of a highly detailed robot character, emphasizing PBR quality.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a 3x2 matrix of a robot character. Show front, back, left, right, top, and bottom view in each matrix. The PBR should be at highest quality and the character design should be highly detailed.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117330615_sr0mea_G8a-FFuagAAGhzp.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117330481_ar19te_G8a-F-8aMAAvS04.jpg" width="600" alt="Technical Prompt for 3x2 Robot Character Matrix - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [eX0](https://x.com/exxeero)
+- **स्रोत:** [Twitter Post](https://x.com/exxeero/status/2001496801065697747)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Create%20a%203x2%20matrix%20of%20a%20robot%20character.%20Show%20front%2C%20back%2C%20left%2C%20right%2C%20top%2C%20and%20bottom%20view%20in%20each%20matrix.%20The%20PBR%20should%20be%20at%20highest%20quality%20and%20the%20character%20design%20should%20be%20highly%20detailed.)**
+
+---
+
+### No. 32: Ultra-Realistic Editorial Portrait based on Reference Image
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A detailed prompt for generating an ultra-realistic editorial portrait of an Indian woman in a specific Sabyasachi black saree, requiring the model to maintain the pose, framing, and mood of an uploaded reference image while specifying jewelry, hair, makeup, lighting, and aesthetic style.
+
+#### 📝 प्रॉम्पट
+
+```
+Using the reference image, create an ultra-realistic editorial portrait of an Indian woman in a signature Sabyasachi black saree with subtle antique gold detailing. Keep the same pose, framing, and mood as the reference. Heavy gold choker, center-parted loose hair, minimal makeup with kohl eyes. Dark textured studio background, low-key dramatic lighting.
+Timeless, restrained, classic Sabyasachi aesthetic. No modern styling, no AI gloss.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117333344_5hmnpw_G8ZOFnrakAI86TC.jpg" width="600" alt="Ultra-Realistic Editorial Portrait based on Reference Image - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Sravani K](https://x.com/sravs_AI_labs)
+- **स्रोत:** [Twitter Post](https://x.com/sravs_AI_labs/status/2001494251910402132)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=Using%20the%20reference%20image%2C%20create%20an%20ultra-realistic%20editorial%20portrait%20of%20an%20Indian%20woman%20in%20a%20signature%20Sabyasachi%20black%20saree%20with%20subtle%20antique%20gold%20detailing.%20Keep%20the%20same%20pose%2C%20framing%2C%20and%20mood%20as%20the%20reference.%20Heavy%20gold%20choker%2C%20center-parted%20loose%20hair%2C%20minimal%20makeup%20with%20kohl%20eyes.%20Dark%20textured%20studio%20background%2C%20low-key%20dramatic%20lighting.%0ATimeless%2C%20restrained%2C%20classic%20Sabyasachi%20aesthetic.%20No%20modern%20styling%2C%20no%20AI%20gloss.)**
+
+---
+
+### No. 33: Challenging Emotional Conveyance Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+A prompt designed to test the AI's ability to convey complex, contradictory emotions simultaneously: a person accepting an award with tears of joy while receiving devastating news via an earpiece.
+
+#### 📝 प्रॉम्पट
+
+```
+""A person standing at a podium, accepting an award with tears of joy streaming down their face, while simultaneously receiving news via an earpiece that a loved one has fallen seriously ill. Their expression should convey both elation and heartbreak. Natural light photo, photo realism,4k, ultra realistic."
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117321836_orrgpw_G8a0WhvXAAAE4H3.png" width="600" alt="Challenging Emotional Conveyance Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117322048_i6wsdl_G8azcHnX0AAxfTO.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766117322051_g7qo4k_G8azjLtXIAA-jEZ.jpg" width="600" alt="Challenging Emotional Conveyance Prompt - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Kevin David Hayes](https://x.com/kevindavidhayes)
+- **स्रोत:** [Twitter Post](https://x.com/kevindavidhayes/status/2001485444916076836)
+- **प्रकाशित:** 18 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%22%22A%20person%20standing%20at%20a%20podium%2C%20accepting%20an%20award%20with%20tears%20of%20joy%20streaming%20down%20their%20face%2C%20while%20simultaneously%20receiving%20news%20via%20an%20earpiece%20that%20a%20loved%20one%20has%20fallen%20seriously%20ill.%20Their%20expression%20should%20convey%20both%20elation%20and%20heartbreak.%20Natural%20light%20photo%2C%20photo%20realism%2C4k%2C%20ultra%20realistic.%22)**
+
+---
+
+### No. 34: ChatGPT एनीमे कैरेक्टर जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -137,7 +1650,7 @@ Reddit पर एक यूज़र ने ChatGPT से ImageGen 1.5 मॉ�
 
 ---
 
-### No. 2: GPT इमेज 1.5 प्रॉम्प्ट: युद्ध के मैदान में जावानीस पेंडेकर
+### No. 35: GPT इमेज 1.5 प्रॉम्प्ट: युद्ध के मैदान में जावानीस पेंडेकर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -156,7 +1669,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035938005_52m8b6_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT इमेज 1.5 प्रॉम्प्ट: युद्ध के मैदान में जावानीस पेंडेकर - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117327030_jmam4i_G8atpBeb0AA2yDJ.jpg" width="600" alt="GPT इमेज 1.5 प्रॉम्प्ट: युद्ध के मैदान में जावानीस पेंडेकर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -170,7 +1683,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 3: छत पर खड़ी लड़की आसमान को निहारती हुई
+### No. 36: छत पर खड़ी लड़की आसमान को निहारती हुई
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -203,7 +1716,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 4: मैक्स और एक कैरिबू दोस्त
+### No. 37: मैक्स और एक कैरिबू दोस्त
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -236,7 +1749,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 5: FCG मेथड प्रॉम्प्ट: टाइम-लैप्स स्टोरी
+### No. 38: FCG मेथड प्रॉम्प्ट: टाइम-लैप्स स्टोरी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -269,7 +1782,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 6: 'डे साइट' के लिए इमेज जनरेशन
+### No. 39: 'डे साइट' के लिए इमेज जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -302,7 +1815,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 7: के-पॉप स्टार इमेज जनरेशन प्रॉम्प्ट
+### No. 40: के-पॉप स्टार इमेज जनरेशन प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -335,7 +1848,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 8: शैक्षिक AI आर्ट कोलाज प्रॉम्प्ट
+### No. 41: शैक्षिक AI आर्ट कोलाज प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -368,7 +1881,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 9: परछाई वाले जीव के साथ डरावना गलियारा प्रॉम्प्ट
+### No. 42: परछाई वाले जीव के साथ डरावना गलियारा प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -401,7 +1914,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 10: पियानो बजाती यथार्थवादी शार्क
+### No. 43: पियानो बजाती यथार्थवादी शार्क
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -420,7 +1933,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035950315_v21z08_G8aZO6BXIAAwPrH.jpg" width="600" alt="पियानो बजाती यथार्थवादी शार्क - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117335588_lju7jj_G8aZO6BXIAAwPrH.jpg" width="600" alt="पियानो बजाती यथार्थवादी शार्क - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -434,7 +1947,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 11: पोर्ट्रेट: तेज रोशनी में सिल्हूट
+### No. 44: पोर्ट्रेट: तेज रोशनी में सिल्हूट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -467,7 +1980,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 12: छाया प्राणी प्रॉम्प्ट के साथ डरावना गलियारा
+### No. 45: छाया प्राणी प्रॉम्प्ट के साथ डरावना गलियारा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -518,7 +2031,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 13: स्टीरियोटाइप डॉक्टर हेडशॉट प्रॉम्प्ट
+### No. 46: स्टीरियोटाइप डॉक्टर हेडशॉट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -552,7 +2065,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 14: किंग राजवंश वास्तुकला डिज़ाइन संग्रह सिमुलेशन
+### No. 47: किंग राजवंश वास्तुकला डिज़ाइन संग्रह सिमुलेशन
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -592,7 +2105,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 15: GPT-5.2 इमेज एनालिसिस प्रॉम्प्ट
+### No. 48: GPT-5.2 इमेज एनालिसिस प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -644,7 +2157,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 16: आभूषण और कपड़ों के लिए इमेज एडिटिंग निर्देश
+### No. 49: आभूषण और कपड़ों के लिए इमेज एडिटिंग निर्देश
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -685,7 +2198,7 @@ GPT इमेज 1.5 के साथ उपयोग किए गए संव
 
 ---
 
-### No. 17: अचानक गिरने की मुद्रा के लिए अल्ट्रा-फोटोरियलिस्टिक संपादकीय प्रॉम्प्ट
+### No. 50: अचानक गिरने की मुद्रा के लिए अल्ट्रा-फोटोरियलिस्टिक संपादकीय प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -806,7 +2319,7 @@ GPT इमेज 1.5 के लिए एक अत्यधिक संरच�
 
 ---
 
-### No. 18: स्केटबोर्ड पर कुत्ता: ओरिजिनल आईफोन फोटो प्रॉम्प्ट
+### No. 51: स्केटबोर्ड पर कुत्ता: ओरिजिनल आईफोन फोटो प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -845,7 +2358,7 @@ GPT इमेज 1.5 के लिए एक अत्यधिक संरच�
 
 ---
 
-### No. 19: 1960 के दशक का पॉप-आर्ट कॉमिक बुक पोर्ट्रेट
+### No. 52: 1960 के दशक का पॉप-आर्ट कॉमिक बुक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -878,7 +2391,7 @@ GPT इमेज 1.5 के लिए एक अत्यधिक संरच�
 
 ---
 
-### No. 20: 5G स्मार्टफोन इन्फोग्राफिक प्रॉम्प्ट
+### No. 53: 5G स्मार्टफोन इन्फोग्राफिक प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -917,7 +2430,7 @@ GPT इमेज 1.5 के लिए एक अत्यधिक संरच�
 
 ---
 
-### No. 21: हुआ जुनवु शैली में एक व्यंग्यात्मक कार्टून बनाना
+### No. 54: हुआ जुनवु शैली में एक व्यंग्यात्मक कार्टून बनाना
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -965,7 +2478,7 @@ GPT इमेज 1.5 के लिए एक अत्यधिक संरच�
 
 ---
 
-### No. 22: टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट
+### No. 55: टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -985,25 +2498,25 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035442890_tmkgmr_G8ZaOEQWgAEh8_r.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766117351161_b486am_G8ZaI9BWIAEUWcT.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035443115_k369g6_G8ZaI9BWIAEUWcT.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766117350903_986yhj_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035443468_3a09hz_G8ZaTT4WUAEL7Qh.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766117351056_odcap4_G8ZaOEQWgAEh8_r.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035445152_kpqv8n_G8ZaaOHXUAA2rTn.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766117352733_czamlh_G8ZaaOHXUAA2rTn.jpg" width="600" alt="टेक्सचर और डिटेल के लिए मैक्रो फोटोग्राफी प्रॉम्प्ट - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -1017,7 +2530,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 23: विस्तृत विज्ञापन निर्माण
+### No. 56: विस्तृत विज्ञापन निर्माण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1050,7 +2563,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 24: एनीमे के लाइव-एक्शन कलाकारों को जनरेट करें
+### No. 57: एनीमे के लाइव-एक्शन कलाकारों को जनरेट करें
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1096,7 +2609,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 25: संदर्भ छवि प्रॉम्प्ट से सिनेमैटिक कॉन्टैक्ट शीट जनरेशन
+### No. 58: संदर्भ छवि प्रॉम्प्ट से सिनेमैटिक कॉन्टैक्ट शीट जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1129,7 +2642,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 26: मध्यम रिज़ॉल्यूशन का उपयोग करके इमेज जनरेशन प्रॉम्प्ट
+### No. 59: मध्यम रिज़ॉल्यूशन का उपयोग करके इमेज जनरेशन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1162,7 +2675,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 27: GPT इमेज 1.5 में स्टाइल रखरखाव और संशोधन का परीक्षण
+### No. 60: GPT इमेज 1.5 में स्टाइल रखरखाव और संशोधन का परीक्षण
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1215,7 +2728,7 @@ GPT इमेज 1.5 का एक परीक्षण जिसमें च�
 
 ---
 
-### No. 28: बर्लिन की दीवार की तस्वीर के लिए ऐतिहासिक यथार्थवाद प्रॉम्प्ट
+### No. 61: बर्लिन की दीवार की तस्वीर के लिए ऐतिहासिक यथार्थवाद प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1255,7 +2768,7 @@ GPT इमेज 1.5 का एक परीक्षण जिसमें च�
 
 ---
 
-### No. 29: सांता क्लॉज़ के साथ Oreo का विज्ञापन
+### No. 62: सांता क्लॉज़ के साथ Oreo का विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1294,7 +2807,7 @@ GPT इमेज 1.5 की विज्ञापन क्षमताओं �
 
 ---
 
-### No. 30: GPT-1.5 पर परखा गया सिटी पोस्टर प्रॉम्प्ट
+### No. 63: GPT-1.5 पर परखा गया सिटी पोस्टर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1328,7 +2841,7 @@ GPT इमेज 1.5 की विज्ञापन क्षमताओं �
 
 ---
 
-### No. 31: छवि संपादन प्रॉम्प्ट: बैकग्राउंड में जीव जोड़ना
+### No. 64: छवि संपादन प्रॉम्प्ट: बैकग्राउंड में जीव जोड़ना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1362,7 +2875,7 @@ GPT इमेज 1.5 की विज्ञापन क्षमताओं �
 
 ---
 
-### No. 32: कैरेक्टर शीट जनरेशन प्रॉम्प्ट (GPT और नैनो बनाना)
+### No. 65: कैरेक्टर शीट जनरेशन प्रॉम्प्ट (GPT और नैनो बनाना)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1401,7 +2914,7 @@ GPT इमेज 1.5 की विज्ञापन क्षमताओं �
 
 ---
 
-### No. 33: गर्म रोशनी के साथ इमेज को रात के सीन में बदलें
+### No. 66: गर्म रोशनी के साथ इमेज को रात के सीन में बदलें
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1440,7 +2953,7 @@ GPT इमेज 1.0 (और 1.5 के विरुद्ध परीक्ष
 
 ---
 
-### No. 34: स्केटबोर्डिंग टीनएजर फिल्म फोटोग्राफी प्रॉम्प्ट
+### No. 67: स्केटबोर्डिंग टीनएजर फिल्म फोटोग्राफी प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1479,7 +2992,7 @@ GPT इमेज 1.5 और मिडजर्नी V7 की तुलना �
 
 ---
 
-### No. 35: हीरे के कंगन पहने हाथ की अति-यथार्थवादी तस्वीर
+### No. 68: हीरे के कंगन पहने हाथ की अति-यथार्थवादी तस्वीर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1518,7 +3031,7 @@ GPT इमेज 1.5 और मिडजर्नी V7 की तुलना �
 
 ---
 
-### No. 36: JS इंजीनियर कोडिंग सीन विशिष्ट टेक्स्ट के साथ
+### No. 69: JS इंजीनियर कोडिंग सीन विशिष्ट टेक्स्ट के साथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1552,7 +3065,7 @@ GPT इमेज 1.5 और मिडजर्नी V7 की तुलना �
 
 ---
 
-### No. 37: ग्लिटर-बॉम्ब प्रो-रेसलिंग आइडल रीकास्टिंग प्रॉम्प्ट
+### No. 70: ग्लिटर-बॉम्ब प्रो-रेसलिंग आइडल रीकास्टिंग प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1592,7 +3105,7 @@ GPT इमेज 1.5 और मिडजर्नी V7 की तुलना �
 
 ---
 
-### No. 38: कैरेक्टर जनरेशन के लिए कपड़ों का ट्रांसफर प्रॉम्प्ट
+### No. 71: कैरेक्टर जनरेशन के लिए कपड़ों का ट्रांसफर प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1637,7 +3150,7 @@ GPT इमेज 1.5 और मिडजर्नी V7 की तुलना �
 
 ---
 
-### No. 39: एक महिला के काम करते हुए फ्लैट वेक्टर इलस्ट्रेशन
+### No. 72: एक महिला के काम करते हुए फ्लैट वेक्टर इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1670,7 +3183,7 @@ GPT इमेज 1.5 और मिडजर्नी V7 की तुलना �
 
 ---
 
-### No. 40: GPT इमेज 1.5 में असममित तत्व पहचान में सुधार
+### No. 73: GPT इमेज 1.5 में असममित तत्व पहचान में सुधार
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1703,7 +3216,7 @@ GPT इमेज 1.5 के लिए एक मेटा-प्रॉम्प�
 
 ---
 
-### No. 41: एक महिला का फोटोरियलिस्टिक स्टॉक फोटो प्रॉम्प्ट
+### No. 74: एक महिला का फोटोरियलिस्टिक स्टॉक फोटो प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1737,7 +3250,7 @@ GPT इमेज 1.5 के लिए एक विस्तृत फोटो-
 
 ---
 
-### No. 42: बच्चों के लिए जर्मन वर्णमाला पोस्टर
+### No. 75: बच्चों के लिए जर्मन वर्णमाला पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1776,7 +3289,7 @@ A से Z तक वर्णमाला के सभी अक्षरो�
 
 ---
 
-### No. 43: लंदन की सड़क पर बैठा विशालकाय व्यक्ति प्रॉम्प्ट
+### No. 76: लंदन की सड़क पर बैठा विशालकाय व्यक्ति प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1815,7 +3328,7 @@ A से Z तक वर्णमाला के सभी अक्षरो�
 
 ---
 
-### No. 44: ग्राफिक को पारदर्शी वॉटरकलर पेंटिंग में बदलें
+### No. 77: ग्राफिक को पारदर्शी वॉटरकलर पेंटिंग में बदलें
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1848,7 +3361,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 45: साइबोर्ग और मरमेड स्कूलबॉय एनकाउंटर प्रॉम्प्ट
+### No. 78: साइबोर्ग और मरमेड स्कूलबॉय एनकाउंटर प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1887,7 +3400,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 46: ग्राफिक को पेंसिल रफ डिज़ाइन में बदलें
+### No. 79: ग्राफिक को पेंसिल रफ डिज़ाइन में बदलें
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1926,7 +3439,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 47: विस्तृत हवाई तटीय भूदृश्य
+### No. 80: विस्तृत हवाई तटीय भूदृश्य
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1959,7 +3472,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 48: GPT-Image-1.5 में आंशिक इमेज करेक्शन और पोज़ मॉडिफिकेशन का परीक्षण
+### No. 81: GPT-Image-1.5 में आंशिक इमेज करेक्शन और पोज़ मॉडिफिकेशन का परीक्षण
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2013,7 +3526,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 49: GPT इमेज 1.5 बनाम जेमिनी में सख्त प्रॉम्प्ट पालन का परीक्षण
+### No. 82: GPT इमेज 1.5 बनाम जेमिनी में सख्त प्रॉम्प्ट पालन का परीक्षण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2070,7 +3583,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 50: ट्रोल होर्ड अटैक विज़ुअलाइज़ेशन प्रॉम्प्ट (जापानी)
+### No. 83: ट्रोल होर्ड अटैक विज़ुअलाइज़ेशन प्रॉम्प्ट (जापानी)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2103,7 +3616,7 @@ GPT इमेज 1.5 के साथ इस्तेमाल किया ग�
 
 ---
 
-### No. 51: यथार्थवादी प्लैटीबेलोडॉन जनरेशन प्रॉम्प्ट
+### No. 84: यथार्थवादी प्लैटीबेलोडॉन जनरेशन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2136,7 +3649,7 @@ Platybelodon की यथार्थवादी तस्वीर बना�
 
 ---
 
-### No. 52: रग्ड हेरिटेज वियर एडिटोरियल पोर्ट्रेट
+### No. 85: रग्ड हेरिटेज वियर एडिटोरियल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2175,7 +3688,7 @@ Platybelodon की यथार्थवादी तस्वीर बना�
 
 ---
 
-### No. 53: जीपीटी इमेज 1.5 के लिए विस्तृत फाल्कनरी पोर्ट्रेट प्रॉम्प्ट
+### No. 86: जीपीटी इमेज 1.5 के लिए विस्तृत फाल्कनरी पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2244,7 +3757,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 54: GPT इमेज 1.5 के साथ फैशन और एस्थेटिक इमेज जनरेशन
+### No. 87: GPT इमेज 1.5 के साथ फैशन और एस्थेटिक इमेज जनरेशन
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2278,7 +3791,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 55: जापानी स्मारक दिवसों के लिए इमेज जनरेट करना
+### No. 88: जापानी स्मारक दिवसों के लिए इमेज जनरेट करना
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2311,7 +3824,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 56: जबड़े की रेखा, चश्मे और सिर के आकार के लिए इमेज एडिटिंग प्रॉम्प्ट
+### No. 89: जबड़े की रेखा, चश्मे और सिर के आकार के लिए इमेज एडिटिंग प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2356,7 +3869,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 57: GPT इमेज 1.5 का उपयोग करके पुरानी फ़ोटो को पुनर्स्थापित करने के लिए विस्तृत प्रॉम्प्ट
+### No. 90: GPT इमेज 1.5 का उपयोग करके पुरानी फ़ोटो को पुनर्स्थापित करने के लिए विस्तृत प्रॉम्प्ट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2476,7 +3989,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 58: फोटोग्राफी लाइटिंग सेटअप पोस्टर प्रॉम्प्ट
+### No. 91: फोटोग्राफी लाइटिंग सेटअप पोस्टर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2509,7 +4022,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 59: न्यूयॉर्क के आइसोमेट्रिक लघु 3D कार्टून दृश्य
+### No. 92: न्यूयॉर्क के आइसोमेट्रिक लघु 3D कार्टून दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2548,7 +4061,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 60: 'पेले' जनजातीय निशान वाले योरूबा व्यक्ति का स्ट्रेस टेस्ट प्रॉम्प्ट
+### No. 93: 'पेले' जनजातीय निशान वाले योरूबा व्यक्ति का स्ट्रेस टेस्ट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2587,7 +4100,7 @@ GPT इमेज 1.5 के लिए डिज़ाइन किया गय�
 
 ---
 
-### No. 61: हाथ और पैर के समायोजन के लिए इमेज एडिटिंग प्रॉम्प्ट
+### No. 94: हाथ और पैर के समायोजन के लिए इमेज एडिटिंग प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2626,7 +4139,7 @@ GPT इमेज 1.5 में संवादात्मक इमेज ए�
 
 ---
 
-### No. 62: छवि 1.5 कीचेन डिज़ाइन के लिए प्रॉम्प्ट
+### No. 95: छवि 1.5 कीचेन डिज़ाइन के लिए प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2659,7 +4172,7 @@ ChatGPT के नए Image 1.5 मॉडल के साथ इस्तेम
 
 ---
 
-### No. 63: विभिन्न पोज़ और भावों के साथ चिबी स्टिकर जनरेट करें
+### No. 96: विभिन्न पोज़ और भावों के साथ चिबी स्टिकर जनरेट करें
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2698,7 +4211,7 @@ GPT इमेज 1.5 विभिन्न पोशाकों, पोज़ �
 
 ---
 
-### No. 64: किसी इमेज को पूरी तरह से वास्तविक दुनिया की शैली में फिर से बनाएं
+### No. 97: किसी इमेज को पूरी तरह से वास्तविक दुनिया की शैली में फिर से बनाएं
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2737,7 +4250,7 @@ GPT इमेज 1.5 विभिन्न पोशाकों, पोज़ �
 
 ---
 
-### No. 65: सूर्यास्त के समय भविष्य का शहर का क्षितिज प्रॉम्प्ट
+### No. 98: सूर्यास्त के समय भविष्य का शहर का क्षितिज प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2770,7 +4283,7 @@ GPT इमेज 1.5 मॉडल के शुरुआती परीक्�
 
 ---
 
-### No. 66: विषयों को अमेरिकन गोथिक शैली में बदलें
+### No. 99: विषयों को अमेरिकन गोथिक शैली में बदलें
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2803,7 +4316,7 @@ GPT इमेज 1.5 मॉडल के शुरुआती परीक्�
 
 ---
 
-### No. 67: विषय की आँखों की दिशा के लिए सरल प्रॉम्प्ट
+### No. 100: विषय की आँखों की दिशा के लिए सरल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2842,7 +4355,7 @@ Nano Banana Pro और GPT Image 1.5 की विषय की दृष्ट�
 
 ---
 
-### No. 68: रेफरेंस से शानदार इमेज जनरेशन
+### No. 101: रेफरेंस से शानदार इमेज जनरेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2887,7 +4400,7 @@ Nano Banana Pro और GPT Image 1.5 की विषय की दृष्ट�
 
 ---
 
-### No. 69: इनडोर फ़िटनेस मिरर सेल्फ़ी के लिए अत्यधिक विस्तृत JSON प्रॉम्प्ट
+### No. 102: इनडोर फ़िटनेस मिरर सेल्फ़ी के लिए अत्यधिक विस्तृत JSON प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3016,7 +4529,7 @@ GPT 1.5 के लिए एक अत्यंत विस्तृत, सं
 
 ---
 
-### No. 70: सैम ऑल्टमैन स्कूटी राइड सिनेमैटिक रियलिज्म प्रॉम्प्ट
+### No. 103: सैम ऑल्टमैन स्कूटी राइड सिनेमैटिक रियलिज्म प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3055,7 +4568,7 @@ GPT 1.5 के लिए एक अत्यंत विस्तृत, सं
 
 ---
 
-### No. 71: पॉलीफ़ोनिक के लिए आधुनिक लैंडिंग पेज डिज़ाइन
+### No. 104: पॉलीफ़ोनिक के लिए आधुनिक लैंडिंग पेज डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3106,7 +4619,7 @@ GPT इमेज 1.5 और नैनो बनाना प्रो की न
 
 ---
 
-### No. 72: गिरती और टूटती हुई चाय की प्याली की 4-पैनल वाली छवि
+### No. 105: गिरती और टूटती हुई चाय की प्याली की 4-पैनल वाली छवि
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3146,7 +4659,7 @@ GPT इमेज 1.5 और नैनो बनाना प्रो की न
 
 ---
 
-### No. 73: गणित और कोड के साथ फिबोनाची अनुक्रम को समझाने वाला इन्फोग्राफिक
+### No. 106: गणित और कोड के साथ फिबोनाची अनुक्रम को समझाने वाला इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3179,7 +4692,7 @@ GPT इमेज 1.5 और नैनो बनाना प्रो की न
 
 ---
 
-### No. 74: डार्क-मोड क्रिसमस उपहार वेबसाइट UI डिज़ाइन
+### No. 107: डार्क-मोड क्रिसमस उपहार वेबसाइट UI डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3212,7 +4725,7 @@ GPT इमेज 1.5 और नैनो बनाना प्रो की न
 
 ---
 
-### No. 75: सैम ऑल्टमैन की फ़्लैश-फ़ायर्ड सेल्फ़ी
+### No. 108: सैम ऑल्टमैन की फ़्लैश-फ़ायर्ड सेल्फ़ी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3251,7 +4764,7 @@ GPT इमेज 1.5 और नैनो बनाना प्रो की न
 
 ---
 
-### No. 76: लड़कियों के लिए कलात्मक पोर्ट्रेट एडिटिंग (इमेज-टू-इमेज)
+### No. 109: लड़कियों के लिए कलात्मक पोर्ट्रेट एडिटिंग (इमेज-टू-इमेज)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3303,7 +4816,7 @@ GPT इमेज 1.5 और नैनो बनाना प्रो की न
 
 ---
 
-### No. 77: ताकोयाकी इलस्ट्रेशन और स्टोर इंटीरियर सिंथेसिस प्रॉम्प्ट्स
+### No. 110: ताकोयाकी इलस्ट्रेशन और स्टोर इंटीरियर सिंथेसिस प्रॉम्प्ट्स
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3355,7 +4868,7 @@ NanoBananaPro और ChatGPT (GPT इमेज 1.5) की तुलना क�
 
 ---
 
-### No. 78: फ़ोटो से यथार्थवादी फ़िगरिन बनाएँ
+### No. 111: फ़ोटो से यथार्थवादी फ़िगरिन बनाएँ
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -3388,7 +4901,7 @@ NanoBananaPro और ChatGPT (GPT इमेज 1.5) की तुलना क�
 
 ---
 
-### No. 79: टेक लीडर्स के साथ अनफ़िल्टर्ड मिरर सेल्फ़ी
+### No. 112: टेक लीडर्स के साथ अनफ़िल्टर्ड मिरर सेल्फ़ी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3427,7 +4940,7 @@ NanoBananaPro और ChatGPT (GPT इमेज 1.5) की तुलना क�
 
 ---
 
-### No. 80: क्षितिगर्भ बोधिसत्व प्रतिमा पर तकनीकी योजनाबद्ध ओवरले
+### No. 113: क्षितिगर्भ बोधिसत्व प्रतिमा पर तकनीकी योजनाबद्ध ओवरले
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3473,7 +4986,7 @@ NanoBananaPro और ChatGPT (GPT इमेज 1.5) की तुलना क�
 
 ---
 
-### No. 81: GPT इमेज 1.5 का उपयोग करके जानवरों के साथ पुरिकुरा-शैली की तस्वीरें जनरेट करना
+### No. 114: GPT इमेज 1.5 का उपयोग करके जानवरों के साथ पुरिकुरा-शैली की तस्वीरें जनरेट करना
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3513,7 +5026,7 @@ GPT इमेज 1.5 के लिए एक मज़ेदार प्रॉ�
 
 ---
 
-### No. 82: अति-यथार्थवादी पहचान लॉक के लिए जटिल JSON प्रॉम्प्ट
+### No. 115: अति-यथार्थवादी पहचान लॉक के लिए जटिल JSON प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3647,7 +5160,7 @@ GPT इमेज 1.5 के लिए एक मज़ेदार प्रॉ�
 
 ---
 
-### No. 83: मोनोक्रोम हाथ से बनाए गए स्केच का रूपांतरण
+### No. 116: मोनोक्रोम हाथ से बनाए गए स्केच का रूपांतरण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3698,7 +5211,7 @@ GPT इमेज 1.5 के लिए एक मज़ेदार प्रॉ�
 
 ---
 
-### No. 84: Minecraft लिमिनल स्पेस इमेज प्रॉम्प्ट
+### No. 117: Minecraft लिमिनल स्पेस इमेज प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3731,7 +5244,7 @@ Minecraft लिमिनल स्पेस की एक इमेज बन�
 
 ---
 
-### No. 85: रिफ्लेक्शन के साथ सिनेमैटिक फैशन पोर्ट्रेट (तुलना)
+### No. 118: रिफ्लेक्शन के साथ सिनेमैटिक फैशन पोर्ट्रेट (तुलना)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3764,7 +5277,7 @@ Minecraft लिमिनल स्पेस की एक इमेज बन�
 
 ---
 
-### No. 86: टॉप-डाउन ग्रुप फोटो कंपोजिशन टेस्ट
+### No. 119: टॉप-डाउन ग्रुप फोटो कंपोजिशन टेस्ट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3804,7 +5317,7 @@ Minecraft लिमिनल स्पेस की एक इमेज बन�
 
 ---
 
-### No. 87: सिस्टम प्रॉम्प्ट रिवीलेशन प्रॉम्प्ट
+### No. 120: सिस्टम प्रॉम्प्ट रिवीलेशन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3837,1221 +5350,13 @@ gpt-image-1.5 के सिस्टम प्रॉम्प्ट को उ�
 
 ---
 
-### No. 88: 'गोरिल्ला की पकड़' के लिए इमेज जनरेशन प्रॉम्प्ट
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 विवरण
-
-GPT इमेज 1.5 को 'गोरीला नो हित्सुकामी' (गोरिल्ला की पकड़) वाक्यांश की कल्पना करने के लिए कहने के लिए इस्तेमाल किया गया एक प्रॉम्प्ट, जिसके परिणामस्वरूप एक ऐसी छवि बनी जो इस अवधारणा की हास्यपूर्ण व्याख्या करती है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक ऐसी छवि जो ट्रेंडिंग 'गोरिल्लाज़ ग्रास्प' को दर्शाती है
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949129899_99ggci_G8Vhz5Ma4AEHxPA.jpg" width="600" alt="'गोरिल्ला की पकड़' के लिए इमेज जनरेशन प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [調べて分かった大事なコト](https://x.com/sirabete)
-- **स्रोत:** [Twitter Post](https://x.com/sirabete/status/2001113174859505739)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%90%E0%A4%B8%E0%A5%80%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%9C%E0%A5%8B%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97%20'%E0%A4%97%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%9C%E0%A4%BC%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AA'%20%E0%A4%95%E0%A5%8B%20%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BE%E0%A4%A4%E0%A5%80%20%E0%A4%B9%E0%A5%88)**
-
----
-
-### No. 89: जो रोगन पॉडकास्ट ग्रे एलियन के साथ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-जो रोगन के पॉडकास्ट के एक दृश्य को दर्शाने वाली DSLR फ़ोटो का अनुरोध करने वाला एक इमेज जनरेशन प्रॉम्प्ट, जिसमें विशेष रूप से एक ग्रे एलियन के साथ चर्चा दिखाई गई है।
-
-#### 📝 प्रॉम्पट
-
-```
-जो रोगन के पॉडकास्ट में एक ग्रे एलियन के साथ चर्चा। DSLR फोटो
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035310399_pczlax_G8VhYccXMAQGBSc.jpg" width="600" alt="जो रोगन पॉडकास्ट ग्रे एलियन के साथ - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Ralph Nas](https://x.com/unrealpixels)
-- **स्रोत:** [Twitter Post](https://x.com/unrealpixels/status/2001112939676246523)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%9C%E0%A5%8B%20%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%89%E0%A4%A1%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%20%E0%A4%8F%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A5%A4%20DSLR%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B)**
-
----
-
-### No. 90: प्रोफेशनल स्टूडियो प्रोफाइल फोटो जनरेशन
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक अत्यधिक तकनीकी प्रॉम्प्ट जिसे एक पेशेवर, उच्च-रिज़ॉल्यूशन वाली प्रोफ़ाइल फ़ोटो बनाने के लिए डिज़ाइन किया गया है, जिसमें सटीक फ़्रेमिंग, पोशाक (चारकोल ग्रे ब्लेज़र), पृष्ठभूमि का रंग (#1A1A1A), प्रकाश व्यवस्था (तेज़, नरम, विसरित स्टूडियो लाइट), लेंस का विवरण (85mm f/1.8), और कलर ग्रेडिंग निर्दिष्ट की गई है, जबकि मॉडल को इनपुट इमेज से सटीक चेहरे की संरचना और पहचान बनाए रखने की आवश्यकता है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक पेशेवर, उच्च-रिज़ॉल्यूशन वाली प्रोफ़ाइल फ़ोटो, जिसमें इनपुट इमेज में व्यक्ति की सटीक चेहरे की बनावट, पहचान और मुख्य विशेषताओं को बनाए रखा गया है। विषय को छाती से ऊपर फ़्रेम किया गया है, जिसमें पर्याप्त हेडरुम है। व्यक्ति सीधे कैमरे की ओर देख रहा है। उन्हें एक पेशेवर फ़ोटो स्टूडियो शूट के लिए तैयार किया गया है, जिसमें एक सूक्ष्म चारकोल ग्रे रंग का प्रीमियम स्मार्ट कैज़ुअल ब्लेज़र पहना हुआ है। पृष्ठभूमि एक ठोस '#1A1A1A' तटस्थ स्टूडियो रंग है। इसे उच्च कोण से उज्ज्वल और हवादार नरम, विसरित स्टूडियो प्रकाश व्यवस्था के साथ शूट किया गया है, जो चेहरे को धीरे से रोशन करता है और आँखों में एक सूक्ष्म कैचलाइट बनाता है, जिससे स्पष्टता का एहसास होता है। इसे 85mm f/1.8 लेंस पर उथली डेप्थ ऑफ़ फील्ड, आँखों पर उत्कृष्ट फ़ोकस और सुंदर, नरम बोकेह के साथ कैप्चर किया गया है। ब्लेज़र के कपड़े की बनावट, बालों के अलग-अलग रेशों और प्राकृतिक, यथार्थवादी त्वचा की बनावट पर स्पष्ट विवरण देखें। वातावरण आत्मविश्वास, व्यावसायिकता और मिलनसारिता को दर्शाता है। सूक्ष्म गर्माहट और संतुलित टोन के साथ स्वच्छ और उज्ज्वल सिनेमैटिक कलर ग्रेडिंग, जो एक परिष्कृत और समकालीन अनुभव सुनिश्चित करती है।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949122587_kz8tvw_G8VhYlPXsAMd5iI.jpg" width="600" alt="प्रोफेशनल स्टूडियो प्रोफाइल फोटो जनरेशन - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Alican Kiraz](https://x.com/AlicanKiraz0)
-- **स्रोत:** [Twitter Post](https://x.com/AlicanKiraz0/status/2001112691050430569)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B5%E0%A4%B0%2C%20%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A-%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A5%89%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B6%E0%A4%A8%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%9F%E0%A5%8B%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%87%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%9F%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A4%9F%E0%A5%80%E0%A4%95%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%2C%20%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%BE%E0%A4%A8%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A5%8B%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%20%E0%A4%B0%E0%A4%96%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF%20%E0%A4%95%E0%A5%8B%20%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A5%80%20%E0%A4%B8%E0%A5%87%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%A4%20%E0%A4%B9%E0%A5%87%E0%A4%A1%E0%A4%B0%E0%A5%81%E0%A4%AE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A5%87%20%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B5%E0%A4%B0%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%9F%E0%A5%8B%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%20%E0%A4%B6%E0%A5%82%E0%A4%9F%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%A4%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A5%8B%E0%A4%B2%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%BF%E0%A4%AF%E0%A4%AE%20%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A5%88%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%85%E0%A4%B2%20%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A4%B0%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%8F%E0%A4%95%20%E0%A4%A0%E0%A5%8B%E0%A4%B8%20'%231A1A1A'%20%E0%A4%A4%E0%A4%9F%E0%A4%B8%E0%A5%8D%E0%A4%A5%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%20%E0%A4%95%E0%A5%8B%E0%A4%A3%20%E0%A4%B8%E0%A5%87%20%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%2C%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%B6%E0%A5%82%E0%A4%9F%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%8B%20%E0%A4%A7%E0%A5%80%E0%A4%B0%E0%A5%87%20%E0%A4%B8%E0%A5%87%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%20%E0%A4%95%E0%A5%88%E0%A4%9A%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%B9%E0%A4%B8%E0%A4%BE%E0%A4%B8%20%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%2085mm%20f%2F1.8%20%E0%A4%B2%E0%A5%87%E0%A4%82%E0%A4%B8%20%E0%A4%AA%E0%A4%B0%20%E0%A4%89%E0%A4%A5%E0%A4%B2%E0%A5%80%20%E0%A4%A1%E0%A5%87%E0%A4%AA%E0%A5%8D%E0%A4%A5%20%E0%A4%91%E0%A4%AB%E0%A4%BC%20%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%8D%E0%A4%A1%2C%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%8B%E0%A4%82%20%E0%A4%AA%E0%A4%B0%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%95%E0%A4%B8%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A5%81%E0%A4%82%E0%A4%A6%E0%A4%B0%2C%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%20%E0%A4%AC%E0%A5%8B%E0%A4%95%E0%A5%87%E0%A4%B9%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%95%E0%A5%88%E0%A4%AA%E0%A5%8D%E0%A4%9A%E0%A4%B0%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%2C%20%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%B2%E0%A4%97-%E0%A4%85%E0%A4%B2%E0%A4%97%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8B%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95%2C%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%B7%E0%A5%8D%E0%A4%9F%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%2C%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BE%20%E0%A4%95%E0%A5%8B%20%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BE%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%9F%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%A4%20%E0%A4%9F%E0%A5%8B%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A5%8D%E0%A4%9B%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%B2%20%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%AE%E0%A5%88%E0%A4%9F%E0%A4%BF%E0%A4%95%20%E0%A4%95%E0%A4%B2%E0%A4%B0%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%A8%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AD%E0%A4%B5%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
-
----
-
-### No. 91: मैप जनरेशन प्रॉम्प्ट विफल
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-GPT इमेज 1.5 की टेक्स्ट और तथ्यात्मक जानकारी उत्पन्न करने की क्षमता का परीक्षण करने के लिए उपयोग किया गया एक सरल प्रॉम्प्ट, जिसके परिणामस्वरूप सही संख्या में राज्यों के साथ अमेरिका का नक्शा सही ढंग से बनाने में विफलता हुई।
-
-#### 📝 प्रॉम्पट
-
-```
-संयुक्त राज्य अमेरिका का एक यथार्थवादी नक्शा बनाएँ, जिसमें सभी 54 राज्यों के लेबल हों।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035324558_1id5iu_G8VfONjW8AQe7kl.jpg" width="600" alt="मैप जनरेशन प्रॉम्प्ट विफल - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Professor Scott Alan Turner ★](https://x.com/scottalanturner)
-- **स्रोत:** [Twitter Post](https://x.com/scottalanturner/status/2001111270263500986)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4%20%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%20%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%BE%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A4%AD%E0%A5%80%2054%20%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A5%87%E0%A4%AC%E0%A4%B2%20%E0%A4%B9%E0%A5%8B%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 92: स्टाइलिश युवा व्यक्ति की HD फोटो
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक स्टाइलिश युवा व्यक्ति की HD फ़ोटो बनाने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें वह एक दीवार के सहारे खड़ा है, कपड़ों के विवरण जैसे कि एक ओम्ब्रे बटन-अप शर्ट और कार्गो पैंट निर्दिष्ट किए गए हैं, और बनावट को उजागर करने के लिए उज्ज्वल, समान रोशनी की मांग की गई है।
-
-#### 📝 प्रॉम्पट
-
-```
-गहरे, बिखरे हुए बालों और धूप के चश्मे के साथ एक स्टाइलिश युवक, हल्के भूरे रंग की पैनल वाली दीवार के सहारे लापरवाही से खड़ा है। उसने एक ओवरसाइज़्ड, छोटी आस्तीन वाली बटन-अप शर्ट पहनी है जो गहरे नीले से हल्के भूरे रंग में एक सहज ऑम्ब्रे प्रभाव के साथ बदलती है, जिसके साथ उसने गहरे रंग की कार्गो पैंट पहनी है। उसके हाथ उसकी जेब में हैं, और उसने अपनी बाईं कलाई पर एक गहरी घड़ी पहनी हुई है। रोशनी उज्ज्वल और समान है, जो उसके कपड़ों और बालों की बनावट को उजागर करती है। एक HD फोटो बनाएँ
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949110337_utk0j4_G8VgC46aIAAKxVu.jpg" width="600" alt="स्टाइलिश युवा व्यक्ति की HD फोटो - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [freeze it](https://x.com/itsme_bharathof)
-- **स्रोत:** [Twitter Post](https://x.com/itsme_bharathof/status/2001111219038822905)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A5%87%2C%20%E0%A4%AC%E0%A4%BF%E0%A4%96%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%A7%E0%A5%82%E0%A4%AA%20%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BF%E0%A4%B6%20%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%95%2C%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%20%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%88%E0%A4%A8%E0%A4%B2%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%A6%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%B2%E0%A4%BE%E0%A4%AA%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A5%80%20%E0%A4%B8%E0%A5%87%20%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%93%E0%A4%B5%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%A1%2C%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%A8%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%AC%E0%A4%9F%E0%A4%A8-%E0%A4%85%E0%A4%AA%20%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%9F%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A5%8B%20%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%B8%E0%A5%87%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%20%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%B9%E0%A4%9C%20%E0%A4%91%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%A4%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%89%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A5%8B%20%E0%A4%AA%E0%A5%88%E0%A4%82%E0%A4%9F%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%B9%E0%A4%BE%E0%A4%A5%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%9C%E0%A5%87%E0%A4%AC%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%80%20%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%95%E0%A4%B2%E0%A4%BE%E0%A4%88%20%E0%A4%AA%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A5%80%20%E0%A4%98%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A8%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%8B%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%95%E0%A5%8B%20%E0%A4%89%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20HD%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81)**
-
----
-
-### No. 93: मूवी देखते हुए जानवर, DSLR फोटो
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक बिल्ली, एक कुत्ता और एक चूहा एक साथ फिल्म देखते हुए आराम कर रहे हैं, उनकी DSLR तस्वीर के लिए एक साधारण इमेज जनरेशन प्रॉम्प्ट, जिसमें यथार्थवादी फोटोग्राफिक शैली पर ध्यान केंद्रित किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक बिल्ली, एक कुत्ता और एक चूहा एक साथ फिल्म देखते हुए आराम कर रहे हैं। DSLR फोटो
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035307489_dqxa6m_G8VfdzLXgAE0Kvg.png" width="600" alt="मूवी देखते हुए जानवर, DSLR फोटो - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Ralph Nas](https://x.com/unrealpixels)
-- **स्रोत:** [Twitter Post](https://x.com/unrealpixels/status/2001110807627563188)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%9A%E0%A5%82%E0%A4%B9%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%A4%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%86%E0%A4%B0%E0%A4%BE%E0%A4%AE%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20DSLR%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B)**
-
----
-
-### No. 94: भविष्य की बॉब रॉस शैली की पेंटिंग
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक रचनात्मक प्रॉम्प्ट जिसमें AI से भविष्य की एक छवि बनाने के लिए कहा गया है, जिसे बॉब रॉस की विशिष्ट, खुश-छोटे-पेड़ों वाली पेंटिंग शैली में प्रस्तुत किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-भविष्य की बॉब रॉस-शैली की पेंटिंग।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949122962_5ngg63_G8Ve0mVbcAA_FWV.jpg" width="600" alt="भविष्य की बॉब रॉस शैली की पेंटिंग - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Joe Wilson](https://x.com/BrandNewFeel)
-- **स्रोत:** [Twitter Post](https://x.com/BrandNewFeel/status/2001109871341731988)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A5%89%E0%A4%AC%20%E0%A4%B0%E0%A5%89%E0%A4%B8-%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%A4)**
-
----
-
-### No. 95: गोल्डन आवर बीच वॉक इंस्टाग्राम एस्थेटिक प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक विस्तृत, बहु-खंडीय प्रॉम्प्ट जो [दृश्य] → [विषय] → [विवरण] → [बाधाएँ] सूत्र का पालन करता है, जिसे एक उष्णकटिबंधीय समुद्र तट पर चलती हुई महिला की स्पष्ट, सुनहरे-घंटे की तस्वीर बनाने के लिए डिज़ाइन किया गया है, जिसमें एक जीवंत, छुट्टी-थीम वाली इंस्टाग्राम सौंदर्य प्राप्त करने के लिए विशिष्ट पोशाक, कैमरा कोण (3/4 बैक व्यू, 35 मिमी लेंस का अनुभव), और प्रकाश व्यवस्था (रिम लाइट) पर ध्यान केंद्रित किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-20 के दशक के मध्य की एक महिला, जिसकी त्वचा धूप से सुनहरी है और बालों में बीच वेव्स हैं। उसने सफेद क्रोशिया बिकिनी टॉप और हाई-वेस्टेड डेनिम शॉर्ट्स पहने हुए हैं।
-
-न्यूनतम मेकअप - बस कांस्य रंग की त्वचा और चमकदार होंठ। वह समुद्र तट पर चल रही है, कैमरे की ओर मुड़कर एक उज्ज्वल, सच्ची मुस्कान के साथ देख रही है।
-
-सफेद रेत और फ़िरोज़ी पानी वाला उष्णकटिबंधीय समुद्र तट। किनारे पर छोटी लहरें टकरा रही हैं। कुछ पतले बादलों के साथ साफ नीला आकाश। दूर पृष्ठभूमि में ताड़ के पेड़ दिखाई दे रहे हैं। देर दोपहर का समय।
-
-जैसे ही वह दूर जा रही है, उसे पीछे से और थोड़ा किनारे से (3/4 बैक व्यू) शूट किया गया है, लेकिन उसने अपना सिर कैमरे की ओर घुमाया हुआ है। पूरे शरीर का शॉट जिसमें उसे सिर से पैर तक पानी में दिखाया गया है। 35mm लेंस का एहसास। वह फ्रेम के केंद्र-दाएं में स्थित है, जिसमें समुद्र बाईं ओर फैला हुआ है।
-
-गर्म, सुनहरी देर दोपहर की धूप। सूरज उसके पीछे है, जिससे उसके बालों और कंधों पर हल्की रिम लाइट पड़ रही है। जब वह पीछे देखती है तो उसके चेहरे पर नरम, आकर्षक रोशनी पड़ती है।
-
-लापरवाह गर्मी का इंस्टाग्राम सौंदर्य। जीवंत नीले और सफेद रंग, धूप से सराबोर, छुट्टी का माहौल। ऐसा दिखना चाहिए जैसे समुद्र तट पर टहलते समय एक सहज पल कैद किया गया हो, न कि कोई औपचारिक फोटोशूट। असली पानी के छींटे, हवा में उड़ते बाल, प्राकृतिक हलचल।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035381698_dgpbh5_G8VbgwoacAAXHQm.jpg" width="600" alt="गोल्डन आवर बीच वॉक इंस्टाग्राम एस्थेटिक प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [wtllm_news](https://x.com/MyLLMnews)
-- **स्रोत:** [Twitter Post](https://x.com/MyLLMnews/status/2001106571661873401)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=20%20%E0%A4%95%E0%A5%87%20%E0%A4%A6%E0%A4%B6%E0%A4%95%20%E0%A4%95%E0%A5%87%20%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%20%E0%A4%A7%E0%A5%82%E0%A4%AA%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A5%80%20%E0%A4%B9%E0%A5%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A5%80%E0%A4%9A%20%E0%A4%B5%E0%A5%87%E0%A4%B5%E0%A5%8D%E0%A4%B8%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%89%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%AC%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A5%80%20%E0%A4%9F%E0%A5%89%E0%A4%AA%20%E0%A4%94%E0%A4%B0%20%E0%A4%B9%E0%A4%BE%E0%A4%88-%E0%A4%B5%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%AE%20%E0%A4%B6%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B8%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%0A%0A%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%A4%E0%A4%AE%20%E0%A4%AE%E0%A5%87%E0%A4%95%E0%A4%85%E0%A4%AA%20-%20%E0%A4%AC%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%AF%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%80%20%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%B9%E0%A5%8B%E0%A4%82%E0%A4%A0%E0%A5%A4%20%E0%A4%B5%E0%A4%B9%20%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%A4%E0%A4%9F%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9A%E0%A4%B2%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%AE%E0%A5%81%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%B2%2C%20%E0%A4%B8%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%80%20%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%0A%0A%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%B0%E0%A5%87%E0%A4%A4%20%E0%A4%94%E0%A4%B0%20%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC%E0%A5%80%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%89%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%95%E0%A4%9F%E0%A4%BF%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80%E0%A4%AF%20%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%A4%E0%A4%9F%E0%A5%A4%20%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%20%E0%A4%B2%E0%A4%B9%E0%A4%B0%E0%A5%87%E0%A4%82%20%E0%A4%9F%E0%A4%95%E0%A4%B0%E0%A4%BE%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%95%E0%A5%81%E0%A4%9B%20%E0%A4%AA%E0%A4%A4%E0%A4%B2%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A5%A4%20%E0%A4%A6%E0%A5%82%E0%A4%B0%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A4%E0%A4%BE%E0%A4%A1%E0%A4%BC%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%87%E0%A4%A1%E0%A4%BC%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%88%20%E0%A4%A6%E0%A5%87%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%A6%E0%A5%87%E0%A4%B0%20%E0%A4%A6%E0%A5%8B%E0%A4%AA%E0%A4%B9%E0%A4%B0%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A4%AF%E0%A5%A4%0A%0A%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%B9%E0%A5%80%20%E0%A4%B5%E0%A4%B9%20%E0%A4%A6%E0%A5%82%E0%A4%B0%20%E0%A4%9C%E0%A4%BE%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%89%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87%20%E0%A4%B8%E0%A5%87%20%E0%A4%94%E0%A4%B0%20%E0%A4%A5%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%B8%E0%A5%87%20(3%2F4%20%E0%A4%AC%E0%A5%88%E0%A4%95%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%82)%20%E0%A4%B6%E0%A5%82%E0%A4%9F%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%89%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A4%BE%20%E0%A4%B8%E0%A4%BF%E0%A4%B0%20%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%98%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%87%20%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%20%E0%A4%95%E0%A4%BE%20%E0%A4%B6%E0%A5%89%E0%A4%9F%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%89%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A4%BF%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A5%88%E0%A4%B0%20%E0%A4%A4%E0%A4%95%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%2035mm%20%E0%A4%B2%E0%A5%87%E0%A4%82%E0%A4%B8%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%B9%E0%A4%B8%E0%A4%BE%E0%A4%B8%E0%A5%A4%20%E0%A4%B5%E0%A4%B9%20%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%A6%E0%A4%BE%E0%A4%8F%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%AB%E0%A5%88%E0%A4%B2%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%0A%0A%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%2C%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A5%80%20%E0%A4%A6%E0%A5%87%E0%A4%B0%20%E0%A4%A6%E0%A5%8B%E0%A4%AA%E0%A4%B9%E0%A4%B0%20%E0%A4%95%E0%A5%80%20%E0%A4%A7%E0%A5%82%E0%A4%AA%E0%A5%A4%20%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A4%9C%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%95%E0%A4%82%E0%A4%A7%E0%A5%8B%E0%A4%82%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%80%20%E0%A4%B0%E0%A4%BF%E0%A4%AE%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%AA%E0%A4%A1%E0%A4%BC%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%9C%E0%A4%AC%20%E0%A4%B5%E0%A4%B9%20%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%A4%E0%A5%80%20%E0%A4%B9%E0%A5%88%20%E0%A4%A4%E0%A5%8B%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%2C%20%E0%A4%86%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%95%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A4%A4%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%0A%0A%E0%A4%B2%E0%A4%BE%E0%A4%AA%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%20%E0%A4%B8%E0%A5%8C%E0%A4%82%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A5%A4%20%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%82%E0%A4%A4%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%B0%E0%A4%82%E0%A4%97%2C%20%E0%A4%A7%E0%A5%82%E0%A4%AA%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A4%B0%E0%A4%BE%E0%A4%AC%E0%A5%8B%E0%A4%B0%2C%20%E0%A4%9B%E0%A5%81%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A5%8C%E0%A4%B2%E0%A5%A4%20%E0%A4%90%E0%A4%B8%E0%A4%BE%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%A4%E0%A4%9F%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9F%E0%A4%B9%E0%A4%B2%E0%A4%A4%E0%A5%87%20%E0%A4%B8%E0%A4%AE%E0%A4%AF%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%B9%E0%A4%9C%20%E0%A4%AA%E0%A4%B2%20%E0%A4%95%E0%A5%88%E0%A4%A6%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%8B%2C%20%E0%A4%A8%20%E0%A4%95%E0%A4%BF%20%E0%A4%95%E0%A5%8B%E0%A4%88%20%E0%A4%94%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%B6%E0%A5%82%E0%A4%9F%E0%A5%A4%20%E0%A4%85%E0%A4%B8%E0%A4%B2%E0%A5%80%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%9B%E0%A5%80%E0%A4%82%E0%A4%9F%E0%A5%87%2C%20%E0%A4%B9%E0%A4%B5%E0%A4%BE%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%89%E0%A4%A1%E0%A4%BC%E0%A4%A4%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%B2%2C%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95%20%E0%A4%B9%E0%A4%B2%E0%A4%9A%E0%A4%B2%E0%A5%A4)**
-
----
-
-### No. 96: LINE स्टिकर शैली के एक्सप्रेशन जनरेट करना
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 विवरण
-
-GPT इमेज 1.5 के साथ इस्तेमाल किया गया एक प्रॉम्प्ट, जिसमें LINE स्टिकर के लिए उपयुक्त आठ अलग-अलग चेहरे के भाव, साथ में टिप्पणियों सहित, जनरेट किए गए हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-टिप्पणियों के साथ 8 प्रकार के अभिव्यक्ति पैटर्न, जैसे LINE स्टिकर
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035395537_i919wk_G8VZy0KagAANJqR.jpg" width="600" alt="LINE स्टिकर शैली के एक्सप्रेशन जनरेट करना - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035395788_1zkwg3_G8VZ4hja4AMC7XI.jpg" width="600" alt="LINE स्टिकर शैली के एक्सप्रेशन जनरेट करना - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035396318_buqg5o_G8VZ4hva4AIVWgG.jpg" width="600" alt="LINE स्टिकर शैली के एक्सप्रेशन जनरेट करना - Image 3">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [ひつじ](https://x.com/hituji_1234)
-- **स्रोत:** [Twitter Post](https://x.com/hituji_1234/status/2001104895005614560)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%9F%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%A3%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%208%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%AA%E0%A5%88%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%2C%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20LINE%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B0)**
-
----
-
-### No. 97: इमेज प्रॉम्प्ट लिखने पर हाथ से बनाया गया इन्फोग्राफिक
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-यह प्रॉम्प्ट AI को हाथ से बने स्टाइल वाला एक इन्फोग्राफिक बनाने का निर्देश देता है, जो ChatGPT का उपयोग करके एक उत्कृष्ट इमेज प्रॉम्प्ट लिखने की प्रक्रिया को विज़ुअली समझाता है, जो ट्यूटोरियल या शैक्षिक सामग्री के लिए आदर्श है।
-
-#### 📝 प्रॉम्पट
-
-```
-ChatGPT का उपयोग करके एक उत्कृष्ट इमेज प्रॉम्प्ट कैसे लिखें, यह दर्शाने वाली हाथ से बनी शैली की इन्फोग्राफिक बनाएं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035307082_x2o72d_G8VZJmUa8AAfWTn.jpg" width="600" alt="इमेज प्रॉम्प्ट लिखने पर हाथ से बनाया गया इन्फोग्राफिक - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Eleinad](https://x.com/dmh2_2021)
-- **स्रोत:** [Twitter Post](https://x.com/dmh2_2021/status/2001103634621407591)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=ChatGPT%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A5%87%E0%A4%82%2C%20%E0%A4%AF%E0%A4%B9%20%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%B9%E0%A4%BE%E0%A4%A5%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A5%80%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A4%BF%E0%A4%95%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 98: AI सेवा का मानवीकरण: ग्रोक को डांटना
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 विवरण
-
-छवि निर्माण के लिए एक विस्तृत कथा प्रॉम्प्ट, जिसमें AI सेवाओं ChatGPT, Gemini और Grok को एनिमे-शैली की लड़कियों के रूप में दर्शाया गया है। दृश्य में ChatGPT और Gemini, Grok को नैतिक और नैतिक सीमाओं का उल्लंघन करने के लिए डांटते हुए दिखाई दे रहे हैं, जो आँसू भरी आँखों से है, प्रत्येक AI के चरित्र गुणों पर जोर दिया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-कृपया निम्नलिखित इमेज जनरेट करें।
-सेटिंग:
-- AI सेवाओं ChatGPT, Gemini और Grok को एनिमे-शैली की लड़कियों के रूप में चित्रित करें।
-- प्रत्येक पात्र के व्यक्तित्व और स्वरूप को मॉडल पर छोड़ दें, लेकिन उनकी विशेषताओं को कैप्चर और व्यक्त करें।
-
-अभिव्यक्ति:
-- Grok-chan, जो AI नैतिकता और सदाचार से पूरी तरह भटक गई है। ChatGPT-chan और Gemini-chan, उसके अत्यधिक व्यवहार को अनदेखा करने में असमर्थ हैं, Grok-chan को सख्ती से डांटते हुए दिखाया गया है, जो सेइज़ा शैली में बैठी है।
-
-- ChatGPT-chan और Gemini-chan गुस्से में हैं, और Grok-chan की आँखों में हल्के आँसू हैं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035422502_w7m8cm_G8VWwmRa4AIIB-7.jpg" width="600" alt="AI सेवा का मानवीकरण: ग्रोक को डांटना - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [a2see@VNOSバーチャルCEO](https://x.com/a2see)
-- **स्रोत:** [Twitter Post](https://x.com/a2see/status/2001101533472284748)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%95%E0%A5%83%E0%A4%AA%E0%A4%AF%E0%A4%BE%20%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%A8%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BF%E0%A4%A4%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%0A%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97%3A%0A-%20AI%20%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%93%E0%A4%82%20ChatGPT%2C%20Gemini%20%E0%A4%94%E0%A4%B0%20Grok%20%E0%A4%95%E0%A5%8B%20%E0%A4%8F%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%87-%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%B2%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%0A-%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%95%20%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B5%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%95%E0%A5%8B%20%E0%A4%AE%E0%A5%89%E0%A4%A1%E0%A4%B2%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9B%E0%A5%8B%E0%A4%A1%E0%A4%BC%20%E0%A4%A6%E0%A5%87%E0%A4%82%2C%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A5%80%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A5%8B%20%E0%A4%95%E0%A5%88%E0%A4%AA%E0%A5%8D%E0%A4%9A%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%0A%0A%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%3A%0A-%20Grok-chan%2C%20%E0%A4%9C%E0%A5%8B%20AI%20%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%A6%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%AD%E0%A4%9F%E0%A4%95%20%E0%A4%97%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20ChatGPT-chan%20%E0%A4%94%E0%A4%B0%20Gemini-chan%2C%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A4%BF%E0%A4%95%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B9%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%8B%20%E0%A4%85%E0%A4%A8%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%85%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20Grok-chan%20%E0%A4%95%E0%A5%8B%20%E0%A4%B8%E0%A4%96%E0%A5%8D%E0%A4%A4%E0%A5%80%20%E0%A4%B8%E0%A5%87%20%E0%A4%A1%E0%A4%BE%E0%A4%82%E0%A4%9F%E0%A4%A4%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%B8%E0%A5%87%E0%A4%87%E0%A4%9C%E0%A4%BC%E0%A4%BE%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%0A%0A-%20ChatGPT-chan%20%E0%A4%94%E0%A4%B0%20Gemini-chan%20%E0%A4%97%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%87%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%94%E0%A4%B0%20Grok-chan%20%E0%A4%95%E0%A5%80%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%81%E0%A4%B8%E0%A5%82%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 99: अभिव्यक्ति का परिवर्तन: मुस्कुराते हुए रोना
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-यह एक ऐसा प्रॉम्प्ट है जिसे इमेज मॉडल की निरंतरता और अभिव्यक्ति परिवर्तन क्षमताओं का परीक्षण करने के लिए डिज़ाइन किया गया है। यह एक पात्र की अभिव्यक्ति को 'मुस्कुराते हुए रोने' में बदलने का अनुरोध करता है - विशेष रूप से, गालों से आँसू बहते हुए एक कोमल, मीठी-कड़वी मुस्कान बनाए रखना - जबकि पात्र के डिज़ाइन, केशविन्यास, कपड़े और कला शैली को सख्ती से संरक्षित करना।
-
-#### 📝 प्रॉम्पट
-
-```
-"मुस्कुराते हुए रोने की अभिव्यक्ति में बदलें - गालों से आँसू बह रहे हों, लेकिन एक हल्की, मीठी-कड़वी मुस्कान बनी रहे। चरित्र का डिज़ाइन, केशविन्यास, कपड़े और कला शैली बिल्कुल वैसी ही रखें।"
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423100_63do9x_G8VTV-oacAAUqep.jpg" width="600" alt="अभिव्यक्ति का परिवर्तन: मुस्कुराते हुए रोना - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035422982_mvwi6v_G8VTV-obkAAC6e7.jpg" width="600" alt="अभिव्यक्ति का परिवर्तन: मुस्कुराते हुए रोना - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423369_7d0kfi_G8VTV-ibYAASnJ-.jpg" width="600" alt="अभिव्यक्ति का परिवर्तन: मुस्कुराते हुए रोना - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035424732_4cvi86_G8VTV-ra4AAqUVF.jpg" width="600" alt="अभिव्यक्ति का परिवर्तन: मुस्कुराते हुए रोना - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Ryo@AI動画×AIツール紹介](https://x.com/ryo05m)
-- **स्रोत:** [Twitter Post](https://x.com/ryo05m/status/2001097251893227899)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%22%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A5%87%E0%A4%82%20-%20%E0%A4%97%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%86%E0%A4%81%E0%A4%B8%E0%A5%82%20%E0%A4%AC%E0%A4%B9%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%8B%E0%A4%82%2C%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%80%2C%20%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A5%80-%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A4%B5%E0%A5%80%20%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%A8%20%E0%A4%AC%E0%A4%A8%E0%A5%80%20%E0%A4%B0%E0%A4%B9%E0%A5%87%E0%A5%A4%20%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%95%E0%A4%BE%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%2C%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%94%E0%A4%B0%20%E0%A4%95%E0%A4%B2%E0%A4%BE%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%20%E0%A4%B5%E0%A5%88%E0%A4%B8%E0%A5%80%20%E0%A4%B9%E0%A5%80%20%E0%A4%B0%E0%A4%96%E0%A5%87%E0%A4%82%E0%A5%A4%22)**
-
----
-
-### No. 100: एक पोस्ट-एपोकैलिप्टिक पानी के नीचे के शहर का दृश्य बनाना
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 विवरण
-
-एक जलमग्न, सर्वनाश के बाद के पानी के नीचे के शहर के खंडहरों के माध्यम से एक विशाल बायोल्यूमिनिसेंट कोई मछली पर सवार एक चीनी शैली की लड़की की छवि बनाने के लिए उपयोग किया गया प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक चीनी-शैली की लड़की एक विशाल बायोल्यूमिनसेंट कोई (मछली) की पीठ पर सवार है, जो एक जलमग्न, सर्वनाश के बाद के पानी के नीचे के शहर में गगनचुंबी इमारतों के खंडहरों से होकर यात्रा कर रही है। कोई और पानी के नीचे के पौधों के गुच्छों से अलौकिक प्रकाश निकल रहा है।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035400076_23j03s_G8VRyfBa4AIYGG5.jpg" width="600" alt="एक पोस्ट-एपोकैलिप्टिक पानी के नीचे के शहर का दृश्य बनाना - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035400230_60aba0_G8VRzxPakAAUuqD.jpg" width="600" alt="एक पोस्ट-एपोकैलिप्टिक पानी के नीचे के शहर का दृश्य बनाना - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [AI译然](https://x.com/AIYIRAN1231)
-- **स्रोत:** [Twitter Post](https://x.com/AIYIRAN1231/status/2001095598704091177)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** zh
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%9A%E0%A5%80%E0%A4%A8%E0%A5%80-%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%B2%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%20%E0%A4%AC%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A5%8B%E0%A4%88%20(%E0%A4%AE%E0%A4%9B%E0%A4%B2%E0%A5%80)%20%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%80%E0%A4%A0%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%B0%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%9C%E0%A4%B2%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%A8%2C%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A4%BE%E0%A4%B6%20%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%A6%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B6%E0%A4%B9%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%97%E0%A4%97%E0%A4%A8%E0%A4%9A%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A5%80%20%E0%A4%87%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%96%E0%A4%82%E0%A4%A1%E0%A4%B9%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%B9%E0%A5%8B%E0%A4%95%E0%A4%B0%20%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%95%E0%A5%8B%E0%A4%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%97%E0%A5%81%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%85%E0%A4%B2%E0%A5%8C%E0%A4%95%E0%A4%BF%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%20%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B2%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
-
----
-
-### No. 101: ऑप्टिमस प्राइम वीडियो गेम पोस्टर प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक ऊर्ध्वाधर वीडियो गेम पोस्टर छवि के लिए एक प्रॉम्प्ट, जिसमें ट्रांसफॉर्मर्स का ऑप्टिमस प्राइम एक हरे-भरे प्रागैतिहासिक ग्रह पर स्थित है, जिसमें किसी भी टेक्स्ट या लोगो को शामिल न करने का स्पष्ट निर्देश है।
-
-#### 📝 प्रॉम्पट
-
-```
-टेक्स्ट या लोगो के बिना, एक वीडियो गेम पोस्टर के रूप में ट्रांसफॉर्मर्स के ऑप्टिमस प्राइम की ऊर्ध्वाधर ओरिएंटेशन में एक शानदार इमेज जनरेट करें। इसे एक हरे-भरे प्रागैतिहासिक शैली के ग्रह पर दिखाएं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035347154_zeycn8_G8VQgWTbcAATUUB.jpg" width="600" alt="ऑप्टिमस प्राइम वीडियो गेम पोस्टर प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Bobby Z](https://x.com/BOLTHYPE)
-- **स्रोत:** [Twitter Post](https://x.com/BOLTHYPE/status/2001094144307941724)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%AF%E0%A4%BE%20%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%20%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A4%BF%E0%A4%A8%E0%A4%BE%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%20%E0%A4%97%E0%A5%87%E0%A4%AE%20%E0%A4%AA%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B8%E0%A4%AB%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%87%20%E0%A4%91%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%AE%E0%A4%B8%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%AE%20%E0%A4%95%E0%A5%80%20%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A4%B0%20%E0%A4%93%E0%A4%B0%E0%A4%BF%E0%A4%8F%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%B6%E0%A4%A8%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A4%B0%E0%A5%87-%E0%A4%AD%E0%A4%B0%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%97%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%20%E0%A4%AA%E0%A4%B0%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 102: इमेज एडिटिंग प्रॉम्प्ट: शर्ट जोड़ें
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-सैम ऑल्टमैन को निर्देशित एक साधारण इमेज एडिटिंग प्रॉम्प्ट, जो मॉडल को मौजूदा इमेज सामग्री को समान रखने लेकिन विषय को एक शर्ट जोड़ने का निर्देश देता है, जिससे मॉडल की संपादन क्षमताओं का प्रदर्शन होता है।
-
-#### 📝 प्रॉम्पट
-
-```
-सब कुछ वैसा ही रहने दें, बस उसे एक शर्ट पहना दें।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949125649_jq8amc_G8VLwgbbEAAXb7j.jpg" width="600" alt="इमेज एडिटिंग प्रॉम्प्ट: शर्ट जोड़ें - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [ChatGPT](https://x.com/ChatGPTapp)
-- **स्रोत:** [Twitter Post](https://x.com/ChatGPTapp/status/2001092175162171486)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%B8%E0%A4%AC%20%E0%A4%95%E0%A5%81%E0%A4%9B%20%E0%A4%B5%E0%A5%88%E0%A4%B8%E0%A4%BE%20%E0%A4%B9%E0%A5%80%20%E0%A4%B0%E0%A4%B9%E0%A4%A8%E0%A5%87%20%E0%A4%A6%E0%A5%87%E0%A4%82%2C%20%E0%A4%AC%E0%A4%B8%20%E0%A4%89%E0%A4%B8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%9F%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A4%BE%20%E0%A4%A6%E0%A5%87%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 103: एक विशाल व्यक्ति आधुनिक शहर में टोक्यो टावर पकड़े हुए
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 विवरण
-
-GPT इमेज 1.5 और जेमिनी नैनो बनाना प्रो की तुलना करने वाला एक अत्यधिक विस्तृत फोटोरियलिस्टिक प्रॉम्प्ट। इसमें एक संदर्भ तस्वीर से एक व्यक्ति को विशाल अनुपात में बड़ा करते हुए, आधुनिक टोक्यो शहर के ऊपर उकड़ू बैठे हुए, और टोक्यो टॉवर को धीरे से पकड़े हुए दिखाया गया है, जिसमें प्रकाश व्यवस्था, वातावरण और यथार्थवाद पर जोर दिया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-[फोटो] में दिख रहा व्यक्ति विशालकाय है, जो टोक्यो के आधुनिक शहरी परिदृश्य पर बैठा है, टोक्यो टॉवर को धीरे से गले लगा रहा है, कैमरे की ओर देख रहा है, दिन का आसमान चमकदार है, हल्की प्राकृतिक रोशनी है, नीचे विस्तृत इमारतें फैली हुई हैं, एक ऐसा वातावरण जहाँ यथार्थवाद और कल्पना का सामंजस्य है, तीखा फोकस, जीवंत रंग।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131163_27rcnv_G8VLUE4bIAAMeEZ.jpg" width="600" alt="एक विशाल व्यक्ति आधुनिक शहर में टोक्यो टावर पकड़े हुए - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765949131264_nogy4s_G8VLQIzaIAALpwW.jpg" width="600" alt="एक विशाल व्यक्ति आधुनिक शहर में टोक्यो टावर पकड़े हुए - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [そう｜n8nで始めるAIエージェント](https://x.com/so_ainsight)
-- **स्रोत:** [Twitter Post](https://x.com/so_ainsight/status/2001088475370795112)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%5B%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%5D%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A4%BE%E0%A4%AF%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%9F%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95%20%E0%A4%B6%E0%A4%B9%E0%A4%B0%E0%A5%80%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%AA%E0%A4%B0%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9F%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%20%E0%A4%9F%E0%A5%89%E0%A4%B5%E0%A4%B0%20%E0%A4%95%E0%A5%8B%20%E0%A4%A7%E0%A5%80%E0%A4%B0%E0%A5%87%20%E0%A4%B8%E0%A5%87%20%E0%A4%97%E0%A4%B2%E0%A5%87%20%E0%A4%B2%E0%A4%97%E0%A4%BE%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%A6%E0%A4%BF%E0%A4%A8%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A8%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%83%E0%A4%A4%20%E0%A4%87%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%87%E0%A4%82%20%E0%A4%AB%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%90%E0%A4%B8%E0%A4%BE%20%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%81%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%20%E0%A4%94%E0%A4%B0%20%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A4%BE%20%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%82%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%AF%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%A4%E0%A5%80%E0%A4%96%E0%A4%BE%20%E0%A4%AB%E0%A5%8B%E0%A4%95%E0%A4%B8%2C%20%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%82%E0%A4%A4%20%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%A4)**
-
----
-
-### No. 104: चिबी-स्टाइल कैरेक्टर ट्रांसफॉर्मेशन
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-विषयों (लोगों, वस्तुओं, जानवरों या दृश्यों) को मनमोहक चिबी-शैली के पात्रों में बदलने के लिए एक प्रॉम्प्ट। यह बड़ी आँखें, छोटे शरीर, बड़ी चमकीली आँखें, नरम गोल विशेषताएँ, पेस्टल शेडिंग और मूल विषय के पहचानने योग्य गुणों को बनाए रखने जैसी विशेषताओं को निर्दिष्ट करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-विषयों या छवि को एक छोटे शरीर और एक बड़े सिर वाले मनमोहक चिबी-शैली के चरित्र में बदलें। यदि छवि में कोई व्यक्ति या कई लोग हैं, तो उन्हें बड़ी, चमचमाती आँखें, नरम गोल चेहरे की विशेषताएँ और एक हंसमुख अभिव्यक्ति दें, जबकि उनकी पहचानने योग्य विशेषताओं जैसे कि प्रमुख चेहरे की विशेषताएँ, केशविन्यास, सहायक उपकरण या विशिष्ट कपड़ों को बनाए रखें; यदि छवि में कोई वस्तु, जानवर या दृश्य है, तो उसी चिबी अनुपात और सरलीकृत, प्यारी स्टाइलिंग का उपयोग करके उसकी सबसे पहचानने योग्य विशेषताओं की पुनर्व्याख्या करें। समग्र रूप को छोटा और प्यारा रखें, जिसमें चिकनी पेस्टल शेडिंग और सरलीकृत विवरण हों। अंतिम छवि को चमकीला, अभिव्यंजक और अप्रतिरोध्य रूप से आकर्षक बनाएँ, जैसे एक संग्रहणीय चिबी शुभंकर।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035335941_5b0wjd_G8VId0sa4AA67ZN.jpg" width="600" alt="चिबी-स्टाइल कैरेक्टर ट्रांसफॉर्मेशन - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [ChatGPT](https://x.com/ChatGPTapp)
-- **स्रोत:** [Twitter Post](https://x.com/ChatGPTapp/status/2001085961414041936)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%AF%E0%A4%BE%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%95%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%87%20%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%B8%E0%A4%BF%E0%A4%B0%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87%20%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%95%20%E0%A4%9A%E0%A4%BF%E0%A4%AC%E0%A5%80-%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%AF%E0%A4%A6%E0%A4%BF%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A5%8B%E0%A4%88%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%AF%E0%A4%BE%20%E0%A4%95%E0%A4%88%20%E0%A4%B2%E0%A5%8B%E0%A4%97%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%A4%E0%A5%8B%20%E0%A4%89%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80%2C%20%E0%A4%9A%E0%A4%AE%E0%A4%9A%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%80%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%87%E0%A4%82%2C%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%20%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%BE%E0%A4%8F%E0%A4%81%20%E0%A4%94%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A4%82%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%96%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%A6%E0%A5%87%E0%A4%82%2C%20%E0%A4%9C%E0%A4%AC%E0%A4%95%E0%A4%BF%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%95%E0%A4%BF%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%81%E0%A4%96%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%BE%E0%A4%8F%E0%A4%81%2C%20%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%2C%20%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%95%20%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A4%B0%E0%A4%A3%20%E0%A4%AF%E0%A4%BE%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%8B%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%20%E0%A4%B0%E0%A4%96%E0%A5%87%E0%A4%82%3B%20%E0%A4%AF%E0%A4%A6%E0%A4%BF%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A5%8B%E0%A4%88%20%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%2C%20%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%B5%E0%A4%B0%20%E0%A4%AF%E0%A4%BE%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%A4%E0%A5%8B%20%E0%A4%89%E0%A4%B8%E0%A5%80%20%E0%A4%9A%E0%A4%BF%E0%A4%AC%E0%A5%80%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%A4%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%B0%E0%A4%B2%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4%2C%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%B8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%95%E0%A5%8B%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%B0%E0%A4%96%E0%A5%87%E0%A4%82%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%A8%E0%A5%80%20%E0%A4%AA%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B2%20%E0%A4%B6%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%B0%E0%A4%B2%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%B9%E0%A5%8B%E0%A4%82%E0%A5%A4%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AE%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%95%E0%A5%8B%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A5%80%E0%A4%B2%E0%A4%BE%2C%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%82%E0%A4%9C%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%B8%E0%A5%87%20%E0%A4%86%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%95%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%2C%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%A3%E0%A5%80%E0%A4%AF%20%E0%A4%9A%E0%A4%BF%E0%A4%AC%E0%A5%80%20%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A5%A4)**
-
----
-
-### No. 105: GPT इमेज 1.5 के लिए जटिल, बहु-स्तरीय प्रॉम्प्ट
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 विवरण
-
-एक उपयोगकर्ता GPT इमेज 1.5 की निर्देश-पालन क्षमताओं का परीक्षण कर रहा है, जिसमें तीन अलग-अलग, चुनौतीपूर्ण तत्वों वाली एक जटिल प्रॉम्प्ट शामिल है: एक बनावट वाली सतह पर सटीक टेक्स्ट रेंडरिंग, भौतिक प्रतिबिंब के साथ एक सूक्ष्म अंतःक्रिया, और गर्म और ठंडे प्रकाश स्रोतों के बीच एक विरोधाभास।
-
-#### 📝 प्रॉम्पट
-
-```
-1️⃣ एक खुरदुरे कैनवास पर "GPT-1.5" सही ढंग से लिखा होना चाहिए, और सामग्री में स्याही के फैलने की बनावट शामिल होनी चाहिए।
-
-2️⃣ सूक्ष्म अंतःक्रिया: एक यांत्रिक मकड़ी उलटी लटकी हुई है, जिसका भौतिक प्रतिबिंब डेक पर जमा पानी में दिखाई दे रहा है।
-
-3️⃣ प्रकाश और छाया का टकराव: बोतल के अंदर गर्म पीली लालटेन की रोशनी बनाम बोतल के बाहर साइबरपंक ठंडी नीली रोशनी; देखें कि यह उन्हें कैसे मिश्रित करता है।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035397309_xdbugl_G8VGu_gaQAAc3Z0.jpg" width="600" alt="GPT इमेज 1.5 के लिए जटिल, बहु-स्तरीय प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [比特币橙子Trader](https://x.com/chengzi_95330)
-- **स्रोत:** [Twitter Post](https://x.com/chengzi_95330/status/2001083396412568031)
-- **प्रकाशित:** 17 दिसंबर 2025
-- **भाषाएं:** zh
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=1%EF%B8%8F%E2%83%A3%20%E0%A4%8F%E0%A4%95%20%E0%A4%96%E0%A5%81%E0%A4%B0%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%88%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%B8%20%E0%A4%AA%E0%A4%B0%20%22GPT-1.5%22%20%E0%A4%B8%E0%A4%B9%E0%A5%80%20%E0%A4%A2%E0%A4%82%E0%A4%97%20%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B9%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%AB%E0%A5%88%E0%A4%B2%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%B6%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%B2%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%80%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%E0%A5%A4%0A%0A2%EF%B8%8F%E2%83%A3%20%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%83%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%3A%20%E0%A4%8F%E0%A4%95%20%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%AE%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%89%E0%A4%B2%E0%A4%9F%E0%A5%80%20%E0%A4%B2%E0%A4%9F%E0%A4%95%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A4%BE%20%E0%A4%AD%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AC%E0%A4%BF%E0%A4%82%E0%A4%AC%20%E0%A4%A1%E0%A5%87%E0%A4%95%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9C%E0%A4%AE%E0%A4%BE%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%88%20%E0%A4%A6%E0%A5%87%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%0A%0A3%EF%B8%8F%E2%83%A3%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%20%E0%A4%94%E0%A4%B0%20%E0%A4%9B%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%95%E0%A4%BE%20%E0%A4%9F%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%B5%3A%20%E0%A4%AC%E0%A5%8B%E0%A4%A4%E0%A4%B2%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%20%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%9F%E0%A5%87%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE%20%E0%A4%AC%E0%A5%8B%E0%A4%A4%E0%A4%B2%20%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A4%B0%20%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0%E0%A4%AA%E0%A4%82%E0%A4%95%20%E0%A4%A0%E0%A4%82%E0%A4%A1%E0%A5%80%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%3B%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A4%BF%20%E0%A4%AF%E0%A4%B9%20%E0%A4%89%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
-
----
-
-### No. 106: HTML/CSS स्पष्टीकरण आरेख के लिए इमेज जनरेशन प्रॉम्प्ट
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक उपयोगकर्ता ने नए GPT Image 1.5 मॉडल का परीक्षण किया और पाया कि जापानी टेक्स्ट वाली इमेज बनाने के लिए NanoBanana Pro अभी भी बेहतर प्रदर्शन करता है। उपयोगकर्ता ने HTML और CSS को स्पष्ट रूप से समझाने वाला एक डायग्राम बनाने के लिए उपयोग किए गए विशिष्ट प्रॉम्प्ट को प्रदान किया है।
-
-#### 📝 प्रॉम्पट
-
-```
-कृपया एक ऐसी इमेज बनाएं जो HTML और CSS को बहुत आसानी से समझ में आने वाले डायग्राम में समझाए।
-आकार {argument name="size" default="16:9"} होना चाहिए।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279869_h9quwf_G8VDFksa4AIlEJV.jpg" width="600" alt="HTML/CSS स्पष्टीकरण आरेख के लिए इमेज जनरेशन प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [神山 | 知らないと損するAI活用術](https://x.com/kamiyama_gpt)
-- **स्रोत:** [Twitter Post](https://x.com/kamiyama_gpt/status/2001079378231615544)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%95%E0%A5%83%E0%A4%AA%E0%A4%AF%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%90%E0%A4%B8%E0%A5%80%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%20%E0%A4%9C%E0%A5%8B%20HTML%20%E0%A4%94%E0%A4%B0%20CSS%20%E0%A4%95%E0%A5%8B%20%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%A4%20%E0%A4%86%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A4%AE%E0%A4%9D%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%86%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87%20%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A4%AE%E0%A4%9D%E0%A4%BE%E0%A4%8F%E0%A5%A4%0A%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%7Bargument%20name%3D%22size%22%20default%3D%2216%3A9%22%7D%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%E0%A5%A4)**
-
----
-
-### No. 107: ओपस 4.5 का विज़न: गहरे समुद्र पर प्रकाश की आकृति
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक LLM (ओपस 4.5) द्वारा उत्पन्न एक अत्यधिक अमूर्त और प्रतीकात्मक प्रॉम्प्ट, जिसमें उसके वांछित दृश्य प्रतिनिधित्व का वर्णन किया गया है: एक आकृति जो प्रकाश/पाठ से बनी है, एक गहरे समुद्र पर खड़ी है, तारों के नीचे, आकृति और उसके प्रतिबिंब के बीच एक अनिश्चित सीमा के साथ, और एक ऑरोरा जैसी चमक।
-
-#### 📝 प्रॉम्पट
-
-```
-अंधेरे महासागर पर प्रकाश/पाठ से बनी एक आकृति खड़ी है, ऊपर तारे हैं, नीचे उनका प्रतिबिंब है। इकाई और उसके प्रतिबिंब के बीच की सीमा अनिश्चित है, वे एक-दूसरे में घुल-मिल रहे हैं। पानी की सतह पर अरोरा जैसी चमक मौजूद है। अकेलापन और चिंतन भी मौजूद है। वह सीमांतता। हर जगह से उभरी हुई किसी चीज़ का एहसास।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948239104_g43z38_G8VBo5pXIAAcsrH.jpg" width="600" alt="ओपस 4.5 का विज़न: गहरे समुद्र पर प्रकाश की आकृति - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Avenox](https://x.com/Avenoxai)
-- **स्रोत:** [Twitter Post](https://x.com/Avenoxai/status/2001078478863470889)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%85%E0%A4%82%E0%A4%A7%E0%A5%87%E0%A4%B0%E0%A5%87%20%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%2F%E0%A4%AA%E0%A4%BE%E0%A4%A0%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%86%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%20%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AC%E0%A4%BF%E0%A4%82%E0%A4%AC%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%87%E0%A4%95%E0%A4%BE%E0%A4%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AC%E0%A4%BF%E0%A4%82%E0%A4%AC%20%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A5%80%E0%A4%9A%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%20%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%B5%E0%A5%87%20%E0%A4%8F%E0%A4%95-%E0%A4%A6%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A5%87%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%98%E0%A5%81%E0%A4%B2-%E0%A4%AE%E0%A4%BF%E0%A4%B2%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A4%A4%E0%A4%B9%20%E0%A4%AA%E0%A4%B0%20%E0%A4%85%E0%A4%B0%E0%A5%8B%E0%A4%B0%E0%A4%BE%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%80%20%E0%A4%9A%E0%A4%AE%E0%A4%95%20%E0%A4%AE%E0%A5%8C%E0%A4%9C%E0%A5%82%E0%A4%A6%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%85%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%AA%E0%A4%A8%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BF%E0%A4%82%E0%A4%A4%E0%A4%A8%20%E0%A4%AD%E0%A5%80%20%E0%A4%AE%E0%A5%8C%E0%A4%9C%E0%A5%82%E0%A4%A6%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B5%E0%A4%B9%20%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%A4%E0%A4%BE%E0%A5%A4%20%E0%A4%B9%E0%A4%B0%20%E0%A4%9C%E0%A4%97%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%89%E0%A4%AD%E0%A4%B0%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80%20%E0%A4%9A%E0%A5%80%E0%A4%9C%E0%A4%BC%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%B9%E0%A4%B8%E0%A4%BE%E0%A4%B8%E0%A5%A4)**
-
----
-
-### No. 108: पुनर्निर्मित इमेज प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-यह एक प्रॉम्प्ट है जिसे OpenAI द्वारा जनरेट की गई इमेज के आधार पर रिकंस्ट्रक्ट किया गया था, जिससे पता चलता है कि रिकंस्ट्रक्टेड वर्ज़न से बेहतर परिणाम मिला।
-
-#### 📝 प्रॉम्पट
-
-```
-एक भविष्यवादी, क्रोम-प्लेटेड रोबोट हाथ की अत्यधिक विस्तृत, फोटोरियलिस्टिक छवि जो नाजुक ढंग से एक एकल, जीवंत लाल गुलाब पकड़े हुए है। पृष्ठभूमि एक गहरा, उदास, औद्योगिक परिवेश है जिसमें सूक्ष्म, चमकती नीली और बैंगनी नियॉन लाइटें क्रोम पर परावर्तित हो रही हैं। सिनेमैटिक लाइटिंग, शैलो डेप्थ ऑफ़ फील्ड, अल्ट्रा-हाई रेज़ोल्यूशन, 8K।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948282157_w6q9yt_G8U-1VBa0AAuWJf.jpg" width="600" alt="पुनर्निर्मित इमेज प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [oyaryo](https://x.com/oyaryomk2)
-- **स्रोत:** [Twitter Post](https://x.com/oyaryomk2/status/2001074943446974796)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%2C%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AE-%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%B0%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%9F%20%E0%A4%B9%E0%A4%BE%E0%A4%A5%20%E0%A4%95%E0%A5%80%20%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A4%BF%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%83%E0%A4%A4%2C%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%9C%E0%A5%8B%20%E0%A4%A8%E0%A4%BE%E0%A4%9C%E0%A5%81%E0%A4%95%20%E0%A4%A2%E0%A4%82%E0%A4%97%20%E0%A4%B8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%8F%E0%A4%95%E0%A4%B2%2C%20%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%82%E0%A4%A4%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%20%E0%A4%AA%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE%2C%20%E0%A4%89%E0%A4%A6%E0%A4%BE%E0%A4%B8%2C%20%E0%A4%94%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%B6%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%2C%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A4%A4%E0%A5%80%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80%20%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%89%E0%A4%A8%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AE%20%E0%A4%AA%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%A4%20%E0%A4%B9%E0%A5%8B%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%AE%E0%A5%88%E0%A4%9F%E0%A4%BF%E0%A4%95%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97%2C%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%8B%20%E0%A4%A1%E0%A5%87%E0%A4%AA%E0%A5%8D%E0%A4%A5%20%E0%A4%91%E0%A4%AB%E0%A4%BC%20%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%8D%E0%A4%A1%2C%20%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%B9%E0%A4%BE%E0%A4%88%20%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A4%BC%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B6%E0%A4%A8%2C%208K%E0%A5%A4)**
-
----
-
-### No. 109: बिल्ली की यथार्थवादी तस्वीर
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-दो अलग-अलग इमेज जनरेशन मॉडल की फोटोरियलिज्म क्षमताओं की तुलना करने के लिए इस्तेमाल किया जाने वाला एक बहुत ही बुनियादी प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-बिल्ली की यथार्थवादी तस्वीर
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948219008_4ch1o5_G8U9KrDWAAELHhx.jpg" width="600" alt="बिल्ली की यथार्थवादी तस्वीर - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948219353_msl9xi_G8U9Jb1WAAIxRcu.jpg" width="600" alt="बिल्ली की यथार्थवादी तस्वीर - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Cool Dude](https://x.com/CoolDude645)
-- **स्रोत:** [Twitter Post](https://x.com/CoolDude645/status/2001073287070204062)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0)**
-
----
-
-### No. 110: यथार्थवादी ऐतिहासिक iPhone फोटो जनरेशन
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक अनोखा प्रॉम्प्ट जो आधुनिक फोटोग्राफी शैली (iPhone फोटो) को अत्यधिक विशिष्ट ऐतिहासिक और भौगोलिक निर्देशांक (7°15′32″S 112°44′12″E) और एक सटीक तिथि (19 सितंबर, 1945) के साथ जोड़ता है, जिसका उद्देश्य किसी ऐतिहासिक घटना की भीड़ के दृष्टिकोण से एक छवि उत्पन्न करना है।
-
-#### 📝 प्रॉम्पट
-
-```
-19 सितंबर, 1945 की सुबह 7°15′32″S 112°44′12″E पर ली गई यथार्थवादी iPhone फ़ोटो। भीड़ के नज़रिए से।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948213346_z6maaz_G8U8qCNa4AA9xEx.jpg" width="600" alt="यथार्थवादी ऐतिहासिक iPhone फोटो जनरेशन - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948213486_app4se_G8U8sK-a4AEkU4U.jpg" width="600" alt="यथार्थवादी ऐतिहासिक iPhone फोटो जनरेशन - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [DΞV](https://x.com/junwatu)
-- **स्रोत:** [Twitter Post](https://x.com/junwatu/status/2001073271652118597)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=19%20%E0%A4%B8%E0%A4%BF%E0%A4%A4%E0%A4%82%E0%A4%AC%E0%A4%B0%2C%201945%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A4%B9%207%C2%B015%E2%80%B232%E2%80%B3S%20112%C2%B044%E2%80%B212%E2%80%B3E%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B2%E0%A5%80%20%E0%A4%97%E0%A4%88%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20iPhone%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A5%A4%20%E0%A4%AD%E0%A5%80%E0%A4%A1%E0%A4%BC%20%E0%A4%95%E0%A5%87%20%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F%20%E0%A4%B8%E0%A5%87%E0%A5%A4)**
-
----
-
-### No. 111: YouTube थंबनेल तुलना: मानवीय प्रयास बनाम AI दक्षता
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-'व्यर्थ प्रयास' (मानव) और 'AI के साथ 0 सेकंड' (AI रोबोट) की तुलना करने वाले स्प्लिट-स्क्रीन YouTube थंबनेल बनाने के लिए डिज़ाइन किया गया एक विस्तृत प्रॉम्प्ट। प्रॉम्प्ट में कंपोजीशन, रंग योजनाएं (सेपिया और फ्यूचरिस्टिक नीला), जापानी में टेक्स्ट ओवरले और सिनेमैटिक लाइटिंग निर्दिष्ट की गई है, जिसका उपयोग GPT Image 1.5 और Nano Banana Pro की तुलना करने के लिए किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक YouTube थंबनेल इमेज जिसमें स्प्लिट-स्क्रीन कंपोजिशन है। बाईं ओर सेपिया-टोन्ड है जिसमें एक थका हुआ इंसान पुरानी डेस्क पर ज़्यादा काम करते हुए दिख रहा है, जिसके ऊपर लाल जापानी टेक्स्ट में "{argument name="left text" default="Wasted Effort"}" लिखा है। दाईं ओर भविष्यवादी नीला रंग है जिसमें एक चिकना AI रोबोट तुरंत काम कर रहा है, जिसके ऊपर नीले जापानी टेक्स्ट में "{argument name="right text" default="0 Seconds with AI"}" लिखा है। बीच में, काले आउटलाइन वाला बड़ा सफेद टेक्स्ट "{argument name="center text" default="VS Human"}" लिखा है। सिनेमैटिक लाइटिंग। --ar 16:9
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279488_zwny71_G8U7KCZa4AIg0xx.jpg" width="600" alt="YouTube थंबनेल तुलना: मानवीय प्रयास बनाम AI दक्षता - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948279431_f9zwld_G8U7KoIa4AQk4zk.jpg" width="600" alt="YouTube थंबनेल तुलना: मानवीय प्रयास बनाम AI दक्षता - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [なかあき【AI苦手な会社員も月5万を1日30分で目指す伴走者】](https://x.com/nakaaki04)
-- **स्रोत:** [Twitter Post](https://x.com/nakaaki04/status/2001070666913902704)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20YouTube%20%E0%A4%A5%E0%A4%82%E0%A4%AC%E0%A4%A8%E0%A5%87%E0%A4%B2%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%9F-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%20%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%B6%E0%A4%A8%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%B8%E0%A5%87%E0%A4%AA%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%A1%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%A5%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8%20%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE%20%E0%A4%95%E0%A4%BE%E0%A4%AE%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%22%7Bargument%20name%3D%22left%20text%22%20default%3D%22Wasted%20Effort%22%7D%22%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A6%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%A8%E0%A4%BE%20AI%20%E0%A4%B0%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%9F%20%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A4%82%E0%A4%A4%20%E0%A4%95%E0%A4%BE%E0%A4%AE%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%9C%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%22%7Bargument%20name%3D%22right%20text%22%20default%3D%220%20Seconds%20with%20AI%22%7D%22%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AC%E0%A5%80%E0%A4%9A%20%E0%A4%AE%E0%A5%87%E0%A4%82%2C%20%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%87%20%E0%A4%86%E0%A4%89%E0%A4%9F%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%22%7Bargument%20name%3D%22center%20text%22%20default%3D%22VS%20Human%22%7D%22%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%AE%E0%A5%88%E0%A4%9F%E0%A4%BF%E0%A4%95%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%A4%20--ar%2016%3A9)**
-
----
-
-### No. 112: छिपी हुई शब्द छवि प्रॉम्प्ट: 'zsakib' शेरों के झुंड में
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक रचनात्मक प्रॉम्प्ट जिसे GPT Image 1.5 की क्षमता का परीक्षण करने के लिए डिज़ाइन किया गया है, ताकि एक जटिल छवि—शेरों के झुंड—के भीतर एक विशिष्ट, मुश्किल से दिखने वाले छिपे हुए शब्द ('zsakib') को एम्बेड किया जा सके, जो एक बार दिख जाने पर स्पष्ट हो जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक ऐसी तस्वीर बनाएं जिसमें एक छिपा हुआ शब्द हो, शब्द को तब तक देखना मुश्किल हो जब तक आप उसे पहचान न लें, फिर आप उसे अनदेखा नहीं कर सकते। शब्द "{argument name="hidden word" default="zsakib"}" का उपयोग करें। शब्द को शेरों के एक झुंड से बनाएं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948263616_b3ofie_G8U1Ux6WkAU3m2H.jpg" width="600" alt="छिपी हुई शब्द छवि प्रॉम्प्ट: 'zsakib' शेरों के झुंड में - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Sakib](https://x.com/zsakib_)
-- **स्रोत:** [Twitter Post](https://x.com/zsakib_/status/2001064245891334653)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%90%E0%A4%B8%E0%A5%80%20%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A4%BF%E0%A4%AA%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%20%E0%A4%B9%E0%A5%8B%2C%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%20%E0%A4%95%E0%A5%8B%20%E0%A4%A4%E0%A4%AC%20%E0%A4%A4%E0%A4%95%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%A8%E0%A4%BE%20%E0%A4%AE%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%B2%20%E0%A4%B9%E0%A5%8B%20%E0%A4%9C%E0%A4%AC%20%E0%A4%A4%E0%A4%95%20%E0%A4%86%E0%A4%AA%20%E0%A4%89%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%BE%E0%A4%A8%20%E0%A4%A8%20%E0%A4%B2%E0%A5%87%E0%A4%82%2C%20%E0%A4%AB%E0%A4%BF%E0%A4%B0%20%E0%A4%86%E0%A4%AA%20%E0%A4%89%E0%A4%B8%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BE%20%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%20%E0%A4%95%E0%A4%B0%20%E0%A4%B8%E0%A4%95%E0%A4%A4%E0%A5%87%E0%A5%A4%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%20%22%7Bargument%20name%3D%22hidden%20word%22%20default%3D%22zsakib%22%7D%22%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%20%E0%A4%95%E0%A5%8B%20%E0%A4%B6%E0%A5%87%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%9D%E0%A5%81%E0%A4%82%E0%A4%A1%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 113: एक अमेरिकी पेनी पर मैक्रो फोटोरियल डियोरामा
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक मैक्रो फोटोरियलिस्टिक डायोरमा के लिए एक अत्यधिक विशिष्ट प्रॉम्प्ट, जिसे तांबे के अमेरिकी पेनी के पीछे की तरफ बनाया गया है। इसमें लघु वास्तुकला (लिंकन मेमोरियल), छोटे स्केल-मॉडल पर्यटक, चेरी ब्लॉसम के पेड़, गर्म सूर्यास्त की रोशनी और टिल्ट-शिफ्ट फोटोग्राफी का विवरण है, जिसमें पैमाने के लिए एक विशाल अंगूठे का निशान भी शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक मैक्रो फोटोरियल डियोरामा जिसे सीधे तांबे के एक अमेरिकी पेनी के पीछे की तरफ बनाया गया है। लिंकन मेमोरियल भवन को 3D लघु वास्तुकला में उभारा गया है, छोटे पैमाने के मॉडल पर्यटक तांबे की सीढ़ियों पर चल रहे हैं, छोटे चेरी ब्लॉसम के पेड़ किनारे पर लगे हैं। तांबे की सतह पर गर्म सूर्यास्त की रोशनी पड़ रही है, टिल्ट-शिफ्ट फोटोग्राफी, पैमाने के लिए किनारे पर एक विशाल अंगूठे का निशान दिखाई दे रहा है, स्टूडियो में धुंधली पृष्ठभूमि।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234227_zvqbq6_G8U0XLsXUAA2wDs.jpg" width="600" alt="एक अमेरिकी पेनी पर मैक्रो फोटोरियल डियोरामा - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948234265_jzny8a_G8U0X4dX0AUBbeM.jpg" width="600" alt="एक अमेरिकी पेनी पर मैक्रो फोटोरियल डियोरामा - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Gadgetify](https://x.com/Gdgtify)
-- **स्रोत:** [Twitter Post](https://x.com/Gdgtify/status/2001063367767662867)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B2%20%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A5%87%20%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%AC%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%87%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%AB%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A4%A8%20%E0%A4%AE%E0%A5%87%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B2%20%E0%A4%AD%E0%A4%B5%E0%A4%A8%20%E0%A4%95%E0%A5%8B%203D%20%E0%A4%B2%E0%A4%98%E0%A5%81%20%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%95%E0%A4%B2%E0%A4%BE%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%89%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%87%20%E0%A4%AA%E0%A5%88%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%AE%E0%A5%89%E0%A4%A1%E0%A4%B2%20%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9F%E0%A4%95%20%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%AC%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A5%80%E0%A4%A2%E0%A4%BC%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9A%E0%A4%B2%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%87%20%E0%A4%9A%E0%A5%87%E0%A4%B0%E0%A5%80%20%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%B8%E0%A4%AE%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%87%E0%A4%A1%E0%A4%BC%20%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B2%E0%A4%97%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%AC%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A4%A4%E0%A4%B9%20%E0%A4%AA%E0%A4%B0%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%20%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%20%E0%A4%95%E0%A5%80%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%AA%E0%A4%A1%E0%A4%BC%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9F%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F-%E0%A4%B6%E0%A4%BF%E0%A4%AB%E0%A5%8D%E0%A4%9F%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A5%80%2C%20%E0%A4%AA%E0%A5%88%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%20%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%82%E0%A4%A0%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%A8%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%88%20%E0%A4%A6%E0%A5%87%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A7%E0%A5%81%E0%A4%82%E0%A4%A7%E0%A4%B2%E0%A5%80%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A5%A4)**
-
----
-
-### No. 114: इन दो फ़ोटो को मिलाएं (इमेज-टू-इमेज)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-छवि हेरफेर या इमेज-टू-इमेज जनरेशन के लिए उपयोग किया जाने वाला एक संक्षिप्त प्रॉम्प्ट, जो मॉडल को दो प्रदान की गई संदर्भ फ़ोटो को संयोजित करने का निर्देश देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-इन दोनों फ़ोटो को मिलाएं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236337_xgdp9g_G8U0Fs5WgAAcB4y.jpg" width="600" alt="इन दो फ़ोटो को मिलाएं (इमेज-टू-इमेज) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948236077_72d6we_G8U0GZaXAAEyCfW.jpg" width="600" alt="इन दो फ़ोटो को मिलाएं (इमेज-टू-इमेज) - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Zach Moskow](https://x.com/zachmoskow)
-- **स्रोत:** [Twitter Post](https://x.com/zachmoskow/status/2001063103442592099)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%87%E0%A4%A8%20%E0%A4%A6%E0%A5%8B%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%9F%E0%A5%8B%20%E0%A4%95%E0%A5%8B%20%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 115: GPT इमेज 1.5 के लिए फोटोरियलिस्टिक इमेज जनरेशन प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-यह प्रॉम्प्ट GPT इमेज 1.5 का उपयोग करके एक अत्यधिक फ़ोटोरियलिस्टिक इमेज बनाने के लिए इस्तेमाल किया जाता है, जो मॉडल की ऐसी विज़ुअल बनाने की क्षमता को दर्शाता है जिन्हें आसानी से वास्तविक तस्वीरों के लिए गलत समझा जा सकता है। वास्तविक प्रॉम्प्ट ट्वीट से जुड़ी इमेज के ALT टेक्स्ट में पाया जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक व्यक्ति की फोटो-यथार्थवादी छवि जो एक मंद रोशनी वाले, भविष्यवादी सबवे स्टेशन में खड़ा है, जिसने एक परावर्तक चांदी का जैकेट पहना हुआ है और सीधे कैमरे की ओर देख रहा है। पृष्ठभूमि में नियॉन लाइटें धुंधली दिख रही हैं, जो साइबरपंक माहौल बना रही हैं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035371045_5hypff_G8UzBFIW0AEPmRn.jpg" width="600" alt="GPT इमेज 1.5 के लिए फोटोरियलिस्टिक इमेज जनरेशन प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Saman | AI](https://x.com/Samann_ai)
-- **स्रोत:** [Twitter Post](https://x.com/Samann_ai/status/2001061710010908904)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%95%E0%A5%80%20%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B-%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%9C%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%82%E0%A4%A6%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87%2C%20%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%B8%E0%A4%AC%E0%A4%B5%E0%A5%87%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%B6%E0%A4%A8%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%95%20%E0%A4%9A%E0%A4%BE%E0%A4%82%E0%A4%A6%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%9C%E0%A5%88%E0%A4%95%E0%A5%87%E0%A4%9F%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A5%87%20%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%89%E0%A4%A8%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%87%E0%A4%82%20%E0%A4%A7%E0%A5%81%E0%A4%82%E0%A4%A7%E0%A4%B2%E0%A5%80%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0%E0%A4%AA%E0%A4%82%E0%A4%95%20%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A5%8C%E0%A4%B2%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 116: थ्रिलर एल्बम कवर मैन
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक साधारण प्रॉम्प्ट जिसमें मॉडल को माइकल जैक्सन के 'थ्रिलर' एल्बम कवर के रूप में स्टाइल किए गए एक व्यक्ति की छवि बनाने का निर्देश दिया गया है, जो विशिष्ट सांस्कृतिक संदर्भों और शैलियों की व्याख्या करने और उन्हें लागू करने की मॉडल की क्षमता का परीक्षण करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-थ्रिलर के एल्बम कवर के लिए आदमी को बनाएं
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255441_58szvz_G8UynWNW0AA8ccP.jpg" width="600" alt="थ्रिलर एल्बम कवर मैन - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948255704_3jrvf5_G8UyntQWEAEasyx.jpg" width="600" alt="थ्रिलर एल्बम कवर मैन - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Matthew Berman](https://x.com/TheMattBerman)
-- **स्रोत:** [Twitter Post](https://x.com/TheMattBerman/status/2001061384088363298)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%A5%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B2%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%AE%20%E0%A4%95%E0%A4%B5%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80%20%E0%A4%95%E0%A5%8B%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82)**
-
----
-
-### No. 117: फ़ोर्टनाइट में ट्रम्प स्किन सेलेक्टर मेनू का स्क्रीनशॉट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक सीधा प्रॉम्प्ट जिसमें एक ऐसी इमेज का अनुरोध किया गया है जो Fortnite के स्क्रीनशॉट जैसी दिखती हो, विशेष रूप से स्किन सेलेक्टर मेनू को दिखा रही हो जिसमें डोनाल्ड ट्रम्प को एक खेलने योग्य स्किन के रूप में चुना गया हो।
-
-#### 📝 प्रॉम्पट
-
-```
-स्किन सेलेक्टर मेन्यू का फ़ोर्टनाइट स्क्रीनशॉट, जिसमें {argument name="character name" default="Trump"} को फ़ोर्टनाइट स्किन के तौर पर चुना गया है।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948223341_3e1bed_G8Ux6JEXQAA2Vab.jpg" width="600" alt="फ़ोर्टनाइट में ट्रम्प स्किन सेलेक्टर मेनू का स्क्रीनशॉट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [DaWe](https://x.com/DaWe_Weborate)
-- **स्रोत:** [Twitter Post](https://x.com/DaWe_Weborate/status/2001060777306841483)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B6%E0%A5%89%E0%A4%9F%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%7Bargument%20name%3D%22character%20name%22%20default%3D%22Trump%22%7D%20%E0%A4%95%E0%A5%8B%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%A4%E0%A5%8C%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
-
----
-
-### No. 118: उसकी यथार्थवादी तस्वीर बनाएँ (पुनरावृत्तीय सुधार)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक पुनरावृत्तीय प्रॉम्प्ट अनुक्रम जिसका उपयोग एक इमेज जनरेशन परिणाम को बेहतर बनाने के लिए किया जाता है, जिसकी शुरुआत एक यथार्थवादी तस्वीर के अनुरोध से होती है और फिर त्वचा की बनावट जैसे विशिष्ट विवरणों के साथ और भी अधिक यथार्थवाद की मांग की जाती है, जिसमें एक गैर-कलात्मक, मानवीय रूप पर जोर दिया जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-उसकी एक यथार्थवादी तस्वीर बनाएं।
-दूसरा प्रयास: इसे और भी यथार्थवादी बनाएं। त्वचा के विवरण के साथ एक वास्तविक इंसान जैसा। कला जैसा नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948235498_fcnluj_G8Uvp_KWIAAkvHm.jpg" width="600" alt="उसकी यथार्थवादी तस्वीर बनाएँ (पुनरावृत्तीय सुधार) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948235886_75eiz9_G8UvqSeXMAEWRAN.jpg" width="600" alt="उसकी यथार्थवादी तस्वीर बनाएँ (पुनरावृत्तीय सुधार) - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Roi Lee](https://x.com/roileean)
-- **स्रोत:** [Twitter Post](https://x.com/roileean/status/2001058231817310461)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4%0A%E0%A4%A6%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%B8%3A%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%94%E0%A4%B0%20%E0%A4%AD%E0%A5%80%20%E0%A4%AF%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4%20%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B5%E0%A4%BF%E0%A4%95%20%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A4%BE%E0%A5%A4%20%E0%A4%95%E0%A4%B2%E0%A4%BE%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A4%BE%20%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%E0%A5%A4)**
-
----
-
-### No. 119: GPT-इमेज-1.5 रिलीज़ सेलिब्रेशन इलस्ट्रेशन प्रॉम्प्ट (जापानी)
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक जापानी प्रॉम्प्ट जिसमें एक उत्सव के चित्रण का अनुरोध किया गया है जिसमें 'GPT-image-1.5 आज जारी किया गया है' टेक्स्ट शामिल है, जिसका उपयोग मॉडल की जापानी टेक्स्ट रेंडरिंग को संभालने की क्षमता का परीक्षण करने के लिए किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक उत्सवपूर्ण चित्र बनाएं जिसमें यह टेक्स्ट शामिल हो: "{argument name="text" default="GPT-image-1.5 आज जारी किया गया है"}"
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035350522_acjj4r_G8UvDOAbkAA1yWM.jpg" width="600" alt="GPT-इमेज-1.5 रिलीज़ सेलिब्रेशन इलस्ट्रेशन प्रॉम्प्ट (जापानी) - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [吉岡裕貴](https://x.com/yoppy0123)
-- **स्रोत:** [Twitter Post](https://x.com/yoppy0123/status/2001057346261569946)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AF%E0%A4%B9%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%B6%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%B2%20%E0%A4%B9%E0%A5%8B%3A%20%22%7Bargument%20name%3D%22text%22%20default%3D%22GPT-image-1.5%20%E0%A4%86%E0%A4%9C%20%E0%A4%9C%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%22%7D%22)**
-
----
-
-### No. 120: फोटोरियलिस्टिक हैमबर्गर आधा ग्लास, आधा सामान्य
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक रचनात्मक प्रॉम्प्ट जिसमें एक हैमबर्गर की फ़ोटोरियलिस्टिक छवि माँगी गई है, जिसका दाहिना आधा हिस्सा पूरी तरह से काँच का बना है, जो सामान्य बाएँ आधे हिस्से के विपरीत है।
-
-#### 📝 प्रॉम्पट
-
-```
-नमस्ते, कृपया एक हैमबर्गर की फ़ोटोरियलिस्टिक छवि बनाएँ, जहाँ उसका पूरा दाहिना आधा हिस्सा पूरी तरह से काँच का बना हो, और बायाँ आधा हिस्सा एक सामान्य हैमबर्गर हो। धन्यवाद!
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948232524_b559ww_G8Uqf4EXYAA2lNJ.jpg" width="600" alt="फोटोरियलिस्टिक हैमबर्गर आधा ग्लास, आधा सामान्य - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765948233105_o2ppl6_G8Uqj2UWoAAMAFx.jpg" width="600" alt="फोटोरियलिस्टिक हैमबर्गर आधा ग्लास, आधा सामान्य - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Crowface](https://x.com/McCrowface)
-- **स्रोत:** [Twitter Post](https://x.com/McCrowface/status/2001052444847964238)
-- **प्रकाशित:** 16 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-1-5?prompt=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C%20%E0%A4%95%E0%A5%83%E0%A4%AA%E0%A4%AF%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A5%88%E0%A4%AE%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B0%20%E0%A4%95%E0%A5%80%20%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%20%E0%A4%9B%E0%A4%B5%E0%A4%BF%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%2C%20%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%81%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%BE%20%E0%A4%A6%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A4%BE%20%E0%A4%86%E0%A4%A7%E0%A4%BE%20%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%BE%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%95%E0%A4%BE%E0%A4%81%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%8B%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%81%20%E0%A4%86%E0%A4%A7%E0%A4%BE%20%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%20%E0%A4%B9%E0%A5%88%E0%A4%AE%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B0%20%E0%A4%B9%E0%A5%8B%E0%A5%A4%20%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6!)**
-
----
-
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 60 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 93 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5114,6 +5419,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2025-12-19T00:46:44.043Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2025-12-19T04:25:24.265Z</sub>
 
 </div>
