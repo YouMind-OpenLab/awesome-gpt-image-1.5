@@ -86,9 +86,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **245** |
+| 📝 คำสั่งทั้งหมด | **242** |
 | ⭐ แนะนำ | **3** |
-| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 20 ธันวาคม พ.ศ. 2568 เวลา 12 นาฬิกา 16 นาที 36 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 20 ธันวาคม พ.ศ. 2568 เวลา 16 นาฬิกา 10 นาที 58 วินาที UTC** |
 
 </div>
 
@@ -216,83 +216,83 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: Structured Selfie Portrait Prompt
+### No. 1: พรอมต์สำหรับภาพถ่ายเซลฟีแบบมีโครงสร้าง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A highly detailed, structured JSON-like prompt designed to generate a cozy, domestic bedroom selfie portrait using GPT Image 1.5. It specifies scene elements, subject pose, appearance (including pink hair), attire, environment details, and camera composition.
+พรอมต์ที่มีรายละเอียดสูงและมีโครงสร้างคล้าย JSON ซึ่งออกแบบมาเพื่อสร้างภาพถ่ายเซลฟี่ในห้องนอนที่อบอุ่นและเป็นกันเองโดยใช้ GPT Image 1.5 โดยระบุองค์ประกอบของฉาก ท่าทางของตัวแบบ รูปลักษณ์ (รวมถึงผมสีชมพู) เครื่องแต่งกาย รายละเอียดของสภาพแวดล้อม และองค์ประกอบของกล้อง
 
 #### 📝 คำสั่ง
 
 ```
 {
   "scene": {
-    "type": "bedroom_interior",
-    "lighting": "natural_daylight",
-    "atmosphere": "casual, cozy, domestic"
+    "type": "ห้องนอน_ภายใน",
+    "lighting": "แสงธรรมชาติ_กลางวัน",
+    "atmosphere": "สบายๆ, อบอุ่น, เหมือนอยู่บ้าน"
   },
   "subject": {
     "pose": {
-      "position": "lying_prone_on_bed",
-      "orientation": "facing_camera",
-      "legs": "knees_bent_upwards, ankles_crossed",
-      "arms": "left_arm_extended_for_selfie",
-      "head": "resting_on_pillow"
+      "position": "นอนคว่ำ_บนเตียง",
+      "orientation": "หันหน้าเข้าหากล้อง",
+      "legs": "งอเข่า_ขึ้นด้านบน, ข้อเท้า_ไขว้กัน",
+      "arms": "แขนซ้าย_เหยียดออก_เพื่อถ่ายเซลฟี่",
+      "head": "วางอยู่_บนหมอน"
     },
     "appearance": {
-      "hair": "long, straight, {argument name="hair color" default="pink"}",
-      "expression": "gentle_smile, direct_eye_contact",
-      "complexion": "fair, rosy_cheeks"
+      "hair": "ยาว, ตรง, {argument name=\"hair color\" default=\"สีชมพู\"}",
+      "expression": "ยิ้มอ่อนโยน, สบตา_โดยตรง",
+      "complexion": "ผิวขาว, แก้ม_อมชมพู"
     },
     "attire": {
       "top": {
-        "item": "tank_top",
-        "color": "light_green",
-        "texture": "ribbed",
-        "style": "spaghetti_straps"
+        "item": "เสื้อกล้าม",
+        "color": "สีเขียวอ่อน",
+        "texture": "ผ้า_มีริ้ว",
+        "style": "สายเดี่ยว"
       },
       "bottom": {
-        "item": "gym shorts",
-        "color": "light_green",
-        "details": "ruffled_hem, scrunched_texture"
+        "item": "กางเกงขาสั้น_ออกกำลังกาย",
+        "color": "สีเขียวอ่อน",
+        "details": "ชาย_ระบาย, เนื้อผ้า_ย่น"
       },
       "accessories": {
-        "feet": "white_crew_socks"
+        "feet": "ถุงเท้า_หุ้มข้อ_สีขาว"
       }
     }
   },
   "environment": {
     "bedding": {
-      "sheets": "white, rumpled",
-      "pillows": "white_with_floral_pattern",
-      "duvet": "white, puffy"
+      "sheets": "สีขาว, ยับยู่ยี่",
+      "pillows": "สีขาว_ลายดอกไม้",
+      "duvet": "สีขาว, ฟู"
     },
     "background_elements": {
       "windows": {
         "quantity": 2,
-        "features": "white_frames, horizontal_blinds"
+        "features": "กรอบ_สีขาว, มู่ลี่_แนวนอน"
       },
       "furniture": {
         "side_furniture": {
         "side_table": {
-          "location": "left_side",
+          "location": "ด้านซ้าย",
           "visible_items": [
-            "skincare_products",
-            "pink_mug",
-            "small_potted_plant",
-            "tissues"
+            "ผลิตภัณฑ์_ดูแลผิว",
+            "แก้ว_สีชมพู",
+            "ต้นไม้_กระถางเล็ก",
+            "กระดาษทิชชู"
           ]
         }
       }
     }
   },
   "composition": {
-    "angle": "high_angle_selfie",
-    "framing": "medium_shot",
-    "focus": "sharp_subject, soft_background"
+    "angle": "เซลฟี่_มุมสูง",
+    "framing": "ภาพ_ระยะกลาง",
+    "focus": "ตัวแบบ_คมชัด, พื้นหลัง_เบลอ"
   }
 }
 ```
@@ -302,7 +302,7 @@ A highly detailed, structured JSON-like prompt designed to generate a cozy, dome
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231588498_yz5g8o_G8j-xEsWQAAg-IT.jpg" width="600" alt="Structured Selfie Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231588498_yz5g8o_G8j-xEsWQAAg-IT.jpg" width="600" alt="พรอมต์สำหรับภาพถ่ายเซลฟีแบบมีโครงสร้าง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -312,27 +312,27 @@ A highly detailed, structured JSON-like prompt designed to generate a cozy, dome
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22bedroom_interior%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22natural_daylight%22%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22casual%2C%20cozy%2C%20domestic%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22lying_prone_on_bed%22%2C%0A%20%20%20%20%20%20%22orientation%22%3A%20%22facing_camera%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22knees_bent_upwards%2C%20ankles_crossed%22%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%22left_arm_extended_for_selfie%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22resting_on_pillow%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22long%2C%20straight%2C%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22pink%22%7D%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22gentle_smile%2C%20direct_eye_contact%22%2C%0A%20%20%20%20%20%20%22complexion%22%3A%20%22fair%2C%20rosy_cheeks%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22tank_top%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22light_green%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22ribbed%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22spaghetti_straps%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22gym%20shorts%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22light_green%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22ruffled_hem%2C%20scrunched_texture%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22feet%22%3A%20%22white_crew_socks%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22bedding%22%3A%20%7B%0A%20%20%20%20%20%20%22sheets%22%3A%20%22white%2C%20rumpled%22%2C%0A%20%20%20%20%20%20%22pillows%22%3A%20%22white_with_floral_pattern%22%2C%0A%20%20%20%20%20%20%22duvet%22%3A%20%22white%2C%20puffy%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22background_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22windows%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22quantity%22%3A%202%2C%0A%20%20%20%20%20%20%20%20%22features%22%3A%20%22white_frames%2C%20horizontal_blinds%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_table%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22location%22%3A%20%22left_side%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22visible_items%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22skincare_products%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22pink_mug%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22small_potted_plant%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22tissues%22%0A%20%20%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22high_angle_selfie%22%2C%0A%20%20%20%20%22framing%22%3A%20%22medium_shot%22%2C%0A%20%20%20%20%22focus%22%3A%20%22sharp_subject%2C%20soft_background%22%0A%20%20%7D%0A%7D)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%99_%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%22%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B9%86%2C%20%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%2C%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B9%88%E0%B8%B3_%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87%22%2C%0A%20%20%20%20%20%20%22orientation%22%3A%20%22%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22%E0%B8%87%E0%B8%AD%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2_%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%2C%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2_%E0%B9%84%E0%B8%82%E0%B8%A7%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%99%22%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%22%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B8%9F%E0%B8%B5%E0%B9%88%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88_%E0%B8%9A%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%99%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22%E0%B8%A2%E0%B8%B2%E0%B8%A7%2C%20%E0%B8%95%E0%B8%A3%E0%B8%87%2C%20%7Bargument%20name%3D%5C%22hair%20color%5C%22%20default%3D%5C%22%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%99%2C%20%E0%B8%AA%E0%B8%9A%E0%B8%95%E0%B8%B2_%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%22%2C%0A%20%20%20%20%20%20%22complexion%22%3A%20%22%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7%2C%20%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A1_%E0%B8%AD%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A1%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22%E0%B8%9C%E0%B9%89%E0%B8%B2_%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%A7%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99_%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%E0%B8%8A%E0%B8%B2%E0%B8%A2_%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%A2%2C%20%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2_%E0%B8%A2%E0%B9%88%E0%B8%99%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22feet%22%3A%20%22%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2_%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%AD_%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22bedding%22%3A%20%7B%0A%20%20%20%20%20%20%22sheets%22%3A%20%22%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%2C%20%E0%B8%A2%E0%B8%B1%E0%B8%9A%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%A2%E0%B8%B5%E0%B9%88%22%2C%0A%20%20%20%20%20%20%22pillows%22%3A%20%22%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7_%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%22%2C%0A%20%20%20%20%20%20%22duvet%22%3A%20%22%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%2C%20%E0%B8%9F%E0%B8%B9%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22background_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22windows%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22quantity%22%3A%202%2C%0A%20%20%20%20%20%20%20%20%22features%22%3A%20%22%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A_%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%2C%20%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%A5%E0%B8%B5%E0%B9%88_%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%99%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_table%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22location%22%3A%20%22%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22visible_items%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C_%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B4%E0%B8%A7%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%89_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%96%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%97%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B9%22%0A%20%20%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B8%9F%E0%B8%B5%E0%B9%88_%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%E0%B8%A0%E0%B8%B2%E0%B8%9E_%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A_%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87_%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 2: Raw Realistic Amateur Photography Style
+### No. 2: สไตล์การถ่ายภาพแบบดิบๆ สมจริง เหมือนมือสมัครเล่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A custom prompt designed to make AI-generated images look much more realistic by mimicking raw, candid, amateur smartphone photography. It specifies technical details like lens, aperture, lighting, and includes aesthetic instructions like 'Boring reality' and 'Tiny imperfections' to achieve an unpolished, low-contrast look.
+พร้อมต์แบบกำหนดเองที่ออกแบบมาเพื่อให้ภาพที่สร้างโดย AI ดูสมจริงยิ่งขึ้น โดยเลียนแบบภาพถ่ายจากสมาร์ทโฟนแบบดิบๆ, ไม่ปรุงแต่ง และเหมือนมือสมัครเล่น พร้อมต์นี้ระบุรายละเอียดทางเทคนิค เช่น เลนส์, รูรับแสง, แสง และรวมคำแนะนำด้านสุนทรียภาพ เช่น 'Boring reality' และ 'Tiny imperfections' เพื่อให้ได้รูปลักษณ์ที่ไม่เนียนตาและคอนทราสต์ต่ำ
 
 #### 📝 คำสั่ง
 
 ```
-1:1 aspect ratio
+อัตราส่วนภาพ 1:1
 
-Raw Realistic candid natural amateur photo, background in focus, amateur candid photography, Captured on {argument name="camera model" default="Samsung Galaxy S21 Ultra"}, amateur candid smartphone photography, 24mm lens, f/8, Boring reality, natural soft shadows, candid snapshot, flat natural lighting, Realism, low contrast, disposable camera vibe, casual photography, background also completely in focus, Tiny imperfections, everyday aesthetic, slight JPEG artifacts, unpolished look, unedited, imperfect amateur photo
+ภาพถ่ายดิบ สมจริง เป็นธรรมชาติ ไม่ปรุงแต่ง ถ่ายโดยมือสมัครเล่น, พื้นหลังคมชัด, การถ่ายภาพแบบแคนดิดโดยมือสมัครเล่น, ถ่ายด้วย {argument name="camera model" default="Samsung Galaxy S21 Ultra"}, การถ่ายภาพแคนดิดด้วยสมาร์ทโฟนโดยมือสมัครเล่น, เลนส์ 24 มม., f/8, ความเป็นจริงที่น่าเบื่อ, เงาอ่อนๆ ตามธรรมชาติ, ภาพสแนปช็อตแบบแคนดิด, แสงธรรมชาติแบบเรียบๆ, ความสมจริง, คอนทราสต์ต่ำ, ให้ความรู้สึกเหมือนกล้องใช้แล้วทิ้ง, การถ่ายภาพแบบสบายๆ, พื้นหลังคมชัดทั้งหมด, ข้อบกพร่องเล็กๆ น้อยๆ, ความงามแบบชีวิตประจำวัน, มีสิ่งแปลกปลอมของ JPEG เล็กน้อย, ดูไม่สมบูรณ์แบบ, ไม่ผ่านการแก้ไข, ภาพถ่ายมือสมัครเล่นที่ไม่สมบูรณ์
 
-only create real, non fictional images for max effect
+สร้างเฉพาะภาพจริงที่ไม่ใช่ภาพแต่งเพื่อผลลัพธ์สูงสุด
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -340,13 +340,13 @@ only create real, non fictional images for max effect
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231584837_1bsplk_G8j2eJxXQAAQ1sY.jpg" width="600" alt="Raw Realistic Amateur Photography Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231584837_1bsplk_G8j2eJxXQAAQ1sY.jpg" width="600" alt="สไตล์การถ่ายภาพแบบดิบๆ สมจริง เหมือนมือสมัครเล่น - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231585277_xjeph3_G8j2eLTWcAA5yNf.jpg" width="600" alt="Raw Realistic Amateur Photography Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231585277_xjeph3_G8j2eLTWcAA5yNf.jpg" width="600" alt="สไตล์การถ่ายภาพแบบดิบๆ สมจริง เหมือนมือสมัครเล่น - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -356,22 +356,22 @@ only create real, non fictional images for max effect
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=1%3A1%20aspect%20ratio%0A%0ARaw%20Realistic%20candid%20natural%20amateur%20photo%2C%20background%20in%20focus%2C%20amateur%20candid%20photography%2C%20Captured%20on%20%7Bargument%20name%3D%22camera%20model%22%20default%3D%22Samsung%20Galaxy%20S21%20Ultra%22%7D%2C%20amateur%20candid%20smartphone%20photography%2C%2024mm%20lens%2C%20f%2F8%2C%20Boring%20reality%2C%20natural%20soft%20shadows%2C%20candid%20snapshot%2C%20flat%20natural%20lighting%2C%20Realism%2C%20low%20contrast%2C%20disposable%20camera%20vibe%2C%20casual%20photography%2C%20background%20also%20completely%20in%20focus%2C%20Tiny%20imperfections%2C%20everyday%20aesthetic%2C%20slight%20JPEG%20artifacts%2C%20unpolished%20look%2C%20unedited%2C%20imperfect%20amateur%20photo%0A%0Aonly%20create%20real%2C%20non%20fictional%20images%20for%20max%20effect)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%201%3A1%0A%0A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B4%E0%B8%9A%20%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%20%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%2C%20%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20%7Bargument%20name%3D%22camera%20model%22%20default%3D%22Samsung%20Galaxy%20S21%20Ultra%22%7D%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%2C%20%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%AA%E0%B9%8C%2024%20%E0%B8%A1%E0%B8%A1.%2C%20f%2F8%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%88%E0%B8%AD%2C%20%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%86%20%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%2C%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AA%E0%B9%81%E0%B8%99%E0%B8%9B%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%94%2C%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%86%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%2C%20%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B9%88%E0%B8%B3%2C%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B9%86%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%2C%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%86%20%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%86%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%2C%20%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%20JPEG%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%2C%20%E0%B8%94%E0%B8%B9%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A%2C%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%2C%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%0A%0A%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94)**
 
 ---
 
-### No. 3: Multiple Image Edits and Text Replacement
+### No. 3: การแก้ไขรูปภาพหลายรายการและการแทนที่ข้อความ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A complex instructional prompt designed for image editing, requiring multiple specific text replacements, a date change, a visual element replacement (screen content), and a subject pose change (boy facing viewer with thumbs up). This demonstrates the precise editing capabilities of GPT-IMAGE-1.5.
+คำสั่งที่ซับซ้อนสำหรับการแก้ไขรูปภาพ ซึ่งต้องมีการแทนที่ข้อความเฉพาะหลายรายการ การเปลี่ยนวันที่ การแทนที่องค์ประกอบภาพ (เนื้อหาบนหน้าจอ) และการเปลี่ยนท่าทางของตัวแบบ (เด็กชายหันหน้าเข้าหาผู้ชมพร้อมยกนิ้วโป้ง) สิ่งนี้แสดงให้เห็นถึงความสามารถในการแก้ไขที่แม่นยำของ GPT-IMAGE-1.5
 
 #### 📝 คำสั่ง
 
 ```
-Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub header with "Now Available on Comfy Cloud" in Japanese text. Do not interpret the words 'Comfy Cloud', this is the name of a product. Replace the "'83" with "'25". Replace the screen with a node based interface. The boy is facing the viewer with a thumbs up.
+แทนที่ข้อความ "Internet" ด้วย "GPT-IMAGE-1.5" แทนที่หัวข้อย่อยภาษาญี่ปุ่นด้วย "Now Available on Comfy Cloud" ในภาษาญี่ปุ่น ไม่ต้องตีความคำว่า 'Comfy Cloud' เนื่องจากเป็นชื่อผลิตภัณฑ์ แทนที่ "'83" ด้วย "'25" แทนที่หน้าจอด้วยอินเทอร์เฟซแบบโหนด เด็กชายกำลังหันหน้าเข้าหาผู้ชมพร้อมกับยกนิ้วโป้ง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -379,13 +379,13 @@ Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub heade
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231577666_gcsnd3_G8jlrnUbMAQwRfJ.jpg" width="600" alt="Multiple Image Edits and Text Replacement - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231577666_gcsnd3_G8jlrnUbMAQwRfJ.jpg" width="600" alt="การแก้ไขรูปภาพหลายรายการและการแทนที่ข้อความ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231578130_26gqnu_G8jlrv0akAALooL.jpg" width="600" alt="Multiple Image Edits and Text Replacement - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231578130_26gqnu_G8jlrv0akAALooL.jpg" width="600" alt="การแก้ไขรูปภาพหลายรายการและการแทนที่ข้อความ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -395,22 +395,22 @@ Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub heade
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Replace%20the%20text%20%22Internet%22%20with%20%22GPT-IMAGE-1.5%22.%20Replace%20the%20Japanese%20sub%20header%20with%20%22Now%20Available%20on%20Comfy%20Cloud%22%20in%20Japanese%20text.%20Do%20not%20interpret%20the%20words%20'Comfy%20Cloud'%2C%20this%20is%20the%20name%20of%20a%20product.%20Replace%20the%20%22'83%22%20with%20%22'25%22.%20Replace%20the%20screen%20with%20a%20node%20based%20interface.%20The%20boy%20is%20facing%20the%20viewer%20with%20a%20thumbs%20up.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20%22Internet%22%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20%22GPT-IMAGE-1.5%22%20%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20%22Now%20Available%20on%20Comfy%20Cloud%22%20%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B9%88%E0%B8%B2%20'Comfy%20Cloud'%20%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%20%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%22'83%22%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20%22'25%22%20%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9F%E0%B8%8B%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%AB%E0%B8%99%E0%B8%94%20%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%87)**
 
 ---
 
-### No. 4: Festive Wallpaper Prompt
+### No. 4: พรอมต์วอลเปเปอร์ธีมเทศกาล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A prompt used with GPT Image 1.5 to create a 4K wallpaper featuring bright, vibrant colors suitable for a festive, celebratory mood. The user also mentions using an Image Extender tool to resize the output.
+ข้อความแจ้งที่ใช้กับ GPT Image 1.5 เพื่อสร้างวอลเปเปอร์ 4K ที่มีสีสันสดใส เหมาะสำหรับบรรยากาศรื่นเริงเฉลิมฉลอง ผู้ใช้ยังกล่าวถึงการใช้เครื่องมือ Image Extender เพื่อปรับขนาดผลลัพธ์ด้วย
 
 #### 📝 คำสั่ง
 
 ```
-The bright, vibrant colors create a festive, celebratory mood 🎅
+สีสันสดใสและมีชีวิตชีวาช่วยสร้างบรรยากาศที่รื่นเริงและน่าเฉลิมฉลอง 🎅
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -418,13 +418,13 @@ The bright, vibrant colors create a festive, celebratory mood 🎅
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231589093_faay77_G8jbKWyXIAAf1mT.jpg" width="600" alt="Festive Wallpaper Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231589093_faay77_G8jbKWyXIAAf1mT.jpg" width="600" alt="พรอมต์วอลเปเปอร์ธีมเทศกาล - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231589446_qb929e_G8jbPDcWYAAO8Rm.jpg" width="600" alt="Festive Wallpaper Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231589446_qb929e_G8jbPDcWYAAO8Rm.jpg" width="600" alt="พรอมต์วอลเปเปอร์ธีมเทศกาล - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -434,23 +434,22 @@ The bright, vibrant colors create a festive, celebratory mood 🎅
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=The%20bright%2C%20vibrant%20colors%20create%20a%20festive%2C%20celebratory%20mood%20%F0%9F%8E%85)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87%20%F0%9F%8E%85)**
 
 ---
 
-### No. 5: GPT Image 1.5 Style Description for 90s Film Aesthetic
+### No. 5: คำอธิบายสไตล์ GPT Image 1.5 สำหรับสุนทรียภาพภาพยนตร์ยุค 90
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-This text describes the desired output style for an image generation task using GPT Image 1.5, focusing on retaining the decadent mood and texture of 90s cinema while reconstructing the figures realistically. This description acts as a high-level prompt instruction for the model.
+ข้อความนี้อธิบายถึงรูปแบบผลลัพธ์ที่ต้องการสำหรับงานสร้างภาพโดยใช้ GPT Image 1.5 โดยเน้นการคงไว้ซึ่งอารมณ์และพื้นผิวที่หรูหราของภาพยนตร์ยุค 90 ในขณะที่สร้างตัวละครขึ้นมาใหม่ให้ดูสมจริง คำอธิบายนี้ทำหน้าที่เป็นคำสั่งพร้อมต์ระดับสูงสำหรับโมเดล
 
 #### 📝 คำสั่ง
 
 ```
-While maintaining the decadent mood and texture characteristic of 90s films,
-reconstruct only the figures to be realistic.
+ในขณะที่ยังคงรักษาอารมณ์และเนื้อสัมผัสที่หรูหราอันเป็นเอกลักษณ์ของภาพยนตร์ยุค 90 ไว้ ให้สร้างสรรค์เฉพาะตัวละครขึ้นมาใหม่ให้ดูสมจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -458,7 +457,7 @@ reconstruct only the figures to be realistic.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231586172_klag99_G8jGOqpaAAAVTM6.jpg" width="600" alt="GPT Image 1.5 Style Description for 90s Film Aesthetic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231586172_klag99_G8jGOqpaAAAVTM6.jpg" width="600" alt="คำอธิบายสไตล์ GPT Image 1.5 สำหรับสุนทรียภาพภาพยนตร์ยุค 90 - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -468,22 +467,22 @@ reconstruct only the figures to be realistic.
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=While%20maintaining%20the%20decadent%20mood%20and%20texture%20characteristic%20of%2090s%20films%2C%0Areconstruct%20only%20the%20figures%20to%20be%20realistic.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%83%E0%B8%99%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A3%E0%B8%B9%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A2%E0%B8%B8%E0%B8%84%2090%20%E0%B9%84%E0%B8%A7%E0%B9%89%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87)**
 
 ---
 
-### No. 6: Character Visual Update while Preserving Original Atmosphere
+### No. 6: การปรับปรุงภาพลักษณ์ตัวละครพร้อมรักษาบรรยากาศดั้งเดิม
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A prompt aimed at changing a character's visual style to a 'more realistic visual' while keeping the original atmosphere of the anime or manga intact. This is useful for adapting characters to different media styles.
+ข้อความแจ้งที่มุ่งเป้าไปที่การเปลี่ยนสไตล์ภาพของตัวละครให้เป็น "ภาพที่สมจริงยิ่งขึ้น" โดยยังคงบรรยากาศดั้งเดิมของอนิเมะหรือมังงะไว้ไม่เปลี่ยนแปลง ซึ่งมีประโยชน์สำหรับการปรับตัวละครให้เข้ากับสไตล์สื่อที่แตกต่างกัน
 
 #### 📝 คำสั่ง
 
 ```
-Change the character to a “more realistic visual” while keeping the atmosphere of the original work intact.
+เปลี่ยนตัวละครให้เป็น "ภาพที่สมจริงยิ่งขึ้น" โดยยังคงบรรยากาศของผลงานต้นฉบับไว้เหมือนเดิม
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -491,7 +490,7 @@ Change the character to a “more realistic visual” while keeping the atmosphe
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231603946_fjhila_G8jCFumbMAU98mt.jpg" width="600" alt="Character Visual Update while Preserving Original Atmosphere - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231603946_fjhila_G8jCFumbMAU98mt.jpg" width="600" alt="การปรับปรุงภาพลักษณ์ตัวละครพร้อมรักษาบรรยากาศดั้งเดิม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -501,32 +500,32 @@ Change the character to a “more realistic visual” while keeping the atmosphe
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Change%20the%20character%20to%20a%20%E2%80%9Cmore%20realistic%20visual%E2%80%9D%20while%20keeping%20the%20atmosphere%20of%20the%20original%20work%20intact.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%20%22%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%22%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%87%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1)**
 
 ---
 
-### No. 7: Black and White Fine Art Portrait with Selective Color
+### No. 7: ภาพถ่ายบุคคลขาวดำแบบ Fine Art พร้อมสีเฉพาะจุด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-This prompt generates a dramatic black-and-white fine art portrait based on an uploaded image, ensuring 100% face preservation. It uses selective color isolation on a randomly chosen T-shirt color and specifies lighting (chiaroscuro), expression, and texture for a classic, emotionally evocative studio aesthetic.
+พรอมต์นี้สร้างภาพบุคคลขาวดำแบบวิจิตรศิลป์ที่น่าทึ่ง โดยอิงจากภาพที่อัปโหลด และรับประกันการคงสภาพใบหน้าไว้ 100% โดยใช้การแยกสีแบบเลือกเฉพาะกับสีเสื้อยืดที่เลือกแบบสุ่ม และระบุแสง (เคียรอสคูโร), การแสดงออก และพื้นผิว เพื่อให้ได้สุนทรียภาพแบบสตูดิโอคลาสสิกที่กระตุ้นอารมณ์
 
 #### 📝 คำสั่ง
 
 ```
-A dramatic black-and-white fine art portrait of the person in the uploaded picture (preserve face 100%), captured in a close-up, three-quarter profile. Soft directional lighting sculpts the face and upper body, creating deep shadows and a cinematic chiaroscuro effect.
+ภาพบุคคลขาวดำแนววิจิตรศิลป์อันน่าทึ่งของบุคคลในรูปภาพที่อัปโหลด (คงใบหน้าไว้ 100%) ถ่ายแบบโคลสอัพ มุมสามในสี่ แสงทิศทางที่นุ่มนวลช่วยสร้างรูปหน้าและช่วงบนของร่างกาย ทำให้เกิดเงาลึกและเอฟเฟกต์คิอารอสคูโรแบบภาพยนตร์
 
-The subject wears a simple unbranded T-shirt in a randomly chosen solid color: [{argument name="T-shirt color" default="red/ yellow/ black/ white/ teal/ maroon"}].
-Only the T-shirt color is visible — all other elements remain strictly monochromatic black-and-white. Natural fabric folds are clearly visible, with realistic texture and contrast.
+ตัวแบบสวมเสื้อยืดเรียบง่ายไม่มีแบรนด์ สีพื้นแบบสุ่ม: [{argument name="T-shirt color" default="red/ yellow/ black/ white/ teal/ maroon"}]
+เฉพาะสีเสื้อยืดเท่านั้นที่มองเห็นได้ ส่วนประกอบอื่นๆ ทั้งหมดจะยังคงเป็นขาวดำอย่างเคร่งครัด รอยพับของผ้าที่เป็นธรรมชาติมองเห็นได้ชัดเจน พร้อมพื้นผิวและคอนทราสต์ที่สมจริง
 
-The subject’s expression is [{argument name="emotion" default="calm / introspective / confident / serene / melancholic"}], with relaxed features and a gentle gaze directed [{argument name="gaze direction" default="TOWARDS THE CAMERA / AWAY / DOWNWARD"}].
+สีหน้าของตัวแบบคือ [{argument name="emotion" default="calm / introspective / confident / serene / melancholic"}] พร้อมใบหน้าที่ผ่อนคลายและสายตาที่อ่อนโยนซึ่งหันไปทาง [{argument name="gaze direction" default="TOWARDS THE CAMERA / AWAY / DOWNWARD"}]
 
-Skin texture appears natural and detailed, with smooth tonal transitions. Styling is minimal, emphasizing light, form, and emotion rather than fashion. A dark, unobtrusive background fades into black, creating a timeless studio portrait aesthetic.
+พื้นผิวของผิวดูเป็นธรรมชาติและมีรายละเอียด พร้อมการเปลี่ยนโทนสีที่ราบรื่น การจัดแต่งทรงผมมีน้อย เน้นแสง รูปทรง และอารมณ์มากกว่าแฟชั่น พื้นหลังสีเข้มที่ไม่สร้างความรำคาญจะจางหายไปเป็นสีดำ สร้างสุนทรียภาพของภาพบุคคลสตูดิโอเหนือกาลเวลา
 
-High-contrast monochrome tones with selective color isolation on the T-shirt only, subtle film grain, shallow depth of field, classic fine-art photography style. Ultra-high resolution, professional studio quality, intimate, elegant, emotionally evocative."
+โทนสีขาวดำที่มีคอนทราสต์สูงพร้อมการแยกสีเฉพาะจุดบนเสื้อยืดเท่านั้น เกรนฟิล์มที่ละเอียดอ่อน ระยะชัดตื้น สไตล์การถ่ายภาพวิจิตรศิลป์แบบคลาสสิก ความละเอียดสูงเป็นพิเศษ คุณภาพสตูดิโอระดับมืออาชีพ ให้ความรู้สึกใกล้ชิด สง่างาม กระตุ้นอารมณ์
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -534,7 +533,7 @@ High-contrast monochrome tones with selective color isolation on the T-shirt onl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231584465_8hx561_G8igvd3acAEikLs.jpg" width="600" alt="Black and White Fine Art Portrait with Selective Color - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231584465_8hx561_G8igvd3acAEikLs.jpg" width="600" alt="ภาพถ่ายบุคคลขาวดำแบบ Fine Art พร้อมสีเฉพาะจุด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -544,22 +543,22 @@ High-contrast monochrome tones with selective color isolation on the T-shirt onl
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=A%20dramatic%20black-and-white%20fine%20art%20portrait%20of%20the%20person%20in%20the%20uploaded%20picture%20(preserve%20face%20100%25)%2C%20captured%20in%20a%20close-up%2C%20three-quarter%20profile.%20Soft%20directional%20lighting%20sculpts%20the%20face%20and%20upper%20body%2C%20creating%20deep%20shadows%20and%20a%20cinematic%20chiaroscuro%20effect.%0A%0AThe%20subject%20wears%20a%20simple%20unbranded%20T-shirt%20in%20a%20randomly%20chosen%20solid%20color%3A%20%5B%7Bargument%20name%3D%22T-shirt%20color%22%20default%3D%22red%2F%20yellow%2F%20black%2F%20white%2F%20teal%2F%20maroon%22%7D%5D.%0AOnly%20the%20T-shirt%20color%20is%20visible%20%E2%80%94%20all%20other%20elements%20remain%20strictly%20monochromatic%20black-and-white.%20Natural%20fabric%20folds%20are%20clearly%20visible%2C%20with%20realistic%20texture%20and%20contrast.%0A%0AThe%20subject%E2%80%99s%20expression%20is%20%5B%7Bargument%20name%3D%22emotion%22%20default%3D%22calm%20%2F%20introspective%20%2F%20confident%20%2F%20serene%20%2F%20melancholic%22%7D%5D%2C%20with%20relaxed%20features%20and%20a%20gentle%20gaze%20directed%20%5B%7Bargument%20name%3D%22gaze%20direction%22%20default%3D%22TOWARDS%20THE%20CAMERA%20%2F%20AWAY%20%2F%20DOWNWARD%22%7D%5D.%0A%0ASkin%20texture%20appears%20natural%20and%20detailed%2C%20with%20smooth%20tonal%20transitions.%20Styling%20is%20minimal%2C%20emphasizing%20light%2C%20form%2C%20and%20emotion%20rather%20than%20fashion.%20A%20dark%2C%20unobtrusive%20background%20fades%20into%20black%2C%20creating%20a%20timeless%20studio%20portrait%20aesthetic.%0A%0AHigh-contrast%20monochrome%20tones%20with%20selective%20color%20isolation%20on%20the%20T-shirt%20only%2C%20subtle%20film%20grain%2C%20shallow%20depth%20of%20field%2C%20classic%20fine-art%20photography%20style.%20Ultra-high%20resolution%2C%20professional%20studio%20quality%2C%20intimate%2C%20elegant%2C%20emotionally%20evocative.%22)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%20(%E0%B8%84%E0%B8%87%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B9%89%20100%25)%20%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%AA%E0%B8%AD%E0%B8%B1%E0%B8%9E%20%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B9%88%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%20%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B8%84%E0%B8%B4%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AA%E0%B8%84%E0%B8%B9%E0%B9%82%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%0A%0A%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B7%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%20%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%B8%E0%B9%88%E0%B8%A1%3A%20%5B%7Bargument%20name%3D%22T-shirt%20color%22%20default%3D%22red%2F%20yellow%2F%20black%2F%20white%2F%20teal%2F%20maroon%22%7D%5D%0A%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B7%E0%B8%94%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%20%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86%20%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%88%E0%B8%B0%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%94%20%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%0A%0A%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%B7%E0%B8%AD%20%5B%7Bargument%20name%3D%22emotion%22%20default%3D%22calm%20%2F%20introspective%20%2F%20confident%20%2F%20serene%20%2F%20melancholic%22%7D%5D%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%99%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B2%E0%B8%87%20%5B%7Bargument%20name%3D%22gaze%20direction%22%20default%3D%22TOWARDS%20THE%20CAMERA%20%2F%20AWAY%20%2F%20DOWNWARD%22%7D%5D%0A%0A%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%94%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87%20%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%97%E0%B8%A3%E0%B8%87%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B3%E0%B8%84%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%0A%0A%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B7%E0%B8%94%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%20%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B7%E0%B9%89%E0%B8%99%20%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%20%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%8A%E0%B8%B4%E0%B8%94%20%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C)**
 
 ---
 
-### No. 8: Cool Illustration of Ouroboros
+### No. 8: ภาพประกอบสุดเจ๋งของ Ouroboros
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A simple Japanese prompt requesting a cool illustration of the Ouroboros—two snakes eating each other—symbolizing a closed system.
+คำสั่งง่าย ๆ ในภาษาญี่ปุ่นที่ขอภาพประกอบ Ouroboros สุดเท่ ซึ่งเป็นงูสองตัวที่กินกันเอง สื่อถึงระบบปิด
 
 #### 📝 คำสั่ง
 
 ```
-Generate an image that coolly depicts an illustration of the Ouroboros, two snakes eating each other, symbolizing a closed system.
+สร้างภาพประกอบ Ouroboros ที่ดูเท่ ๆ โดยมีงูสองตัวกำลังกินกันเอง ซึ่งเป็นสัญลักษณ์ของระบบปิด
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -567,7 +566,7 @@ Generate an image that coolly depicts an illustration of the Ouroboros, two snak
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231582278_m6q20m_G8iDpy8aAAAJ7eb.jpg" width="600" alt="Cool Illustration of Ouroboros - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231582278_m6q20m_G8iDpy8aAAAJ7eb.jpg" width="600" alt="ภาพประกอบสุดเจ๋งของ Ouroboros - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -577,67 +576,67 @@ Generate an image that coolly depicts an illustration of the Ouroboros, two snak
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Generate%20an%20image%20that%20coolly%20depicts%20an%20illustration%20of%20the%20Ouroboros%2C%20two%20snakes%20eating%20each%20other%2C%20symbolizing%20a%20closed%20system.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%20Ouroboros%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B9%80%E0%B8%97%E0%B9%88%20%E0%B9%86%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%87%E0%B8%B9%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9B%E0%B8%B4%E0%B8%94)**
 
 ---
 
-### No. 9: Aesthetic Hairstyle Comparison Grid
+### No. 9: ตารางเปรียบเทียบทรงผมที่สวยงาม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A highly structured prompt for GPT Image 1.5 designed to create a clean, aesthetic 3x3 collage portrait comparing nine different men's hairstyles on the same young man. It specifies subject details, environment, lighting (soft sunset golden-hour), camera settings, and wardrobe to ensure consistency across the grid.
+นี่คือพรอมต์ที่มีโครงสร้างสูงสำหรับ GPT Image 1.5 ที่ออกแบบมาเพื่อสร้างภาพคอลลาจแนวตั้งขนาด 3x3 ที่ดูสะอาดตาและสวยงาม โดยเปรียบเทียบทรงผมผู้ชาย 9 แบบที่แตกต่างกันบนชายหนุ่มคนเดียวกัน พรอมต์นี้ระบุรายละเอียดของตัวแบบ สภาพแวดล้อม แสง (แสงอาทิตย์อ่อน ๆ ในช่วง Golden Hour) การตั้งค่ากล้อง และเครื่องแต่งกาย เพื่อให้มั่นใจถึงความสอดคล้องกันทั่วทั้งตาราง
 
 #### 📝 คำสั่ง
 
 ```
-description: "A clean, aesthetic 3x3 collage portrait showcasing different men's hairstyles. The same young man is captured in each frame, positioned in consistent lighting and pose, creating a style comparison grid.",
+description: "ภาพคอลลาจแนวตั้งขนาด 3x3 ที่ดูสะอาดตาและสวยงาม แสดงทรงผมผู้ชายแบบต่างๆ ชายหนุ่มคนเดียวกันถูกถ่ายในแต่ละเฟรม โดยจัดวางในแสงและท่าทางที่สอดคล้องกัน สร้างตารางเปรียบเทียบสไตล์",
 
   "subject": {
-    "type": "young man",
-    "age": "early 20s",
-    "skin_tone": "medium with smooth texture",
-    "facial_features": "sharp jawline, well-groomed beard stubble, symmetrical face",
-    "expression": "neutral and confident"
+    "type": "ชายหนุ่ม",
+    "age": "ช่วงอายุ 20 ต้นๆ",
+    "skin_tone": "ผิวสีกลางพร้อมผิวสัมผัสเรียบเนียน",
+    "facial_features": "กรามคมชัด, หนวดเคราที่จัดแต่งอย่างดี, ใบหน้าสมมาตร",
+    "expression": "เป็นกลางและมั่นใจ"
   },
 
   "hairstyles": [
-    "{argument name="hairstyle 1" default="clean shaved buzz cut"}",
-    "{argument name="hairstyle 2" default="slicked back classic hairstyle"}",
-    "{argument name="hairstyle 3" default="medium wavy long hair"}",
-    "{argument name="hairstyle 4" default="short textured fringe"}",
-    "{argument name="hairstyle 5" default="voluminous messy hairstyle"}",
-    "{argument name="hairstyle 6" default="man bun"}",
-    "{argument name="hairstyle 7" default="cornrow braids"}",
-    "{argument name="hairstyle 8" default="side swept modern fade"}",
-    "{argument name="hairstyle 9" default="tight curly textured cut"}"
+    "{argument name="hairstyle 1" default="ทรงผมสกินเฮดเกลี้ยงเกลา"}",
+    "{argument name="hairstyle 2" default="ทรงผมคลาสสิกแบบเสยไปด้านหลัง"}",
+    "{argument name="hairstyle 3" default="ผมยาวปานกลางแบบมีคลื่น"}",
+    "{argument name="hairstyle 4" default="หน้าม้าสั้นแบบมีเท็กซ์เจอร์"}",
+    "{argument name="hairstyle 5" default="ทรงผมยุ่งๆ แบบมีวอลลุ่ม"}",
+    "{argument name="hairstyle 6" default="มวยผมผู้ชาย"}",
+    "{argument name="hairstyle 7" default="ถักเปีย Cornrow"}",
+    "{argument name="hairstyle 8" default="ทรงผมเฟดปาดข้างแบบโมเดิร์น"}",
+    "{argument name="hairstyle 9" default="ผมหยิกแน่นแบบมีเท็กซ์เจอร์"}"
   ],
 
   "environment": {
-    "location": "outdoor courtyard with white architecture arches",
-    "lighting": "soft sunset golden-hour lighting",
-    "background": "slightly blurred but clean and minimal"
+    "location": "ลานกลางแจ้งที่มีซุ้มประตูสถาปัตยกรรมสีขาว",
+    "lighting": "แสงอาทิตย์ยามเย็นสีทองนุ่มนวล",
+    "background": "เบลอเล็กน้อยแต่สะอาดและเรียบง่าย"
   },
 
   "camera": {
-    "shot": "shoulder-level portrait",
-    "angle": "eye-level",
-    "lens": "standard lens (50mm)",
-    "composition": "consistent framing for all nine shots"
+    "shot": "ภาพบุคคลระดับไหล่",
+    "angle": "ระดับสายตา",
+    "lens": "เลนส์มาตรฐาน (50 มม.)",
+    "composition": "จัดองค์ประกอบภาพที่สอดคล้องกันสำหรับทั้งเก้าภาพ"
   },
 
   "wardrobe": {
-    "top": "plain fitted white t-shirt",
-    "style": "minimal, clean, modern"
+    "top": "เสื้อยืดสีขาวเข้ารูปเรียบๆ",
+    "style": "เรียบง่าย, สะอาด, ทันสมัย"
   },
 
   "mood": [
-    "stylish",
-    "fresh",
-    "groomed",
-    "aesthetic"
+    "มีสไตล์",
+    "สดชื่น",
+    "ดูแลเป็นอย่างดี",
+    "สวยงาม"
   ]
 }
 ```
@@ -647,7 +646,7 @@ description: "A clean, aesthetic 3x3 collage portrait showcasing different men's
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231593838_eidf4r_G8h8zv3agAA1BOi.jpg" width="600" alt="Aesthetic Hairstyle Comparison Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231593838_eidf4r_G8h8zv3agAA1BOi.jpg" width="600" alt="ตารางเปรียบเทียบทรงผมที่สวยงาม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -657,22 +656,22 @@ description: "A clean, aesthetic 3x3 collage portrait showcasing different men's
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=description%3A%20%22A%20clean%2C%20aesthetic%203x3%20collage%20portrait%20showcasing%20different%20men's%20hairstyles.%20The%20same%20young%20man%20is%20captured%20in%20each%20frame%2C%20positioned%20in%20consistent%20lighting%20and%20pose%2C%20creating%20a%20style%20comparison%20grid.%22%2C%0A%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22young%20man%22%2C%0A%20%20%20%20%22age%22%3A%20%22early%2020s%22%2C%0A%20%20%20%20%22skin_tone%22%3A%20%22medium%20with%20smooth%20texture%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22sharp%20jawline%2C%20well-groomed%20beard%20stubble%2C%20symmetrical%20face%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutral%20and%20confident%22%0A%20%20%7D%2C%0A%0A%20%20%22hairstyles%22%3A%20%5B%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%201%22%20default%3D%22clean%20shaved%20buzz%20cut%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%202%22%20default%3D%22slicked%20back%20classic%20hairstyle%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%203%22%20default%3D%22medium%20wavy%20long%20hair%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%204%22%20default%3D%22short%20textured%20fringe%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%205%22%20default%3D%22voluminous%20messy%20hairstyle%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%206%22%20default%3D%22man%20bun%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%207%22%20default%3D%22cornrow%20braids%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%208%22%20default%3D%22side%20swept%20modern%20fade%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%209%22%20default%3D%22tight%20curly%20textured%20cut%22%7D%22%0A%20%20%5D%2C%0A%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22outdoor%20courtyard%20with%20white%20architecture%20arches%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22soft%20sunset%20golden-hour%20lighting%22%2C%0A%20%20%20%20%22background%22%3A%20%22slightly%20blurred%20but%20clean%20and%20minimal%22%0A%20%20%7D%2C%0A%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22shot%22%3A%20%22shoulder-level%20portrait%22%2C%0A%20%20%20%20%22angle%22%3A%20%22eye-level%22%2C%0A%20%20%20%20%22lens%22%3A%20%22standard%20lens%20(50mm)%22%2C%0A%20%20%20%20%22composition%22%3A%20%22consistent%20framing%20for%20all%20nine%20shots%22%0A%20%20%7D%2C%0A%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22plain%20fitted%20white%20t-shirt%22%2C%0A%20%20%20%20%22style%22%3A%20%22minimal%2C%20clean%2C%20modern%22%0A%20%20%7D%2C%0A%0A%20%20%22mood%22%3A%20%5B%0A%20%20%20%20%22stylish%22%2C%0A%20%20%20%20%22fresh%22%2C%0A%20%20%20%20%22groomed%22%2C%0A%20%20%20%20%22aesthetic%22%0A%20%20%5D%0A%7D)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=description%3A%20%22%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B8%B2%E0%B8%88%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%203x3%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1%20%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%9F%E0%B8%A3%E0%B8%A1%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%22%2C%0A%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%22%2C%0A%20%20%20%20%22age%22%3A%20%22%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2020%20%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%86%22%2C%0A%20%20%20%20%22skin_tone%22%3A%20%22%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%AA%E0%B8%B5%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%99%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%2C%20%E0%B8%AB%E0%B8%99%E0%B8%A7%E0%B8%94%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B5%2C%20%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%88%22%0A%20%20%7D%2C%0A%0A%20%20%22hairstyles%22%3A%20%5B%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%201%22%20default%3D%22%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B2%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%202%22%20default%3D%22%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%AA%E0%B8%A2%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%203%22%20default%3D%22%E0%B8%9C%E0%B8%A1%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%204%22%20default%3D%22%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%205%22%20default%3D%22%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%86%20%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%206%22%20default%3D%22%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%A1%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%207%22%20default%3D%22%E0%B8%96%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%20Cornrow%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%208%22%20default%3D%22%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B9%80%E0%B8%9F%E0%B8%94%E0%B8%9B%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%209%22%20default%3D%22%E0%B8%9C%E0%B8%A1%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%22%7D%22%0A%20%20%5D%2C%0A%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8B%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%22%2C%0A%20%20%20%20%22background%22%3A%20%22%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%22%0A%20%20%7D%2C%0A%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22shot%22%3A%20%22%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%22%2C%0A%20%20%20%20%22lens%22%3A%20%22%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%20(50%20%E0%B8%A1%E0%B8%A1.)%22%2C%0A%20%20%20%20%22composition%22%3A%20%22%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%9E%22%0A%20%20%7D%2C%0A%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B7%E0%B8%94%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%86%22%2C%0A%20%20%20%20%22style%22%3A%20%22%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%2C%20%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%2C%20%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2%22%0A%20%20%7D%2C%0A%0A%20%20%22mood%22%3A%20%5B%0A%20%20%20%20%22%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%22%2C%0A%20%20%20%20%22%E0%B8%AA%E0%B8%94%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%22%2C%0A%20%20%20%20%22%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B5%22%2C%0A%20%20%20%20%22%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1%22%0A%20%20%5D%0A%7D)**
 
 ---
 
-### No. 10: Candid Cinematic Lifestyle Photograph of Father and Child
+### No. 10: ภาพถ่ายไลฟ์สไตล์แบบภาพยนตร์ที่ดูเป็นธรรมชาติของพ่อและลูก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A highly detailed prompt for generating a candid, cinematic lifestyle photograph. It specifies the subjects (tired father and young child), setting (dimly lit living room, vintage couch), actions (father holding remote, child eating chips), lighting (soft, moody tungsten), and photographic style (low, front-facing angle, slight wide-angle distortion, documentary feel).
+ข้อความแจ้งที่ละเอียดมากสำหรับการสร้างภาพถ่ายไลฟ์สไตล์แบบเป็นธรรมชาติและเหมือนภาพยนตร์ โดยระบุตัวแบบ (พ่อที่เหนื่อยล้าและลูกเล็ก), ฉาก (ห้องนั่งเล่นสลัว ๆ, โซฟาวินเทจ), การกระทำ (พ่อถือรีโมต, ลูกกินมันฝรั่งทอด), แสง (แสงทังสเตนที่นุ่มนวลและให้ความรู้สึก), และสไตล์การถ่ายภาพ (มุมต่ำ, หันหน้าเข้าหา, การบิดเบือนมุมกว้างเล็กน้อย, ให้ความรู้สึกเหมือนสารคดี)
 
 #### 📝 คำสั่ง
 
 ```
-A candid, cinematic lifestyle photograph of a tired father and his young child sitting together on a worn vintage couch in a dimly lit living room at night. The father recline casually, holding a TV remote toward the camera with one hand while drinking from a glass bottle with the other, relaxed yet exhausted. Beside him, the child sits quietly with a bowl of potato chips, wide-eyed and absorbed in whatever is playing on the television. Soft, moody tungsten lighting casts gentle shadows on the wall behind them, creating an intimate, realistic atmosphere. Shot from a low, front-facing angle with slight wide-angle distortion for a raw, documentary feel.
+ภาพถ่ายไลฟ์สไตล์แบบ candid สไตล์ภาพยนตร์ของพ่อที่เหนื่อยล้ากับลูกเล็กที่กำลังนั่งอยู่ด้วยกันบนโซฟาวินเทจเก่า ๆ ในห้องนั่งเล่นที่สลัว ๆ ยามค่ำคืน พ่อเอนกายอย่างสบาย ๆ ถือรีโมททีวีหันเข้าหากล้องด้วยมือข้างหนึ่ง ขณะที่อีกมือหนึ่งกำลังดื่มจากขวดแก้ว ดูผ่อนคลายแต่ก็เหนื่อยล้า ข้าง ๆ เขา ลูกนั่งเงียบ ๆ พร้อมชามมันฝรั่งทอดกรอบ ตาเบิกกว้างและจดจ่ออยู่กับสิ่งที่กำลังฉายอยู่บนโทรทัศน์ แสงไฟทังสเตนที่นุ่มนวลและชวนฝันสาดเงาเบา ๆ บนผนังด้านหลัง สร้างบรรยากาศที่ใกล้ชิดและสมจริง ถ่ายจากมุมต่ำด้านหน้าเล็กน้อย พร้อมการบิดเบือนมุมกว้างเล็กน้อย เพื่อให้ได้ความรู้สึกดิบ ๆ แบบสารคดี
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -680,7 +679,7 @@ A candid, cinematic lifestyle photograph of a tired father and his young child s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231577629_m4ebx7_G8h7cgFagAAviYp.jpg" width="600" alt="Candid Cinematic Lifestyle Photograph of Father and Child - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231577629_m4ebx7_G8h7cgFagAAviYp.jpg" width="600" alt="ภาพถ่ายไลฟ์สไตล์แบบภาพยนตร์ที่ดูเป็นธรรมชาติของพ่อและลูก - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -690,22 +689,22 @@ A candid, cinematic lifestyle photograph of a tired father and his young child s
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=A%20candid%2C%20cinematic%20lifestyle%20photograph%20of%20a%20tired%20father%20and%20his%20young%20child%20sitting%20together%20on%20a%20worn%20vintage%20couch%20in%20a%20dimly%20lit%20living%20room%20at%20night.%20The%20father%20recline%20casually%2C%20holding%20a%20TV%20remote%20toward%20the%20camera%20with%20one%20hand%20while%20drinking%20from%20a%20glass%20bottle%20with%20the%20other%2C%20relaxed%20yet%20exhausted.%20Beside%20him%2C%20the%20child%20sits%20quietly%20with%20a%20bowl%20of%20potato%20chips%2C%20wide-eyed%20and%20absorbed%20in%20whatever%20is%20playing%20on%20the%20television.%20Soft%2C%20moody%20tungsten%20lighting%20casts%20gentle%20shadows%20on%20the%20wall%20behind%20them%2C%20creating%20an%20intimate%2C%20realistic%20atmosphere.%20Shot%20from%20a%20low%2C%20front-facing%20angle%20with%20slight%20wide-angle%20distortion%20for%20a%20raw%2C%20documentary%20feel.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A%20candid%20%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B9%82%E0%B8%8B%E0%B8%9F%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%88%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%20%E0%B9%86%20%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%A7%20%E0%B9%86%20%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%84%E0%B8%B7%E0%B8%99%20%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%20%E0%B9%86%20%E0%B8%96%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%20%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%20%E0%B8%94%E0%B8%B9%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%81%E0%B9%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%89%E0%B8%B2%20%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%20%E0%B9%86%20%E0%B9%80%E0%B8%82%E0%B8%B2%20%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B8%A2%E0%B8%9A%20%E0%B9%86%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%88%E0%B8%94%E0%B8%88%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%97%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%B2%20%E0%B9%86%20%E0%B8%9A%E0%B8%99%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%B3%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B8%9A%20%E0%B9%86%20%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5)**
 
 ---
 
-### No. 11: Harajuku Decora Pop Art Poster of Aniko
+### No. 11: โปสเตอร์ Harajuku Decora Pop Art ของ Aniko
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A highly detailed, structured prompt designed to transform an existing character (Aniko) into a maximalist, high-energy Harajuku Decora and Y2K fashion icon poster art. It emphasizes visual information overload, dynamic composition, and specific typographic requirements for a 'Kawaii' aesthetic.
+ข้อความแจ้งที่ละเอียดและมีโครงสร้างสูง ซึ่งออกแบบมาเพื่อเปลี่ยนตัวละครที่มีอยู่ (Aniko) ให้กลายเป็นงานศิลปะโปสเตอร์สไตล์ Harajuku Decora และ Y2K ที่เน้นความจัดจ้านและพลังงานสูง โดยเน้นข้อมูลภาพที่ล้นหลาม องค์ประกอบที่เคลื่อนไหว และข้อกำหนดด้านการพิมพ์เฉพาะสำหรับสุนทรียภาพแบบ 'Kawaii'
 
 #### 📝 คำสั่ง
 
 ```
-【Request for Production: Character 'Kawaii' Remix】 Using the attached image of the character (Aniko) as a model, could you draw a highly dense and vibrant poster art where she has become a Harajuku fashion icon? 【Points to Infer】 Outfit Upgrade: Do not be constrained by the 'school uniform' element of the original image. Based on her hair color and eye color, devise a much flashier outfit, heavily accessorized, based on **'Harajuku Decora' and 'Y2K fashion'**. (Examples: layered colorful hoodies, frilled skirts, platform sneakers, excessive amounts of hairpins and plastic accessories, etc.) Space Direction: Please use an art style that fills in all 'empty space'. Scatter bursting candies, stars, hearts, ribbons, and comic-style effects like 'BAM!' and 'POP!' in the background to express a **'visually information-overloaded happiness'** like an overturned toy box. Composition and Pose: Use a defenseless, floating pose, as if released from gravity and floating in the air, or lying on a bed and photographed from above. A dynamic composition that uses ultra-wide-angle lens perspective to make hands, feet, and shoes appear large would be appreciated. Typography: Design the text **'ANIKO'** as a shiny, balloon-like 3D logo and place it prominently as the main element of the screen. 【Target Visual】 The violence of 'Kawaii'. Aim for a supremely high-tension pop art that is overflowing with color and feels like your brain is melting just by looking at it. 【Highest Priority】 My instructions are only references for direction; please prioritize the highest quality visual outcome and select or discard my information accordingly. --stylize 1400 --ar 16:9
+【คำขอผลิต: การรีมิกซ์ตัวละคร 'Kawaii'】 โดยใช้อิมเมจตัวละคร (Aniko) ที่แนบมาเป็นแบบ คุณช่วยวาดโปสเตอร์อาร์ตที่หนาแน่นและมีชีวิตชีวามาก ๆ โดยที่เธอได้กลายเป็นแฟชั่นไอคอนสไตล์ฮาราจูกุได้ไหม? 【ประเด็นที่ต้องตีความ】 การอัปเกรดเครื่องแต่งกาย: อย่าจำกัดอยู่แค่ชุดนักเรียนตามภาพต้นฉบับ จากสีผมและสีตาของเธอ ให้ออกแบบชุดที่ฉูดฉาดมากขึ้น มีเครื่องประดับเยอะ ๆ โดยอิงจาก **'Harajuku Decora' และ 'Y2K fashion'** (ตัวอย่าง: เสื้อฮู้ดสีสันสดใสหลายชั้น, กระโปรงจีบระบาย, รองเท้าผ้าใบเสริมส้น, กิ๊บติดผมและเครื่องประดับพลาสติกจำนวนมาก ฯลฯ) ทิศทางของพื้นที่: โปรดใช้สไตล์ศิลปะที่เติมเต็ม 'พื้นที่ว่างเปล่า' ทั้งหมด กระจายลูกอมที่กำลังแตกออก, ดวงดาว, หัวใจ, ริบบิ้น และเอฟเฟกต์สไตล์การ์ตูน เช่น 'BAM!' และ 'POP!' ในพื้นหลัง เพื่อแสดงถึง **'ความสุขที่เต็มไปด้วยข้อมูลทางสายตา'** เหมือนกล่องของเล่นที่ถูกคว่ำลง องค์ประกอบและท่าทาง: ใช้ท่าทางที่ดูไร้เดียงสา ลอยตัว ราวกับหลุดพ้นจากแรงโน้มถ่วงและลอยอยู่ในอากาศ หรือนอนอยู่บนเตียงและถ่ายภาพจากด้านบน การจัดองค์ประกอบแบบไดนามิกที่ใช้มุมมองเลนส์มุมกว้างพิเศษเพื่อให้มือ เท้า และรองเท้าดูใหญ่ จะเป็นที่ชื่นชม การจัดวางตัวอักษร: ออกแบบข้อความ **'ANIKO'** ให้เป็นโลโก้ 3D ที่แวววาวเหมือนลูกโป่ง และวางไว้โดดเด่นเป็นองค์ประกอบหลักของหน้าจอ 【ภาพเป้าหมาย】 ความรุนแรงของ 'Kawaii' มุ่งเป้าไปที่ป๊อปอาร์ตที่มีความตึงเครียดสูงมาก ล้นไปด้วยสีสัน และให้ความรู้สึกเหมือนสมองของคุณกำลังละลายเพียงแค่ได้มองมัน 【ความสำคัญสูงสุด】 คำแนะนำของฉันเป็นเพียงแนวทางเท่านั้น โปรดให้ความสำคัญกับผลลัพธ์ภาพที่มีคุณภาพสูงสุด และเลือกหรือทิ้งข้อมูลของฉันตามความเหมาะสม --stylize 1400 --ar 16:9
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -713,13 +712,13 @@ A highly detailed, structured prompt designed to transform an existing character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231609413_8k2390_G8h28ACbMAAoaKI.jpg" width="600" alt="Harajuku Decora Pop Art Poster of Aniko - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231609413_8k2390_G8h28ACbMAAoaKI.jpg" width="600" alt="โปสเตอร์ Harajuku Decora Pop Art ของ Aniko - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231611706_iki9ma_G8h2aPrbsAA5gvx.jpg" width="600" alt="Harajuku Decora Pop Art Poster of Aniko - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231611706_iki9ma_G8h2aPrbsAA5gvx.jpg" width="600" alt="โปสเตอร์ Harajuku Decora Pop Art ของ Aniko - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -729,23 +728,23 @@ A highly detailed, structured prompt designed to transform an existing character
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E3%80%90Request%20for%20Production%3A%20Character%20'Kawaii'%20Remix%E3%80%91%20Using%20the%20attached%20image%20of%20the%20character%20(Aniko)%20as%20a%20model%2C%20could%20you%20draw%20a%20highly%20dense%20and%20vibrant%20poster%20art%20where%20she%20has%20become%20a%20Harajuku%20fashion%20icon%3F%20%E3%80%90Points%20to%20Infer%E3%80%91%20Outfit%20Upgrade%3A%20Do%20not%20be%20constrained%20by%20the%20'school%20uniform'%20element%20of%20the%20original%20image.%20Based%20on%20her%20hair%20color%20and%20eye%20color%2C%20devise%20a%20much%20flashier%20outfit%2C%20heavily%20accessorized%2C%20based%20on%20**'Harajuku%20Decora'%20and%20'Y2K%20fashion'**.%20(Examples%3A%20layered%20colorful%20hoodies%2C%20frilled%20skirts%2C%20platform%20sneakers%2C%20excessive%20amounts%20of%20hairpins%20and%20plastic%20accessories%2C%20etc.)%20Space%20Direction%3A%20Please%20use%20an%20art%20style%20that%20fills%20in%20all%20'empty%20space'.%20Scatter%20bursting%20candies%2C%20stars%2C%20hearts%2C%20ribbons%2C%20and%20comic-style%20effects%20like%20'BAM!'%20and%20'POP!'%20in%20the%20background%20to%20express%20a%20**'visually%20information-overloaded%20happiness'**%20like%20an%20overturned%20toy%20box.%20Composition%20and%20Pose%3A%20Use%20a%20defenseless%2C%20floating%20pose%2C%20as%20if%20released%20from%20gravity%20and%20floating%20in%20the%20air%2C%20or%20lying%20on%20a%20bed%20and%20photographed%20from%20above.%20A%20dynamic%20composition%20that%20uses%20ultra-wide-angle%20lens%20perspective%20to%20make%20hands%2C%20feet%2C%20and%20shoes%20appear%20large%20would%20be%20appreciated.%20Typography%3A%20Design%20the%20text%20**'ANIKO'**%20as%20a%20shiny%2C%20balloon-like%203D%20logo%20and%20place%20it%20prominently%20as%20the%20main%20element%20of%20the%20screen.%20%E3%80%90Target%20Visual%E3%80%91%20The%20violence%20of%20'Kawaii'.%20Aim%20for%20a%20supremely%20high-tension%20pop%20art%20that%20is%20overflowing%20with%20color%20and%20feels%20like%20your%20brain%20is%20melting%20just%20by%20looking%20at%20it.%20%E3%80%90Highest%20Priority%E3%80%91%20My%20instructions%20are%20only%20references%20for%20direction%3B%20please%20prioritize%20the%20highest%20quality%20visual%20outcome%20and%20select%20or%20discard%20my%20information%20accordingly.%20--stylize%201400%20--ar%2016%3A9)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E3%80%90%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%3A%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%20'Kawaii'%E3%80%91%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%20(Aniko)%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%99%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%20%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%81%20%E0%B9%86%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B9%E0%B8%81%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1%3F%20%E3%80%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E3%80%91%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%3A%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B8%9C%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B9%E0%B8%94%E0%B8%89%E0%B8%B2%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%20%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A2%E0%B8%AD%E0%B8%B0%20%E0%B9%86%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%20**'Harajuku%20Decora'%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20'Y2K%20fashion'**%20(%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%3A%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%2C%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%A2%2C%20%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B9%89%E0%B8%99%2C%20%E0%B8%81%E0%B8%B4%E0%B9%8A%E0%B8%9A%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81%20%E0%B8%AF%E0%B8%A5%E0%B8%AF)%20%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%3A%20%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%20'%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%B2'%20%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%81%2C%20%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A7%2C%20%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%2C%20%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%20%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%99%20'BAM!'%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20'POP!'%20%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%96%E0%B8%B6%E0%B8%87%20**'%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2'**%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B8%A7%E0%B9%88%E0%B8%B3%E0%B8%A5%E0%B8%87%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%3A%20%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2%20%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%20%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B8%9E%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%82%E0%B8%99%E0%B9%89%E0%B8%A1%E0%B8%96%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B7%E0%B8%AD%20%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A1%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%3A%20%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20**'ANIKO'**%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%203D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A7%E0%B8%A7%E0%B8%A7%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%82%E0%B8%9B%E0%B9%88%E0%B8%87%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD%20%E3%80%90%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E3%80%91%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%20'Kawaii'%20%E0%B8%A1%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81%20%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99%20%E3%80%90%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E3%80%91%20%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%A1%20--stylize%201400%20--ar%2016%3A9)**
 
 ---
 
-### No. 12: 3D Kawaii Seasonal Sticker Sheet
+### No. 12: สติกเกอร์ชีท Kawaii 3D ลายตามฤดูกาล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A prompt designed to create a 3D kawaii-style sticker sheet (2:3 canvas) featuring nine chibi stickers dressed in various seasonal and holiday outfits. It specifies details like white borders, shadow effects, festive speech bubbles with phrases, and a soft gradient background, intended for WhatsApp sharing.
+ข้อความแจ้งที่ออกแบบมาเพื่อสร้างแผ่นสติกเกอร์ 3D สไตล์คาวาอี้ (ขนาด 2:3) ที่มีสติกเกอร์จิบิเก้าตัวในชุดเสื้อผ้าตามฤดูกาลและวันหยุดต่างๆ โดยระบุรายละเอียด เช่น ขอบสีขาว, เอฟเฟกต์เงา, ฟองคำพูดเทศกาลพร้อมวลี และพื้นหลังแบบไล่ระดับสีอ่อน ซึ่งมีวัตถุประสงค์เพื่อแชร์บน WhatsApp
 
 #### 📝 คำสั่ง
 
 ```
-Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in seasonal and holiday-themed outfits including {argument name="theme 1" default="Christmas"}, {argument name="theme 2" default="Halloween"}, {argument name="theme 3" default="summer beach"}, {argument name="theme 4" default="winter cozy"}, {argument name="theme 5" default="spring flowers"}, {argument name="theme 6" default="autumn leaves"}, {argument name="theme 7" default="birthday party"}, {argument name="theme 8" default="graduation"}, and {argument name="theme 9" default="New Year celebration"}. Use the attached image for reference. Each sticker has a white border with shadow effects and includes festive speech bubbles featuring phrases like "{argument name="phrase 1" default="Happy Holidays!"}", "{argument name="phrase 2" default="Spooky!"}", "{argument name="phrase 3" default="Beach vibes"}", "{argument name="phrase 4" default="Cozy time"}", "{argument name="phrase 5" default="Celebrate!"}", and "{argument name="phrase 6" default="Yay us!"}". Set on a soft gradient background transitioning from white to pastel rainbow tones for a festive, versatile vibe suitable for year-round WhatsApp sharing.
+สร้างภาพแคนวาส 3D คาวาอี้ ขนาด 2:3 ที่มีสติกเกอร์สไตล์จิบิเก้าตัว แต่งกายในชุดธีมตามฤดูกาลและวันหยุด รวมถึง {argument name="theme 1" default="คริสต์มาส"}, {argument name="theme 2" default="ฮาโลวีน"}, {argument name="theme 3" default="ชายหาดฤดูร้อน"}, {argument name="theme 4" default="อบอุ่นฤดูหนาว"}, {argument name="theme 5" default="ดอกไม้ฤดูใบไม้ผลิ"}, {argument name="theme 6" default="ใบไม้ร่วง"}, {argument name="theme 7" default="งานเลี้ยงวันเกิด"}, {argument name="theme 8" default="รับปริญญา"} และ {argument name="theme 9" default="ฉลองปีใหม่"} ใช้ภาพที่แนบมาเป็นข้อมูลอ้างอิง สติกเกอร์แต่ละชิ้นมีขอบสีขาวพร้อมเอฟเฟกต์เงา และมีฟองคำพูดเทศกาลที่มีวลีเช่น "{argument name="phrase 1" default="สุขสันต์วันหยุด!"}", "{argument name="phrase 2" default="น่ากลัว!"}", "{argument name="phrase 3" default="บรรยากาศชายหาด"}", "{argument name="phrase 4" default="ช่วงเวลาอบอุ่น"}", "{argument name="phrase 5" default="ฉลอง!"}" และ "{argument name="phrase 6" default="เย้!"}" จัดวางบนพื้นหลังไล่ระดับสีอ่อนที่เปลี่ยนจากสีขาวเป็นโทนสีรุ้งพาสเทล เพื่อให้ได้บรรยากาศเทศกาลที่หลากหลาย เหมาะสำหรับการแชร์บน WhatsApp ตลอดทั้งปี
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -753,25 +752,25 @@ Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in sea
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231596985_c5mz7k_G8h1xfVbcAAuFPG.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231596985_c5mz7k_G8h1xfVbcAAuFPG.jpg" width="600" alt="สติกเกอร์ชีท Kawaii 3D ลายตามฤดูกาล - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231598004_827xr3_G8h1yIobgAAcYLr.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231598004_827xr3_G8h1yIobgAAcYLr.jpg" width="600" alt="สติกเกอร์ชีท Kawaii 3D ลายตามฤดูกาล - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231598193_iy9jva_G8h1zVqa8AAPEZ2.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231598193_iy9jva_G8h1zVqa8AAPEZ2.jpg" width="600" alt="สติกเกอร์ชีท Kawaii 3D ลายตามฤดูกาล - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231599712_cxxnw0_G8h10o4bsAA93MU.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766231599712_cxxnw0_G8h10o4bsAA93MU.jpg" width="600" alt="สติกเกอร์ชีท Kawaii 3D ลายตามฤดูกาล - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -781,23 +780,23 @@ Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in sea
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Create%20a%203D%20kawaii%202%3A3%20canvas%20featuring%20nine%20chibi-style%20stickers%20dressed%20in%20seasonal%20and%20holiday-themed%20outfits%20including%20%7Bargument%20name%3D%22theme%201%22%20default%3D%22Christmas%22%7D%2C%20%7Bargument%20name%3D%22theme%202%22%20default%3D%22Halloween%22%7D%2C%20%7Bargument%20name%3D%22theme%203%22%20default%3D%22summer%20beach%22%7D%2C%20%7Bargument%20name%3D%22theme%204%22%20default%3D%22winter%20cozy%22%7D%2C%20%7Bargument%20name%3D%22theme%205%22%20default%3D%22spring%20flowers%22%7D%2C%20%7Bargument%20name%3D%22theme%206%22%20default%3D%22autumn%20leaves%22%7D%2C%20%7Bargument%20name%3D%22theme%207%22%20default%3D%22birthday%20party%22%7D%2C%20%7Bargument%20name%3D%22theme%208%22%20default%3D%22graduation%22%7D%2C%20and%20%7Bargument%20name%3D%22theme%209%22%20default%3D%22New%20Year%20celebration%22%7D.%20Use%20the%20attached%20image%20for%20reference.%20Each%20sticker%20has%20a%20white%20border%20with%20shadow%20effects%20and%20includes%20festive%20speech%20bubbles%20featuring%20phrases%20like%20%22%7Bargument%20name%3D%22phrase%201%22%20default%3D%22Happy%20Holidays!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%202%22%20default%3D%22Spooky!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%203%22%20default%3D%22Beach%20vibes%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%204%22%20default%3D%22Cozy%20time%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%205%22%20default%3D%22Celebrate!%22%7D%22%2C%20and%20%22%7Bargument%20name%3D%22phrase%206%22%20default%3D%22Yay%20us!%22%7D%22.%20Set%20on%20a%20soft%20gradient%20background%20transitioning%20from%20white%20to%20pastel%20rainbow%20tones%20for%20a%20festive%2C%20versatile%20vibe%20suitable%20for%20year-round%20WhatsApp%20sharing.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%AA%203D%20%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%89%20%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%202%3A3%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%9A%E0%B8%B4%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%A7%20%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%98%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%96%E0%B8%B6%E0%B8%87%20%7Bargument%20name%3D%22theme%201%22%20default%3D%22%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA%22%7D%2C%20%7Bargument%20name%3D%22theme%202%22%20default%3D%22%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99%22%7D%2C%20%7Bargument%20name%3D%22theme%203%22%20default%3D%22%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%22%7D%2C%20%7Bargument%20name%3D%22theme%204%22%20default%3D%22%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7%22%7D%2C%20%7Bargument%20name%3D%22theme%205%22%20default%3D%22%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B9%83%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%9C%E0%B8%A5%E0%B8%B4%22%7D%2C%20%7Bargument%20name%3D%22theme%206%22%20default%3D%22%E0%B9%83%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87%22%7D%2C%20%7Bargument%20name%3D%22theme%207%22%20default%3D%22%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%22%7D%2C%20%7Bargument%20name%3D%22theme%208%22%20default%3D%22%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%22%7D%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20%7Bargument%20name%3D%22theme%209%22%20default%3D%22%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%22%7D%20%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%99%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%20%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%87%E0%B8%B2%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%9F%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A7%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%99%20%22%7Bargument%20name%3D%22phrase%201%22%20default%3D%22%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%202%22%20default%3D%22%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%203%22%20default%3D%22%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%94%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%204%22%20default%3D%22%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%205%22%20default%3D%22%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87!%22%7D%22%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20%22%7Bargument%20name%3D%22phrase%206%22%20default%3D%22%E0%B9%80%E0%B8%A2%E0%B9%89!%22%7D%22%20%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%97%E0%B8%A5%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%99%20WhatsApp%20%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%9B%E0%B8%B5)**
 
 ---
 
-### No. 13: GPT-image 1.5 Test Prompt for a Detailed Scene
+### No. 13: GPT-image 1.5: ข้อความทดสอบสำหรับฉากที่มีรายละเอียด
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-This user is testing GPT-image 1.5 and notes that the results are quite good. The actual prompt used to generate the image is located in the ALT text (alternative text) of the attached image, which describes a detailed scene involving a girl, a futuristic city, and specific lighting and composition elements.
+ผู้ใช้รายนี้กำลังทดสอบ GPT-image 1.5 และพบว่าผลลัพธ์ค่อนข้างดี พรอมต์จริงที่ใช้สร้างภาพอยู่ในข้อความ ALT (alternative text) ของภาพที่แนบมา ซึ่งอธิบายฉากที่มีรายละเอียดเกี่ยวกับเด็กผู้หญิง เมืองแห่งอนาคต รวมถึงองค์ประกอบของแสงและองค์ประกอบภาพที่เฉพาะเจาะจง
 
 #### 📝 คำสั่ง
 
 ```
-A girl with {argument name="hair color" default="long black hair"} and {argument name="clothing" default="a white dress"} stands on the rooftop of a skyscraper in a futuristic city, looking up at the night sky. The city is illuminated by neon lights and holographic advertisements. The composition is a wide shot, with the girl positioned slightly off-center to the right. The lighting is dramatic, with strong shadows and highlights emphasizing the contrast between the girl and the vibrant city lights. The style is cinematic and highly detailed, reminiscent of {argument name="art style" default="cyberpunk anime"}.
+เด็กสาวผม {argument name="hair color" default="ดำยาว"} สวม {argument name="clothing" default="ชุดเดรสสีขาว"} ยืนอยู่บนดาดฟ้าของตึกระฟ้าในเมืองแห่งอนาคต กำลังแหงนมองท้องฟ้ายามค่ำคืน เมืองนี้สว่างไสวด้วยแสงไฟนีออนและโฆษณาโฮโลแกรม องค์ประกอบภาพเป็นแบบมุมกว้าง โดยเด็กสาวอยู่เยื้องไปทางขวาเล็กน้อย แสงไฟดูน่าทึ่ง มีเงาและไฮไลต์ที่ชัดเจน เน้นความแตกต่างระหว่างเด็กสาวกับแสงไฟเมืองที่สดใส สไตล์ภาพยนตร์และรายละเอียดสูง ชวนให้นึกถึง {argument name="art style" default="อนิเมะแนวไซเบอร์พังก์"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -805,7 +804,7 @@ A girl with {argument name="hair color" default="long black hair"} and {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231620956_kmlu23_G8h1wp8bgAAI7gX.jpg" width="600" alt="GPT-image 1.5 Test Prompt for a Detailed Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231620956_kmlu23_G8h1wp8bgAAI7gX.jpg" width="600" alt="GPT-image 1.5: ข้อความทดสอบสำหรับฉากที่มีรายละเอียด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -815,22 +814,22 @@ A girl with {argument name="hair color" default="long black hair"} and {argument
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=A%20girl%20with%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22long%20black%20hair%22%7D%20and%20%7Bargument%20name%3D%22clothing%22%20default%3D%22a%20white%20dress%22%7D%20stands%20on%20the%20rooftop%20of%20a%20skyscraper%20in%20a%20futuristic%20city%2C%20looking%20up%20at%20the%20night%20sky.%20The%20city%20is%20illuminated%20by%20neon%20lights%20and%20holographic%20advertisements.%20The%20composition%20is%20a%20wide%20shot%2C%20with%20the%20girl%20positioned%20slightly%20off-center%20to%20the%20right.%20The%20lighting%20is%20dramatic%2C%20with%20strong%20shadows%20and%20highlights%20emphasizing%20the%20contrast%20between%20the%20girl%20and%20the%20vibrant%20city%20lights.%20The%20style%20is%20cinematic%20and%20highly%20detailed%2C%20reminiscent%20of%20%7Bargument%20name%3D%22art%20style%22%20default%3D%22cyberpunk%20anime%22%7D.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%A1%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22%E0%B8%94%E0%B8%B3%E0%B8%A2%E0%B8%B2%E0%B8%A7%22%7D%20%E0%B8%AA%E0%B8%A7%E0%B8%A1%20%7Bargument%20name%3D%22clothing%22%20default%3D%22%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%22%7D%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95%20%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B8%87%E0%B8%99%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%84%E0%B8%B7%E0%B8%99%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%AA%E0%B8%A7%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2%E0%B9%82%E0%B8%AE%E0%B9%82%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%94%E0%B8%B9%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B6%E0%B9%88%E0%B8%87%20%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%84%E0%B8%AE%E0%B9%84%E0%B8%A5%E0%B8%95%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%20%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%20%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%20%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%20%7Bargument%20name%3D%22art%20style%22%20default%3D%22%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%22%7D)**
 
 ---
 
-### No. 14: Image-to-Image Clothing Swap Prompt
+### No. 14: ข้อความแจ้งการสลับเสื้อผ้าจากรูปภาพเป็นรูปภาพ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A simple prompt used with Higgsfield's GPT Image 1.5 to perform an image-to-image operation, specifically instructing the AI to take the clothing from a reference image and apply it to the subject in the original image.
+นี่คือพรอมต์ง่าย ๆ ที่ใช้กับ GPT Image 1.5 ของ Higgsfield เพื่อดำเนินการแปลงภาพเป็นภาพ โดยเฉพาะอย่างยิ่งการสั่งให้ AI นำเสื้อผ้าจากภาพอ้างอิงไปใช้กับตัวแบบในภาพต้นฉบับ
 
 #### 📝 คำสั่ง
 
 ```
-Take the clothing from the reference and change mine to match it
+นำเสื้อผ้าจากภาพอ้างอิงมาปรับเปลี่ยนให้เข้ากับของฉัน
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -838,19 +837,19 @@ Take the clothing from the reference and change mine to match it
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606931_bzf4ls_G8hwdYNaEAAFllU.jpg" width="600" alt="Image-to-Image Clothing Swap Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231606931_bzf4ls_G8hwdYNaEAAFllU.jpg" width="600" alt="ข้อความแจ้งการสลับเสื้อผ้าจากรูปภาพเป็นรูปภาพ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606977_xspmi8_G8hwfXObgAA870s.jpg" width="600" alt="Image-to-Image Clothing Swap Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231606977_xspmi8_G8hwfXObgAA870s.jpg" width="600" alt="ข้อความแจ้งการสลับเสื้อผ้าจากรูปภาพเป็นรูปภาพ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231607268_18to98_G8hwhMQa8AE84tA.jpg" width="600" alt="Image-to-Image Clothing Swap Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231607268_18to98_G8hwhMQa8AE84tA.jpg" width="600" alt="ข้อความแจ้งการสลับเสื้อผ้าจากรูปภาพเป็นรูปภาพ - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -860,23 +859,23 @@ Take the clothing from the reference and change mine to match it
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Take%20the%20clothing%20from%20the%20reference%20and%20change%20mine%20to%20match%20it)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99)**
 
 ---
 
-### No. 15: Cinematic Storyboard Contact Sheet
+### No. 15: แผ่นรวมภาพสตอรี่บอร์ดภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for GPT Image 1.5 to generate a 3x3 grid storyboard contact sheet of nine candid, cinematic movie stills. The sequence depicts a young man during a family dinner, showing various natural actions and expressions. It specifies the environment (warm home dining room), lighting (soft, warm tungsten evening light), and aesthetic (film photography with slight grain).
+คำสั่งโดยละเอียดสำหรับ GPT Image 1.5 เพื่อสร้างสตอรี่บอร์ดแบบตาราง 3x3 ที่มีภาพนิ่งจากภาพยนตร์ 9 ภาพที่ดูเป็นธรรมชาติและเหมือนจริงตามแบบฉบับภาพยนตร์ ลำดับภาพแสดงให้เห็นชายหนุ่มคนหนึ่งในระหว่างมื้อค่ำของครอบครัว โดยแสดงการกระทำและการแสดงออกทางสีหน้าที่เป็นธรรมชาติหลากหลายแบบ ระบุสภาพแวดล้อม (ห้องรับประทานอาหารในบ้านที่อบอุ่น) แสง (แสงทังสเตนยามเย็นที่นุ่มนวลและอบอุ่น) และสุนทรียภาพ (ภาพถ่ายฟิล์มที่มีเกรนเล็กน้อย)
 
 #### 📝 คำสั่ง
 
 ```
-A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie stills showing a continuous sequence of a young man, approximately 20-25 years old. He has tousled brown hair and a youthful, expressive face, clean-shaven. Across all nine panels, he is consistently wearing a {argument name="shirt color" default="brown"} short-sleeved linen button-down shirt and is seated at a wooden dining table during a family dinner. The panels show varied natural actions: gesturing with his hands while animatedly talking, laughing, eating {argument name="food" default="lasagna"} from a large dish, listening intently, and smiling. The environment is a warm, cozy home dining room with a wooden hutch filled with china and patterned wallpaper visible in the background. The lighting is soft, warm tungsten evening light creating natural shadows. The shots are a mix of medium angles and close-ups with a shallow depth of field, rendered with a film photography aesthetic and slight grain.
+แผ่นสตอรี่บอร์ดแบบตาราง 3x3 ที่ประกอบด้วยภาพนิ่งจากภาพยนตร์ 9 ภาพ ที่แสดงให้เห็นลำดับเหตุการณ์ต่อเนื่องของชายหนุ่มคนหนึ่ง อายุประมาณ 20-25 ปี เขามีผมสีน้ำตาลยุ่งๆ และใบหน้าอ่อนเยาว์ที่แสดงออกถึงอารมณ์ได้ดี โกนหนวดเคราสะอาด ในทั้งเก้าช่อง เขาใส่เสื้อเชิ้ตผ้าลินินแขนสั้นติดกระดุมสี {argument name="shirt color" default="น้ำตาล"} และนั่งอยู่ที่โต๊ะอาหารไม้ในระหว่างมื้อค่ำของครอบครัว ภาพต่างๆ แสดงให้เห็นการกระทำที่เป็นธรรมชาติที่หลากหลาย: การใช้มือประกอบท่าทางขณะพูดคุยอย่างมีชีวิตชีวา, การหัวเราะ, การกิน {argument name="food" default="ลาซานญ่า"} จากจานใหญ่, การตั้งใจฟัง และการยิ้ม บรรยากาศเป็นห้องรับประทานอาหารในบ้านที่อบอุ่นและสบายตา มีตู้ไม้ที่เต็มไปด้วยเครื่องลายครามและวอลล์เปเปอร์ลายสวยงามปรากฏให้เห็นในฉากหลัง แสงเป็นแสงทังสเตนยามเย็นที่นุ่มนวลและอบอุ่น สร้างเงาที่เป็นธรรมชาติ ภาพที่ถ่ายเป็นมุมกล้องแบบมีเดียมช็อตและโคลสอัพผสมกัน โดยมีระยะชัดตื้น และถูกเรนเดอร์ด้วยสุนทรียภาพของการถ่ายภาพฟิล์มและเกรนเล็กน้อย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -884,7 +883,7 @@ A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie st
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231596492_sfodre_G8hyEucbAAApZv6.jpg" width="600" alt="Cinematic Storyboard Contact Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231596492_sfodre_G8hyEucbAAApZv6.jpg" width="600" alt="แผ่นรวมภาพสตอรี่บอร์ดภาพยนตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -894,22 +893,22 @@ A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie st
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=A%203x3%20grid%20storyboard%20contact%20sheet%20comprised%20of%20nine%20candid%2C%20cinematic%20movie%20stills%20showing%20a%20continuous%20sequence%20of%20a%20young%20man%2C%20approximately%2020-25%20years%20old.%20He%20has%20tousled%20brown%20hair%20and%20a%20youthful%2C%20expressive%20face%2C%20clean-shaven.%20Across%20all%20nine%20panels%2C%20he%20is%20consistently%20wearing%20a%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22brown%22%7D%20short-sleeved%20linen%20button-down%20shirt%20and%20is%20seated%20at%20a%20wooden%20dining%20table%20during%20a%20family%20dinner.%20The%20panels%20show%20varied%20natural%20actions%3A%20gesturing%20with%20his%20hands%20while%20animatedly%20talking%2C%20laughing%2C%20eating%20%7Bargument%20name%3D%22food%22%20default%3D%22lasagna%22%7D%20from%20a%20large%20dish%2C%20listening%20intently%2C%20and%20smiling.%20The%20environment%20is%20a%20warm%2C%20cozy%20home%20dining%20room%20with%20a%20wooden%20hutch%20filled%20with%20china%20and%20patterned%20wallpaper%20visible%20in%20the%20background.%20The%20lighting%20is%20soft%2C%20warm%20tungsten%20evening%20light%20creating%20natural%20shadows.%20The%20shots%20are%20a%20mix%20of%20medium%20angles%20and%20close-ups%20with%20a%20shallow%20depth%20of%20field%2C%20rendered%20with%20a%20film%20photography%20aesthetic%20and%20slight%20grain.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%203x3%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%209%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%20%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%93%2020-25%20%E0%B8%9B%E0%B8%B5%20%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%9C%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%86%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%94%E0%B8%B5%20%E0%B9%82%E0%B8%81%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%A7%E0%B8%94%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%20%E0%B9%83%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%20%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%95%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B5%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2%E0%B8%A5%22%7D%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%3A%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%B0%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%99%20%7Bargument%20name%3D%22food%22%20default%3D%22%E0%B8%A5%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B8%8D%E0%B9%88%E0%B8%B2%22%7D%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%88%E0%B8%9F%E0%B8%B1%E0%B8%87%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%20%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%20%E0%B8%A1%E0%B8%B5%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%8F%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%AA%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%AA%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B7%E0%B9%89%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2)**
 
 ---
 
-### No. 16: Outfit Change to Tuxedo and Bow Tie
+### No. 16: เปลี่ยนชุดเป็นทักซิโด้และหูกระต่าย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A simple image editing prompt for GPT Image 1.5, instructing the model to change the outfit of the subject in an uploaded image to a tuxedo and a bow tie. This highlights the model's ability to handle basic inpainting and style changes.
+นี่คือข้อความแจ้งการแก้ไขรูปภาพแบบง่ายสำหรับ GPT Image 1.5 ซึ่งสั่งให้โมเดลเปลี่ยนชุดของตัวแบบในรูปภาพที่อัปโหลดให้เป็นชุดทักซิโด้และหูกระต่าย สิ่งนี้เน้นย้ำถึงความสามารถของโมเดลในการจัดการการ Inpainting พื้นฐานและการเปลี่ยนแปลงสไตล์
 
 #### 📝 คำสั่ง
 
 ```
-Change my outfit here to a Tuxedo and a bow tie.
+เปลี่ยนชุดของฉันเป็นชุดทักซิโด้และหูกระต่าย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -917,13 +916,13 @@ Change my outfit here to a Tuxedo and a bow tie.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580674_sbur0r_G8htDMoaEAAXvM4.jpg" width="600" alt="Outfit Change to Tuxedo and Bow Tie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231580674_sbur0r_G8htDMoaEAAXvM4.jpg" width="600" alt="เปลี่ยนชุดเป็นทักซิโด้และหูกระต่าย - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580980_qaldkr_G8htDMsa4AAfH5s.jpg" width="600" alt="Outfit Change to Tuxedo and Bow Tie - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231580980_qaldkr_G8htDMsa4AAfH5s.jpg" width="600" alt="เปลี่ยนชุดเป็นทักซิโด้และหูกระต่าย - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -933,22 +932,22 @@ Change my outfit here to a Tuxedo and a bow tie.
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Change%20my%20outfit%20here%20to%20a%20Tuxedo%20and%20a%20bow%20tie.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AB%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%A2)**
 
 ---
 
-### No. 17: Character Feature Description Prompt (Japanese)
+### No. 17: คำแนะนำสำหรับคำอธิบายคุณสมบัติของตัวละคร (ภาษาญี่ปุ่น)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A Japanese prompt instructing the AI to create an image of a character where lines point to different parts of the body, and the features of each part are explained in Japanese text.
+ข้อความแจ้ง (Prompt) ภาษาญี่ปุ่นที่สั่งให้ AI สร้างภาพตัวละคร โดยมีเส้นชี้ไปยังส่วนต่างๆ ของร่างกาย และมีข้อความภาษาญี่ปุ่นอธิบายลักษณะของแต่ละส่วน
 
 #### 📝 คำสั่ง
 
 ```
-Please create an image that points to various parts of this character with lines, and explains the features of each part in Japanese.
+โปรดสร้างภาพที่ชี้ไปยังส่วนต่างๆ ของตัวละครนี้ด้วยเส้น และอธิบายคุณสมบัติของแต่ละส่วนเป็นภาษาญี่ปุ่น
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -956,13 +955,13 @@ Please create an image that points to various parts of this character with lines
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606000_3sqf3p_G8hm9A7acAE4baX.jpg" width="600" alt="Character Feature Description Prompt (Japanese) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231606000_3sqf3p_G8hm9A7acAE4baX.jpg" width="600" alt="คำแนะนำสำหรับคำอธิบายคุณสมบัติของตัวละคร (ภาษาญี่ปุ่น) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606171_mj9f80_G8hm62caAAAD2Pz.jpg" width="600" alt="Character Feature Description Prompt (Japanese) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231606171_mj9f80_G8hm62caAAAD2Pz.jpg" width="600" alt="คำแนะนำสำหรับคำอธิบายคุณสมบัติของตัวละคร (ภาษาญี่ปุ่น) - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -972,23 +971,23 @@ Please create an image that points to various parts of this character with lines
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Please%20create%20an%20image%20that%20points%20to%20various%20parts%20of%20this%20character%20with%20lines%2C%20and%20explains%20the%20features%20of%20each%20part%20in%20Japanese.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B9%84%E0%B8%9B%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99)**
 
 ---
 
-### No. 18: Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite)
+### No. 18: ภาพถ่ายบุคคลในสตูดิโอที่สมจริงสุด ๆ พร้อมการผสานรวมผลิตภัณฑ์ขนาดใหญ่ (Sprite)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed, hyper-realistic studio portrait prompt designed to integrate a subject (based on an uploaded photo) with an oversized product (like a Sprite can). It specifies clothing, pose, lighting, and background for a cinematic luxury editorial look, ensuring the product is realistically integrated, not floating.
+ข้อความแจ้งสำหรับการสร้างภาพบุคคลในสตูดิโอที่สมจริงและมีรายละเอียดสูง ซึ่งออกแบบมาเพื่อรวมตัวแบบ (อ้างอิงจากรูปภาพที่อัปโหลด) เข้ากับผลิตภัณฑ์ขนาดใหญ่ (เช่น กระป๋อง Sprite) โดยระบุเสื้อผ้า ท่าทาง แสง และพื้นหลัง เพื่อให้ได้ลุคแบบภาพยนตร์หรูหราสำหรับนิตยสาร และรับรองว่าผลิตภัณฑ์จะถูกรวมเข้ากับภาพอย่างสมจริง ไม่ใช่ลอยอยู่โดด ๆ
 
 #### 📝 คำสั่ง
 
 ```
-A full-body hyper-realistic studio portrait of a man from attached photo [{argument name="jacket color" default="green"} bomber jacket, {argument name="shirt color" default="white"} t-shirt, {argument name="pants color" default="black"} jeans, {argument name="sneaker color" default="green"} sneakers ] in a [{argument name="pose" default="relaxed"}] pose, leaning gracefully beside a large [ can of {argument name="product name" default="sprite"}] positioned [{argument name="product position" default="vertical"}] on a smooth [{argument name="floor color" default="green"}] floor. The object appears oversized and realistic, perfectly integrated with the subject — not floating. Its surface shows accurate texture, reflections, and material depth. The pose defines the subject’s attitude and interaction with the object — natural, stylish, and expressive. The character is balanced and confident, matching the object’s tone and style. Background is seamless, same color for wall and floor, slightly lighter below with soft reflections. Lighting: clean professional studio setup — diffused key from front-left, mild fill from right, subtle rim for separation, evenly balanced exposure. Mood: cinematic luxury editorial with minimal composition and photorealistic realism."
+ภาพถ่ายบุคคลเต็มตัวแบบสมจริงพิเศษในสตูดิโอของชายคนหนึ่งจากภาพที่แนบมา [{argument name="jacket color" default="green"} เสื้อแจ็คเก็ตบอมเบอร์, {argument name="shirt color" default="white"} เสื้อยืด, {argument name="pants color" default="black"} กางเกงยีนส์, {argument name="sneaker color" default="green"} รองเท้าผ้าใบ] ในท่าทาง [{argument name="pose" default="relaxed"}] ที่ผ่อนคลาย พิงอย่างสง่างามข้าง [กระป๋อง {argument name="product name" default="sprite"}] ขนาดใหญ่ที่วางอยู่ [{argument name="product position" default="vertical"}] บนพื้นผิวเรียบสี [{argument name="floor color" default="green"}] วัตถุดูใหญ่เกินจริงและสมจริง ผสมผสานเข้ากับตัวแบบได้อย่างลงตัว — ไม่ได้ลอยอยู่บนอากาศ พื้นผิวของวัตถุแสดงให้เห็นถึงพื้นผิวที่แม่นยำ การสะท้อน และความลึกของวัสดุ ท่าทางบ่งบอกถึงทัศนคติและการโต้ตอบของตัวแบบกับวัตถุ — เป็นธรรมชาติ มีสไตล์ และแสดงออกถึงอารมณ์ ตัวละครมีความสมดุลและมั่นใจ เข้ากับโทนและสไตล์ของวัตถุ พื้นหลังเป็นแบบไร้รอยต่อ สีเดียวกันสำหรับผนังและพื้น สว่างขึ้นเล็กน้อยด้านล่างพร้อมการสะท้อนแสงที่นุ่มนวล แสง: การจัดแสงสตูดิโอระดับมืออาชีพที่สะอาดตา — แสงหลักแบบกระจายจากด้านหน้าซ้าย แสงเติมเล็กน้อยจากด้านขวา แสงขอบบางๆ เพื่อแยกตัวแบบออกจากพื้นหลัง การเปิดรับแสงที่สมดุลอย่างสม่ำเสมอ อารมณ์: บรรยากาศหรูหราแบบภาพยนตร์พร้อมองค์ประกอบที่เรียบง่ายและความสมจริงแบบภาพถ่าย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -996,25 +995,25 @@ A full-body hyper-realistic studio portrait of a man from attached photo [{argum
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580668_6em4at_G8hj3FzbIAEf99p.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231580668_6em4at_G8hj3FzbIAEf99p.jpg" width="600" alt="ภาพถ่ายบุคคลในสตูดิโอที่สมจริงสุด ๆ พร้อมการผสานรวมผลิตภัณฑ์ขนาดใหญ่ (Sprite) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580869_49426e_G8hj3FsaIAA1VX5.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231580869_49426e_G8hj3FsaIAA1VX5.jpg" width="600" alt="ภาพถ่ายบุคคลในสตูดิโอที่สมจริงสุด ๆ พร้อมการผสานรวมผลิตภัณฑ์ขนาดใหญ่ (Sprite) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580878_0wzbwf_G8hj3D-aoAA6Lwa.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231580878_0wzbwf_G8hj3D-aoAA6Lwa.jpg" width="600" alt="ภาพถ่ายบุคคลในสตูดิโอที่สมจริงสุด ๆ พร้อมการผสานรวมผลิตภัณฑ์ขนาดใหญ่ (Sprite) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231581654_chq95s_G8hj3MVbUAAiQQi.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766231581654_chq95s_G8hj3MVbUAAiQQi.jpg" width="600" alt="ภาพถ่ายบุคคลในสตูดิโอที่สมจริงสุด ๆ พร้อมการผสานรวมผลิตภัณฑ์ขนาดใหญ่ (Sprite) - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -1024,22 +1023,22 @@ A full-body hyper-realistic studio portrait of a man from attached photo [{argum
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=A%20full-body%20hyper-realistic%20studio%20portrait%20of%20a%20man%20from%20attached%20photo%20%5B%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22green%22%7D%20bomber%20jacket%2C%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22white%22%7D%20t-shirt%2C%20%7Bargument%20name%3D%22pants%20color%22%20default%3D%22black%22%7D%20jeans%2C%20%7Bargument%20name%3D%22sneaker%20color%22%20default%3D%22green%22%7D%20sneakers%20%5D%20in%20a%20%5B%7Bargument%20name%3D%22pose%22%20default%3D%22relaxed%22%7D%5D%20pose%2C%20leaning%20gracefully%20beside%20a%20large%20%5B%20can%20of%20%7Bargument%20name%3D%22product%20name%22%20default%3D%22sprite%22%7D%5D%20positioned%20%5B%7Bargument%20name%3D%22product%20position%22%20default%3D%22vertical%22%7D%5D%20on%20a%20smooth%20%5B%7Bargument%20name%3D%22floor%20color%22%20default%3D%22green%22%7D%5D%20floor.%20The%20object%20appears%20oversized%20and%20realistic%2C%20perfectly%20integrated%20with%20the%20subject%20%E2%80%94%20not%20floating.%20Its%20surface%20shows%20accurate%20texture%2C%20reflections%2C%20and%20material%20depth.%20The%20pose%20defines%20the%20subject%E2%80%99s%20attitude%20and%20interaction%20with%20the%20object%20%E2%80%94%20natural%2C%20stylish%2C%20and%20expressive.%20The%20character%20is%20balanced%20and%20confident%2C%20matching%20the%20object%E2%80%99s%20tone%20and%20style.%20Background%20is%20seamless%2C%20same%20color%20for%20wall%20and%20floor%2C%20slightly%20lighter%20below%20with%20soft%20reflections.%20Lighting%3A%20clean%20professional%20studio%20setup%20%E2%80%94%20diffused%20key%20from%20front-left%2C%20mild%20fill%20from%20right%2C%20subtle%20rim%20for%20separation%2C%20evenly%20balanced%20exposure.%20Mood%3A%20cinematic%20luxury%20editorial%20with%20minimal%20composition%20and%20photorealistic%20realism.%22)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%99%E0%B8%9A%E0%B8%A1%E0%B8%B2%20%5B%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22green%22%7D%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%2C%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22white%22%7D%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B7%E0%B8%94%2C%20%7Bargument%20name%3D%22pants%20color%22%20default%3D%22black%22%7D%20%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%87%E0%B8%A2%E0%B8%B5%E0%B8%99%E0%B8%AA%E0%B9%8C%2C%20%7Bargument%20name%3D%22sneaker%20color%22%20default%3D%22green%22%7D%20%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%9A%5D%20%E0%B9%83%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%20%5B%7Bargument%20name%3D%22pose%22%20default%3D%22relaxed%22%7D%5D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2%20%E0%B8%9E%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%20%5B%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B9%8B%E0%B8%AD%E0%B8%87%20%7Bargument%20name%3D%22product%20name%22%20default%3D%22sprite%22%7D%5D%20%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%20%5B%7Bargument%20name%3D%22product%20position%22%20default%3D%22vertical%22%7D%5D%20%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%AA%E0%B8%B5%20%5B%7Bargument%20name%3D%22floor%20color%22%20default%3D%22green%22%7D%5D%20%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%94%E0%B8%B9%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B8%9C%E0%B8%AA%E0%B8%A1%E0%B8%9C%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%20%E2%80%94%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%B3%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8%20%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%84%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%95%E0%B9%89%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%20%E2%80%94%20%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%20%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%88%20%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%97%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%88%E0%B8%AD%20%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%20%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%20%E0%B9%81%E0%B8%AA%E0%B8%87%3A%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%20%E2%80%94%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%A7%E0%B8%B2%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B9%88%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%AD%20%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%3A%20%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%AB%E0%B8%A3%E0%B8%B9%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2)**
 
 ---
 
-### No. 19: Western Manuscript Style Illustration for 'Orychophragmus violaceus'
+### No. 19: ภาพประกอบสไตล์ต้นฉบับตะวันตกสำหรับ 'Orychophragmus violaceus'
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A detailed Japanese prompt instructing GPT Image 1.5 to illustrate 'Orychophragmus violaceus' (Zhugecai) in the style of an old Western manuscript, specifically requesting a two-page spread with surrounding explanatory text and an aged, worn appearance.
+คำสั่งภาษาญี่ปุ่นโดยละเอียดที่สั่งให้ GPT Image 1.5 สร้างภาพประกอบของ 'Orychophragmus violaceus' (Zhugecai) ในรูปแบบต้นฉบับลายมือโบราณของตะวันตก โดยเฉพาะอย่างยิ่งการขอให้เป็นภาพสองหน้าคู่ที่มีข้อความอธิบายล้อมรอบ และมีลักษณะเก่าแก่และทรุดโทรม
 
 #### 📝 คำสั่ง
 
 ```
-Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancient document. Use a two-page spread of the ancient document for the drawing. Create the impression that various texts are explaining things around the picture. Make it look worn out and used.
+วาดภาพ 'Orychophragmus violaceus' ในรูปแบบและสไตล์ของเอกสารโบราณแบบตะวันตก ใช้เอกสารโบราณแบบสองหน้าคู่สำหรับการวาดภาพ สร้างความรู้สึกว่ามีข้อความอธิบายสิ่งต่าง ๆ รอบภาพ ทำให้ดูเก่าและผ่านการใช้งานมาแล้ว
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1047,7 +1046,7 @@ Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancie
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231615519_mk1ya6_G8hfI8waQAAVyOE.jpg" width="600" alt="Western Manuscript Style Illustration for 'Orychophragmus violaceus' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231615519_mk1ya6_G8hfI8waQAAVyOE.jpg" width="600" alt="ภาพประกอบสไตล์ต้นฉบับตะวันตกสำหรับ 'Orychophragmus violaceus' - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1057,26 +1056,26 @@ Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancie
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Draw%20'Orychophragmus%20violaceus'%20in%20the%20design%20and%20style%20of%20a%20Western-style%20ancient%20document.%20Use%20a%20two-page%20spread%20of%20the%20ancient%20document%20for%20the%20drawing.%20Create%20the%20impression%20that%20various%20texts%20are%20explaining%20things%20around%20the%20picture.%20Make%20it%20look%20worn%20out%20and%20used.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%20'Orychophragmus%20violaceus'%20%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%81%20%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%20%E0%B9%86%20%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7)**
 
 ---
 
-### No. 20: Artistic Composition Strategy Prompt
+### No. 20: กลยุทธ์การจัดองค์ประกอบศิลป์
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A conceptual prompt strategy for GPT-Image 1.5 focusing on achieving artistic output by controlling information density. Step 1 involves increasing information (dynamic angles, complex poses) and Step 2 involves reducing information (omitting background details, focusing on precise facial features).
+กลยุทธ์พรอมต์เชิงแนวคิดสำหรับ GPT-Image 1.5 ที่เน้นการสร้างผลงานศิลปะโดยการควบคุมความหนาแน่นของข้อมูล ขั้นตอนที่ 1 เกี่ยวข้องกับการเพิ่มข้อมูล (มุมมองแบบไดนามิก, ท่าทางที่ซับซ้อน) และขั้นตอนที่ 2 เกี่ยวข้องกับการลดข้อมูล (การละเว้นรายละเอียดพื้นหลัง, การเน้นคุณลักษณะใบหน้าที่แม่นยำ)
 
 #### 📝 คำสั่ง
 
 ```
-Step 1: Increase information
-Eliminate horizontal and vertical lines and make various parts of the picture diagonal. Increase variations in joint twists, composition, poses, camera tilt, etc.
+ขั้นตอนที่ 1: เพิ่มข้อมูล
+กำจัดเส้นแนวนอนและแนวตั้ง และทำให้ส่วนต่างๆ ของภาพเป็นแนวทแยง เพิ่มความหลากหลายในการบิดข้อต่อ องค์ประกอบ ท่าทาง การเอียงกล้อง ฯลฯ
 
-Step 2: Reduce information
-Thoroughly erase information that doesn't need to be seen. Draw faces precisely and omit others.
+ขั้นตอนที่ 2: ลดข้อมูล
+ลบข้อมูลที่ไม่จำเป็นต้องเห็นออกให้หมดจด วาดใบหน้าให้แม่นยำและละเว้นส่วนอื่นๆ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1084,7 +1083,7 @@ Thoroughly erase information that doesn't need to be seen. Draw faces precisely 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231621121_uw1xb1_G8hSPQZaAAATu1c.jpg" width="600" alt="Artistic Composition Strategy Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231621121_uw1xb1_G8hSPQZaAAATu1c.jpg" width="600" alt="กลยุทธ์การจัดองค์ประกอบศิลป์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1094,22 +1093,22 @@ Thoroughly erase information that doesn't need to be seen. Draw faces precisely 
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Step%201%3A%20Increase%20information%0AEliminate%20horizontal%20and%20vertical%20lines%20and%20make%20various%20parts%20of%20the%20picture%20diagonal.%20Increase%20variations%20in%20joint%20twists%2C%20composition%2C%20poses%2C%20camera%20tilt%2C%20etc.%0A%0AStep%202%3A%20Reduce%20information%0AThoroughly%20erase%20information%20that%20doesn't%20need%20to%20be%20seen.%20Draw%20faces%20precisely%20and%20omit%20others.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%201%3A%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%0A%E0%B8%81%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B9%81%E0%B8%A2%E0%B8%87%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B9%88%E0%B8%AD%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%20%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%20%E0%B8%AF%E0%B8%A5%E0%B8%AF%0A%0A%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%202%3A%20%E0%B8%A5%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%0A%E0%B8%A5%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%88%E0%B8%94%20%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%B3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86)**
 
 ---
 
-### No. 21: Prompt to Generate Intentionally Bad, Child-like Crayon Drawings
+### No. 21: ข้อความแจ้งเพื่อสร้างภาพวาดสีเทียนที่ตั้งใจให้ดูแย่เหมือนเด็กวาด
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A detailed Japanese prompt designed to intentionally generate images that look like poor, child-like sketches drawn with crayons. The goal is to produce rough, amateurish artwork with simple poses and compositions, testing the AI's ability to simulate 'bad' art while retaining a certain warmth.
+นี่คือข้อความแจ้ง (prompt) ภาษาญี่ปุ่นที่ออกแบบมาอย่างละเอียด เพื่อสร้างภาพที่ดูเหมือนภาพวาดที่เด็ก ๆ วาดด้วยสีเทียนอย่างตั้งใจ โดยมีเป้าหมายเพื่อสร้างงานศิลปะที่ดูหยาบ ๆ ไม่เป็นมืออาชีพ ด้วยท่าทางและองค์ประกอบที่เรียบง่าย เพื่อทดสอบความสามารถของ AI ในการจำลองงานศิลปะที่ "ไม่ดี" แต่ยังคงความอบอุ่นบางอย่างไว้
 
 #### 📝 คำสั่ง
 
 ```
-Place the subject standing in the center, with a plain pose and composition, giving the impression of poor quality, like a child's scribble who just started drawing. The style should be a hand-drawn, anime-style color sketch using rough crayon lines (leaving the under-drawing lines), emphasizing the poor quality!
+จัดวางตัวแบบให้อยู่ตรงกลาง ยืนในท่าทางและองค์ประกอบที่เรียบง่าย ให้ความรู้สึกเหมือนงานคุณภาพต่ำ คล้ายกับภาพวาดเล่นของเด็กที่เพิ่งเริ่มหัดวาด สไตล์ควรเป็นภาพร่างสีแบบอนิเมะที่วาดด้วยมือ โดยใช้เส้นดินสอสีหยาบ ๆ (เหลือเส้นร่างเดิมไว้) เน้นย้ำถึงคุณภาพที่ต่ำ!
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1117,7 +1116,7 @@ Place the subject standing in the center, with a plain pose and composition, giv
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231614518_jllbjp_G8hMP4pbgAAdAMC.jpg" width="600" alt="Prompt to Generate Intentionally Bad, Child-like Crayon Drawings - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231614518_jllbjp_G8hMP4pbgAAdAMC.jpg" width="600" alt="ข้อความแจ้งเพื่อสร้างภาพวาดสีเทียนที่ตั้งใจให้ดูแย่เหมือนเด็กวาด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1127,22 +1126,22 @@ Place the subject standing in the center, with a plain pose and composition, giv
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Place%20the%20subject%20standing%20in%20the%20center%2C%20with%20a%20plain%20pose%20and%20composition%2C%20giving%20the%20impression%20of%20poor%20quality%2C%20like%20a%20child's%20scribble%20who%20just%20started%20drawing.%20The%20style%20should%20be%20a%20hand-drawn%2C%20anime-style%20color%20sketch%20using%20rough%20crayon%20lines%20(leaving%20the%20under-drawing%20lines)%2C%20emphasizing%20the%20poor%20quality!)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B9%88%E0%B8%B3%20%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%94%20%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%A2%E0%B8%B2%E0%B8%9A%20%E0%B9%86%20(%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B9%84%E0%B8%A7%E0%B9%89)%20%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%88%E0%B8%B3!)**
 
 ---
 
-### No. 22: Clothing Separation Prompt for GPT Image 1.5
+### No. 22: คำสั่งแยกเสื้อผ้าสำหรับ GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A prompt designed for GPT Image 1.5 to extract and separate individual clothing items from a person in the original image and display them laid out on a bed, showcasing the model's object extraction capabilities.
+พรอมต์ที่ออกแบบมาสำหรับ GPT Image 1.5 เพื่อแยกและจัดเรียงเสื้อผ้าแต่ละชิ้นออกจากบุคคลในภาพต้นฉบับ และแสดงผลเป็นภาพที่จัดวางอยู่บนเตียง ซึ่งแสดงให้เห็นถึงความสามารถในการแยกวัตถุของโมเดล
 
 #### 📝 คำสั่ง
 
 ```
-Give each piece of her clothing separately on the bed
+วางเสื้อผ้าแต่ละชิ้นของเธอแยกกันบนเตียง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1150,13 +1149,13 @@ Give each piece of her clothing separately on the bed
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231615091_0928ig_G8hDiqDbMAAxU9C.jpg" width="600" alt="Clothing Separation Prompt for GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231615091_0928ig_G8hDiqDbMAAxU9C.jpg" width="600" alt="คำสั่งแยกเสื้อผ้าสำหรับ GPT Image 1.5 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231615218_s2xs6e_G8hDiqEa4AAa_8o.jpg" width="600" alt="Clothing Separation Prompt for GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231615218_s2xs6e_G8hDiqEa4AAa_8o.jpg" width="600" alt="คำสั่งแยกเสื้อผ้าสำหรับ GPT Image 1.5 - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1166,23 +1165,23 @@ Give each piece of her clothing separately on the bed
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87)**
 
 ---
 
-### No. 23: Still-Life Object Portrait Illusion
+### No. 23: ภาพลวงตาวัตถุภาพนิ่งเสมือนภาพบุคคล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for GPT Image 1.5 requesting a tabletop still-life image where scattered small objects (buttons, screws, coins, etc.) are arranged to form a clear human face portrait when viewed from a top-down perspective. It specifies neutral tones, soft overhead lighting, a gentle vignette, and a worn wooden table background, emphasizing the illusion of the portrait emerging at mid-distance.
+คำสั่งโดยละเอียดสำหรับ GPT Image 1.5 เพื่อสร้างภาพนิ่งแบบตั้งโต๊ะ (tabletop still-life) โดยมีวัตถุขนาดเล็กที่กระจัดกระจาย (เช่น กระดุม, สกรู, เหรียญ ฯลฯ) จัดเรียงให้เป็นภาพเหมือนใบหน้าคนได้อย่างชัดเจนเมื่อมองจากมุมสูง (top-down perspective) โดยระบุโทนสีกลาง, แสงไฟอ่อน ๆ จากด้านบน, ขอบภาพมืดลงเล็กน้อย (gentle vignette) และพื้นหลังเป็นโต๊ะไม้เก่า โดยเน้นย้ำถึงภาพลวงตาของภาพเหมือนที่ปรากฏขึ้นเมื่อมองจากระยะกลาง
 
 #### 📝 คำสั่ง
 
 ```
-Create an image that looks like a tabletop still-life of many small objects {argument name="objects" default="buttons, screws, coins, leaves, matchsticks"} scattered naturally, yet from a top-down view they form a clear human face portrait through careful arrangement and shading. Use neutral tones, soft overhead light, and gentle vignette. The face should emerge at mid-distance viewing: close up it’s “just objects,” zoomed out it’s unmistakably a portrait. Add realistic cast shadows under each object to enhance depth. Background: worn wooden table with scratches. Keep the arrangement organic, not too symmetrical. No text, no obvious outlines, no artificial glow.
+สร้างภาพที่ดูเหมือนภาพนิ่งบนโต๊ะของวัตถุขนาดเล็กจำนวนมาก {argument name="objects" default="กระดุม, สกรู, เหรียญ, ใบไม้, ไม้ขีดไฟ"} ที่กระจัดกระจายอย่างเป็นธรรมชาติ แต่เมื่อมองจากมุมสูงลงมา วัตถุเหล่านั้นจะประกอบกันเป็นภาพเหมือนใบหน้าคนได้อย่างชัดเจนผ่านการจัดวางและการแรเงาอย่างระมัดระวัง ใช้โทนสีกลาง แสงไฟอ่อน ๆ จากด้านบน และขอบภาพที่นุ่มนวล ใบหน้าควรจะปรากฏขึ้นเมื่อมองจากระยะกลาง: เมื่อมองใกล้ ๆ จะเห็นเป็น "แค่สิ่งของ" แต่เมื่อซูมออกไปจะเห็นเป็นภาพเหมือนได้อย่างชัดเจน เพิ่มเงาที่ทอดลงใต้สิ่งของแต่ละชิ้นอย่างสมจริงเพื่อเพิ่มความลึก พื้นหลัง: โต๊ะไม้เก่าที่มีรอยขีดข่วน จัดวางให้เป็นธรรมชาติ ไม่สมมาตรจนเกินไป ไม่มีข้อความ ไม่มีโครงร่างที่ชัดเจน ไม่มีแสงเรืองรองเทียม
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1190,7 +1189,7 @@ Create an image that looks like a tabletop still-life of many small objects {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231601817_3thpoi_G8hF_vKbAAA0FAz.jpg" width="600" alt="Still-Life Object Portrait Illusion - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231601817_3thpoi_G8hF_vKbAAA0FAz.jpg" width="600" alt="ภาพลวงตาวัตถุภาพนิ่งเสมือนภาพบุคคล - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1200,62 +1199,62 @@ Create an image that looks like a tabletop still-life of many small objects {arg
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Create%20an%20image%20that%20looks%20like%20a%20tabletop%20still-life%20of%20many%20small%20objects%20%7Bargument%20name%3D%22objects%22%20default%3D%22buttons%2C%20screws%2C%20coins%2C%20leaves%2C%20matchsticks%22%7D%20scattered%20naturally%2C%20yet%20from%20a%20top-down%20view%20they%20form%20a%20clear%20human%20face%20portrait%20through%20careful%20arrangement%20and%20shading.%20Use%20neutral%20tones%2C%20soft%20overhead%20light%2C%20and%20gentle%20vignette.%20The%20face%20should%20emerge%20at%20mid-distance%20viewing%3A%20close%20up%20it%E2%80%99s%20%E2%80%9Cjust%20objects%2C%E2%80%9D%20zoomed%20out%20it%E2%80%99s%20unmistakably%20a%20portrait.%20Add%20realistic%20cast%20shadows%20under%20each%20object%20to%20enhance%20depth.%20Background%3A%20worn%20wooden%20table%20with%20scratches.%20Keep%20the%20arrangement%20organic%2C%20not%20too%20symmetrical.%20No%20text%2C%20no%20obvious%20outlines%2C%20no%20artificial%20glow.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81%20%7Bargument%20name%3D%22objects%22%20default%3D%22%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B8%E0%B8%A1%2C%20%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B9%2C%20%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D%2C%20%E0%B9%83%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%89%2C%20%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%82%E0%B8%B5%E0%B8%94%E0%B9%84%E0%B8%9F%22%7D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2%20%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87%20%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%20%E0%B9%86%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%20%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%88%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%8F%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%3A%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%20%E0%B9%86%20%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%20%22%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%22%20%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%8B%E0%B8%B9%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B6%E0%B8%81%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%3A%20%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B8%B5%E0%B8%94%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%99%20%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%9B%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1)**
 
 ---
 
-### No. 24: Hyper-Realistic Cinematic Portrait
+### No. 24: ภาพบุคคลเสมือนจริงระดับภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A highly detailed, structured prompt comparing GPT Image 1.5 and Gemini Nano Banana Pro. The prompt aims to generate a hyper-realistic, cinematic portrait of a rugged man in a worn leather jacket, set in a moody outdoor mountain landscape with specific camera settings (85mm, f/1.8, shallow depth of field) and desaturated color palette.
+ข้อความแจ้งที่ละเอียดและมีโครงสร้างสูง ซึ่งเปรียบเทียบ GPT Image 1.5 และ Gemini Nano Banana Pro ข้อความแจ้งนี้มีจุดมุ่งหมายเพื่อสร้างภาพบุคคลที่สมจริงและเหมือนภาพยนตร์ของชายหนุ่มที่ดูบึกบึนในเสื้อแจ็คเก็ตหนังเก่า ๆ โดยมีฉากหลังเป็นทิวทัศน์ภูเขาด้านนอกที่มืดครึ้ม พร้อมการตั้งค่ากล้องเฉพาะ (85 มม., f/1.8, ระยะชัดตื้น) และโทนสีที่ลดความอิ่มตัว
 
 #### 📝 คำสั่ง
 
 ```
 {
-  "render_goal": "Create a hyper-realistic, cinematic portrait with a rugged outdoor adventure aesthetic",
+  "render_goal": "สร้างภาพบุคคลที่สมจริงขั้นสุดแบบภาพยนตร์ ด้วยสุนทรียภาพของการผจญภัยกลางแจ้งที่สมบุกสมบัน",
   "subject": {
-    "gender": "male",
-    "age_range": "mid-to-late 20s",
+    "gender": "ชาย",
+    "age_range": "ช่วงอายุ 20 ปลายๆ",
     "appearance": {
-      "hair": "textured, windswept",
-      "beard": "short, well-groomed",
-      "facial_features": "sharp, chiseled",
-      "expression": "intense, serious"
+      "hair": "มีเท็กซ์เจอร์, ถูกลมพัดปลิว",
+      "beard": "สั้น, ดูแลเป็นอย่างดี",
+      "facial_features": "คมชัด, โดดเด่น",
+      "expression": "เข้มข้น, จริงจัง"
     },
-    "skin_detail": "ultra-detailed, natural texture with realistic tones"
+    "skin_detail": "รายละเอียดสูง, พื้นผิวธรรมชาติพร้อมโทนสีที่สมจริง"
   },
   "wardrobe": {
-    "outerwear": "worn dark leather jacket",
-    "details": "visible stitching, rugged texture"
+    "outerwear": "เสื้อแจ็คเก็ตหนังสีเข้มที่ผ่านการใช้งาน",
+    "details": "เห็นรอยเย็บ, พื้นผิวที่สมบุกสมบัน"
   },
   "environment": {
-    "location": "outdoor mountain landscape",
+    "location": "ทิวทัศน์ภูเขากลางแจ้ง",
     "background": {
-      "mountains": "misty, fog-covered",
-      "trees": "dark evergreen forest fading into distance",
-      "atmosphere": "dense atmospheric fog"
+      "mountains": "ปกคลุมด้วยหมอก, มีเมฆหมอก",
+      "trees": "ป่าสนสีเข้มจางหายไปในระยะไกล",
+      "atmosphere": "หมอกหนาทึบ"
     }
   },
   "lighting_and_color": {
-    "lighting_style": "moody, cinematic",
-    "light_source": "soft overcast daylight",
-    "shadows": "dramatic but natural",
-    "color_palette": "cool, desaturated tones"
+    "lighting_style": "อารมณ์แบบภาพยนตร์, ชวนฝัน",
+    "light_source": "แสงแดดอ่อนๆ ในวันที่มีเมฆมาก",
+    "shadows": "มีมิติแต่ดูเป็นธรรมชาติ",
+    "color_palette": "โทนสีเย็น, สีไม่จัดจ้าน"
   },
   "camera_settings": {
     "lens": "85mm",
     "aperture": "f/1.8",
-    "depth_of_field": "shallow",
-    "focus": "razor-sharp on subject, blurred background"
+    "depth_of_field": "ชัดตื้น",
+    "focus": "คมชัดที่ตัวแบบ, พื้นหลังเบลอ"
   },
   "photography_style": {
-    "quality": "professional photography",
-    "realism_level": "hyper-realistic",
-    "details": "high micro-detail, crisp textures, cinematic contrast"
+    "quality": "การถ่ายภาพระดับมืออาชีพ",
+    "realism_level": "สมจริงขั้นสุด",
+    "details": "รายละเอียดเล็กๆ น้อยๆ สูง, พื้นผิวคมชัด, คอนทราสต์แบบภาพยนตร์"
   }
 }
 ```
@@ -1265,13 +1264,13 @@ A highly detailed, structured prompt comparing GPT Image 1.5 and Gemini Nano Ban
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231602177_klzfjo_G8gixqyakAEkbsL.jpg" width="600" alt="Hyper-Realistic Cinematic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231602177_klzfjo_G8gixqyakAEkbsL.jpg" width="600" alt="ภาพบุคคลเสมือนจริงระดับภาพยนตร์ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231602731_4umrzz_G8gixtOaMAAPAHU.jpg" width="600" alt="Hyper-Realistic Cinematic Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231602731_4umrzz_G8gixtOaMAAPAHU.jpg" width="600" alt="ภาพบุคคลเสมือนจริงระดับภาพยนตร์ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1281,22 +1280,22 @@ A highly detailed, structured prompt comparing GPT Image 1.5 and Gemini Nano Ban
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%7B%0A%20%20%22render_goal%22%3A%20%22Create%20a%20hyper-realistic%2C%20cinematic%20portrait%20with%20a%20rugged%20outdoor%20adventure%20aesthetic%22%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22male%22%2C%0A%20%20%20%20%22age_range%22%3A%20%22mid-to-late%2020s%22%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22textured%2C%20windswept%22%2C%0A%20%20%20%20%20%20%22beard%22%3A%20%22short%2C%20well-groomed%22%2C%0A%20%20%20%20%20%20%22facial_features%22%3A%20%22sharp%2C%20chiseled%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22intense%2C%20serious%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultra-detailed%2C%20natural%20texture%20with%20realistic%20tones%22%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outerwear%22%3A%20%22worn%20dark%20leather%20jacket%22%2C%0A%20%20%20%20%22details%22%3A%20%22visible%20stitching%2C%20rugged%20texture%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22outdoor%20mountain%20landscape%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22mountains%22%3A%20%22misty%2C%20fog-covered%22%2C%0A%20%20%20%20%20%20%22trees%22%3A%20%22dark%20evergreen%20forest%20fading%20into%20distance%22%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%22dense%20atmospheric%20fog%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_color%22%3A%20%7B%0A%20%20%20%20%22lighting_style%22%3A%20%22moody%2C%20cinematic%22%2C%0A%20%20%20%20%22light_source%22%3A%20%22soft%20overcast%20daylight%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22dramatic%20but%20natural%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22cool%2C%20desaturated%20tones%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22shallow%22%2C%0A%20%20%20%20%22focus%22%3A%20%22razor-sharp%20on%20subject%2C%20blurred%20background%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22quality%22%3A%20%22professional%20photography%22%2C%0A%20%20%20%20%22realism_level%22%3A%20%22hyper-realistic%22%2C%0A%20%20%20%20%22details%22%3A%20%22high%20micro-detail%2C%20crisp%20textures%2C%20cinematic%20contrast%22%0A%20%20%7D%0A%7D)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%7B%0A%20%20%22render_goal%22%3A%20%22%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%99%22%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%E0%B8%8A%E0%B8%B2%E0%B8%A2%22%2C%0A%20%20%20%20%22age_range%22%3A%20%22%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2020%20%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%86%22%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%2C%20%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B8%A5%E0%B8%B4%E0%B8%A7%22%2C%0A%20%20%20%20%20%20%22beard%22%3A%20%22%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%2C%20%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B5%22%2C%0A%20%20%20%20%20%20%22facial_features%22%3A%20%22%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%2C%20%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%99%2C%20%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%87%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%22%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outerwear%22%3A%20%22%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%22%2C%0A%20%20%20%20%22details%22%3A%20%22%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%99%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22mountains%22%3A%20%22%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%2C%20%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%22%2C%0A%20%20%20%20%20%20%22trees%22%3A%20%22%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B9%84%E0%B8%81%E0%B8%A5%22%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%22%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B6%E0%B8%9A%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_color%22%3A%20%7B%0A%20%20%20%20%22lighting_style%22%3A%20%22%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%2C%20%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99%22%2C%0A%20%20%20%20%22light_source%22%3A%20%22%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%86%20%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%A1%E0%B8%B2%E0%B8%81%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22%E0%B8%A1%E0%B8%B5%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%2C%20%E0%B8%AA%E0%B8%B5%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%99%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B7%E0%B9%89%E0%B8%99%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22quality%22%3A%20%22%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%22%2C%0A%20%20%20%20%22realism_level%22%3A%20%22%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%22%2C%0A%20%20%20%20%22details%22%3A%20%22%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%86%20%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%86%20%E0%B8%AA%E0%B8%B9%E0%B8%87%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%2C%20%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 25: Harajuku Decora Pop Art Poster of Aniko (Detailed)
+### No. 25: โปสเตอร์ Harajuku Decora Pop Art ของ Aniko (รายละเอียด)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A highly detailed, structured prompt designed to transform an existing character (Aniko) into a maximalist, high-energy Harajuku Decora and Y2K fashion icon poster art. It emphasizes visual information overload, dynamic composition, and specific typographic requirements for a 'Kawaii' aesthetic. This is a duplicate of the prompt in tweet 2001981106497998980, shared by a different user.
+ข้อความแจ้งที่ละเอียดและมีโครงสร้างสูง ซึ่งออกแบบมาเพื่อเปลี่ยนตัวละครที่มีอยู่ (Aniko) ให้กลายเป็นโปสเตอร์ศิลปะสไตล์ Harajuku Decora และ Y2K ที่เน้นความจัดจ้านและพลังงานสูง โดยเน้นข้อมูลภาพที่ล้นหลาม องค์ประกอบที่เคลื่อนไหว และข้อกำหนดด้านการพิมพ์เฉพาะสำหรับสุนทรียภาพแบบ 'Kawaii' นี่คือข้อความแจ้งที่ซ้ำกับในทวีต 2001981106497998980 ซึ่งแชร์โดยผู้ใช้รายอื่น
 
 #### 📝 คำสั่ง
 
 ```
-【Request for Production: Character 'Kawaii' Remix】 Using the attached image of the character (Aniko) as a model, could you draw a highly dense and vibrant poster art where she has become a Harajuku fashion icon? 【Points to Infer】 Outfit Upgrade: Do not be constrained by the 'school uniform' element of the original image. Based on her hair color and eye color, devise a much flashier outfit, heavily accessorized, based on **'Harajuku Decora' and 'Y2K fashion'**. (Examples: layered colorful hoodies, frilled skirts, platform sneakers, excessive amounts of hairpins and plastic accessories, etc.) Space Direction: Please use an art style that fills in all 'empty space'. Scatter bursting candies, stars, hearts, ribbons, and comic-style effects like 'BAM!' and 'POP!' in the background to express a **'visually information-overloaded happiness'** like an overturned toy box. Composition and Pose: Use a defenseless, floating pose, as if released from gravity and floating in the air, or lying on a bed and photographed from above. A dynamic composition that uses ultra-wide-angle lens perspective to make hands, feet, and shoes appear large would be appreciated. Typography: Design the text **'ANIKO'** as a shiny, balloon-like 3D logo and place it prominently as the main element of the screen. 【Target Visual】 The violence of 'Kawaii'. Aim for a supremely high-tension pop art that is overflowing with color and feels like your brain is melting just by looking at it. 【Highest Priority】 My instructions are only references for direction; please prioritize the highest quality visual outcome and select or discard my information accordingly. --stylize 1400 --ar 16:9
+【คำขอผลิต: การรีมิกซ์ตัวละคร 'Kawaii'】 โดยใช้อิมเมจตัวละคร (Aniko) ที่แนบมาเป็นแบบอย่าง คุณช่วยวาดโปสเตอร์ที่หนาแน่นและมีชีวิตชีวา โดยให้เธอเป็นไอคอนแฟชั่นสไตล์ฮาราจูกุได้ไหม? 【ประเด็นที่ต้องตีความ】 การอัปเกรดเครื่องแต่งกาย: อย่าจำกัดอยู่แค่ชุดนักเรียนในภาพต้นฉบับ จากสีผมและสีตาของเธอ ให้ออกแบบชุดที่ฉูดฉาดกว่าเดิมมาก มีเครื่องประดับเยอะ ๆ โดยอิงจาก **'Harajuku Decora' และ 'Y2K fashion'** (ตัวอย่าง: เสื้อฮู้ดหลากสีหลายชั้น, กระโปรงจีบ, รองเท้าผ้าใบเสริมส้น, กิ๊บติดผมและเครื่องประดับพลาสติกจำนวนมาก ฯลฯ) ทิศทางของพื้นที่: โปรดใช้สไตล์ศิลปะที่เติมเต็ม 'พื้นที่ว่าง' ทั้งหมด กระจายลูกอมที่กำลังแตกออก, ดวงดาว, หัวใจ, ริบบิ้น และเอฟเฟกต์สไตล์การ์ตูน เช่น 'BAM!' และ 'POP!' ในพื้นหลัง เพื่อแสดงถึง **'ความสุขที่เต็มไปด้วยข้อมูลทางสายตา'** เหมือนกล่องของเล่นที่ถูกคว่ำลง องค์ประกอบและท่าทาง: ใช้ท่าทางที่ไร้การป้องกัน ลอยตัว เหมือนหลุดพ้นจากแรงโน้มถ่วงและลอยอยู่ในอากาศ หรือนอนอยู่บนเตียงและถ่ายจากด้านบน การจัดองค์ประกอบแบบไดนามิกที่ใช้มุมมองเลนส์มุมกว้างพิเศษเพื่อให้มือ เท้า และรองเท้าดูใหญ่ จะเป็นที่ชื่นชม การจัดวางตัวอักษร: ออกแบบข้อความ **'ANIKO'** ให้เป็นโลโก้ 3 มิติที่เงางามเหมือนลูกโป่ง และวางไว้โดดเด่นเป็นองค์ประกอบหลักของหน้าจอ 【ภาพเป้าหมาย】 ความรุนแรงของ 'Kawaii' มุ่งเป้าไปที่งานศิลปะป๊อปที่มีความตึงเครียดสูงมาก ซึ่งเต็มไปด้วยสีสันและให้ความรู้สึกเหมือนสมองของคุณกำลังละลายเพียงแค่ได้มองมัน 【ความสำคัญสูงสุด】 คำแนะนำของฉันเป็นเพียงแนวทางเท่านั้น โปรดให้ความสำคัญกับผลลัพธ์ด้านภาพที่มีคุณภาพสูงสุด และเลือกหรือทิ้งข้อมูลของฉันตามความเหมาะสม --stylize 1400 --ar 16:9
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1304,7 +1303,7 @@ A highly detailed, structured prompt designed to transform an existing character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231612195_vhykzm_G8gf4NvacAAjp-c.jpg" width="600" alt="Harajuku Decora Pop Art Poster of Aniko (Detailed) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231612195_vhykzm_G8gf4NvacAAjp-c.jpg" width="600" alt="โปสเตอร์ Harajuku Decora Pop Art ของ Aniko (รายละเอียด) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1314,22 +1313,22 @@ A highly detailed, structured prompt designed to transform an existing character
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E3%80%90Request%20for%20Production%3A%20Character%20'Kawaii'%20Remix%E3%80%91%20Using%20the%20attached%20image%20of%20the%20character%20(Aniko)%20as%20a%20model%2C%20could%20you%20draw%20a%20highly%20dense%20and%20vibrant%20poster%20art%20where%20she%20has%20become%20a%20Harajuku%20fashion%20icon%3F%20%E3%80%90Points%20to%20Infer%E3%80%91%20Outfit%20Upgrade%3A%20Do%20not%20be%20constrained%20by%20the%20'school%20uniform'%20element%20of%20the%20original%20image.%20Based%20on%20her%20hair%20color%20and%20eye%20color%2C%20devise%20a%20much%20flashier%20outfit%2C%20heavily%20accessorized%2C%20based%20on%20**'Harajuku%20Decora'%20and%20'Y2K%20fashion'**.%20(Examples%3A%20layered%20colorful%20hoodies%2C%20frilled%20skirts%2C%20platform%20sneakers%2C%20excessive%20amounts%20of%20hairpins%20and%20plastic%20accessories%2C%20etc.)%20Space%20Direction%3A%20Please%20use%20an%20art%20style%20that%20fills%20in%20all%20'empty%20space'.%20Scatter%20bursting%20candies%2C%20stars%2C%20hearts%2C%20ribbons%2C%20and%20comic-style%20effects%20like%20'BAM!'%20and%20'POP!'%20in%20the%20background%20to%20express%20a%20**'visually%20information-overloaded%20happiness'**%20like%20an%20overturned%20toy%20box.%20Composition%20and%20Pose%3A%20Use%20a%20defenseless%2C%20floating%20pose%2C%20as%20if%20released%20from%20gravity%20and%20floating%20in%20the%20air%2C%20or%20lying%20on%20a%20bed%20and%20photographed%20from%20above.%20A%20dynamic%20composition%20that%20uses%20ultra-wide-angle%20lens%20perspective%20to%20make%20hands%2C%20feet%2C%20and%20shoes%20appear%20large%20would%20be%20appreciated.%20Typography%3A%20Design%20the%20text%20**'ANIKO'**%20as%20a%20shiny%2C%20balloon-like%203D%20logo%20and%20place%20it%20prominently%20as%20the%20main%20element%20of%20the%20screen.%20%E3%80%90Target%20Visual%E3%80%91%20The%20violence%20of%20'Kawaii'.%20Aim%20for%20a%20supremely%20high-tension%20pop%20art%20that%20is%20overflowing%20with%20color%20and%20feels%20like%20your%20brain%20is%20melting%20just%20by%20looking%20at%20it.%20%E3%80%90Highest%20Priority%E3%80%91%20My%20instructions%20are%20only%20references%20for%20direction%3B%20please%20prioritize%20the%20highest%20quality%20visual%20outcome%20and%20select%20or%20discard%20my%20information%20accordingly.%20--stylize%201400%20--ar%2016%3A9)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E3%80%90%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%3A%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%20'Kawaii'%E3%80%91%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%20(Aniko)%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%99%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%20%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B9%E0%B8%81%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1%3F%20%E3%80%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E3%80%91%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%3A%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B8%9C%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B9%E0%B8%94%E0%B8%89%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%81%20%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A2%E0%B8%AD%E0%B8%B0%20%E0%B9%86%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%20**'Harajuku%20Decora'%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20'Y2K%20fashion'**%20(%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%3A%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%2C%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B8%9A%2C%20%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B9%89%E0%B8%99%2C%20%E0%B8%81%E0%B8%B4%E0%B9%8A%E0%B8%9A%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81%20%E0%B8%AF%E0%B8%A5%E0%B8%AF)%20%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%3A%20%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%20'%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87'%20%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%81%2C%20%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A7%2C%20%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%2C%20%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%20%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%99%20'BAM!'%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20'POP!'%20%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%96%E0%B8%B6%E0%B8%87%20**'%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2'**%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B8%A7%E0%B9%88%E0%B8%B3%E0%B8%A5%E0%B8%87%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%3A%20%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%20%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B8%9E%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%82%E0%B8%99%E0%B9%89%E0%B8%A1%E0%B8%96%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B7%E0%B8%AD%20%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A1%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%3A%20%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20**'ANIKO'**%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%203%20%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%82%E0%B8%9B%E0%B9%88%E0%B8%87%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD%20%E3%80%90%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E3%80%91%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%20'Kawaii'%20%E0%B8%A1%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99%20%E3%80%90%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E3%80%91%20%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%A1%20--stylize%201400%20--ar%2016%3A9)**
 
 ---
 
-### No. 26: Moody Cinematic Portrait
+### No. 26: ภาพบุคคลแนวภาพยนตร์ที่ดูหม่นหมอง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for GPT Image 1.5 generating a moody, cinematic portrait of a man. It specifies dark teal and cyan studio lighting, a smooth gradient background, a creative double exposure effect, film look, and high contrast suitable for poster design composition.
+ข้อความแจ้งโดยละเอียดสำหรับ GPT Image 1.5 ที่สร้างภาพบุคคลของผู้ชายในอารมณ์แบบภาพยนตร์ โดยระบุแสงไฟสตูดิโอสีเขียวอมน้ำเงินเข้มและสีฟ้าอมเขียว พื้นหลังแบบไล่ระดับสีที่เรียบเนียน เอฟเฟกต์ภาพซ้อนที่สร้างสรรค์ รูปลักษณ์แบบฟิล์ม และคอนทราสต์สูงที่เหมาะสำหรับการจัดองค์ประกอบภาพโปสเตอร์
 
 #### 📝 คำสั่ง
 
 ```
-moody cinematic portrait of a man in dark jacket, front facing but slightly turned, minimal expression, dark teal and cyan studio lighting, smooth gradient blue background fading into shadows, creative double exposure ghosted silhouette behind main face, soft haze, film look, subtle grain, high contrast on facial features, poster design composition, empty space for typography, no text, no watermark
+ภาพบุคคลแนวภาพยนตร์ที่ดูหม่นหมองของผู้ชายสวมแจ็คเก็ตสีเข้ม หันหน้าตรงแต่เอียงเล็กน้อย สีหน้าเรียบเฉย แสงสตูดิโอสีเขียวอมน้ำเงินเข้มและสีฟ้าอมเขียว พื้นหลังสีน้ำเงินไล่ระดับสีอย่างนุ่มนวลจางหายไปในเงามืด ภาพซ้อนเงาแบบ double exposure ที่สร้างสรรค์อยู่ด้านหลังใบหน้าหลัก หมอกจางๆ ฟิล์มลุค เกรนละเอียด คอนทราสต์สูงบนใบหน้า องค์ประกอบการออกแบบโปสเตอร์ พื้นที่ว่างสำหรับตัวอักษร ไม่มีข้อความ ไม่มีลายน้ำ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1337,7 +1336,7 @@ moody cinematic portrait of a man in dark jacket, front facing but slightly turn
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592930_q2refo_G8gYxAjawAE1oc3.jpg" width="600" alt="Moody Cinematic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231592930_q2refo_G8gYxAjawAE1oc3.jpg" width="600" alt="ภาพบุคคลแนวภาพยนตร์ที่ดูหม่นหมอง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1347,22 +1346,22 @@ moody cinematic portrait of a man in dark jacket, front facing but slightly turn
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=moody%20cinematic%20portrait%20of%20a%20man%20in%20dark%20jacket%2C%20front%20facing%20but%20slightly%20turned%2C%20minimal%20expression%2C%20dark%20teal%20and%20cyan%20studio%20lighting%2C%20smooth%20gradient%20blue%20background%20fading%20into%20shadows%2C%20creative%20double%20exposure%20ghosted%20silhouette%20behind%20main%20face%2C%20soft%20haze%2C%20film%20look%2C%20subtle%20grain%2C%20high%20contrast%20on%20facial%20features%2C%20poster%20design%20composition%2C%20empty%20space%20for%20typography%2C%20no%20text%2C%20no%20watermark)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%20%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%89%E0%B8%A2%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%B7%E0%B8%94%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B9%81%E0%B8%9A%E0%B8%9A%20double%20exposure%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%20%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%A5%E0%B8%B8%E0%B8%84%20%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%20%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3)**
 
 ---
 
-### No. 27: TIME Magazine 'Person of the Year' Cover
+### No. 27: ปกนิตยสาร TIME 'บุคคลแห่งปี'
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A Japanese prompt instructing GPT Image 1.5 to generate a cover for TIME magazine's '100 People of the Year' issue, specifying that all titles and text should be in English for a professional look.
+ข้อความแจ้ง (prompt) ภาษาญี่ปุ่นที่สั่งให้ GPT Image 1.5 สร้างหน้าปกนิตยสาร TIME ฉบับ '100 People of the Year' โดยระบุให้ชื่อเรื่องและข้อความทั้งหมดเป็นภาษาอังกฤษเพื่อความดูเป็นมืออาชีพ
 
 #### 📝 คำสั่ง
 
 ```
-Create the cover of TIME magazine's '100 People of the Year'. All titles and text should be in English.
+สร้างหน้าปกนิตยสาร TIME ฉบับ '100 People of the Year' ชื่อเรื่องและข้อความทั้งหมดต้องเป็นภาษาอังกฤษ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1370,13 +1369,13 @@ Create the cover of TIME magazine's '100 People of the Year'. All titles and tex
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231619160_73kak9_G8gKwd2akAgEEuQ.jpg" width="600" alt="TIME Magazine 'Person of the Year' Cover - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231619160_73kak9_G8gKwd2akAgEEuQ.jpg" width="600" alt="ปกนิตยสาร TIME 'บุคคลแห่งปี' - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231619429_gy8aao_G8gKt_ubcAAJ3SZ.jpg" width="600" alt="TIME Magazine 'Person of the Year' Cover - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231619429_gy8aao_G8gKt_ubcAAJ3SZ.jpg" width="600" alt="ปกนิตยสาร TIME 'บุคคลแห่งปี' - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1386,29 +1385,29 @@ Create the cover of TIME magazine's '100 People of the Year'. All titles and tex
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Create%20the%20cover%20of%20TIME%20magazine's%20'100%20People%20of%20the%20Year'.%20All%20titles%20and%20text%20should%20be%20in%20English.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A3%20TIME%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%20'100%20People%20of%20the%20Year'%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9)**
 
 ---
 
-### No. 28: Ultra-Realistic Cloud Silhouette
+### No. 28: ภาพเงาเมฆที่สมจริงเป็นพิเศษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A highly detailed prompt for GPT Image 1.5 requesting an ultra-realistic sky scene where clouds naturally form the silhouette of a specified person. It emphasizes natural lighting, realism, specific composition (square format, cloud in upper frame), and a calm, optimistic mood.
+คำสั่งพร้อมต์ที่มีรายละเอียดสูงสำหรับ GPT Image 1.5 ที่ขอฉากท้องฟ้าที่สมจริงเป็นพิเศษ โดยมีเมฆก่อตัวเป็นเงาของบุคคลที่ระบุไว้อย่างเป็นธรรมชาติ เน้นแสงธรรมชาติ, ความสมจริง, องค์ประกอบเฉพาะ (รูปแบบสี่เหลี่ยมจัตุรัส, เมฆในกรอบด้านบน) และอารมณ์ที่สงบและมองโลกในแง่ดี
 
 #### 📝 คำสั่ง
 
 ```
-Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear, recognizable silhouette of {argument name="person" default="[PERSON]"}. The cloud likeness appears high in a vibrant blue sky, formed gently and believably, as if shaped naturally by wind and atmosphere rather than intentionally sculpted.
+สร้างฉากท้องฟ้าที่สมจริงเป็นพิเศษ โดยมีกลุ่มเมฆที่อ่อนนุ่มและเป็นธรรมชาติก่อตัวขึ้นเป็นเงาของ {argument name="person" default="[PERSON]"} ที่ชัดเจนและจดจำได้ เมฆที่คล้ายคลึงกันนี้ปรากฏอยู่สูงในท้องฟ้าสีครามสดใส ก่อตัวขึ้นอย่างนุ่มนวลและน่าเชื่อถือ ราวกับว่าถูกสร้างขึ้นตามธรรมชาติด้วยลมและบรรยากาศ ไม่ได้ถูกแกะสลักขึ้นโดยเจตนา
 
-The cloud figure floats above a grounded, recognizable natural landscape below—fields, hills, water, or trees—providing scale and realism. The composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape anchors the scene beneath.
+รูปร่างของเมฆลอยอยู่เหนือภูมิทัศน์ธรรมชาติที่จดจำได้ด้านล่าง ไม่ว่าจะเป็นทุ่งนา เนินเขา ผืนน้ำ หรือต้นไม้ ซึ่งให้สัดส่วนและความสมจริง องค์ประกอบเป็นสี่เหลี่ยมจัตุรัส (1080×1080) โดยมีกลุ่มเมฆครอบครองส่วนบนของเฟรม ในขณะที่ภูมิทัศน์เป็นส่วนฐานของฉากด้านล่าง
 
-Lighting is crisp and daylight-bright, with sunlit highlights and soft shadowing across the clouds to enhance volume, depth, and softness. The sky remains clean and naturally blue, with realistic atmospheric gradients.
+แสงคมชัดและสว่างจ้าเหมือนเวลากลางวัน โดยมีแสงแดดส่องสว่างและเงาอ่อนๆ ทอดผ่านเมฆเพื่อเพิ่มปริมาตร ความลึก และความนุ่มนวล ท้องฟ้ายังคงสะอาดและเป็นสีฟ้าตามธรรมชาติ พร้อมด้วยการไล่ระดับสีของบรรยากาศที่สมจริง
 
-The overall mood is calm, optimistic, and visually striking, with rich yet natural color saturation and a peaceful, uplifting atmosphere. Ultra-high realism, cinematic clarity, no text, no surreal effects, no exaggeration
+อารมณ์โดยรวมสงบ มองโลกในแง่ดี และโดดเด่นทางสายตา ด้วยความอิ่มตัวของสีที่เข้มข้นแต่เป็นธรรมชาติ และบรรยากาศที่สงบและยกระดับจิตใจ ความสมจริงสูงเป็นพิเศษ ความคมชัดแบบภาพยนตร์ ไม่มีข้อความ ไม่มีเอฟเฟกต์เหนือจริง ไม่มีการพูดเกินจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1416,25 +1415,25 @@ The overall mood is calm, optimistic, and visually striking, with rich yet natur
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592390_6ntrvv_G8gHGdcb0AASGUa.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231592390_6ntrvv_G8gHGdcb0AASGUa.jpg" width="600" alt="ภาพเงาเมฆที่สมจริงเป็นพิเศษ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592621_omzyux_G8gHGdfakAE22ay.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231592621_omzyux_G8gHGdfakAE22ay.jpg" width="600" alt="ภาพเงาเมฆที่สมจริงเป็นพิเศษ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592692_1wp5xh_G8gHGdfakAIDXpJ.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231592692_1wp5xh_G8gHGdfakAIDXpJ.jpg" width="600" alt="ภาพเงาเมฆที่สมจริงเป็นพิเศษ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231594367_tyuksk_G8gHGd2bAAAaYSS.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766231594367_tyuksk_G8gHGd2bAAAaYSS.jpg" width="600" alt="ภาพเงาเมฆที่สมจริงเป็นพิเศษ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -1444,7 +1443,7 @@ The overall mood is calm, optimistic, and visually striking, with rich yet natur
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Create%20an%20ultra-realistic%20sky%20scene%20where%20soft%2C%20natural%20cloud%20formations%20organically%20assemble%20into%20the%20clear%2C%20recognizable%20silhouette%20of%20%7Bargument%20name%3D%22person%22%20default%3D%22%5BPERSON%5D%22%7D.%20The%20cloud%20likeness%20appears%20high%20in%20a%20vibrant%20blue%20sky%2C%20formed%20gently%20and%20believably%2C%20as%20if%20shaped%20naturally%20by%20wind%20and%20atmosphere%20rather%20than%20intentionally%20sculpted.%0A%0AThe%20cloud%20figure%20floats%20above%20a%20grounded%2C%20recognizable%20natural%20landscape%20below%E2%80%94fields%2C%20hills%2C%20water%2C%20or%20trees%E2%80%94providing%20scale%20and%20realism.%20The%20composition%20is%20square%20(1080%C3%971080)%2C%20with%20the%20cloud%20formation%20occupying%20the%20upper%20portion%20of%20the%20frame%20while%20the%20landscape%20anchors%20the%20scene%20beneath.%0A%0ALighting%20is%20crisp%20and%20daylight-bright%2C%20with%20sunlit%20highlights%20and%20soft%20shadowing%20across%20the%20clouds%20to%20enhance%20volume%2C%20depth%2C%20and%20softness.%20The%20sky%20remains%20clean%20and%20naturally%20blue%2C%20with%20realistic%20atmospheric%20gradients.%0A%0AThe%20overall%20mood%20is%20calm%2C%20optimistic%2C%20and%20visually%20striking%2C%20with%20rich%20yet%20natural%20color%20saturation%20and%20a%20peaceful%2C%20uplifting%20atmosphere.%20Ultra-high%20realism%2C%20cinematic%20clarity%2C%20no%20text%2C%20no%20surreal%20effects%2C%20no%20exaggeration)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%20%7Bargument%20name%3D%22person%22%20default%3D%22%5BPERSON%5D%22%7D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%88%E0%B8%94%E0%B8%88%E0%B8%B3%E0%B9%84%E0%B8%94%E0%B9%89%20%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A5%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%8F%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%20%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%96%E0%B8%B7%E0%B8%AD%20%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B9%81%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%99%E0%B8%B2%0A%0A%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%94%E0%B8%88%E0%B8%B3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%B2%20%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B2%20%E0%B8%9C%E0%B8%B7%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%89%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA%20(1080%C3%971080)%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9F%E0%B8%A3%E0%B8%A1%20%E0%B9%83%E0%B8%99%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%0A%0A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%86%20%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B6%E0%B8%81%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%20%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%0A%0A%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B8%87%E0%B8%9A%20%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%87%E0%B9%88%E0%B8%94%E0%B8%B5%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%87%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87)**
 
 ---
 
@@ -1481,18 +1480,18 @@ The overall mood is calm, optimistic, and visually striking, with rich yet natur
 
 ---
 
-### No. 30: Dynamic Basketball Dunk Photo
+### No. 30: ภาพถ่ายบาสเกตบอลช็อตดังค์สุดเร้าใจ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-A Japanese prompt used with GPT Image 1.5 to generate a dynamic photo of a person performing a basketball dunk, focusing on capturing the sense of motion and action.
+พรอมต์ภาษาญี่ปุ่นที่ใช้กับ GPT Image 1.5 เพื่อสร้างภาพถ่ายบุคคลกำลังดังก์บาสเกตบอลแบบไดนามิก โดยเน้นการจับภาพความรู้สึกของการเคลื่อนไหวและแอคชั่น
 
 #### 📝 คำสั่ง
 
 ```
-Create a dynamic photo of this person performing a dunk in basketball.
+สร้างภาพถ่ายแบบไดนามิกของบุคคลนี้กำลังดังก์บาสเกตบอล
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1500,13 +1499,13 @@ Create a dynamic photo of this person performing a dunk in basketball.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231617305_kxg5xe_G8fyCw5akAECs4g.jpg" width="600" alt="Dynamic Basketball Dunk Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231617305_kxg5xe_G8fyCw5akAECs4g.jpg" width="600" alt="ภาพถ่ายบาสเกตบอลช็อตดังค์สุดเร้าใจ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231617338_rez12g_G8fyFCSaQAEe-bB.jpg" width="600" alt="Dynamic Basketball Dunk Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231617338_rez12g_G8fyFCSaQAEe-bB.jpg" width="600" alt="ภาพถ่ายบาสเกตบอลช็อตดังค์สุดเร้าใจ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1516,18 +1515,18 @@ Create a dynamic photo of this person performing a dunk in basketball.
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Create%20a%20dynamic%20photo%20of%20this%20person%20performing%20a%20dunk%20in%20basketball.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%9A%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5)**
 
 ---
 
-### No. 31: ภาพร่างวงจรของ Bender
+### No. 31: ภาพร่างโครงสร้างแบบดินสอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-ข้อความแจ้งที่เรียบง่ายและตรงไปตรงมาสำหรับ GPT Image 1.5 ซึ่งขอภาพร่างดินสอที่แสดงแผนผังของตัวละคร Bender ซึ่งน่าจะมาจาก Futurama
+คำสั่งง่าย ๆ สำหรับ GPT Image 1.5 เพื่อขอภาพร่างดินสอของแผนผังวงจรสำหรับตัวละคร Bender
 
 #### 📝 คำสั่ง
 
@@ -1540,7 +1539,7 @@ Create a dynamic photo of this person performing a dunk in basketball.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231589771_1aj971_G8fx2PuasAEvwnj.jpg" width="600" alt="ภาพร่างวงจรของ Bender - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231589771_1aj971_G8fx2PuasAEvwnj.jpg" width="600" alt="ภาพร่างโครงสร้างแบบดินสอ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1554,33 +1553,33 @@ Create a dynamic photo of this person performing a dunk in basketball.
 
 ---
 
-### No. 32: พรอมต์ถ่ายภาพผลิตภัณฑ์แฟชั่นแบบละเอียดสำหรับ GPT Image 1.5
+### No. 32: พรอมต์ถ่ายภาพผลิตภัณฑ์ขั้นสูงสำหรับ GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-คำสั่ง (prompt) ที่ละเอียดและมีโครงสร้างสูง ออกแบบมาสำหรับ GPT Image 1.5 เพื่อสร้างภาพโฆษณาคุณภาพเชิงพาณิชย์ องค์ประกอบภาพเป็นแบบแบ่งครึ่งแนวตั้ง โดยส่วนบนเป็นภาพถ่ายสินค้าแบบจัดวาง (flat-lay) ของชุดเสื้อผ้าในกล่องจัดแสดงตัวอย่างในพิพิธภัณฑ์ และส่วนล่างเป็นภาพลวงตา '3D ด้วยตาเปล่า' ที่สมจริงมากของนางแบบที่สวมชุดเดียวกันทุกประการ สร้างความแตกต่างทางสายตาระหว่างการนำเสนอและความเป็นจริง คำสั่งนี้รวมรายละเอียดเฉพาะเกี่ยวกับเสื้อผ้า อุปกรณ์ประกอบฉาก คำอธิบายของนางแบบ ท่าทาง และข้อมูลจำเพาะทางเทคนิคในการเรนเดอร์
+นี่คือพรอมต์ที่มีรายละเอียดสูงและมีโครงสร้าง ซึ่งออกแบบมาสำหรับการถ่ายภาพผลิตภัณฑ์เชิงพาณิชย์ โดยสร้างองค์ประกอบแบบแบ่งหน้าจอแนวตั้ง ส่วนบนแสดงเสื้อผ้าเป็นตัวอย่างจัดแสดงในพิพิธภัณฑ์ในกล่องเงา ในขณะที่ส่วนล่างแสดงนางแบบที่สมจริงมากสวมชุดเดียวกันทุกประการ สร้างภาพลวงตาแบบ '3D ด้วยตาเปล่า' พรอมต์นี้สามารถปรับแต่งได้อย่างมากสำหรับรายละเอียดเสื้อผ้า อุปกรณ์ประกอบฉาก ข้อความ และคำอธิบายของนางแบบ
 
 #### 📝 คำสั่ง
 
 ```
 ภาพถ่ายสินค้าจัดองค์ประกอบแบบแบ่งครึ่งแนวตั้งบนพื้นหลังผนังสีขาวสะอาดตา ความละเอียดสูง, สมจริง, คุณภาพระดับโฆษณาเชิงพาณิชย์
 
-ส่วนบน: กล่องจัดแสดงตัวอย่าง
-ครึ่งบนเป็นกรอบกล่องเงาไม้โอ๊กสีอ่อนสวยงามติดตั้งอยู่บนผนัง ภายในจัดแสดงชุดเสื้อผ้าเป็นชิ้นงานศิลปะแบบวางราบเหมือนตัวอย่างในพิพิธภัณฑ์: {argument name="Clothing Details" default="ชุดเดรสสลิปผ้าซาตินสีดำเงางามพร้อมขอบลูกไม้ละเอียดอ่อนและสายสปาเก็ตตี้เส้นเล็ก"} เสื้อผ้าถูกตรึงไว้อย่างเรียบร้อย ล้อมรอบด้วยอุปกรณ์ประกอบฉากตกแต่งตามธีมขนาดเล็ก: {argument name="Props" default="กุหลาบแห้ง, ขวดน้ำหอมวินเทจ, ริบบิ้นผ้าไหม"} ตัวอักษรวิจิตรบนฉากหลังกระดาษด้านเขียนว่า: {argument name="Text" default="Midnight Elegance"} แสงสตูดิโอที่นุ่มนวลช่วยเน้นพื้นผิวที่หรูหราและการทิ้งตัวของผ้า
+ส่วนบน: กล่องจัดแสดง
+ครึ่งบนเป็นกรอบกล่องเงาไม้โอ๊คสีอ่อนสวยงามติดตั้งอยู่บนผนัง ภายในจัดแสดงชุดเสื้อผ้าเป็นชิ้นงานศิลปะแบบวางราบเหมือนตัวอย่างในพิพิธภัณฑ์: {argument name="Clothing Details" default="ชุดเดรสสลิปผ้าซาตินสีดำเรียบหรูพร้อมขอบลูกไม้ละเอียดอ่อนและสายเดี่ยวเส้นเล็ก"} เสื้อผ้าถูกตรึงไว้อย่างเรียบร้อย ล้อมรอบด้วยอุปกรณ์ตกแต่งตามธีมขนาดเล็ก: {argument name="Props" default="กุหลาบแห้ง, ขวดน้ำหอมวินเทจ, ริบบิ้นผ้าไหม"} ตัวอักษรวิจิตรบนพื้นหลังกระดาษด้านเขียนว่า: {argument name="Text" default="Midnight Elegance"} แสงสตูดิโอที่นุ่มนวลช่วยเน้นพื้นผิวที่หรูหราและการทิ้งตัวของเนื้อผ้า
 
-ส่วนล่าง: ความจริง 3D ที่มองเห็นด้วยตาเปล่า
-ครึ่งล่างสร้างภาพลวงตา "3D ที่มองเห็นด้วยตาเปล่า" ที่สมจริงสุด ๆ กรอบรูปสี่เหลี่ยมผืนผ้าอยู่ใต้กล่องด้านบนโดยตรง หญิงสาวที่สวยงามสมจริงอย่างน่าทึ่ง {argument name="Model Description" default="นางแบบชาวเอเชียตะวันออกผู้สง่างาม ผมดำยาวเป็นลอน ตาสโมคกี้อายบางเบา และสายตาที่มั่นใจ"} สวมชุดเดียวกันกับที่แสดงไว้ด้านบน
+ส่วนล่าง: ความจริง 3 มิติที่มองเห็นด้วยตาเปล่า
+ครึ่งล่างสร้างภาพลวงตา "3 มิติที่มองเห็นด้วยตาเปล่า" ที่สมจริงสุด ๆ กรอบรูปสี่เหลี่ยมผืนผ้าอยู่ใต้กล่องด้านบนโดยตรง หญิงสาวที่ดูสมจริงอย่างน่าทึ่ง {argument name="Model Description" default="นางแบบสาวชาวเอเชียตะวันออกผู้สง่างาม ผมดำยาวเป็นลอน ดวงตาสโมคกี้อายที่ละเอียดอ่อน และแววตาที่มั่นใจ"} สวมชุดเดียวกับที่แสดงไว้ด้านบน
 
-เธอนั่งเอนกายอย่างสบาย ๆ บนขอบด้านล่างของกรอบ โดยขาข้างหนึ่งงอและเท้าพักอยู่ภายในกรอบ ส่วนขาอีกข้างหนึ่งห้อยลงมาอย่างสง่างามในพื้นที่ของผู้มองเห็น ลำตัวของเธอเอนไปด้านหลังเล็กน้อย ข้อศอกพักอยู่บนเข่าที่ยกขึ้น นิ้วมือลูบไล้ผ้าเบา ๆ ใกล้กระดูกไหปลาร้า ร่างกายของเธอสร้างส่วนโค้งรูปตัว S ที่นุ่มนวลและเย้ายวน ซึ่งเน้นรูปร่างของชุดโดยไม่มีการเปิดเผยมากเกินไป เธอจ้องมองตรงมาที่กล้องด้วยรอยยิ้มที่สงบและรู้ทัน – เชิญชวนแต่ก็ลึกลับ ท่าทางที่มีชีวิตชีวาและเคลื่อนไหวนี้ตัดกันอย่างทรงพลังกับภาพจัดแสดงที่นิ่งและเป็นระเบียบด้านบน สร้างความตึงเครียดทางสายตาระหว่างความเป็นจริงและการนำเสนอ
+เธอนั่งเอนกายอย่างสบาย ๆ ที่ขอบด้านล่างของกรอบ โดยขาข้างหนึ่งงอและวางเท้าอยู่ภายในกรอบ ส่วนขาอีกข้างหนึ่งห้อยลงมาอย่างสง่างามในพื้นที่ของผู้ดู ลำตัวของเธอเอนไปด้านหลังเล็กน้อย ข้อศอกวางอยู่บนเข่าที่ยกขึ้น นิ้วมือลูบไล้เนื้อผ้าเบา ๆ ใกล้กระดูกไหปลาร้า ร่างกายของเธอสร้างส่วนโค้งรูปตัว S ที่นุ่มนวลและเย้ายวน ซึ่งเน้นรูปร่างของเสื้อผ้าโดยไม่มีการเปิดเผยมากเกินไป เธอมองตรงมาที่กล้องด้วยรอยยิ้มที่สงบและรู้ทัน—เชิญชวนแต่ก็ลึกลับ ท่าทางที่เคลื่อนไหวและเหมือนจริงนี้ตัดกันอย่างชัดเจนกับภาพจัดแสดงที่นิ่งและเป็นระเบียบด้านบน สร้างความตึงเครียดทางสายตาระหว่างความเป็นจริงและการนำเสนอ
 
-ข้อมูลจำเพาะทางเทคนิค:
-เงาธรรมชาติที่นุ่มนวล, การบดบังแสงโดยรอบ, แสงที่สว่างและโปร่งสบายแต่ให้ความรู้สึกเหมือนภาพยนตร์, ความละเอียด 8K, Octane Render, โทนสีที่สดใสแต่ประณีต, พื้นผิวผ้าที่มีรายละเอียดสูง (ความเงาของผ้าซาติน, ความโปร่งใสของลูกไม้, การเย็บ), ระยะชัดลึกตื้น, สไตล์บรรณาธิการ Vogue, เกรนภาพยนตร์, การถ่ายภาพแฟชั่นระดับมืออาชีพ
+ข้อมูลทางเทคนิค:
+เงาธรรมชาติที่นุ่มนวล, แสงสว่างโดยรอบ, แสงที่สว่างและโปร่งสบายแต่ให้ความรู้สึกแบบภาพยนตร์, ความละเอียด 8K, Octane Render, โทนสีที่สดใสแต่ประณีต, พื้นผิวผ้าที่มีรายละเอียดสูง (ความเงาของผ้าซาติน, ความโปร่งใสของลูกไม้, การเย็บ), ระยะชัดลึกตื้น, สไตล์บรรณาธิการของ Vogue, เกรนฟิล์ม, การถ่ายภาพแฟชั่นระดับมืออาชีพ
 
-คำสั่งเชิงลบ (แนะนำ):
-เบลอ, ความละเอียดต่ำ, กายวิภาคที่บิดเบี้ยว, แขนขาเกิน, มือผิดรูป, การ์ตูน, อนิเมะ, เหมือนตุ๊กตา, ผิวพลาสติก, เปิดรับแสงมากเกินไป, พื้นหลังรก, ข้อผิดพลาดของข้อความ, เสื้อผ้าไม่เข้ากัน, วัตถุลอย, สัดส่วนที่ไม่สมจริง
+ข้อความเชิงลบ (แนะนำ):
+เบลอ, ความละเอียดต่ำ, กายวิภาคที่บิดเบี้ยว, แขนขาเกิน, มือผิดรูป, การ์ตูน, อะนิเมะ, เหมือนตุ๊กตา, ผิวพลาสติก, แสงโอเวอร์, พื้นหลังรก, ข้อผิดพลาดของข้อความ, เสื้อผ้าไม่เข้ากัน, วัตถุลอย, สัดส่วนไม่สมจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1588,13 +1587,13 @@ Create a dynamic photo of this person performing a dunk in basketball.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231604369_ekgjs8_G8ftuYvaUAAOJU2.jpg" width="600" alt="พรอมต์ถ่ายภาพผลิตภัณฑ์แฟชั่นแบบละเอียดสำหรับ GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231604369_ekgjs8_G8ftuYvaUAAOJU2.jpg" width="600" alt="พรอมต์ถ่ายภาพผลิตภัณฑ์ขั้นสูงสำหรับ GPT Image 1.5 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231604352_cg2pdo_G8fuGZ1akAUW7gw.jpg" width="600" alt="พรอมต์ถ่ายภาพผลิตภัณฑ์แฟชั่นแบบละเอียดสำหรับ GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231604352_cg2pdo_G8fuGZ1akAUW7gw.jpg" width="600" alt="พรอมต์ถ่ายภาพผลิตภัณฑ์ขั้นสูงสำหรับ GPT Image 1.5 - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1604,22 +1603,22 @@ Create a dynamic photo of this person performing a dunk in basketball.
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** zh
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%2C%20%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%2C%20%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C%0A%0A%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%99%3A%20%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%0A%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%82%E0%B8%AD%E0%B9%8A%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87%20%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%22%7D%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%95%E0%B8%A3%E0%B8%B6%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%95%E0%B8%81%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%98%E0%B8%B5%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22%E0%B8%81%E0%B8%B8%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%9A%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87%2C%20%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%88%2C%20%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%AB%E0%B8%A1%22%7D%20%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%9A%E0%B8%99%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A7%E0%B9%88%E0%B8%B2%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A3%E0%B8%B9%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%0A%0A%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%3A%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%203D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%B2%0A%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%20%223D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%B2%22%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20%E0%B9%86%20%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%9C%E0%B8%B7%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%20%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B6%E0%B9%88%E0%B8%87%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%20%E0%B8%9C%E0%B8%A1%E0%B8%94%E0%B8%B3%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A5%E0%B8%AD%E0%B8%99%20%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%B2%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%88%22%7D%20%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%0A%0A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%20%E0%B9%86%20%E0%B8%9A%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%82%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%20%E0%B8%A5%E0%B8%B3%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A8%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%20%E0%B8%99%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%A5%E0%B8%B9%E0%B8%9A%E0%B9%84%E0%B8%A5%E0%B9%89%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%B2%20%E0%B9%86%20%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%84%E0%B8%AB%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%89%E0%B8%B2%20%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%A7%20S%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%99%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%9B%20%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%88%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%87%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%97%E0%B8%B1%E0%B8%99%20%E2%80%93%20%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%81%E0%B9%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%20%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%0A%0A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%3A%0A%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A3%E0%B8%AD%E0%B8%9A%2C%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%208K%2C%20Octane%20Render%2C%20%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%93%E0%B8%B5%E0%B8%95%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%20(%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AA%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A)%2C%20%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B7%E0%B9%89%E0%B8%99%2C%20%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%20Vogue%2C%20%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%0A%0A%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%9A%20(%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3)%3A%0A%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%B3%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%2C%20%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%2C%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%9B%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%2C%20%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0%2C%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%2C%20%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%2C%20%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%9B%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%81%2C%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%2C%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99%2C%20%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%A5%E0%B8%AD%E0%B8%A2%2C%20%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%2C%20%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%2C%20%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C%0A%0A%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%99%3A%20%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%0A%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%82%E0%B8%AD%E0%B9%8A%E0%B8%84%E0%B8%AA%E0%B8%B5%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87%20%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%AB%E0%B8%A3%E0%B8%B9%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%22%7D%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%95%E0%B8%A3%E0%B8%B6%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%95%E0%B8%81%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%98%E0%B8%B5%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22%E0%B8%81%E0%B8%B8%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%9A%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87%2C%20%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%88%2C%20%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%AB%E0%B8%A1%22%7D%20%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A7%E0%B9%88%E0%B8%B2%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A3%E0%B8%B9%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%0A%0A%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%3A%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%203%20%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%B2%0A%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%20%223%20%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%B2%22%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20%E0%B9%86%20%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%9C%E0%B8%B7%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%20%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B6%E0%B9%88%E0%B8%87%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%20%E0%B8%9C%E0%B8%A1%E0%B8%94%E0%B8%B3%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A5%E0%B8%AD%E0%B8%99%20%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A7%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%88%22%7D%20%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%0A%0A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%20%E0%B9%86%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%82%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B8%B9%20%E0%B8%A5%E0%B8%B3%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A8%E0%B8%AD%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%20%E0%B8%99%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%A5%E0%B8%B9%E0%B8%9A%E0%B9%84%E0%B8%A5%E0%B9%89%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%B2%20%E0%B9%86%20%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B9%84%E0%B8%AB%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%89%E0%B8%B2%20%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%A7%20S%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%99%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%9B%20%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%87%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%97%E0%B8%B1%E0%B8%99%E2%80%94%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%81%E0%B9%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%20%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%0A%0A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%3A%0A%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%2C%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A3%E0%B8%AD%E0%B8%9A%2C%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%208K%2C%20Octane%20Render%2C%20%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%93%E0%B8%B5%E0%B8%95%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%20(%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AA%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A)%2C%20%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B7%E0%B9%89%E0%B8%99%2C%20%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%20Vogue%2C%20%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B9%8C%E0%B8%A1%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%0A%0A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%9A%20(%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3)%3A%0A%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%2C%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%B3%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%2C%20%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%2C%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%9B%2C%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%2C%20%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0%2C%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%2C%20%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%2C%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%2C%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%81%2C%20%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%2C%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99%2C%20%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%A5%E0%B8%AD%E0%B8%A2%2C%20%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87)**
 
 ---
 
-### No. 33: Ultra-Detailed 3D Graphite Sketch
+### No. 33: ภาพร่างดินสอกราไฟต์ 3 มิติ รายละเอียดสูงพิเศษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for GPT Image 1.5 to transform an uploaded photo into an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. It emphasizes realism, including paper grain, imperfections, drawing action (hand holding a pencil), scattered tools (eraser, sharpener), and realistic graphite residue and shadows.
+คำสั่งโดยละเอียดสำหรับ GPT Image 1.5 เพื่อเปลี่ยนรูปภาพที่อัปโหลดให้เป็นภาพร่างดินสอกราไฟต์ 3 มิติ ที่มีรายละเอียดสูงบนกระดาษสมุดสีขาวที่มีพื้นผิว โดยเน้นความสมจริง รวมถึงลายกระดาษ ความไม่สมบูรณ์ การกระทำของการวาด (มือที่กำลังจับดินสอ) เครื่องมือที่วางกระจัดกระจาย (ยางลบ, กบเหลาดินสอ) รวมถึงคราบกราไฟต์และเงาที่สมจริง
 
 #### 📝 คำสั่ง
 
 ```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+สร้างภาพจากรูปภาพที่อัปโหลด โดยจินตนาการถึงวัตถุในรูปภาพให้กลายเป็นภาพร่างดินสอกราไฟต์ 3 มิติที่มีรายละเอียดสูงบนกระดาษสมุดสีขาวที่มีพื้นผิวเน้นย้ำถึงลายกระดาษที่คมชัด ความไม่สมบูรณ์เล็กน้อย และเส้นใยธรรมชาติของพื้นผิว แสดงให้เห็นวัตถุกำลังวาดภาพอย่างกระตือรือร้น โดยมีมือที่กำลังจับดินสอขณะที่ภาพร่างกำลังก่อร่างสร้างตัวขึ้นมา ใส่ยางลบ กบเหลาดินสอ และเศษดินสอที่กระจัดกระจายอยู่บนหน้ากระดาษ เพิ่มเงาที่สมจริง รอยเปื้อน และคราบกราไฟต์ละเอียดรอบ ๆ บริเวณที่ทำงาน เพื่อเสริมความรู้สึกที่จับต้องได้และเหมือนวาดด้วยมือ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1627,7 +1626,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231599193_rej44z_G8fkq7IXcAIXp9_.jpg" width="600" alt="Ultra-Detailed 3D Graphite Sketch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231599193_rej44z_G8fkq7IXcAIXp9_.jpg" width="600" alt="ภาพร่างดินสอกราไฟต์ 3 มิติ รายละเอียดสูงพิเศษ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1637,23 +1636,23 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Generate%20an%20image%20from%20the%20uploaded%20photo%20that%20reimagines%20the%20subject%20as%20an%20ultra-detailed%203D%20graphite%20pencil%20sketch%20on%20textured%20white%20notebook%20paper.%20Emphasize%20crisp%20paper%20grain%2C%20subtle%20imperfections%2C%20and%20natural%20surface%20fibers.%20Show%20the%20subject%20actively%20drawing%2C%20with%20their%20hand%20holding%20a%20pencil%20as%20the%20sketch%20comes%20to%20life.%20Include%20an%20eraser%2C%20sharpener%2C%20and%20scattered%20pencil%20shavings%20resting%20on%20the%20page.%20Add%20realistic%20shadows%2C%20smudges%2C%20and%20fine%20graphite%20residue%20around%20the%20working%20area%20to%20reinforce%20the%20tactile%2C%20hand-drawn%20feel.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B9%8C%203%20%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%20%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B9%89%E0%B8%99%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%A1%E0%B8%B2%20%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%9A%20%E0%B8%81%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B9%86%20%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%93%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD)**
 
 ---
 
-### No. 34: Gachapon Capsule Toy Design
+### No. 34: การออกแบบของเล่นแคปซูลกาชาปอง
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for generating a photorealistic image of a gachapon (capsule toy) featuring a specific subject. It specifies the need for a simple, toy-like deformation of the figure, placement inside a clear plastic capsule, inclusion of Japanese paper inserts, and realistic material textures and photography effects (soft light, slight blur, clean composition).
+คำสั่งโดยละเอียดสำหรับการสร้างภาพถ่ายที่สมจริงของกาชาปอง (ของเล่นแคปซูล) ที่มีตัวแบบเฉพาะเจาะจง โดยระบุถึงความจำเป็นในการบิดเบือนรูปร่างของตัวแบบให้ดูเรียบง่ายเหมือนของเล่น การจัดวางภายในแคปซูลพลาสติกใส การใส่กระดาษแทรกแบบญี่ปุ่น และพื้นผิววัสดุที่สมจริง รวมถึงเอฟเฟกต์การถ่ายภาพ (แสงนุ่มนวล, เบลอเล็กน้อย, องค์ประกอบภาพที่สะอาดตา)
 
 #### 📝 คำสั่ง
 
 ```
-Create a miniature capsule toy in the style of a gachapon, based on a single subject ({argument name="subject" default="person, brand mascot, or object"}). The figure should be simple and toy-like in its deformation, sized to fit neatly inside a transparent plastic capsule. Inside the capsule, include a paper insert typical of Japanese gachapon, featuring the toy's name, a small product photo, an icon-style mark, and simple Japanese text. The capsule should be shown either inside the dispensing slot of an actual gachapon vending machine or immediately in front of it. Express the material textures realistically, showing the glossy plastic of the capsule, the slightly matte figure, and the thinly folded paper insert. The overall atmosphere should be natural, like a photo taken with an iPhone, with soft light, a slight sense of camera shake, light background bokeh, and subtle realistic imperfections or quirks. Keep the composition clean and simple, with the subject centered. Aim for a clean finish without clutter.
+สร้างของเล่นแคปซูลขนาดเล็กในสไตล์กาชาปอง โดยอิงจากหัวข้อเดียว ({argument name="subject" default="บุคคล, มาสคอตแบรนด์ หรือวัตถุ"}) ฟิกเกอร์ควรเรียบง่ายและเหมือนของเล่นในลักษณะที่บิดเบี้ยว มีขนาดพอดีกับแคปซูลพลาสติกใส ภายในแคปซูล ให้ใส่แผ่นกระดาษแทรกตามแบบฉบับของกาชาปองญี่ปุ่น ซึ่งมีชื่อของเล่น รูปภาพผลิตภัณฑ์ขนาดเล็ก เครื่องหมายสไตล์ไอคอน และข้อความภาษาญี่ปุ่นง่ายๆ แคปซูลควรแสดงอยู่ภายในช่องจ่ายของเครื่องจำหน่ายกาชาปองจริง หรืออยู่ด้านหน้าเครื่องทันที แสดงพื้นผิววัสดุอย่างสมจริง โดยแสดงพลาสติกมันวาวของแคปซูล ฟิกเกอร์ที่ค่อนข้างด้าน และแผ่นกระดาษแทรกที่พับบางๆ บรรยากาศโดยรวมควรเป็นธรรมชาติ เหมือนภาพถ่ายที่ถ่ายด้วย iPhone โดยมีแสงนุ่มนวล ความรู้สึกสั่นไหวของกล้องเล็กน้อย โบเก้พื้นหลังเบาๆ และความไม่สมบูรณ์หรือความแปลกประหลาดที่สมจริงเล็กน้อย จัดองค์ประกอบให้สะอาดและเรียบง่าย โดยมีวัตถุอยู่ตรงกลาง ตั้งเป้าให้ได้ผลลัพธ์ที่สะอาดตาโดยไม่มีความยุ่งเหยิง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1661,13 +1660,13 @@ Create a miniature capsule toy in the style of a gachapon, based on a single sub
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231610243_5mbtd4_G8fZUYXakAEDfIo.jpg" width="600" alt="Gachapon Capsule Toy Design - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231610243_5mbtd4_G8fZUYXakAEDfIo.jpg" width="600" alt="การออกแบบของเล่นแคปซูลกาชาปอง - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231610469_1xxvga_G8fZXnCakAEr9yR.jpg" width="600" alt="Gachapon Capsule Toy Design - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231610469_1xxvga_G8fZXnCakAEr9yR.jpg" width="600" alt="การออกแบบของเล่นแคปซูลกาชาปอง - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1677,22 +1676,22 @@ Create a miniature capsule toy in the style of a gachapon, based on a single sub
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Create%20a%20miniature%20capsule%20toy%20in%20the%20style%20of%20a%20gachapon%2C%20based%20on%20a%20single%20subject%20(%7Bargument%20name%3D%22subject%22%20default%3D%22person%2C%20brand%20mascot%2C%20or%20object%22%7D).%20The%20figure%20should%20be%20simple%20and%20toy-like%20in%20its%20deformation%2C%20sized%20to%20fit%20neatly%20inside%20a%20transparent%20plastic%20capsule.%20Inside%20the%20capsule%2C%20include%20a%20paper%20insert%20typical%20of%20Japanese%20gachapon%2C%20featuring%20the%20toy's%20name%2C%20a%20small%20product%20photo%2C%20an%20icon-style%20mark%2C%20and%20simple%20Japanese%20text.%20The%20capsule%20should%20be%20shown%20either%20inside%20the%20dispensing%20slot%20of%20an%20actual%20gachapon%20vending%20machine%20or%20immediately%20in%20front%20of%20it.%20Express%20the%20material%20textures%20realistically%2C%20showing%20the%20glossy%20plastic%20of%20the%20capsule%2C%20the%20slightly%20matte%20figure%2C%20and%20the%20thinly%20folded%20paper%20insert.%20The%20overall%20atmosphere%20should%20be%20natural%2C%20like%20a%20photo%20taken%20with%20an%20iPhone%2C%20with%20soft%20light%2C%20a%20slight%20sense%20of%20camera%20shake%2C%20light%20background%20bokeh%2C%20and%20subtle%20realistic%20imperfections%20or%20quirks.%20Keep%20the%20composition%20clean%20and%20simple%2C%20with%20the%20subject%20centered.%20Aim%20for%20a%20clean%20finish%20without%20clutter.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%84%E0%B8%9B%E0%B8%8B%E0%B8%B9%E0%B8%A5%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%9B%E0%B8%AD%E0%B8%87%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%20(%7Bargument%20name%3D%22subject%22%20default%3D%22%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%2C%20%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%84%E0%B8%AD%E0%B8%95%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%22%7D)%20%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%20%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B8%9B%E0%B8%8B%E0%B8%B9%E0%B8%A5%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B9%83%E0%B8%AA%20%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%84%E0%B8%9B%E0%B8%8B%E0%B8%B9%E0%B8%A5%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%20%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%20%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86%20%E0%B9%81%E0%B8%84%E0%B8%9B%E0%B8%8B%E0%B8%B9%E0%B8%A5%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%20%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%9B%E0%B8%8B%E0%B8%B9%E0%B8%A5%20%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%86%20%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20iPhone%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B9%82%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%B2%E0%B9%86%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%20%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%87)**
 
 ---
 
-### No. 35: Ultra-Detailed 3D Graphite Pencil Sketch Generation
+### No. 35: การสร้างภาพร่างดินสอกราไฟต์ 3 มิติ ที่มีรายละเอียดสูงเป็นพิเศษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A detailed image generation prompt designed to transform an uploaded photo into an ultra-detailed 3D graphite pencil sketch. It emphasizes tactile elements like crisp paper grain, subtle imperfections, and realistic shadows and smudges, focusing on a documentary, hand-drawn feel. The subject should be actively drawing, with tools like an eraser and sharpener scattered on the page.
+ข้อความแจ้งการสร้างภาพที่มีรายละเอียด ซึ่งออกแบบมาเพื่อแปลงภาพถ่ายที่อัปโหลดให้เป็นภาพร่างดินสอกราไฟต์ 3 มิติ ที่มีรายละเอียดสูง โดยเน้นองค์ประกอบที่สัมผัสได้ เช่น ลายกระดาษที่คมชัด ความไม่สมบูรณ์เล็กน้อย และเงาและรอยเปื้อนที่สมจริง โดยเน้นความรู้สึกเหมือนภาพวาดด้วยมือแบบสารคดี ตัวแบบควรจะกำลังวาดภาพอยู่ โดยมีอุปกรณ์ต่างๆ เช่น ยางลบและกบเหลาดินสอกระจัดกระจายอยู่บนหน้ากระดาษ
 
 #### 📝 คำสั่ง
 
 ```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+สร้างภาพจากรูปภาพที่อัปโหลด โดยจินตนาการถึงวัตถุในรูปภาพให้กลายเป็นภาพร่างดินสอกราไฟต์ 3 มิติ ที่มีรายละเอียดสูงบนกระดาษสมุดสีขาวที่มีพื้นผิว เน้นที่ลายกระดาษที่คมชัด ความไม่สมบูรณ์เล็กน้อย และเส้นใยธรรมชาติของพื้นผิว แสดงให้เห็นวัตถุกำลังวาดภาพอย่างกระตือรือร้น โดยมีมือของพวกเขากำลังจับดินสอขณะที่ภาพร่างกำลังก่อร่างสร้างตัวขึ้น ใส่ยางลบ กบเหลาดินสอ และเศษดินสอที่กระจัดกระจายอยู่บนหน้ากระดาษ เพิ่มเงาที่สมจริง รอยเปื้อน และคราบกราไฟต์ละเอียดรอบ ๆ บริเวณที่กำลังทำงาน เพื่อเสริมสร้างความรู้สึกที่จับต้องได้และเหมือนวาดด้วยมือ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1700,7 +1699,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231578095_dfti72_G8fXIWfakAcJaVR.jpg" width="600" alt="Ultra-Detailed 3D Graphite Pencil Sketch Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231578095_dfti72_G8fXIWfakAcJaVR.jpg" width="600" alt="การสร้างภาพร่างดินสอกราไฟต์ 3 มิติ ที่มีรายละเอียดสูงเป็นพิเศษ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1710,7 +1709,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 - **เผยแพร่เมื่อ:** 19 ธันวาคม 2568
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=Generate%20an%20image%20from%20the%20uploaded%20photo%20that%20reimagines%20the%20subject%20as%20an%20ultra-detailed%203D%20graphite%20pencil%20sketch%20on%20textured%20white%20notebook%20paper.%20Emphasize%20crisp%20paper%20grain%2C%20subtle%20imperfections%2C%20and%20natural%20surface%20fibers.%20Show%20the%20subject%20actively%20drawing%2C%20with%20their%20hand%20holding%20a%20pencil%20as%20the%20sketch%20comes%20to%20life.%20Include%20an%20eraser%2C%20sharpener%2C%20and%20scattered%20pencil%20shavings%20resting%20on%20the%20page.%20Add%20realistic%20shadows%2C%20smudges%2C%20and%20fine%20graphite%20residue%20around%20the%20working%20area%20to%20reinforce%20the%20tactile%2C%20hand-drawn%20feel.)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B9%8C%203%20%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%20%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%20%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B9%89%E0%B8%99%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A7%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%82%E0%B8%93%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%20%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%9A%20%E0%B8%81%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%20%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%A3%E0%B8%AD%E0%B8%9A%20%E0%B9%86%20%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%93%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD)**
 
 ---
 
@@ -2824,169 +2823,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 
 ---
 
-### No. 60: ภาพถ่ายบุคคลขาวดำในสตูดิโอพร้อมแสงไฟที่น่าทึ่ง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งโดยละเอียดสำหรับการสร้างภาพบุคคลในสตูดิโอแบบขาวดำที่มีคอนทราสต์สูงของชายคนหนึ่ง โดยเน้นที่การจัดแสงน้อยและเงาที่ลึก เพื่อสร้างอารมณ์ที่สงบ มั่นใจ และเหมือนภาพยนตร์
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพถ่ายบุคคลสตูดิโอขาวดำของผู้ชายคนหนึ่ง ใช้แสงน้อยที่มีการไล่ระดับแสงอย่างนุ่มนวล เพื่อให้จุดสนใจอยู่ที่ตัวเขาอย่างสมบูรณ์ โดยมีการไล่ระดับสีที่ละเอียดอ่อนและเงาที่ลึกเพื่อสร้างรูปหน้าของเขา องค์ประกอบภาพควรเป็นภาพระยะกลางแบบกระชับ โดยมีฉากหลังที่สะอาดตาและปราศจากสิ่งรบกวน เขาสวมชุดลำลองที่มีสไตล์ เช่น เสื้อยืดเรียบๆ หรือเสื้อสเวตเชิ้ตที่มีพื้นผิวบางเบา ซึ่งเข้ากันได้ดีกับภาพขาวดำ อารมณ์โดยรวมควรให้ความรู้สึกสงบและมั่นใจ พร้อมบรรยากาศที่น่าพึงพอใจและสมดุล สร้างสรรค์ภาพด้วยคอนทราสต์สูงแบบขาวดำ พร้อมรายละเอียดที่คมชัด โทนสีที่นุ่มนวล และความลึกแบบภาพยนตร์ที่ละเอียดอ่อน
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="ภาพถ่ายบุคคลขาวดำในสตูดิโอพร้อมแสงไฟที่น่าทึ่ง - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="ภาพถ่ายบุคคลขาวดำในสตูดิโอพร้อมแสงไฟที่น่าทึ่ง - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Johnn](https://x.com/john_my07)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/john_my07/status/2001508911380414888)
-- **เผยแพร่เมื่อ:** 18 ธันวาคม 2568
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%20%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%20%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%9A%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A1%E0%B8%B5%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%9A%E0%B8%81%E0%B8%A7%E0%B8%99%20%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%A5%E0%B8%B3%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%20%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%99%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B7%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%86%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%A7%E0%B8%95%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%B2%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3%20%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%87%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%88%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B6%E0%B8%87%E0%B8%9E%E0%B8%AD%E0%B9%83%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%20%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3%20%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%94%20%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99)**
-
----
-
-### No. 61: แลนด์มาร์กสถาปัตยกรรมแห่งอนาคตที่ได้รับแรงบันดาลใจจากสัญลักษณ์แคลคูลัส
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับสร้างตารางขนาด 2x2 ของแลนด์มาร์กสถาปัตยกรรมแห่งอนาคต โดยแต่ละโครงสร้างอิงตามสัญลักษณ์แคลคูลัสที่สำคัญ ฉากนี้ตั้งอยู่ในเมืองโซลาร์พังก์แบบยูโทเปียที่มีความสวยงาม สดใส และสะอาดตา
-
-#### 📝 คำสั่ง
-
-```
-ตารางขนาด 2x2 ที่ประกอบด้วยแลนด์มาร์กทางสถาปัตยกรรมแห่งอนาคต 4 แห่ง ซึ่งอิงจากสัญลักษณ์แคลคูลัสที่สำคัญ ตั้งอยู่ในเมืองโซลาร์พังก์แบบยูโทเปีย แสงแดดยามเที่ยงที่สดใส วัสดุสีขาวสะอาดตา กระจกและเหล็กกล้า ท้องฟ้าสีฟ้าคราม ภาพถ่ายสถาปัตยกรรม เรนเดอร์ด้วย Lumion มุมกว้าง เปิดรับแสงสูง ให้ความรู้สึกถึงสเกล
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="แลนด์มาร์กสถาปัตยกรรมแห่งอนาคตที่ได้รับแรงบันดาลใจจากสัญลักษณ์แคลคูลัส - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="แลนด์มาร์กสถาปัตยกรรมแห่งอนาคตที่ได้รับแรงบันดาลใจจากสัญลักษณ์แคลคูลัส - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2001507463841947706)
-- **เผยแพร่เมื่อ:** 18 ธันวาคม 2568
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%202x2%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95%204%20%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%20%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B8%84%E0%B8%B9%E0%B8%A5%E0%B8%B1%E0%B8%AA%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%20%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A2%E0%B8%B9%E0%B9%82%E0%B8%97%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%20%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA%20%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%20%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%20%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20Lumion%20%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%20%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B6%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%A5)**
-
----
-
-### No. 62: บทความแฟชั่นแห่งอนาคตกับการรักษาเอกลักษณ์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON พรอมต์ที่มีโครงสร้างสูงสำหรับสร้างภาพแฟชั่นแนวอนาคตที่สมจริง พรอมต์นี้กำหนดให้มีการรักษาเอกลักษณ์อย่างเคร่งครัด โดยใช้ใบหน้าและสีหน้าจากภาพที่อัปโหลดมาอย่างแม่นยำ ในขณะเดียวกันก็จัดสไตล์ตัวแบบด้วยเสื้อผ้าขนาดใหญ่พิเศษที่ระบุไว้ในสตูดิโอสีฟ้าอ่อนแบบมินิมอล
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "image_generation_prompt",
-  "style": "แฟชั่นแนวบรรณาธิการ x อนาคต",
-  "identity_preservation": {
-    "use_uploaded_image": true,
-    "alter_face": false,
-    "notes": "ใช้ใบหน้าและทรงผมเดียวกันกับรูปภาพที่อัปโหลด ห้ามเปลี่ยนลักษณะใบหน้าหรือสีหน้า"
-  },
-  "subject": {
-    "gender": "หญิง",
-    "pose": {
-      "position": "นั่ง",
-      "posture": "สง่างามและผ่อนคลาย",
-      "expression": "ไม่เปลี่ยนแปลงจากภาพอ้างอิง"
-    }
-  },
-  "wardrobe": {
-    "top": "เสื้อสเวตเชิ้ตสีขาวโอเวอร์ไซส์",
-    "bottoms": "กางเกงยีนส์คาร์โก้โอเวอร์ไซส์สีฟ้าอมเทา",
-    "footwear": "รองเท้าผ้าใบสีฟ้าอมเทาแบบเรียบง่าย หรือรองเท้า Nike",
-    "socks": "ถุงเท้าสีขาวแบบมีร่อง"
-  },
-  "environment": {
-    "setting": "สตูดิโอ",
-    "background": {
-      "color": "โทนสีฟ้าอ่อนแบบหม่น",
-      "style": "สะอาดตา, มินิมอล"
-    }
-  },
-  "lighting": {
-    "type": "แสงเรืองรองแบบภาพยนตร์ที่นุ่มนวล",
-    "effects": [
-      "เน้นผิวสัมผัสของผิว",
-      "เสริมพื้นผิวของผ้า"
-    ]
-  },
-  "composition": {
-    "style": "แนวบรรณาธิการ",
-    "focus": "นางแบบอยู่ตรงกลางพร้อมจัดองค์ประกอบภาพที่สมดุล"
-  },
-  "quality": {
-    "realism": "สมจริงเหมือนภาพถ่าย",
-    "detail_level": "รายละเอียดสูงในส่วนของผิวและผ้า"
-  },
-  "output_goal": "สร้างภาพแฟชั่นแนวบรรณาธิการแห่งอนาคตของผู้หญิงที่กำลังนั่งในท่าผ่อนคลายในสตูดิโอสีฟ้าอ่อน โดยคงเอกลักษณ์ใบหน้าและสีหน้าของเธอจากภาพอ้างอิงไว้อย่างแม่นยำ"
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="บทความแฟชั่นแห่งอนาคตกับการรักษาเอกลักษณ์ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="บทความแฟชั่นแห่งอนาคตกับการรักษาเอกลักษณ์ - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/saniaspeaks_/status/2001501423759196203)
-- **เผยแพร่เมื่อ:** 18 ธันวาคม 2568
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%20x%20%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%20%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%A7%E0%B8%95%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%95%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%87%E0%B8%A2%E0%B8%B5%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B9%89%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%B2%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%B2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%20Nike%22%2C%0A%20%20%20%20%22socks%22%3A%20%22%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B5%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%99%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%2C%20%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%AD%E0%B8%A5%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B4%E0%B8%A7%22%2C%0A%20%20%20%20%20%20%22%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9C%E0%B9%89%E0%B8%B2%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%B5%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%84%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%B3%22%0A%7D)**
-
----
-
-### No. 63: พรอมต์ทางเทคนิคสำหรับเมทริกซ์ตัวละครหุ่นยนต์ 3x2
+### No. 60: พรอมต์ทางเทคนิคสำหรับเมทริกซ์ตัวละครหุ่นยนต์ 3x2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3025,7 +2862,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 64: ภาพบุคคลบรรณาธิการที่สมจริงเป็นพิเศษโดยอ้างอิงจากภาพต้นฉบับ
+### No. 61: ภาพบุคคลบรรณาธิการที่สมจริงเป็นพิเศษโดยอ้างอิงจากภาพต้นฉบับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3059,7 +2896,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 65: ข้อความแจ้งความท้าทายในการสื่ออารมณ์
+### No. 62: ข้อความแจ้งความท้าทายในการสื่ออารมณ์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3104,7 +2941,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 66: การสร้างตัวละครอนิเมะด้วย ChatGPT
+### No. 63: การสร้างตัวละครอนิเมะด้วย ChatGPT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3143,7 +2980,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 67: สมรภูมิชวาในศตวรรษที่ 12 ยามรุ่งอรุณ
+### No. 64: สมรภูมิชวาในศตวรรษที่ 12 ยามรุ่งอรุณ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3176,7 +3013,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 68: เด็กผู้หญิงบนดาดฟ้ากำลังมองท้องฟ้า
+### No. 65: เด็กผู้หญิงบนดาดฟ้ากำลังมองท้องฟ้า
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3209,7 +3046,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 69: แม็กซ์กับเพื่อนกวางแคริบู
+### No. 66: แม็กซ์กับเพื่อนกวางแคริบู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3242,7 +3079,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 70: FCG Method Prompt: เรื่องราวแบบไทม์แลปส์
+### No. 67: FCG Method Prompt: เรื่องราวแบบไทม์แลปส์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3275,7 +3112,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 71: การสร้างรูปภาพสำหรับ 'Day Site'
+### No. 68: การสร้างรูปภาพสำหรับ 'Day Site'
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3308,7 +3145,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 72: ข้อความแจ้งการสร้างภาพดารา K-Pop
+### No. 69: ข้อความแจ้งการสร้างภาพดารา K-Pop
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3341,7 +3178,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 73: ข้อความแจ้งสำหรับภาพปะติด AI Art เชิงการศึกษา
+### No. 70: ข้อความแจ้งสำหรับภาพปะติด AI Art เชิงการศึกษา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3374,7 +3211,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 74: ทางเดินชวนขนลุกกับพรอมต์สิ่งมีชีวิตเงา
+### No. 71: ทางเดินชวนขนลุกกับพรอมต์สิ่งมีชีวิตเงา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3407,7 +3244,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 75: ข้อความแจ้งมาตรฐาน: ฉลามสมจริงกำลังเล่นเปียโน
+### No. 72: ข้อความแจ้งมาตรฐาน: ฉลามสมจริงกำลังเล่นเปียโน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3440,7 +3277,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 76: ภาพบุคคล: ภาพเงาในที่แสงจ้า
+### No. 73: ภาพบุคคล: ภาพเงาในที่แสงจ้า
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3473,7 +3310,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 77: ทางเดินชวนขนลุกกับพรอมต์สิ่งมีชีวิตเงา
+### No. 74: ทางเดินชวนขนลุกกับพรอมต์สิ่งมีชีวิตเงา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3524,7 +3361,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 78: พรอมต์ภาพถ่ายหัวหน้าแพทย์ตามแบบแผน
+### No. 75: พรอมต์ภาพถ่ายหัวหน้าแพทย์ตามแบบแผน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3557,7 +3394,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 79: การจำลองคลังข้อมูลการออกแบบสถาปัตยกรรมสมัยราชวงศ์ชิง
+### No. 76: การจำลองคลังข้อมูลการออกแบบสถาปัตยกรรมสมัยราชวงศ์ชิง
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3597,7 +3434,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 80: พรอมต์การวิเคราะห์รูปภาพ GPT-5.2
+### No. 77: พรอมต์การวิเคราะห์รูปภาพ GPT-5.2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3649,7 +3486,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 81: คำแนะนำการแก้ไขรูปภาพสำหรับเครื่องประดับและเสื้อผ้า
+### No. 78: คำแนะนำการแก้ไขรูปภาพสำหรับเครื่องประดับและเสื้อผ้า
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3690,7 +3527,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 82: พรอมต์บรรณาธิการภาพเสมือนจริงพิเศษสำหรับท่าโพสล้มโดยบังเอิญ
+### No. 79: พรอมต์บรรณาธิการภาพเสมือนจริงพิเศษสำหรับท่าโพสล้มโดยบังเอิญ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3811,7 +3648,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 83: ภาพต้นฉบับ iPhone: สุนัขบนสเก็ตบอร์ด
+### No. 80: ภาพต้นฉบับ iPhone: สุนัขบนสเก็ตบอร์ด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3850,7 +3687,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 84: ภาพเหมือนสไตล์ป๊อปอาร์ตจากหนังสือการ์ตูนยุค 1960
+### No. 81: ภาพเหมือนสไตล์ป๊อปอาร์ตจากหนังสือการ์ตูนยุค 1960
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3883,7 +3720,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 85: พรอมต์อินโฟกราฟิกสมาร์ทโฟน 5G
+### No. 82: พรอมต์อินโฟกราฟิกสมาร์ทโฟน 5G
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3922,7 +3759,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 86: การสร้างการ์ตูนเสียดสีในสไตล์หัวจวินอู๋
+### No. 83: การสร้างการ์ตูนเสียดสีในสไตล์หัวจวินอู๋
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3970,7 +3807,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 87: พรอมต์สำหรับสร้างภาพเสมือนจริง
+### No. 84: พรอมต์สำหรับสร้างภาพเสมือนจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4024,7 +3861,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 88: การสร้างโฆษณาแบบละเอียด
+### No. 85: การสร้างโฆษณาแบบละเอียด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4057,7 +3894,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 89: สร้างนักแสดงจากอนิเมะในรูปแบบคนแสดง
+### No. 86: สร้างนักแสดงจากอนิเมะในรูปแบบคนแสดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4103,7 +3940,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 90: การสร้างแผ่นภาพยนตร์จากภาพอ้างอิง
+### No. 87: การสร้างแผ่นภาพยนตร์จากภาพอ้างอิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4136,7 +3973,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 91: ข้อความแจ้งการสร้างรูปภาพโดยใช้ความละเอียดปานกลาง
+### No. 88: ข้อความแจ้งการสร้างรูปภาพโดยใช้ความละเอียดปานกลาง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4169,7 +4006,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 92: การทดสอบการรักษาและปรับเปลี่ยนสไตล์ใน GPT Image 1.5
+### No. 89: การทดสอบการรักษาและปรับเปลี่ยนสไตล์ใน GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4222,7 +4059,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 93: พรอมต์ความสมจริงทางประวัติศาสตร์สำหรับภาพถ่ายกำแพงเบอร์ลิน
+### No. 90: พรอมต์ความสมจริงทางประวัติศาสตร์สำหรับภาพถ่ายกำแพงเบอร์ลิน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4262,7 +4099,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 94: โฆษณา Oreo ที่มีซานตาคลอสเป็นพรีเซ็นเตอร์
+### No. 91: โฆษณา Oreo ที่มีซานตาคลอสเป็นพรีเซ็นเตอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4301,7 +4138,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 95: พรอมต์โปสเตอร์เมืองที่ทดสอบบน GPT-1.5
+### No. 92: พรอมต์โปสเตอร์เมืองที่ทดสอบบน GPT-1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4335,7 +4172,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 96: คำสั่งแก้ไขรูปภาพ: การเพิ่มสิ่งมีชีวิตลงในพื้นหลัง
+### No. 93: คำสั่งแก้ไขรูปภาพ: การเพิ่มสิ่งมีชีวิตลงในพื้นหลัง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4369,7 +4206,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 97: พรอมต์การสร้างแผ่นข้อมูลตัวละคร (GPT และ Nano Banana)
+### No. 94: พรอมต์การสร้างแผ่นข้อมูลตัวละคร (GPT และ Nano Banana)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4408,7 +4245,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 98: เปลี่ยนภาพให้เป็นฉากกลางคืนพร้อมแสงไฟอบอุ่น
+### No. 95: เปลี่ยนภาพให้เป็นฉากกลางคืนพร้อมแสงไฟอบอุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4447,7 +4284,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 99: ภาพถ่ายสมจริงขั้นสุดของมือที่สวมกำไลเพชร
+### No. 96: ภาพถ่ายสมจริงขั้นสุดของมือที่สวมกำไลเพชร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4486,7 +4323,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 100: ฉากการเขียนโค้ดของวิศวกร JS พร้อมข้อความเฉพาะ
+### No. 97: ฉากการเขียนโค้ดของวิศวกร JS พร้อมข้อความเฉพาะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4520,7 +4357,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 101: พรอมต์ปรับบทบาทไอดอลนักมวยปล้ำ Glitter-Bomb
+### No. 98: พรอมต์ปรับบทบาทไอดอลนักมวยปล้ำ Glitter-Bomb
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4560,7 +4397,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 102: ข้อความแจ้งการโอนย้ายเสื้อผ้าสำหรับการสร้างตัวละคร
+### No. 99: ข้อความแจ้งการโอนย้ายเสื้อผ้าสำหรับการสร้างตัวละคร
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4605,7 +4442,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 103: การปรับปรุงการระบุองค์ประกอบที่ไม่สมมาตรใน GPT Image 1.5
+### No. 100: การปรับปรุงการระบุองค์ประกอบที่ไม่สมมาตรใน GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4638,7 +4475,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 104: ภาพถ่ายสต็อกสมจริง: พรอมต์รูปผู้หญิง
+### No. 101: ภาพถ่ายสต็อกสมจริง: พรอมต์รูปผู้หญิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4672,7 +4509,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 105: ชายร่างยักษ์นั่งอยู่กลางถนนในลอนดอน พรอมต์
+### No. 102: ชายร่างยักษ์นั่งอยู่กลางถนนในลอนดอน พรอมต์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4711,7 +4548,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 106: แปลงกราฟิกเป็นภาพวาดสีน้ำโปร่งใส
+### No. 103: แปลงกราฟิกเป็นภาพวาดสีน้ำโปร่งใส
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4744,7 +4581,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 107: พรอมต์: การเผชิญหน้าระหว่างเด็กนักเรียนไซบอร์กกับนางเงือก
+### No. 104: พรอมต์: การเผชิญหน้าระหว่างเด็กนักเรียนไซบอร์กกับนางเงือก
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4783,7 +4620,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 108: แปลงกราฟิกเป็นภาพร่างดินสอ
+### No. 105: แปลงกราฟิกเป็นภาพร่างดินสอ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4822,7 +4659,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 109: ทิวทัศน์ชายฝั่งทางอากาศแบบละเอียด
+### No. 106: ทิวทัศน์ชายฝั่งทางอากาศแบบละเอียด
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4855,7 +4692,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 110: การทดสอบการแก้ไขภาพบางส่วนและการปรับเปลี่ยนท่าทางใน GPT-Image-1.5
+### No. 107: การทดสอบการแก้ไขภาพบางส่วนและการปรับเปลี่ยนท่าทางใน GPT-Image-1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4909,7 +4746,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 111: การทดสอบการปฏิบัติตามคำสั่งพรอมต์อย่างเคร่งครัดใน GPT Image 1.5 เทียบกับ Gemini
+### No. 108: การทดสอบการปฏิบัติตามคำสั่งพรอมต์อย่างเคร่งครัดใน GPT Image 1.5 เทียบกับ Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4966,7 +4803,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 112: พรอมต์แสดงภาพการโจมตีของฝูงโทรลล์ (ภาษาญี่ปุ่น)
+### No. 109: พรอมต์แสดงภาพการโจมตีของฝูงโทรลล์ (ภาษาญี่ปุ่น)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4999,7 +4836,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 113: พรอมต์สำหรับสร้างภาพ Platybelodon ที่สมจริง
+### No. 110: พรอมต์สำหรับสร้างภาพ Platybelodon ที่สมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5032,7 +4869,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 114: ภาพบุคคลแนวบรรณาธิการ: เครื่องแต่งกายสไตล์ Rugged Heritage
+### No. 111: ภาพบุคคลแนวบรรณาธิการ: เครื่องแต่งกายสไตล์ Rugged Heritage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5071,7 +4908,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 115: พรอมต์โดยละเอียดสำหรับภาพบุคคลเหยี่ยวใน GPT Image 1.5
+### No. 112: พรอมต์โดยละเอียดสำหรับภาพบุคคลเหยี่ยวใน GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5140,7 +4977,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 116: การสร้างภาพแฟชั่นและความงามด้วย GPT Image 1.5
+### No. 113: การสร้างภาพแฟชั่นและความงามด้วย GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5174,7 +5011,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 117: การสร้างภาพสำหรับวันสำคัญของญี่ปุ่น
+### No. 114: การสร้างภาพสำหรับวันสำคัญของญี่ปุ่น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5207,7 +5044,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 118: คำสั่งแก้ไขรูปภาพสำหรับแนวกราม แว่นตา และรูปทรงศีรษะ
+### No. 115: คำสั่งแก้ไขรูปภาพสำหรับแนวกราม แว่นตา และรูปทรงศีรษะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5252,7 +5089,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 
 ---
 
-### No. 119: คำสั่งโดยละเอียดสำหรับการกู้คืนภาพถ่ายเก่าโดยใช้ GPT Image 1.5
+### No. 116: คำสั่งโดยละเอียดสำหรับการกู้คืนภาพถ่ายเก่าโดยใช้ GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5372,7 +5209,7 @@ JSON พรอมต์ที่ละเอียดและมีโครง
 
 ---
 
-### No. 120: พรอมต์โปสเตอร์การจัดแสงสำหรับการถ่ายภาพ
+### No. 117: พรอมต์โปสเตอร์การจัดแสงสำหรับการถ่ายภาพ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5405,13 +5242,130 @@ JSON พรอมต์ที่ละเอียดและมีโครง
 
 ---
 
+### No. 118: ฉากการ์ตูน 3 มิติ ขนาดเล็กแบบไอโซเมตริกของนิวยอร์ก
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+คำสั่งภาพที่ซับซ้อนซึ่งออกแบบมาเพื่อสร้างฉากการ์ตูน 3 มิติขนาดเล็กแบบไอโซเมตริกมุมมองจากบนลงล่าง 45 องศาของเมืองนิวยอร์ก โดยผสมผสานสภาพอากาศที่เฉพาะเจาะจง (ท้องฟ้าแจ่มใส, -2°C) และช่วงเวลาของวัน (กลางดึก, 3:45 น.) เพื่อสร้างบรรยากาศที่สมจริง
+
+#### 📝 คำสั่ง
+
+```
+นำเสนอฉากการ์ตูน 3 มิติ ขนาดเล็กแบบไอโซเมตริกจากมุมบน 45° ของเมืองนิวยอร์ก สหรัฐอเมริกา... ผสานสภาพอากาศ: ท้องฟ้าโปร่ง อุณหภูมิ -2°C และช่วงเวลาเฉพาะของวัน: กลางดึก (03:45 น.) เข้ากับสภาพแวดล้อมของเมืองโดยตรง เพื่อสร้างบรรยากาศที่สมจริง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035311845_f2cipw_G8W9wiPXgAAd6-8.jpg" width="600" alt="ฉากการ์ตูน 3 มิติ ขนาดเล็กแบบไอโซเมตริกของนิวยอร์ก - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035312192_plxw3z_G8W9qt7WwAIZ-as.jpg" width="600" alt="ฉากการ์ตูน 3 มิติ ขนาดเล็กแบบไอโซเมตริกของนิวยอร์ก - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Adrien Dulong](https://x.com/adulong)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/adulong/status/2001214671701807569)
+- **เผยแพร่เมื่อ:** 17 ธันวาคม 2568
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%203%20%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%20%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%AD%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%9A%E0%B8%99%2045%C2%B0%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81%20%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2...%20%E0%B8%9C%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%3A%20%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%20%E0%B8%AD%E0%B8%B8%E0%B8%93%E0%B8%AB%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%20-2%C2%B0C%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%3A%20%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B6%E0%B8%81%20(03%3A45%20%E0%B8%99.)%20%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87)**
+
+---
+
+### No. 119: พรอมต์ทดสอบความเครียด: ชายชาวโยรูบาที่มีรอยสักชนเผ่า 'Pele'
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่เจาะจงสูงซึ่งออกแบบมาเพื่อทดสอบความเครียดของโมเดล AI สำหรับรูปภาพ โดยต้องการภาพบุคคลที่สมจริงเป็นพิเศษของชายชาวโอโยโยรูบา (Oyo Yoruba) ที่มีรอยสักชนเผ่า 'Pele' (รอยแผลเป็นแนวตั้งสามรอยที่แตกต่างกันบนแก้มแต่ละข้าง) โดยเน้นย้ำถึงความจำเป็นในการแสดงรอยแผลเป็นคีลอยด์ที่หายแล้วอย่างชัดเจน และห้ามรอยแผลเป็นแนวนอนอย่างเด็ดขาด เพื่อทดสอบความรู้ของโมเดลเกี่ยวกับรอยแผลเป็นบนใบหน้าทางวัฒนธรรมและเรขาคณิตที่เฉพาะเจาะจง
+
+#### 📝 คำสั่ง
+
+```
+ภาพเหมือนจริงของชายชาวโอโย โยรูบา ที่มีรอยสักเผ่า "เปลเล่" (รอยแผลเป็นแนวตั้งสามรอยที่ชัดเจนบนแก้มแต่ละข้าง) พื้นผิวผิวหนังควรแสดงรอยแผลเป็นคีลอยด์ที่หายแล้วอย่างชัดเจน ไม่มีรอยแนวนอน
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035350874_d1ht4m_G8W9iX9WUAk5dmL.jpg" width="600" alt="พรอมต์ทดสอบความเครียด: ชายชาวโยรูบาที่มีรอยสักชนเผ่า 'Pele' - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035350878_hbosjv_G8W9t1gXoAYDQ3N.jpg" width="600" alt="พรอมต์ทดสอบความเครียด: ชายชาวโยรูบาที่มีรอยสักชนเผ่า 'Pele' - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [M!ke](https://x.com/quipsy)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/quipsy/status/2001214614302851205)
+- **เผยแพร่เมื่อ:** 17 ธันวาคม 2568
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%AD%E0%B9%82%E0%B8%A2%20%E0%B9%82%E0%B8%A2%E0%B8%A3%E0%B8%B9%E0%B8%9A%E0%B8%B2%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%20%22%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B9%88%22%20(%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%9C%E0%B8%A5%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87)%20%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%9C%E0%B8%A5%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%84%E0%B8%B5%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%99)**
+
+---
+
+### No. 120: ข้อความแจ้งการแก้ไขรูปภาพสำหรับการปรับมือและเท้า
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่ใช้สำหรับการแก้ไขรูปภาพแบบสนทนาภายใน GPT Image 1.5 โดยสั่งให้โมเดลปรับแต่งส่วนต่างๆ ของร่างกายในรูปภาพที่มีอยู่ ผู้ใช้ขอให้แก้ไขมือซ้ายและจัดวางเท้าซ้ายให้ดูมีสไตล์มากขึ้น
+
+#### 📝 คำสั่ง
+
+```
+กรุณาแก้ไขมือซ้ายและวาดเท้าซ้ายใหม่ โดยปรับให้อยู่ในท่าที่ดูมีสไตล์มากขึ้นเล็กน้อย
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035420433_jlboy9_G8W71IhbMAAtnDe.jpg" width="600" alt="ข้อความแจ้งการแก้ไขรูปภาพสำหรับการปรับมือและเท้า - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035420355_ywq0sc_G8W71_Rb0AAn5h5.jpg" width="600" alt="ข้อความแจ้งการแก้ไขรูปภาพสำหรับการปรับมือและเท้า - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [hayabunbun](https://x.com/hayabunbun_1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/hayabunbun_1/status/2001213261572923651)
+- **เผยแพร่เมื่อ:** 17 ธันวาคม 2568
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-1-5?prompt=%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B9%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2)**
+
+---
+
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 122 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 119 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5474,6 +5428,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-20T12:16:36.189Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-20T16:10:58.916Z</sub>
 
 </div>

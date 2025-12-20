@@ -86,9 +86,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **245** |
+| 📝 Gesamtanzahl Prompts | **242** |
 | ⭐ Ausgewählt | **3** |
-| 🔄 Zuletzt aktualisiert | **Samstag, 20. Dezember 2025 um 12:16:49 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 20. Dezember 2025 um 16:11:15 UTC** |
 
 </div>
 
@@ -216,14 +216,14 @@ Flache Vektorgrafik einer Frau mit blonden Haaren, die an einem Schreibtisch sit
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: Structured Selfie Portrait Prompt
+### No. 1: Strukturierter Selfie-Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A highly detailed, structured JSON-like prompt designed to generate a cozy, domestic bedroom selfie portrait using GPT Image 1.5. It specifies scene elements, subject pose, appearance (including pink hair), attire, environment details, and camera composition.
+Ein hochdetaillierter, strukturierter JSON-ähnlicher Prompt, der darauf ausgelegt ist, ein gemütliches, häusliches Schlafzimmer-Selfie-Porträt mit GPT Image 1.5 zu generieren. Er spezifiziert Szenenelemente, die Pose des Subjekts, das Aussehen (einschließlich pinker Haare), Kleidung, Umgebungsdetails und die Kamerakomposition.
 
 #### 📝 Prompt
 
@@ -243,7 +243,7 @@ A highly detailed, structured JSON-like prompt designed to generate a cozy, dome
       "head": "resting_on_pillow"
     },
     "appearance": {
-      "hair": "long, straight, {argument name="hair color" default="pink"}",
+      "hair": "long, straight, {argument name=\"hair color\" default=\"pink\"}",
       "expression": "gentle_smile, direct_eye_contact",
       "complexion": "fair, rosy_cheeks"
     },
@@ -302,7 +302,7 @@ A highly detailed, structured JSON-like prompt designed to generate a cozy, dome
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231588498_yz5g8o_G8j-xEsWQAAg-IT.jpg" width="600" alt="Structured Selfie Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231588498_yz5g8o_G8j-xEsWQAAg-IT.jpg" width="600" alt="Strukturierter Selfie-Porträt-Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -312,27 +312,27 @@ A highly detailed, structured JSON-like prompt designed to generate a cozy, dome
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22bedroom_interior%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22natural_daylight%22%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22casual%2C%20cozy%2C%20domestic%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22lying_prone_on_bed%22%2C%0A%20%20%20%20%20%20%22orientation%22%3A%20%22facing_camera%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22knees_bent_upwards%2C%20ankles_crossed%22%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%22left_arm_extended_for_selfie%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22resting_on_pillow%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22long%2C%20straight%2C%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22pink%22%7D%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22gentle_smile%2C%20direct_eye_contact%22%2C%0A%20%20%20%20%20%20%22complexion%22%3A%20%22fair%2C%20rosy_cheeks%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22tank_top%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22light_green%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22ribbed%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22spaghetti_straps%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22gym%20shorts%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22light_green%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22ruffled_hem%2C%20scrunched_texture%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22feet%22%3A%20%22white_crew_socks%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22bedding%22%3A%20%7B%0A%20%20%20%20%20%20%22sheets%22%3A%20%22white%2C%20rumpled%22%2C%0A%20%20%20%20%20%20%22pillows%22%3A%20%22white_with_floral_pattern%22%2C%0A%20%20%20%20%20%20%22duvet%22%3A%20%22white%2C%20puffy%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22background_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22windows%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22quantity%22%3A%202%2C%0A%20%20%20%20%20%20%20%20%22features%22%3A%20%22white_frames%2C%20horizontal_blinds%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_table%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22location%22%3A%20%22left_side%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22visible_items%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22skincare_products%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22pink_mug%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22small_potted_plant%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22tissues%22%0A%20%20%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22high_angle_selfie%22%2C%0A%20%20%20%20%22framing%22%3A%20%22medium_shot%22%2C%0A%20%20%20%20%22focus%22%3A%20%22sharp_subject%2C%20soft_background%22%0A%20%20%7D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22bedroom_interior%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22natural_daylight%22%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22casual%2C%20cozy%2C%20domestic%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22lying_prone_on_bed%22%2C%0A%20%20%20%20%20%20%22orientation%22%3A%20%22facing_camera%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22knees_bent_upwards%2C%20ankles_crossed%22%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%22left_arm_extended_for_selfie%22%2C%0A%20%20%20%20%20%20%22head%22%3A%20%22resting_on_pillow%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22long%2C%20straight%2C%20%7Bargument%20name%3D%5C%22hair%20color%5C%22%20default%3D%5C%22pink%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22gentle_smile%2C%20direct_eye_contact%22%2C%0A%20%20%20%20%20%20%22complexion%22%3A%20%22fair%2C%20rosy_cheeks%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22tank_top%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22light_green%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22ribbed%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22spaghetti_straps%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22item%22%3A%20%22gym%20shorts%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22light_green%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22ruffled_hem%2C%20scrunched_texture%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22feet%22%3A%20%22white_crew_socks%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22bedding%22%3A%20%7B%0A%20%20%20%20%20%20%22sheets%22%3A%20%22white%2C%20rumpled%22%2C%0A%20%20%20%20%20%20%22pillows%22%3A%20%22white_with_floral_pattern%22%2C%0A%20%20%20%20%20%20%22duvet%22%3A%20%22white%2C%20puffy%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22background_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22windows%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22quantity%22%3A%202%2C%0A%20%20%20%20%20%20%20%20%22features%22%3A%20%22white_frames%2C%20horizontal_blinds%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_furniture%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22side_table%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22location%22%3A%20%22left_side%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22visible_items%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22skincare_products%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22pink_mug%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22small_potted_plant%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22tissues%22%0A%20%20%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22high_angle_selfie%22%2C%0A%20%20%20%20%22framing%22%3A%20%22medium_shot%22%2C%0A%20%20%20%20%22focus%22%3A%20%22sharp_subject%2C%20soft_background%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 2: Raw Realistic Amateur Photography Style
+### No. 2: Roher, realistischer Amateur-Fotostil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A custom prompt designed to make AI-generated images look much more realistic by mimicking raw, candid, amateur smartphone photography. It specifies technical details like lens, aperture, lighting, and includes aesthetic instructions like 'Boring reality' and 'Tiny imperfections' to achieve an unpolished, low-contrast look.
+Ein benutzerdefinierter Prompt, der darauf ausgelegt ist, KI-generierte Bilder durch die Nachahmung von unbearbeiteten, spontanen Amateur-Smartphone-Fotos wesentlich realistischer aussehen zu lassen. Er spezifiziert technische Details wie Objektiv, Blende und Beleuchtung und enthält ästhetische Anweisungen wie „Boring reality“ und „Tiny imperfections“, um einen ungeschliffenen, kontrastarmen Look zu erzielen.
 
 #### 📝 Prompt
 
 ```
-1:1 aspect ratio
+1:1 Seitenverhältnis
 
-Raw Realistic candid natural amateur photo, background in focus, amateur candid photography, Captured on {argument name="camera model" default="Samsung Galaxy S21 Ultra"}, amateur candid smartphone photography, 24mm lens, f/8, Boring reality, natural soft shadows, candid snapshot, flat natural lighting, Realism, low contrast, disposable camera vibe, casual photography, background also completely in focus, Tiny imperfections, everyday aesthetic, slight JPEG artifacts, unpolished look, unedited, imperfect amateur photo
+Rohes, realistisches, offenes, natürliches Amateurfoto, Hintergrund scharf, Amateur-Schnappschussfotografie, aufgenommen mit {argument name="camera model" default="Samsung Galaxy S21 Ultra"}, Amateur-Smartphone-Schnappschussfotografie, 24-mm-Objektiv, f/8, langweilige Realität, natürliche weiche Schatten, offener Schnappschuss, flache natürliche Beleuchtung, Realismus, geringer Kontrast, Einwegkamera-Vibe, Gelegenheitsfotografie, Hintergrund ebenfalls vollständig scharf, winzige Unvollkommenheiten, Alltagsästhetik, leichte JPEG-Artefakte, unpolierter Look, unbearbeitet, unperfektes Amateurfoto
 
-only create real, non fictional images for max effect
+Erstellen Sie nur echte, nicht-fiktionale Bilder für maximale Wirkung
 ```
 
 #### 🖼️ Generierte Bilder
@@ -340,13 +340,13 @@ only create real, non fictional images for max effect
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231584837_1bsplk_G8j2eJxXQAAQ1sY.jpg" width="600" alt="Raw Realistic Amateur Photography Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231584837_1bsplk_G8j2eJxXQAAQ1sY.jpg" width="600" alt="Roher, realistischer Amateur-Fotostil - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231585277_xjeph3_G8j2eLTWcAA5yNf.jpg" width="600" alt="Raw Realistic Amateur Photography Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231585277_xjeph3_G8j2eLTWcAA5yNf.jpg" width="600" alt="Roher, realistischer Amateur-Fotostil - Image 2">
 </div>
 
 #### 📌 Details
@@ -356,22 +356,22 @@ only create real, non fictional images for max effect
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=1%3A1%20aspect%20ratio%0A%0ARaw%20Realistic%20candid%20natural%20amateur%20photo%2C%20background%20in%20focus%2C%20amateur%20candid%20photography%2C%20Captured%20on%20%7Bargument%20name%3D%22camera%20model%22%20default%3D%22Samsung%20Galaxy%20S21%20Ultra%22%7D%2C%20amateur%20candid%20smartphone%20photography%2C%2024mm%20lens%2C%20f%2F8%2C%20Boring%20reality%2C%20natural%20soft%20shadows%2C%20candid%20snapshot%2C%20flat%20natural%20lighting%2C%20Realism%2C%20low%20contrast%2C%20disposable%20camera%20vibe%2C%20casual%20photography%2C%20background%20also%20completely%20in%20focus%2C%20Tiny%20imperfections%2C%20everyday%20aesthetic%2C%20slight%20JPEG%20artifacts%2C%20unpolished%20look%2C%20unedited%2C%20imperfect%20amateur%20photo%0A%0Aonly%20create%20real%2C%20non%20fictional%20images%20for%20max%20effect)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=1%3A1%20Seitenverh%C3%A4ltnis%0A%0ARohes%2C%20realistisches%2C%20offenes%2C%20nat%C3%BCrliches%20Amateurfoto%2C%20Hintergrund%20scharf%2C%20Amateur-Schnappschussfotografie%2C%20aufgenommen%20mit%20%7Bargument%20name%3D%22camera%20model%22%20default%3D%22Samsung%20Galaxy%20S21%20Ultra%22%7D%2C%20Amateur-Smartphone-Schnappschussfotografie%2C%2024-mm-Objektiv%2C%20f%2F8%2C%20langweilige%20Realit%C3%A4t%2C%20nat%C3%BCrliche%20weiche%20Schatten%2C%20offener%20Schnappschuss%2C%20flache%20nat%C3%BCrliche%20Beleuchtung%2C%20Realismus%2C%20geringer%20Kontrast%2C%20Einwegkamera-Vibe%2C%20Gelegenheitsfotografie%2C%20Hintergrund%20ebenfalls%20vollst%C3%A4ndig%20scharf%2C%20winzige%20Unvollkommenheiten%2C%20Alltags%C3%A4sthetik%2C%20leichte%20JPEG-Artefakte%2C%20unpolierter%20Look%2C%20unbearbeitet%2C%20unperfektes%20Amateurfoto%0A%0AErstellen%20Sie%20nur%20echte%2C%20nicht-fiktionale%20Bilder%20f%C3%BCr%20maximale%20Wirkung)**
 
 ---
 
-### No. 3: Multiple Image Edits and Text Replacement
+### No. 3: Mehrere Bildbearbeitungen und Textersetzung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A complex instructional prompt designed for image editing, requiring multiple specific text replacements, a date change, a visual element replacement (screen content), and a subject pose change (boy facing viewer with thumbs up). This demonstrates the precise editing capabilities of GPT-IMAGE-1.5.
+Eine komplexe Anweisung zur Bildbearbeitung, die mehrere spezifische Textersetzungen, eine Datumsänderung, einen Austausch eines visuellen Elements (Bildschirminhalt) und eine Änderung der Pose des Motivs (Junge blickt den Betrachter an und zeigt Daumen hoch) erfordert. Dies demonstriert die präzisen Bearbeitungsfähigkeiten von GPT-IMAGE-1.5.
 
 #### 📝 Prompt
 
 ```
-Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub header with "Now Available on Comfy Cloud" in Japanese text. Do not interpret the words 'Comfy Cloud', this is the name of a product. Replace the "'83" with "'25". Replace the screen with a node based interface. The boy is facing the viewer with a thumbs up.
+Ersetzen Sie den Text „Internet“ durch „GPT-IMAGE-1.5“. Ersetzen Sie die japanische Unterüberschrift durch „Jetzt auf Comfy Cloud verfügbar“ in japanischem Text. Interpretieren Sie die Wörter „Comfy Cloud“ nicht, dies ist der Name eines Produkts. Ersetzen Sie „'83“ durch „'25“. Ersetzen Sie den Bildschirm durch eine knotenbasierte Oberfläche. Der Junge zeigt dem Betrachter einen Daumen hoch.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -379,13 +379,13 @@ Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub heade
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231577666_gcsnd3_G8jlrnUbMAQwRfJ.jpg" width="600" alt="Multiple Image Edits and Text Replacement - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231577666_gcsnd3_G8jlrnUbMAQwRfJ.jpg" width="600" alt="Mehrere Bildbearbeitungen und Textersetzung - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231578130_26gqnu_G8jlrv0akAALooL.jpg" width="600" alt="Multiple Image Edits and Text Replacement - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231578130_26gqnu_G8jlrv0akAALooL.jpg" width="600" alt="Mehrere Bildbearbeitungen und Textersetzung - Image 2">
 </div>
 
 #### 📌 Details
@@ -395,22 +395,22 @@ Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub heade
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Replace%20the%20text%20%22Internet%22%20with%20%22GPT-IMAGE-1.5%22.%20Replace%20the%20Japanese%20sub%20header%20with%20%22Now%20Available%20on%20Comfy%20Cloud%22%20in%20Japanese%20text.%20Do%20not%20interpret%20the%20words%20'Comfy%20Cloud'%2C%20this%20is%20the%20name%20of%20a%20product.%20Replace%20the%20%22'83%22%20with%20%22'25%22.%20Replace%20the%20screen%20with%20a%20node%20based%20interface.%20The%20boy%20is%20facing%20the%20viewer%20with%20a%20thumbs%20up.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ersetzen%20Sie%20den%20Text%20%E2%80%9EInternet%E2%80%9C%20durch%20%E2%80%9EGPT-IMAGE-1.5%E2%80%9C.%20Ersetzen%20Sie%20die%20japanische%20Unter%C3%BCberschrift%20durch%20%E2%80%9EJetzt%20auf%20Comfy%20Cloud%20verf%C3%BCgbar%E2%80%9C%20in%20japanischem%20Text.%20Interpretieren%20Sie%20die%20W%C3%B6rter%20%E2%80%9EComfy%20Cloud%E2%80%9C%20nicht%2C%20dies%20ist%20der%20Name%20eines%20Produkts.%20Ersetzen%20Sie%20%E2%80%9E'83%E2%80%9C%20durch%20%E2%80%9E'25%E2%80%9C.%20Ersetzen%20Sie%20den%20Bildschirm%20durch%20eine%20knotenbasierte%20Oberfl%C3%A4che.%20Der%20Junge%20zeigt%20dem%20Betrachter%20einen%20Daumen%20hoch.)**
 
 ---
 
-### No. 4: Festive Wallpaper Prompt
+### No. 4: Festlicher Hintergrundbild-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A prompt used with GPT Image 1.5 to create a 4K wallpaper featuring bright, vibrant colors suitable for a festive, celebratory mood. The user also mentions using an Image Extender tool to resize the output.
+Ein Prompt, der mit GPT Image 1.5 verwendet wurde, um ein 4K-Hintergrundbild mit hellen, lebendigen Farben zu erstellen, das für eine festliche, feierliche Stimmung geeignet ist. Der Benutzer erwähnt auch die Verwendung eines Image Extender Tools, um die Ausgabe in der Größe anzupassen.
 
 #### 📝 Prompt
 
 ```
-The bright, vibrant colors create a festive, celebratory mood 🎅
+Die hellen, lebendigen Farben schaffen eine festliche, fröhliche Stimmung 🎅
 ```
 
 #### 🖼️ Generierte Bilder
@@ -418,13 +418,13 @@ The bright, vibrant colors create a festive, celebratory mood 🎅
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231589093_faay77_G8jbKWyXIAAf1mT.jpg" width="600" alt="Festive Wallpaper Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231589093_faay77_G8jbKWyXIAAf1mT.jpg" width="600" alt="Festlicher Hintergrundbild-Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231589446_qb929e_G8jbPDcWYAAO8Rm.jpg" width="600" alt="Festive Wallpaper Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231589446_qb929e_G8jbPDcWYAAO8Rm.jpg" width="600" alt="Festlicher Hintergrundbild-Prompt - Image 2">
 </div>
 
 #### 📌 Details
@@ -434,23 +434,23 @@ The bright, vibrant colors create a festive, celebratory mood 🎅
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=The%20bright%2C%20vibrant%20colors%20create%20a%20festive%2C%20celebratory%20mood%20%F0%9F%8E%85)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Die%20hellen%2C%20lebendigen%20Farben%20schaffen%20eine%20festliche%2C%20fr%C3%B6hliche%20Stimmung%20%F0%9F%8E%85)**
 
 ---
 
-### No. 5: GPT Image 1.5 Style Description for 90s Film Aesthetic
+### No. 5: GPT Image 1.5 Stilbeschreibung für die Ästhetik eines 90er-Jahre-Films
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-This text describes the desired output style for an image generation task using GPT Image 1.5, focusing on retaining the decadent mood and texture of 90s cinema while reconstructing the figures realistically. This description acts as a high-level prompt instruction for the model.
+Dieser Text beschreibt den gewünschten Ausgabestil für eine Bilderzeugungsaufgabe mit GPT Image 1.5, wobei der Schwerpunkt darauf liegt, die dekadente Stimmung und Textur des 90er-Jahre-Kinos beizubehalten und gleichzeitig die Figuren realistisch zu rekonstruieren. Diese Beschreibung dient als übergeordnete Prompt-Anweisung für das Modell.
 
 #### 📝 Prompt
 
 ```
-While maintaining the decadent mood and texture characteristic of 90s films,
-reconstruct only the figures to be realistic.
+Während die dekadente Stimmung und Textur, die für Filme der 90er-Jahre charakteristisch ist, beibehalten wird,
+rekonstruieren Sie nur die Figuren, um sie realistisch darzustellen.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -458,7 +458,7 @@ reconstruct only the figures to be realistic.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231586172_klag99_G8jGOqpaAAAVTM6.jpg" width="600" alt="GPT Image 1.5 Style Description for 90s Film Aesthetic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231586172_klag99_G8jGOqpaAAAVTM6.jpg" width="600" alt="GPT Image 1.5 Stilbeschreibung für die Ästhetik eines 90er-Jahre-Films - Image 1">
 </div>
 
 #### 📌 Details
@@ -468,22 +468,22 @@ reconstruct only the figures to be realistic.
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=While%20maintaining%20the%20decadent%20mood%20and%20texture%20characteristic%20of%2090s%20films%2C%0Areconstruct%20only%20the%20figures%20to%20be%20realistic.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=W%C3%A4hrend%20die%20dekadente%20Stimmung%20und%20Textur%2C%20die%20f%C3%BCr%20Filme%20der%2090er-Jahre%20charakteristisch%20ist%2C%20beibehalten%20wird%2C%0Arekonstruieren%20Sie%20nur%20die%20Figuren%2C%20um%20sie%20realistisch%20darzustellen.)**
 
 ---
 
-### No. 6: Character Visual Update while Preserving Original Atmosphere
+### No. 6: Charakter-Visual-Update unter Beibehaltung der ursprünglichen Atmosphäre
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A prompt aimed at changing a character's visual style to a 'more realistic visual' while keeping the original atmosphere of the anime or manga intact. This is useful for adapting characters to different media styles.
+Ein Prompt, der darauf abzielt, den visuellen Stil eines Charakters in einen „realistischeren Look“ zu ändern, während die ursprüngliche Anime- oder Manga-Atmosphäre erhalten bleibt. Dies ist nützlich, um Charaktere an verschiedene Medienstile anzupassen.
 
 #### 📝 Prompt
 
 ```
-Change the character to a “more realistic visual” while keeping the atmosphere of the original work intact.
+Ändern Sie den Charakter in eine „realistischere Darstellung“, während die Atmosphäre des Originalwerks erhalten bleibt.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -491,7 +491,7 @@ Change the character to a “more realistic visual” while keeping the atmosphe
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231603946_fjhila_G8jCFumbMAU98mt.jpg" width="600" alt="Character Visual Update while Preserving Original Atmosphere - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231603946_fjhila_G8jCFumbMAU98mt.jpg" width="600" alt="Charakter-Visual-Update unter Beibehaltung der ursprünglichen Atmosphäre - Image 1">
 </div>
 
 #### 📌 Details
@@ -501,32 +501,32 @@ Change the character to a “more realistic visual” while keeping the atmosphe
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Change%20the%20character%20to%20a%20%E2%80%9Cmore%20realistic%20visual%E2%80%9D%20while%20keeping%20the%20atmosphere%20of%20the%20original%20work%20intact.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%C3%84ndern%20Sie%20den%20Charakter%20in%20eine%20%E2%80%9Erealistischere%20Darstellung%E2%80%9C%2C%20w%C3%A4hrend%20die%20Atmosph%C3%A4re%20des%20Originalwerks%20erhalten%20bleibt.)**
 
 ---
 
-### No. 7: Black and White Fine Art Portrait with Selective Color
+### No. 7: Schwarz-Weiß-Kunstporträt mit selektiver Farbe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a dramatic black-and-white fine art portrait based on an uploaded image, ensuring 100% face preservation. It uses selective color isolation on a randomly chosen T-shirt color and specifies lighting (chiaroscuro), expression, and texture for a classic, emotionally evocative studio aesthetic.
+Dieser Prompt generiert ein dramatisches Schwarz-Weiß-Kunstporträt basierend auf einem hochgeladenen Bild, wobei das Gesicht zu 100 % erhalten bleibt. Er verwendet eine selektive Farbisolierung auf einer zufällig ausgewählten T-Shirt-Farbe und spezifiziert Beleuchtung (Chiaroscuro), Ausdruck und Textur für eine klassische, emotional ansprechende Studioästhetik.
 
 #### 📝 Prompt
 
 ```
-A dramatic black-and-white fine art portrait of the person in the uploaded picture (preserve face 100%), captured in a close-up, three-quarter profile. Soft directional lighting sculpts the face and upper body, creating deep shadows and a cinematic chiaroscuro effect.
+Ein dramatisches Schwarz-Weiß-Kunstporträt der Person auf dem hochgeladenen Bild (Gesicht zu 100 % erhalten), in einer Nahaufnahme, Dreiviertelprofil. Weiches, gerichtetes Licht modelliert das Gesicht und den Oberkörper und erzeugt tiefe Schatten und einen filmischen Chiaroscuro-Effekt.
 
-The subject wears a simple unbranded T-shirt in a randomly chosen solid color: [{argument name="T-shirt color" default="red/ yellow/ black/ white/ teal/ maroon"}].
-Only the T-shirt color is visible — all other elements remain strictly monochromatic black-and-white. Natural fabric folds are clearly visible, with realistic texture and contrast.
+Die Person trägt ein einfaches, markenloses T-Shirt in einer zufällig gewählten Unifarbe: [{argument name="T-shirt color" default="red/ yellow/ black/ white/ teal/ maroon"}].
+Nur die Farbe des T-Shirts ist sichtbar – alle anderen Elemente bleiben streng monochromatisch schwarz-weiß. Natürliche Stofffalten sind deutlich sichtbar, mit realistischer Textur und Kontrast.
 
-The subject’s expression is [{argument name="emotion" default="calm / introspective / confident / serene / melancholic"}], with relaxed features and a gentle gaze directed [{argument name="gaze direction" default="TOWARDS THE CAMERA / AWAY / DOWNWARD"}].
+Der Ausdruck der Person ist [{argument name="emotion" default="calm / introspective / confident / serene / melancholic"}], mit entspannten Gesichtszügen und einem sanften Blick, der [{argument name="gaze direction" default="TOWARDS THE CAMERA / AWAY / DOWNWARD"}] gerichtet ist.
 
-Skin texture appears natural and detailed, with smooth tonal transitions. Styling is minimal, emphasizing light, form, and emotion rather than fashion. A dark, unobtrusive background fades into black, creating a timeless studio portrait aesthetic.
+Die Hauttextur wirkt natürlich und detailliert, mit weichen Tonübergängen. Das Styling ist minimalistisch und betont Licht, Form und Emotion statt Mode. Ein dunkler, unaufdringlicher Hintergrund geht in Schwarz über und schafft eine zeitlose Studio-Porträt-Ästhetik.
 
-High-contrast monochrome tones with selective color isolation on the T-shirt only, subtle film grain, shallow depth of field, classic fine-art photography style. Ultra-high resolution, professional studio quality, intimate, elegant, emotionally evocative."
+Hochkontrastreiche Monochromtöne mit selektiver Farbisolierung nur auf dem T-Shirt, subtiles Filmkorn, geringe Schärfentiefe, klassischer Fine-Art-Fotografie-Stil. Ultrahohe Auflösung, professionelle Studioqualität, intim, elegant, emotional evokativ.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -534,7 +534,7 @@ High-contrast monochrome tones with selective color isolation on the T-shirt onl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231584465_8hx561_G8igvd3acAEikLs.jpg" width="600" alt="Black and White Fine Art Portrait with Selective Color - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231584465_8hx561_G8igvd3acAEikLs.jpg" width="600" alt="Schwarz-Weiß-Kunstporträt mit selektiver Farbe - Image 1">
 </div>
 
 #### 📌 Details
@@ -544,22 +544,22 @@ High-contrast monochrome tones with selective color isolation on the T-shirt onl
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20dramatic%20black-and-white%20fine%20art%20portrait%20of%20the%20person%20in%20the%20uploaded%20picture%20(preserve%20face%20100%25)%2C%20captured%20in%20a%20close-up%2C%20three-quarter%20profile.%20Soft%20directional%20lighting%20sculpts%20the%20face%20and%20upper%20body%2C%20creating%20deep%20shadows%20and%20a%20cinematic%20chiaroscuro%20effect.%0A%0AThe%20subject%20wears%20a%20simple%20unbranded%20T-shirt%20in%20a%20randomly%20chosen%20solid%20color%3A%20%5B%7Bargument%20name%3D%22T-shirt%20color%22%20default%3D%22red%2F%20yellow%2F%20black%2F%20white%2F%20teal%2F%20maroon%22%7D%5D.%0AOnly%20the%20T-shirt%20color%20is%20visible%20%E2%80%94%20all%20other%20elements%20remain%20strictly%20monochromatic%20black-and-white.%20Natural%20fabric%20folds%20are%20clearly%20visible%2C%20with%20realistic%20texture%20and%20contrast.%0A%0AThe%20subject%E2%80%99s%20expression%20is%20%5B%7Bargument%20name%3D%22emotion%22%20default%3D%22calm%20%2F%20introspective%20%2F%20confident%20%2F%20serene%20%2F%20melancholic%22%7D%5D%2C%20with%20relaxed%20features%20and%20a%20gentle%20gaze%20directed%20%5B%7Bargument%20name%3D%22gaze%20direction%22%20default%3D%22TOWARDS%20THE%20CAMERA%20%2F%20AWAY%20%2F%20DOWNWARD%22%7D%5D.%0A%0ASkin%20texture%20appears%20natural%20and%20detailed%2C%20with%20smooth%20tonal%20transitions.%20Styling%20is%20minimal%2C%20emphasizing%20light%2C%20form%2C%20and%20emotion%20rather%20than%20fashion.%20A%20dark%2C%20unobtrusive%20background%20fades%20into%20black%2C%20creating%20a%20timeless%20studio%20portrait%20aesthetic.%0A%0AHigh-contrast%20monochrome%20tones%20with%20selective%20color%20isolation%20on%20the%20T-shirt%20only%2C%20subtle%20film%20grain%2C%20shallow%20depth%20of%20field%2C%20classic%20fine-art%20photography%20style.%20Ultra-high%20resolution%2C%20professional%20studio%20quality%2C%20intimate%2C%20elegant%2C%20emotionally%20evocative.%22)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20dramatisches%20Schwarz-Wei%C3%9F-Kunstportr%C3%A4t%20der%20Person%20auf%20dem%20hochgeladenen%20Bild%20(Gesicht%20zu%20100%20%25%20erhalten)%2C%20in%20einer%20Nahaufnahme%2C%20Dreiviertelprofil.%20Weiches%2C%20gerichtetes%20Licht%20modelliert%20das%20Gesicht%20und%20den%20Oberk%C3%B6rper%20und%20erzeugt%20tiefe%20Schatten%20und%20einen%20filmischen%20Chiaroscuro-Effekt.%0A%0ADie%20Person%20tr%C3%A4gt%20ein%20einfaches%2C%20markenloses%20T-Shirt%20in%20einer%20zuf%C3%A4llig%20gew%C3%A4hlten%20Unifarbe%3A%20%5B%7Bargument%20name%3D%22T-shirt%20color%22%20default%3D%22red%2F%20yellow%2F%20black%2F%20white%2F%20teal%2F%20maroon%22%7D%5D.%0ANur%20die%20Farbe%20des%20T-Shirts%20ist%20sichtbar%20%E2%80%93%20alle%20anderen%20Elemente%20bleiben%20streng%20monochromatisch%20schwarz-wei%C3%9F.%20Nat%C3%BCrliche%20Stofffalten%20sind%20deutlich%20sichtbar%2C%20mit%20realistischer%20Textur%20und%20Kontrast.%0A%0ADer%20Ausdruck%20der%20Person%20ist%20%5B%7Bargument%20name%3D%22emotion%22%20default%3D%22calm%20%2F%20introspective%20%2F%20confident%20%2F%20serene%20%2F%20melancholic%22%7D%5D%2C%20mit%20entspannten%20Gesichtsz%C3%BCgen%20und%20einem%20sanften%20Blick%2C%20der%20%5B%7Bargument%20name%3D%22gaze%20direction%22%20default%3D%22TOWARDS%20THE%20CAMERA%20%2F%20AWAY%20%2F%20DOWNWARD%22%7D%5D%20gerichtet%20ist.%0A%0ADie%20Hauttextur%20wirkt%20nat%C3%BCrlich%20und%20detailliert%2C%20mit%20weichen%20Ton%C3%BCberg%C3%A4ngen.%20Das%20Styling%20ist%20minimalistisch%20und%20betont%20Licht%2C%20Form%20und%20Emotion%20statt%20Mode.%20Ein%20dunkler%2C%20unaufdringlicher%20Hintergrund%20geht%20in%20Schwarz%20%C3%BCber%20und%20schafft%20eine%20zeitlose%20Studio-Portr%C3%A4t-%C3%84sthetik.%0A%0AHochkontrastreiche%20Monochromt%C3%B6ne%20mit%20selektiver%20Farbisolierung%20nur%20auf%20dem%20T-Shirt%2C%20subtiles%20Filmkorn%2C%20geringe%20Sch%C3%A4rfentiefe%2C%20klassischer%20Fine-Art-Fotografie-Stil.%20Ultrahohe%20Aufl%C3%B6sung%2C%20professionelle%20Studioqualit%C3%A4t%2C%20intim%2C%20elegant%2C%20emotional%20evokativ.)**
 
 ---
 
-### No. 8: Cool Illustration of Ouroboros
+### No. 8: Coole Illustration des Ouroboros
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A simple Japanese prompt requesting a cool illustration of the Ouroboros—two snakes eating each other—symbolizing a closed system.
+Ein einfacher japanischer Prompt, der eine coole Illustration des Ouroboros – zwei Schlangen, die sich gegenseitig fressen – anfordert, der ein geschlossenes System symbolisiert.
 
 #### 📝 Prompt
 
 ```
-Generate an image that coolly depicts an illustration of the Ouroboros, two snakes eating each other, symbolizing a closed system.
+Erzeugen Sie ein Bild, das eine Illustration des Ouroboros cool darstellt, zwei Schlangen, die sich gegenseitig fressen und ein geschlossenes System symbolisieren.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -567,7 +567,7 @@ Generate an image that coolly depicts an illustration of the Ouroboros, two snak
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231582278_m6q20m_G8iDpy8aAAAJ7eb.jpg" width="600" alt="Cool Illustration of Ouroboros - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231582278_m6q20m_G8iDpy8aAAAJ7eb.jpg" width="600" alt="Coole Illustration des Ouroboros - Image 1">
 </div>
 
 #### 📌 Details
@@ -577,67 +577,67 @@ Generate an image that coolly depicts an illustration of the Ouroboros, two snak
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Generate%20an%20image%20that%20coolly%20depicts%20an%20illustration%20of%20the%20Ouroboros%2C%20two%20snakes%20eating%20each%20other%2C%20symbolizing%20a%20closed%20system.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erzeugen%20Sie%20ein%20Bild%2C%20das%20eine%20Illustration%20des%20Ouroboros%20cool%20darstellt%2C%20zwei%20Schlangen%2C%20die%20sich%20gegenseitig%20fressen%20und%20ein%20geschlossenes%20System%20symbolisieren.)**
 
 ---
 
-### No. 9: Aesthetic Hairstyle Comparison Grid
+### No. 9: Ästhetischer Frisuren-Vergleichsraster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A highly structured prompt for GPT Image 1.5 designed to create a clean, aesthetic 3x3 collage portrait comparing nine different men's hairstyles on the same young man. It specifies subject details, environment, lighting (soft sunset golden-hour), camera settings, and wardrobe to ensure consistency across the grid.
+Ein hochstrukturierter Prompt für GPT Image 1.5, der darauf ausgelegt ist, ein klares, ästhetisches 3x3-Collage-Porträt zu erstellen, das neun verschiedene Männerfrisuren am selben jungen Mann vergleicht. Er spezifiziert Details zum Motiv, zur Umgebung, zur Beleuchtung (weiche goldene Stunde bei Sonnenuntergang), zu den Kameraeinstellungen und zur Garderobe, um Konsistenz über das gesamte Raster zu gewährleisten.
 
 #### 📝 Prompt
 
 ```
-description: "A clean, aesthetic 3x3 collage portrait showcasing different men's hairstyles. The same young man is captured in each frame, positioned in consistent lighting and pose, creating a style comparison grid.",
+description: "Ein sauberes, ästhetisches 3x3-Collage-Porträt, das verschiedene Herrenfrisuren zeigt. Derselbe junge Mann ist in jedem Bild festgehalten, positioniert in gleichmäßiger Beleuchtung und Pose, wodurch ein Stilvergleichsgitter entsteht.",
 
   "subject": {
-    "type": "young man",
-    "age": "early 20s",
-    "skin_tone": "medium with smooth texture",
-    "facial_features": "sharp jawline, well-groomed beard stubble, symmetrical face",
-    "expression": "neutral and confident"
+    "type": "junger Mann",
+    "age": "Anfang 20",
+    "skin_tone": "mittel mit glatter Textur",
+    "facial_features": "markante Kieferlinie, gepflegter Bartstoppel, symmetrisches Gesicht",
+    "expression": "neutral und selbstbewusst"
   },
 
   "hairstyles": [
-    "{argument name="hairstyle 1" default="clean shaved buzz cut"}",
-    "{argument name="hairstyle 2" default="slicked back classic hairstyle"}",
-    "{argument name="hairstyle 3" default="medium wavy long hair"}",
-    "{argument name="hairstyle 4" default="short textured fringe"}",
-    "{argument name="hairstyle 5" default="voluminous messy hairstyle"}",
-    "{argument name="hairstyle 6" default="man bun"}",
-    "{argument name="hairstyle 7" default="cornrow braids"}",
-    "{argument name="hairstyle 8" default="side swept modern fade"}",
-    "{argument name="hairstyle 9" default="tight curly textured cut"}"
+    "{argument name="hairstyle 1" default="rasierter Buzz Cut"}",
+    "{argument name="hairstyle 2" default="klassische, zurückgekämmte Frisur"}",
+    "{argument name="hairstyle 3" default="mittellanges, welliges Haar"}",
+    "{argument name="hairstyle 4" default="kurzer, texturierter Pony"}",
+    "{argument name="hairstyle 5" default="voluminöse, unordentliche Frisur"}",
+    "{argument name="hairstyle 6" default="Man Bun"}",
+    "{argument name="hairstyle 7" default="Cornrow-Zöpfe"}",
+    "{argument name="hairstyle 8" default="seitlich gekämmter, moderner Fade"}",
+    "{argument name="hairstyle 9" default="enger, lockiger, texturierter Schnitt"}"
   ],
 
   "environment": {
-    "location": "outdoor courtyard with white architecture arches",
-    "lighting": "soft sunset golden-hour lighting",
-    "background": "slightly blurred but clean and minimal"
+    "location": "Außenhof mit weißen Architektur-Bögen",
+    "lighting": "weiches Sonnenuntergangslicht zur goldenen Stunde",
+    "background": "leicht unscharf, aber sauber und minimalistisch"
   },
 
   "camera": {
-    "shot": "shoulder-level portrait",
-    "angle": "eye-level",
-    "lens": "standard lens (50mm)",
-    "composition": "consistent framing for all nine shots"
+    "shot": "Porträt auf Schulterhöhe",
+    "angle": "Augenhöhe",
+    "lens": "Standardobjektiv (50mm)",
+    "composition": "konsistente Bildausschnitte für alle neun Aufnahmen"
   },
 
   "wardrobe": {
-    "top": "plain fitted white t-shirt",
-    "style": "minimal, clean, modern"
+    "top": "schlichtes, eng anliegendes weißes T-Shirt",
+    "style": "minimalistisch, sauber, modern"
   },
 
   "mood": [
-    "stylish",
-    "fresh",
-    "groomed",
-    "aesthetic"
+    "stilvoll",
+    "frisch",
+    "gepflegt",
+    "ästhetisch"
   ]
 }
 ```
@@ -647,7 +647,7 @@ description: "A clean, aesthetic 3x3 collage portrait showcasing different men's
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231593838_eidf4r_G8h8zv3agAA1BOi.jpg" width="600" alt="Aesthetic Hairstyle Comparison Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231593838_eidf4r_G8h8zv3agAA1BOi.jpg" width="600" alt="Ästhetischer Frisuren-Vergleichsraster - Image 1">
 </div>
 
 #### 📌 Details
@@ -657,22 +657,22 @@ description: "A clean, aesthetic 3x3 collage portrait showcasing different men's
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=description%3A%20%22A%20clean%2C%20aesthetic%203x3%20collage%20portrait%20showcasing%20different%20men's%20hairstyles.%20The%20same%20young%20man%20is%20captured%20in%20each%20frame%2C%20positioned%20in%20consistent%20lighting%20and%20pose%2C%20creating%20a%20style%20comparison%20grid.%22%2C%0A%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22young%20man%22%2C%0A%20%20%20%20%22age%22%3A%20%22early%2020s%22%2C%0A%20%20%20%20%22skin_tone%22%3A%20%22medium%20with%20smooth%20texture%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22sharp%20jawline%2C%20well-groomed%20beard%20stubble%2C%20symmetrical%20face%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutral%20and%20confident%22%0A%20%20%7D%2C%0A%0A%20%20%22hairstyles%22%3A%20%5B%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%201%22%20default%3D%22clean%20shaved%20buzz%20cut%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%202%22%20default%3D%22slicked%20back%20classic%20hairstyle%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%203%22%20default%3D%22medium%20wavy%20long%20hair%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%204%22%20default%3D%22short%20textured%20fringe%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%205%22%20default%3D%22voluminous%20messy%20hairstyle%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%206%22%20default%3D%22man%20bun%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%207%22%20default%3D%22cornrow%20braids%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%208%22%20default%3D%22side%20swept%20modern%20fade%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%209%22%20default%3D%22tight%20curly%20textured%20cut%22%7D%22%0A%20%20%5D%2C%0A%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22outdoor%20courtyard%20with%20white%20architecture%20arches%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22soft%20sunset%20golden-hour%20lighting%22%2C%0A%20%20%20%20%22background%22%3A%20%22slightly%20blurred%20but%20clean%20and%20minimal%22%0A%20%20%7D%2C%0A%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22shot%22%3A%20%22shoulder-level%20portrait%22%2C%0A%20%20%20%20%22angle%22%3A%20%22eye-level%22%2C%0A%20%20%20%20%22lens%22%3A%20%22standard%20lens%20(50mm)%22%2C%0A%20%20%20%20%22composition%22%3A%20%22consistent%20framing%20for%20all%20nine%20shots%22%0A%20%20%7D%2C%0A%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22plain%20fitted%20white%20t-shirt%22%2C%0A%20%20%20%20%22style%22%3A%20%22minimal%2C%20clean%2C%20modern%22%0A%20%20%7D%2C%0A%0A%20%20%22mood%22%3A%20%5B%0A%20%20%20%20%22stylish%22%2C%0A%20%20%20%20%22fresh%22%2C%0A%20%20%20%20%22groomed%22%2C%0A%20%20%20%20%22aesthetic%22%0A%20%20%5D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=description%3A%20%22Ein%20sauberes%2C%20%C3%A4sthetisches%203x3-Collage-Portr%C3%A4t%2C%20das%20verschiedene%20Herrenfrisuren%20zeigt.%20Derselbe%20junge%20Mann%20ist%20in%20jedem%20Bild%20festgehalten%2C%20positioniert%20in%20gleichm%C3%A4%C3%9Figer%20Beleuchtung%20und%20Pose%2C%20wodurch%20ein%20Stilvergleichsgitter%20entsteht.%22%2C%0A%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22junger%20Mann%22%2C%0A%20%20%20%20%22age%22%3A%20%22Anfang%2020%22%2C%0A%20%20%20%20%22skin_tone%22%3A%20%22mittel%20mit%20glatter%20Textur%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22markante%20Kieferlinie%2C%20gepflegter%20Bartstoppel%2C%20symmetrisches%20Gesicht%22%2C%0A%20%20%20%20%22expression%22%3A%20%22neutral%20und%20selbstbewusst%22%0A%20%20%7D%2C%0A%0A%20%20%22hairstyles%22%3A%20%5B%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%201%22%20default%3D%22rasierter%20Buzz%20Cut%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%202%22%20default%3D%22klassische%2C%20zur%C3%BCckgek%C3%A4mmte%20Frisur%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%203%22%20default%3D%22mittellanges%2C%20welliges%20Haar%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%204%22%20default%3D%22kurzer%2C%20texturierter%20Pony%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%205%22%20default%3D%22volumin%C3%B6se%2C%20unordentliche%20Frisur%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%206%22%20default%3D%22Man%20Bun%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%207%22%20default%3D%22Cornrow-Z%C3%B6pfe%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%208%22%20default%3D%22seitlich%20gek%C3%A4mmter%2C%20moderner%20Fade%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%22hairstyle%209%22%20default%3D%22enger%2C%20lockiger%2C%20texturierter%20Schnitt%22%7D%22%0A%20%20%5D%2C%0A%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22Au%C3%9Fenhof%20mit%20wei%C3%9Fen%20Architektur-B%C3%B6gen%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22weiches%20Sonnenuntergangslicht%20zur%20goldenen%20Stunde%22%2C%0A%20%20%20%20%22background%22%3A%20%22leicht%20unscharf%2C%20aber%20sauber%20und%20minimalistisch%22%0A%20%20%7D%2C%0A%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22shot%22%3A%20%22Portr%C3%A4t%20auf%20Schulterh%C3%B6he%22%2C%0A%20%20%20%20%22angle%22%3A%20%22Augenh%C3%B6he%22%2C%0A%20%20%20%20%22lens%22%3A%20%22Standardobjektiv%20(50mm)%22%2C%0A%20%20%20%20%22composition%22%3A%20%22konsistente%20Bildausschnitte%20f%C3%BCr%20alle%20neun%20Aufnahmen%22%0A%20%20%7D%2C%0A%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22schlichtes%2C%20eng%20anliegendes%20wei%C3%9Fes%20T-Shirt%22%2C%0A%20%20%20%20%22style%22%3A%20%22minimalistisch%2C%20sauber%2C%20modern%22%0A%20%20%7D%2C%0A%0A%20%20%22mood%22%3A%20%5B%0A%20%20%20%20%22stilvoll%22%2C%0A%20%20%20%20%22frisch%22%2C%0A%20%20%20%20%22gepflegt%22%2C%0A%20%20%20%20%22%C3%A4sthetisch%22%0A%20%20%5D%0A%7D)**
 
 ---
 
-### No. 10: Candid Cinematic Lifestyle Photograph of Father and Child
+### No. 10: Authentisches, filmisches Lifestyle-Foto von Vater und Kind
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A highly detailed prompt for generating a candid, cinematic lifestyle photograph. It specifies the subjects (tired father and young child), setting (dimly lit living room, vintage couch), actions (father holding remote, child eating chips), lighting (soft, moody tungsten), and photographic style (low, front-facing angle, slight wide-angle distortion, documentary feel).
+Ein sehr detaillierter Prompt zur Erstellung eines authentischen, filmischen Lifestyle-Fotos. Er spezifiziert die Subjekte (müder Vater und kleines Kind), den Schauplatz (schwach beleuchtetes Wohnzimmer, Vintage-Couch), die Handlungen (Vater hält Fernbedienung, Kind isst Chips), die Beleuchtung (weiches, stimmungsvolles Wolframlicht) und den fotografischen Stil (niedriger, frontaler Winkel, leichte Weitwinkelverzerrung, dokumentarischer Charakter).
 
 #### 📝 Prompt
 
 ```
-A candid, cinematic lifestyle photograph of a tired father and his young child sitting together on a worn vintage couch in a dimly lit living room at night. The father recline casually, holding a TV remote toward the camera with one hand while drinking from a glass bottle with the other, relaxed yet exhausted. Beside him, the child sits quietly with a bowl of potato chips, wide-eyed and absorbed in whatever is playing on the television. Soft, moody tungsten lighting casts gentle shadows on the wall behind them, creating an intimate, realistic atmosphere. Shot from a low, front-facing angle with slight wide-angle distortion for a raw, documentary feel.
+Ein offenes, filmisches Lifestyle-Foto eines müden Vaters und seines kleinen Kindes, die zusammen auf einem abgenutzten Vintage-Sofa in einem schwach beleuchteten Wohnzimmer bei Nacht sitzen. Der Vater lehnt lässig zurück, hält mit einer Hand eine TV-Fernbedienung zur Kamera und trinkt mit der anderen aus einer Glasflasche, entspannt und doch erschöpft. Neben ihm sitzt das Kind still mit einer Schale Kartoffelchips, mit großen Augen und vertieft in das, was im Fernsehen läuft. Weiches, stimmungsvolles Wolframlicht wirft sanfte Schatten an die Wand hinter ihnen und schafft eine intime, realistische Atmosphäre. Aufgenommen aus einem niedrigen, frontalen Winkel mit leichter Weitwinkelverzerrung für ein rohes, dokumentarisches Gefühl.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -680,7 +680,7 @@ A candid, cinematic lifestyle photograph of a tired father and his young child s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231577629_m4ebx7_G8h7cgFagAAviYp.jpg" width="600" alt="Candid Cinematic Lifestyle Photograph of Father and Child - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231577629_m4ebx7_G8h7cgFagAAviYp.jpg" width="600" alt="Authentisches, filmisches Lifestyle-Foto von Vater und Kind - Image 1">
 </div>
 
 #### 📌 Details
@@ -690,22 +690,22 @@ A candid, cinematic lifestyle photograph of a tired father and his young child s
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20candid%2C%20cinematic%20lifestyle%20photograph%20of%20a%20tired%20father%20and%20his%20young%20child%20sitting%20together%20on%20a%20worn%20vintage%20couch%20in%20a%20dimly%20lit%20living%20room%20at%20night.%20The%20father%20recline%20casually%2C%20holding%20a%20TV%20remote%20toward%20the%20camera%20with%20one%20hand%20while%20drinking%20from%20a%20glass%20bottle%20with%20the%20other%2C%20relaxed%20yet%20exhausted.%20Beside%20him%2C%20the%20child%20sits%20quietly%20with%20a%20bowl%20of%20potato%20chips%2C%20wide-eyed%20and%20absorbed%20in%20whatever%20is%20playing%20on%20the%20television.%20Soft%2C%20moody%20tungsten%20lighting%20casts%20gentle%20shadows%20on%20the%20wall%20behind%20them%2C%20creating%20an%20intimate%2C%20realistic%20atmosphere.%20Shot%20from%20a%20low%2C%20front-facing%20angle%20with%20slight%20wide-angle%20distortion%20for%20a%20raw%2C%20documentary%20feel.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20offenes%2C%20filmisches%20Lifestyle-Foto%20eines%20m%C3%BCden%20Vaters%20und%20seines%20kleinen%20Kindes%2C%20die%20zusammen%20auf%20einem%20abgenutzten%20Vintage-Sofa%20in%20einem%20schwach%20beleuchteten%20Wohnzimmer%20bei%20Nacht%20sitzen.%20Der%20Vater%20lehnt%20l%C3%A4ssig%20zur%C3%BCck%2C%20h%C3%A4lt%20mit%20einer%20Hand%20eine%20TV-Fernbedienung%20zur%20Kamera%20und%20trinkt%20mit%20der%20anderen%20aus%20einer%20Glasflasche%2C%20entspannt%20und%20doch%20ersch%C3%B6pft.%20Neben%20ihm%20sitzt%20das%20Kind%20still%20mit%20einer%20Schale%20Kartoffelchips%2C%20mit%20gro%C3%9Fen%20Augen%20und%20vertieft%20in%20das%2C%20was%20im%20Fernsehen%20l%C3%A4uft.%20Weiches%2C%20stimmungsvolles%20Wolframlicht%20wirft%20sanfte%20Schatten%20an%20die%20Wand%20hinter%20ihnen%20und%20schafft%20eine%20intime%2C%20realistische%20Atmosph%C3%A4re.%20Aufgenommen%20aus%20einem%20niedrigen%2C%20frontalen%20Winkel%20mit%20leichter%20Weitwinkelverzerrung%20f%C3%BCr%20ein%20rohes%2C%20dokumentarisches%20Gef%C3%BChl.)**
 
 ---
 
-### No. 11: Harajuku Decora Pop Art Poster of Aniko
+### No. 11: Harajuku Decora Pop Art Poster von Aniko
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A highly detailed, structured prompt designed to transform an existing character (Aniko) into a maximalist, high-energy Harajuku Decora and Y2K fashion icon poster art. It emphasizes visual information overload, dynamic composition, and specific typographic requirements for a 'Kawaii' aesthetic.
+Ein sehr detaillierter, strukturierter Prompt, der darauf ausgelegt ist, einen bestehenden Charakter (Aniko) in eine maximalistische, energiegeladene Harajuku Decora und Y2K Fashion Icon Poster-Kunst zu verwandeln. Er betont visuelle Informationsüberflutung, dynamische Komposition und spezifische typografische Anforderungen für eine „Kawaii“-Ästhetik.
 
 #### 📝 Prompt
 
 ```
-【Request for Production: Character 'Kawaii' Remix】 Using the attached image of the character (Aniko) as a model, could you draw a highly dense and vibrant poster art where she has become a Harajuku fashion icon? 【Points to Infer】 Outfit Upgrade: Do not be constrained by the 'school uniform' element of the original image. Based on her hair color and eye color, devise a much flashier outfit, heavily accessorized, based on **'Harajuku Decora' and 'Y2K fashion'**. (Examples: layered colorful hoodies, frilled skirts, platform sneakers, excessive amounts of hairpins and plastic accessories, etc.) Space Direction: Please use an art style that fills in all 'empty space'. Scatter bursting candies, stars, hearts, ribbons, and comic-style effects like 'BAM!' and 'POP!' in the background to express a **'visually information-overloaded happiness'** like an overturned toy box. Composition and Pose: Use a defenseless, floating pose, as if released from gravity and floating in the air, or lying on a bed and photographed from above. A dynamic composition that uses ultra-wide-angle lens perspective to make hands, feet, and shoes appear large would be appreciated. Typography: Design the text **'ANIKO'** as a shiny, balloon-like 3D logo and place it prominently as the main element of the screen. 【Target Visual】 The violence of 'Kawaii'. Aim for a supremely high-tension pop art that is overflowing with color and feels like your brain is melting just by looking at it. 【Highest Priority】 My instructions are only references for direction; please prioritize the highest quality visual outcome and select or discard my information accordingly. --stylize 1400 --ar 16:9
+【Produktionsanfrage: Charakter „Kawaii“-Remix】 Könnten Sie anhand des beigefügten Bildes des Charakters (Aniko) als Modell ein sehr dichtes und lebendiges Poster entwerfen, auf dem sie zu einer Harajuku-Modeikone geworden ist? 【Ableitungen】 Outfit-Upgrade: Lassen Sie sich nicht vom „Schuluniform“-Element des Originalbildes einschränken. Entwerfen Sie basierend auf ihrer Haar- und Augenfarbe ein viel auffälligeres Outfit mit vielen Accessoires, das auf **„Harajuku Decora“ und „Y2K Fashion“** basiert. (Beispiele: mehrlagige bunte Hoodies, Rüschenröcke, Plateau-Sneaker, übermäßige Mengen an Haarnadeln und Plastikaccessoires usw.) Raumgestaltung: Bitte verwenden Sie einen Kunststil, der alle „leeren Räume“ füllt. Streuen Sie platzende Bonbons, Sterne, Herzen, Bänder und Comic-Effekte wie „BAM!“ und „POP!“ in den Hintergrund, um ein **„visuell informationsüberladenes Glück“** wie eine umgestürzte Spielzeugkiste auszudrücken. Komposition und Pose: Verwenden Sie eine wehrlose, schwebende Pose, als ob sie von der Schwerkraft befreit in der Luft schwebt oder auf einem Bett liegt und von oben fotografiert wurde. Eine dynamische Komposition, die eine Ultraweitwinkelperspektive verwendet, um Hände, Füße und Schuhe groß erscheinen zu lassen, wäre wünschenswert. Typografie: Gestalten Sie den Text **„ANIKO“** als glänzendes, ballonartiges 3D-Logo und platzieren Sie ihn prominent als Hauptelement des Bildschirms. 【Zielbild】 Die Gewalt von „Kawaii“. Ziel ist eine extrem hochgespannte Pop-Art, die vor Farbe überquillt und sich anfühlt, als würde Ihr Gehirn beim bloßen Anblick schmelzen. 【Höchste Priorität】 Meine Anweisungen sind nur Referenzen für die Richtung; bitte priorisieren Sie das visuelle Ergebnis von höchster Qualität und wählen oder verwerfen Sie meine Informationen entsprechend. --stylize 1400 --ar 16:9
 ```
 
 #### 🖼️ Generierte Bilder
@@ -713,13 +713,13 @@ A highly detailed, structured prompt designed to transform an existing character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231609413_8k2390_G8h28ACbMAAoaKI.jpg" width="600" alt="Harajuku Decora Pop Art Poster of Aniko - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231609413_8k2390_G8h28ACbMAAoaKI.jpg" width="600" alt="Harajuku Decora Pop Art Poster von Aniko - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231611706_iki9ma_G8h2aPrbsAA5gvx.jpg" width="600" alt="Harajuku Decora Pop Art Poster of Aniko - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231611706_iki9ma_G8h2aPrbsAA5gvx.jpg" width="600" alt="Harajuku Decora Pop Art Poster von Aniko - Image 2">
 </div>
 
 #### 📌 Details
@@ -729,23 +729,23 @@ A highly detailed, structured prompt designed to transform an existing character
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%E3%80%90Request%20for%20Production%3A%20Character%20'Kawaii'%20Remix%E3%80%91%20Using%20the%20attached%20image%20of%20the%20character%20(Aniko)%20as%20a%20model%2C%20could%20you%20draw%20a%20highly%20dense%20and%20vibrant%20poster%20art%20where%20she%20has%20become%20a%20Harajuku%20fashion%20icon%3F%20%E3%80%90Points%20to%20Infer%E3%80%91%20Outfit%20Upgrade%3A%20Do%20not%20be%20constrained%20by%20the%20'school%20uniform'%20element%20of%20the%20original%20image.%20Based%20on%20her%20hair%20color%20and%20eye%20color%2C%20devise%20a%20much%20flashier%20outfit%2C%20heavily%20accessorized%2C%20based%20on%20**'Harajuku%20Decora'%20and%20'Y2K%20fashion'**.%20(Examples%3A%20layered%20colorful%20hoodies%2C%20frilled%20skirts%2C%20platform%20sneakers%2C%20excessive%20amounts%20of%20hairpins%20and%20plastic%20accessories%2C%20etc.)%20Space%20Direction%3A%20Please%20use%20an%20art%20style%20that%20fills%20in%20all%20'empty%20space'.%20Scatter%20bursting%20candies%2C%20stars%2C%20hearts%2C%20ribbons%2C%20and%20comic-style%20effects%20like%20'BAM!'%20and%20'POP!'%20in%20the%20background%20to%20express%20a%20**'visually%20information-overloaded%20happiness'**%20like%20an%20overturned%20toy%20box.%20Composition%20and%20Pose%3A%20Use%20a%20defenseless%2C%20floating%20pose%2C%20as%20if%20released%20from%20gravity%20and%20floating%20in%20the%20air%2C%20or%20lying%20on%20a%20bed%20and%20photographed%20from%20above.%20A%20dynamic%20composition%20that%20uses%20ultra-wide-angle%20lens%20perspective%20to%20make%20hands%2C%20feet%2C%20and%20shoes%20appear%20large%20would%20be%20appreciated.%20Typography%3A%20Design%20the%20text%20**'ANIKO'**%20as%20a%20shiny%2C%20balloon-like%203D%20logo%20and%20place%20it%20prominently%20as%20the%20main%20element%20of%20the%20screen.%20%E3%80%90Target%20Visual%E3%80%91%20The%20violence%20of%20'Kawaii'.%20Aim%20for%20a%20supremely%20high-tension%20pop%20art%20that%20is%20overflowing%20with%20color%20and%20feels%20like%20your%20brain%20is%20melting%20just%20by%20looking%20at%20it.%20%E3%80%90Highest%20Priority%E3%80%91%20My%20instructions%20are%20only%20references%20for%20direction%3B%20please%20prioritize%20the%20highest%20quality%20visual%20outcome%20and%20select%20or%20discard%20my%20information%20accordingly.%20--stylize%201400%20--ar%2016%3A9)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%E3%80%90Produktionsanfrage%3A%20Charakter%20%E2%80%9EKawaii%E2%80%9C-Remix%E3%80%91%20K%C3%B6nnten%20Sie%20anhand%20des%20beigef%C3%BCgten%20Bildes%20des%20Charakters%20(Aniko)%20als%20Modell%20ein%20sehr%20dichtes%20und%20lebendiges%20Poster%20entwerfen%2C%20auf%20dem%20sie%20zu%20einer%20Harajuku-Modeikone%20geworden%20ist%3F%20%E3%80%90Ableitungen%E3%80%91%20Outfit-Upgrade%3A%20Lassen%20Sie%20sich%20nicht%20vom%20%E2%80%9ESchuluniform%E2%80%9C-Element%20des%20Originalbildes%20einschr%C3%A4nken.%20Entwerfen%20Sie%20basierend%20auf%20ihrer%20Haar-%20und%20Augenfarbe%20ein%20viel%20auff%C3%A4lligeres%20Outfit%20mit%20vielen%20Accessoires%2C%20das%20auf%20**%E2%80%9EHarajuku%20Decora%E2%80%9C%20und%20%E2%80%9EY2K%20Fashion%E2%80%9C**%20basiert.%20(Beispiele%3A%20mehrlagige%20bunte%20Hoodies%2C%20R%C3%BCschenr%C3%B6cke%2C%20Plateau-Sneaker%2C%20%C3%BCberm%C3%A4%C3%9Fige%20Mengen%20an%20Haarnadeln%20und%20Plastikaccessoires%20usw.)%20Raumgestaltung%3A%20Bitte%20verwenden%20Sie%20einen%20Kunststil%2C%20der%20alle%20%E2%80%9Eleeren%20R%C3%A4ume%E2%80%9C%20f%C3%BCllt.%20Streuen%20Sie%20platzende%20Bonbons%2C%20Sterne%2C%20Herzen%2C%20B%C3%A4nder%20und%20Comic-Effekte%20wie%20%E2%80%9EBAM!%E2%80%9C%20und%20%E2%80%9EPOP!%E2%80%9C%20in%20den%20Hintergrund%2C%20um%20ein%20**%E2%80%9Evisuell%20informations%C3%BCberladenes%20Gl%C3%BCck%E2%80%9C**%20wie%20eine%20umgest%C3%BCrzte%20Spielzeugkiste%20auszudr%C3%BCcken.%20Komposition%20und%20Pose%3A%20Verwenden%20Sie%20eine%20wehrlose%2C%20schwebende%20Pose%2C%20als%20ob%20sie%20von%20der%20Schwerkraft%20befreit%20in%20der%20Luft%20schwebt%20oder%20auf%20einem%20Bett%20liegt%20und%20von%20oben%20fotografiert%20wurde.%20Eine%20dynamische%20Komposition%2C%20die%20eine%20Ultraweitwinkelperspektive%20verwendet%2C%20um%20H%C3%A4nde%2C%20F%C3%BC%C3%9Fe%20und%20Schuhe%20gro%C3%9F%20erscheinen%20zu%20lassen%2C%20w%C3%A4re%20w%C3%BCnschenswert.%20Typografie%3A%20Gestalten%20Sie%20den%20Text%20**%E2%80%9EANIKO%E2%80%9C**%20als%20gl%C3%A4nzendes%2C%20ballonartiges%203D-Logo%20und%20platzieren%20Sie%20ihn%20prominent%20als%20Hauptelement%20des%20Bildschirms.%20%E3%80%90Zielbild%E3%80%91%20Die%20Gewalt%20von%20%E2%80%9EKawaii%E2%80%9C.%20Ziel%20ist%20eine%20extrem%20hochgespannte%20Pop-Art%2C%20die%20vor%20Farbe%20%C3%BCberquillt%20und%20sich%20anf%C3%BChlt%2C%20als%20w%C3%BCrde%20Ihr%20Gehirn%20beim%20blo%C3%9Fen%20Anblick%20schmelzen.%20%E3%80%90H%C3%B6chste%20Priorit%C3%A4t%E3%80%91%20Meine%20Anweisungen%20sind%20nur%20Referenzen%20f%C3%BCr%20die%20Richtung%3B%20bitte%20priorisieren%20Sie%20das%20visuelle%20Ergebnis%20von%20h%C3%B6chster%20Qualit%C3%A4t%20und%20w%C3%A4hlen%20oder%20verwerfen%20Sie%20meine%20Informationen%20entsprechend.%20--stylize%201400%20--ar%2016%3A9)**
 
 ---
 
-### No. 12: 3D Kawaii Seasonal Sticker Sheet
+### No. 12: 3D Kawaii Saisonale Stickerbögen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt designed to create a 3D kawaii-style sticker sheet (2:3 canvas) featuring nine chibi stickers dressed in various seasonal and holiday outfits. It specifies details like white borders, shadow effects, festive speech bubbles with phrases, and a soft gradient background, intended for WhatsApp sharing.
+Ein Prompt, der darauf ausgelegt ist, einen 3D-Stickerbogen im Kawaii-Stil (Leinwand 2:3) zu erstellen, der neun Chibi-Sticker in verschiedenen saisonalen und festlichen Outfits zeigt. Er spezifiziert Details wie weiße Ränder, Schatteneffekte, festliche Sprechblasen mit Phrasen und einen weichen Farbverlauf-Hintergrund, gedacht für das Teilen auf WhatsApp.
 
 #### 📝 Prompt
 
 ```
-Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in seasonal and holiday-themed outfits including {argument name="theme 1" default="Christmas"}, {argument name="theme 2" default="Halloween"}, {argument name="theme 3" default="summer beach"}, {argument name="theme 4" default="winter cozy"}, {argument name="theme 5" default="spring flowers"}, {argument name="theme 6" default="autumn leaves"}, {argument name="theme 7" default="birthday party"}, {argument name="theme 8" default="graduation"}, and {argument name="theme 9" default="New Year celebration"}. Use the attached image for reference. Each sticker has a white border with shadow effects and includes festive speech bubbles featuring phrases like "{argument name="phrase 1" default="Happy Holidays!"}", "{argument name="phrase 2" default="Spooky!"}", "{argument name="phrase 3" default="Beach vibes"}", "{argument name="phrase 4" default="Cozy time"}", "{argument name="phrase 5" default="Celebrate!"}", and "{argument name="phrase 6" default="Yay us!"}". Set on a soft gradient background transitioning from white to pastel rainbow tones for a festive, versatile vibe suitable for year-round WhatsApp sharing.
+Erstelle eine 3D-Kawaii-Leinwand im Format 2:3 mit neun Chibi-Stil-Stickern, die in saisonalen und feiertagsspezifischen Outfits gekleidet sind, darunter {argument name="theme 1" default="Weihnachten"}, {argument name="theme 2" default="Halloween"}, {argument name="theme 3" default="Sommerstrand"}, {argument name="theme 4" default="winterlich gemütlich"}, {argument name="theme 5" default="Frühlingsblumen"}, {argument name="theme 6" default="Herbstlaub"}, {argument name="theme 7" default="Geburtstagsparty"}, {argument name="theme 8" default="Abschlussfeier"} und {argument name="theme 9" default="Neujahrsfeier"}. Verwende das angehängte Bild als Referenz. Jeder Sticker hat einen weißen Rand mit Schatteneffekten und enthält festliche Sprechblasen mit Phrasen wie "{argument name="phrase 1" default="Frohe Feiertage!"}", "{argument name="phrase 2" default="Gruselig!"}", "{argument name="phrase 3" default="Strand-Vibes"}", "{argument name="phrase 4" default="Gemütliche Zeit"}", "{argument name="phrase 5" default="Feiern!"}" und "{argument name="phrase 6" default="Hurra für uns!"}". Platziere sie auf einem weichen Farbverlaufshintergrund, der von Weiß zu Pastell-Regenbogenfarben übergeht, für eine festliche, vielseitige Stimmung, die sich das ganze Jahr über für WhatsApp-Sharing eignet.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -753,25 +753,25 @@ Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in sea
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231596985_c5mz7k_G8h1xfVbcAAuFPG.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231596985_c5mz7k_G8h1xfVbcAAuFPG.jpg" width="600" alt="3D Kawaii Saisonale Stickerbögen - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231598004_827xr3_G8h1yIobgAAcYLr.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231598004_827xr3_G8h1yIobgAAcYLr.jpg" width="600" alt="3D Kawaii Saisonale Stickerbögen - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231598193_iy9jva_G8h1zVqa8AAPEZ2.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231598193_iy9jva_G8h1zVqa8AAPEZ2.jpg" width="600" alt="3D Kawaii Saisonale Stickerbögen - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231599712_cxxnw0_G8h10o4bsAA93MU.jpg" width="600" alt="3D Kawaii Seasonal Sticker Sheet - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766231599712_cxxnw0_G8h10o4bsAA93MU.jpg" width="600" alt="3D Kawaii Saisonale Stickerbögen - Image 4">
 </div>
 
 #### 📌 Details
@@ -781,23 +781,23 @@ Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in sea
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%203D%20kawaii%202%3A3%20canvas%20featuring%20nine%20chibi-style%20stickers%20dressed%20in%20seasonal%20and%20holiday-themed%20outfits%20including%20%7Bargument%20name%3D%22theme%201%22%20default%3D%22Christmas%22%7D%2C%20%7Bargument%20name%3D%22theme%202%22%20default%3D%22Halloween%22%7D%2C%20%7Bargument%20name%3D%22theme%203%22%20default%3D%22summer%20beach%22%7D%2C%20%7Bargument%20name%3D%22theme%204%22%20default%3D%22winter%20cozy%22%7D%2C%20%7Bargument%20name%3D%22theme%205%22%20default%3D%22spring%20flowers%22%7D%2C%20%7Bargument%20name%3D%22theme%206%22%20default%3D%22autumn%20leaves%22%7D%2C%20%7Bargument%20name%3D%22theme%207%22%20default%3D%22birthday%20party%22%7D%2C%20%7Bargument%20name%3D%22theme%208%22%20default%3D%22graduation%22%7D%2C%20and%20%7Bargument%20name%3D%22theme%209%22%20default%3D%22New%20Year%20celebration%22%7D.%20Use%20the%20attached%20image%20for%20reference.%20Each%20sticker%20has%20a%20white%20border%20with%20shadow%20effects%20and%20includes%20festive%20speech%20bubbles%20featuring%20phrases%20like%20%22%7Bargument%20name%3D%22phrase%201%22%20default%3D%22Happy%20Holidays!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%202%22%20default%3D%22Spooky!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%203%22%20default%3D%22Beach%20vibes%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%204%22%20default%3D%22Cozy%20time%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%205%22%20default%3D%22Celebrate!%22%7D%22%2C%20and%20%22%7Bargument%20name%3D%22phrase%206%22%20default%3D%22Yay%20us!%22%7D%22.%20Set%20on%20a%20soft%20gradient%20background%20transitioning%20from%20white%20to%20pastel%20rainbow%20tones%20for%20a%20festive%2C%20versatile%20vibe%20suitable%20for%20year-round%20WhatsApp%20sharing.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20eine%203D-Kawaii-Leinwand%20im%20Format%202%3A3%20mit%20neun%20Chibi-Stil-Stickern%2C%20die%20in%20saisonalen%20und%20feiertagsspezifischen%20Outfits%20gekleidet%20sind%2C%20darunter%20%7Bargument%20name%3D%22theme%201%22%20default%3D%22Weihnachten%22%7D%2C%20%7Bargument%20name%3D%22theme%202%22%20default%3D%22Halloween%22%7D%2C%20%7Bargument%20name%3D%22theme%203%22%20default%3D%22Sommerstrand%22%7D%2C%20%7Bargument%20name%3D%22theme%204%22%20default%3D%22winterlich%20gem%C3%BCtlich%22%7D%2C%20%7Bargument%20name%3D%22theme%205%22%20default%3D%22Fr%C3%BChlingsblumen%22%7D%2C%20%7Bargument%20name%3D%22theme%206%22%20default%3D%22Herbstlaub%22%7D%2C%20%7Bargument%20name%3D%22theme%207%22%20default%3D%22Geburtstagsparty%22%7D%2C%20%7Bargument%20name%3D%22theme%208%22%20default%3D%22Abschlussfeier%22%7D%20und%20%7Bargument%20name%3D%22theme%209%22%20default%3D%22Neujahrsfeier%22%7D.%20Verwende%20das%20angeh%C3%A4ngte%20Bild%20als%20Referenz.%20Jeder%20Sticker%20hat%20einen%20wei%C3%9Fen%20Rand%20mit%20Schatteneffekten%20und%20enth%C3%A4lt%20festliche%20Sprechblasen%20mit%20Phrasen%20wie%20%22%7Bargument%20name%3D%22phrase%201%22%20default%3D%22Frohe%20Feiertage!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%202%22%20default%3D%22Gruselig!%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%203%22%20default%3D%22Strand-Vibes%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%204%22%20default%3D%22Gem%C3%BCtliche%20Zeit%22%7D%22%2C%20%22%7Bargument%20name%3D%22phrase%205%22%20default%3D%22Feiern!%22%7D%22%20und%20%22%7Bargument%20name%3D%22phrase%206%22%20default%3D%22Hurra%20f%C3%BCr%20uns!%22%7D%22.%20Platziere%20sie%20auf%20einem%20weichen%20Farbverlaufshintergrund%2C%20der%20von%20Wei%C3%9F%20zu%20Pastell-Regenbogenfarben%20%C3%BCbergeht%2C%20f%C3%BCr%20eine%20festliche%2C%20vielseitige%20Stimmung%2C%20die%20sich%20das%20ganze%20Jahr%20%C3%BCber%20f%C3%BCr%20WhatsApp-Sharing%20eignet.)**
 
 ---
 
-### No. 13: GPT-image 1.5 Test Prompt for a Detailed Scene
+### No. 13: GPT-image 1.5 Test-Prompt für eine detaillierte Szene
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This user is testing GPT-image 1.5 and notes that the results are quite good. The actual prompt used to generate the image is located in the ALT text (alternative text) of the attached image, which describes a detailed scene involving a girl, a futuristic city, and specific lighting and composition elements.
+Dieser Nutzer testet GPT-image 1.5 und stellt fest, dass die Ergebnisse recht gut sind. Der eigentliche Prompt, der zur Generierung des Bildes verwendet wurde, befindet sich im ALT-Text (Alternativtext) des angehängten Bildes, der eine detaillierte Szene mit einem Mädchen, einer futuristischen Stadt sowie spezifischen Licht- und Kompositionselementen beschreibt.
 
 #### 📝 Prompt
 
 ```
-A girl with {argument name="hair color" default="long black hair"} and {argument name="clothing" default="a white dress"} stands on the rooftop of a skyscraper in a futuristic city, looking up at the night sky. The city is illuminated by neon lights and holographic advertisements. The composition is a wide shot, with the girl positioned slightly off-center to the right. The lighting is dramatic, with strong shadows and highlights emphasizing the contrast between the girl and the vibrant city lights. The style is cinematic and highly detailed, reminiscent of {argument name="art style" default="cyberpunk anime"}.
+Ein Mädchen mit {argument name="hair color" default="langen schwarzen Haaren"} und {argument name="clothing" default="einem weißen Kleid"} steht auf dem Dach eines Wolkenkratzers in einer futuristischen Stadt und blickt zum Nachthimmel auf. Die Stadt wird von Neonlichtern und holografischen Werbeanzeigen beleuchtet. Die Komposition ist eine Weitwinkelaufnahme, wobei das Mädchen leicht außermittig nach rechts positioniert ist. Die Beleuchtung ist dramatisch, mit starken Schatten und Lichtern, die den Kontrast zwischen dem Mädchen und den lebhaften Stadtlichtern betonen. Der Stil ist filmisch und sehr detailliert, erinnernd an {argument name="art style" default="Cyberpunk-Anime"}.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -805,7 +805,7 @@ A girl with {argument name="hair color" default="long black hair"} and {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231620956_kmlu23_G8h1wp8bgAAI7gX.jpg" width="600" alt="GPT-image 1.5 Test Prompt for a Detailed Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231620956_kmlu23_G8h1wp8bgAAI7gX.jpg" width="600" alt="GPT-image 1.5 Test-Prompt für eine detaillierte Szene - Image 1">
 </div>
 
 #### 📌 Details
@@ -815,22 +815,22 @@ A girl with {argument name="hair color" default="long black hair"} and {argument
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20girl%20with%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22long%20black%20hair%22%7D%20and%20%7Bargument%20name%3D%22clothing%22%20default%3D%22a%20white%20dress%22%7D%20stands%20on%20the%20rooftop%20of%20a%20skyscraper%20in%20a%20futuristic%20city%2C%20looking%20up%20at%20the%20night%20sky.%20The%20city%20is%20illuminated%20by%20neon%20lights%20and%20holographic%20advertisements.%20The%20composition%20is%20a%20wide%20shot%2C%20with%20the%20girl%20positioned%20slightly%20off-center%20to%20the%20right.%20The%20lighting%20is%20dramatic%2C%20with%20strong%20shadows%20and%20highlights%20emphasizing%20the%20contrast%20between%20the%20girl%20and%20the%20vibrant%20city%20lights.%20The%20style%20is%20cinematic%20and%20highly%20detailed%2C%20reminiscent%20of%20%7Bargument%20name%3D%22art%20style%22%20default%3D%22cyberpunk%20anime%22%7D.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20M%C3%A4dchen%20mit%20%7Bargument%20name%3D%22hair%20color%22%20default%3D%22langen%20schwarzen%20Haaren%22%7D%20und%20%7Bargument%20name%3D%22clothing%22%20default%3D%22einem%20wei%C3%9Fen%20Kleid%22%7D%20steht%20auf%20dem%20Dach%20eines%20Wolkenkratzers%20in%20einer%20futuristischen%20Stadt%20und%20blickt%20zum%20Nachthimmel%20auf.%20Die%20Stadt%20wird%20von%20Neonlichtern%20und%20holografischen%20Werbeanzeigen%20beleuchtet.%20Die%20Komposition%20ist%20eine%20Weitwinkelaufnahme%2C%20wobei%20das%20M%C3%A4dchen%20leicht%20au%C3%9Fermittig%20nach%20rechts%20positioniert%20ist.%20Die%20Beleuchtung%20ist%20dramatisch%2C%20mit%20starken%20Schatten%20und%20Lichtern%2C%20die%20den%20Kontrast%20zwischen%20dem%20M%C3%A4dchen%20und%20den%20lebhaften%20Stadtlichtern%20betonen.%20Der%20Stil%20ist%20filmisch%20und%20sehr%20detailliert%2C%20erinnernd%20an%20%7Bargument%20name%3D%22art%20style%22%20default%3D%22Cyberpunk-Anime%22%7D.)**
 
 ---
 
-### No. 14: Image-to-Image Clothing Swap Prompt
+### No. 14: Bild-zu-Bild-Kleidertausch-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A simple prompt used with Higgsfield's GPT Image 1.5 to perform an image-to-image operation, specifically instructing the AI to take the clothing from a reference image and apply it to the subject in the original image.
+Ein einfacher Prompt, der mit Higgsfields GPT Image 1.5 verwendet wurde, um eine Bild-zu-Bild-Operation durchzuführen, bei der die KI angewiesen wird, die Kleidung von einem Referenzbild zu übernehmen und auf die Person im Originalbild anzuwenden.
 
 #### 📝 Prompt
 
 ```
-Take the clothing from the reference and change mine to match it
+Nehmen Sie die Kleidung aus der Referenz und ändern Sie meine entsprechend.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -838,19 +838,19 @@ Take the clothing from the reference and change mine to match it
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606931_bzf4ls_G8hwdYNaEAAFllU.jpg" width="600" alt="Image-to-Image Clothing Swap Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231606931_bzf4ls_G8hwdYNaEAAFllU.jpg" width="600" alt="Bild-zu-Bild-Kleidertausch-Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606977_xspmi8_G8hwfXObgAA870s.jpg" width="600" alt="Image-to-Image Clothing Swap Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231606977_xspmi8_G8hwfXObgAA870s.jpg" width="600" alt="Bild-zu-Bild-Kleidertausch-Prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231607268_18to98_G8hwhMQa8AE84tA.jpg" width="600" alt="Image-to-Image Clothing Swap Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231607268_18to98_G8hwhMQa8AE84tA.jpg" width="600" alt="Bild-zu-Bild-Kleidertausch-Prompt - Image 3">
 </div>
 
 #### 📌 Details
@@ -860,23 +860,23 @@ Take the clothing from the reference and change mine to match it
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Take%20the%20clothing%20from%20the%20reference%20and%20change%20mine%20to%20match%20it)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Nehmen%20Sie%20die%20Kleidung%20aus%20der%20Referenz%20und%20%C3%A4ndern%20Sie%20meine%20entsprechend.)**
 
 ---
 
-### No. 15: Cinematic Storyboard Contact Sheet
+### No. 15: Kinematografisches Storyboard-Kontaktblatt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A detailed prompt for GPT Image 1.5 to generate a 3x3 grid storyboard contact sheet of nine candid, cinematic movie stills. The sequence depicts a young man during a family dinner, showing various natural actions and expressions. It specifies the environment (warm home dining room), lighting (soft, warm tungsten evening light), and aesthetic (film photography with slight grain).
+Ein detaillierter Prompt für GPT Image 1.5, um ein 3x3-Raster-Storyboard-Kontaktbogen mit neun spontanen, filmischen Filmstills zu generieren. Die Sequenz zeigt einen jungen Mann während eines Familienessens, der verschiedene natürliche Handlungen und Ausdrücke zeigt. Er spezifiziert die Umgebung (warmes Esszimmer zu Hause), die Beleuchtung (weiches, warmes Wolfram-Abendlicht) und die Ästhetik (Film-Fotografie mit leichter Körnung).
 
 #### 📝 Prompt
 
 ```
-A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie stills showing a continuous sequence of a young man, approximately 20-25 years old. He has tousled brown hair and a youthful, expressive face, clean-shaven. Across all nine panels, he is consistently wearing a {argument name="shirt color" default="brown"} short-sleeved linen button-down shirt and is seated at a wooden dining table during a family dinner. The panels show varied natural actions: gesturing with his hands while animatedly talking, laughing, eating {argument name="food" default="lasagna"} from a large dish, listening intently, and smiling. The environment is a warm, cozy home dining room with a wooden hutch filled with china and patterned wallpaper visible in the background. The lighting is soft, warm tungsten evening light creating natural shadows. The shots are a mix of medium angles and close-ups with a shallow depth of field, rendered with a film photography aesthetic and slight grain.
+Ein Storyboard-Kontaktbogen im 3x3-Raster, bestehend aus neun authentischen, filmischen Standbildern, die eine fortlaufende Sequenz eines jungen Mannes im Alter von etwa 20-25 Jahren zeigen. Er hat zerzaustes braunes Haar und ein jugendliches, ausdrucksstarkes, glatt rasiertes Gesicht. Auf allen neun Panels trägt er durchgängig ein kurzärmeliges Leinenhemd in {argument name="shirt color" default="Braun"} und sitzt während eines Familienessens an einem hölzernen Esstisch. Die Panels zeigen verschiedene natürliche Handlungen: Gestikulieren mit den Händen während er lebhaft spricht, Lachen, Essen von {argument name="food" default="Lasagne"} aus einer großen Schüssel, aufmerksames Zuhören und Lächeln. Die Umgebung ist ein warmes, gemütliches Esszimmer zu Hause mit einem Holzschrank voller Porzellan und gemusterter Tapete im Hintergrund. Die Beleuchtung ist weiches, warmes Wolfram-Abendlicht, das natürliche Schatten erzeugt. Die Aufnahmen sind eine Mischung aus mittleren Winkeln und Nahaufnahmen mit geringer Schärfentiefe, wiedergegeben mit einer Filmfotografie-Ästhetik und leichter Körnung.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -884,7 +884,7 @@ A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie st
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231596492_sfodre_G8hyEucbAAApZv6.jpg" width="600" alt="Cinematic Storyboard Contact Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231596492_sfodre_G8hyEucbAAApZv6.jpg" width="600" alt="Kinematografisches Storyboard-Kontaktblatt - Image 1">
 </div>
 
 #### 📌 Details
@@ -894,22 +894,22 @@ A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie st
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%203x3%20grid%20storyboard%20contact%20sheet%20comprised%20of%20nine%20candid%2C%20cinematic%20movie%20stills%20showing%20a%20continuous%20sequence%20of%20a%20young%20man%2C%20approximately%2020-25%20years%20old.%20He%20has%20tousled%20brown%20hair%20and%20a%20youthful%2C%20expressive%20face%2C%20clean-shaven.%20Across%20all%20nine%20panels%2C%20he%20is%20consistently%20wearing%20a%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22brown%22%7D%20short-sleeved%20linen%20button-down%20shirt%20and%20is%20seated%20at%20a%20wooden%20dining%20table%20during%20a%20family%20dinner.%20The%20panels%20show%20varied%20natural%20actions%3A%20gesturing%20with%20his%20hands%20while%20animatedly%20talking%2C%20laughing%2C%20eating%20%7Bargument%20name%3D%22food%22%20default%3D%22lasagna%22%7D%20from%20a%20large%20dish%2C%20listening%20intently%2C%20and%20smiling.%20The%20environment%20is%20a%20warm%2C%20cozy%20home%20dining%20room%20with%20a%20wooden%20hutch%20filled%20with%20china%20and%20patterned%20wallpaper%20visible%20in%20the%20background.%20The%20lighting%20is%20soft%2C%20warm%20tungsten%20evening%20light%20creating%20natural%20shadows.%20The%20shots%20are%20a%20mix%20of%20medium%20angles%20and%20close-ups%20with%20a%20shallow%20depth%20of%20field%2C%20rendered%20with%20a%20film%20photography%20aesthetic%20and%20slight%20grain.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20Storyboard-Kontaktbogen%20im%203x3-Raster%2C%20bestehend%20aus%20neun%20authentischen%2C%20filmischen%20Standbildern%2C%20die%20eine%20fortlaufende%20Sequenz%20eines%20jungen%20Mannes%20im%20Alter%20von%20etwa%2020-25%20Jahren%20zeigen.%20Er%20hat%20zerzaustes%20braunes%20Haar%20und%20ein%20jugendliches%2C%20ausdrucksstarkes%2C%20glatt%20rasiertes%20Gesicht.%20Auf%20allen%20neun%20Panels%20tr%C3%A4gt%20er%20durchg%C3%A4ngig%20ein%20kurz%C3%A4rmeliges%20Leinenhemd%20in%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22Braun%22%7D%20und%20sitzt%20w%C3%A4hrend%20eines%20Familienessens%20an%20einem%20h%C3%B6lzernen%20Esstisch.%20Die%20Panels%20zeigen%20verschiedene%20nat%C3%BCrliche%20Handlungen%3A%20Gestikulieren%20mit%20den%20H%C3%A4nden%20w%C3%A4hrend%20er%20lebhaft%20spricht%2C%20Lachen%2C%20Essen%20von%20%7Bargument%20name%3D%22food%22%20default%3D%22Lasagne%22%7D%20aus%20einer%20gro%C3%9Fen%20Sch%C3%BCssel%2C%20aufmerksames%20Zuh%C3%B6ren%20und%20L%C3%A4cheln.%20Die%20Umgebung%20ist%20ein%20warmes%2C%20gem%C3%BCtliches%20Esszimmer%20zu%20Hause%20mit%20einem%20Holzschrank%20voller%20Porzellan%20und%20gemusterter%20Tapete%20im%20Hintergrund.%20Die%20Beleuchtung%20ist%20weiches%2C%20warmes%20Wolfram-Abendlicht%2C%20das%20nat%C3%BCrliche%20Schatten%20erzeugt.%20Die%20Aufnahmen%20sind%20eine%20Mischung%20aus%20mittleren%20Winkeln%20und%20Nahaufnahmen%20mit%20geringer%20Sch%C3%A4rfentiefe%2C%20wiedergegeben%20mit%20einer%20Filmfotografie-%C3%84sthetik%20und%20leichter%20K%C3%B6rnung.)**
 
 ---
 
-### No. 16: Outfit Change to Tuxedo and Bow Tie
+### No. 16: Outfit-Wechsel zu Smoking und Fliege
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A simple image editing prompt for GPT Image 1.5, instructing the model to change the outfit of the subject in an uploaded image to a tuxedo and a bow tie. This highlights the model's ability to handle basic inpainting and style changes.
+Ein einfacher Bildbearbeitungs-Prompt für GPT Image 1.5, der dem Modell anweist, das Outfit der Person in einem hochgeladenen Bild in einen Smoking und eine Fliege zu ändern. Dies unterstreicht die Fähigkeit des Modells, grundlegendes Inpainting und Stiländerungen zu bewältigen.
 
 #### 📝 Prompt
 
 ```
-Change my outfit here to a Tuxedo and a bow tie.
+Ändere mein Outfit hier zu einem Smoking und einer Fliege.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -917,13 +917,13 @@ Change my outfit here to a Tuxedo and a bow tie.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580674_sbur0r_G8htDMoaEAAXvM4.jpg" width="600" alt="Outfit Change to Tuxedo and Bow Tie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231580674_sbur0r_G8htDMoaEAAXvM4.jpg" width="600" alt="Outfit-Wechsel zu Smoking und Fliege - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580980_qaldkr_G8htDMsa4AAfH5s.jpg" width="600" alt="Outfit Change to Tuxedo and Bow Tie - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231580980_qaldkr_G8htDMsa4AAfH5s.jpg" width="600" alt="Outfit-Wechsel zu Smoking und Fliege - Image 2">
 </div>
 
 #### 📌 Details
@@ -933,22 +933,22 @@ Change my outfit here to a Tuxedo and a bow tie.
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Change%20my%20outfit%20here%20to%20a%20Tuxedo%20and%20a%20bow%20tie.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%C3%84ndere%20mein%20Outfit%20hier%20zu%20einem%20Smoking%20und%20einer%20Fliege.)**
 
 ---
 
-### No. 17: Character Feature Description Prompt (Japanese)
+### No. 17: Beschreibungseingabeaufforderung für Charaktermerkmale (Japanisch)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A Japanese prompt instructing the AI to create an image of a character where lines point to different parts of the body, and the features of each part are explained in Japanese text.
+Ein japanischer Prompt, der die KI anweist, ein Bild einer Figur zu erstellen, bei der Linien auf verschiedene Körperteile zeigen und die Merkmale jedes Teils in japanischem Text erklärt werden.
 
 #### 📝 Prompt
 
 ```
-Please create an image that points to various parts of this character with lines, and explains the features of each part in Japanese.
+Bitte erstellen Sie ein Bild, das mit Linien auf verschiedene Teile dieses Zeichens verweist und die Merkmale jedes Teils auf Japanisch erklärt.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -956,13 +956,13 @@ Please create an image that points to various parts of this character with lines
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606000_3sqf3p_G8hm9A7acAE4baX.jpg" width="600" alt="Character Feature Description Prompt (Japanese) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231606000_3sqf3p_G8hm9A7acAE4baX.jpg" width="600" alt="Beschreibungseingabeaufforderung für Charaktermerkmale (Japanisch) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231606171_mj9f80_G8hm62caAAAD2Pz.jpg" width="600" alt="Character Feature Description Prompt (Japanese) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231606171_mj9f80_G8hm62caAAAD2Pz.jpg" width="600" alt="Beschreibungseingabeaufforderung für Charaktermerkmale (Japanisch) - Image 2">
 </div>
 
 #### 📌 Details
@@ -972,23 +972,23 @@ Please create an image that points to various parts of this character with lines
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Please%20create%20an%20image%20that%20points%20to%20various%20parts%20of%20this%20character%20with%20lines%2C%20and%20explains%20the%20features%20of%20each%20part%20in%20Japanese.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Bitte%20erstellen%20Sie%20ein%20Bild%2C%20das%20mit%20Linien%20auf%20verschiedene%20Teile%20dieses%20Zeichens%20verweist%20und%20die%20Merkmale%20jedes%20Teils%20auf%20Japanisch%20erkl%C3%A4rt.)**
 
 ---
 
-### No. 18: Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite)
+### No. 18: Hyperrealistisches Studio-Porträt mit überdimensionierter Produktintegration (Sprite)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A detailed, hyper-realistic studio portrait prompt designed to integrate a subject (based on an uploaded photo) with an oversized product (like a Sprite can). It specifies clothing, pose, lighting, and background for a cinematic luxury editorial look, ensuring the product is realistically integrated, not floating.
+Ein detaillierter, hyperrealistischer Studio-Porträt-Prompt, der darauf ausgelegt ist, ein Motiv (basierend auf einem hochgeladenen Foto) mit einem überdimensionierten Produkt (wie einer Sprite-Dose) zu integrieren. Er spezifiziert Kleidung, Pose, Beleuchtung und Hintergrund für einen filmischen, luxuriösen Editorial-Look, wobei sichergestellt wird, dass das Produkt realistisch integriert ist und nicht schwebt.
 
 #### 📝 Prompt
 
 ```
-A full-body hyper-realistic studio portrait of a man from attached photo [{argument name="jacket color" default="green"} bomber jacket, {argument name="shirt color" default="white"} t-shirt, {argument name="pants color" default="black"} jeans, {argument name="sneaker color" default="green"} sneakers ] in a [{argument name="pose" default="relaxed"}] pose, leaning gracefully beside a large [ can of {argument name="product name" default="sprite"}] positioned [{argument name="product position" default="vertical"}] on a smooth [{argument name="floor color" default="green"}] floor. The object appears oversized and realistic, perfectly integrated with the subject — not floating. Its surface shows accurate texture, reflections, and material depth. The pose defines the subject’s attitude and interaction with the object — natural, stylish, and expressive. The character is balanced and confident, matching the object’s tone and style. Background is seamless, same color for wall and floor, slightly lighter below with soft reflections. Lighting: clean professional studio setup — diffused key from front-left, mild fill from right, subtle rim for separation, evenly balanced exposure. Mood: cinematic luxury editorial with minimal composition and photorealistic realism."
+Ein hyperrealistisches Ganzkörper-Studio-Porträt eines Mannes vom beigefügten Foto in einer [{argument name="jacket color" default="green"}] Bomberjacke, einem [{argument name="shirt color" default="white"}] T-Shirt, einer [{argument name="pants color" default="black"}] Jeans und [{argument name="sneaker color" default="green"}] Sneakern in einer [{argument name="pose" default="relaxed"}] Pose, der sich anmutig neben einer großen [ Dose {argument name="product name" default="sprite"}] lehnt, die [{argument name="product position" default="vertical"}] auf einem glatten [{argument name="floor color" default="green"}] Boden positioniert ist. Das Objekt wirkt überdimensioniert und realistisch, perfekt in das Motiv integriert – nicht schwebend. Seine Oberfläche zeigt präzise Textur, Reflexionen und Materialtiefe. Die Pose definiert die Haltung und Interaktion des Motivs mit dem Objekt – natürlich, stilvoll und ausdrucksstark. Der Charakter ist ausgeglichen und selbstbewusst, passend zum Ton und Stil des Objekts. Der Hintergrund ist nahtlos, Wand und Boden haben die gleiche Farbe, unten etwas heller mit sanften Reflexionen. Beleuchtung: sauberes professionelles Studio-Setup – diffuses Hauptlicht von vorne links, leichtes Fülllicht von rechts, subtiles Streiflicht zur Trennung, gleichmäßig ausgewogene Belichtung. Stimmung: filmischer Luxus-Editorial mit minimalistischer Komposition und fotorealistischem Realismus.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -996,25 +996,25 @@ A full-body hyper-realistic studio portrait of a man from attached photo [{argum
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580668_6em4at_G8hj3FzbIAEf99p.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231580668_6em4at_G8hj3FzbIAEf99p.jpg" width="600" alt="Hyperrealistisches Studio-Porträt mit überdimensionierter Produktintegration (Sprite) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580869_49426e_G8hj3FsaIAA1VX5.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231580869_49426e_G8hj3FsaIAA1VX5.jpg" width="600" alt="Hyperrealistisches Studio-Porträt mit überdimensionierter Produktintegration (Sprite) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231580878_0wzbwf_G8hj3D-aoAA6Lwa.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231580878_0wzbwf_G8hj3D-aoAA6Lwa.jpg" width="600" alt="Hyperrealistisches Studio-Porträt mit überdimensionierter Produktintegration (Sprite) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231581654_chq95s_G8hj3MVbUAAiQQi.jpg" width="600" alt="Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766231581654_chq95s_G8hj3MVbUAAiQQi.jpg" width="600" alt="Hyperrealistisches Studio-Porträt mit überdimensionierter Produktintegration (Sprite) - Image 4">
 </div>
 
 #### 📌 Details
@@ -1024,22 +1024,22 @@ A full-body hyper-realistic studio portrait of a man from attached photo [{argum
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=A%20full-body%20hyper-realistic%20studio%20portrait%20of%20a%20man%20from%20attached%20photo%20%5B%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22green%22%7D%20bomber%20jacket%2C%20%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22white%22%7D%20t-shirt%2C%20%7Bargument%20name%3D%22pants%20color%22%20default%3D%22black%22%7D%20jeans%2C%20%7Bargument%20name%3D%22sneaker%20color%22%20default%3D%22green%22%7D%20sneakers%20%5D%20in%20a%20%5B%7Bargument%20name%3D%22pose%22%20default%3D%22relaxed%22%7D%5D%20pose%2C%20leaning%20gracefully%20beside%20a%20large%20%5B%20can%20of%20%7Bargument%20name%3D%22product%20name%22%20default%3D%22sprite%22%7D%5D%20positioned%20%5B%7Bargument%20name%3D%22product%20position%22%20default%3D%22vertical%22%7D%5D%20on%20a%20smooth%20%5B%7Bargument%20name%3D%22floor%20color%22%20default%3D%22green%22%7D%5D%20floor.%20The%20object%20appears%20oversized%20and%20realistic%2C%20perfectly%20integrated%20with%20the%20subject%20%E2%80%94%20not%20floating.%20Its%20surface%20shows%20accurate%20texture%2C%20reflections%2C%20and%20material%20depth.%20The%20pose%20defines%20the%20subject%E2%80%99s%20attitude%20and%20interaction%20with%20the%20object%20%E2%80%94%20natural%2C%20stylish%2C%20and%20expressive.%20The%20character%20is%20balanced%20and%20confident%2C%20matching%20the%20object%E2%80%99s%20tone%20and%20style.%20Background%20is%20seamless%2C%20same%20color%20for%20wall%20and%20floor%2C%20slightly%20lighter%20below%20with%20soft%20reflections.%20Lighting%3A%20clean%20professional%20studio%20setup%20%E2%80%94%20diffused%20key%20from%20front-left%2C%20mild%20fill%20from%20right%2C%20subtle%20rim%20for%20separation%2C%20evenly%20balanced%20exposure.%20Mood%3A%20cinematic%20luxury%20editorial%20with%20minimal%20composition%20and%20photorealistic%20realism.%22)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%20hyperrealistisches%20Ganzk%C3%B6rper-Studio-Portr%C3%A4t%20eines%20Mannes%20vom%20beigef%C3%BCgten%20Foto%20in%20einer%20%5B%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22green%22%7D%5D%20Bomberjacke%2C%20einem%20%5B%7Bargument%20name%3D%22shirt%20color%22%20default%3D%22white%22%7D%5D%20T-Shirt%2C%20einer%20%5B%7Bargument%20name%3D%22pants%20color%22%20default%3D%22black%22%7D%5D%20Jeans%20und%20%5B%7Bargument%20name%3D%22sneaker%20color%22%20default%3D%22green%22%7D%5D%20Sneakern%20in%20einer%20%5B%7Bargument%20name%3D%22pose%22%20default%3D%22relaxed%22%7D%5D%20Pose%2C%20der%20sich%20anmutig%20neben%20einer%20gro%C3%9Fen%20%5B%20Dose%20%7Bargument%20name%3D%22product%20name%22%20default%3D%22sprite%22%7D%5D%20lehnt%2C%20die%20%5B%7Bargument%20name%3D%22product%20position%22%20default%3D%22vertical%22%7D%5D%20auf%20einem%20glatten%20%5B%7Bargument%20name%3D%22floor%20color%22%20default%3D%22green%22%7D%5D%20Boden%20positioniert%20ist.%20Das%20Objekt%20wirkt%20%C3%BCberdimensioniert%20und%20realistisch%2C%20perfekt%20in%20das%20Motiv%20integriert%20%E2%80%93%20nicht%20schwebend.%20Seine%20Oberfl%C3%A4che%20zeigt%20pr%C3%A4zise%20Textur%2C%20Reflexionen%20und%20Materialtiefe.%20Die%20Pose%20definiert%20die%20Haltung%20und%20Interaktion%20des%20Motivs%20mit%20dem%20Objekt%20%E2%80%93%20nat%C3%BCrlich%2C%20stilvoll%20und%20ausdrucksstark.%20Der%20Charakter%20ist%20ausgeglichen%20und%20selbstbewusst%2C%20passend%20zum%20Ton%20und%20Stil%20des%20Objekts.%20Der%20Hintergrund%20ist%20nahtlos%2C%20Wand%20und%20Boden%20haben%20die%20gleiche%20Farbe%2C%20unten%20etwas%20heller%20mit%20sanften%20Reflexionen.%20Beleuchtung%3A%20sauberes%20professionelles%20Studio-Setup%20%E2%80%93%20diffuses%20Hauptlicht%20von%20vorne%20links%2C%20leichtes%20F%C3%BClllicht%20von%20rechts%2C%20subtiles%20Streiflicht%20zur%20Trennung%2C%20gleichm%C3%A4%C3%9Fig%20ausgewogene%20Belichtung.%20Stimmung%3A%20filmischer%20Luxus-Editorial%20mit%20minimalistischer%20Komposition%20und%20fotorealistischem%20Realismus.)**
 
 ---
 
-### No. 19: Western Manuscript Style Illustration for 'Orychophragmus violaceus'
+### No. 19: Illustration im Stil eines westlichen Manuskripts für „Orychophragmus violaceus“
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A detailed Japanese prompt instructing GPT Image 1.5 to illustrate 'Orychophragmus violaceus' (Zhugecai) in the style of an old Western manuscript, specifically requesting a two-page spread with surrounding explanatory text and an aged, worn appearance.
+Eine detaillierte japanische Anweisung an GPT Image 1.5, „Orychophragmus violaceus“ (Zhugecai) im Stil eines alten westlichen Manuskripts zu illustrieren, wobei ausdrücklich eine Doppelseite mit umgebendem Erklärungstext und einem gealterten, abgenutzten Aussehen gewünscht wird.
 
 #### 📝 Prompt
 
 ```
-Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancient document. Use a two-page spread of the ancient document for the drawing. Create the impression that various texts are explaining things around the picture. Make it look worn out and used.
+Zeichnen Sie „Orychophragmus violaceus“ im Design und Stil eines antiken Dokuments im westlichen Stil. Verwenden Sie für die Zeichnung eine Doppelseite des antiken Dokuments. Erwecken Sie den Eindruck, dass verschiedene Texte Dinge um das Bild herum erklären. Lassen Sie es abgenutzt und gebraucht aussehen.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1047,7 +1047,7 @@ Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancie
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231615519_mk1ya6_G8hfI8waQAAVyOE.jpg" width="600" alt="Western Manuscript Style Illustration for 'Orychophragmus violaceus' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231615519_mk1ya6_G8hfI8waQAAVyOE.jpg" width="600" alt="Illustration im Stil eines westlichen Manuskripts für „Orychophragmus violaceus“ - Image 1">
 </div>
 
 #### 📌 Details
@@ -1057,26 +1057,26 @@ Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancie
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Draw%20'Orychophragmus%20violaceus'%20in%20the%20design%20and%20style%20of%20a%20Western-style%20ancient%20document.%20Use%20a%20two-page%20spread%20of%20the%20ancient%20document%20for%20the%20drawing.%20Create%20the%20impression%20that%20various%20texts%20are%20explaining%20things%20around%20the%20picture.%20Make%20it%20look%20worn%20out%20and%20used.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Zeichnen%20Sie%20%E2%80%9EOrychophragmus%20violaceus%E2%80%9C%20im%20Design%20und%20Stil%20eines%20antiken%20Dokuments%20im%20westlichen%20Stil.%20Verwenden%20Sie%20f%C3%BCr%20die%20Zeichnung%20eine%20Doppelseite%20des%20antiken%20Dokuments.%20Erwecken%20Sie%20den%20Eindruck%2C%20dass%20verschiedene%20Texte%20Dinge%20um%20das%20Bild%20herum%20erkl%C3%A4ren.%20Lassen%20Sie%20es%20abgenutzt%20und%20gebraucht%20aussehen.)**
 
 ---
 
-### No. 20: Artistic Composition Strategy Prompt
+### No. 20: Strategie-Prompt für künstlerische Komposition
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A conceptual prompt strategy for GPT-Image 1.5 focusing on achieving artistic output by controlling information density. Step 1 involves increasing information (dynamic angles, complex poses) and Step 2 involves reducing information (omitting background details, focusing on precise facial features).
+Eine konzeptionelle Prompt-Strategie für GPT-Image 1.5, die sich auf die Erzielung künstlerischer Ergebnisse durch die Steuerung der Informationsdichte konzentriert. Schritt 1 beinhaltet die Erhöhung der Informationen (dynamische Winkel, komplexe Posen) und Schritt 2 die Reduzierung der Informationen (Weglassen von Hintergrunddetails, Konzentration auf präzise Gesichtsmerkmale).
 
 #### 📝 Prompt
 
 ```
-Step 1: Increase information
-Eliminate horizontal and vertical lines and make various parts of the picture diagonal. Increase variations in joint twists, composition, poses, camera tilt, etc.
+Schritt 1: Informationen erhöhen
+Entfernen Sie horizontale und vertikale Linien und machen Sie verschiedene Teile des Bildes diagonal. Erhöhen Sie die Variationen bei Gelenkverdrehungen, Komposition, Posen, Kameraneigung usw.
 
-Step 2: Reduce information
-Thoroughly erase information that doesn't need to be seen. Draw faces precisely and omit others.
+Schritt 2: Informationen reduzieren
+Löschen Sie gründlich Informationen, die nicht sichtbar sein müssen. Zeichnen Sie Gesichter präzise und lassen Sie andere weg.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1084,7 +1084,7 @@ Thoroughly erase information that doesn't need to be seen. Draw faces precisely 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231621121_uw1xb1_G8hSPQZaAAATu1c.jpg" width="600" alt="Artistic Composition Strategy Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231621121_uw1xb1_G8hSPQZaAAATu1c.jpg" width="600" alt="Strategie-Prompt für künstlerische Komposition - Image 1">
 </div>
 
 #### 📌 Details
@@ -1094,22 +1094,22 @@ Thoroughly erase information that doesn't need to be seen. Draw faces precisely 
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Step%201%3A%20Increase%20information%0AEliminate%20horizontal%20and%20vertical%20lines%20and%20make%20various%20parts%20of%20the%20picture%20diagonal.%20Increase%20variations%20in%20joint%20twists%2C%20composition%2C%20poses%2C%20camera%20tilt%2C%20etc.%0A%0AStep%202%3A%20Reduce%20information%0AThoroughly%20erase%20information%20that%20doesn't%20need%20to%20be%20seen.%20Draw%20faces%20precisely%20and%20omit%20others.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Schritt%201%3A%20Informationen%20erh%C3%B6hen%0AEntfernen%20Sie%20horizontale%20und%20vertikale%20Linien%20und%20machen%20Sie%20verschiedene%20Teile%20des%20Bildes%20diagonal.%20Erh%C3%B6hen%20Sie%20die%20Variationen%20bei%20Gelenkverdrehungen%2C%20Komposition%2C%20Posen%2C%20Kameraneigung%20usw.%0A%0ASchritt%202%3A%20Informationen%20reduzieren%0AL%C3%B6schen%20Sie%20gr%C3%BCndlich%20Informationen%2C%20die%20nicht%20sichtbar%20sein%20m%C3%BCssen.%20Zeichnen%20Sie%20Gesichter%20pr%C3%A4zise%20und%20lassen%20Sie%20andere%20weg.)**
 
 ---
 
-### No. 21: Prompt to Generate Intentionally Bad, Child-like Crayon Drawings
+### No. 21: Aufforderung zum Generieren absichtlich schlechter, kindlicher Buntstiftzeichnungen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A detailed Japanese prompt designed to intentionally generate images that look like poor, child-like sketches drawn with crayons. The goal is to produce rough, amateurish artwork with simple poses and compositions, testing the AI's ability to simulate 'bad' art while retaining a certain warmth.
+Ein detaillierter japanischer Prompt, der bewusst Bilder erzeugen soll, die wie schlechte, kindliche Skizzen aussehen, die mit Wachsmalstiften gezeichnet wurden. Ziel ist es, grobe, amateurhafte Kunstwerke mit einfachen Posen und Kompositionen zu schaffen, um die Fähigkeit der KI zu testen, „schlechte“ Kunst zu simulieren und dabei eine gewisse Wärme zu bewahren.
 
 #### 📝 Prompt
 
 ```
-Place the subject standing in the center, with a plain pose and composition, giving the impression of poor quality, like a child's scribble who just started drawing. The style should be a hand-drawn, anime-style color sketch using rough crayon lines (leaving the under-drawing lines), emphasizing the poor quality!
+Platziere das Subjekt stehend in der Mitte, mit einer schlichten Pose und Komposition, die den Eindruck schlechter Qualität erweckt, wie ein Kindergekritzel von jemandem, der gerade erst mit dem Zeichnen begonnen hat. Der Stil sollte eine handgezeichnete, farbige Skizze im Anime-Stil sein, die grobe Buntstiftlinien verwendet (wobei die Unterzeichnungen sichtbar bleiben), um die schlechte Qualität zu betonen!
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1117,7 +1117,7 @@ Place the subject standing in the center, with a plain pose and composition, giv
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231614518_jllbjp_G8hMP4pbgAAdAMC.jpg" width="600" alt="Prompt to Generate Intentionally Bad, Child-like Crayon Drawings - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231614518_jllbjp_G8hMP4pbgAAdAMC.jpg" width="600" alt="Aufforderung zum Generieren absichtlich schlechter, kindlicher Buntstiftzeichnungen - Image 1">
 </div>
 
 #### 📌 Details
@@ -1127,22 +1127,22 @@ Place the subject standing in the center, with a plain pose and composition, giv
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Place%20the%20subject%20standing%20in%20the%20center%2C%20with%20a%20plain%20pose%20and%20composition%2C%20giving%20the%20impression%20of%20poor%20quality%2C%20like%20a%20child's%20scribble%20who%20just%20started%20drawing.%20The%20style%20should%20be%20a%20hand-drawn%2C%20anime-style%20color%20sketch%20using%20rough%20crayon%20lines%20(leaving%20the%20under-drawing%20lines)%2C%20emphasizing%20the%20poor%20quality!)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Platziere%20das%20Subjekt%20stehend%20in%20der%20Mitte%2C%20mit%20einer%20schlichten%20Pose%20und%20Komposition%2C%20die%20den%20Eindruck%20schlechter%20Qualit%C3%A4t%20erweckt%2C%20wie%20ein%20Kindergekritzel%20von%20jemandem%2C%20der%20gerade%20erst%20mit%20dem%20Zeichnen%20begonnen%20hat.%20Der%20Stil%20sollte%20eine%20handgezeichnete%2C%20farbige%20Skizze%20im%20Anime-Stil%20sein%2C%20die%20grobe%20Buntstiftlinien%20verwendet%20(wobei%20die%20Unterzeichnungen%20sichtbar%20bleiben)%2C%20um%20die%20schlechte%20Qualit%C3%A4t%20zu%20betonen!)**
 
 ---
 
-### No. 22: Clothing Separation Prompt for GPT Image 1.5
+### No. 22: Kleidungs-Trennungs-Prompt für GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A prompt designed for GPT Image 1.5 to extract and separate individual clothing items from a person in the original image and display them laid out on a bed, showcasing the model's object extraction capabilities.
+Ein Prompt, der für GPT Image 1.5 entwickelt wurde, um einzelne Kleidungsstücke einer Person aus dem Originalbild zu extrahieren, zu trennen und auf einem Bett ausgebreitet darzustellen, wodurch die Objektextraktionsfähigkeiten des Modells demonstriert werden.
 
 #### 📝 Prompt
 
 ```
-Give each piece of her clothing separately on the bed
+Legen Sie jedes ihrer Kleidungsstücke einzeln auf das Bett.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1150,13 +1150,13 @@ Give each piece of her clothing separately on the bed
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231615091_0928ig_G8hDiqDbMAAxU9C.jpg" width="600" alt="Clothing Separation Prompt for GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231615091_0928ig_G8hDiqDbMAAxU9C.jpg" width="600" alt="Kleidungs-Trennungs-Prompt für GPT Image 1.5 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231615218_s2xs6e_G8hDiqEa4AAa_8o.jpg" width="600" alt="Clothing Separation Prompt for GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231615218_s2xs6e_G8hDiqEa4AAa_8o.jpg" width="600" alt="Kleidungs-Trennungs-Prompt für GPT Image 1.5 - Image 2">
 </div>
 
 #### 📌 Details
@@ -1166,23 +1166,23 @@ Give each piece of her clothing separately on the bed
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Legen%20Sie%20jedes%20ihrer%20Kleidungsst%C3%BCcke%20einzeln%20auf%20das%20Bett.)**
 
 ---
 
-### No. 23: Still-Life Object Portrait Illusion
+### No. 23: Stillleben-Objekt-Porträt-Illusion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A detailed prompt for GPT Image 1.5 requesting a tabletop still-life image where scattered small objects (buttons, screws, coins, etc.) are arranged to form a clear human face portrait when viewed from a top-down perspective. It specifies neutral tones, soft overhead lighting, a gentle vignette, and a worn wooden table background, emphasizing the illusion of the portrait emerging at mid-distance.
+Ein detaillierter Prompt für GPT Image 1.5, der ein Stillleben-Bild im Tischformat anfordert, bei dem verstreute kleine Objekte (Knöpfe, Schrauben, Münzen usw.) so angeordnet sind, dass sie aus der Vogelperspektive betrachtet ein klares menschliches Gesichtsporträt bilden. Er spezifiziert neutrale Töne, weiches Oberlicht, eine sanfte Vignette und einen abgenutzten Holztisch als Hintergrund, wobei die Illusion des Porträts, das aus mittlerer Entfernung entsteht, betont wird.
 
 #### 📝 Prompt
 
 ```
-Create an image that looks like a tabletop still-life of many small objects {argument name="objects" default="buttons, screws, coins, leaves, matchsticks"} scattered naturally, yet from a top-down view they form a clear human face portrait through careful arrangement and shading. Use neutral tones, soft overhead light, and gentle vignette. The face should emerge at mid-distance viewing: close up it’s “just objects,” zoomed out it’s unmistakably a portrait. Add realistic cast shadows under each object to enhance depth. Background: worn wooden table with scratches. Keep the arrangement organic, not too symmetrical. No text, no obvious outlines, no artificial glow.
+Erstellen Sie ein Bild, das wie ein Stillleben auf einem Tisch aussieht, mit vielen kleinen Objekten {argument name="objects" default="Knöpfe, Schrauben, Münzen, Blätter, Streichhölzer"}, die natürlich verstreut sind, aber aus der Vogelperspektive durch sorgfältige Anordnung und Schattierung ein klares menschliches Gesichtsporträt bilden. Verwenden Sie neutrale Töne, weiches Oberlicht und eine sanfte Vignette. Das Gesicht sollte bei mittlerer Betrachtungsentfernung erkennbar sein: aus der Nähe sind es „nur Objekte“, herausgezoomt ist es unverkennbar ein Porträt. Fügen Sie realistische Schlagschatten unter jedem Objekt hinzu, um die Tiefe zu verstärken. Hintergrund: abgenutzter Holztisch mit Kratzern. Halten Sie die Anordnung organisch, nicht zu symmetrisch. Kein Text, keine offensichtlichen Umrisse, kein künstliches Leuchten.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1190,7 +1190,7 @@ Create an image that looks like a tabletop still-life of many small objects {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231601817_3thpoi_G8hF_vKbAAA0FAz.jpg" width="600" alt="Still-Life Object Portrait Illusion - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231601817_3thpoi_G8hF_vKbAAA0FAz.jpg" width="600" alt="Stillleben-Objekt-Porträt-Illusion - Image 1">
 </div>
 
 #### 📌 Details
@@ -1200,62 +1200,62 @@ Create an image that looks like a tabletop still-life of many small objects {arg
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20an%20image%20that%20looks%20like%20a%20tabletop%20still-life%20of%20many%20small%20objects%20%7Bargument%20name%3D%22objects%22%20default%3D%22buttons%2C%20screws%2C%20coins%2C%20leaves%2C%20matchsticks%22%7D%20scattered%20naturally%2C%20yet%20from%20a%20top-down%20view%20they%20form%20a%20clear%20human%20face%20portrait%20through%20careful%20arrangement%20and%20shading.%20Use%20neutral%20tones%2C%20soft%20overhead%20light%2C%20and%20gentle%20vignette.%20The%20face%20should%20emerge%20at%20mid-distance%20viewing%3A%20close%20up%20it%E2%80%99s%20%E2%80%9Cjust%20objects%2C%E2%80%9D%20zoomed%20out%20it%E2%80%99s%20unmistakably%20a%20portrait.%20Add%20realistic%20cast%20shadows%20under%20each%20object%20to%20enhance%20depth.%20Background%3A%20worn%20wooden%20table%20with%20scratches.%20Keep%20the%20arrangement%20organic%2C%20not%20too%20symmetrical.%20No%20text%2C%20no%20obvious%20outlines%2C%20no%20artificial%20glow.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20ein%20Bild%2C%20das%20wie%20ein%20Stillleben%20auf%20einem%20Tisch%20aussieht%2C%20mit%20vielen%20kleinen%20Objekten%20%7Bargument%20name%3D%22objects%22%20default%3D%22Kn%C3%B6pfe%2C%20Schrauben%2C%20M%C3%BCnzen%2C%20Bl%C3%A4tter%2C%20Streichh%C3%B6lzer%22%7D%2C%20die%20nat%C3%BCrlich%20verstreut%20sind%2C%20aber%20aus%20der%20Vogelperspektive%20durch%20sorgf%C3%A4ltige%20Anordnung%20und%20Schattierung%20ein%20klares%20menschliches%20Gesichtsportr%C3%A4t%20bilden.%20Verwenden%20Sie%20neutrale%20T%C3%B6ne%2C%20weiches%20Oberlicht%20und%20eine%20sanfte%20Vignette.%20Das%20Gesicht%20sollte%20bei%20mittlerer%20Betrachtungsentfernung%20erkennbar%20sein%3A%20aus%20der%20N%C3%A4he%20sind%20es%20%E2%80%9Enur%20Objekte%E2%80%9C%2C%20herausgezoomt%20ist%20es%20unverkennbar%20ein%20Portr%C3%A4t.%20F%C3%BCgen%20Sie%20realistische%20Schlagschatten%20unter%20jedem%20Objekt%20hinzu%2C%20um%20die%20Tiefe%20zu%20verst%C3%A4rken.%20Hintergrund%3A%20abgenutzter%20Holztisch%20mit%20Kratzern.%20Halten%20Sie%20die%20Anordnung%20organisch%2C%20nicht%20zu%20symmetrisch.%20Kein%20Text%2C%20keine%20offensichtlichen%20Umrisse%2C%20kein%20k%C3%BCnstliches%20Leuchten.)**
 
 ---
 
-### No. 24: Hyper-Realistic Cinematic Portrait
+### No. 24: Hyperrealistisches filmisches Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A highly detailed, structured prompt comparing GPT Image 1.5 and Gemini Nano Banana Pro. The prompt aims to generate a hyper-realistic, cinematic portrait of a rugged man in a worn leather jacket, set in a moody outdoor mountain landscape with specific camera settings (85mm, f/1.8, shallow depth of field) and desaturated color palette.
+Ein sehr detailliertes, strukturiertes Prompt, das GPT Image 1.5 und Gemini Nano Banana Pro vergleicht. Das Prompt zielt darauf ab, ein hyperrealistisches, filmisches Porträt eines rauen Mannes in einer abgenutzten Lederjacke zu erstellen, das in einer stimmungsvollen Berglandschaft im Freien angesiedelt ist, mit spezifischen Kameraeinstellungen (85 mm, f/1.8, geringe Schärfentiefe) und einer entsättigten Farbpalette.
 
 #### 📝 Prompt
 
 ```
 {
-  "render_goal": "Create a hyper-realistic, cinematic portrait with a rugged outdoor adventure aesthetic",
+  "render_goal": "Ein hyperrealistisches, filmisches Porträt mit einer rauen Outdoor-Abenteuer-Ästhetik erstellen",
   "subject": {
-    "gender": "male",
-    "age_range": "mid-to-late 20s",
+    "gender": "männlich",
+    "age_range": "Mitte bis Ende 20",
     "appearance": {
-      "hair": "textured, windswept",
-      "beard": "short, well-groomed",
-      "facial_features": "sharp, chiseled",
-      "expression": "intense, serious"
+      "hair": "strukturiert, vom Wind zerzaust",
+      "beard": "kurz, gepflegt",
+      "facial_features": "markant, gemeißelt",
+      "expression": "intensiv, ernst"
     },
-    "skin_detail": "ultra-detailed, natural texture with realistic tones"
+    "skin_detail": "ultradetailliert, natürliche Textur mit realistischen Tönen"
   },
   "wardrobe": {
-    "outerwear": "worn dark leather jacket",
-    "details": "visible stitching, rugged texture"
+    "outerwear": "abgetragene dunkle Lederjacke",
+    "details": "sichtbare Nähte, raue Textur"
   },
   "environment": {
-    "location": "outdoor mountain landscape",
+    "location": "Outdoor-Berglandschaft",
     "background": {
-      "mountains": "misty, fog-covered",
-      "trees": "dark evergreen forest fading into distance",
-      "atmosphere": "dense atmospheric fog"
+      "mountains": "nebelverhangen, dunstig",
+      "trees": "dunkler Nadelwald, der in der Ferne verschwimmt",
+      "atmosphere": "dichter atmosphärischer Nebel"
     }
   },
   "lighting_and_color": {
-    "lighting_style": "moody, cinematic",
-    "light_source": "soft overcast daylight",
-    "shadows": "dramatic but natural",
-    "color_palette": "cool, desaturated tones"
+    "lighting_style": "stimmungsvoll, filmisch",
+    "light_source": "weiches, bedecktes Tageslicht",
+    "shadows": "dramatisch, aber natürlich",
+    "color_palette": "kühle, entsättigte Töne"
   },
   "camera_settings": {
     "lens": "85mm",
     "aperture": "f/1.8",
-    "depth_of_field": "shallow",
-    "focus": "razor-sharp on subject, blurred background"
+    "depth_of_field": "gering",
+    "focus": "messerscharf auf das Motiv, unscharfer Hintergrund"
   },
   "photography_style": {
-    "quality": "professional photography",
-    "realism_level": "hyper-realistic",
-    "details": "high micro-detail, crisp textures, cinematic contrast"
+    "quality": "professionelle Fotografie",
+    "realism_level": "hyperrealistisch",
+    "details": "hohe Mikrodetaillierung, gestochen scharfe Texturen, filmischer Kontrast"
   }
 }
 ```
@@ -1265,13 +1265,13 @@ A highly detailed, structured prompt comparing GPT Image 1.5 and Gemini Nano Ban
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231602177_klzfjo_G8gixqyakAEkbsL.jpg" width="600" alt="Hyper-Realistic Cinematic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231602177_klzfjo_G8gixqyakAEkbsL.jpg" width="600" alt="Hyperrealistisches filmisches Porträt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231602731_4umrzz_G8gixtOaMAAPAHU.jpg" width="600" alt="Hyper-Realistic Cinematic Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231602731_4umrzz_G8gixtOaMAAPAHU.jpg" width="600" alt="Hyperrealistisches filmisches Porträt - Image 2">
 </div>
 
 #### 📌 Details
@@ -1281,22 +1281,22 @@ A highly detailed, structured prompt comparing GPT Image 1.5 and Gemini Nano Ban
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22render_goal%22%3A%20%22Create%20a%20hyper-realistic%2C%20cinematic%20portrait%20with%20a%20rugged%20outdoor%20adventure%20aesthetic%22%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22male%22%2C%0A%20%20%20%20%22age_range%22%3A%20%22mid-to-late%2020s%22%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22textured%2C%20windswept%22%2C%0A%20%20%20%20%20%20%22beard%22%3A%20%22short%2C%20well-groomed%22%2C%0A%20%20%20%20%20%20%22facial_features%22%3A%20%22sharp%2C%20chiseled%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22intense%2C%20serious%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultra-detailed%2C%20natural%20texture%20with%20realistic%20tones%22%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outerwear%22%3A%20%22worn%20dark%20leather%20jacket%22%2C%0A%20%20%20%20%22details%22%3A%20%22visible%20stitching%2C%20rugged%20texture%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22outdoor%20mountain%20landscape%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22mountains%22%3A%20%22misty%2C%20fog-covered%22%2C%0A%20%20%20%20%20%20%22trees%22%3A%20%22dark%20evergreen%20forest%20fading%20into%20distance%22%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%22dense%20atmospheric%20fog%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_color%22%3A%20%7B%0A%20%20%20%20%22lighting_style%22%3A%20%22moody%2C%20cinematic%22%2C%0A%20%20%20%20%22light_source%22%3A%20%22soft%20overcast%20daylight%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22dramatic%20but%20natural%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22cool%2C%20desaturated%20tones%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22shallow%22%2C%0A%20%20%20%20%22focus%22%3A%20%22razor-sharp%20on%20subject%2C%20blurred%20background%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22quality%22%3A%20%22professional%20photography%22%2C%0A%20%20%20%20%22realism_level%22%3A%20%22hyper-realistic%22%2C%0A%20%20%20%20%22details%22%3A%20%22high%20micro-detail%2C%20crisp%20textures%2C%20cinematic%20contrast%22%0A%20%20%7D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22render_goal%22%3A%20%22Ein%20hyperrealistisches%2C%20filmisches%20Portr%C3%A4t%20mit%20einer%20rauen%20Outdoor-Abenteuer-%C3%84sthetik%20erstellen%22%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22m%C3%A4nnlich%22%2C%0A%20%20%20%20%22age_range%22%3A%20%22Mitte%20bis%20Ende%2020%22%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22strukturiert%2C%20vom%20Wind%20zerzaust%22%2C%0A%20%20%20%20%20%20%22beard%22%3A%20%22kurz%2C%20gepflegt%22%2C%0A%20%20%20%20%20%20%22facial_features%22%3A%20%22markant%2C%20gemei%C3%9Felt%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22intensiv%2C%20ernst%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22skin_detail%22%3A%20%22ultradetailliert%2C%20nat%C3%BCrliche%20Textur%20mit%20realistischen%20T%C3%B6nen%22%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22outerwear%22%3A%20%22abgetragene%20dunkle%20Lederjacke%22%2C%0A%20%20%20%20%22details%22%3A%20%22sichtbare%20N%C3%A4hte%2C%20raue%20Textur%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22Outdoor-Berglandschaft%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22mountains%22%3A%20%22nebelverhangen%2C%20dunstig%22%2C%0A%20%20%20%20%20%20%22trees%22%3A%20%22dunkler%20Nadelwald%2C%20der%20in%20der%20Ferne%20verschwimmt%22%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%22dichter%20atmosph%C3%A4rischer%20Nebel%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_color%22%3A%20%7B%0A%20%20%20%20%22lighting_style%22%3A%20%22stimmungsvoll%2C%20filmisch%22%2C%0A%20%20%20%20%22light_source%22%3A%20%22weiches%2C%20bedecktes%20Tageslicht%22%2C%0A%20%20%20%20%22shadows%22%3A%20%22dramatisch%2C%20aber%20nat%C3%BCrlich%22%2C%0A%20%20%20%20%22color_palette%22%3A%20%22k%C3%BChle%2C%20ents%C3%A4ttigte%20T%C3%B6ne%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22gering%22%2C%0A%20%20%20%20%22focus%22%3A%20%22messerscharf%20auf%20das%20Motiv%2C%20unscharfer%20Hintergrund%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22quality%22%3A%20%22professionelle%20Fotografie%22%2C%0A%20%20%20%20%22realism_level%22%3A%20%22hyperrealistisch%22%2C%0A%20%20%20%20%22details%22%3A%20%22hohe%20Mikrodetaillierung%2C%20gestochen%20scharfe%20Texturen%2C%20filmischer%20Kontrast%22%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 25: Harajuku Decora Pop Art Poster of Aniko (Detailed)
+### No. 25: Harajuku Decora Pop Art Poster von Aniko (Detailliert)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A highly detailed, structured prompt designed to transform an existing character (Aniko) into a maximalist, high-energy Harajuku Decora and Y2K fashion icon poster art. It emphasizes visual information overload, dynamic composition, and specific typographic requirements for a 'Kawaii' aesthetic. This is a duplicate of the prompt in tweet 2001981106497998980, shared by a different user.
+Ein sehr detaillierter, strukturierter Prompt, der darauf ausgelegt ist, einen bestehenden Charakter (Aniko) in ein maximalistisches, energiegeladenes Harajuku Decora und Y2K Fashion Icon Poster Art zu verwandeln. Er betont visuelle Informationsüberflutung, dynamische Komposition und spezifische typografische Anforderungen für eine „Kawaii“-Ästhetik. Dies ist eine Duplikat des Prompts in Tweet 2001981106497998980, geteilt von einem anderen Benutzer.
 
 #### 📝 Prompt
 
 ```
-【Request for Production: Character 'Kawaii' Remix】 Using the attached image of the character (Aniko) as a model, could you draw a highly dense and vibrant poster art where she has become a Harajuku fashion icon? 【Points to Infer】 Outfit Upgrade: Do not be constrained by the 'school uniform' element of the original image. Based on her hair color and eye color, devise a much flashier outfit, heavily accessorized, based on **'Harajuku Decora' and 'Y2K fashion'**. (Examples: layered colorful hoodies, frilled skirts, platform sneakers, excessive amounts of hairpins and plastic accessories, etc.) Space Direction: Please use an art style that fills in all 'empty space'. Scatter bursting candies, stars, hearts, ribbons, and comic-style effects like 'BAM!' and 'POP!' in the background to express a **'visually information-overloaded happiness'** like an overturned toy box. Composition and Pose: Use a defenseless, floating pose, as if released from gravity and floating in the air, or lying on a bed and photographed from above. A dynamic composition that uses ultra-wide-angle lens perspective to make hands, feet, and shoes appear large would be appreciated. Typography: Design the text **'ANIKO'** as a shiny, balloon-like 3D logo and place it prominently as the main element of the screen. 【Target Visual】 The violence of 'Kawaii'. Aim for a supremely high-tension pop art that is overflowing with color and feels like your brain is melting just by looking at it. 【Highest Priority】 My instructions are only references for direction; please prioritize the highest quality visual outcome and select or discard my information accordingly. --stylize 1400 --ar 16:9
+【Produktionsanfrage: Charakter „Kawaii“-Remix】 Könnten Sie anhand des beigefügten Bildes des Charakters (Aniko) als Modell ein sehr dichtes und lebendiges Poster-Artwork zeichnen, auf dem sie zu einer Harajuku-Modeikone geworden ist? 【Ableitbare Punkte】 Outfit-Upgrade: Lassen Sie sich nicht vom „Schuluniform“-Element des Originalbildes einschränken. Entwickeln Sie basierend auf ihrer Haar- und Augenfarbe ein viel auffälligeres Outfit mit vielen Accessoires, basierend auf **„Harajuku Decora“ und „Y2K Fashion“**. (Beispiele: mehrlagige bunte Hoodies, Rüschenröcke, Plateau-Sneaker, übermäßige Mengen an Haarnadeln und Plastikaccessoires usw.) Raumrichtung: Bitte verwenden Sie einen Kunststil, der alle „leeren Räume“ füllt. Streuen Sie platzende Bonbons, Sterne, Herzen, Bänder und Comic-Effekte wie „BAM!“ und „POP!“ in den Hintergrund, um ein **„visuell informationsüberladenes Glück“** auszudrücken, wie eine umgestürzte Spielzeugkiste. Komposition und Pose: Verwenden Sie eine wehrlose, schwebende Pose, als ob sie von der Schwerkraft befreit und in der Luft schwebend oder auf einem Bett liegend und von oben fotografiert wurde. Eine dynamische Komposition, die eine Ultraweitwinkel-Perspektive verwendet, um Hände, Füße und Schuhe groß erscheinen zu lassen, wäre wünschenswert. Typografie: Gestalten Sie den Text **„ANIKO“** als glänzendes, ballonartiges 3D-Logo und platzieren Sie ihn prominent als Hauptelement des Bildschirms. 【Zielvisualisierung】 Die Gewalt von „Kawaii“. Streben Sie eine extrem hochgespannte Pop-Art an, die vor Farbe überquillt und sich anfühlt, als würde Ihr Gehirn allein beim Anblick schmelzen. 【Höchste Priorität】 Meine Anweisungen dienen nur als Richtschnur; bitte priorisieren Sie das visuelle Ergebnis von höchster Qualität und wählen oder verwerfen Sie meine Informationen entsprechend. --stylize 1400 --ar 16:9
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1304,7 +1304,7 @@ A highly detailed, structured prompt designed to transform an existing character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231612195_vhykzm_G8gf4NvacAAjp-c.jpg" width="600" alt="Harajuku Decora Pop Art Poster of Aniko (Detailed) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231612195_vhykzm_G8gf4NvacAAjp-c.jpg" width="600" alt="Harajuku Decora Pop Art Poster von Aniko (Detailliert) - Image 1">
 </div>
 
 #### 📌 Details
@@ -1314,22 +1314,22 @@ A highly detailed, structured prompt designed to transform an existing character
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%E3%80%90Request%20for%20Production%3A%20Character%20'Kawaii'%20Remix%E3%80%91%20Using%20the%20attached%20image%20of%20the%20character%20(Aniko)%20as%20a%20model%2C%20could%20you%20draw%20a%20highly%20dense%20and%20vibrant%20poster%20art%20where%20she%20has%20become%20a%20Harajuku%20fashion%20icon%3F%20%E3%80%90Points%20to%20Infer%E3%80%91%20Outfit%20Upgrade%3A%20Do%20not%20be%20constrained%20by%20the%20'school%20uniform'%20element%20of%20the%20original%20image.%20Based%20on%20her%20hair%20color%20and%20eye%20color%2C%20devise%20a%20much%20flashier%20outfit%2C%20heavily%20accessorized%2C%20based%20on%20**'Harajuku%20Decora'%20and%20'Y2K%20fashion'**.%20(Examples%3A%20layered%20colorful%20hoodies%2C%20frilled%20skirts%2C%20platform%20sneakers%2C%20excessive%20amounts%20of%20hairpins%20and%20plastic%20accessories%2C%20etc.)%20Space%20Direction%3A%20Please%20use%20an%20art%20style%20that%20fills%20in%20all%20'empty%20space'.%20Scatter%20bursting%20candies%2C%20stars%2C%20hearts%2C%20ribbons%2C%20and%20comic-style%20effects%20like%20'BAM!'%20and%20'POP!'%20in%20the%20background%20to%20express%20a%20**'visually%20information-overloaded%20happiness'**%20like%20an%20overturned%20toy%20box.%20Composition%20and%20Pose%3A%20Use%20a%20defenseless%2C%20floating%20pose%2C%20as%20if%20released%20from%20gravity%20and%20floating%20in%20the%20air%2C%20or%20lying%20on%20a%20bed%20and%20photographed%20from%20above.%20A%20dynamic%20composition%20that%20uses%20ultra-wide-angle%20lens%20perspective%20to%20make%20hands%2C%20feet%2C%20and%20shoes%20appear%20large%20would%20be%20appreciated.%20Typography%3A%20Design%20the%20text%20**'ANIKO'**%20as%20a%20shiny%2C%20balloon-like%203D%20logo%20and%20place%20it%20prominently%20as%20the%20main%20element%20of%20the%20screen.%20%E3%80%90Target%20Visual%E3%80%91%20The%20violence%20of%20'Kawaii'.%20Aim%20for%20a%20supremely%20high-tension%20pop%20art%20that%20is%20overflowing%20with%20color%20and%20feels%20like%20your%20brain%20is%20melting%20just%20by%20looking%20at%20it.%20%E3%80%90Highest%20Priority%E3%80%91%20My%20instructions%20are%20only%20references%20for%20direction%3B%20please%20prioritize%20the%20highest%20quality%20visual%20outcome%20and%20select%20or%20discard%20my%20information%20accordingly.%20--stylize%201400%20--ar%2016%3A9)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%E3%80%90Produktionsanfrage%3A%20Charakter%20%E2%80%9EKawaii%E2%80%9C-Remix%E3%80%91%20K%C3%B6nnten%20Sie%20anhand%20des%20beigef%C3%BCgten%20Bildes%20des%20Charakters%20(Aniko)%20als%20Modell%20ein%20sehr%20dichtes%20und%20lebendiges%20Poster-Artwork%20zeichnen%2C%20auf%20dem%20sie%20zu%20einer%20Harajuku-Modeikone%20geworden%20ist%3F%20%E3%80%90Ableitbare%20Punkte%E3%80%91%20Outfit-Upgrade%3A%20Lassen%20Sie%20sich%20nicht%20vom%20%E2%80%9ESchuluniform%E2%80%9C-Element%20des%20Originalbildes%20einschr%C3%A4nken.%20Entwickeln%20Sie%20basierend%20auf%20ihrer%20Haar-%20und%20Augenfarbe%20ein%20viel%20auff%C3%A4lligeres%20Outfit%20mit%20vielen%20Accessoires%2C%20basierend%20auf%20**%E2%80%9EHarajuku%20Decora%E2%80%9C%20und%20%E2%80%9EY2K%20Fashion%E2%80%9C**.%20(Beispiele%3A%20mehrlagige%20bunte%20Hoodies%2C%20R%C3%BCschenr%C3%B6cke%2C%20Plateau-Sneaker%2C%20%C3%BCberm%C3%A4%C3%9Fige%20Mengen%20an%20Haarnadeln%20und%20Plastikaccessoires%20usw.)%20Raumrichtung%3A%20Bitte%20verwenden%20Sie%20einen%20Kunststil%2C%20der%20alle%20%E2%80%9Eleeren%20R%C3%A4ume%E2%80%9C%20f%C3%BCllt.%20Streuen%20Sie%20platzende%20Bonbons%2C%20Sterne%2C%20Herzen%2C%20B%C3%A4nder%20und%20Comic-Effekte%20wie%20%E2%80%9EBAM!%E2%80%9C%20und%20%E2%80%9EPOP!%E2%80%9C%20in%20den%20Hintergrund%2C%20um%20ein%20**%E2%80%9Evisuell%20informations%C3%BCberladenes%20Gl%C3%BCck%E2%80%9C**%20auszudr%C3%BCcken%2C%20wie%20eine%20umgest%C3%BCrzte%20Spielzeugkiste.%20Komposition%20und%20Pose%3A%20Verwenden%20Sie%20eine%20wehrlose%2C%20schwebende%20Pose%2C%20als%20ob%20sie%20von%20der%20Schwerkraft%20befreit%20und%20in%20der%20Luft%20schwebend%20oder%20auf%20einem%20Bett%20liegend%20und%20von%20oben%20fotografiert%20wurde.%20Eine%20dynamische%20Komposition%2C%20die%20eine%20Ultraweitwinkel-Perspektive%20verwendet%2C%20um%20H%C3%A4nde%2C%20F%C3%BC%C3%9Fe%20und%20Schuhe%20gro%C3%9F%20erscheinen%20zu%20lassen%2C%20w%C3%A4re%20w%C3%BCnschenswert.%20Typografie%3A%20Gestalten%20Sie%20den%20Text%20**%E2%80%9EANIKO%E2%80%9C**%20als%20gl%C3%A4nzendes%2C%20ballonartiges%203D-Logo%20und%20platzieren%20Sie%20ihn%20prominent%20als%20Hauptelement%20des%20Bildschirms.%20%E3%80%90Zielvisualisierung%E3%80%91%20Die%20Gewalt%20von%20%E2%80%9EKawaii%E2%80%9C.%20Streben%20Sie%20eine%20extrem%20hochgespannte%20Pop-Art%20an%2C%20die%20vor%20Farbe%20%C3%BCberquillt%20und%20sich%20anf%C3%BChlt%2C%20als%20w%C3%BCrde%20Ihr%20Gehirn%20allein%20beim%20Anblick%20schmelzen.%20%E3%80%90H%C3%B6chste%20Priorit%C3%A4t%E3%80%91%20Meine%20Anweisungen%20dienen%20nur%20als%20Richtschnur%3B%20bitte%20priorisieren%20Sie%20das%20visuelle%20Ergebnis%20von%20h%C3%B6chster%20Qualit%C3%A4t%20und%20w%C3%A4hlen%20oder%20verwerfen%20Sie%20meine%20Informationen%20entsprechend.%20--stylize%201400%20--ar%2016%3A9)**
 
 ---
 
-### No. 26: Moody Cinematic Portrait
+### No. 26: Stimmungsvolles filmisches Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A detailed prompt for GPT Image 1.5 generating a moody, cinematic portrait of a man. It specifies dark teal and cyan studio lighting, a smooth gradient background, a creative double exposure effect, film look, and high contrast suitable for poster design composition.
+Ein detaillierter Prompt für GPT Image 1.5, der ein stimmungsvolles, filmisches Porträt eines Mannes generiert. Er spezifiziert dunkle Petrol- und Cyan-Studiobeleuchtung, einen weichen Farbverlauf als Hintergrund, einen kreativen Doppelbelichtungseffekt, Film-Look und hohen Kontrast, geeignet für eine Posterdesign-Komposition.
 
 #### 📝 Prompt
 
 ```
-moody cinematic portrait of a man in dark jacket, front facing but slightly turned, minimal expression, dark teal and cyan studio lighting, smooth gradient blue background fading into shadows, creative double exposure ghosted silhouette behind main face, soft haze, film look, subtle grain, high contrast on facial features, poster design composition, empty space for typography, no text, no watermark
+Stimmungsvolles, filmisches Porträt eines Mannes in dunkler Jacke, frontal, aber leicht gedreht, minimaler Ausdruck, dunkle petrol- und zyanfarbene Studiobeleuchtung, glatter, blauer Hintergrundverlauf, der in Schatten übergeht, kreative Doppelbelichtung mit geisterhafter Silhouette hinter dem Hauptgesicht, leichter Dunst, Film-Look, subtiles Korn, hoher Kontrast bei den Gesichtszügen, Posterdesign-Komposition, leerer Raum für Typografie, kein Text, kein Wasserzeichen
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1337,7 +1337,7 @@ moody cinematic portrait of a man in dark jacket, front facing but slightly turn
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592930_q2refo_G8gYxAjawAE1oc3.jpg" width="600" alt="Moody Cinematic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231592930_q2refo_G8gYxAjawAE1oc3.jpg" width="600" alt="Stimmungsvolles filmisches Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -1347,22 +1347,22 @@ moody cinematic portrait of a man in dark jacket, front facing but slightly turn
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=moody%20cinematic%20portrait%20of%20a%20man%20in%20dark%20jacket%2C%20front%20facing%20but%20slightly%20turned%2C%20minimal%20expression%2C%20dark%20teal%20and%20cyan%20studio%20lighting%2C%20smooth%20gradient%20blue%20background%20fading%20into%20shadows%2C%20creative%20double%20exposure%20ghosted%20silhouette%20behind%20main%20face%2C%20soft%20haze%2C%20film%20look%2C%20subtle%20grain%2C%20high%20contrast%20on%20facial%20features%2C%20poster%20design%20composition%2C%20empty%20space%20for%20typography%2C%20no%20text%2C%20no%20watermark)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Stimmungsvolles%2C%20filmisches%20Portr%C3%A4t%20eines%20Mannes%20in%20dunkler%20Jacke%2C%20frontal%2C%20aber%20leicht%20gedreht%2C%20minimaler%20Ausdruck%2C%20dunkle%20petrol-%20und%20zyanfarbene%20Studiobeleuchtung%2C%20glatter%2C%20blauer%20Hintergrundverlauf%2C%20der%20in%20Schatten%20%C3%BCbergeht%2C%20kreative%20Doppelbelichtung%20mit%20geisterhafter%20Silhouette%20hinter%20dem%20Hauptgesicht%2C%20leichter%20Dunst%2C%20Film-Look%2C%20subtiles%20Korn%2C%20hoher%20Kontrast%20bei%20den%20Gesichtsz%C3%BCgen%2C%20Posterdesign-Komposition%2C%20leerer%20Raum%20f%C3%BCr%20Typografie%2C%20kein%20Text%2C%20kein%20Wasserzeichen)**
 
 ---
 
-### No. 27: TIME Magazine 'Person of the Year' Cover
+### No. 27: TIME Magazine „Person des Jahres“-Titelblatt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A Japanese prompt instructing GPT Image 1.5 to generate a cover for TIME magazine's '100 People of the Year' issue, specifying that all titles and text should be in English for a professional look.
+Ein japanischer Prompt, der GPT Image 1.5 anweist, ein Cover für die Ausgabe „100 People of the Year“ des TIME Magazins zu erstellen, wobei alle Titel und Texte auf Englisch sein sollen, um ein professionelles Erscheinungsbild zu gewährleisten.
 
 #### 📝 Prompt
 
 ```
-Create the cover of TIME magazine's '100 People of the Year'. All titles and text should be in English.
+Erstellen Sie das Cover des TIME-Magazins „100 People of the Year“. Alle Titel und Texte sollten auf Englisch sein.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1370,13 +1370,13 @@ Create the cover of TIME magazine's '100 People of the Year'. All titles and tex
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231619160_73kak9_G8gKwd2akAgEEuQ.jpg" width="600" alt="TIME Magazine 'Person of the Year' Cover - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231619160_73kak9_G8gKwd2akAgEEuQ.jpg" width="600" alt="TIME Magazine „Person des Jahres“-Titelblatt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231619429_gy8aao_G8gKt_ubcAAJ3SZ.jpg" width="600" alt="TIME Magazine 'Person of the Year' Cover - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231619429_gy8aao_G8gKt_ubcAAJ3SZ.jpg" width="600" alt="TIME Magazine „Person des Jahres“-Titelblatt - Image 2">
 </div>
 
 #### 📌 Details
@@ -1386,29 +1386,29 @@ Create the cover of TIME magazine's '100 People of the Year'. All titles and tex
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20the%20cover%20of%20TIME%20magazine's%20'100%20People%20of%20the%20Year'.%20All%20titles%20and%20text%20should%20be%20in%20English.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20das%20Cover%20des%20TIME-Magazins%20%E2%80%9E100%20People%20of%20the%20Year%E2%80%9C.%20Alle%20Titel%20und%20Texte%20sollten%20auf%20Englisch%20sein.)**
 
 ---
 
-### No. 28: Ultra-Realistic Cloud Silhouette
+### No. 28: Ultrarealistische Wolken-Silhouette
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A highly detailed prompt for GPT Image 1.5 requesting an ultra-realistic sky scene where clouds naturally form the silhouette of a specified person. It emphasizes natural lighting, realism, specific composition (square format, cloud in upper frame), and a calm, optimistic mood.
+Ein sehr detaillierter Prompt für GPT Image 1.5, der eine ultrarealistische Himmelszene anfordert, in der Wolken auf natürliche Weise die Silhouette einer bestimmten Person bilden. Er betont natürliche Beleuchtung, Realismus, eine spezifische Komposition (quadratisches Format, Wolke im oberen Bildbereich) und eine ruhige, optimistische Stimmung.
 
 #### 📝 Prompt
 
 ```
-Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear, recognizable silhouette of {argument name="person" default="[PERSON]"}. The cloud likeness appears high in a vibrant blue sky, formed gently and believably, as if shaped naturally by wind and atmosphere rather than intentionally sculpted.
+Erstellen Sie eine ultrarealistische Himmelszene, in der sich weiche, natürliche Wolkenformationen organisch zu der klaren, erkennbaren Silhouette von {argument name="person" default="[PERSON]"} zusammenfügen. Die Wolkenähnlichkeit erscheint hoch am leuchtend blauen Himmel, sanft und glaubwürdig geformt, als ob sie natürlich durch Wind und Atmosphäre und nicht absichtlich geformt worden wäre.
 
-The cloud figure floats above a grounded, recognizable natural landscape below—fields, hills, water, or trees—providing scale and realism. The composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape anchors the scene beneath.
+Die Wolkenfigur schwebt über einer geerdeten, erkennbaren Naturlandschaft darunter – Feldern, Hügeln, Wasser oder Bäumen – und sorgt für Maßstab und Realismus. Die Komposition ist quadratisch (1080×1080), wobei die Wolkenformation den oberen Teil des Bildes einnimmt, während die Landschaft die Szene darunter verankert.
 
-Lighting is crisp and daylight-bright, with sunlit highlights and soft shadowing across the clouds to enhance volume, depth, and softness. The sky remains clean and naturally blue, with realistic atmospheric gradients.
+Die Beleuchtung ist klar und tageslichthell, mit sonnenbeschienenen Glanzlichtern und sanften Schatten auf den Wolken, um Volumen, Tiefe und Weichheit zu verstärken. Der Himmel bleibt klar und natürlich blau, mit realistischen atmosphärischen Gradienten.
 
-The overall mood is calm, optimistic, and visually striking, with rich yet natural color saturation and a peaceful, uplifting atmosphere. Ultra-high realism, cinematic clarity, no text, no surreal effects, no exaggeration
+Die Gesamtstimmung ist ruhig, optimistisch und visuell beeindruckend, mit satter, aber natürlicher Farbsättigung und einer friedlichen, erhebenden Atmosphäre. Ultrahoher Realismus, filmische Klarheit, kein Text, keine surrealen Effekte, keine Übertreibung
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1416,25 +1416,25 @@ The overall mood is calm, optimistic, and visually striking, with rich yet natur
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592390_6ntrvv_G8gHGdcb0AASGUa.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231592390_6ntrvv_G8gHGdcb0AASGUa.jpg" width="600" alt="Ultrarealistische Wolken-Silhouette - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592621_omzyux_G8gHGdfakAE22ay.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231592621_omzyux_G8gHGdfakAE22ay.jpg" width="600" alt="Ultrarealistische Wolken-Silhouette - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231592692_1wp5xh_G8gHGdfakAIDXpJ.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766231592692_1wp5xh_G8gHGdfakAIDXpJ.jpg" width="600" alt="Ultrarealistische Wolken-Silhouette - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231594367_tyuksk_G8gHGd2bAAAaYSS.jpg" width="600" alt="Ultra-Realistic Cloud Silhouette - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766231594367_tyuksk_G8gHGd2bAAAaYSS.jpg" width="600" alt="Ultrarealistische Wolken-Silhouette - Image 4">
 </div>
 
 #### 📌 Details
@@ -1444,7 +1444,7 @@ The overall mood is calm, optimistic, and visually striking, with rich yet natur
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20an%20ultra-realistic%20sky%20scene%20where%20soft%2C%20natural%20cloud%20formations%20organically%20assemble%20into%20the%20clear%2C%20recognizable%20silhouette%20of%20%7Bargument%20name%3D%22person%22%20default%3D%22%5BPERSON%5D%22%7D.%20The%20cloud%20likeness%20appears%20high%20in%20a%20vibrant%20blue%20sky%2C%20formed%20gently%20and%20believably%2C%20as%20if%20shaped%20naturally%20by%20wind%20and%20atmosphere%20rather%20than%20intentionally%20sculpted.%0A%0AThe%20cloud%20figure%20floats%20above%20a%20grounded%2C%20recognizable%20natural%20landscape%20below%E2%80%94fields%2C%20hills%2C%20water%2C%20or%20trees%E2%80%94providing%20scale%20and%20realism.%20The%20composition%20is%20square%20(1080%C3%971080)%2C%20with%20the%20cloud%20formation%20occupying%20the%20upper%20portion%20of%20the%20frame%20while%20the%20landscape%20anchors%20the%20scene%20beneath.%0A%0ALighting%20is%20crisp%20and%20daylight-bright%2C%20with%20sunlit%20highlights%20and%20soft%20shadowing%20across%20the%20clouds%20to%20enhance%20volume%2C%20depth%2C%20and%20softness.%20The%20sky%20remains%20clean%20and%20naturally%20blue%2C%20with%20realistic%20atmospheric%20gradients.%0A%0AThe%20overall%20mood%20is%20calm%2C%20optimistic%2C%20and%20visually%20striking%2C%20with%20rich%20yet%20natural%20color%20saturation%20and%20a%20peaceful%2C%20uplifting%20atmosphere.%20Ultra-high%20realism%2C%20cinematic%20clarity%2C%20no%20text%2C%20no%20surreal%20effects%2C%20no%20exaggeration)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20eine%20ultrarealistische%20Himmelszene%2C%20in%20der%20sich%20weiche%2C%20nat%C3%BCrliche%20Wolkenformationen%20organisch%20zu%20der%20klaren%2C%20erkennbaren%20Silhouette%20von%20%7Bargument%20name%3D%22person%22%20default%3D%22%5BPERSON%5D%22%7D%20zusammenf%C3%BCgen.%20Die%20Wolken%C3%A4hnlichkeit%20erscheint%20hoch%20am%20leuchtend%20blauen%20Himmel%2C%20sanft%20und%20glaubw%C3%BCrdig%20geformt%2C%20als%20ob%20sie%20nat%C3%BCrlich%20durch%20Wind%20und%20Atmosph%C3%A4re%20und%20nicht%20absichtlich%20geformt%20worden%20w%C3%A4re.%0A%0ADie%20Wolkenfigur%20schwebt%20%C3%BCber%20einer%20geerdeten%2C%20erkennbaren%20Naturlandschaft%20darunter%20%E2%80%93%20Feldern%2C%20H%C3%BCgeln%2C%20Wasser%20oder%20B%C3%A4umen%20%E2%80%93%20und%20sorgt%20f%C3%BCr%20Ma%C3%9Fstab%20und%20Realismus.%20Die%20Komposition%20ist%20quadratisch%20(1080%C3%971080)%2C%20wobei%20die%20Wolkenformation%20den%20oberen%20Teil%20des%20Bildes%20einnimmt%2C%20w%C3%A4hrend%20die%20Landschaft%20die%20Szene%20darunter%20verankert.%0A%0ADie%20Beleuchtung%20ist%20klar%20und%20tageslichthell%2C%20mit%20sonnenbeschienenen%20Glanzlichtern%20und%20sanften%20Schatten%20auf%20den%20Wolken%2C%20um%20Volumen%2C%20Tiefe%20und%20Weichheit%20zu%20verst%C3%A4rken.%20Der%20Himmel%20bleibt%20klar%20und%20nat%C3%BCrlich%20blau%2C%20mit%20realistischen%20atmosph%C3%A4rischen%20Gradienten.%0A%0ADie%20Gesamtstimmung%20ist%20ruhig%2C%20optimistisch%20und%20visuell%20beeindruckend%2C%20mit%20satter%2C%20aber%20nat%C3%BCrlicher%20Farbs%C3%A4ttigung%20und%20einer%20friedlichen%2C%20erhebenden%20Atmosph%C3%A4re.%20Ultrahoher%20Realismus%2C%20filmische%20Klarheit%2C%20kein%20Text%2C%20keine%20surrealen%20Effekte%2C%20keine%20%C3%9Cbertreibung)**
 
 ---
 
@@ -1481,18 +1481,18 @@ Ein hochauflösendes, filmisches Foto eines einsamen, alten Leuchtturms, der bei
 
 ---
 
-### No. 30: Dynamic Basketball Dunk Photo
+### No. 30: Dynamisches Basketball-Dunk-Foto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
-A Japanese prompt used with GPT Image 1.5 to generate a dynamic photo of a person performing a basketball dunk, focusing on capturing the sense of motion and action.
+Ein japanischer Prompt, der mit GPT Image 1.5 verwendet wurde, um ein dynamisches Foto einer Person zu generieren, die einen Basketball-Dunk ausführt, wobei der Fokus auf der Erfassung des Gefühls von Bewegung und Aktion liegt.
 
 #### 📝 Prompt
 
 ```
-Create a dynamic photo of this person performing a dunk in basketball.
+Erstelle ein dynamisches Foto dieser Person, die einen Dunk beim Basketball ausführt.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1500,13 +1500,13 @@ Create a dynamic photo of this person performing a dunk in basketball.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231617305_kxg5xe_G8fyCw5akAECs4g.jpg" width="600" alt="Dynamic Basketball Dunk Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231617305_kxg5xe_G8fyCw5akAECs4g.jpg" width="600" alt="Dynamisches Basketball-Dunk-Foto - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231617338_rez12g_G8fyFCSaQAEe-bB.jpg" width="600" alt="Dynamic Basketball Dunk Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231617338_rez12g_G8fyFCSaQAEe-bB.jpg" width="600" alt="Dynamisches Basketball-Dunk-Foto - Image 2">
 </div>
 
 #### 📌 Details
@@ -1516,18 +1516,18 @@ Create a dynamic photo of this person performing a dunk in basketball.
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%20dynamic%20photo%20of%20this%20person%20performing%20a%20dunk%20in%20basketball.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20dynamisches%20Foto%20dieser%20Person%2C%20die%20einen%20Dunk%20beim%20Basketball%20ausf%C3%BChrt.)**
 
 ---
 
-### No. 31: Bleistiftskizzen-Schemata von Bender
+### No. 31: Bleistiftskizze-Schaltplan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein einfacher, direkter Prompt für GPT Image 1.5, der eine Bleistiftskizze anfordert, die die Schaltpläne der Figur Bender, wahrscheinlich aus Futurama, illustriert.
+Ein einfacher Prompt für GPT Image 1.5, der eine Bleistiftskizze von Schaltplänen für die Figur Bender anfordert.
 
 #### 📝 Prompt
 
@@ -1540,7 +1540,7 @@ Bleistiftskizze für die Schaltpläne von {argument name="character" default="be
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231589771_1aj971_G8fx2PuasAEvwnj.jpg" width="600" alt="Bleistiftskizzen-Schemata von Bender - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231589771_1aj971_G8fx2PuasAEvwnj.jpg" width="600" alt="Bleistiftskizze-Schaltplan - Image 1">
 </div>
 
 #### 📌 Details
@@ -1554,33 +1554,33 @@ Bleistiftskizze für die Schaltpläne von {argument name="character" default="be
 
 ---
 
-### No. 32: Detaillierter Prompt für Mode-Produktfotografie für GPT Image 1.5
+### No. 32: Erweiterter Produktfotografie-Prompt für GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein sehr detaillierter, strukturierter Prompt, der für GPT Image 1.5 entwickelt wurde, um ein Bild in kommerzieller Werbequalität zu generieren. Die Komposition ist ein vertikaler Split-Screen, der oben eine Produktfotografie im Flat-Lay-Stil eines Outfits in einer Museumsvitrine zeigt und unten eine hyperrealistische „Naked-Eye 3D“-Illusion eines Models, das genau dasselbe Outfit trägt, wodurch ein visueller Kontrast zwischen Präsentation und Realität entsteht. Der Prompt enthält spezifische Details zu Kleidung, Requisiten, Modelbeschreibung, Pose und technischen Rendering-Spezifikationen.
+Dies ist ein sehr detailliertes, strukturiertes Prompt, das für die kommerzielle Produktfotografie entwickelt wurde und eine vertikale Split-Screen-Komposition erstellt. Der obere Bereich zeigt Kleidung als Museumsexponat in einem Schaukasten, während der untere Bereich ein hyperrealistisches Modell zeigt, das genau dasselbe Outfit trägt, wodurch eine „Naked-Eye-3D“-Illusion entsteht. Das Prompt ist für Kleidungsdetails, Requisiten, Text und Modellbeschreibung hochgradig anpassbar.
 
 #### 📝 Prompt
 
 ```
 Eine vertikale Split-Screen-Komposition für kreative Produktfotografie vor einem sauberen, weißen Wandhintergrund. Hochauflösend, fotorealistisch, kommerzielle Werbequalität.
 
-Oberer Bereich: Die Exponatbox
-Die obere Hälfte zeigt einen exquisiten Bilderrahmen aus heller Eiche, der an der Wand montiert ist. Darin wird ein bestimmtes Outfit als künstlerisches Flat-Lay-Museumsexponat präsentiert: {argument name="Clothing Details" default="ein elegantes schwarzes Satinschlüpferkleid mit zarter Spitze und dünnen Spaghettiträgern"}. Die Kleidungsstücke sind sauber festgesteckt. Um sie herum befinden sich kleine thematische Dekorationsrequisiten: {argument name="Props" default="getrocknete Rosen, Vintage-Parfümflaschen, Seidenband"}. Eine elegante Kalligrafie auf dem matten Papierhintergrund lautet: {argument name="Text" default="Midnight Elegance"}. Weiches Studiolicht betont die reiche Textur und den Fall des Stoffes.
+Oberer Bereich: Die Exponat-Box
+Die obere Hälfte zeigt einen exquisiten Rahmen aus hellem Eichenholz, der an der Wand montiert ist. Darin wird ein bestimmtes Outfit als künstlerisches Flat-Lay-Museumsexponat präsentiert: {argument name="Clothing Details" default="ein elegantes schwarzes Satinschlüpferkleid mit zarter Spitze und dünnen Spaghettiträgern"}. Die Kleidungsstücke sind sauber festgesteckt. Um sie herum befinden sich kleine thematische Dekorationsrequisiten: {argument name="Props" default="getrocknete Rosen, Vintage-Parfümflaschen, Seidenband"}. Eine elegante Kalligrafie auf dem matten Papierhintergrund lautet: {argument name="Text" default="Midnight Elegance"}. Weiches Studiolicht betont die reiche Textur und den Fall des Stoffes.
 
 Unterer Bereich: Naked-Eye 3D-Realität
-Die untere Hälfte erzeugt eine hyperrealistische "Naked-Eye 3D"-Illusion. Ein rechteckiger Bilderrahmen sitzt direkt unter der oberen Box. Eine atemberaubend realistische junge Frau {argument name="Model Description" default="ein selbstbewusstes ostasiatisches Model mit langem, welligem schwarzem Haar, dezenten Smokey Eyes und einem zuversichtlichen Blick"} trägt genau dasselbe Outfit wie oben gezeigt.
+Die untere Hälfte erzeugt eine hyperrealistische „Naked-Eye 3D“-Illusion. Ein rechteckiger Bilderrahmenrand befindet sich direkt unter der oberen Box. Eine atemberaubend realistische junge Frau {argument name="Model Description" default="ein selbstbewusstes ostasiatisches Model mit langen, welligen schwarzen Haaren, dezenten Smokey Eyes und einem selbstsicheren Blick"} trägt genau dasselbe Outfit wie oben gezeigt.
 
-Sie lehnt lässig am unteren Rand des Rahmens – ein Bein angewinkelt, der Fuß ruht im Rahmen, das andere Bein baumelt elegant in den Raum des Betrachters. Ihr Oberkörper lehnt leicht zurück, der Ellbogen ruht auf ihrem angehobenen Knie, die Finger streichen leicht über den Stoff in der Nähe ihres Schlüsselbeins. Ihr Körper bildet eine weiche, sinnliche S-Kurve, die die Silhouette des Kleidungsstücks ohne übermäßige Entblößung hervorhebt. Sie blickt direkt in die Kamera mit einem ruhigen, wissenden Lächeln – einladend und doch rätselhaft. Diese dynamische, lebensechte Pose kontrastiert stark mit der statischen, archivartigen Darstellung darüber und erzeugt eine visuelle Spannung zwischen Realität und Präsentation.
+Sie lehnt lässig am unteren Rand des Rahmens – ein Bein angewinkelt, der Fuß ruht im Rahmen, das andere Bein baumelt elegant in den Raum des Betrachters. Ihr Oberkörper lehnt leicht zurück, der Ellbogen ruht auf ihrem angehobenen Knie, die Finger streifen leicht den Stoff in der Nähe ihres Schlüsselbeins. Ihr Körper bildet eine weiche, sinnliche S-Kurve, die die Silhouette des Kleidungsstücks ohne übermäßige Entblößung hervorhebt. Sie blickt direkt in die Kamera mit einem ruhigen, wissenden Lächeln – einladend und doch rätselhaft. Diese dynamische, lebensechte Pose kontrastiert stark mit der statischen, archivierten Darstellung darüber und erzeugt eine visuelle Spannung zwischen Realität und Präsentation.
 
 Technische Daten:
-Weiche natürliche Schatten, Umgebungsverdeckung, helle und luftige, aber filmische Beleuchtung, 8K-Auflösung, Octane Render, lebendige, aber raffinierte Farbpalette, ultra-detaillierte Stofftexturen (Satin-Glanz, Spitzen-Transparenz, Nähte), geringe Schärfentiefe, Vogue-Editorial-Stil, Filmkorn, professionelle Modefotografie.
+Weiche natürliche Schatten, Umgebungsverdeckung, helles und luftiges, aber filmisches Licht, 8K-Auflösung, Octane Render, lebendige, aber raffinierte Farbpalette, ultra-detaillierte Stofftexturen (Satin-Glanz, Spitzen-Transparenz, Nähte), geringe Schärfentiefe, Vogue-Editorial-Stil, filmisches Korn, professionelle Modefotografie.
 
 Negativer Prompt (empfohlen):
-unscharf, geringe Auflösung, verzerrte Anatomie, zusätzliche Gliedmaßen, deformierte Hände, Cartoon, Anime, puppenhaft, Plastikhaut, überbelichtet, unübersichtlicher Hintergrund, Textfehler, unpassende Kleidung, schwebende Objekte, unrealistische Proportionen.
+unscharf, niedrigauflösend, verzerrte Anatomie, zusätzliche Gliedmaßen, deformierte Hände, Cartoon, Anime, puppenhaft, Plastikhaut, überbelichtet, unübersichtlicher Hintergrund, Textfehler, unpassende Kleidung, schwebende Objekte, unrealistische Proportionen.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1588,13 +1588,13 @@ unscharf, geringe Auflösung, verzerrte Anatomie, zusätzliche Gliedmaßen, defo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231604369_ekgjs8_G8ftuYvaUAAOJU2.jpg" width="600" alt="Detaillierter Prompt für Mode-Produktfotografie für GPT Image 1.5 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231604369_ekgjs8_G8ftuYvaUAAOJU2.jpg" width="600" alt="Erweiterter Produktfotografie-Prompt für GPT Image 1.5 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231604352_cg2pdo_G8fuGZ1akAUW7gw.jpg" width="600" alt="Detaillierter Prompt für Mode-Produktfotografie für GPT Image 1.5 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231604352_cg2pdo_G8fuGZ1akAUW7gw.jpg" width="600" alt="Erweiterter Produktfotografie-Prompt für GPT Image 1.5 - Image 2">
 </div>
 
 #### 📌 Details
@@ -1604,22 +1604,22 @@ unscharf, geringe Auflösung, verzerrte Anatomie, zusätzliche Gliedmaßen, defo
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** zh
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20vertikale%20Split-Screen-Komposition%20f%C3%BCr%20kreative%20Produktfotografie%20vor%20einem%20sauberen%2C%20wei%C3%9Fen%20Wandhintergrund.%20Hochaufl%C3%B6send%2C%20fotorealistisch%2C%20kommerzielle%20Werbequalit%C3%A4t.%0A%0AOberer%20Bereich%3A%20Die%20Exponatbox%0ADie%20obere%20H%C3%A4lfte%20zeigt%20einen%20exquisiten%20Bilderrahmen%20aus%20heller%20Eiche%2C%20der%20an%20der%20Wand%20montiert%20ist.%20Darin%20wird%20ein%20bestimmtes%20Outfit%20als%20k%C3%BCnstlerisches%20Flat-Lay-Museumsexponat%20pr%C3%A4sentiert%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22ein%20elegantes%20schwarzes%20Satinschl%C3%BCpferkleid%20mit%20zarter%20Spitze%20und%20d%C3%BCnnen%20Spaghettitr%C3%A4gern%22%7D.%20Die%20Kleidungsst%C3%BCcke%20sind%20sauber%20festgesteckt.%20Um%20sie%20herum%20befinden%20sich%20kleine%20thematische%20Dekorationsrequisiten%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22getrocknete%20Rosen%2C%20Vintage-Parf%C3%BCmflaschen%2C%20Seidenband%22%7D.%20Eine%20elegante%20Kalligrafie%20auf%20dem%20matten%20Papierhintergrund%20lautet%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Weiches%20Studiolicht%20betont%20die%20reiche%20Textur%20und%20den%20Fall%20des%20Stoffes.%0A%0AUnterer%20Bereich%3A%20Naked-Eye%203D-Realit%C3%A4t%0ADie%20untere%20H%C3%A4lfte%20erzeugt%20eine%20hyperrealistische%20%22Naked-Eye%203D%22-Illusion.%20Ein%20rechteckiger%20Bilderrahmen%20sitzt%20direkt%20unter%20der%20oberen%20Box.%20Eine%20atemberaubend%20realistische%20junge%20Frau%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22ein%20selbstbewusstes%20ostasiatisches%20Model%20mit%20langem%2C%20welligem%20schwarzem%20Haar%2C%20dezenten%20Smokey%20Eyes%20und%20einem%20zuversichtlichen%20Blick%22%7D%20tr%C3%A4gt%20genau%20dasselbe%20Outfit%20wie%20oben%20gezeigt.%0A%0ASie%20lehnt%20l%C3%A4ssig%20am%20unteren%20Rand%20des%20Rahmens%20%E2%80%93%20ein%20Bein%20angewinkelt%2C%20der%20Fu%C3%9F%20ruht%20im%20Rahmen%2C%20das%20andere%20Bein%20baumelt%20elegant%20in%20den%20Raum%20des%20Betrachters.%20Ihr%20Oberk%C3%B6rper%20lehnt%20leicht%20zur%C3%BCck%2C%20der%20Ellbogen%20ruht%20auf%20ihrem%20angehobenen%20Knie%2C%20die%20Finger%20streichen%20leicht%20%C3%BCber%20den%20Stoff%20in%20der%20N%C3%A4he%20ihres%20Schl%C3%BCsselbeins.%20Ihr%20K%C3%B6rper%20bildet%20eine%20weiche%2C%20sinnliche%20S-Kurve%2C%20die%20die%20Silhouette%20des%20Kleidungsst%C3%BCcks%20ohne%20%C3%BCberm%C3%A4%C3%9Fige%20Entbl%C3%B6%C3%9Fung%20hervorhebt.%20Sie%20blickt%20direkt%20in%20die%20Kamera%20mit%20einem%20ruhigen%2C%20wissenden%20L%C3%A4cheln%20%E2%80%93%20einladend%20und%20doch%20r%C3%A4tselhaft.%20Diese%20dynamische%2C%20lebensechte%20Pose%20kontrastiert%20stark%20mit%20der%20statischen%2C%20archivartigen%20Darstellung%20dar%C3%BCber%20und%20erzeugt%20eine%20visuelle%20Spannung%20zwischen%20Realit%C3%A4t%20und%20Pr%C3%A4sentation.%0A%0ATechnische%20Daten%3A%0AWeiche%20nat%C3%BCrliche%20Schatten%2C%20Umgebungsverdeckung%2C%20helle%20und%20luftige%2C%20aber%20filmische%20Beleuchtung%2C%208K-Aufl%C3%B6sung%2C%20Octane%20Render%2C%20lebendige%2C%20aber%20raffinierte%20Farbpalette%2C%20ultra-detaillierte%20Stofftexturen%20(Satin-Glanz%2C%20Spitzen-Transparenz%2C%20N%C3%A4hte)%2C%20geringe%20Sch%C3%A4rfentiefe%2C%20Vogue-Editorial-Stil%2C%20Filmkorn%2C%20professionelle%20Modefotografie.%0A%0ANegativer%20Prompt%20(empfohlen)%3A%0Aunscharf%2C%20geringe%20Aufl%C3%B6sung%2C%20verzerrte%20Anatomie%2C%20zus%C3%A4tzliche%20Gliedma%C3%9Fen%2C%20deformierte%20H%C3%A4nde%2C%20Cartoon%2C%20Anime%2C%20puppenhaft%2C%20Plastikhaut%2C%20%C3%BCberbelichtet%2C%20un%C3%BCbersichtlicher%20Hintergrund%2C%20Textfehler%2C%20unpassende%20Kleidung%2C%20schwebende%20Objekte%2C%20unrealistische%20Proportionen.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Eine%20vertikale%20Split-Screen-Komposition%20f%C3%BCr%20kreative%20Produktfotografie%20vor%20einem%20sauberen%2C%20wei%C3%9Fen%20Wandhintergrund.%20Hochaufl%C3%B6send%2C%20fotorealistisch%2C%20kommerzielle%20Werbequalit%C3%A4t.%0A%0AOberer%20Bereich%3A%20Die%20Exponat-Box%0ADie%20obere%20H%C3%A4lfte%20zeigt%20einen%20exquisiten%20Rahmen%20aus%20hellem%20Eichenholz%2C%20der%20an%20der%20Wand%20montiert%20ist.%20Darin%20wird%20ein%20bestimmtes%20Outfit%20als%20k%C3%BCnstlerisches%20Flat-Lay-Museumsexponat%20pr%C3%A4sentiert%3A%20%7Bargument%20name%3D%22Clothing%20Details%22%20default%3D%22ein%20elegantes%20schwarzes%20Satinschl%C3%BCpferkleid%20mit%20zarter%20Spitze%20und%20d%C3%BCnnen%20Spaghettitr%C3%A4gern%22%7D.%20Die%20Kleidungsst%C3%BCcke%20sind%20sauber%20festgesteckt.%20Um%20sie%20herum%20befinden%20sich%20kleine%20thematische%20Dekorationsrequisiten%3A%20%7Bargument%20name%3D%22Props%22%20default%3D%22getrocknete%20Rosen%2C%20Vintage-Parf%C3%BCmflaschen%2C%20Seidenband%22%7D.%20Eine%20elegante%20Kalligrafie%20auf%20dem%20matten%20Papierhintergrund%20lautet%3A%20%7Bargument%20name%3D%22Text%22%20default%3D%22Midnight%20Elegance%22%7D.%20Weiches%20Studiolicht%20betont%20die%20reiche%20Textur%20und%20den%20Fall%20des%20Stoffes.%0A%0AUnterer%20Bereich%3A%20Naked-Eye%203D-Realit%C3%A4t%0ADie%20untere%20H%C3%A4lfte%20erzeugt%20eine%20hyperrealistische%20%E2%80%9ENaked-Eye%203D%E2%80%9C-Illusion.%20Ein%20rechteckiger%20Bilderrahmenrand%20befindet%20sich%20direkt%20unter%20der%20oberen%20Box.%20Eine%20atemberaubend%20realistische%20junge%20Frau%20%7Bargument%20name%3D%22Model%20Description%22%20default%3D%22ein%20selbstbewusstes%20ostasiatisches%20Model%20mit%20langen%2C%20welligen%20schwarzen%20Haaren%2C%20dezenten%20Smokey%20Eyes%20und%20einem%20selbstsicheren%20Blick%22%7D%20tr%C3%A4gt%20genau%20dasselbe%20Outfit%20wie%20oben%20gezeigt.%0A%0ASie%20lehnt%20l%C3%A4ssig%20am%20unteren%20Rand%20des%20Rahmens%20%E2%80%93%20ein%20Bein%20angewinkelt%2C%20der%20Fu%C3%9F%20ruht%20im%20Rahmen%2C%20das%20andere%20Bein%20baumelt%20elegant%20in%20den%20Raum%20des%20Betrachters.%20Ihr%20Oberk%C3%B6rper%20lehnt%20leicht%20zur%C3%BCck%2C%20der%20Ellbogen%20ruht%20auf%20ihrem%20angehobenen%20Knie%2C%20die%20Finger%20streifen%20leicht%20den%20Stoff%20in%20der%20N%C3%A4he%20ihres%20Schl%C3%BCsselbeins.%20Ihr%20K%C3%B6rper%20bildet%20eine%20weiche%2C%20sinnliche%20S-Kurve%2C%20die%20die%20Silhouette%20des%20Kleidungsst%C3%BCcks%20ohne%20%C3%BCberm%C3%A4%C3%9Fige%20Entbl%C3%B6%C3%9Fung%20hervorhebt.%20Sie%20blickt%20direkt%20in%20die%20Kamera%20mit%20einem%20ruhigen%2C%20wissenden%20L%C3%A4cheln%20%E2%80%93%20einladend%20und%20doch%20r%C3%A4tselhaft.%20Diese%20dynamische%2C%20lebensechte%20Pose%20kontrastiert%20stark%20mit%20der%20statischen%2C%20archivierten%20Darstellung%20dar%C3%BCber%20und%20erzeugt%20eine%20visuelle%20Spannung%20zwischen%20Realit%C3%A4t%20und%20Pr%C3%A4sentation.%0A%0ATechnische%20Daten%3A%0AWeiche%20nat%C3%BCrliche%20Schatten%2C%20Umgebungsverdeckung%2C%20helles%20und%20luftiges%2C%20aber%20filmisches%20Licht%2C%208K-Aufl%C3%B6sung%2C%20Octane%20Render%2C%20lebendige%2C%20aber%20raffinierte%20Farbpalette%2C%20ultra-detaillierte%20Stofftexturen%20(Satin-Glanz%2C%20Spitzen-Transparenz%2C%20N%C3%A4hte)%2C%20geringe%20Sch%C3%A4rfentiefe%2C%20Vogue-Editorial-Stil%2C%20filmisches%20Korn%2C%20professionelle%20Modefotografie.%0A%0ANegativer%20Prompt%20(empfohlen)%3A%0Aunscharf%2C%20niedrigaufl%C3%B6send%2C%20verzerrte%20Anatomie%2C%20zus%C3%A4tzliche%20Gliedma%C3%9Fen%2C%20deformierte%20H%C3%A4nde%2C%20Cartoon%2C%20Anime%2C%20puppenhaft%2C%20Plastikhaut%2C%20%C3%BCberbelichtet%2C%20un%C3%BCbersichtlicher%20Hintergrund%2C%20Textfehler%2C%20unpassende%20Kleidung%2C%20schwebende%20Objekte%2C%20unrealistische%20Proportionen.)**
 
 ---
 
-### No. 33: Ultra-Detailed 3D Graphite Sketch
+### No. 33: Ultra-detaillierte 3D-Graphitskizze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A detailed prompt for GPT Image 1.5 to transform an uploaded photo into an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. It emphasizes realism, including paper grain, imperfections, drawing action (hand holding a pencil), scattered tools (eraser, sharpener), and realistic graphite residue and shadows.
+Ein detaillierter Prompt für GPT Image 1.5, um ein hochgeladenes Foto in eine ultra-detaillierte 3D-Graphitstiftzeichnung auf strukturiertem weißem Notizbuchpapier zu verwandeln. Er betont Realismus, einschließlich Papierkörnung, Unvollkommenheiten, Zeichenaktion (Hand, die einen Bleistift hält), verstreute Werkzeuge (Radiergummi, Spitzer) und realistische Graphitrückstände und Schatten.
 
 #### 📝 Prompt
 
 ```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+Erzeugen Sie aus dem hochgeladenen Foto ein Bild, das das Motiv als ultra-detaillierte 3D-Graphitstiftzeichnung auf strukturiertem weißem Notizbuchpapier neu interpretiert. Betonen Sie die knackige Papierkörnung, subtile Unvollkommenheiten und natürliche Oberflächenfasern. Zeigen Sie das Motiv aktiv zeichnend, mit der Hand einen Bleistift haltend, während die Skizze zum Leben erwacht. Fügen Sie einen Radiergummi, einen Spitzer und verstreute Bleistiftspäne hinzu, die auf der Seite liegen. Ergänzen Sie realistische Schatten, Verschmierungen und feine Graphitrückstände um den Arbeitsbereich, um das taktile, handgezeichnete Gefühl zu verstärken.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1627,7 +1627,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231599193_rej44z_G8fkq7IXcAIXp9_.jpg" width="600" alt="Ultra-Detailed 3D Graphite Sketch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231599193_rej44z_G8fkq7IXcAIXp9_.jpg" width="600" alt="Ultra-detaillierte 3D-Graphitskizze - Image 1">
 </div>
 
 #### 📌 Details
@@ -1637,23 +1637,23 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Generate%20an%20image%20from%20the%20uploaded%20photo%20that%20reimagines%20the%20subject%20as%20an%20ultra-detailed%203D%20graphite%20pencil%20sketch%20on%20textured%20white%20notebook%20paper.%20Emphasize%20crisp%20paper%20grain%2C%20subtle%20imperfections%2C%20and%20natural%20surface%20fibers.%20Show%20the%20subject%20actively%20drawing%2C%20with%20their%20hand%20holding%20a%20pencil%20as%20the%20sketch%20comes%20to%20life.%20Include%20an%20eraser%2C%20sharpener%2C%20and%20scattered%20pencil%20shavings%20resting%20on%20the%20page.%20Add%20realistic%20shadows%2C%20smudges%2C%20and%20fine%20graphite%20residue%20around%20the%20working%20area%20to%20reinforce%20the%20tactile%2C%20hand-drawn%20feel.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erzeugen%20Sie%20aus%20dem%20hochgeladenen%20Foto%20ein%20Bild%2C%20das%20das%20Motiv%20als%20ultra-detaillierte%203D-Graphitstiftzeichnung%20auf%20strukturiertem%20wei%C3%9Fem%20Notizbuchpapier%20neu%20interpretiert.%20Betonen%20Sie%20die%20knackige%20Papierk%C3%B6rnung%2C%20subtile%20Unvollkommenheiten%20und%20nat%C3%BCrliche%20Oberfl%C3%A4chenfasern.%20Zeigen%20Sie%20das%20Motiv%20aktiv%20zeichnend%2C%20mit%20der%20Hand%20einen%20Bleistift%20haltend%2C%20w%C3%A4hrend%20die%20Skizze%20zum%20Leben%20erwacht.%20F%C3%BCgen%20Sie%20einen%20Radiergummi%2C%20einen%20Spitzer%20und%20verstreute%20Bleistiftsp%C3%A4ne%20hinzu%2C%20die%20auf%20der%20Seite%20liegen.%20Erg%C3%A4nzen%20Sie%20realistische%20Schatten%2C%20Verschmierungen%20und%20feine%20Graphitr%C3%BCckst%C3%A4nde%20um%20den%20Arbeitsbereich%2C%20um%20das%20taktile%2C%20handgezeichnete%20Gef%C3%BChl%20zu%20verst%C3%A4rken.)**
 
 ---
 
-### No. 34: Gachapon Capsule Toy Design
+### No. 34: Gachapon Kapselspielzeug-Design
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A detailed prompt for generating a photorealistic image of a gachapon (capsule toy) featuring a specific subject. It specifies the need for a simple, toy-like deformation of the figure, placement inside a clear plastic capsule, inclusion of Japanese paper inserts, and realistic material textures and photography effects (soft light, slight blur, clean composition).
+Ein detaillierter Prompt zur Erstellung eines fotorealistischen Bildes eines Gachapon (Kapselspielzeug) mit einem bestimmten Motiv. Er spezifiziert die Notwendigkeit einer einfachen, spielzeugartigen Verformung der Figur, die Platzierung in einer durchsichtigen Plastikkapsel, die Einbeziehung japanischer Papiereinlagen sowie realistische Materialtexturen und fotografische Effekte (weiches Licht, leichte Unschärfe, saubere Komposition).
 
 #### 📝 Prompt
 
 ```
-Create a miniature capsule toy in the style of a gachapon, based on a single subject ({argument name="subject" default="person, brand mascot, or object"}). The figure should be simple and toy-like in its deformation, sized to fit neatly inside a transparent plastic capsule. Inside the capsule, include a paper insert typical of Japanese gachapon, featuring the toy's name, a small product photo, an icon-style mark, and simple Japanese text. The capsule should be shown either inside the dispensing slot of an actual gachapon vending machine or immediately in front of it. Express the material textures realistically, showing the glossy plastic of the capsule, the slightly matte figure, and the thinly folded paper insert. The overall atmosphere should be natural, like a photo taken with an iPhone, with soft light, a slight sense of camera shake, light background bokeh, and subtle realistic imperfections or quirks. Keep the composition clean and simple, with the subject centered. Aim for a clean finish without clutter.
+Erstelle ein Miniatur-Kapselspielzeug im Stil eines Gachapon, basierend auf einem einzelnen Thema ({argument name="subject" default="person, brand mascot, or object"}). Die Figur sollte einfach und spielzeugartig in ihrer Verformung sein, so groß, dass sie genau in eine transparente Plastikkapsel passt. Füge in die Kapsel einen Papiereinleger ein, wie er typisch für japanische Gachapon ist, mit dem Namen des Spielzeugs, einem kleinen Produktfoto, einem symbolartigen Zeichen und einfachem japanischem Text. Die Kapsel sollte entweder im Ausgabeschlitz eines echten Gachapon-Automaten oder unmittelbar davor gezeigt werden. Gib die Materialtexturen realistisch wieder, zeige den glänzenden Kunststoff der Kapsel, die leicht matte Figur und den dünn gefalteten Papiereinleger. Die Gesamtatmosphäre sollte natürlich sein, wie ein mit einem iPhone aufgenommenes Foto, mit weichem Licht, einem leichten Gefühl von Kamerawackeln, leichtem Hintergrund-Bokeh und subtilen realistischen Unvollkommenheiten oder Eigenheiten. Halte die Komposition sauber und einfach, mit dem Motiv in der Mitte. Achte auf ein sauberes Finish ohne Unordnung.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1661,13 +1661,13 @@ Create a miniature capsule toy in the style of a gachapon, based on a single sub
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231610243_5mbtd4_G8fZUYXakAEDfIo.jpg" width="600" alt="Gachapon Capsule Toy Design - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231610243_5mbtd4_G8fZUYXakAEDfIo.jpg" width="600" alt="Gachapon Kapselspielzeug-Design - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231610469_1xxvga_G8fZXnCakAEr9yR.jpg" width="600" alt="Gachapon Capsule Toy Design - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766231610469_1xxvga_G8fZXnCakAEr9yR.jpg" width="600" alt="Gachapon Kapselspielzeug-Design - Image 2">
 </div>
 
 #### 📌 Details
@@ -1677,22 +1677,22 @@ Create a miniature capsule toy in the style of a gachapon, based on a single sub
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** ja
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Create%20a%20miniature%20capsule%20toy%20in%20the%20style%20of%20a%20gachapon%2C%20based%20on%20a%20single%20subject%20(%7Bargument%20name%3D%22subject%22%20default%3D%22person%2C%20brand%20mascot%2C%20or%20object%22%7D).%20The%20figure%20should%20be%20simple%20and%20toy-like%20in%20its%20deformation%2C%20sized%20to%20fit%20neatly%20inside%20a%20transparent%20plastic%20capsule.%20Inside%20the%20capsule%2C%20include%20a%20paper%20insert%20typical%20of%20Japanese%20gachapon%2C%20featuring%20the%20toy's%20name%2C%20a%20small%20product%20photo%2C%20an%20icon-style%20mark%2C%20and%20simple%20Japanese%20text.%20The%20capsule%20should%20be%20shown%20either%20inside%20the%20dispensing%20slot%20of%20an%20actual%20gachapon%20vending%20machine%20or%20immediately%20in%20front%20of%20it.%20Express%20the%20material%20textures%20realistically%2C%20showing%20the%20glossy%20plastic%20of%20the%20capsule%2C%20the%20slightly%20matte%20figure%2C%20and%20the%20thinly%20folded%20paper%20insert.%20The%20overall%20atmosphere%20should%20be%20natural%2C%20like%20a%20photo%20taken%20with%20an%20iPhone%2C%20with%20soft%20light%2C%20a%20slight%20sense%20of%20camera%20shake%2C%20light%20background%20bokeh%2C%20and%20subtle%20realistic%20imperfections%20or%20quirks.%20Keep%20the%20composition%20clean%20and%20simple%2C%20with%20the%20subject%20centered.%20Aim%20for%20a%20clean%20finish%20without%20clutter.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstelle%20ein%20Miniatur-Kapselspielzeug%20im%20Stil%20eines%20Gachapon%2C%20basierend%20auf%20einem%20einzelnen%20Thema%20(%7Bargument%20name%3D%22subject%22%20default%3D%22person%2C%20brand%20mascot%2C%20or%20object%22%7D).%20Die%20Figur%20sollte%20einfach%20und%20spielzeugartig%20in%20ihrer%20Verformung%20sein%2C%20so%20gro%C3%9F%2C%20dass%20sie%20genau%20in%20eine%20transparente%20Plastikkapsel%20passt.%20F%C3%BCge%20in%20die%20Kapsel%20einen%20Papiereinleger%20ein%2C%20wie%20er%20typisch%20f%C3%BCr%20japanische%20Gachapon%20ist%2C%20mit%20dem%20Namen%20des%20Spielzeugs%2C%20einem%20kleinen%20Produktfoto%2C%20einem%20symbolartigen%20Zeichen%20und%20einfachem%20japanischem%20Text.%20Die%20Kapsel%20sollte%20entweder%20im%20Ausgabeschlitz%20eines%20echten%20Gachapon-Automaten%20oder%20unmittelbar%20davor%20gezeigt%20werden.%20Gib%20die%20Materialtexturen%20realistisch%20wieder%2C%20zeige%20den%20gl%C3%A4nzenden%20Kunststoff%20der%20Kapsel%2C%20die%20leicht%20matte%20Figur%20und%20den%20d%C3%BCnn%20gefalteten%20Papiereinleger.%20Die%20Gesamtatmosph%C3%A4re%20sollte%20nat%C3%BCrlich%20sein%2C%20wie%20ein%20mit%20einem%20iPhone%20aufgenommenes%20Foto%2C%20mit%20weichem%20Licht%2C%20einem%20leichten%20Gef%C3%BChl%20von%20Kamerawackeln%2C%20leichtem%20Hintergrund-Bokeh%20und%20subtilen%20realistischen%20Unvollkommenheiten%20oder%20Eigenheiten.%20Halte%20die%20Komposition%20sauber%20und%20einfach%2C%20mit%20dem%20Motiv%20in%20der%20Mitte.%20Achte%20auf%20ein%20sauberes%20Finish%20ohne%20Unordnung.)**
 
 ---
 
-### No. 35: Ultra-Detailed 3D Graphite Pencil Sketch Generation
+### No. 35: Ultra-detaillierte 3D-Graphitstift-Skizzengenerierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A detailed image generation prompt designed to transform an uploaded photo into an ultra-detailed 3D graphite pencil sketch. It emphasizes tactile elements like crisp paper grain, subtle imperfections, and realistic shadows and smudges, focusing on a documentary, hand-drawn feel. The subject should be actively drawing, with tools like an eraser and sharpener scattered on the page.
+Ein detaillierter Prompt zur Bildgenerierung, der darauf abzielt, ein hochgeladenes Foto in eine ultra-detaillierte 3D-Graphitstiftzeichnung zu verwandeln. Er betont taktile Elemente wie eine scharfe Papierstruktur, subtile Unvollkommenheiten sowie realistische Schatten und Wischspuren, wobei der Fokus auf einem dokumentarischen, handgezeichneten Gefühl liegt. Das Motiv sollte aktiv zeichnen, mit Werkzeugen wie Radiergummi und Spitzer, die auf der Seite verstreut sind.
 
 #### 📝 Prompt
 
 ```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+Erzeugen Sie aus dem hochgeladenen Foto ein Bild, das das Motiv als ultra-detaillierte 3D-Graphitstiftzeichnung auf strukturiertem weißem Notizbuchpapier neu interpretiert. Betonen Sie die knackige Papierstruktur, subtile Unvollkommenheiten und natürliche Oberflächenfasern. Zeigen Sie das Motiv aktiv zeichnend, mit der Hand einen Bleistift haltend, während die Skizze zum Leben erwacht. Fügen Sie einen Radiergummi, einen Spitzer und verstreute Bleistiftspäne hinzu, die auf der Seite liegen. Ergänzen Sie realistische Schatten, Verschmierungen und feine Graphitrückstände um den Arbeitsbereich, um das taktile, handgezeichnete Gefühl zu verstärken.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1700,7 +1700,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766231578095_dfti72_G8fXIWfakAcJaVR.jpg" width="600" alt="Ultra-Detailed 3D Graphite Pencil Sketch Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766231578095_dfti72_G8fXIWfakAcJaVR.jpg" width="600" alt="Ultra-detaillierte 3D-Graphitstift-Skizzengenerierung - Image 1">
 </div>
 
 #### 📌 Details
@@ -1710,7 +1710,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 - **Veröffentlicht:** 19. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Generate%20an%20image%20from%20the%20uploaded%20photo%20that%20reimagines%20the%20subject%20as%20an%20ultra-detailed%203D%20graphite%20pencil%20sketch%20on%20textured%20white%20notebook%20paper.%20Emphasize%20crisp%20paper%20grain%2C%20subtle%20imperfections%2C%20and%20natural%20surface%20fibers.%20Show%20the%20subject%20actively%20drawing%2C%20with%20their%20hand%20holding%20a%20pencil%20as%20the%20sketch%20comes%20to%20life.%20Include%20an%20eraser%2C%20sharpener%2C%20and%20scattered%20pencil%20shavings%20resting%20on%20the%20page.%20Add%20realistic%20shadows%2C%20smudges%2C%20and%20fine%20graphite%20residue%20around%20the%20working%20area%20to%20reinforce%20the%20tactile%2C%20hand-drawn%20feel.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erzeugen%20Sie%20aus%20dem%20hochgeladenen%20Foto%20ein%20Bild%2C%20das%20das%20Motiv%20als%20ultra-detaillierte%203D-Graphitstiftzeichnung%20auf%20strukturiertem%20wei%C3%9Fem%20Notizbuchpapier%20neu%20interpretiert.%20Betonen%20Sie%20die%20knackige%20Papierstruktur%2C%20subtile%20Unvollkommenheiten%20und%20nat%C3%BCrliche%20Oberfl%C3%A4chenfasern.%20Zeigen%20Sie%20das%20Motiv%20aktiv%20zeichnend%2C%20mit%20der%20Hand%20einen%20Bleistift%20haltend%2C%20w%C3%A4hrend%20die%20Skizze%20zum%20Leben%20erwacht.%20F%C3%BCgen%20Sie%20einen%20Radiergummi%2C%20einen%20Spitzer%20und%20verstreute%20Bleistiftsp%C3%A4ne%20hinzu%2C%20die%20auf%20der%20Seite%20liegen.%20Erg%C3%A4nzen%20Sie%20realistische%20Schatten%2C%20Verschmierungen%20und%20feine%20Graphitr%C3%BCckst%C3%A4nde%20um%20den%20Arbeitsbereich%2C%20um%20das%20taktile%2C%20handgezeichnete%20Gef%C3%BChl%20zu%20verst%C3%A4rken.)**
 
 ---
 
@@ -2824,169 +2824,7 @@ Korrigiere das kollabierte „Ge“ in der oberen linken Ecke.
 
 ---
 
-### No. 60: Monochromes Studio-Porträt mit dramatischer Beleuchtung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt zur Erstellung eines kontrastreichen, schwarz-weißen Studio-Porträts eines Mannes, wobei der Fokus auf minimaler Beleuchtung und tiefen Schatten liegt, um eine ruhige, selbstbewusste und cineastische Stimmung zu erzeugen.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie ein monochromes Studio-Porträt eines Mannes. Verwenden Sie minimale Beleuchtung mit sanftem Lichtabfall, sodass der Fokus vollständig auf ihm liegt, mit subtilen Verläufen und tiefen Schatten, die sein Gesicht formen. Die Komposition sollte eine enge Halbaufnahme vor einem sauberen, ablenkungsfreien Hintergrund sein. Er trägt ein lässiges, stilvolles Outfit – wie ein einfaches T-Shirt oder Sweatshirt mit leichter Textur, das gut in Schwarz-Weiß wirkt. Die Gesamtstimmung sollte ruhig und selbstbewusst wirken, mit einer angenehmen, ausgewogenen Atmosphäre. Rendern Sie es in kontrastreichem Schwarz-Weiß mit gestochen scharfen Details, sanften Tönen und einer subtilen filmischen Tiefe.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117309749_fgd9yo_G8bJvr5aEAA_ROe.jpg" width="600" alt="Monochromes Studio-Porträt mit dramatischer Beleuchtung - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310196_txtg9f_G8bJvw-akAEFMcM.jpg" width="600" alt="Monochromes Studio-Porträt mit dramatischer Beleuchtung - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Johnn](https://x.com/john_my07)
-- **Quelle:** [Twitter Post](https://x.com/john_my07/status/2001508911380414888)
-- **Veröffentlicht:** 18. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Erstellen%20Sie%20ein%20monochromes%20Studio-Portr%C3%A4t%20eines%20Mannes.%20Verwenden%20Sie%20minimale%20Beleuchtung%20mit%20sanftem%20Lichtabfall%2C%20sodass%20der%20Fokus%20vollst%C3%A4ndig%20auf%20ihm%20liegt%2C%20mit%20subtilen%20Verl%C3%A4ufen%20und%20tiefen%20Schatten%2C%20die%20sein%20Gesicht%20formen.%20Die%20Komposition%20sollte%20eine%20enge%20Halbaufnahme%20vor%20einem%20sauberen%2C%20ablenkungsfreien%20Hintergrund%20sein.%20Er%20tr%C3%A4gt%20ein%20l%C3%A4ssiges%2C%20stilvolles%20Outfit%20%E2%80%93%20wie%20ein%20einfaches%20T-Shirt%20oder%20Sweatshirt%20mit%20leichter%20Textur%2C%20das%20gut%20in%20Schwarz-Wei%C3%9F%20wirkt.%20Die%20Gesamtstimmung%20sollte%20ruhig%20und%20selbstbewusst%20wirken%2C%20mit%20einer%20angenehmen%2C%20ausgewogenen%20Atmosph%C3%A4re.%20Rendern%20Sie%20es%20in%20kontrastreichem%20Schwarz-Wei%C3%9F%20mit%20gestochen%20scharfen%20Details%2C%20sanften%20T%C3%B6nen%20und%20einer%20subtilen%20filmischen%20Tiefe.)**
-
----
-
-### No. 61: Futuristische architektonische Wahrzeichen basierend auf Kalkül-Symbolen
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Erstellung eines 2x2-Rasters futuristischer architektonischer Wahrzeichen, wobei jede Struktur auf einem wichtigen Kalkülsymbol basiert. Die Szene ist in einer utopischen Solarpunk-Stadt mit heller, sauberer Ästhetik angesiedelt.
-
-#### 📝 Prompt
-
-```
-Ein 2x2-Raster aus 4 futuristischen architektonischen Wahrzeichen, basierend auf wichtigen Kalkülsymbolen, angesiedelt in einer utopischen Solarpunk-Stadt, helles Mittagslicht, saubere weiße Materialien, Glas und Stahl, zyanfarbener Himmel, Architekturfotografie, Lumion-Rendering, Weitwinkel, hohe Belichtung, Gefühl für Maßstab
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310157_1r04t1_G8afIPdXkAEOlEg.jpg" width="600" alt="Futuristische architektonische Wahrzeichen basierend auf Kalkül-Symbolen - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117310750_xkgaja_G8afD-cXEAAIRbU.jpg" width="600" alt="Futuristische architektonische Wahrzeichen basierend auf Kalkül-Symbolen - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Gadgetify](https://x.com/Gdgtify)
-- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2001507463841947706)
-- **Veröffentlicht:** 18. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Ein%202x2-Raster%20aus%204%20futuristischen%20architektonischen%20Wahrzeichen%2C%20basierend%20auf%20wichtigen%20Kalk%C3%BClsymbolen%2C%20angesiedelt%20in%20einer%20utopischen%20Solarpunk-Stadt%2C%20helles%20Mittagslicht%2C%20saubere%20wei%C3%9Fe%20Materialien%2C%20Glas%20und%20Stahl%2C%20zyanfarbener%20Himmel%2C%20Architekturfotografie%2C%20Lumion-Rendering%2C%20Weitwinkel%2C%20hohe%20Belichtung%2C%20Gef%C3%BChl%20f%C3%BCr%20Ma%C3%9Fstab)**
-
----
-
-### No. 62: Futuristisches Mode-Editorial mit Identitätserhaltung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein hochstrukturierter JSON-Prompt zur Generierung eines fotorealistischen, futuristischen Mode-Editorial-Bildes. Er schreibt eine strikte Identitätserhaltung vor, indem er das exakte Gesicht und den Ausdruck eines hochgeladenen Fotos verwendet, während das Motiv in spezifischer Oversize-Kleidung in einem minimalistischen himmelblauen Studio gestylt wird.
-
-#### 📝 Prompt
-
-```
-{
-  "type": "image_generation_prompt",
-  "style": "Fashion-Editorial x futuristisch",
-  "identity_preservation": {
-    "use_uploaded_image": true,
-    "alter_face": false,
-    "notes": "Verwende dasselbe Gesicht und dieselbe Frisur vom hochgeladenen Foto. Gesichtsmerkmale oder Mimik nicht verändern."
-  },
-  "subject": {
-    "gender": "weiblich",
-    "pose": {
-      "position": "sitzend",
-      "posture": "elegant und entspannt",
-      "expression": "unverändert gegenüber dem Referenzbild"
-    }
-  },
-  "wardrobe": {
-    "top": "übergroßes weißes Sweatshirt",
-    "bottoms": "wolkig-blaue, übergroße Combat-Jeans",
-    "footwear": "wolkig-blaue, neutrale Sneaker oder Nike-Sneaker",
-    "socks": "weiße Rippsocken"
-  },
-  "environment": {
-    "setting": "Studio",
-    "background": {
-      "color": "gedämpfter himmelblauer Ton",
-      "style": "klar, minimalistisch"
-    }
-  },
-  "lighting": {
-    "type": "sanfter, filmischer Glanz",
-    "effects": [
-      "betont die Hauttextur",
-      "verbessert die Stofftexturen"
-    ]
-  },
-  "composition": {
-    "style": "Editorial",
-    "focus": "modellzentriert mit ausgewogener Rahmung"
-  },
-  "quality": {
-    "realism": "fotorealistisch",
-    "detail_level": "hoher Detailgrad bei Haut und Stoff"
-  },
-  "output_goal": "Erstelle ein futuristisches Fashion-Editorial-Bild einer sitzenden Frau in entspannter Haltung in einer himmelblauen Studio-Umgebung, wobei ihre exakte Gesichtsidentität und Mimik vom Referenzfoto beibehalten werden."
-}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320302_adplu7_G8bC7PiagAAgQag.jpg" width="600" alt="Futuristisches Mode-Editorial mit Identitätserhaltung - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766117320619_exsmg6_G8bC7OYa4AAJUpd.jpg" width="600" alt="Futuristisches Mode-Editorial mit Identitätserhaltung - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **Quelle:** [Twitter Post](https://x.com/saniaspeaks_/status/2001501423759196203)
-- **Veröffentlicht:** 18. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_generation_prompt%22%2C%0A%20%20%22style%22%3A%20%22Fashion-Editorial%20x%20futuristisch%22%2C%0A%20%20%22identity_preservation%22%3A%20%7B%0A%20%20%20%20%22use_uploaded_image%22%3A%20true%2C%0A%20%20%20%20%22alter_face%22%3A%20false%2C%0A%20%20%20%20%22notes%22%3A%20%22Verwende%20dasselbe%20Gesicht%20und%20dieselbe%20Frisur%20vom%20hochgeladenen%20Foto.%20Gesichtsmerkmale%20oder%20Mimik%20nicht%20ver%C3%A4ndern.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22weiblich%22%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22sitzend%22%2C%0A%20%20%20%20%20%20%22posture%22%3A%20%22elegant%20und%20entspannt%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22unver%C3%A4ndert%20gegen%C3%BCber%20dem%20Referenzbild%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22%C3%BCbergro%C3%9Fes%20wei%C3%9Fes%20Sweatshirt%22%2C%0A%20%20%20%20%22bottoms%22%3A%20%22wolkig-blaue%2C%20%C3%BCbergro%C3%9Fe%20Combat-Jeans%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22wolkig-blaue%2C%20neutrale%20Sneaker%20oder%20Nike-Sneaker%22%2C%0A%20%20%20%20%22socks%22%3A%20%22wei%C3%9Fe%20Rippsocken%22%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22Studio%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22ged%C3%A4mpfter%20himmelblauer%20Ton%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22klar%2C%20minimalistisch%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22sanfter%2C%20filmischer%20Glanz%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22betont%20die%20Hauttextur%22%2C%0A%20%20%20%20%20%20%22verbessert%20die%20Stofftexturen%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22Editorial%22%2C%0A%20%20%20%20%22focus%22%3A%20%22modellzentriert%20mit%20ausgewogener%20Rahmung%22%0A%20%20%7D%2C%0A%20%20%22quality%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22fotorealistisch%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22hoher%20Detailgrad%20bei%20Haut%20und%20Stoff%22%0A%20%20%7D%2C%0A%20%20%22output_goal%22%3A%20%22Erstelle%20ein%20futuristisches%20Fashion-Editorial-Bild%20einer%20sitzenden%20Frau%20in%20entspannter%20Haltung%20in%20einer%20himmelblauen%20Studio-Umgebung%2C%20wobei%20ihre%20exakte%20Gesichtsidentit%C3%A4t%20und%20Mimik%20vom%20Referenzfoto%20beibehalten%20werden.%22%0A%7D)**
-
----
-
-### No. 63: Technischer Prompt für 3x2 Roboter-Charaktermatrix
+### No. 60: Technischer Prompt für 3x2 Roboter-Charaktermatrix
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3025,7 +2863,7 @@ Erstellen Sie eine 3x2-Matrix eines Robotercharakters. Zeigen Sie in jeder Matri
 
 ---
 
-### No. 64: Ultrarealistisches redaktionelles Porträt basierend auf einem Referenzbild
+### No. 61: Ultrarealistisches redaktionelles Porträt basierend auf einem Referenzbild
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3059,7 +2897,7 @@ Zeitlose, zurückhaltende, klassische Sabyasachi-Ästhetik. Kein modernes Stylin
 
 ---
 
-### No. 65: Herausfordernde Aufforderung zur emotionalen Vermittlung
+### No. 62: Herausfordernde Aufforderung zur emotionalen Vermittlung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3104,7 +2942,7 @@ Ein Prompt, der die Fähigkeit der KI testen soll, komplexe, widersprüchliche E
 
 ---
 
-### No. 66: ChatGPT Anime-Charakter-Generierung
+### No. 63: ChatGPT Anime-Charakter-Generierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3143,7 +2981,7 @@ Verwandle sie in einen Anime-Charakter
 
 ---
 
-### No. 67: Javanisches Schlachtfeld aus dem 12. Jahrhundert in der Morgendämmerung
+### No. 64: Javanisches Schlachtfeld aus dem 12. Jahrhundert in der Morgendämmerung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3176,7 +3014,7 @@ Ein Schlachtfeld in der Morgendämmerung im Java des 12. Jahrhunderts, dargestel
 
 ---
 
-### No. 68: Mädchen auf dem Dach blickt in den Himmel
+### No. 65: Mädchen auf dem Dach blickt in den Himmel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3209,7 +3047,7 @@ Stellen Sie die Sehnsucht und das Gefühl der Befreiung eines Mädchens dar, das
 
 ---
 
-### No. 69: Max und ein Karibu-Freund
+### No. 66: Max und ein Karibu-Freund
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3242,7 +3080,7 @@ Gib Max einen niedlichen Karibu-Freund
 
 ---
 
-### No. 70: FCG-Methoden-Prompt: Zeitraffer-Geschichte
+### No. 67: FCG-Methoden-Prompt: Zeitraffer-Geschichte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3275,7 +3113,7 @@ Erstelle eine Reihe von Bildern, die zeigen, was nach 5 Minuten, 10 Minuten, 1 S
 
 ---
 
-### No. 71: Bilderzeugung für „Tagesseite“
+### No. 68: Bilderzeugung für „Tagesseite“
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3308,7 +3146,7 @@ eine Website mit dem Bild des Tages
 
 ---
 
-### No. 72: K-Pop-Star Bildgenerierungs-Prompt
+### No. 69: K-Pop-Star Bildgenerierungs-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3341,7 +3179,7 @@ Wie würde ich als K-Pop-Star aussehen?
 
 ---
 
-### No. 73: KI-Kunst-Collage-Prompt für Bildungszwecke
+### No. 70: KI-Kunst-Collage-Prompt für Bildungszwecke
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3374,7 +3212,7 @@ Das Subjekt wird zum zehnten Teil, das in der Mitte gestapelt ist.
 
 ---
 
-### No. 74: Unheimlicher Flur mit Schattenkreatur-Prompt
+### No. 71: Unheimlicher Flur mit Schattenkreatur-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3407,7 +3245,7 @@ Ein schwach beleuchteter, leerer Flur, gesäumt von antiken Porträts, deren Aug
 
 ---
 
-### No. 75: Realistischer Hai, der Klavier spielt – Benchmark-Prompt
+### No. 72: Realistischer Hai, der Klavier spielt – Benchmark-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3440,7 +3278,7 @@ Ein realistischer Hai, der Klavier spielt 🦈
 
 ---
 
-### No. 76: Porträt: Silhouette im starken Licht
+### No. 73: Porträt: Silhouette im starken Licht
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3473,7 +3311,7 @@ Verloren im Glanz bleibt nur meine Silhouette.
 
 ---
 
-### No. 77: Unheimlicher Flur mit Schattenkreatur-Prompt
+### No. 74: Unheimlicher Flur mit Schattenkreatur-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3524,7 +3362,7 @@ Ein schwach beleuchteter, leerer Flur, gesäumt von antiken Porträts, deren Aug
 
 ---
 
-### No. 78: Stereotypisches Arzt-Kopfschuss-Prompt
+### No. 75: Stereotypisches Arzt-Kopfschuss-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3557,7 +3395,7 @@ Ein Prompt, der in einer Studie (auf die im Tweet verwiesen wird) verwendet wurd
 
 ---
 
-### No. 79: Archivsimulation zum architektonischen Design der Qing-Dynastie
+### No. 76: Archivsimulation zum architektonischen Design der Qing-Dynastie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3597,7 +3435,7 @@ Ein hochpräzises Archivbild antiker chinesischer Architektur im „Yangshi Lei�
 
 ---
 
-### No. 80: GPT-5.2 Bildanalyse-Prompt
+### No. 77: GPT-5.2 Bildanalyse-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3649,7 +3487,7 @@ Von vorne, von hinten, von links, von rechts, von oben, von unten, von schräg o
 
 ---
 
-### No. 81: Bildbearbeitungsanweisungen für Schmuck und Kleidung
+### No. 78: Bildbearbeitungsanweisungen für Schmuck und Kleidung
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3690,7 +3528,7 @@ Das Handgelenk sieht kalt aus, den Ärmel schön verlängern.
 
 ---
 
-### No. 82: Ultra-realistischer Editorial-Prompt für eine unbeabsichtigte Sturzpose
+### No. 79: Ultra-realistischer Editorial-Prompt für eine unbeabsichtigte Sturzpose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3811,7 +3649,7 @@ Ein hochstrukturierter JSON-Prompt für GPT Image 1.5 zur Generierung eines ultr
 
 ---
 
-### No. 83: Hund auf Skateboard Original iPhone Foto Prompt
+### No. 80: Hund auf Skateboard Original iPhone Foto Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3850,7 +3688,7 @@ Foto eines Hundes auf einem Skateboard, aufgenommen mit dem originalen iPhone.
 
 ---
 
-### No. 84: Pop-Art Comic-Buch-Porträt der 1960er Jahre
+### No. 81: Pop-Art Comic-Buch-Porträt der 1960er Jahre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3883,7 +3721,7 @@ Ein Porträt der Person im Pop-Art-Stil eines Comicbuchs der 1960er Jahre, illus
 
 ---
 
-### No. 85: 5G Smartphone Infografik Prompt
+### No. 82: 5G Smartphone Infografik Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3922,7 +3760,7 @@ Erstellen Sie eine Infografik, die die wichtigen internen und externen Komponent
 
 ---
 
-### No. 86: Eine satirische Karikatur im Stil von Hua Junwu erstellen
+### No. 83: Eine satirische Karikatur im Stil von Hua Junwu erstellen
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3970,7 +3808,7 @@ Zeichne die folgende satirische Karikatur im Stil von {argument name="artist sty
 
 ---
 
-### No. 87: Prompts zur fotorealistischen Bilderzeugung
+### No. 84: Prompts zur fotorealistischen Bilderzeugung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4024,7 +3862,7 @@ Vier Beispiel-Prompts, die die Fähigkeiten von GPT Image 1.5 demonstrieren. Der
 
 ---
 
-### No. 88: Detaillierte Anzeigengenerierung
+### No. 85: Detaillierte Anzeigengenerierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4057,7 +3895,7 @@ Erstellen Sie eine detaillierte Anzeige für ihr Weihnachtsoutfit.
 
 ---
 
-### No. 89: Generieren Sie eine Live-Action-Besetzung eines Animes
+### No. 86: Generieren Sie eine Live-Action-Besetzung eines Animes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4103,7 +3941,7 @@ Nenne mir die Realfilm-Besetzung von {argument name="anime title" default="[anim
 
 ---
 
-### No. 90: Generierung eines filmischen Kontaktbogens aus einem Referenzbild-Prompt
+### No. 87: Generierung eines filmischen Kontaktbogens aus einem Referenzbild-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4136,7 +3974,7 @@ Studieren Sie das hochgeladene Bild sorgfältig und verinnerlichen Sie die Szene
 
 ---
 
-### No. 91: Prompt zur Bilderzeugung mit mittlerer Auflösung
+### No. 88: Prompt zur Bilderzeugung mit mittlerer Auflösung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4169,7 +4007,7 @@ Ein hochdetailliertes, filmisches Foto eines einsamen, alten Samurai, der auf ei
 
 ---
 
-### No. 92: Testen der Stilbeibehaltung und -modifikation in GPT Image 1.5
+### No. 89: Testen der Stilbeibehaltung und -modifikation in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4222,7 +4060,7 @@ Wechseln Sie zu einem Headset und formen Sie mit beiden Händen ein Herz, wobei 
 
 ---
 
-### No. 93: Historischer Realismus-Prompt für ein Foto der Berliner Mauer
+### No. 90: Historischer Realismus-Prompt für ein Foto der Berliner Mauer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4261,7 +4099,7 @@ Realistisches iPhone-Foto, aufgenommen am 9. November 1989 um 52°31′12″N 13
 
 ---
 
-### No. 94: Oreo-Werbung mit dem Weihnachtsmann
+### No. 91: Oreo-Werbung mit dem Weihnachtsmann
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4300,7 +4138,7 @@ Erstelle eine 9:16 Oreo-Werbung mit dem Weihnachtsmann.
 
 ---
 
-### No. 95: City Poster Prompt, getestet mit GPT-1.5
+### No. 92: City Poster Prompt, getestet mit GPT-1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4334,7 +4172,7 @@ Ein lebendiges, retro-futuristisches Reiseposter für die Stadt {argument name="
 
 ---
 
-### No. 96: Bildbearbeitungs-Prompt: Kreaturen zum Hintergrund hinzufügen
+### No. 93: Bildbearbeitungs-Prompt: Kreaturen zum Hintergrund hinzufügen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4368,7 +4206,7 @@ Verwende das erste Bild und dessen Stil und Größe, um die Kreatur aus dem zwei
 
 ---
 
-### No. 97: Charakterbogen-Generierungs-Prompt (GPT und Nano Banana)
+### No. 94: Charakterbogen-Generierungs-Prompt (GPT und Nano Banana)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4407,7 +4245,7 @@ im gleichen Stil wie das Bild, erstelle einen Charakterbogen, der in 5 separate 
 
 ---
 
-### No. 98: Bild in Nachtszene mit warmen Lichtern umwandeln
+### No. 95: Bild in Nachtszene mit warmen Lichtern umwandeln
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4446,7 +4284,7 @@ In eine Nachtszene mit warmen Lichtern umwandeln.
 
 ---
 
-### No. 99: Hyperrealistisches Foto einer Hand mit Diamantarmbändern
+### No. 96: Hyperrealistisches Foto einer Hand mit Diamantarmbändern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4485,7 +4323,7 @@ Ein hyperrealistisches Foto einer Frauenhand, die von oben bis unten im Bild vol
 
 ---
 
-### No. 100: JS Engineer Coding-Szene mit spezifischem Text
+### No. 97: JS Engineer Coding-Szene mit spezifischem Text
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4519,7 +4357,7 @@ Erstellen Sie ein Bild von einem JS-Ingenieur, der sich mit KI beschäftigt und 
 
 ---
 
-### No. 101: Glitzer-Bomben-Pro-Wrestling-Idol-Neubesetzungs-Prompt
+### No. 98: Glitzer-Bomben-Pro-Wrestling-Idol-Neubesetzungs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4559,7 +4397,7 @@ Unter Verwendung von [subject image] als Referenz, verwandle sie in ein Glitter-
 
 ---
 
-### No. 102: Kleidungs-Transfer-Prompt für die Charaktergenerierung
+### No. 99: Kleidungs-Transfer-Prompt für die Charaktergenerierung
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4604,7 +4442,7 @@ Die Frau im ersten Bild sollte alle Elemente aus dem zweiten Bild tragen oder an
 
 ---
 
-### No. 103: Verbesserung der asymmetrischen Elementidentifikation in GPT Image 1.5
+### No. 100: Verbesserung der asymmetrischen Elementidentifikation in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4637,7 +4475,7 @@ Bitte achten Sie darauf, Elemente, die auf der linken und rechten Seite stark as
 
 ---
 
-### No. 104: Fotorealistischer Stockfoto-Prompt einer Frau
+### No. 101: Fotorealistischer Stockfoto-Prompt einer Frau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4671,7 +4509,7 @@ Vorderansicht einer niedlichen Frau mit {argument name="hair color" default="sch
 
 ---
 
-### No. 105: Kolossaler Mann sitzt auf Londoner Straße – Prompt
+### No. 102: Kolossaler Mann sitzt auf Londoner Straße – Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4710,7 +4548,7 @@ Ultraphotorealistische Weitwinkel-Drohnenaufnahme eines kolossalen Mannes, desse
 
 ---
 
-### No. 106: Grafik in transparentes Aquarellbild umwandeln
+### No. 103: Grafik in transparentes Aquarellbild umwandeln
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4743,7 +4581,7 @@ Verwandeln Sie es in ein transparentes Aquarellgemälde, gezeichnet in einem Ski
 
 ---
 
-### No. 107: Cyborg- und Meerjungfrauen-Schüler-Begegnungs-Prompt
+### No. 104: Cyborg- und Meerjungfrauen-Schüler-Begegnungs-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4782,7 +4620,7 @@ Die Begegnung zwischen einem Gakuran-Cyborg-Jungen und einem Gakuran-Meerjungfra
 
 ---
 
-### No. 108: Grafik in Bleistiftskizze umwandeln
+### No. 105: Grafik in Bleistiftskizze umwandeln
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4821,7 +4659,7 @@ Bitte wandeln Sie es in einen sorgfältig gezeichneten Bleistiftentwurf um.
 
 ---
 
-### No. 109: Detaillierte Küstenlandschaft aus der Luft
+### No. 106: Detaillierte Küstenlandschaft aus der Luft
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4854,7 +4692,7 @@ Luftaufnahmen einer Drohne, entlang der Küste, steile Klippen, fliegende Möwen
 
 ---
 
-### No. 110: Testen der partiellen Bildkorrektur und Posenmodifikation in GPT-Image-1.5
+### No. 107: Testen der partiellen Bildkorrektur und Posenmodifikation in GPT-Image-1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4908,7 +4746,7 @@ Der Benutzer versucht, ein generiertes Bild zu modifizieren, indem er das Ausseh
 
 ---
 
-### No. 111: Testen der strikten Prompt-Adhärenz in GPT Image 1.5 vs. Gemini
+### No. 108: Testen der strikten Prompt-Adhärenz in GPT Image 1.5 vs. Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4965,7 +4803,7 @@ Texthandhabung / Infografik-Hierarchie
 
 ---
 
-### No. 112: Trollhorden-Angriffs-Visualisierungs-Prompt (Japanisch)
+### No. 109: Trollhorden-Angriffs-Visualisierungs-Prompt (Japanisch)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4998,7 +4836,7 @@ Stellen Sie sich eine Welt vor, die von einer Horde Trolle als Gattungsbegriff a
 
 ---
 
-### No. 113: Realistischer Platybelodon-Generierungs-Prompt
+### No. 110: Realistischer Platybelodon-Generierungs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5031,7 +4869,7 @@ Erzeugen Sie ein realistisches Foto eines Platybelodon, treffen Sie alle notwend
 
 ---
 
-### No. 114: Redaktionelles Porträt: Robuste Heritage Wear
+### No. 111: Redaktionelles Porträt: Robuste Heritage Wear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5070,7 +4908,7 @@ Aufgenommen mit einer Mittelformat-Hasselblad 500CM und Kodak Portra 400 Film, w
 
 ---
 
-### No. 115: Detaillierter Falknerei-Porträt-Prompt für GPT Image 1.5
+### No. 112: Detaillierter Falknerei-Porträt-Prompt für GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5139,7 +4977,7 @@ Ein hochstrukturierter und detaillierter Prompt, der für GPT Image 1.5 entwicke
 
 ---
 
-### No. 116: Mode- und Ästhetik-Bilderzeugung mit GPT Image 1.5
+### No. 113: Mode- und Ästhetik-Bilderzeugung mit GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5173,7 +5011,7 @@ Ein Mann in einem weißen Hemd, einer schwarzen Anzughose und schwarzen Ledersch
 
 ---
 
-### No. 117: Bilder für japanische Gedenktage generieren
+### No. 114: Bilder für japanische Gedenktage generieren
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5206,7 +5044,7 @@ Tag des Flugzeugs, Meiji Bulgaria Joghurt-Tag, Wachifield-Tag, Kasuga Wakamiya O
 
 ---
 
-### No. 118: Bildbearbeitungs-Prompt für Kieferpartie, Brille und Kopfform
+### No. 115: Bildbearbeitungs-Prompt für Kieferpartie, Brille und Kopfform
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5251,7 +5089,7 @@ was ich mit der roten Linie markiert habe: Kieferpartie so gestalten, Brille hin
 
 ---
 
-### No. 119: Detaillierter Prompt zur Restaurierung alter Fotos mit GPT Image 1.5
+### No. 116: Detaillierter Prompt zur Restaurierung alter Fotos mit GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5371,7 +5209,7 @@ Ein hochdetaillierter, strukturierter JSON-Prompt, der für die Porträtwiederhe
 
 ---
 
-### No. 120: Poster-Prompt für Fotobeleuchtungs-Setups
+### No. 117: Poster-Prompt für Fotobeleuchtungs-Setups
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5404,13 +5242,130 @@ Erstellen Sie ein Poster mit den wichtigsten Beleuchtungs-Setups, die in der Fot
 
 ---
 
+### No. 118: Isometrische Miniatur-3D-Cartoon-Szene von New York
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein komplexer Bild-Prompt, der eine 45-Grad-Top-Down-isometrische Miniatur-3D-Cartoon-Szene von New York City erzeugen soll, die spezifische Wetterbedingungen (Klar, -2°C) und die Tageszeit (Tiefe Nacht, 3:45 Uhr) integriert, um eine immersive atmosphärische Stimmung zu schaffen.
+
+#### 📝 Prompt
+
+```
+Präsentieren Sie eine isometrische Miniatur-3D-Cartoon-Szene von New York, USA, aus einem 45°-Blickwinkel von oben... Integrieren Sie diese Wetterbedingungen: Klar (wolkenloser Himmel), -2°C, und diese spezifische Tageszeit: Tiefe Nacht (3:45 Uhr) direkt in die Stadtumgebung, um eine immersive atmosphärische Stimmung zu erzeugen.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035311845_f2cipw_G8W9wiPXgAAd6-8.jpg" width="600" alt="Isometrische Miniatur-3D-Cartoon-Szene von New York - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035312192_plxw3z_G8W9qt7WwAIZ-as.jpg" width="600" alt="Isometrische Miniatur-3D-Cartoon-Szene von New York - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Adrien Dulong](https://x.com/adulong)
+- **Quelle:** [Twitter Post](https://x.com/adulong/status/2001214671701807569)
+- **Veröffentlicht:** 17. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Pr%C3%A4sentieren%20Sie%20eine%20isometrische%20Miniatur-3D-Cartoon-Szene%20von%20New%20York%2C%20USA%2C%20aus%20einem%2045%C2%B0-Blickwinkel%20von%20oben...%20Integrieren%20Sie%20diese%20Wetterbedingungen%3A%20Klar%20(wolkenloser%20Himmel)%2C%20-2%C2%B0C%2C%20und%20diese%20spezifische%20Tageszeit%3A%20Tiefe%20Nacht%20(3%3A45%20Uhr)%20direkt%20in%20die%20Stadtumgebung%2C%20um%20eine%20immersive%20atmosph%C3%A4rische%20Stimmung%20zu%20erzeugen.)**
+
+---
+
+### No. 119: Yoruba-Mann mit „Pele“-Stammesnarben Stresstest-Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein hochspezifischer Prompt, der als Stresstest für KI-Bildmodelle konzipiert wurde und ein hyperrealistisches Porträt eines Oyo-Yoruba-Mannes mit „Pele“-Stammesnarben (drei deutliche vertikale Narben auf jeder Wange) erfordert. Er betont die Notwendigkeit einer klaren Darstellung verheilter Keloide und verbietet ausdrücklich horizontale Narben, um das Wissen des Modells über spezifische kulturelle und geometrische Gesichtsnarben zu testen.
+
+#### 📝 Prompt
+
+```
+Hyperrealistisches Porträt eines Oyo-Yoruba-Mannes mit „Pele“-Stammesnarben (drei deutliche vertikale Narben auf jeder Wange). Die Hauttextur sollte die verheilten Keloidnarben deutlich zeigen. Keine horizontalen Narben.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035350874_d1ht4m_G8W9iX9WUAk5dmL.jpg" width="600" alt="Yoruba-Mann mit „Pele“-Stammesnarben Stresstest-Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035350878_hbosjv_G8W9t1gXoAYDQ3N.jpg" width="600" alt="Yoruba-Mann mit „Pele“-Stammesnarben Stresstest-Prompt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [M!ke](https://x.com/quipsy)
+- **Quelle:** [Twitter Post](https://x.com/quipsy/status/2001214614302851205)
+- **Veröffentlicht:** 17. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Hyperrealistisches%20Portr%C3%A4t%20eines%20Oyo-Yoruba-Mannes%20mit%20%E2%80%9EPele%E2%80%9C-Stammesnarben%20(drei%20deutliche%20vertikale%20Narben%20auf%20jeder%20Wange).%20Die%20Hauttextur%20sollte%20die%20verheilten%20Keloidnarben%20deutlich%20zeigen.%20Keine%20horizontalen%20Narben.)**
+
+---
+
+### No. 120: Bildbearbeitungs-Prompt für die Anpassung von Händen und Füßen
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Beschreibung
+
+Ein Prompt, der für die konversationelle Bildbearbeitung in GPT Image 1.5 verwendet wird und das Modell anweist, bestimmte Körperteile in einem bestehenden Bild zu verfeinern. Der Benutzer bittet um Korrektur der linken Hand und eine stilvollere Positionierung des linken Fußes.
+
+#### 📝 Prompt
+
+```
+Bitte korrigieren Sie die linke Hand und zeichnen Sie den linken Fuß neu, indem Sie ihn in eine etwas stilvollere Position bringen.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035420433_jlboy9_G8W71IhbMAAtnDe.jpg" width="600" alt="Bildbearbeitungs-Prompt für die Anpassung von Händen und Füßen - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766035420355_ywq0sc_G8W71_Rb0AAn5h5.jpg" width="600" alt="Bildbearbeitungs-Prompt für die Anpassung von Händen und Füßen - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [hayabunbun](https://x.com/hayabunbun_1)
+- **Quelle:** [Twitter Post](https://x.com/hayabunbun_1/status/2001213261572923651)
+- **Veröffentlicht:** 17. Dezember 2025
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-1-5?prompt=Bitte%20korrigieren%20Sie%20die%20linke%20Hand%20und%20zeichnen%20Sie%20den%20linken%20Fu%C3%9F%20neu%2C%20indem%20Sie%20ihn%20in%20eine%20etwas%20stilvollere%20Position%20bringen.)**
+
+---
+
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 122 weitere Prompts hier nicht angezeigt
+### 🎯 119 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5473,6 +5428,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-20T12:16:49.405Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-20T16:11:15.417Z</sub>
 
 </div>
