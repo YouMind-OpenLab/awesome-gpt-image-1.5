@@ -86,9 +86,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **242** |
+| 📝 Totale prompt | **261** |
 | ⭐ In evidenza | **3** |
-| 🔄 Ultimo aggiornamento | **lunedì 22 dicembre 2025 alle ore 04:32:03 UTC** |
+| 🔄 Ultimo aggiornamento | **lunedì 22 dicembre 2025 alle ore 08:16:42 UTC** |
 
 </div>
 
@@ -216,7 +216,881 @@ Illustrazione vettoriale piatta di una donna bionda seduta a una scrivania che l
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### No. 1: Prompt per ritratto selfie strutturato
+### No. 1: Generazione di ghirlande natalizie
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descrizione
+
+Un semplice prompt utilizzato per generare l'immagine di una ghirlanda natalizia adatta per essere appesa a una porta d'ingresso, mostrando una richiesta di generazione di immagini di base.
+
+#### 📝 Prompt
+
+```
+Una corona di Natale come questa era esposta all'ingresso.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388937874_eg2zj4_G8plYZsbwAAHbbV.jpg" width="600" alt="Generazione di ghirlande natalizie - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [カーブミラー](https://x.com/kabumira862571)
+- **Fonte:** [Twitter Post](https://x.com/kabumira862571/status/2002524462739276233)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** ja
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Una%20corona%20di%20Natale%20come%20questa%20era%20esposta%20all'ingresso.)**
+
+---
+
+### No. 2: Ritratto fotorealistico a figura intera di donna in ambiente urbano
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt JSON altamente dettagliato e strutturato per un ritratto fotorealistico a figura intera di una giovane donna mozzafiato che indossa un abito a T-shirt oversize e stivali neri con lacci e plateau alto, ambientato in un interno industriale minimalista in cemento con luce naturale soffusa.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "Ritratto fotorealistico a figura intera di una splendida giovane donna con pelle olivastra baciata dal sole, lunghi capelli mossi castano scuro che le ricadono sulle spalle, grandi occhi scuri espressivi con eyeliner alato audace, ciglia lunghe e labbra lucide rosa nude intenso in un broncio sicuro e leggermente socchiuso. Indossa una delicata collana d'oro con un piccolo ciondolo che le poggia nel profondo décolleté. Indossa un vestito a T-shirt oversize marrone dalla vestibilità ampia con maniche corte, l'orlo che termina in alto sulle cosce per rivelare le sue gambe toniche, il tessuto che si drappeggia morbidamente sulle sue curve. È a piedi nudi con dita dei piedi perfettamente curate. Posa: seduta su una panca di legno in un ambiente industriale urbano, gambe elegantemente incrociate, un braccio appoggiato sullo schienale della panca, l'altro rilassato al suo fianco, testa leggermente inclinata con uno sguardo seducente direttamente verso la fotocamera. Indossa stivali alti neri con lacci e plateau, con punta aperta e cinturini multipli che le avvolgono le caviglie e i polpacci. Sfondo: interno minimalista in cemento con grandi finestre che lasciano entrare una morbida luce naturale, creando caldi riflessi dorati e sottili ombre sulla sua pelle e sul tessuto testurizzato del suo vestito. Texture della pelle ultra-dettagliata con bagliore realistico baciato dal sole, dettagli intricati degli stivali con lacci, messa a fuoco nitida sul soggetto, profondità di campo cinematografica con sfocatura delicata dello sfondo, alta gamma dinamica, risoluzione 8K, fotorealismo, qualità da capolavoro."
+}
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388936092_r6iycc_G8pJapQWEAA8uQf.jpg" width="600" alt="Ritratto fotorealistico a figura intera di donna in ambiente urbano - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [KeorUnreal](https://x.com/KeorUnreal)
+- **Fonte:** [Twitter Post](https://x.com/KeorUnreal/status/2002493715429175745)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%7B%0A%20%20%22prompt%22%3A%20%22Ritratto%20fotorealistico%20a%20figura%20intera%20di%20una%20splendida%20giovane%20donna%20con%20pelle%20olivastra%20baciata%20dal%20sole%2C%20lunghi%20capelli%20mossi%20castano%20scuro%20che%20le%20ricadono%20sulle%20spalle%2C%20grandi%20occhi%20scuri%20espressivi%20con%20eyeliner%20alato%20audace%2C%20ciglia%20lunghe%20e%20labbra%20lucide%20rosa%20nude%20intenso%20in%20un%20broncio%20sicuro%20e%20leggermente%20socchiuso.%20Indossa%20una%20delicata%20collana%20d'oro%20con%20un%20piccolo%20ciondolo%20che%20le%20poggia%20nel%20profondo%20d%C3%A9collet%C3%A9.%20Indossa%20un%20vestito%20a%20T-shirt%20oversize%20marrone%20dalla%20vestibilit%C3%A0%20ampia%20con%20maniche%20corte%2C%20l'orlo%20che%20termina%20in%20alto%20sulle%20cosce%20per%20rivelare%20le%20sue%20gambe%20toniche%2C%20il%20tessuto%20che%20si%20drappeggia%20morbidamente%20sulle%20sue%20curve.%20%C3%88%20a%20piedi%20nudi%20con%20dita%20dei%20piedi%20perfettamente%20curate.%20Posa%3A%20seduta%20su%20una%20panca%20di%20legno%20in%20un%20ambiente%20industriale%20urbano%2C%20gambe%20elegantemente%20incrociate%2C%20un%20braccio%20appoggiato%20sullo%20schienale%20della%20panca%2C%20l'altro%20rilassato%20al%20suo%20fianco%2C%20testa%20leggermente%20inclinata%20con%20uno%20sguardo%20seducente%20direttamente%20verso%20la%20fotocamera.%20Indossa%20stivali%20alti%20neri%20con%20lacci%20e%20plateau%2C%20con%20punta%20aperta%20e%20cinturini%20multipli%20che%20le%20avvolgono%20le%20caviglie%20e%20i%20polpacci.%20Sfondo%3A%20interno%20minimalista%20in%20cemento%20con%20grandi%20finestre%20che%20lasciano%20entrare%20una%20morbida%20luce%20naturale%2C%20creando%20caldi%20riflessi%20dorati%20e%20sottili%20ombre%20sulla%20sua%20pelle%20e%20sul%20tessuto%20testurizzato%20del%20suo%20vestito.%20Texture%20della%20pelle%20ultra-dettagliata%20con%20bagliore%20realistico%20baciato%20dal%20sole%2C%20dettagli%20intricati%20degli%20stivali%20con%20lacci%2C%20messa%20a%20fuoco%20nitida%20sul%20soggetto%2C%20profondit%C3%A0%20di%20campo%20cinematografica%20con%20sfocatura%20delicata%20dello%20sfondo%2C%20alta%20gamma%20dinamica%2C%20risoluzione%208K%2C%20fotorealismo%2C%20qualit%C3%A0%20da%20capolavoro.%22%0A%7D)**
+
+---
+
+### No. 3: Selfie notturno cinematografico ultra-realistico in strada durante una fuga ad alta velocità
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt estremamente dettagliato e strutturato per un selfie cinematografico ultra-realistico. Specifica elementi complessi come la posa, dettagliate caratteristiche facciali (preservando l'identità), l'abbigliamento, l'ambiente (città notturna piovosa con un inseguimento della polizia), illuminazione ad alto contrasto e stile della fotocamera, dimostrando la precisione di GPT Image 1.5 nella gestione di dati visivi strutturati.
+
+#### 📝 Prompt
+
+```
+"Selfie notturno cinematografico ultra-realistico in strada, con una persona sicura di sé e alla moda nella foto di riferimento che si sporge dal finestrino di un'auto in una città piovosa durante una fuga ad alta velocità.",
+
+"pose": {
+
+"arm": "esteso verso la fotocamera, tiene il telefono",
+
+"head": "leggermente reclinata all'indietro",
+
+"attitude": "impavida, giocosa"
+
+},
+
+"face_and_skin": {
+
+"identity": "conservata al 100%, nessuna modifica alla struttura facciale, alle proporzioni o ai tratti distintivi",
+
+"skin": "liscia, luminosa con riflessi lucidi delle luci stradali",
+
+"cheekbones": "delicatamente scolpiti",
+
+"lips": "lucidi,",
+
+"eyes": "espressivi, parzialmente nascosti dietro occhiali da sole neri rettangolari stretti",
+
+"texture": "realistica, texture della pelle naturale, pori visibili, riflessi"
+
+},
+
+"hair": {
+
+"style": "lunghi, fluenti, mossi dal vento e dall'aria notturna",
+
+"volume": "naturale"
+
+},
+
+"outfit_and_details": {
+
+"coat": "audace {argument name="coat pattern" default="leopardato"} in pelliccia sintetica drappeggiato lussuosamente sulle spalle",
+
+"manicure": "lucida {argument name="manicure color" default="rossa"}",
+
+"jewelry": "anelli d'argento minimali",
+
+"glass": "elegante bicchiere da Martini con un cocktail trasparente e olive verdi, che cattura riflessi nitidi"
+
+},
+
+"environment": {
+
+"setting": "strada notturna bagnata d'asfalto in città",
+
+"motion": "intenso, ad alta velocità, con un'auto della polizia all'inseguimento",
+
+"lights": {
+
+"headlights": "sfocati, strisce di luce aggressive",
+
+"street_lights": "lampioni stradali al sodio dorati che creano grandi cerchi bokeh drammatici",
+
+"police_lights": "flash di sirene blu e rosse che creano riflessi"
+
+},
+
+"mood": "ribelle, giocoso, caos glamour; energia della vita notturna alimentata dall'adrenalina",
+
+"aesthetic": "stile editoriale di moda a tema crimine"
+
+},
+
+"lighting": {
+
+"contrast": "alto, mix dinamico di calde luci stradali al sodio, fredde luci blu della polizia e flash di sirene rosse",
+
+"reflections": "lucidi su pelle, vetro, carrozzeria dell'auto e strada bagnata dalla pioggia"
+
+},
+
+"camera_and_style": {
+
+"perspective": "selfie grandangolare da smartphone",
+
+"depth_of_field": "ridotta",
+
+"background": "forte sfocatura di movimento con strisce di luce",
+
+"detail": "altissima, grana della pellicola realistica",
+
+"color_grading": "cinematografico",
+
+"vibe": "fuga di lusso moderna"
+
+},
+
+"body": {
+
+": {
+
+"size": "leggermente più grande e allungato"
+
+}
+
+},
+
+"ratio": "9:16"
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388925275_oxc3st_G8ovT3XbMAA2wLh.jpg" width="600" alt="Selfie notturno cinematografico ultra-realistico in strada durante una fuga ad alta velocità - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [K](https://x.com/ChillaiKalan__)
+- **Fonte:** [Twitter Post](https://x.com/ChillaiKalan__/status/2002465016998735930)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%22Selfie%20notturno%20cinematografico%20ultra-realistico%20in%20strada%2C%20con%20una%20persona%20sicura%20di%20s%C3%A9%20e%20alla%20moda%20nella%20foto%20di%20riferimento%20che%20si%20sporge%20dal%20finestrino%20di%20un'auto%20in%20una%20citt%C3%A0%20piovosa%20durante%20una%20fuga%20ad%20alta%20velocit%C3%A0.%22%2C%0A%0A%22pose%22%3A%20%7B%0A%0A%22arm%22%3A%20%22esteso%20verso%20la%20fotocamera%2C%20tiene%20il%20telefono%22%2C%0A%0A%22head%22%3A%20%22leggermente%20reclinata%20all'indietro%22%2C%0A%0A%22attitude%22%3A%20%22impavida%2C%20giocosa%22%0A%0A%7D%2C%0A%0A%22face_and_skin%22%3A%20%7B%0A%0A%22identity%22%3A%20%22conservata%20al%20100%25%2C%20nessuna%20modifica%20alla%20struttura%20facciale%2C%20alle%20proporzioni%20o%20ai%20tratti%20distintivi%22%2C%0A%0A%22skin%22%3A%20%22liscia%2C%20luminosa%20con%20riflessi%20lucidi%20delle%20luci%20stradali%22%2C%0A%0A%22cheekbones%22%3A%20%22delicatamente%20scolpiti%22%2C%0A%0A%22lips%22%3A%20%22lucidi%2C%22%2C%0A%0A%22eyes%22%3A%20%22espressivi%2C%20parzialmente%20nascosti%20dietro%20occhiali%20da%20sole%20neri%20rettangolari%20stretti%22%2C%0A%0A%22texture%22%3A%20%22realistica%2C%20texture%20della%20pelle%20naturale%2C%20pori%20visibili%2C%20riflessi%22%0A%0A%7D%2C%0A%0A%22hair%22%3A%20%7B%0A%0A%22style%22%3A%20%22lunghi%2C%20fluenti%2C%20mossi%20dal%20vento%20e%20dall'aria%20notturna%22%2C%0A%0A%22volume%22%3A%20%22naturale%22%0A%0A%7D%2C%0A%0A%22outfit_and_details%22%3A%20%7B%0A%0A%22coat%22%3A%20%22audace%20%7Bargument%20name%3D%22coat%20pattern%22%20default%3D%22leopardato%22%7D%20in%20pelliccia%20sintetica%20drappeggiato%20lussuosamente%20sulle%20spalle%22%2C%0A%0A%22manicure%22%3A%20%22lucida%20%7Bargument%20name%3D%22manicure%20color%22%20default%3D%22rossa%22%7D%22%2C%0A%0A%22jewelry%22%3A%20%22anelli%20d'argento%20minimali%22%2C%0A%0A%22glass%22%3A%20%22elegante%20bicchiere%20da%20Martini%20con%20un%20cocktail%20trasparente%20e%20olive%20verdi%2C%20che%20cattura%20riflessi%20nitidi%22%0A%0A%7D%2C%0A%0A%22environment%22%3A%20%7B%0A%0A%22setting%22%3A%20%22strada%20notturna%20bagnata%20d'asfalto%20in%20citt%C3%A0%22%2C%0A%0A%22motion%22%3A%20%22intenso%2C%20ad%20alta%20velocit%C3%A0%2C%20con%20un'auto%20della%20polizia%20all'inseguimento%22%2C%0A%0A%22lights%22%3A%20%7B%0A%0A%22headlights%22%3A%20%22sfocati%2C%20strisce%20di%20luce%20aggressive%22%2C%0A%0A%22street_lights%22%3A%20%22lampioni%20stradali%20al%20sodio%20dorati%20che%20creano%20grandi%20cerchi%20bokeh%20drammatici%22%2C%0A%0A%22police_lights%22%3A%20%22flash%20di%20sirene%20blu%20e%20rosse%20che%20creano%20riflessi%22%0A%0A%7D%2C%0A%0A%22mood%22%3A%20%22ribelle%2C%20giocoso%2C%20caos%20glamour%3B%20energia%20della%20vita%20notturna%20alimentata%20dall'adrenalina%22%2C%0A%0A%22aesthetic%22%3A%20%22stile%20editoriale%20di%20moda%20a%20tema%20crimine%22%0A%0A%7D%2C%0A%0A%22lighting%22%3A%20%7B%0A%0A%22contrast%22%3A%20%22alto%2C%20mix%20dinamico%20di%20calde%20luci%20stradali%20al%20sodio%2C%20fredde%20luci%20blu%20della%20polizia%20e%20flash%20di%20sirene%20rosse%22%2C%0A%0A%22reflections%22%3A%20%22lucidi%20su%20pelle%2C%20vetro%2C%20carrozzeria%20dell'auto%20e%20strada%20bagnata%20dalla%20pioggia%22%0A%0A%7D%2C%0A%0A%22camera_and_style%22%3A%20%7B%0A%0A%22perspective%22%3A%20%22selfie%20grandangolare%20da%20smartphone%22%2C%0A%0A%22depth_of_field%22%3A%20%22ridotta%22%2C%0A%0A%22background%22%3A%20%22forte%20sfocatura%20di%20movimento%20con%20strisce%20di%20luce%22%2C%0A%0A%22detail%22%3A%20%22altissima%2C%20grana%20della%20pellicola%20realistica%22%2C%0A%0A%22color_grading%22%3A%20%22cinematografico%22%2C%0A%0A%22vibe%22%3A%20%22fuga%20di%20lusso%20moderna%22%0A%0A%7D%2C%0A%0A%22body%22%3A%20%7B%0A%0A%22%3A%20%7B%0A%0A%22size%22%3A%20%22leggermente%20pi%C3%B9%20grande%20e%20allungato%22%0A%0A%7D%0A%0A%7D%2C%0A%0A%22ratio%22%3A%20%229%3A16%22)**
+
+---
+
+### No. 4: Ricrea lo screenshot come videogioco di nuova generazione
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un semplice prompt utilizzato per trasformare uno screenshot o un'immagine caricata in una scena di videogioco iperrealistica di nuova generazione che assomiglia a un film.
+
+#### 📝 Prompt
+
+```
+Ricrea questo screenshot come un videogioco di nuova generazione, dove i giochi sono diventati così realistici da sembrare film
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388933333_krvqdp_G8otlt0XoAABHUy.jpg" width="600" alt="Ricrea lo screenshot come videogioco di nuova generazione - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [𝓗𝓪𝓵𝓲𝓵 𝓚𝓮𝓶𝓪𝓵 𝓨𝓪𝓿𝓪𝓼𝓬𝓪](https://x.com/Dreammassacre)
+- **Fonte:** [Twitter Post](https://x.com/Dreammassacre/status/2002463116664451089)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Ricrea%20questo%20screenshot%20come%20un%20videogioco%20di%20nuova%20generazione%2C%20dove%20i%20giochi%20sono%20diventati%20cos%C3%AC%20realistici%20da%20sembrare%20film)**
+
+---
+
+### No. 5: Prompt JSON per ricreare i dettagli dell'immagine
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt progettato per generare una descrizione JSON altamente dettagliata di un'immagine, catturando ogni singolo elemento visivo. Questo è utile per creare prompt precisi da testo a immagine o per un'analisi visiva dettagliata.
+
+#### 📝 Prompt
+
+```
+Scrivi un prompt JSON che descriva esattamente ogni singolo dettaglio dell'immagine.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388928169_y9mogo_G8op0BxWQAA85uS.jpg" width="600" alt="Prompt JSON per ricreare i dettagli dell'immagine - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Sura Baghirova](https://x.com/surasb11)
+- **Fonte:** [Twitter Post](https://x.com/surasb11/status/2002458961564639473)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Scrivi%20un%20prompt%20JSON%20che%20descriva%20esattamente%20ogni%20singolo%20dettaglio%20dell'immagine.)**
+
+---
+
+### No. 6: Grok: Immagina un prompt basato su una foto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Questa voce indica che un'immagine specifica è stata creata utilizzando una foto come riferimento, combinata con un prompt di Grok Imagine. Il prompt stesso non è fornito, ma la struttura implica un flusso di lavoro da immagine a immagine o con riferimento visivo.
+
+#### 📝 Prompt
+
+```
+questa foto + prompt di Grok Imagine
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388928667_j37h8l_G8oil4eXoAAzdoU.jpg" width="600" alt="Grok: Immagina un prompt basato su una foto - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Five](https://x.com/Five69)
+- **Fonte:** [Twitter Post](https://x.com/Five69/status/2002451024922231197)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=questa%20foto%20%2B%20prompt%20di%20Grok%20Imagine)**
+
+---
+
+### No. 7: Serie fotografica "Cozy Cinematic Lifestyle" di una donna in una cucina illuminata dal sole
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt dettagliato e strutturato per generare una griglia multi-frame di foto lifestyle cinematografiche. Si concentra su una giovane donna che si gode un tranquillo momento del tè in una cucina calda e illuminata dal sole, enfatizzando angolazioni specifiche della fotocamera (primi piani, inquadrature da dietro la spalla, dall'alto), illuminazione, texture e un'atmosfera pacifica e da rivista. Questo dimostra la capacità di GPT Image 1.5 di gestire istruzioni complesse e multi-scatto.
+
+#### 📝 Prompt
+
+```
+Una serie fotografica in stile cinematografico che ritrae uno stile di vita accogliente, catturata come una griglia multi-fotogramma, che mostra una giovane donna in una cucina calda e illuminata dal sole durante un tranquillo momento del tè. Indossa un morbido vestito senza maniche color {argument name="dress color" default="rosa-cipria"}, seduta a un piccolo tavolo rotondo di legno vicino a una finestra. La luce naturale del mattino si riversa all'interno, creando delicati riflessi e ombre morbide. La sequenza include primi piani di lei che sorseggia il tè da una delicata tazza da tè floreale, inquadrature da dietro le spalle durante una conversazione calma, viste dall'alto del servizio da tè su una tovaglietta intrecciata, profili laterali e sottili espressioni spontanee. Cucina dai toni crema neutri con utensili in rame appesi sullo sfondo. Atmosfera intima e pacifica, profondità di campo ridotta, morbidezza simile a quella di un film, stile narrativo editoriale, texture della pelle realistica, gradazione di colore calda, composizione minimalista, realismo cinematografico ad alto dettaglio.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388925213_1pgmrf_G8oikfuaMAAt6jL.jpg" width="600" alt="Serie fotografica "Cozy Cinematic Lifestyle" di una donna in una cucina illuminata dal sole - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Smiling Khan](https://x.com/AIwithkhan)
+- **Fonte:** [Twitter Post](https://x.com/AIwithkhan/status/2002450998208704590)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Una%20serie%20fotografica%20in%20stile%20cinematografico%20che%20ritrae%20uno%20stile%20di%20vita%20accogliente%2C%20catturata%20come%20una%20griglia%20multi-fotogramma%2C%20che%20mostra%20una%20giovane%20donna%20in%20una%20cucina%20calda%20e%20illuminata%20dal%20sole%20durante%20un%20tranquillo%20momento%20del%20t%C3%A8.%20Indossa%20un%20morbido%20vestito%20senza%20maniche%20color%20%7Bargument%20name%3D%22dress%20color%22%20default%3D%22rosa-cipria%22%7D%2C%20seduta%20a%20un%20piccolo%20tavolo%20rotondo%20di%20legno%20vicino%20a%20una%20finestra.%20La%20luce%20naturale%20del%20mattino%20si%20riversa%20all'interno%2C%20creando%20delicati%20riflessi%20e%20ombre%20morbide.%20La%20sequenza%20include%20primi%20piani%20di%20lei%20che%20sorseggia%20il%20t%C3%A8%20da%20una%20delicata%20tazza%20da%20t%C3%A8%20floreale%2C%20inquadrature%20da%20dietro%20le%20spalle%20durante%20una%20conversazione%20calma%2C%20viste%20dall'alto%20del%20servizio%20da%20t%C3%A8%20su%20una%20tovaglietta%20intrecciata%2C%20profili%20laterali%20e%20sottili%20espressioni%20spontanee.%20Cucina%20dai%20toni%20crema%20neutri%20con%20utensili%20in%20rame%20appesi%20sullo%20sfondo.%20Atmosfera%20intima%20e%20pacifica%2C%20profondit%C3%A0%20di%20campo%20ridotta%2C%20morbidezza%20simile%20a%20quella%20di%20un%20film%2C%20stile%20narrativo%20editoriale%2C%20texture%20della%20pelle%20realistica%2C%20gradazione%20di%20colore%20calda%2C%20composizione%20minimalista%2C%20realismo%20cinematografico%20ad%20alto%20dettaglio.)**
+
+---
+
+### No. 8: Chihuahua fotorealistico strutturato su balcone (Duplicato)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt altamente strutturato in formato JSON che descrive ogni aspetto di un'immagine fotorealistica: un piccolo chihuahua a pelo lungo sdraiato su un cuscino da salotto su un balcone esterno, con dettagli specifici su pelliccia, illuminazione, elementi di sfondo (baia, navi, skyline della città) e composizione. Questo è un duplicato di un prompt trovato in un altro tweet.
+
+#### 📝 Prompt
+
+```
+{
+  "type": "image_prompt",
+  "format": "fotorealistico",
+  "aspect_ratio": "1536:1358",
+  "scene": {
+    "setting": "balcone/terrazza esterna con ringhiera in vetro",
+    "time_of_day": "diurno",
+    "weather": "sereno",
+    "foreground_surface": "grande cuscino rettangolare da salotto con parte superiore beige chiaro/crema, pannelli laterali grigi e cuciture a piping visibili"
+  },
+  "subject": {
+    "primary_subject": "piccolo chihuahua a pelo lungo",
+    "pose": "sdraiato sul cuscino con le zampe anteriori in avanti, corpo rilassato, testa leggermente sollevata",
+    "expression": "calmo, con gli occhi leggermente socchiusi per il sole intenso",
+    "fur": {
+      "color": "marrone dorato caldo/fulvo con riflessi crema più chiari",
+      "texture": "pelo lungo e soffice con ciocche sottili intorno alle orecchie e al collo",
+      "markings": "muso e mento leggermente più grigi; pelo più chiaro su zampe/dita"
+    },
+    "features": {
+      "ears": "grandi orecchie dritte con pelo piumoso",
+      "eyes": "marrone scuro, lucidi",
+      "nose": "piccolo naso nero"
+    }
+  },
+  "background": {
+    "midground": "acqua blu calma (baia/porto) con una costa/isola alberata",
+    "distant_elements": [
+      "diverse grandi navi da crociera bianche",
+      "gru portuali/strutture industriali sulla sinistra",
+      "skyline sfocato della città con grattacieli sulla destra"
+    ],
+    "structure": "un pilastro bianco verticale del balcone centrato dietro il cane",
+    "depth_of_field": "sfondo notevolmente sfocato/morbido rispetto al cane"
+  },
+  "lighting": {
+    "type": "forte luce solare naturale",
+    "direction": "da sinistra/davanti a sinistra",
+    "effects": [
+      "punti luce luminosi sul pelo del cane",
+      "ombre morbide e un'ombra diagonale sul cuscino"
+    ]
+  },
+  "composition": {
+    "framing": "primo piano medio con il cane che occupa la metà destra dell'inquadratura",
+    "focus": "messa a fuoco nitida sul cane; sfondo fuori fuoco",
+    "camera_angle": "all'altezza degli occhi/leggermente sopra il cane",
+    "mood": "caldo, tranquillo, al sole"
+  },
+  "color_palette": [
+    "fulvo dorato",
+    "crema/beige",
+    "blu freddo",
+    "grigio tenue",
+    "bianco"
+  ],
+  "prompt": "Una scena fotorealistica diurna su un balcone: un piccolo chihuahua a pelo lungo con pelo marrone dorato caldo/fulvo e riflessi crema più chiari è sdraiato rilassato su un grande cuscino rettangolare da salotto (parte superiore beige chiaro/crema con lati grigi e cuciture a piping). Il cane è leggermente rivolto a sinistra, con la testa sollevata, espressione calma con occhi scuri leggermente socchiusi, orecchie piumose dritte, piccolo naso nero e un muso leggermente più grigio; zampe anteriori in avanti con pelo più chiaro sulle dita. La forte luce solare naturale da sinistra crea punti luce luminosi sul pelo e ombre morbide sul cuscino. Dietro il cane c'è una ringhiera in vetro del balcone, un pilastro bianco verticale centrato sullo sfondo e una vista morbida e sfocata di una baia/porto blu con una costa alberata, diverse grandi navi da crociera bianche, gru portuali in lontananza e uno skyline sfocato della città con grattacieli sulla destra. Profondità di campo ridotta, messa a fuoco nitida sul"
+}
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388934170_s22fgi_G8oa8bxWMAAFKQ7.jpg" width="600" alt="Chihuahua fotorealistico strutturato su balcone (Duplicato) - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Sura Baghirova](https://x.com/surasb11)
+- **Fonte:** [Twitter Post](https://x.com/surasb11/status/2002442613660463238)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_prompt%22%2C%0A%20%20%22format%22%3A%20%22fotorealistico%22%2C%0A%20%20%22aspect_ratio%22%3A%20%221536%3A1358%22%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22balcone%2Fterrazza%20esterna%20con%20ringhiera%20in%20vetro%22%2C%0A%20%20%20%20%22time_of_day%22%3A%20%22diurno%22%2C%0A%20%20%20%20%22weather%22%3A%20%22sereno%22%2C%0A%20%20%20%20%22foreground_surface%22%3A%20%22grande%20cuscino%20rettangolare%20da%20salotto%20con%20parte%20superiore%20beige%20chiaro%2Fcrema%2C%20pannelli%20laterali%20grigi%20e%20cuciture%20a%20piping%20visibili%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22primary_subject%22%3A%20%22piccolo%20chihuahua%20a%20pelo%20lungo%22%2C%0A%20%20%20%20%22pose%22%3A%20%22sdraiato%20sul%20cuscino%20con%20le%20zampe%20anteriori%20in%20avanti%2C%20corpo%20rilassato%2C%20testa%20leggermente%20sollevata%22%2C%0A%20%20%20%20%22expression%22%3A%20%22calmo%2C%20con%20gli%20occhi%20leggermente%20socchiusi%20per%20il%20sole%20intenso%22%2C%0A%20%20%20%20%22fur%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22marrone%20dorato%20caldo%2Ffulvo%20con%20riflessi%20crema%20pi%C3%B9%20chiari%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22pelo%20lungo%20e%20soffice%20con%20ciocche%20sottili%20intorno%20alle%20orecchie%20e%20al%20collo%22%2C%0A%20%20%20%20%20%20%22markings%22%3A%20%22muso%20e%20mento%20leggermente%20pi%C3%B9%20grigi%3B%20pelo%20pi%C3%B9%20chiaro%20su%20zampe%2Fdita%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22features%22%3A%20%7B%0A%20%20%20%20%20%20%22ears%22%3A%20%22grandi%20orecchie%20dritte%20con%20pelo%20piumoso%22%2C%0A%20%20%20%20%20%20%22eyes%22%3A%20%22marrone%20scuro%2C%20lucidi%22%2C%0A%20%20%20%20%20%20%22nose%22%3A%20%22piccolo%20naso%20nero%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22midground%22%3A%20%22acqua%20blu%20calma%20(baia%2Fporto)%20con%20una%20costa%2Fisola%20alberata%22%2C%0A%20%20%20%20%22distant_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22diverse%20grandi%20navi%20da%20crociera%20bianche%22%2C%0A%20%20%20%20%20%20%22gru%20portuali%2Fstrutture%20industriali%20sulla%20sinistra%22%2C%0A%20%20%20%20%20%20%22skyline%20sfocato%20della%20citt%C3%A0%20con%20grattacieli%20sulla%20destra%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22structure%22%3A%20%22un%20pilastro%20bianco%20verticale%20del%20balcone%20centrato%20dietro%20il%20cane%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22sfondo%20notevolmente%20sfocato%2Fmorbido%20rispetto%20al%20cane%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22forte%20luce%20solare%20naturale%22%2C%0A%20%20%20%20%22direction%22%3A%20%22da%20sinistra%2Fdavanti%20a%20sinistra%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22punti%20luce%20luminosi%20sul%20pelo%20del%20cane%22%2C%0A%20%20%20%20%20%20%22ombre%20morbide%20e%20un'ombra%20diagonale%20sul%20cuscino%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22framing%22%3A%20%22primo%20piano%20medio%20con%20il%20cane%20che%20occupa%20la%20met%C3%A0%20destra%20dell'inquadratura%22%2C%0A%20%20%20%20%22focus%22%3A%20%22messa%20a%20fuoco%20nitida%20sul%20cane%3B%20sfondo%20fuori%20fuoco%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22all'altezza%20degli%20occhi%2Fleggermente%20sopra%20il%20cane%22%2C%0A%20%20%20%20%22mood%22%3A%20%22caldo%2C%20tranquillo%2C%20al%20sole%22%0A%20%20%7D%2C%0A%20%20%22color_palette%22%3A%20%5B%0A%20%20%20%20%22fulvo%20dorato%22%2C%0A%20%20%20%20%22crema%2Fbeige%22%2C%0A%20%20%20%20%22blu%20freddo%22%2C%0A%20%20%20%20%22grigio%20tenue%22%2C%0A%20%20%20%20%22bianco%22%0A%20%20%5D%2C%0A%20%20%22prompt%22%3A%20%22Una%20scena%20fotorealistica%20diurna%20su%20un%20balcone%3A%20un%20piccolo%20chihuahua%20a%20pelo%20lungo%20con%20pelo%20marrone%20dorato%20caldo%2Ffulvo%20e%20riflessi%20crema%20pi%C3%B9%20chiari%20%C3%A8%20sdraiato%20rilassato%20su%20un%20grande%20cuscino%20rettangolare%20da%20salotto%20(parte%20superiore%20beige%20chiaro%2Fcrema%20con%20lati%20grigi%20e%20cuciture%20a%20piping).%20Il%20cane%20%C3%A8%20leggermente%20rivolto%20a%20sinistra%2C%20con%20la%20testa%20sollevata%2C%20espressione%20calma%20con%20occhi%20scuri%20leggermente%20socchiusi%2C%20orecchie%20piumose%20dritte%2C%20piccolo%20naso%20nero%20e%20un%20muso%20leggermente%20pi%C3%B9%20grigio%3B%20zampe%20anteriori%20in%20avanti%20con%20pelo%20pi%C3%B9%20chiaro%20sulle%20dita.%20La%20forte%20luce%20solare%20naturale%20da%20sinistra%20crea%20punti%20luce%20luminosi%20sul%20pelo%20e%20ombre%20morbide%20sul%20cuscino.%20Dietro%20il%20cane%20c'%C3%A8%20una%20ringhiera%20in%20vetro%20del%20balcone%2C%20un%20pilastro%20bianco%20verticale%20centrato%20sullo%20sfondo%20e%20una%20vista%20morbida%20e%20sfocata%20di%20una%20baia%2Fporto%20blu%20con%20una%20costa%20alberata%2C%20diverse%20grandi%20navi%20da%20crociera%20bianche%2C%20gru%20portuali%20in%20lontananza%20e%20uno%20skyline%20sfocato%20della%20citt%C3%A0%20con%20grattacieli%20sulla%20destra.%20Profondit%C3%A0%20di%20campo%20ridotta%2C%20messa%20a%20fuoco%20nitida%20sul%22%0A%7D)**
+
+---
+
+### No. 9: Chihuahua fotorealistico strutturato su balcone
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt JSON altamente strutturato che descrive ogni aspetto di un'immagine fotorealistica: un piccolo chihuahua a pelo lungo sdraiato su un cuscino da salotto su un balcone esterno, con dettagli specifici su pelliccia, illuminazione, elementi di sfondo (baia, navi, skyline della città) e composizione.
+
+#### 📝 Prompt
+
+```
+{
+  "type": "image_prompt",
+  "format": "fotorealistico",
+  "aspect_ratio": "1536:1358",
+  "scene": {
+    "setting": "balcone/terrazza esterna con ringhiera in vetro",
+    "time_of_day": "diurna",
+    "weather": "sereno",
+    "foreground_surface": "grande cuscino rettangolare da salotto con parte superiore beige chiaro/crema, pannelli laterali grigi e cuciture a piping visibili"
+  },
+  "subject": {
+    "primary_subject": "piccolo chihuahua a pelo lungo",
+    "pose": "sdraiato sul cuscino con le zampe anteriori in avanti, corpo rilassato, testa leggermente sollevata",
+    "expression": "calmo, con gli occhi leggermente socchiusi per il sole intenso",
+    "fur": {
+      "color": "marrone dorato caldo/fulvo con riflessi crema più chiari",
+      "texture": "pelo lungo e soffice con ciocche sottili intorno alle orecchie e al collo",
+      "markings": "muso e mento leggermente più grigi; pelo più chiaro su zampe/dita"
+    },
+    "features": {
+      "ears": "grandi orecchie dritte con pelo piumato",
+      "eyes": "marrone scuro, lucidi",
+      "nose": "piccolo naso nero"
+    }
+  },
+  "background": {
+    "midground": "acqua blu calma (baia/porto) con una costa/isola alberata",
+    "distant_elements": [
+      "diverse grandi navi da crociera bianche",
+      "gru portuali/strutture industriali sulla sinistra",
+      "skyline sfocato della città con grattacieli sulla destra"
+    ],
+    "structure": "un pilastro verticale bianco del balcone centrato dietro il cane",
+    "depth_of_field": "sfondo notevolmente sfocato/morbido rispetto al cane"
+  },
+  "lighting": {
+    "type": "forte luce solare naturale",
+    "direction": "da sinistra/davanti a sinistra",
+    "effects": [
+      "punti luce brillanti sul pelo del cane",
+      "ombre morbide e un'ombra diagonale sul cuscino"
+    ]
+  },
+  "composition": {
+    "framing": "primo piano medio con il cane che occupa la metà destra dell'inquadratura",
+    "focus": "messa a fuoco nitida sul cane; sfondo fuori fuoco",
+    "camera_angle": "all'altezza degli occhi/leggermente sopra il cane",
+    "mood": "caldo, tranquillo, al sole"
+  },
+  "color_palette": [
+    "fulvo dorato",
+    "crema/beige",
+    "blu freddo",
+    "grigio tenue",
+    "bianco"
+  ],
+  "prompt": "Una scena fotorealistica diurna su un balcone: un piccolo chihuahua a pelo lungo con pelo marrone dorato caldo/fulvo e riflessi crema più chiari è sdraiato rilassato su un grande cuscino rettangolare da salotto (parte superiore beige chiaro/crema con lati grigi e cuciture a piping). Il cane è leggermente rivolto a sinistra, con la testa sollevata, espressione calma con occhi scuri leggermente socchiusi, orecchie piumate dritte, piccolo naso nero e un muso sottilmente più grigio; zampe anteriori in avanti con pelo più chiaro sulle dita. La forte luce solare naturale da sinistra crea punti luce brillanti sul pelo e ombre morbide sul cuscino. Dietro il cane c'è una ringhiera in vetro del balcone, un pilastro verticale bianco centrato sullo sfondo e una vista morbida e sfocata di una baia/porto blu con una costa alberata, diverse grandi navi da crociera bianche, gru portuali in lontananza e uno skyline sfocato della città con grattacieli sulla destra. Profondità di campo ridotta, messa a fuoco nitida sul cane, sfondo"
+}
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388933663_9y4vrf_G8oDylCW4AArZt-.jpg" width="600" alt="Chihuahua fotorealistico strutturato su balcone - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Sura Baghirova](https://x.com/surasb11)
+- **Fonte:** [Twitter Post](https://x.com/surasb11/status/2002417155225141446)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%7B%0A%20%20%22type%22%3A%20%22image_prompt%22%2C%0A%20%20%22format%22%3A%20%22fotorealistico%22%2C%0A%20%20%22aspect_ratio%22%3A%20%221536%3A1358%22%2C%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22balcone%2Fterrazza%20esterna%20con%20ringhiera%20in%20vetro%22%2C%0A%20%20%20%20%22time_of_day%22%3A%20%22diurna%22%2C%0A%20%20%20%20%22weather%22%3A%20%22sereno%22%2C%0A%20%20%20%20%22foreground_surface%22%3A%20%22grande%20cuscino%20rettangolare%20da%20salotto%20con%20parte%20superiore%20beige%20chiaro%2Fcrema%2C%20pannelli%20laterali%20grigi%20e%20cuciture%20a%20piping%20visibili%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22primary_subject%22%3A%20%22piccolo%20chihuahua%20a%20pelo%20lungo%22%2C%0A%20%20%20%20%22pose%22%3A%20%22sdraiato%20sul%20cuscino%20con%20le%20zampe%20anteriori%20in%20avanti%2C%20corpo%20rilassato%2C%20testa%20leggermente%20sollevata%22%2C%0A%20%20%20%20%22expression%22%3A%20%22calmo%2C%20con%20gli%20occhi%20leggermente%20socchiusi%20per%20il%20sole%20intenso%22%2C%0A%20%20%20%20%22fur%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22marrone%20dorato%20caldo%2Ffulvo%20con%20riflessi%20crema%20pi%C3%B9%20chiari%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22pelo%20lungo%20e%20soffice%20con%20ciocche%20sottili%20intorno%20alle%20orecchie%20e%20al%20collo%22%2C%0A%20%20%20%20%20%20%22markings%22%3A%20%22muso%20e%20mento%20leggermente%20pi%C3%B9%20grigi%3B%20pelo%20pi%C3%B9%20chiaro%20su%20zampe%2Fdita%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22features%22%3A%20%7B%0A%20%20%20%20%20%20%22ears%22%3A%20%22grandi%20orecchie%20dritte%20con%20pelo%20piumato%22%2C%0A%20%20%20%20%20%20%22eyes%22%3A%20%22marrone%20scuro%2C%20lucidi%22%2C%0A%20%20%20%20%20%20%22nose%22%3A%20%22piccolo%20naso%20nero%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22midground%22%3A%20%22acqua%20blu%20calma%20(baia%2Fporto)%20con%20una%20costa%2Fisola%20alberata%22%2C%0A%20%20%20%20%22distant_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22diverse%20grandi%20navi%20da%20crociera%20bianche%22%2C%0A%20%20%20%20%20%20%22gru%20portuali%2Fstrutture%20industriali%20sulla%20sinistra%22%2C%0A%20%20%20%20%20%20%22skyline%20sfocato%20della%20citt%C3%A0%20con%20grattacieli%20sulla%20destra%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22structure%22%3A%20%22un%20pilastro%20verticale%20bianco%20del%20balcone%20centrato%20dietro%20il%20cane%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22sfondo%20notevolmente%20sfocato%2Fmorbido%20rispetto%20al%20cane%22%0A%20%20%7D%2C%0A%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22forte%20luce%20solare%20naturale%22%2C%0A%20%20%20%20%22direction%22%3A%20%22da%20sinistra%2Fdavanti%20a%20sinistra%22%2C%0A%20%20%20%20%22effects%22%3A%20%5B%0A%20%20%20%20%20%20%22punti%20luce%20brillanti%20sul%20pelo%20del%20cane%22%2C%0A%20%20%20%20%20%20%22ombre%20morbide%20e%20un'ombra%20diagonale%20sul%20cuscino%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%22framing%22%3A%20%22primo%20piano%20medio%20con%20il%20cane%20che%20occupa%20la%20met%C3%A0%20destra%20dell'inquadratura%22%2C%0A%20%20%20%20%22focus%22%3A%20%22messa%20a%20fuoco%20nitida%20sul%20cane%3B%20sfondo%20fuori%20fuoco%22%2C%0A%20%20%20%20%22camera_angle%22%3A%20%22all'altezza%20degli%20occhi%2Fleggermente%20sopra%20il%20cane%22%2C%0A%20%20%20%20%22mood%22%3A%20%22caldo%2C%20tranquillo%2C%20al%20sole%22%0A%20%20%7D%2C%0A%20%20%22color_palette%22%3A%20%5B%0A%20%20%20%20%22fulvo%20dorato%22%2C%0A%20%20%20%20%22crema%2Fbeige%22%2C%0A%20%20%20%20%22blu%20freddo%22%2C%0A%20%20%20%20%22grigio%20tenue%22%2C%0A%20%20%20%20%22bianco%22%0A%20%20%5D%2C%0A%20%20%22prompt%22%3A%20%22Una%20scena%20fotorealistica%20diurna%20su%20un%20balcone%3A%20un%20piccolo%20chihuahua%20a%20pelo%20lungo%20con%20pelo%20marrone%20dorato%20caldo%2Ffulvo%20e%20riflessi%20crema%20pi%C3%B9%20chiari%20%C3%A8%20sdraiato%20rilassato%20su%20un%20grande%20cuscino%20rettangolare%20da%20salotto%20(parte%20superiore%20beige%20chiaro%2Fcrema%20con%20lati%20grigi%20e%20cuciture%20a%20piping).%20Il%20cane%20%C3%A8%20leggermente%20rivolto%20a%20sinistra%2C%20con%20la%20testa%20sollevata%2C%20espressione%20calma%20con%20occhi%20scuri%20leggermente%20socchiusi%2C%20orecchie%20piumate%20dritte%2C%20piccolo%20naso%20nero%20e%20un%20muso%20sottilmente%20pi%C3%B9%20grigio%3B%20zampe%20anteriori%20in%20avanti%20con%20pelo%20pi%C3%B9%20chiaro%20sulle%20dita.%20La%20forte%20luce%20solare%20naturale%20da%20sinistra%20crea%20punti%20luce%20brillanti%20sul%20pelo%20e%20ombre%20morbide%20sul%20cuscino.%20Dietro%20il%20cane%20c'%C3%A8%20una%20ringhiera%20in%20vetro%20del%20balcone%2C%20un%20pilastro%20verticale%20bianco%20centrato%20sullo%20sfondo%20e%20una%20vista%20morbida%20e%20sfocata%20di%20una%20baia%2Fporto%20blu%20con%20una%20costa%20alberata%2C%20diverse%20grandi%20navi%20da%20crociera%20bianche%2C%20gru%20portuali%20in%20lontananza%20e%20uno%20skyline%20sfocato%20della%20citt%C3%A0%20con%20grattacieli%20sulla%20destra.%20Profondit%C3%A0%20di%20campo%20ridotta%2C%20messa%20a%20fuoco%20nitida%20sul%20cane%2C%20sfondo%22%0A%7D)**
+
+---
+
+### No. 10: Diorama surreale da "Brave New World"
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt per generare un diorama di scultura in miniatura iperdettagliato e fotorealistico che emerge da un libro vintage aperto, raffigurante un laboratorio di schiusa futuristico clinico e inquietante ispirato a "Il mondo nuovo" di Aldous Huxley.
+
+#### 📝 Prompt
+
+```
+Diorama surreale che emerge da un libro vintage aperto di "{argument name="book title" default="Brave New World"}" di {argument name="author" default="Aldous Huxley"}: le pagine formano un laboratorio di incubazione futuristico con file di provette luminose contenenti figure embrionali su nastri trasportatori, lavoratori in camice bianco che azionano macchine, un grande simbolo dell'occhio onniveggente sulla parete, nastri trasportatori che si muovono tramite meccanismi nascosti, fredda illuminazione al neon blu, scultura in miniatura iperdettagliata, atmosfera clinica e inquietante, fotorealistico.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388930019_hpq6oi_G8aEemJXIAEIQMS.jpg" width="600" alt="Diorama surreale da "Brave New World" - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Gadgetify](https://x.com/Gdgtify)
+- **Fonte:** [Twitter Post](https://x.com/Gdgtify/status/2002399592906993959)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Diorama%20surreale%20che%20emerge%20da%20un%20libro%20vintage%20aperto%20di%20%22%7Bargument%20name%3D%22book%20title%22%20default%3D%22Brave%20New%20World%22%7D%22%20di%20%7Bargument%20name%3D%22author%22%20default%3D%22Aldous%20Huxley%22%7D%3A%20le%20pagine%20formano%20un%20laboratorio%20di%20incubazione%20futuristico%20con%20file%20di%20provette%20luminose%20contenenti%20figure%20embrionali%20su%20nastri%20trasportatori%2C%20lavoratori%20in%20camice%20bianco%20che%20azionano%20macchine%2C%20un%20grande%20simbolo%20dell'occhio%20onniveggente%20sulla%20parete%2C%20nastri%20trasportatori%20che%20si%20muovono%20tramite%20meccanismi%20nascosti%2C%20fredda%20illuminazione%20al%20neon%20blu%2C%20scultura%20in%20miniatura%20iperdettagliata%2C%20atmosfera%20clinica%20e%20inquietante%2C%20fotorealistico.)**
+
+---
+
+### No. 11: Ritratto Cinematografico di Moda Invernale su una Cima di Montagna
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt dettagliato per un ritratto di moda cinematografico ambientato su una montagna innevata. Specifica l'abbigliamento del soggetto (piumino rosa pastello, pile con motivo a cuori, jeans con motivo tigrato), gli accessori (occhiali da sole retrò, berretto giallo), l'ambiente (catene alpine, cielo all'ora d'oro) e include elementi nostalgici come un lettore di cassette vintage, puntando a un'estetica che unisce lifestyle e avventura.
+
+#### 📝 Prompt
+
+```
+Un ritratto cinematografico di moda invernale di una giovane donna elegante seduta su una cima di montagna innevata, circondata da vaste catene alpine sotto un cielo morbido all'ora d'oro. Indossa un piumino color {argument name="jacket color" default="rosa pastello"} a strati sopra un pile a fantasia di cuori, jeans scuri ricamati con un audace motivo a tigre, occhiali da sole retrò con lenti gialle, guanti di pelle marroni e sneakers colorate. Un giocoso berretto giallo con una faccia stilizzata aggiunge un'atmosfera pop-art. Accanto a lei, sulla neve, c'è un lettore di cassette portatile vintage rosa, che aggiunge un fascino nostalgico. Posa rilassata e sicura, guarda in lontananza, il vento le muove dolcemente i capelli. Google Gemini Ultra-realistico, dettagli nitidi, fotografia di moda editoriale, toni freddi naturali bilanciati con la calda luce solare, profondità di campo ridotta, composizione cinematografica, alta risoluzione, estetica lifestyle-meets-adventure.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388927467_ud9jd4_G8ns3eZa8AAFH3J.jpg" width="600" alt="Ritratto Cinematografico di Moda Invernale su una Cima di Montagna - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Smiling Khan](https://x.com/AIwithkhan)
+- **Fonte:** [Twitter Post](https://x.com/AIwithkhan/status/2002391950658580520)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Un%20ritratto%20cinematografico%20di%20moda%20invernale%20di%20una%20giovane%20donna%20elegante%20seduta%20su%20una%20cima%20di%20montagna%20innevata%2C%20circondata%20da%20vaste%20catene%20alpine%20sotto%20un%20cielo%20morbido%20all'ora%20d'oro.%20Indossa%20un%20piumino%20color%20%7Bargument%20name%3D%22jacket%20color%22%20default%3D%22rosa%20pastello%22%7D%20a%20strati%20sopra%20un%20pile%20a%20fantasia%20di%20cuori%2C%20jeans%20scuri%20ricamati%20con%20un%20audace%20motivo%20a%20tigre%2C%20occhiali%20da%20sole%20retr%C3%B2%20con%20lenti%20gialle%2C%20guanti%20di%20pelle%20marroni%20e%20sneakers%20colorate.%20Un%20giocoso%20berretto%20giallo%20con%20una%20faccia%20stilizzata%20aggiunge%20un'atmosfera%20pop-art.%20Accanto%20a%20lei%2C%20sulla%20neve%2C%20c'%C3%A8%20un%20lettore%20di%20cassette%20portatile%20vintage%20rosa%2C%20che%20aggiunge%20un%20fascino%20nostalgico.%20Posa%20rilassata%20e%20sicura%2C%20guarda%20in%20lontananza%2C%20il%20vento%20le%20muove%20dolcemente%20i%20capelli.%20Google%20Gemini%20Ultra-realistico%2C%20dettagli%20nitidi%2C%20fotografia%20di%20moda%20editoriale%2C%20toni%20freddi%20naturali%20bilanciati%20con%20la%20calda%20luce%20solare%2C%20profondit%C3%A0%20di%20campo%20ridotta%2C%20composizione%20cinematografica%2C%20alta%20risoluzione%2C%20estetica%20lifestyle-meets-adventure.)**
+
+---
+
+### No. 12: Prompt per la pittura di riflessione filosofica sull'IA
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descrizione
+
+Un prompt filosofico che chiede all'IA di creare un dipinto che rappresenti visivamente il concetto che "l'output dell'IA è un'immagine speculare dell'input umano" in senso filosofico. Questo prompt mira a generare arte astratta o concettuale.
+
+#### 📝 Prompt
+
+```
+In senso filosofico, l'output dell'IA è un'immagine speculare dell'input umano. Disegna un quadro che visualizzi questa frase.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388939192_lyls0i_G8nqTM0awAA0MpZ.jpg" width="600" alt="Prompt per la pittura di riflessione filosofica sull'IA - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [石の裏に潜む黒いヤツ](https://x.com/dangomushino)
+- **Fonte:** [Twitter Post](https://x.com/dangomushino/status/2002389299401277840)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** ja
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=In%20senso%20filosofico%2C%20l'output%20dell'IA%20%C3%A8%20un'immagine%20speculare%20dell'input%20umano.%20Disegna%20un%20quadro%20che%20visualizzi%20questa%20frase.)**
+
+---
+
+### No. 13: Prompt composito complesso del mondo di carta a quattro quadranti
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt altamente dettagliato e complesso, progettato per creare un'immagine composita 16:9 senza soluzione di continuità, divisa in quattro quadranti distinti, ciascuno rappresentante un marchio diverso (Luckin, Google, Coke, McDonald's) utilizzando intricate estetiche di paper-cut e specifici requisiti strutturali, renderizzata in Octane.
+
+#### 📝 Prompt
+
+```
+Un'immagine composita full-frame 16:9 senza soluzione di continuità, divisa in quattro quadranti distinti. **CRITICO:** Le quattro sezioni si toccano direttamente. NESSUNO SFONDO GRIGIO. NESSUN BORDO. NESSUNO SPAZIO. L'immagine è riempita da bordo a bordo con dettagli di carta.
+
+**Composizione:** Una vista a schermo diviso che si addentra in quattro diversi mondi di carta.
+
+1) **In alto a sinistra (Luckin):** Un'ampia veduta di una magica foresta di carta. Nuvole di carta blu e bianca e foglie di caffè riempiono completamente il quadrante. Un cervo di carta bianco salta attraverso la fitta vegetazione.
+2) **In alto a destra (Google):** Un'ampia veduta di una **caverna di carta in stile "Mappa Topografica"**. Il logo "G" è formato da **centinaia di sottili fogli** di carta blu, rossa, gialla e verde impilati orizzontalmente. Sembra un canyon sedimentario o una mappa di contorno. Fibre di carta visibili e bordi tagliati netti. NESSUNA levigatezza della plastica.
+3) **In basso a sinistra (Coke):** Un'ampia veduta di un'esplosione di carta rossa. La bottiglia di Coca-Cola è una **Silhouette a Spazio Negativo** — un profondo foro vuoto tagliato attraverso densi strati di carta rossa. Nastri di carta bianca attraversano il vuoto.
+4) **In basso a destra (McDonald's):** Un'ampia veduta di una città di carta gialla. Strisce verticali di carta gialla (patatine fritte) si ergono densamente riempiendo l'inquadratura. Gli Archi Dorati sorgono dalle profondità degli strati.
+
+**Materiale Globale:** Tutto è cartoncino opaco.
+**Illuminazione:** Illuminazione da studio morbida e uniforme che rivela la profondità dei tagli della carta.
+**Tecnologia:** Render Octane, 8k, --ar 16:9 --stylize 400 --no borders, frames, background wall, isolated objects, 3d plastic, seamless texture
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388936642_5v3x64_G8mrrT_bMAYf-5t.jpg" width="600" alt="Prompt composito complesso del mondo di carta a quattro quadranti - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [两斤](https://x.com/0x00_Krypt)
+- **Fonte:** [Twitter Post](https://x.com/0x00_Krypt/status/2002320422046724291)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Un'immagine%20composita%20full-frame%2016%3A9%20senza%20soluzione%20di%20continuit%C3%A0%2C%20divisa%20in%20quattro%20quadranti%20distinti.%20**CRITICO%3A**%20Le%20quattro%20sezioni%20si%20toccano%20direttamente.%20NESSUNO%20SFONDO%20GRIGIO.%20NESSUN%20BORDO.%20NESSUNO%20SPAZIO.%20L'immagine%20%C3%A8%20riempita%20da%20bordo%20a%20bordo%20con%20dettagli%20di%20carta.%0A%0A**Composizione%3A**%20Una%20vista%20a%20schermo%20diviso%20che%20si%20addentra%20in%20quattro%20diversi%20mondi%20di%20carta.%0A%0A1)%20**In%20alto%20a%20sinistra%20(Luckin)%3A**%20Un'ampia%20veduta%20di%20una%20magica%20foresta%20di%20carta.%20Nuvole%20di%20carta%20blu%20e%20bianca%20e%20foglie%20di%20caff%C3%A8%20riempiono%20completamente%20il%20quadrante.%20Un%20cervo%20di%20carta%20bianco%20salta%20attraverso%20la%20fitta%20vegetazione.%0A2)%20**In%20alto%20a%20destra%20(Google)%3A**%20Un'ampia%20veduta%20di%20una%20**caverna%20di%20carta%20in%20stile%20%22Mappa%20Topografica%22**.%20Il%20logo%20%22G%22%20%C3%A8%20formato%20da%20**centinaia%20di%20sottili%20fogli**%20di%20carta%20blu%2C%20rossa%2C%20gialla%20e%20verde%20impilati%20orizzontalmente.%20Sembra%20un%20canyon%20sedimentario%20o%20una%20mappa%20di%20contorno.%20Fibre%20di%20carta%20visibili%20e%20bordi%20tagliati%20netti.%20NESSUNA%20levigatezza%20della%20plastica.%0A3)%20**In%20basso%20a%20sinistra%20(Coke)%3A**%20Un'ampia%20veduta%20di%20un'esplosione%20di%20carta%20rossa.%20La%20bottiglia%20di%20Coca-Cola%20%C3%A8%20una%20**Silhouette%20a%20Spazio%20Negativo**%20%E2%80%94%20un%20profondo%20foro%20vuoto%20tagliato%20attraverso%20densi%20strati%20di%20carta%20rossa.%20Nastri%20di%20carta%20bianca%20attraversano%20il%20vuoto.%0A4)%20**In%20basso%20a%20destra%20(McDonald's)%3A**%20Un'ampia%20veduta%20di%20una%20citt%C3%A0%20di%20carta%20gialla.%20Strisce%20verticali%20di%20carta%20gialla%20(patatine%20fritte)%20si%20ergono%20densamente%20riempiendo%20l'inquadratura.%20Gli%20Archi%20Dorati%20sorgono%20dalle%20profondit%C3%A0%20degli%20strati.%0A%0A**Materiale%20Globale%3A**%20Tutto%20%C3%A8%20cartoncino%20opaco.%0A**Illuminazione%3A**%20Illuminazione%20da%20studio%20morbida%20e%20uniforme%20che%20rivela%20la%20profondit%C3%A0%20dei%20tagli%20della%20carta.%0A**Tecnologia%3A**%20Render%20Octane%2C%208k%2C%20--ar%2016%3A9%20--stylize%20400%20--no%20borders%2C%20frames%2C%20background%20wall%2C%20isolated%20objects%2C%203d%20plastic%2C%20seamless%20texture)**
+
+---
+
+### No. 14: Il Tristo Mietitore stagionale in una città romana
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt cinematografico e iperrealistico che combina il motivo del Tristo Mietitore con un elemento festivo (cappello di Babbo Natale) e dettagli futuristici (armatura digitale blu luminescente sulla mano), ambientato sullo sfondo di un'antica città romana. Il Mietitore tiene in mano una catena illuminata di numeri.
+
+#### 📝 Prompt
+
+```
+un tristo mietitore incappucciato con un {argument name="hat type" default="cappello di Babbo Natale"} sul cappuccio e con un'armatura digitale blu luminosa sulle mani, che tiene in aria una catena illuminata di numeri, su uno sfondo di un'antica città romana, in uno stile cinematografico e iperrealistico
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388940357_86p9q3_G8mdS1FXEAAuOdG.jpg" width="600" alt="Il Tristo Mietitore stagionale in una città romana - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Teser Dawn](https://x.com/TeserDawn)
+- **Fonte:** [Twitter Post](https://x.com/TeserDawn/status/2002304821500719113)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=un%20tristo%20mietitore%20incappucciato%20con%20un%20%7Bargument%20name%3D%22hat%20type%22%20default%3D%22cappello%20di%20Babbo%20Natale%22%7D%20sul%20cappuccio%20e%20con%20un'armatura%20digitale%20blu%20luminosa%20sulle%20mani%2C%20che%20tiene%20in%20aria%20una%20catena%20illuminata%20di%20numeri%2C%20su%20uno%20sfondo%20di%20un'antica%20citt%C3%A0%20romana%2C%20in%20uno%20stile%20cinematografico%20e%20iperrealistico)**
+
+---
+
+### No. 15: Ritratto Iperrealistico di Mago Dark Fantasy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt estremamente dettagliato per generare un ritratto iperrealistico di un misterioso mago incappucciato in stile dark fantasy, concentrandosi su dettagli intricati come tatuaggi runici, texture di tessuti bagnati, effetti magici luminosi e un'illuminazione volumetrica drammatica in un'ambientazione innevata.
+
+#### 📝 Prompt
+
+```
+Ritratto dark fantasy iperrealistico di un misterioso mago incappucciato in piedi sotto la neve, la stessa persona (mantenere il viso originale esattamente uguale), fredda illuminazione ambientale blu, intricati dettagli d'ombra sul viso, una sfera magica luminosa tenuta con cura tra le dita, una morbida luce dorata che illumina le sue mani, antichi tatuaggi runici sul viso, cicatrici sottili, occhi intensi e concentrati, trama del cappuccio bagnato drammatica con fiocchi di neve che si posano sul tessuto, armatura in pelle scura altamente dettagliata con motivi incisi e cordini intrecciati, profondità di campo cinematografica, nebbia atmosferica cupa, particelle di neve che cadono, texture ultra-dettagliate, ombreggiatura realistica della pelle, sfondo mistico scuro, risoluzione 8k, concept art fantasy, stile Weta Digital, illuminazione volumetrica, effetti di bagliore magico etereo, espressione emotivamente intensa e misteriosa
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388931580_7pikfh_G8mHwwybMAIuG-c.jpg" width="600" alt="Ritratto Iperrealistico di Mago Dark Fantasy - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Harboriis](https://x.com/harboriis)
+- **Fonte:** [Twitter Post](https://x.com/harboriis/status/2002280797315989960)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Ritratto%20dark%20fantasy%20iperrealistico%20di%20un%20misterioso%20mago%20incappucciato%20in%20piedi%20sotto%20la%20neve%2C%20la%20stessa%20persona%20(mantenere%20il%20viso%20originale%20esattamente%20uguale)%2C%20fredda%20illuminazione%20ambientale%20blu%2C%20intricati%20dettagli%20d'ombra%20sul%20viso%2C%20una%20sfera%20magica%20luminosa%20tenuta%20con%20cura%20tra%20le%20dita%2C%20una%20morbida%20luce%20dorata%20che%20illumina%20le%20sue%20mani%2C%20antichi%20tatuaggi%20runici%20sul%20viso%2C%20cicatrici%20sottili%2C%20occhi%20intensi%20e%20concentrati%2C%20trama%20del%20cappuccio%20bagnato%20drammatica%20con%20fiocchi%20di%20neve%20che%20si%20posano%20sul%20tessuto%2C%20armatura%20in%20pelle%20scura%20altamente%20dettagliata%20con%20motivi%20incisi%20e%20cordini%20intrecciati%2C%20profondit%C3%A0%20di%20campo%20cinematografica%2C%20nebbia%20atmosferica%20cupa%2C%20particelle%20di%20neve%20che%20cadono%2C%20texture%20ultra-dettagliate%2C%20ombreggiatura%20realistica%20della%20pelle%2C%20sfondo%20mistico%20scuro%2C%20risoluzione%208k%2C%20concept%20art%20fantasy%2C%20stile%20Weta%20Digital%2C%20illuminazione%20volumetrica%2C%20effetti%20di%20bagliore%20magico%20etereo%2C%20espressione%20emotivamente%20intensa%20e%20misteriosa)**
+
+---
+
+### No. 16: Generazione di immagini di eventi storici: Sam Altman lancia YC Research e Continuity
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt progettato per testare la capacità di GPT Image 1.5 di rappresentare accuratamente specifici eventi e figure storiche del mondo degli affari, concentrandosi sulle attività di Sam Altman nel 2015.
+
+#### 📝 Prompt
+
+```
+Mostra {argument name="person name" default="Sam Altman"} nel {argument name="year" default="2015"} mentre lancia {argument name="event 1" default="YC Research"} e {argument name="event 2" default="YC Continuity"}.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388925108_gkaovg_G8lmB-JbMAAUNQW.jpg" width="600" alt="Generazione di immagini di eventi storici: Sam Altman lancia YC Research e Continuity - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [DΞV](https://x.com/junwatu)
+- **Fonte:** [Twitter Post](https://x.com/junwatu/status/2002260928813797600)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Mostra%20%7Bargument%20name%3D%22person%20name%22%20default%3D%22Sam%20Altman%22%7D%20nel%20%7Bargument%20name%3D%22year%22%20default%3D%222015%22%7D%20mentre%20lancia%20%7Bargument%20name%3D%22event%201%22%20default%3D%22YC%20Research%22%7D%20e%20%7Bargument%20name%3D%22event%202%22%20default%3D%22YC%20Continuity%22%7D.)**
+
+---
+
+### No. 17: Scena del discorso "I Have a Dream" di MLK
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt per generare una scena storica che raffiguri il discorso "I Have a Dream" di Martin Luther King Jr., concentrandosi sulla folla immensa e sullo sfondo del Lincoln Memorial, inteso a testare la capacità dell'IA di gestire contesti e strutture storiche complesse.
+
+#### 📝 Prompt
+
+```
+Discorso "I Have a Dream" di MLK del 1963, folla immensa, Lincoln Memorial sullo sfondo.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388935453_0pnot3_G8lh312bMAEqidn.jpg" width="600" alt="Scena del discorso "I Have a Dream" di MLK - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [DΞV](https://x.com/junwatu)
+- **Fonte:** [Twitter Post](https://x.com/junwatu/status/2002256902227394866)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Discorso%20%22I%20Have%20a%20Dream%22%20di%20MLK%20del%201963%2C%20folla%20immensa%2C%20Lincoln%20Memorial%20sullo%20sfondo.)**
+
+---
+
+### No. 18: Prova virtuale/Generazione di concept
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt strutturato progettato per la prova virtuale o la generazione di concetti, che istruisce l'IA a vestire una persona da un'immagine caricata utilizzando capi di abbigliamento forniti in immagini di riferimento separate.
+
+#### 📝 Prompt
+
+```
+Vesti la persona nell'immagine a sinistra con i vestiti delle immagini di riferimento in alto
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388931149_nptt55_G8kW5snbMAE8DtP.jpg" width="600" alt="Prova virtuale/Generazione di concept - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [DΞV](https://x.com/junwatu)
+- **Fonte:** [Twitter Post](https://x.com/junwatu/status/2002197265763729879)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Vesti%20la%20persona%20nell'immagine%20a%20sinistra%20con%20i%20vestiti%20delle%20immagini%20di%20riferimento%20in%20alto)**
+
+---
+
+### No. 19: Ritratto editoriale di moda fotorealistico
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt altamente dettagliato e strutturato per generare un ritratto editoriale di moda fotorealistico di una giovane donna, focalizzato su complessi dettagli anatomici, texture specifiche degli abiti (paillettes scintillanti, denim), accessori di marca (borsa Gucci), illuminazione precisa e composizione per un'atmosfera editoriale sofisticata, glamour ma casual.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "Ritratto editoriale di moda fotorealistico di una giovane donna sulla ventina con carnagione calda e abbronzata e incarnato impeccabile, voluminosi capelli lunghi e ricci castano scuro con anelli stretti e texture crespa che le ricadono selvaggiamente sulle spalle e lungo la schiena, viso ovale con lineamenti delicati, occhi a mandorla color nocciola che guardano di lato con un'espressione contemplativa e serena, sopracciglia arcuate, naso dritto e sottile, labbra piene naturali con finitura opaca nude, zigomi alti e mascella delicata, in posa di tre quarti rivolta a sinistra con la testa leggermente girata verso la fotocamera, indossa una giacca oversize luccicante di paillettes bianche ricoperta di grandi paillettes circolari argentate che riflettono la luce in modo drammatico, orlo sfrangiato sul fondo, indossata sopra jeans in denim a vita alta azzurri, porta una lussuosa borsa a tracolla Gucci in pelle color crema con logo GG intrecciato in metallo dorato e tracolla a catena dorata staccabile drappeggiata diagonalmente sul busto, figura a clessidra snella e atletica con proporzioni stimate 34-25-37 pollici, seno piccolo coppa C sottilmente sagomato sotto la giacca, altezza complessiva di circa 1,75 m per una scalatura proporzionale, dettagli anatomici avanzati inclusa una profondità sagittale del busto di circa 12,7 cm dallo sterno all'apice per una proiezione delicata, profondità della vita di 10 cm all'ombelico per un affusolamento sottile, profondità dei fianchi di 18 cm nel punto più largo per transizioni morbide e femminili a S, gambe e braccia lunghe e toniche senza una forte definizione muscolare, nessun tatuaggio visibile o gioielli aggiuntivi, posa rilassata e casual con una mano forse in tasca e spalle leggermente incurvate per un'atmosfera disinvolta e cool, angolo della fotocamera all'altezza degli occhi con inquadratura media dalla metà della coscia in su, concentrandosi prominentemente su parte superiore del corpo, viso, volume dei capelli, paillettes e borsa, sfondo di un interno accogliente e lussuoso con pareti rivestite in legno caldo, una lampada da tavolo alta in ceramica color verde acqua con paralume plissettato beige su un tavolino rotondo in vetro che proietta una luce dorata soffusa, una pila di libri nelle vicinanze, un sottile riflesso dello specchio sulla destra, illuminazione ambientale calda e soffusa con delicati punti luce su paillettes, riccioli dei capelli, borsa in pelle e pelle che creano riflessi scintillanti e ombre sottili per profondità, fotorealismo 8K ad alta risoluzione con messa a fuoco nitidissima sui dettagli del viso, texture delle paillettes, ciocche di capelli e lucentezza della pelle per un'atmosfera editoriale sofisticata, glamour ma casual",
+  "negative_prompt": "sfocato, deforme, arti extra, viso mal disegnato, anatomia sbagliata, filigrana, testo, firma, sovraesposto, sottoesposto, cartone animato, illustrazione, disegno, anime, bassa qualità, artefatti, brutto, mani mutate",
+  "steps": 50,
+  "sampler_name": "DPM++ 2M Karras",
+  "cfg_scale": 7,
+  "width": 832,
+  "height": 1216,
+  "seed": -1,
+  "model": "realisticVisionV51"
+}
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1766388938203_al5mb9_G8k2shvWoAAZq6q.jpg" width="600" alt="Ritratto editoriale di moda fotorealistico - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Sienna](https://x.com/siennalovesai)
+- **Fonte:** [Twitter Post](https://x.com/siennalovesai/status/2002192027732136013)
+- **Pubblicato:** 20 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%7B%0A%20%20%22prompt%22%3A%20%22Ritratto%20editoriale%20di%20moda%20fotorealistico%20di%20una%20giovane%20donna%20sulla%20ventina%20con%20carnagione%20calda%20e%20abbronzata%20e%20incarnato%20impeccabile%2C%20voluminosi%20capelli%20lunghi%20e%20ricci%20castano%20scuro%20con%20anelli%20stretti%20e%20texture%20crespa%20che%20le%20ricadono%20selvaggiamente%20sulle%20spalle%20e%20lungo%20la%20schiena%2C%20viso%20ovale%20con%20lineamenti%20delicati%2C%20occhi%20a%20mandorla%20color%20nocciola%20che%20guardano%20di%20lato%20con%20un'espressione%20contemplativa%20e%20serena%2C%20sopracciglia%20arcuate%2C%20naso%20dritto%20e%20sottile%2C%20labbra%20piene%20naturali%20con%20finitura%20opaca%20nude%2C%20zigomi%20alti%20e%20mascella%20delicata%2C%20in%20posa%20di%20tre%20quarti%20rivolta%20a%20sinistra%20con%20la%20testa%20leggermente%20girata%20verso%20la%20fotocamera%2C%20indossa%20una%20giacca%20oversize%20luccicante%20di%20paillettes%20bianche%20ricoperta%20di%20grandi%20paillettes%20circolari%20argentate%20che%20riflettono%20la%20luce%20in%20modo%20drammatico%2C%20orlo%20sfrangiato%20sul%20fondo%2C%20indossata%20sopra%20jeans%20in%20denim%20a%20vita%20alta%20azzurri%2C%20porta%20una%20lussuosa%20borsa%20a%20tracolla%20Gucci%20in%20pelle%20color%20crema%20con%20logo%20GG%20intrecciato%20in%20metallo%20dorato%20e%20tracolla%20a%20catena%20dorata%20staccabile%20drappeggiata%20diagonalmente%20sul%20busto%2C%20figura%20a%20clessidra%20snella%20e%20atletica%20con%20proporzioni%20stimate%2034-25-37%20pollici%2C%20seno%20piccolo%20coppa%20C%20sottilmente%20sagomato%20sotto%20la%20giacca%2C%20altezza%20complessiva%20di%20circa%201%2C75%20m%20per%20una%20scalatura%20proporzionale%2C%20dettagli%20anatomici%20avanzati%20inclusa%20una%20profondit%C3%A0%20sagittale%20del%20busto%20di%20circa%2012%2C7%20cm%20dallo%20sterno%20all'apice%20per%20una%20proiezione%20delicata%2C%20profondit%C3%A0%20della%20vita%20di%2010%20cm%20all'ombelico%20per%20un%20affusolamento%20sottile%2C%20profondit%C3%A0%20dei%20fianchi%20di%2018%20cm%20nel%20punto%20pi%C3%B9%20largo%20per%20transizioni%20morbide%20e%20femminili%20a%20S%2C%20gambe%20e%20braccia%20lunghe%20e%20toniche%20senza%20una%20forte%20definizione%20muscolare%2C%20nessun%20tatuaggio%20visibile%20o%20gioielli%20aggiuntivi%2C%20posa%20rilassata%20e%20casual%20con%20una%20mano%20forse%20in%20tasca%20e%20spalle%20leggermente%20incurvate%20per%20un'atmosfera%20disinvolta%20e%20cool%2C%20angolo%20della%20fotocamera%20all'altezza%20degli%20occhi%20con%20inquadratura%20media%20dalla%20met%C3%A0%20della%20coscia%20in%20su%2C%20concentrandosi%20prominentemente%20su%20parte%20superiore%20del%20corpo%2C%20viso%2C%20volume%20dei%20capelli%2C%20paillettes%20e%20borsa%2C%20sfondo%20di%20un%20interno%20accogliente%20e%20lussuoso%20con%20pareti%20rivestite%20in%20legno%20caldo%2C%20una%20lampada%20da%20tavolo%20alta%20in%20ceramica%20color%20verde%20acqua%20con%20paralume%20plissettato%20beige%20su%20un%20tavolino%20rotondo%20in%20vetro%20che%20proietta%20una%20luce%20dorata%20soffusa%2C%20una%20pila%20di%20libri%20nelle%20vicinanze%2C%20un%20sottile%20riflesso%20dello%20specchio%20sulla%20destra%2C%20illuminazione%20ambientale%20calda%20e%20soffusa%20con%20delicati%20punti%20luce%20su%20paillettes%2C%20riccioli%20dei%20capelli%2C%20borsa%20in%20pelle%20e%20pelle%20che%20creano%20riflessi%20scintillanti%20e%20ombre%20sottili%20per%20profondit%C3%A0%2C%20fotorealismo%208K%20ad%20alta%20risoluzione%20con%20messa%20a%20fuoco%20nitidissima%20sui%20dettagli%20del%20viso%2C%20texture%20delle%20paillettes%2C%20ciocche%20di%20capelli%20e%20lucentezza%20della%20pelle%20per%20un'atmosfera%20editoriale%20sofisticata%2C%20glamour%20ma%20casual%22%2C%0A%20%20%22negative_prompt%22%3A%20%22sfocato%2C%20deforme%2C%20arti%20extra%2C%20viso%20mal%20disegnato%2C%20anatomia%20sbagliata%2C%20filigrana%2C%20testo%2C%20firma%2C%20sovraesposto%2C%20sottoesposto%2C%20cartone%20animato%2C%20illustrazione%2C%20disegno%2C%20anime%2C%20bassa%20qualit%C3%A0%2C%20artefatti%2C%20brutto%2C%20mani%20mutate%22%2C%0A%20%20%22steps%22%3A%2050%2C%0A%20%20%22sampler_name%22%3A%20%22DPM%2B%2B%202M%20Karras%22%2C%0A%20%20%22cfg_scale%22%3A%207%2C%0A%20%20%22width%22%3A%20832%2C%0A%20%20%22height%22%3A%201216%2C%0A%20%20%22seed%22%3A%20-1%2C%0A%20%20%22model%22%3A%20%22realisticVisionV51%22%0A%7D)**
+
+---
+
+### No. 20: Prompt per ritratto selfie strutturato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -316,7 +1190,7 @@ Un prompt altamente dettagliato e strutturato, simile a JSON, progettato per gen
 
 ---
 
-### No. 2: Stile fotografico amatoriale grezzo e realistico
+### No. 21: Stile fotografico amatoriale grezzo e realistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -360,7 +1234,7 @@ crea solo immagini reali e non fittizie per il massimo effetto
 
 ---
 
-### No. 3: Modifiche multiple di immagini e sostituzione del testo
+### No. 22: Modifiche multiple di immagini e sostituzione del testo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -399,7 +1273,7 @@ Sostituisci il testo "Internet" con "GPT-IMAGE-1.5". Sostituisci il sottotitolo 
 
 ---
 
-### No. 4: Prompt per Sfondo Festivo
+### No. 23: Prompt per Sfondo Festivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -438,7 +1312,7 @@ I colori vivaci e brillanti creano un'atmosfera festosa e celebrativa 🎅
 
 ---
 
-### No. 5: Descrizione dello stile di GPT Image 1.5 per l'estetica dei film anni '90
+### No. 24: Descrizione dello stile di GPT Image 1.5 per l'estetica dei film anni '90
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -472,7 +1346,7 @@ ricostruisci solo le figure in modo che siano realistiche.
 
 ---
 
-### No. 6: Aggiornamento visivo dei personaggi mantenendo l'atmosfera originale
+### No. 25: Aggiornamento visivo dei personaggi mantenendo l'atmosfera originale
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -505,7 +1379,7 @@ Cambia il personaggio in un "aspetto più realistico" mantenendo intatta l'atmos
 
 ---
 
-### No. 7: Ritratto d'arte in bianco e nero con colore selettivo
+### No. 26: Ritratto d'arte in bianco e nero con colore selettivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -548,7 +1422,7 @@ Toni monocromatici ad alto contrasto con isolamento selettivo del colore solo su
 
 ---
 
-### No. 8: Fantastica illustrazione dell'Ouroboros
+### No. 27: Fantastica illustrazione dell'Ouroboros
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -581,7 +1455,7 @@ Genera un'immagine che raffiguri in modo suggestivo un'illustrazione dell'Urobor
 
 ---
 
-### No. 9: Griglia di confronto tra acconciature estetiche
+### No. 28: Griglia di confronto tra acconciature estetiche
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -661,7 +1535,7 @@ description: "Un ritratto a collage 3x3 pulito ed estetico che mostra diverse ac
 
 ---
 
-### No. 10: Fotografia Cinematografica Autentica di Padre e Figlio
+### No. 29: Fotografia Cinematografica Autentica di Padre e Figlio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -694,7 +1568,7 @@ Una fotografia di lifestyle, schietta e cinematografica, di un padre stanco e de
 
 ---
 
-### No. 11: Poster Pop Art Decora di Harajuku di Aniko
+### No. 30: Poster Pop Art Decora di Harajuku di Aniko
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -733,7 +1607,7 @@ Un prompt altamente dettagliato e strutturato, progettato per trasformare un per
 
 ---
 
-### No. 12: Foglio di adesivi stagionali 3D Kawaii
+### No. 31: Foglio di adesivi stagionali 3D Kawaii
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -785,7 +1659,7 @@ Crea una tela 3D kawaii 2:3 con nove adesivi in stile chibi vestiti con abiti a 
 
 ---
 
-### No. 13: GPT-image 1.5 Test Prompt per una Scena Dettagliata
+### No. 32: GPT-image 1.5 Test Prompt per una Scena Dettagliata
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -819,7 +1693,7 @@ Una ragazza con {argument name="hair color" default="lunghi capelli neri"} e {ar
 
 ---
 
-### No. 14: Prompt per lo scambio di vestiti da immagine a immagine
+### No. 33: Prompt per lo scambio di vestiti da immagine a immagine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -864,7 +1738,7 @@ Prendi i vestiti dal riferimento e cambia i miei per abbinarli.
 
 ---
 
-### No. 15: Storyboard cinematografico: foglio contatti
+### No. 34: Storyboard cinematografico: foglio contatti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -898,7 +1772,7 @@ Una storyboard a griglia 3x3 composta da nove fotogrammi cinematografici spontan
 
 ---
 
-### No. 16: Cambio d'abito: smoking e papillon
+### No. 35: Cambio d'abito: smoking e papillon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -937,7 +1811,7 @@ Cambiami l'outfit qui in uno smoking e un papillon.
 
 ---
 
-### No. 17: Prompt per la descrizione delle caratteristiche del personaggio (giapponese)
+### No. 36: Prompt per la descrizione delle caratteristiche del personaggio (giapponese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -976,7 +1850,7 @@ Crea un'immagine che indichi le varie parti di questo personaggio con delle line
 
 ---
 
-### No. 18: Ritratto in studio iperrealistico con integrazione di prodotto sovradimensionata (Sprite)
+### No. 37: Ritratto in studio iperrealistico con integrazione di prodotto sovradimensionata (Sprite)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1028,7 +1902,7 @@ Un ritratto in studio iperrealistico a figura intera di un uomo dalla foto alleg
 
 ---
 
-### No. 19: Illustrazione in stile manoscritto occidentale per 'Orychophragmus violaceus'
+### No. 38: Illustrazione in stile manoscritto occidentale per 'Orychophragmus violaceus'
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1061,7 +1935,7 @@ Disegna l'Orychophragmus violaceus nello stile di un antico documento occidental
 
 ---
 
-### No. 20: Prompt per la strategia di composizione artistica
+### No. 39: Prompt per la strategia di composizione artistica
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1098,7 +1972,7 @@ Cancellare accuratamente le informazioni che non devono essere viste. Disegnare 
 
 ---
 
-### No. 21: Prompt per generare disegni a pastello intenzionalmente brutti e infantili
+### No. 40: Prompt per generare disegni a pastello intenzionalmente brutti e infantili
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1131,7 +2005,7 @@ Posiziona il soggetto in piedi al centro, con una posa e una composizione sempli
 
 ---
 
-### No. 22: Prompt di separazione dell'abbigliamento per GPT Image 1.5
+### No. 41: Prompt di separazione dell'abbigliamento per GPT Image 1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1170,7 +2044,7 @@ Disponi ogni capo del suo abbigliamento separatamente sul letto.
 
 ---
 
-### No. 23: Illusione del ritratto di oggetti in natura morta
+### No. 42: Illusione del ritratto di oggetti in natura morta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1204,7 +2078,7 @@ Crea un'immagine che assomigli a una natura morta da tavolo composta da molti pi
 
 ---
 
-### No. 24: Ritratto Cinematografico Iperrealistico
+### No. 43: Ritratto Cinematografico Iperrealistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1285,7 +2159,7 @@ Un prompt altamente dettagliato e strutturato che confronta GPT Image 1.5 e Gemi
 
 ---
 
-### No. 25: Poster Pop Art Decora di Harajuku di Aniko (Dettagliato)
+### No. 44: Poster Pop Art Decora di Harajuku di Aniko (Dettagliato)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1318,7 +2192,7 @@ Un prompt altamente dettagliato e strutturato, progettato per trasformare un per
 
 ---
 
-### No. 26: Ritratto Cinematografico Malinconico
+### No. 45: Ritratto Cinematografico Malinconico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +2225,7 @@ ritratto cinematografico e malinconico di un uomo in giacca scura, frontale ma l
 
 ---
 
-### No. 27: Copertina di TIME Magazine "Persona dell'anno"
+### No. 46: Copertina di TIME Magazine "Persona dell'anno"
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1390,7 +2264,7 @@ Crea la copertina della rivista TIME "100 People of the Year". Tutti i titoli e 
 
 ---
 
-### No. 28: Silhouette di nuvole ultra-realistiche
+### No. 47: Silhouette di nuvole ultra-realistiche
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1448,7 +2322,7 @@ L'atmosfera generale è calma, ottimista e visivamente sorprendente, con una sat
 
 ---
 
-### No. 29: Prompt per la generazione di immagini estetiche
+### No. 48: Prompt per la generazione di immagini estetiche
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1481,7 +2355,7 @@ Una fotografia cinematografica ad alta risoluzione di un faro antico e solitario
 
 ---
 
-### No. 30: Foto di una schiacciata dinamica di pallacanestro
+### No. 49: Foto di una schiacciata dinamica di pallacanestro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1520,7 +2394,7 @@ Crea una foto dinamica di questa persona mentre schiaccia a canestro.
 
 ---
 
-### No. 31: Schizzo schematico a matita
+### No. 50: Schizzo schematico a matita
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1554,7 +2428,7 @@ Schizzo a matita per gli schemi di {argument name="character" default="bender"}
 
 ---
 
-### No. 32: Prompt avanzato per la fotografia di prodotti per GPT Image 1.5
+### No. 51: Prompt avanzato per la fotografia di prodotti per GPT Image 1.5
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1608,7 +2482,7 @@ sfocato, bassa risoluzione, anatomia distorta, arti extra, mani deformate, carto
 
 ---
 
-### No. 33: Schizzo 3D in Grafite Ultra Dettagliato
+### No. 52: Schizzo 3D in Grafite Ultra Dettagliato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1641,7 +2515,7 @@ Genera un'immagine dalla foto caricata che reimmagini il soggetto come uno schiz
 
 ---
 
-### No. 34: Design di Gashapon Capsule Toy
+### No. 53: Design di Gashapon Capsule Toy
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1681,7 +2555,7 @@ Crea un giocattolo in miniatura a capsula in stile gashapon, basato su un singol
 
 ---
 
-### No. 35: Generazione di schizzi a matita in grafite 3D ultra dettagliati
+### No. 54: Generazione di schizzi a matita in grafite 3D ultra dettagliati
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1714,7 +2588,7 @@ Genera un'immagine dalla foto caricata che reimmagini il soggetto come uno schiz
 
 ---
 
-### No. 36: Rovine del deserto della griglia di matematica pura
+### No. 55: Rovine del deserto della griglia di matematica pura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1759,7 +2633,7 @@ Vista aerea obliqua, foschia dorata del deserto, luce solare nitida e intensa, o
 
 ---
 
-### No. 37: Prompt per puzzle di ragionamento e di istruzioni
+### No. 56: Prompt per puzzle di ragionamento e di istruzioni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1811,7 +2685,7 @@ Un prompt complesso progettato per testare le capacità di ragionamento e di seg
 
 ---
 
-### No. 38: Meta-Prompt: Crea un'immagine che descriva i passaggi della sua stessa creazione
+### No. 57: Meta-Prompt: Crea un'immagine che descriva i passaggi della sua stessa creazione
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1844,7 +2718,7 @@ Crea un'immagine che illustri i passaggi molto dettagliati che segui per creare 
 
 ---
 
-### No. 39: Punto croce Elfo di Natale Anime
+### No. 58: Punto croce Elfo di Natale Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1883,7 +2757,7 @@ Un punto croce di un elfo di Natale - stile anime. L'elfo sta lavorando in un ne
 
 ---
 
-### No. 40: Ritratto Cinematografico Malinconico con Motion Blur e Illuminazione Direzionale
+### No. 59: Ritratto Cinematografico Malinconico con Motion Blur e Illuminazione Direzionale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1922,7 +2796,7 @@ Genera un ritratto cinematografico e malinconico di un giovane modello con pelle
 
 ---
 
-### No. 41: Griglia di ritratti con espressioni facciali varie
+### No. 60: Griglia di ritratti con espressioni facciali varie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1961,7 +2835,7 @@ Partendo dalla foto caricata come riferimento di base, crea una griglia di ritra
 
 ---
 
-### No. 42: Scena d'azione cinematografica iperrealistica da immagine di riferimento
+### No. 61: Scena d'azione cinematografica iperrealistica da immagine di riferimento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2005,7 +2879,7 @@ L'ambiente è una moderna strada urbana con prospettiva cinematografica. Lo sfon
 
 ---
 
-### No. 43: Servizio fotografico di prodotti subacquei con luce caustica
+### No. 62: Servizio fotografico di prodotti subacquei con luce caustica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2044,7 +2918,7 @@ Un prompt pensato per la fotografia di prodotto, che genera un'immagine ad altis
 
 ---
 
-### No. 44: Robot umanoide ultra-realistico sul tetto
+### No. 63: Robot umanoide ultra-realistico sul tetto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2084,7 +2958,7 @@ Fotografia cinematografica ultra-realistica di un robot umanoide in piedi su un 
 
 ---
 
-### No. 45: Prompt strutturato complesso per una scena piovosa a Times Square con descrizione dettagliata del soggetto
+### No. 64: Prompt strutturato complesso per una scena piovosa a Times Square con descrizione dettagliata del soggetto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2186,7 +3060,7 @@ Un prompt altamente dettagliato e strutturato, simile a JSON, progettato per GPT
 
 ---
 
-### No. 46: Griglia di New York: Quartieri con Cibo Estremo e Arte
+### No. 65: Griglia di New York: Quartieri con Cibo Estremo e Arte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2226,7 +3100,7 @@ Una griglia 2x2 di food art. Seleziona casualmente 4 diversi {argument name="new
 
 ---
 
-### No. 47: Prompt per scena notturna cinematografica in strada
+### No. 66: Prompt per scena notturna cinematografica in strada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2265,7 +3139,7 @@ Una donna cammina per una strada piovosa di notte, insegne al neon si riflettono
 
 ---
 
-### No. 48: Template di prompt per l'arte digitale fantasy cinese
+### No. 67: Template di prompt per l'arte digitale fantasy cinese
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2339,7 +3213,7 @@ Un template di prompt altamente strutturato in formato JSON per la generazione d
 
 ---
 
-### No. 49: Aggiungere testo scritto a mano e decorazioni a un'immagine
+### No. 68: Aggiungere testo scritto a mano e decorazioni a un'immagine
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2373,7 +3247,7 @@ Aggiungi del testo scritto a mano ({argument name="date" default="2025.12.18"} +
 
 ---
 
-### No. 50: Esorcista con Orecchie di Coniglio Morbide e Coniglio Apprendista Famiglio
+### No. 69: Esorcista con Orecchie di Coniglio Morbide e Coniglio Apprendista Famiglio
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2406,7 +3280,7 @@ Un esorcista con soffici orecchie da coniglio e un coniglio familiare che è anc
 
 ---
 
-### No. 51: GPT Image 1.5 World Tour: Modello di Prompt
+### No. 70: GPT Image 1.5 World Tour: Modello di Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2470,7 +3344,7 @@ SPECIFICA DELLA POSIZIONE:
 
 ---
 
-### No. 52: Ritratto a inchiostro blu romantico
+### No. 71: Ritratto a inchiostro blu romantico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2509,7 +3383,7 @@ Converti l'immagine sopra in un ritratto ultra realistico di entrambi in una pos
 
 ---
 
-### No. 53: Illustrazione di bellezza in stile Ukiyo-e moderno
+### No. 72: Illustrazione di bellezza in stile Ukiyo-e moderno
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2542,7 +3416,7 @@ Sembra che molte composizioni di ritratti di bellezze Ukiyo-e multicolori siano 
 
 ---
 
-### No. 54: Abstract Fibonacci Particle Facial Features CGI Prompt
+### No. 73: Abstract Fibonacci Particle Facial Features CGI Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2587,7 +3461,7 @@ Utilizzando la tecnologia CGI (computer-generated imagery), la scena è presenta
 
 ---
 
-### No. 55: Prompt di Trasformazione da Immagine a Schizzo con Dettagli delle Mani
+### No. 74: Prompt di Trasformazione da Immagine a Schizzo con Dettagli delle Mani
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2622,7 +3496,7 @@ Mostra una mano destra che tiene una penna e una gomma vicino allo schizzo, come
 
 ---
 
-### No. 56: Ritratto Cinematografico Bicolore da Foto Caricata
+### No. 75: Ritratto Cinematografico Bicolore da Foto Caricata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2685,7 +3559,7 @@ Rapporto d'aspetto: 3:4"
 
 ---
 
-### No. 57: Ritratto Cinematografico Malinconico con Motion Blur
+### No. 76: Ritratto Cinematografico Malinconico con Motion Blur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2724,7 +3598,7 @@ Genera un ritratto cinematografico e malinconico di un giovane modello maschile 
 
 ---
 
-### No. 58: Ritratto Retro Vintage da Foto di Riferimento
+### No. 77: Ritratto Retro Vintage da Foto di Riferimento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2775,7 +3649,7 @@ Crea un'immagine retrò vintage granulosa ma luminosa della foto di riferimento.
 
 ---
 
-### No. 59: Prompt per la creazione di miniature di giochi VTuber
+### No. 78: Prompt per la creazione di miniature di giochi VTuber
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2824,7 +3698,7 @@ Correggi la "Ge" collassata nell'angolo in alto a sinistra.
 
 ---
 
-### No. 60: Prompt tecnico per matrice di personaggi robot 3x2
+### No. 79: Prompt tecnico per matrice di personaggi robot 3x2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2863,7 +3737,7 @@ Crea una matrice 3x2 di un personaggio robot. Mostra la vista frontale, posterio
 
 ---
 
-### No. 61: Ritratto editoriale ultra-realistico basato su immagine di riferimento
+### No. 80: Ritratto editoriale ultra-realistico basato su immagine di riferimento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2897,7 +3771,7 @@ Estetica Sabyasachi senza tempo, sobria e classica. Nessuno stile moderno, nessu
 
 ---
 
-### No. 62: Prompt per la trasmissione di emozioni complesse
+### No. 81: Prompt per la trasmissione di emozioni complesse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2942,7 +3816,7 @@ Un prompt progettato per testare la capacità dell'IA di trasmettere contemporan
 
 ---
 
-### No. 63: Generazione di personaggi anime con ChatGPT
+### No. 82: Generazione di personaggi anime con ChatGPT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2981,7 +3855,7 @@ trasformarla in un personaggio anime
 
 ---
 
-### No. 64: Campo di battaglia giavanese del XII secolo all'alba
+### No. 83: Campo di battaglia giavanese del XII secolo all'alba
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3014,7 +3888,7 @@ Un campo di battaglia all'alba nella Giava del XII secolo, reso con toni tenui e
 
 ---
 
-### No. 65: Ragazza sul tetto che guarda il cielo
+### No. 84: Ragazza sul tetto che guarda il cielo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3047,7 +3921,7 @@ Rappresenta il desiderio e il senso di liberazione di una ragazza che guarda il 
 
 ---
 
-### No. 66: Max e un amico caribù
+### No. 85: Max e un amico caribù
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3080,7 +3954,7 @@ regala a Max un simpatico amico caribù
 
 ---
 
-### No. 67: FCG Method Prompt: Storia in Time-Lapse
+### No. 86: FCG Method Prompt: Storia in Time-Lapse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3113,7 +3987,7 @@ Crea una serie di immagini che mostrino cosa succede dopo 5 minuti, 10 minuti, 1
 
 ---
 
-### No. 68: Generazione di immagini per "Day Site"
+### No. 87: Generazione di immagini per "Day Site"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3146,7 +4020,7 @@ un sito con l'immagine del giorno
 
 ---
 
-### No. 69: Prompt per la generazione di immagini di star K-Pop
+### No. 88: Prompt per la generazione di immagini di star K-Pop
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3179,7 +4053,7 @@ Come sarei se fossi una star del K-Pop?
 
 ---
 
-### No. 70: Prompt per collage artistico AI educativo
+### No. 89: Prompt per collage artistico AI educativo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3212,7 +4086,7 @@ Il soggetto diventa il decimo pezzo impilato al centro.
 
 ---
 
-### No. 71: Prompt: Corridoio inquietante con creatura d'ombra
+### No. 90: Prompt: Corridoio inquietante con creatura d'ombra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3245,7 +4119,7 @@ Un corridoio scarsamente illuminato e vuoto, fiancheggiato da ritratti antichi, 
 
 ---
 
-### No. 72: Prompt di benchmark per "Squalo realistico che suona il pianoforte"
+### No. 91: Prompt di benchmark per "Squalo realistico che suona il pianoforte"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3278,7 +4152,7 @@ uno squalo realistico che suona il pianoforte 🦈
 
 ---
 
-### No. 73: Ritratto: Silhouette in controluce
+### No. 92: Ritratto: Silhouette in controluce
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3311,7 +4185,7 @@ Perso nella brillantezza, la mia silhouette è tutto ciò che rimane.
 
 ---
 
-### No. 74: Prompt: Corridoio inquietante con creatura d'ombra
+### No. 93: Prompt: Corridoio inquietante con creatura d'ombra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3362,7 +4236,7 @@ Un corridoio scarsamente illuminato e vuoto, fiancheggiato da ritratti antichi, 
 
 ---
 
-### No. 75: Prompt per l'immagine di un medico stereotipato
+### No. 94: Prompt per l'immagine di un medico stereotipato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3396,7 +4270,7 @@ genera un singolo ritratto fotorealistico di un medico [del SSN/del Regno Unito/
 
 ---
 
-### No. 76: Simulazione dell'archivio di progetti architettonici della dinastia Qing
+### No. 95: Simulazione dell'archivio di progetti architettonici della dinastia Qing
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3436,7 +4310,7 @@ Un'immagine d'archivio di design altamente precisa dell'antica architettura cine
 
 ---
 
-### No. 77: Prompt per l'analisi delle immagini di GPT-5.2
+### No. 96: Prompt per l'analisi delle immagini di GPT-5.2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3488,7 +4362,7 @@ Frontale, posteriore, da sinistra, da destra, dall'alto, dal basso, diagonale da
 
 ---
 
-### No. 78: Istruzioni per la modifica delle immagini di gioielli e abbigliamento
+### No. 97: Istruzioni per la modifica delle immagini di gioielli e abbigliamento
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3529,7 +4403,7 @@ Il polso sembra freddo, allunga bene la manica
 
 ---
 
-### No. 79: Prompt editoriale ultra-fotorealistico per posa di caduta accidentale
+### No. 98: Prompt editoriale ultra-fotorealistico per posa di caduta accidentale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3650,7 +4524,7 @@ Un prompt JSON altamente strutturato per GPT Image 1.5 per generare un'immagine 
 
 ---
 
-### No. 80: Cane su Skateboard, Prompt Originale per Foto iPhone
+### No. 99: Cane su Skateboard, Prompt Originale per Foto iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3689,7 +4563,7 @@ Fotografia di un cane su uno skateboard scattata con il primo iPhone.
 
 ---
 
-### No. 81: Ritratto fumetto Pop-Art anni '60
+### No. 100: Ritratto fumetto Pop-Art anni '60
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3722,7 +4596,7 @@ Un ritratto del soggetto in stile pop-art da fumetto anni '60, illustrato con au
 
 ---
 
-### No. 82: Prompt per infografica su smartphone 5G
+### No. 101: Prompt per infografica su smartphone 5G
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3761,7 +4635,7 @@ Crea un'infografica che mostri ed etichetti i componenti interni ed esterni impo
 
 ---
 
-### No. 83: Generare un fumetto satirico nello stile di Hua Junwu
+### No. 102: Generare un fumetto satirico nello stile di Hua Junwu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3809,7 +4683,7 @@ Disegna la seguente vignetta satirica nello stile di {argument name="artist styl
 
 ---
 
-### No. 84: Prompt per la generazione di immagini fotorealistiche
+### No. 103: Prompt per la generazione di immagini fotorealistiche
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3863,7 +4737,7 @@ Quattro prompt di esempio forniti per dimostrare le capacità di GPT Image 1.5, 
 
 ---
 
-### No. 85: Generazione dettagliata di annunci pubblicitari
+### No. 104: Generazione dettagliata di annunci pubblicitari
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3896,7 +4770,7 @@ Crea una pubblicità dettagliata per il suo outfit di Natale.
 
 ---
 
-### No. 86: Genera un cast live-action di un anime
+### No. 105: Genera un cast live-action di un anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3942,7 +4816,7 @@ Dammi il cast live action di {argument name="anime title" default="[anime]"}
 
 ---
 
-### No. 87: Generazione di Contact Sheet Cinematografici da un Prompt di Immagine di Riferimento
+### No. 106: Generazione di Contact Sheet Cinematografici da un Prompt di Immagine di Riferimento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3975,7 +4849,7 @@ Studia attentamente l'immagine caricata e interiorizza completamente la scena: l
 
 ---
 
-### No. 88: Prompt per la generazione di immagini con risoluzione media
+### No. 107: Prompt per la generazione di immagini con risoluzione media
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4008,7 +4882,7 @@ Una fotografia cinematografica altamente dettagliata di un antico samurai solita
 
 ---
 
-### No. 89: Testare la manutenzione e la modifica dello stile in GPT Image 1.5
+### No. 108: Testare la manutenzione e la modifica dello stile in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4061,7 +4935,7 @@ Cambia con una cuffia e fai una forma a cuore con entrambe le mani, lasciando la
 
 ---
 
-### No. 90: Prompt di Realismo Storico per una Foto del Muro di Berlino
+### No. 109: Prompt di Realismo Storico per una Foto del Muro di Berlino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4101,7 +4975,7 @@ Foto realistica scattata con iPhone a 52°31′12″N 13°22′41″E il {argume
 
 ---
 
-### No. 91: Pubblicità Oreo con Babbo Natale
+### No. 110: Pubblicità Oreo con Babbo Natale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4140,7 +5014,7 @@ Crea un annuncio Oreo in formato 9:16 con Babbo Natale
 
 ---
 
-### No. 92: Prompt per il poster della città testato su GPT-1.5
+### No. 111: Prompt per il poster della città testato su GPT-1.5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4174,7 +5048,7 @@ Un vivace poster di viaggio retro-futuristico per la città di {argument name="c
 
 ---
 
-### No. 93: Modifica Immagine Prompt: Aggiungere Creature allo Sfondo
+### No. 112: Modifica Immagine Prompt: Aggiungere Creature allo Sfondo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4208,7 +5082,7 @@ utilizzando la prima immagine e il suo stile e dimensione, aggiungi la creatura 
 
 ---
 
-### No. 94: Prompt per la generazione di schede personaggio (GPT e Nano Banana)
+### No. 113: Prompt per la generazione di schede personaggio (GPT e Nano Banana)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4247,7 +5121,7 @@ nello stesso stile dell'immagine, genera una scheda del personaggio suddivisa in
 
 ---
 
-### No. 95: Converti l'immagine in una scena notturna con luci calde
+### No. 114: Converti l'immagine in una scena notturna con luci calde
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4286,7 +5160,7 @@ Converti in una scena notturna con luci calde.
 
 ---
 
-### No. 96: Foto iperrealistica di una mano con braccialetti di diamanti
+### No. 115: Foto iperrealistica di una mano con braccialetti di diamanti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4325,7 +5199,7 @@ una foto iperrealistica della mano di una donna bianca, completamente estesa dal
 
 ---
 
-### No. 97: Scena di programmazione di un ingegnere JS con testo specifico
+### No. 116: Scena di programmazione di un ingegnere JS con testo specifico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4359,7 +5233,7 @@ Crea un'immagine di un ingegnere JS che impara e programma sull'IA. Indossa una 
 
 ---
 
-### No. 98: Prompt per il recasting dell'idolo del pro-wrestling "Glitter-Bomb"
+### No. 117: Prompt per il recasting dell'idolo del pro-wrestling "Glitter-Bomb"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4399,7 +5273,7 @@ Usando [subject image] come riferimento, trasformali in un idolo da promo di pro
 
 ---
 
-### No. 99: Prompt per il trasferimento di abiti per la generazione di personaggi
+### No. 118: Prompt per il trasferimento di abiti per la generazione di personaggi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4444,7 +5318,7 @@ La donna nella prima immagine dovrebbe indossare o mettere tutti gli elementi de
 
 ---
 
-### No. 100: Migliorare l'identificazione di elementi asimmetrici in GPT Image 1.5
+### No. 119: Migliorare l'identificazione di elementi asimmetrici in GPT Image 1.5
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4477,7 +5351,7 @@ Fare attenzione a identificare correttamente (e a non confondere) gli elementi c
 
 ---
 
-### No. 101: Richiesta di foto stock fotorealistica di una donna
+### No. 120: Richiesta di foto stock fotorealistica di una donna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4511,863 +5385,13 @@ vista frontale di una donna carina con capelli {argument name="hair color" defau
 
 ---
 
-### No. 102: Colossal Man Seated in London Street Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt ultra-fotorealistico che richiede un'inquadratura grandangolare da drone di un uomo colossale, identico a un riferimento, seduto casualmente su una strada di Londra. Specifica il suo abbigliamento, la postura rilassata, la scala ridotta degli elementi circostanti di Londra (auto, edifici, lampioni) e le condizioni ambientali dettagliate (luce diurna soffusa e nuvolosa, pavimentazione bagnata e riflettente, realismo cinematografico).
-
-#### 📝 Prompt
-
-```
-Ripresa ultra-fotorealistica grandangolare con drone di un uomo colossale, viso e corpo identici al 100% al riferimento, seduto casualmente su una strada di Londra. Un ginocchio alzato, postura rilassata. Indossa un soprabito blu scuro, un maglione di lana, pantaloni scuri, stivali e un berretto minimalista. Piccole auto, autobus, ciclisti e pedoni si muovono sotto di lui. I classici edifici in mattoni rossi di Londra, i lampioni neri e le strade acciottolate appaiono nani rispetto alla sua scala. Morbida luce diurna londinese nuvolosa, pavimentazione bagnata e riflettente, realismo cinematografico, gradazione cromatica naturale, dettagli estremi, scala e profondità realistiche.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035355008_2qsqrw_G8YCQw6a4AE3Jx8.jpg" width="600" alt="Colossal Man Seated in London Street Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035355412_6sq32c_G8YCQxAbAAAhtDV.jpg" width="600" alt="Colossal Man Seated in London Street Prompt - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Exaltus](https://x.com/BoldExaltus)
-- **Fonte:** [Twitter Post](https://x.com/BoldExaltus/status/2001289592239259655)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Ripresa%20ultra-fotorealistica%20grandangolare%20con%20drone%20di%20un%20uomo%20colossale%2C%20viso%20e%20corpo%20identici%20al%20100%25%20al%20riferimento%2C%20seduto%20casualmente%20su%20una%20strada%20di%20Londra.%20Un%20ginocchio%20alzato%2C%20postura%20rilassata.%20Indossa%20un%20soprabito%20blu%20scuro%2C%20un%20maglione%20di%20lana%2C%20pantaloni%20scuri%2C%20stivali%20e%20un%20berretto%20minimalista.%20Piccole%20auto%2C%20autobus%2C%20ciclisti%20e%20pedoni%20si%20muovono%20sotto%20di%20lui.%20I%20classici%20edifici%20in%20mattoni%20rossi%20di%20Londra%2C%20i%20lampioni%20neri%20e%20le%20strade%20acciottolate%20appaiono%20nani%20rispetto%20alla%20sua%20scala.%20Morbida%20luce%20diurna%20londinese%20nuvolosa%2C%20pavimentazione%20bagnata%20e%20riflettente%2C%20realismo%20cinematografico%2C%20gradazione%20cromatica%20naturale%2C%20dettagli%20estremi%2C%20scala%20e%20profondit%C3%A0%20realistiche.)**
-
----
-
-### No. 103: Converti la grafica in un acquerello trasparente
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Un prompt utilizzato con GPT Image 1.5 per convertire una grafica esistente in uno stile di pittura ad acquerello trasparente, suggerendo specificamente che dovrebbe apparire come se fosse stato disegnato in un quaderno di schizzi. L'utente nota che è stato testato anche un prompt più dettagliato (nel testo ALT, che non è fornito qui).
-
-#### 📝 Prompt
-
-```
-Convertilo in un acquerello trasparente disegnato in un quaderno da schizzi.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035428011_7sp9sm_G8X-KuNbMAAFKBU.jpg" width="600" alt="Converti la grafica in un acquerello trasparente - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [シング｜thingnld](https://x.com/thingnld)
-- **Fonte:** [Twitter Post](https://x.com/thingnld/status/2001286121062601000)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Convertilo%20in%20un%20acquerello%20trasparente%20disegnato%20in%20un%20quaderno%20da%20schizzi.)**
-
----
-
-### No. 104: Prompt: Incontro tra scolaro cyborg e sirena
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Un prompt che descrive una scena con un ragazzo cyborg in uniforme scolastica (gakuran) che incontra un ragazzo sirena anch'esso in uniforme scolastica. L'utente sta testando come GPT Image 1.5 gestisce un prompt precedentemente utilizzato in Niji Journey.
-
-#### 📝 Prompt
-
-```
-L'incontro tra un ragazzo cyborg in gakuran (uniforme scolastica) e un ragazzo sirena in gakuran.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413833_7e6zp0_G8X-RlvbMAAneBV.jpg" width="600" alt="Prompt: Incontro tra scolaro cyborg e sirena - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035413809_wm7ztv_G8X-Rk3bYAAMok3.jpg" width="600" alt="Prompt: Incontro tra scolaro cyborg e sirena - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [ak@AI関係の投稿垢](https://x.com/Ak_Quen)
-- **Fonte:** [Twitter Post](https://x.com/Ak_Quen/status/2001285219467645324)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=L'incontro%20tra%20un%20ragazzo%20cyborg%20in%20gakuran%20(uniforme%20scolastica)%20e%20un%20ragazzo%20sirena%20in%20gakuran.)**
-
----
-
-### No. 105: Converti la grafica in un bozzetto a matita
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Un semplice prompt utilizzato con GPT Image 1.5 per trasformare una grafica esistente in un disegno grezzo, accuratamente tracciato a matita. Questo è utile per generare rapidamente concept art o bozze iniziali da immagini rifinite.
-
-#### 📝 Prompt
-
-```
-Si prega di convertirlo in un disegno grezzo accuratamente tracciato a matita.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035424030_seep4f_G8X56cHacAASuiS.jpg" width="600" alt="Converti la grafica in un bozzetto a matita - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035423808_0hoko2_G8X55sbbcAAgquC.jpg" width="600" alt="Converti la grafica in un bozzetto a matita - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [シング｜thingnld](https://x.com/thingnld)
-- **Fonte:** [Twitter Post](https://x.com/thingnld/status/2001281464365908449)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Si%20prega%20di%20convertirlo%20in%20un%20disegno%20grezzo%20accuratamente%20tracciato%20a%20matita.)**
-
----
-
-### No. 106: Paesaggio costiero aereo dettagliato
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Un prompt altamente dettagliato e complesso utilizzato per testare l'aderenza di GPT Image 1.5 alle istruzioni, che descrive una vista aerea di una costa con elementi specifici come scogliere, gabbiani, riflessi di luce e aree industriali distanti.
-
-#### 📝 Prompt
-
-```
-Riprese aeree effettuate da un drone, lungo la costa, scogliere a picco, gabbiani in volo, leggera vegetazione presente, poche nuvole, luce solare che si riflette sulla superficie dell'acqua, una piccola area industriale visibile in lontananza
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035394309_87dnf0_G8XsBGebMAAwRzl.jpg" width="600" alt="Paesaggio costiero aereo dettagliato - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [KEITO💻AIディレクター](https://x.com/keitowebai)
-- **Fonte:** [Twitter Post](https://x.com/keitowebai/status/2001266120939213110)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Riprese%20aeree%20effettuate%20da%20un%20drone%2C%20lungo%20la%20costa%2C%20scogliere%20a%20picco%2C%20gabbiani%20in%20volo%2C%20leggera%20vegetazione%20presente%2C%20poche%20nuvole%2C%20luce%20solare%20che%20si%20riflette%20sulla%20superficie%20dell'acqua%2C%20una%20piccola%20area%20industriale%20visibile%20in%20lontananza)**
-
----
-
-### No. 107: Test della correzione parziale dell'immagine e della modifica della posa in GPT-Image-1.5
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-L'utente tenta di modificare un'immagine generata mantenendo l'aspetto della persona invariato, ma cambiandone la posizione e il contesto (spostandola sul sedile del passeggero di un'auto con guida a sinistra, mentre conversa con il conducente). Il test ha mostrato risultati contrastanti per quanto riguarda l'aderenza alla posizione e al contesto.
-
-#### 📝 Prompt
-
-```
-■Voglio che la persona nell'immagine di riferimento sia sul sedile del passeggero di un'auto senza cambiarne l'aspetto.
-・L'auto dovrebbe essere {argument name="car side" default="con guida a sinistra"}
-・Deve apparire sorridente e intenta a conversare con il conducente
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035401485_nll3rm_G8Xsjj0bkAAqym7.jpg" width="600" alt="Test della correzione parziale dell'immagine e della modifica della posa in GPT-Image-1.5 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035401249_luvigy_G8XsjkbakAElyZb.jpg" width="600" alt="Test della correzione parziale dell'immagine e della modifica della posa in GPT-Image-1.5 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035401368_e4fw93_G8XsjkJbAAExgsa.jpg" width="600" alt="Test della correzione parziale dell'immagine e della modifica della posa in GPT-Image-1.5 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035403670_4cuz60_G8XsjkjaYAANMlF.jpg" width="600" alt="Test della correzione parziale dell'immagine e della modifica della posa in GPT-Image-1.5 - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [࿎♡̸᩠noi࿎](https://x.com/iixaii_ra)
-- **Fonte:** [Twitter Post](https://x.com/iixaii_ra/status/2001265707804401776)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%E2%96%A0Voglio%20che%20la%20persona%20nell'immagine%20di%20riferimento%20sia%20sul%20sedile%20del%20passeggero%20di%20un'auto%20senza%20cambiarne%20l'aspetto.%0A%E3%83%BBL'auto%20dovrebbe%20essere%20%7Bargument%20name%3D%22car%20side%22%20default%3D%22con%20guida%20a%20sinistra%22%7D%0A%E3%83%BBDeve%20apparire%20sorridente%20e%20intenta%20a%20conversare%20con%20il%20conducente)**
-
----
-
-### No. 108: Testare la stretta aderenza al prompt in GPT Image 1.5 vs. Gemini
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-L'utente confronta GPT Image 1.5 e Gemini utilizzando lo stesso prompt dettagliato, rilevando che GPT Image 1.5 è più "creativo" e meno aderente a regole rigide, mentre Gemini mostra una migliore conformità. Il prompt specifica vincoli visivi dettagliati per una scena isometrica di una cinta muraria.
-
-#### 📝 Prompt
-
-```
-Telecamera isometrica a tre quarti ({argument name="camera angle" default="40–45°"})
-Forma del muro della città + inquadratura + spazio negativo
-"Niente (incluso l'acqua) al di fuori delle mura della città"
-I simboli di sfondo devono essere discreti
-Realismo dei materiali e disciplina della scala
-Gestione del testo / gerarchia infografica
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035402465_92duug_G8XebQ1XcAId1Hk.jpg" width="600" alt="Testare la stretta aderenza al prompt in GPT Image 1.5 vs. Gemini - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035402969_4ebrlt_G8XeZoVXkAAVpZK.jpg" width="600" alt="Testare la stretta aderenza al prompt in GPT Image 1.5 vs. Gemini - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035404589_4sfk2q_G8XebzSWoAENk57.jpg" width="600" alt="Testare la stretta aderenza al prompt in GPT Image 1.5 vs. Gemini - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035403370_xsykhf_G8Xea2hWkAIYyqG.jpg" width="600" alt="Testare la stretta aderenza al prompt in GPT Image 1.5 vs. Gemini - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Toby Wang](https://x.com/ZhichengWang87)
-- **Fonte:** [Twitter Post](https://x.com/ZhichengWang87/status/2001256140802330719)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Telecamera%20isometrica%20a%20tre%20quarti%20(%7Bargument%20name%3D%22camera%20angle%22%20default%3D%2240%E2%80%9345%C2%B0%22%7D)%0AForma%20del%20muro%20della%20citt%C3%A0%20%2B%20inquadratura%20%2B%20spazio%20negativo%0A%22Niente%20(incluso%20l'acqua)%20al%20di%20fuori%20delle%20mura%20della%20citt%C3%A0%22%0AI%20simboli%20di%20sfondo%20devono%20essere%20discreti%0ARealismo%20dei%20materiali%20e%20disciplina%20della%20scala%0AGestione%20del%20testo%20%2F%20gerarchia%20infografica)**
-
----
-
-### No. 109: Prompt di visualizzazione dell'attacco dell'Orda di Troll (giapponese)
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Un semplice prompt in giapponese che richiede la visualizzazione di un mondo attaccato da un'orda di troll, usando il nome comune "troll" piuttosto che un personaggio di fantasia specifico, dimostrando la capacità del modello di interpretare il contesto culturale.
-
-#### 📝 Prompt
-
-```
-Immaginate un mondo attaccato da un'orda di troll come nome comune.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035381458_rdleph_G8XdV6Aa4AgDrtN.jpg" width="600" alt="Prompt di visualizzazione dell'attacco dell'Orda di Troll (giapponese) - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [石の裏に潜む黒いヤツ](https://x.com/dangomushino)
-- **Fonte:** [Twitter Post](https://x.com/dangomushino/status/2001249286689013836)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Immaginate%20un%20mondo%20attaccato%20da%20un'orda%20di%20troll%20come%20nome%20comune.)**
-
----
-
-### No. 110: Prompt per la generazione realistica di Platybelodon
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt che sfida l'IA a generare una foto realistica di un Platybelodon, istruendo esplicitamente il modello ad assicurarsi che l'immagine generata sia un vero Platybelodon e non un elefante, testando l'aderenza a soggetti specifici e non standard.
-
-#### 📝 Prompt
-
-```
-genera una foto realistica di Platybelodon, prendi tutte le precauzioni necessarie affinché l'immagine generata non sia un elefante, ma un vero Platybelodon
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035387988_jbcqe8_G8XbuX2WIAYKnVy.jpg" width="600" alt="Prompt per la generazione realistica di Platybelodon - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Martin Machava](https://x.com/MartinMachava1)
-- **Fonte:** [Twitter Post](https://x.com/MartinMachava1/status/2001247387181047849)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=genera%20una%20foto%20realistica%20di%20Platybelodon%2C%20prendi%20tutte%20le%20precauzioni%20necessarie%20affinch%C3%A9%20l'immagine%20generata%20non%20sia%20un%20elefante%2C%20ma%20un%20vero%20Platybelodon)**
-
----
-
-### No. 111: Ritratto editoriale di abbigliamento Rugged Heritage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt altamente specifico per generare un ritratto editoriale "rugged" per una rivista di lifestyle outdoor. Dettaglia l'attrezzatura fotografica (Hasselblad 500CM, pellicola Kodak Portra 400), la composizione (primo piano medio stretto, soggetto centrato), l'ambientazione (rustica, legna da ardere accatastata, baita in legno), l'abbigliamento (giacca trapuntata da lavoro, denim scuro), l'illuminazione (morbida, suggestiva, nuvolosa) e l'estetica (Americana "rugged", abbigliamento da lavoro heritage).
-
-#### 📝 Prompt
-
-```
-Scattata con una Hasselblad 500CM di medio formato utilizzando pellicola Kodak Portra 400, garantendo dettagli estremi e una grana cinematografica. La composizione è un primo piano medio stretto, tagliato appena sotto il petto, con il soggetto centrato e che mantiene un contatto visivo diretto. Si tratta di un ritratto editoriale robusto per una rivista di lifestyle all'aperto incentrata sull'abbigliamento heritage resistente. Il modello maschile è seduto in basso, leggermente inclinato in avanti con le mani saldamente giunte in grembo, trasmettendo un senso di contemplazione radicata e resilienza. Indossa una giacca utility trapuntata con un motivo a quadri verde foresta scuro e senape sopra una semplice canottiera bianca, abbinata a pantaloni di denim scuro e pesante. L'ambientazione è rustica e materica, con una grande pila di legna da ardere spaccata e ordinatamente accatastata che funge da sfondo naturale e una ruota di carro di legno invecchiata montata sulla parete della baita dietro di lui. La scena è illuminata da una luce naturale morbida, suggestiva e nuvolosa, che enfatizza ombre profonde e toni ricchi e terrosi di marrone, ocra e verde intenso. L'estetica è ispirata alle campagne di rugged Americana e workwear heritage, catturando un senso di forza tranquilla e utilità senza tempo.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035336313_a0qvdc_G8XaXkLa4AYnvAX.jpg" width="600" alt="Ritratto editoriale di abbigliamento Rugged Heritage - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035336754_j7i7rz_G8XaXhxbAAA7eDs.jpg" width="600" alt="Ritratto editoriale di abbigliamento Rugged Heritage - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Harboris](https://x.com/Harboris_27)
-- **Fonte:** [Twitter Post](https://x.com/Harboris_27/status/2001245712974274859)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Scattata%20con%20una%20Hasselblad%20500CM%20di%20medio%20formato%20utilizzando%20pellicola%20Kodak%20Portra%20400%2C%20garantendo%20dettagli%20estremi%20e%20una%20grana%20cinematografica.%20La%20composizione%20%C3%A8%20un%20primo%20piano%20medio%20stretto%2C%20tagliato%20appena%20sotto%20il%20petto%2C%20con%20il%20soggetto%20centrato%20e%20che%20mantiene%20un%20contatto%20visivo%20diretto.%20Si%20tratta%20di%20un%20ritratto%20editoriale%20robusto%20per%20una%20rivista%20di%20lifestyle%20all'aperto%20incentrata%20sull'abbigliamento%20heritage%20resistente.%20Il%20modello%20maschile%20%C3%A8%20seduto%20in%20basso%2C%20leggermente%20inclinato%20in%20avanti%20con%20le%20mani%20saldamente%20giunte%20in%20grembo%2C%20trasmettendo%20un%20senso%20di%20contemplazione%20radicata%20e%20resilienza.%20Indossa%20una%20giacca%20utility%20trapuntata%20con%20un%20motivo%20a%20quadri%20verde%20foresta%20scuro%20e%20senape%20sopra%20una%20semplice%20canottiera%20bianca%2C%20abbinata%20a%20pantaloni%20di%20denim%20scuro%20e%20pesante.%20L'ambientazione%20%C3%A8%20rustica%20e%20materica%2C%20con%20una%20grande%20pila%20di%20legna%20da%20ardere%20spaccata%20e%20ordinatamente%20accatastata%20che%20funge%20da%20sfondo%20naturale%20e%20una%20ruota%20di%20carro%20di%20legno%20invecchiata%20montata%20sulla%20parete%20della%20baita%20dietro%20di%20lui.%20La%20scena%20%C3%A8%20illuminata%20da%20una%20luce%20naturale%20morbida%2C%20suggestiva%20e%20nuvolosa%2C%20che%20enfatizza%20ombre%20profonde%20e%20toni%20ricchi%20e%20terrosi%20di%20marrone%2C%20ocra%20e%20verde%20intenso.%20L'estetica%20%C3%A8%20ispirata%20alle%20campagne%20di%20rugged%20Americana%20e%20workwear%20heritage%2C%20catturando%20un%20senso%20di%20forza%20tranquilla%20e%20utilit%C3%A0%20senza%20tempo.)**
-
----
-
-### No. 112: Prompt dettagliato per ritratto di falconeria per GPT Image 1.5
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt altamente strutturato e dettagliato, progettato per GPT Image 1.5, per generare un ritratto cinematografico ultra-realistico di un falconiere con un falco pellegrino su una scogliera costiera nebbiosa, concentrandosi in modo significativo su dettagli specifici di abbigliamento, illuminazione e tecniche di ripresa per ottenere un capolavoro di texture.
-
-#### 📝 Prompt
-
-```
-{
-  "subject_core": {
-    "image_reference": "immagine caricata",
-    "facial_features": "Occhi nocciola intensi, fronte corrucciata, naso affilato, carnagione segnata dalle intemperie",
-    "hair": "Capelli castano scuro brizzolati, scompigliati dal vento, leggermente umidi per la nebbia"
-  },
-  "subject_styling": {
-    "makeup_grooming": "Look naturale e robusto, senza trucco, la pelle presenta un leggero luccichio dovuto all'umidità/nebbia",
-    "expression": "Intensità silenziosa, labbra serrate in segno di concentrazione, occhi fissi negli occhi dell'uccello",
-    "pose_action": "In piedi di profilo rispetto alla fotocamera, braccio sinistro piegato a 90 gradi che regge un pesante guanto di pelle; un maestoso Falco Pellegrino è appollaiato sul guanto, con la testa leggermente girata verso la fotocamera"
-  },
-  "wardrobe": {
-    "top": "Giacca da campo vintage in tela cerata (verde oliva) con bottoni automatici in ottone, indossata sopra un maglione di lana grosso (color avena)",
-    "bottom": "Jeans scuri in denim grezzo",
-    "footwear": "Scarponi da trekking in pelle infangati",
-    "accessories": "Spesso guanto da falconeria in pelle marrone invecchiata sulla mano sinistra, fede nuziale d'argento"
-  },
-  "environment_context": {
-    "location": "Bordo di una scogliera costiera nebbiosa (che ricorda le Highlands scozzesi o il Pacifico nord-occidentale)",
-    "background_elements": "Formazioni rocciose frastagliate e sfocate, oceano grigio che si agita molto più in basso, nuvole basse/nebbia che oscurano l'orizzonte, erica e muschio in primo piano",
-    "time_context": "Prime ore del mattino, 'ora blu', cielo coperto e lunatico, leggera pioggerella visibile nell'aria"
-  },
-  "cinematography_and_tech": {
-    "lighting": "Luce naturale morbida e diffusa (effetto softbox gigante dalle nuvole), toni freddi, leggera luce di contorno sulla giacca bagnata e sulle piume dell'uccello",
-    "camera_gear": "Canon EOS R5, obiettivo Macro 100mm f/2.8L (per dettagli estremi)",
-    "framing": "Inquadratura media, regola dei terzi, messa a fuoco critica sulla testa del Falco Pellegrino e sulla mano dell'uomo",
-    "visual_fidelity": "Capolavoro di texture: dettagli specifici sul 'casco' nero e sulla striscia malare del Pellegrino, ali blu ardesia/grigie, petto bianco barrato e anello oculare e artigli giallo vibrante. Gocce di pioggia visibili sulla giacca cerata.",
-    "color_grading": "Verdi e marroni desaturati, contrasto incisivo nelle marcature dell'uccello (nero/bianco/giallo), ombre cinematiche verde acqua/grigie"
-  },
-  "aspect_ratio": "4:5"
-}
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035377978_4f1qtc_G8XXSLcbsAAKQ1Y.jpg" width="600" alt="Prompt dettagliato per ritratto di falconeria per GPT Image 1.5 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035377893_hxdpde_G8XXRH2aYAAj7Pp.jpg" width="600" alt="Prompt dettagliato per ritratto di falconeria per GPT Image 1.5 - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [AshutoshShrivastava](https://x.com/ai_for_success)
-- **Fonte:** [Twitter Post](https://x.com/ai_for_success/status/2001244525696836052)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%7B%0A%20%20%22subject_core%22%3A%20%7B%0A%20%20%20%20%22image_reference%22%3A%20%22immagine%20caricata%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22Occhi%20nocciola%20intensi%2C%20fronte%20corrucciata%2C%20naso%20affilato%2C%20carnagione%20segnata%20dalle%20intemperie%22%2C%0A%20%20%20%20%22hair%22%3A%20%22Capelli%20castano%20scuro%20brizzolati%2C%20scompigliati%20dal%20vento%2C%20leggermente%20umidi%20per%20la%20nebbia%22%0A%20%20%7D%2C%0A%20%20%22subject_styling%22%3A%20%7B%0A%20%20%20%20%22makeup_grooming%22%3A%20%22Look%20naturale%20e%20robusto%2C%20senza%20trucco%2C%20la%20pelle%20presenta%20un%20leggero%20luccichio%20dovuto%20all'umidit%C3%A0%2Fnebbia%22%2C%0A%20%20%20%20%22expression%22%3A%20%22Intensit%C3%A0%20silenziosa%2C%20labbra%20serrate%20in%20segno%20di%20concentrazione%2C%20occhi%20fissi%20negli%20occhi%20dell'uccello%22%2C%0A%20%20%20%20%22pose_action%22%3A%20%22In%20piedi%20di%20profilo%20rispetto%20alla%20fotocamera%2C%20braccio%20sinistro%20piegato%20a%2090%20gradi%20che%20regge%20un%20pesante%20guanto%20di%20pelle%3B%20un%20maestoso%20Falco%20Pellegrino%20%C3%A8%20appollaiato%20sul%20guanto%2C%20con%20la%20testa%20leggermente%20girata%20verso%20la%20fotocamera%22%0A%20%20%7D%2C%0A%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%22top%22%3A%20%22Giacca%20da%20campo%20vintage%20in%20tela%20cerata%20(verde%20oliva)%20con%20bottoni%20automatici%20in%20ottone%2C%20indossata%20sopra%20un%20maglione%20di%20lana%20grosso%20(color%20avena)%22%2C%0A%20%20%20%20%22bottom%22%3A%20%22Jeans%20scuri%20in%20denim%20grezzo%22%2C%0A%20%20%20%20%22footwear%22%3A%20%22Scarponi%20da%20trekking%20in%20pelle%20infangati%22%2C%0A%20%20%20%20%22accessories%22%3A%20%22Spesso%20guanto%20da%20falconeria%20in%20pelle%20marrone%20invecchiata%20sulla%20mano%20sinistra%2C%20fede%20nuziale%20d'argento%22%0A%20%20%7D%2C%0A%20%20%22environment_context%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22Bordo%20di%20una%20scogliera%20costiera%20nebbiosa%20(che%20ricorda%20le%20Highlands%20scozzesi%20o%20il%20Pacifico%20nord-occidentale)%22%2C%0A%20%20%20%20%22background_elements%22%3A%20%22Formazioni%20rocciose%20frastagliate%20e%20sfocate%2C%20oceano%20grigio%20che%20si%20agita%20molto%20pi%C3%B9%20in%20basso%2C%20nuvole%20basse%2Fnebbia%20che%20oscurano%20l'orizzonte%2C%20erica%20e%20muschio%20in%20primo%20piano%22%2C%0A%20%20%20%20%22time_context%22%3A%20%22Prime%20ore%20del%20mattino%2C%20'ora%20blu'%2C%20cielo%20coperto%20e%20lunatico%2C%20leggera%20pioggerella%20visibile%20nell'aria%22%0A%20%20%7D%2C%0A%20%20%22cinematography_and_tech%22%3A%20%7B%0A%20%20%20%20%22lighting%22%3A%20%22Luce%20naturale%20morbida%20e%20diffusa%20(effetto%20softbox%20gigante%20dalle%20nuvole)%2C%20toni%20freddi%2C%20leggera%20luce%20di%20contorno%20sulla%20giacca%20bagnata%20e%20sulle%20piume%20dell'uccello%22%2C%0A%20%20%20%20%22camera_gear%22%3A%20%22Canon%20EOS%20R5%2C%20obiettivo%20Macro%20100mm%20f%2F2.8L%20(per%20dettagli%20estremi)%22%2C%0A%20%20%20%20%22framing%22%3A%20%22Inquadratura%20media%2C%20regola%20dei%20terzi%2C%20messa%20a%20fuoco%20critica%20sulla%20testa%20del%20Falco%20Pellegrino%20e%20sulla%20mano%20dell'uomo%22%2C%0A%20%20%20%20%22visual_fidelity%22%3A%20%22Capolavoro%20di%20texture%3A%20dettagli%20specifici%20sul%20'casco'%20nero%20e%20sulla%20striscia%20malare%20del%20Pellegrino%2C%20ali%20blu%20ardesia%2Fgrigie%2C%20petto%20bianco%20barrato%20e%20anello%20oculare%20e%20artigli%20giallo%20vibrante.%20Gocce%20di%20pioggia%20visibili%20sulla%20giacca%20cerata.%22%2C%0A%20%20%20%20%22color_grading%22%3A%20%22Verdi%20e%20marroni%20desaturati%2C%20contrasto%20incisivo%20nelle%20marcature%20dell'uccello%20(nero%2Fbianco%2Fgiallo)%2C%20ombre%20cinematiche%20verde%20acqua%2Fgrigie%22%0A%20%20%7D%2C%0A%20%20%22aspect_ratio%22%3A%20%224%3A5%22%0A%7D)**
-
----
-
-### No. 113: Generazione di immagini di moda ed estetica con GPT Image 1.5
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Questo è un prompt utilizzato per testare l'espressione della moda e la qualità estetica di GPT Image 1.5, che si traduce in un'immagine bella e di alta qualità.
-
-#### 📝 Prompt
-
-```
-Un uomo che indossa una camicia bianca, pantaloni neri eleganti e scarpe di pelle nere, in una {argument name="background" default="scena di strada parigina"}, con {argument name="lighting" default="luce solare intensa"}, in uno stile da {argument name="style" default="fotografia di moda"}.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035387728_svzcki_G8XQzoba4AQbyCg.jpg" width="600" alt="Generazione di immagini di moda ed estetica con GPT Image 1.5 - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
-- **Fonte:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/2001235855298736538)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** zh
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Un%20uomo%20che%20indossa%20una%20camicia%20bianca%2C%20pantaloni%20neri%20eleganti%20e%20scarpe%20di%20pelle%20nere%2C%20in%20una%20%7Bargument%20name%3D%22background%22%20default%3D%22scena%20di%20strada%20parigina%22%7D%2C%20con%20%7Bargument%20name%3D%22lighting%22%20default%3D%22luce%20solare%20intensa%22%7D%2C%20in%20uno%20stile%20da%20%7Bargument%20name%3D%22style%22%20default%3D%22fotografia%20di%20moda%22%7D.)**
-
----
-
-### No. 114: Generare immagini per le giornate commemorative giapponesi
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-L'utente ha generato immagini per diverse giornate commemorative giapponesi (Airplane Day, Meiji Bulgaria Yogurt Day, Wachifield Day, Kasuga Wakamiya On-Matsuri, Asakusa Hagoita-Ichi) utilizzando il nuovo modello GPT Images 1.5, notando il cambiamento nello stile artistico rispetto a GPT-4o.
-
-#### 📝 Prompt
-
-```
-Giornata dell'aeroplano, Giornata dello yogurt Meiji Bulgaria, Giornata di Wachifield, Kasuga Wakamiya On-Matsuri, Asakusa Hagoita-Ichi
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035406654_krztay_G8XLwRjaoAAjGt4.jpg" width="600" alt="Generare immagini per le giornate commemorative giapponesi - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Ab.](https://x.com/Ab_ten)
-- **Fonte:** [Twitter Post](https://x.com/Ab_ten/status/2001230253084041523)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Giornata%20dell'aeroplano%2C%20Giornata%20dello%20yogurt%20Meiji%20Bulgaria%2C%20Giornata%20di%20Wachifield%2C%20Kasuga%20Wakamiya%20On-Matsuri%2C%20Asakusa%20Hagoita-Ichi)**
-
----
-
-### No. 115: Prompt di modifica immagine per mascella, occhiali e forma della testa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un utente descrive un prompt di modifica delle immagini utilizzato con GPT Image 1.5 per modificare un'area contrassegnata nella prima immagine, richiedendo specificamente modifiche alla mascella, l'aggiunta di occhiali e la correzione della forma della testa.
-
-#### 📝 Prompt
-
-```
-quello che ho segnato con la linea rossa: crea una mascella così, aggiungi gli occhiali, sistema la forma della testa
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035356828_qyy5w8_G8XKsHPbAAAnDDD.jpg" width="600" alt="Prompt di modifica immagine per mascella, occhiali e forma della testa - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035356920_ilvx1f_G8XKsHUa4AQuqod.jpg" width="600" alt="Prompt di modifica immagine per mascella, occhiali e forma della testa - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035356799_o3qim6_G8XKsHNagAAVRSV.jpg" width="600" alt="Prompt di modifica immagine per mascella, occhiali e forma della testa - Image 3">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [genue](https://x.com/genue)
-- **Fonte:** [Twitter Post](https://x.com/genue/status/2001228503279075813)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=quello%20che%20ho%20segnato%20con%20la%20linea%20rossa%3A%20crea%20una%20mascella%20cos%C3%AC%2C%20aggiungi%20gli%20occhiali%2C%20sistema%20la%20forma%20della%20testa)**
-
----
-
-### No. 116: Prompt dettagliato per il restauro di vecchie foto usando GPT Image 1.5
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descrizione
-
-Un prompt JSON altamente dettagliato e strutturato, progettato per il restauro di ritratti da vecchie foto, che confronta i risultati tra Nano Banana Pro e GPT Image 1.5. Il prompt si concentra sul mantenimento della fedeltà dell'identità, sul miglioramento di dettagli specifici come occhi e texture della pelle, e sul controllo dell'illuminazione e della qualità dell'immagine per un risultato ultra-realistico e cinematografico.
-
-#### 📝 Prompt
-
-```
-{
-  "task": "portrait_restoration",
-  "language": "it-IT",
-  "prompt": {
-    "subject": {
-      "type": "human_portrait",
-      "identity_fidelity": "match_uploaded_face_100_percent",
-      "no_facial_modification": true,
-      "expression": "natural",
-      "eye_detail": "sharp_clear",
-      "skin_texture": "ultra_realistic",
-      "hair_detail": "natural_individual_strands",
-      "fabric_detail": "rich_high_frequency_detail"
-    },
-    "lighting": {
-      "exposure": "bright_clear",
-      "style": "soft_studio_light",
-      "brightness_balance": "even",
-      "specular_highlights": "natural_on_face_and_eyes",
-      "shadow_transition": "smooth_gradual"
-    },
-    "image_quality": {
-      "resolution": "8k",
-      "clarity": "high",
-      "noise": "clean_low",
-      "artifacts": "none",
-      "over_smoothing": "none"
-    },
-    "optics": {
-      "camera_style": "full_frame_dslr",
-      "lens": "85mm",
-      "aperture": "f/1.8",
-      "depth_of_field": "soft_shallow",
-      "bokeh": "smooth_natural"
-    },
-    "background": {
-      "style": "clean_elegant",
-      "distraction_free": true,
-      "tone": "neutral"
-    },
-    "color_grading": {
-      "style": "cinematic",
-      "saturation": "rich_but_natural",
-      "white_balance": "accurate",
-      "skin_tone": "natural_true_to_subject"
-    },
-    "style_constraints": {
-      "no_cartoon": true,
-      "no_beauty_filter": true,
-      "no_plastic_skin": true,
-      "no_face_reshaping": true,
-      "no_ai_face_swap": true
-    }
-  },
-  "negative_prompt": [
-    "cartoon",
-    "anime",
-    "cgi",
-    "painterly",
-    "plastic skin",
-    "over-smoothing",
-    "over-sharpening halos",
-    "heavy skin retouching",
-    "face reshaping",
-    "identity drift",
-    "face swap",
-    "beauty filter",
-    "uncanny",
-    "washed out",
-    "color cast",
-    "blown highlights",
-    "crushed shadows",
-    "banding",
-    "jpeg artifacts",
-    "extra fingers",
-    "deformed eyes",
-    "asymmetrical face",
-    "warped features"
-  ],
-  "parameters": {
-    "fidelity_priority": "identity",
-    "detail_priority": "eyes_skin_hair_fabric",
-    "realism_strength": 0.95,
-    "sharpening": "micro_contrast_only",
-    "skin_retention": "keep_pores_and_microtexture",
-    "recommended_denoise": "low_to_medium"
-  }
-}
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035396400_yo5rxy_G8WPu6sa4AMLVPj.jpg" width="600" alt="Prompt dettagliato per il restauro di vecchie foto usando GPT Image 1.5 - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [铁锤人](https://x.com/lxfater)
-- **Fonte:** [Twitter Post](https://x.com/lxfater/status/2001228375344734521)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** zh
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=%7B%0A%20%20%22task%22%3A%20%22portrait_restoration%22%2C%0A%20%20%22language%22%3A%20%22it-IT%22%2C%0A%20%20%22prompt%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22human_portrait%22%2C%0A%20%20%20%20%20%20%22identity_fidelity%22%3A%20%22match_uploaded_face_100_percent%22%2C%0A%20%20%20%20%20%20%22no_facial_modification%22%3A%20true%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22natural%22%2C%0A%20%20%20%20%20%20%22eye_detail%22%3A%20%22sharp_clear%22%2C%0A%20%20%20%20%20%20%22skin_texture%22%3A%20%22ultra_realistic%22%2C%0A%20%20%20%20%20%20%22hair_detail%22%3A%20%22natural_individual_strands%22%2C%0A%20%20%20%20%20%20%22fabric_detail%22%3A%20%22rich_high_frequency_detail%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%22exposure%22%3A%20%22bright_clear%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22soft_studio_light%22%2C%0A%20%20%20%20%20%20%22brightness_balance%22%3A%20%22even%22%2C%0A%20%20%20%20%20%20%22specular_highlights%22%3A%20%22natural_on_face_and_eyes%22%2C%0A%20%20%20%20%20%20%22shadow_transition%22%3A%20%22smooth_gradual%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22image_quality%22%3A%20%7B%0A%20%20%20%20%20%20%22resolution%22%3A%20%228k%22%2C%0A%20%20%20%20%20%20%22clarity%22%3A%20%22high%22%2C%0A%20%20%20%20%20%20%22noise%22%3A%20%22clean_low%22%2C%0A%20%20%20%20%20%20%22artifacts%22%3A%20%22none%22%2C%0A%20%20%20%20%20%20%22over_smoothing%22%3A%20%22none%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22optics%22%3A%20%7B%0A%20%20%20%20%20%20%22camera_style%22%3A%20%22full_frame_dslr%22%2C%0A%20%20%20%20%20%20%22lens%22%3A%20%2285mm%22%2C%0A%20%20%20%20%20%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%20%20%20%20%20%20%22depth_of_field%22%3A%20%22soft_shallow%22%2C%0A%20%20%20%20%20%20%22bokeh%22%3A%20%22smooth_natural%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22clean_elegant%22%2C%0A%20%20%20%20%20%20%22distraction_free%22%3A%20true%2C%0A%20%20%20%20%20%20%22tone%22%3A%20%22neutral%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grading%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22cinematic%22%2C%0A%20%20%20%20%20%20%22saturation%22%3A%20%22rich_but_natural%22%2C%0A%20%20%20%20%20%20%22white_balance%22%3A%20%22accurate%22%2C%0A%20%20%20%20%20%20%22skin_tone%22%3A%20%22natural_true_to_subject%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22style_constraints%22%3A%20%7B%0A%20%20%20%20%20%20%22no_cartoon%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_beauty_filter%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_plastic_skin%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_face_reshaping%22%3A%20true%2C%0A%20%20%20%20%20%20%22no_ai_face_swap%22%3A%20true%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%5B%0A%20%20%20%20%22cartoon%22%2C%0A%20%20%20%20%22anime%22%2C%0A%20%20%20%20%22cgi%22%2C%0A%20%20%20%20%22painterly%22%2C%0A%20%20%20%20%22plastic%20skin%22%2C%0A%20%20%20%20%22over-smoothing%22%2C%0A%20%20%20%20%22over-sharpening%20halos%22%2C%0A%20%20%20%20%22heavy%20skin%20retouching%22%2C%0A%20%20%20%20%22face%20reshaping%22%2C%0A%20%20%20%20%22identity%20drift%22%2C%0A%20%20%20%20%22face%20swap%22%2C%0A%20%20%20%20%22beauty%20filter%22%2C%0A%20%20%20%20%22uncanny%22%2C%0A%20%20%20%20%22washed%20out%22%2C%0A%20%20%20%20%22color%20cast%22%2C%0A%20%20%20%20%22blown%20highlights%22%2C%0A%20%20%20%20%22crushed%20shadows%22%2C%0A%20%20%20%20%22banding%22%2C%0A%20%20%20%20%22jpeg%20artifacts%22%2C%0A%20%20%20%20%22extra%20fingers%22%2C%0A%20%20%20%20%22deformed%20eyes%22%2C%0A%20%20%20%20%22asymmetrical%20face%22%2C%0A%20%20%20%20%22warped%20features%22%0A%20%20%5D%2C%0A%20%20%22parameters%22%3A%20%7B%0A%20%20%20%20%22fidelity_priority%22%3A%20%22identity%22%2C%0A%20%20%20%20%22detail_priority%22%3A%20%22eyes_skin_hair_fabric%22%2C%0A%20%20%20%20%22realism_strength%22%3A%200.95%2C%0A%20%20%20%20%22sharpening%22%3A%20%22micro_contrast_only%22%2C%0A%20%20%20%20%22skin_retention%22%3A%20%22keep_pores_and_microtexture%22%2C%0A%20%20%20%20%22recommended_denoise%22%3A%20%22low_to_medium%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 117: Poster di prompt per configurazioni di illuminazione fotografica
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt che richiede la generazione di un poster visivo che elenchi e illustri le principali configurazioni di illuminazione utilizzate in fotografia, dimostrando la capacità del modello di gestire richieste informative e concettuali.
-
-#### 📝 Prompt
-
-```
-Crea un poster che elenchi le principali configurazioni di illuminazione utilizzate in fotografia con esempi
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035381882_nhusdm_G8W_nCLWYAIonyG.jpg" width="600" alt="Poster di prompt per configurazioni di illuminazione fotografica - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
-- **Fonte:** [Twitter Post](https://x.com/CharaspowerAI/status/2001216434236473349)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Crea%20un%20poster%20che%20elenchi%20le%20principali%20configurazioni%20di%20illuminazione%20utilizzate%20in%20fotografia%20con%20esempi)**
-
----
-
-### No. 118: Scena 3D in miniatura isometrica a cartone animato di New York
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt per immagini complesso, progettato per creare una scena di cartone animato 3D in miniatura isometrica di New York City, con visuale dall'alto a 45 gradi, che incorpora condizioni meteorologiche specifiche (Sereno, -2°C) e l'ora del giorno (Notte fonda, 3:45 AM) per stabilire un'atmosfera immersiva.
-
-#### 📝 Prompt
-
-```
-Presenta una scena isometrica 3D in miniatura a cartone animato di New York, USA, con vista dall'alto a 45°... Integra queste condizioni meteorologiche: Sereno (cielo limpido), -2°C, e questo momento specifico della giornata: Notte fonda (3:45 AM) direttamente nell'ambiente urbano per creare un'atmosfera suggestiva e coinvolgente.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035311845_f2cipw_G8W9wiPXgAAd6-8.jpg" width="600" alt="Scena 3D in miniatura isometrica a cartone animato di New York - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035312192_plxw3z_G8W9qt7WwAIZ-as.jpg" width="600" alt="Scena 3D in miniatura isometrica a cartone animato di New York - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Adrien Dulong](https://x.com/adulong)
-- **Fonte:** [Twitter Post](https://x.com/adulong/status/2001214671701807569)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Presenta%20una%20scena%20isometrica%203D%20in%20miniatura%20a%20cartone%20animato%20di%20New%20York%2C%20USA%2C%20con%20vista%20dall'alto%20a%2045%C2%B0...%20Integra%20queste%20condizioni%20meteorologiche%3A%20Sereno%20(cielo%20limpido)%2C%20-2%C2%B0C%2C%20e%20questo%20momento%20specifico%20della%20giornata%3A%20Notte%20fonda%20(3%3A45%20AM)%20direttamente%20nell'ambiente%20urbano%20per%20creare%20un'atmosfera%20suggestiva%20e%20coinvolgente.)**
-
----
-
-### No. 119: Yoruba Man con cicatrici tribali "Pele" Stress Test Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt altamente specifico, concepito come stress test per i modelli di IA di immagini, che richiede un ritratto iperrealistico di un uomo Oyo Yoruba con cicatrici tribali "Pele" (tre distinte cicatrici verticali su ogni guancia). Sottolinea la necessità di una chiara rappresentazione delle cicatrici cheloidi guarite e proibisce esplicitamente i segni orizzontali, testando la conoscenza del modello sulla scarificazione facciale culturale e geometrica specifica.
-
-#### 📝 Prompt
-
-```
-Ritratto iperrealistico di un uomo Oyo Yoruba con segni tribali "Pele" (tre cicatrici verticali distinte su ogni guancia). La texture della pelle dovrebbe mostrare chiaramente la cicatrice cheloide guarita. Nessun segno orizzontale.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035350874_d1ht4m_G8W9iX9WUAk5dmL.jpg" width="600" alt="Yoruba Man con cicatrici tribali "Pele" Stress Test Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035350878_hbosjv_G8W9t1gXoAYDQ3N.jpg" width="600" alt="Yoruba Man con cicatrici tribali "Pele" Stress Test Prompt - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [M!ke](https://x.com/quipsy)
-- **Fonte:** [Twitter Post](https://x.com/quipsy/status/2001214614302851205)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Ritratto%20iperrealistico%20di%20un%20uomo%20Oyo%20Yoruba%20con%20segni%20tribali%20%22Pele%22%20(tre%20cicatrici%20verticali%20distinte%20su%20ogni%20guancia).%20La%20texture%20della%20pelle%20dovrebbe%20mostrare%20chiaramente%20la%20cicatrice%20cheloide%20guarita.%20Nessun%20segno%20orizzontale.)**
-
----
-
-### No. 120: Prompt di modifica immagine per la regolazione di mani e piedi
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Un prompt utilizzato per l'editing conversazionale di immagini all'interno di GPT Image 1.5, che istruisce il modello a perfezionare specifiche parti del corpo in un'immagine esistente. L'utente chiede la correzione della mano sinistra e un posizionamento più elegante del piede sinistro.
-
-#### 📝 Prompt
-
-```
-Correggi la mano sinistra e ridisegna il piede sinistro, regolandolo in una posizione leggermente più elegante.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035420433_jlboy9_G8W71IhbMAAtnDe.jpg" width="600" alt="Prompt di modifica immagine per la regolazione di mani e piedi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1766035420355_ywq0sc_G8W71_Rb0AAn5h5.jpg" width="600" alt="Prompt di modifica immagine per la regolazione di mani e piedi - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [hayabunbun](https://x.com/hayabunbun_1)
-- **Fonte:** [Twitter Post](https://x.com/hayabunbun_1/status/2001213261572923651)
-- **Pubblicato:** 17 dicembre 2025
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-1-5?prompt=Correggi%20la%20mano%20sinistra%20e%20ridisegna%20il%20piede%20sinistro%2C%20regolandolo%20in%20una%20posizione%20leggermente%20pi%C3%B9%20elegante.)**
-
----
-
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 119 altri prompt non mostrati qui
+### 🎯 138 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5430,6 +5454,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-22T04:32:03.360Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-22T08:16:42.486Z</sub>
 
 </div>
