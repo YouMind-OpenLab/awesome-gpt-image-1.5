@@ -88,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **261** |
 | ⭐ 추천 | **3** |
-| 🔄 마지막 업데이트 | **2026년 1월 8일 목요일 오전 12시 48분 25초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 1월 8일 목요일 오전 4시 29분 53초 UTC** |
 
 </div>
 
@@ -5453,6 +5453,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-01-08T00:48:26.012Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-01-08T04:29:53.956Z</sub>
 
 </div>
