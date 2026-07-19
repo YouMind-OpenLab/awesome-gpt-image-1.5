@@ -88,7 +88,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **261** |
 | ⭐ In evidenza | **3** |
-| 🔄 Ultimo aggiornamento | **domenica 19 luglio 2026 alle ore 16:40:49 UTC** |
+| 🔄 Ultimo aggiornamento | **domenica 19 luglio 2026 alle ore 20:35:16 UTC** |
 
 </div>
 
@@ -5454,6 +5454,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-19T16:40:49.232Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-19T20:35:16.057Z</sub>
 
 </div>
