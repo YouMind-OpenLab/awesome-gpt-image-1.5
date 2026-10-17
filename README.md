@@ -9,6 +9,7 @@
 > 🎨 A curated collection of creative prompts for OpenAI's GPT Image 1.5
 
 > 💡 **Note**: If you're interested in Nano Banana Pro prompts, feel free to check out our other repository: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
+> 🔗 **GPT Image 2 official site**: https://gptimage2.asia/ — the latest GPT Image workflow and editor for marketing visuals, ecommerce, social media, and branded content.
 
 > ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=bug-report.yml) and we will remove it promptly.
 
