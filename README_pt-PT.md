@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **261** |
 | ⭐ Destaque | **3** |
-| 🔄 Última atualização | **terça-feira, 27 de outubro de 2026 às 16:55:16 UTC** |
+| 🔄 Última atualização | **terça-feira, 27 de outubro de 2026 às 23:16:36 UTC** |
 
 </div>
 
@@ -5455,6 +5455,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-27T16:55:16.877Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-27T23:16:36.452Z</sub>
 
 </div>
